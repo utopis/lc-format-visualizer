@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: High (multiple live long-runners; retention caveat) · hype risk: Medium · cost $150-600 per finished ad (AI video + edit) or a real-actor shoot · 1-3 days
 
 ## What it is
@@ -107,6 +108,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - Koriderm (skincare) is running mini-movie drama ads; recipe: never show the product in the first 3 s, build the story around the problem, make it worse, then reveal (90-second prompt included) ([@ViralOps_](https://x.com/ViralOps_/status/2108255353016406383)).
 - Hook rule: the problem causes an immediate failure at the worst possible moment when something personal is at stake ([@zedmadeit](https://x.com/zedmadeit/status/2102176819709673703)). Shorter cousins now have their own files: F105 (25-60 s revenge drama) and F106 (cliffhanger cut).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- PopDrama 02: Long-form short-drama episode ad (PopDrama, 19:41), 406 days live (Drama Brand Names board). Fedotoff: drama is "best TOFU format along with VSLs… average watch time is through the roof".
+- Olivia Ramirez: English soap-style drama ad (Olivia Ramirez, 4:40), 277 days live (Drama Brand Names board). Live-action English soap at 4-5 min, run from a persona page.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

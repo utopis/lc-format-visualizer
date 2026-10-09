@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (operator: top spender across accounts) · hype risk: Low · cost $0-150 · 1-2 h
 
 ## What it is
@@ -105,6 +108,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - Symmetry (AI body-scan gym app): 150K downloads/month and ~$25K MRR from one slideshow format, no ads: slide 1 "Top 5 gym apps (worst to best)", slides 2-5 four other apps with their problems, slide 6 a 10/10 for Symmetry with features ([@adamtwtz](https://x.com/adamtwtz/status/2097925109155549689)).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- FurryWell Philippines: Report-card rating static (FurryWell "A+ / 9.7"), 188 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). A report-card UI makes a claim look like a third-party rating.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

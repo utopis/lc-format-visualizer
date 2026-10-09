@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium (framework, multi-source) · hype risk: Low · cost $0-150 · 1 h
 
 ## What it is
@@ -94,6 +97,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [34-callout-statics-signs-myths-warnings](../34-callout-statics-signs-myths-warnings/README.md), [14-in-car-yapper-confession](../14-in-car-yapper-confession/README.md), [11-before-after-transformation](../11-before-after-transformation/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Deborah Hayes: "Spa treatments for belly fat don't work" two-layer explainer, 286 days live (AI & CGI Ads That Actually Convert board). A "what you tried doesn't work, here's the layer it misses" reframe, the same skeleton as F108's "3 layers".
+- BioRoot Labs: "Relief like ibuprofen without the stomach pain" ingredient static, 179 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). "Like X without the side effect": the known drug as an anchor, the side effect as the enemy.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -25,6 +25,9 @@ related_strategies: [31-founder-daily-posting-product-as-ad, 34-persona-archetyp
 
 
 
+
+
+
 ## Looks like
 Two people at podcast mics, warm studio, captions; clip starts mid-conversation with a strong opinion; host asks the question the viewer has; guest explains; product mentioned naturally. "They're not trying to make a podcast ad feel like an ad" ([@tryatria_AI](https://x.com/tryatria_AI/status/2097763972325745046)). "Best format for anything that needs explaining" ([@CEO_Vlad](https://x.com/CEO_Vlad/status/2096569603761827953)).
 
@@ -50,6 +53,15 @@ Real: rent a podcast studio 2h → 15 clips. Metric: hold, CPA, Omni. Founder fa
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - One TikTok account posting podcast-style talking-head clips (1M-10M views each) feeds several apps at once; one journaling app got 40K downloads from it ([@sixugc](https://x.com/sixugc/status/2088316130070790246)). Distribution play: rent placements in an existing clip account instead of building your own.
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Cellular Performance Institute: Celebrity-style podcast set clip (stem cells), 731 days live (Podcast-Style Ads board). The podcast set means "this is a conversation, not an ad".
+- Pure Rhythm: "Content may go offline" podcast clip (weight loss), 326 days live (Podcast-Style Ads board). It uses suppression and urgency framing ("may go offline").
+- Pure Rhythm: Tough-love podcast rant ("women over 40 who still don't know this"), 324 days live (Podcast-Style Ads board). Tough-love anger reads as honest (as in Fedotoff's reflux case), and a symptom list gives the viewer self-recognition.
+- Dr. Lisa Downing: "Men's health researcher" podcast (prostate DHT), 267 days live (Podcast-Style Ads board). A persona "researcher" plus one mechanism (DHT) plus one dose number; the page runs 1,357 ads across personas.
+- Pure Rhythm: Menopause reframe podcast (hair / energy), 326 days live (Podcast-Style Ads board). Identity and defiance ("not going to waste away") for women 50+.
+- BioRoot Labs: Podcast-plus-doctor stitched explainer (turmeric), 345 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). It mixes podcast credibility with doctor stitches; 32 media variations of one idea.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

@@ -25,6 +25,9 @@ related_strategies: [41-von-restorff-static-copy-prompt, 32-drama-show-ads-hidde
 
 
 
+
+
+
 ## What it looks like
 White background, huge condensed black headline that is a story line, 3 short lines of body continuing the story with a twist, product pack-shot bottom right, brand + 2-line benefit + "SHOP NOW →". Example: "MY SISTER SLEPT WITH MY HUSBAND. / Eight months later, she's the one everyone calls beautiful at family dinners. / Because she drains parasites. / And I didn't even know I had them." ([@tryatria_AI](https://x.com/tryatria_AI/status/2105745816828940336)).
 
@@ -52,6 +55,15 @@ C. "MY EX KEPT THE RING. / I kept the glow. / Waterproof stacks from $[lowest li
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
 - Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop'), 258 days live. A blunt first-person result headline + 3 benefit labels is readable in one glance.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Pure Rhythm: "Content may go offline" podcast clip (weight loss), 326 days live (Podcast-Style Ads board). It uses suppression and urgency framing ("may go offline").
+- BioRoot Labs: "We don't trick you into taking turmeric" retention-claim static, 481 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). It sells the subscription with a retention claim instead of a discount.
+- Dr Ruth White: Persona-page "this woman found relief" static (Dr Ruth White), 416 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). Third-person news framing on a persona page; it replaces a drug habit (ibuprofen).
+- Penrose Skin: "I stopped buying $400 colognes" price-anchor demo, 89 days live (Penrose Skin: 100 Longest-Running 4-5 Star Ads board). A clear price-anchor switch story in 15 s.
+- Shopmenvault: "BUY 2, GET 2 FREE – We won't do this again" offer static, 251 days live (Winning Men's Health / Testosterone Ads board). A big bundle plus a one-time claim plus a niche trust line.
+- Wellness Way UK: "Regain your confidence, without pills" device static (Wellness Way UK), 252 days live (Winning Men's Health / Testosterone Ads board). A pill-free promise plus a time-bound result.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

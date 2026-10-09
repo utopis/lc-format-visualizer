@@ -175,6 +175,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Do not use AI-generated elders or fake ages. AI personas presented as real people are deceptive (FTC), and Rosabella faces a lawsuit over AI "doctors" and authority figures (404 Media). - No "ancient ethnic secret" framing.
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).

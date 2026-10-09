@@ -143,7 +143,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Only use pins you own or have permission for; credit the original when it's a follower's pin. - AI-generated recreations must be labelled and must match the real product exactly. - Don't imply a celebrity wore LC.
+**Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Only use pins you own or have permission for; credit the original when it's a follower's pin. - AI-generated recreations must be labelled and must match the real product exactly. - Don't imply a celebrity wore LC.
 
 ## More examples
 

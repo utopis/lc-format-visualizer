@@ -1,0 +1,57 @@
+{
+ "id": "F108",
+ "slug": "108-ai-doctor-avatar-explainer",
+ "name": "AI doctor avatar explainer (white-coat presenter breaks a problem into 'layers', product is the fix for the layer nobody treats)",
+ "title": "108 · AI doctor avatar explainer (white-coat presenter breaks a problem into \"layers\", product is the fix for the layer nobody treats)",
+ "n_examples": 1,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2106401392374186396",
+   "file": "2026-10-03-FedotOff90-2106401392374186396.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-10-03",
+   "url": "https://x.com/FedotOff90/status/2106401392374186396",
+   "eng": "103L/205BM/8kV",
+   "grade": "VALUE",
+   "gist": "5 AI formats scaling: AI podcast (280 days live), AI UGC, AI doctor avatar, AI listicle, AI animation (claymation/CGI).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106400932410150912/img/zGPPTQ7y809dVB3R.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

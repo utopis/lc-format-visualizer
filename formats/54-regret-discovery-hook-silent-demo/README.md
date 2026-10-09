@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (multiple apps, 30M+ views, revenue claims) · hype risk: Low · cost $0-100 (creator) / near-zero to re-shoot · 30-60 min
 
 ## What it is
@@ -106,6 +109,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [28-reaction-hook-plus-demo](../28-reaction-hook-plus-demo/README.md), [43-hudson-method-creator-swarm](../43-hudson-method-creator-swarm/README.md), [18-green-screen-reaction-and-comment-reply](../18-green-screen-reaction-and-comment-reply/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Muscle Mat: Dog-test visual hook (Muscle Mat, 859 days), 859 days live (Hook Frameworks That Stop the Scroll board). The visual hook (an animal test) and the copy hook (the comfort question) run together: Fedotoff's "every hook is 2 hooks".
+- Muscle Mat: "FREE" baby-on-topper static (Muscle Mat), 533 days live (Hook Frameworks That Stop the Scroll board). A cute visual plus a giveaway word.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

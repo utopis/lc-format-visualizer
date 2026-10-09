@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (S-tier "news") · hype risk: Medium · cost $0-100 · 30-60 min
 
 ## What it is
@@ -94,6 +97,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [09-native-story-static-to-advertorial](../09-native-story-static-to-advertorial/README.md), [32-screenshot-native-static-pack](../32-screenshot-native-static-pack/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Aurivita Cayenne: "WARNING: Fake websites!" brand notice static (Aurivita), 197 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). A brand warning reads as a public service, and it implies demand (people copy it).
+- Breaking News: Breaking-news TV lower-third static, 141 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). A news frame stops the scroll; this one leans on a celebrity and is high-risk.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium-High (live long-runner + strategist teardown) · hype risk: Medium · cost $0-150 · 2-4 h
 
 ## What it is
@@ -101,6 +102,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
 - British Supplements: Google-search UI static ('Which UK brand has no fillers?'), 331 days live. It mimics the moment the buyer is already in (searching), and the brand appears as the 'answer'.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- BioRoot Labs: "Relief like ibuprofen without the stomach pain" ingredient static, 179 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). "Like X without the side effect": the known drug as an anchor, the side effect as the enemy.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

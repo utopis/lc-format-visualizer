@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (S-tier LTO; BOF map) · hype risk: Low · cost $0 · 15 min
 
 ## What it is
@@ -104,6 +107,13 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
 - Phantom Athletics: Catalog DCO grid with big % badge (German), 445 days live. Meta's DCO tests the image/headline combos; the % badge + rating does all the selling for an impulse category.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- BioRoot Labs: "A message from our founder" scarcity text static, 378 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). A letter format reads as personal, not an ad, and adds offer scarcity.
+- Solvaderm Skin Care: Clean product-on-podium static (Solvaderm, "Unlock your best skin yet"), 690 days live (Skincare & Anti-Aging Winners board). It shows a polished brand static can also run for years in skincare (a contrast to the ugly-ad board).
+- Muscle Mat: "FREE" baby-on-topper static (Muscle Mat), 533 days live (Hook Frameworks That Stop the Scroll board). A cute visual plus a giveaway word.
+- Shopmenvault: "BUY 2, GET 2 FREE – We won't do this again" offer static, 251 days live (Winning Men's Health / Testosterone Ads board). A big bundle plus a one-time claim plus a niche trust line.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

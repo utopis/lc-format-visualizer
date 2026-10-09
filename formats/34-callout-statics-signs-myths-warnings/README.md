@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (1,525-day + 200-day live ads) · hype risk: Low · cost $0 · 15-30 min
 
 ## What it is
@@ -114,6 +117,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Libby Babet: Women's-body myth-bust talking head (fitness coach), 305 days live. 'Women's bodies react differently' is an identity hook; the product arrives as the personal fix after 60 s of genuine education; the empty-wrapper detail is proof of real use.
 - Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop'), 258 days live. A blunt first-person result headline + 3 benefit labels is readable in one glance.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Wellness Way UK: "Regain your confidence, without pills" device static (Wellness Way UK), 252 days live (Winning Men's Health / Testosterone Ads board). A pill-free promise plus a time-bound result.
+- Aurivita Cayenne: "WARNING: Fake websites!" brand notice static (Aurivita), 197 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). A brand warning reads as a public service, and it implies demand (people copy it).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

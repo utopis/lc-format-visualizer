@@ -26,6 +26,9 @@ related_strategies: [33-animated-brand-character-ads, 36-owned-winner-video-remi
 
 
 
+
+
+
 ## What it looks like
 Same script/angle as a proven ad, re-rendered in an animated style. Styles and their jobs (from @CEO_Vlad's 7-styles chart and tier list):
 | Style | Good for | Why |
@@ -69,6 +72,11 @@ Pick LC's top-spending ad of last 30 days → 3 styles (chalkboard, claymation, 
 - **Evidence:** Numoya Pixar-style 58-year-old narrator VSL, 96 days live, 123 brand ads; AI & CGI board 407 ads; "Cartoon AI ad… people know it's not real and STILL BUY" (66 days).
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Hemios: Talking-product CGI skit (Hemios, "I'm not an accessory, Karen"), 254 days live (AI & CGI Ads That Actually Convert board). A talking product plus comedy plus a primal topic; the product defends itself, so it is not the brand making the claims.
+- Dr. Lisa Downing: Pixar-style organ-and-pills CGI (kidneys), 217 days live (AI & CGI Ads That Actually Convert board). The organ is made visible as a character; Fedotoff's CGI Machine style.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -47,6 +47,8 @@ test: {channel: "...", budget: "...", success_metric: "..."}
 
 Instead of making a drama ad, the brand **buys its way into a drama that already has millions of viewers**: a short-drama channel or app (or an AI micro-drama creator) writes the product into an episode (the necklace is the heirloom, the ring is the clue, the skincare is the glow-up), then the brand whitelists that episode as a Spark/Partnership ad. The drama app gets paid twice: users for free from viral clips, and brands for placement.
 
+**The verified example (hero).** The @cesaralvarezll post shows a **GoodShort (Short Dramas Hub)** clip next to an App Store overlay: "2m downloads & $9m revenue last month". The clip is labelled **"Paid partnership"**. At a red-carpet party, a woman mocks a birthday gift bottle of wine: "What brand is this... don't tell me it's some cheap knockoff... Are you trying to poison Dad with this no-name trash?" The sponsor's product is written in as the *underdog object*. The villain insults it, and the story is built so that it gets vindicated later. That is the template for LC: the product is not shown being praised, it is shown being *underestimated*. The dupe angle ("it's not the $90 brand... is it?") fits this perfectly.
+
 ### Why it works
 
 - The audience is pre-built and already watching for the story; the product rides the plot.

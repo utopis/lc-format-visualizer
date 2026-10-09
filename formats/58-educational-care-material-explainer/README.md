@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (vendor library) · hype risk: Low · cost $0 · 20-40 min
 
 ## What it is
@@ -96,6 +99,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Pinch Magic Fiber: Presenter explainer with 'this is what 30 g of fiber looks like', 288 days live. The 'what X looks like' visual turns an abstract number into a pile of food the viewer can't eat daily, so the product becomes the shortcut; comparison table handles 'all fiber is the same'.
 - WebMD: Editorial flat-lay food static (WebMD 'Polyphenols'), 253 days live. Looks like editorial content, not an ad; curiosity click to an article.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- BioRoot Labs: Ingredient-nerd yapper (turmeric percentages), 381 days live (Yapper Ads board). A comparison with "store bought" is the enemy, and the specific numbers make it believable.
+- StellaLife, Inc.: Clinical CGI explainer (mouth lesions), 1189 days live (AI & CGI Ads That Actually Convert board). Clinical CGI for a specific medical audience.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

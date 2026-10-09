@@ -28,7 +28,7 @@ Brand: Louise Carter (waterproof, tarnish-free 14K PVD gold jewelry; women 25-55
 
 ## Compliance
 
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - The landing page must deliver the promised ending; no bait-and-switch.
 - AI disclosure as in F105; no real people or competitors.
 - No violence or humiliation that breaks platform ad policies (keep it soap-opera, not abuse).

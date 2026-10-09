@@ -162,6 +162,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Real creators with #ad / Paid partnership toggle; AI-generated reactions need the AI label and may not be presented as a real customer. - Demo must be real footage of LC product (no CGI "still gold" faking). - Don't copy another brand's exact caption/footage; template = structure only.
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).

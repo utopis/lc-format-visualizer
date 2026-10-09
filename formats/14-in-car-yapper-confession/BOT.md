@@ -57,6 +57,6 @@ See [examples/README.md](examples/README.md) (16 posts). Top 5:
 
 - @hectorserrranoo (210L/251BM/15kV): Wispr Flow paid UGC program: what companies get wrong. — https://x.com/hectorserrranoo/status/2107526350605070475
 - @CEO_Vlad (88L/169BM/5kV): AI UGC formats tiered: S = podcast, talking head, in-car... — https://x.com/CEO_Vlad/status/2096569603761827953
-- @FedotOff90 (74L/143BM/7kV): "Yappers are printing" — 299 raw talking-head yapper ads in one public swipe board (GetHookd "Yapper Ads (raw talking-head UGC) - Oct 2026"). — https://x.com/FedotOff90/status/2108198291242676622
+- @FedotOff90 (76L/148BM/7kV): "Yappers are printing" — 299 raw talking-head yapper ads in one public swipe board (GetHookd "Yapper Ads (raw talking-head UGC) - Oct 2026"). — https://x.com/FedotOff90/status/2108198291242676622
 - @LachezarVoynov (86L/102BM/10kV): $300k/mo strategy: wrappers that became top spenders = skits, carpool ads, Suno songs, AI Pixar-character podcasts; hooks must target different people. — https://x.com/LachezarVoynov/status/2097351286094021034
 - @hectorserrranoo (99L/83BM/8kV): Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue). — https://x.com/hectorserrranoo/status/2106136430556672384

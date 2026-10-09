@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P3** · evidence: Medium (platform case studies) · hype risk: Med · cost $0 + host time · 2-3 h per session
 
 ## What it is

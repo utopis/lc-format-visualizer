@@ -23,6 +23,9 @@ related_strategies: [27-satisfying-product-loop-recordings]
 
 
 
+
+
+
 ## Looks like
 Camera = viewer's eyes; hands wearing the product doing real things; a narrative tension (will it survive?).
 
@@ -36,6 +39,10 @@ Real GoPro/phone chest-mount (preferred) — AI only for impossible shots, label
 Hold rate; [_COMPLIANCE.md](../_COMPLIANCE.md).
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Skincare Tips: Mundane car-door POV (Skincare Tips), 290 days live (Native Unusual Visuals board). The "ugly ads print" thesis: weird or mundane visuals stop the scroll and long copy sells.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

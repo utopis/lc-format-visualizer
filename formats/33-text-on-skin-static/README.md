@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Med-High (in 4 independent format lists) · hype risk: Low · cost $0-50 (photo + handwriting or AI) · 20 min
 
 ## What it is
@@ -97,6 +100,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [17-lofi-handwritten-sign-promo-static](../17-lofi-handwritten-sign-promo-static/README.md), [32-screenshot-native-static-pack](../32-screenshot-native-static-pack/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Alicia Darling: Gym-clock POV with sticky caption ("Black leggings so I hope no one notices"), 319 days live (Native Unusual Visuals board). An embarrassing secret told as a caption over a mundane POV; the product is implied (period / odor).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

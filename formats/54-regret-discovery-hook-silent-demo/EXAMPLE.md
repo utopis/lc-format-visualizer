@@ -171,6 +171,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - The reaction must be the creator's genuine reaction to really trying LC; creators disclose (#ad / Paid partnership). - Don't name competitor stores/brands in a disparaging way in paid ads; organic naming of where you shop is fine if truthful. - No "before" props that misrepresent other products.
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).

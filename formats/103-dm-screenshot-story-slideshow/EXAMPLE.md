@@ -141,7 +141,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - A weak first slide: nobody swipes past a boring cover.
 - No reason to save: give a list, a checklist or a reference people come back to.
 
-**Compliance:** Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Dramatised chats must be labelled as dramatisations; never present invented messages as real customers. - No real names, numbers or profile photos of real people without consent. - No fake reviews inside the chats.
+**Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Dramatised chats must be labelled as dramatisations; never present invented messages as real customers. - No real names, numbers or profile photos of real people without consent. - No fake reviews inside the chats.
 
 ## More examples
 

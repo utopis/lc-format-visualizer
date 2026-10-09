@@ -28,7 +28,7 @@ Brand: Louise Carter (waterproof, tarnish-free 14K PVD gold jewelry; women 25-55
 
 ## Compliance
 
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - Rebate terms (limits, dates, eligible stores, payout timing) must be stated on the ad landing page.
 - Retailer logos only per the retailer's brand guidelines and agreement.
 - Collect only the data needed for the rebate; state the privacy use.

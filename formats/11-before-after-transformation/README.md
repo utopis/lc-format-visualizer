@@ -25,6 +25,9 @@ related_strategies: [11-social-proof-credibility-engine, 41-von-restorff-static-
 
 
 
+
+
+
 ## What it looks like
 Split image or 2-slide: left/first "before" (problem state), right/second "after" (result), with a date or condition label; video version = jump-cut transition. "People stop because they see a real change, not a product… then long primary text tells the story" ([@antonioventre_](https://x.com/antonioventre_/status/2078512377616589256)).
 
@@ -48,6 +51,11 @@ Collect real wear-test photos from 10 customers/creators (send product, pay $50,
 - AdWhispr samples (120-169 ads each): Lymphoria 52% before/after; Rosabella 84% UGC lifestyle; Resilia 60% animation, 20% UGC talking head; Koriderm 40% studio product, 28% text overlay. Resilia's "Day 1 → Day 42" selfie diary stitches into an expert clip (**F96**).
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Deborah Hayes: "Spa treatments for belly fat don't work" two-layer explainer, 286 days live (AI & CGI Ads That Actually Convert board). A "what you tried doesn't work, here's the layer it misses" reframe, the same skeleton as F108's "3 layers".
+- Muscle Mat: "I transform your bed today" demo (Muscle Mat), 819 days live (Hook Frameworks That Stop the Scroll board). A before/after demo in one location with a clear transformation.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

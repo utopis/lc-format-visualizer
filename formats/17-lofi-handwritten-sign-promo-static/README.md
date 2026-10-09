@@ -24,6 +24,9 @@ related_strategies: [05-offer-page-engineering, 41-von-restorff-static-copy-prom
 
 
 
+
+
+
 ## The handwritten sign
 Phone photo of a hand-written paper sign ("WellnessBaby CYBER MONDAY 60% OFF TODAY!") propped next to the product in a real home with holiday lights ([@adamtaylorl](https://x.com/adamtaylorl/status/2106021392567198020)).
 
@@ -43,6 +46,10 @@ Build 10 of 25 in week 1 of November; CPA and Omni promo revenue by `F17-<varian
 [_COMPLIANCE.md](../_COMPLIANCE.md). Discounts and deadlines must be real; "stock countdown" only with true inventory.
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Alicia Darling: Gym-clock POV with sticky caption ("Black leggings so I hope no one notices"), 319 days live (Native Unusual Visuals board). An embarrassing secret told as a caption over a mundane POV; the product is implied (period / odor).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

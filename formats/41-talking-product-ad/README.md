@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (183-day live) · hype risk: Med · cost $20-100 (AI video) · 1-2 h
 
 ## What it is
@@ -89,6 +92,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [05-ai-animation-format-swap](../05-ai-animation-format-swap/README.md), [21-recurring-ai-character-mascot](../21-recurring-ai-character-mascot/README.md), [42-ai-object-head-micro-drama](../42-ai-object-head-micro-drama/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Hemios: Talking-product CGI skit (Hemios, "I'm not an accessory, Karen"), 254 days live (AI & CGI Ads That Actually Convert board). A talking product plus comedy plus a primal topic; the product defends itself, so it is not the brand making the claims.
+- Penrose Skin: Talking-jar CGI rivalry ("You copied me! That's theft!"), 89 days live (Penrose Skin: 100 Longest-Running 4-5 Star Ads board). A rivalry skit between product characters dramatizes the dupe claim without a human making it.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

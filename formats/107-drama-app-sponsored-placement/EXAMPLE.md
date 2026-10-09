@@ -170,7 +170,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Paid partnership label required on the organic post (FTC / platform rules); creators must disclose. - AI characters disclosed per platform rules. - Approve the script for claims before production; PDP facts only.
+**Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Paid partnership label required on the organic post (FTC / platform rules); creators must disclose. - AI characters disclosed per platform rules. - Approve the script for claims before production; PDP facts only.
 
 ## More examples
 

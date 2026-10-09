@@ -24,6 +24,9 @@ related_strategies: [37-ai-realism-craft, 06-keyword-named-products-social-searc
 
 
 
+
+
+
 ## Looks like
 Diverse models wearing the exact piece in lifestyle scenes (beach, office, wedding); or a 15s photoreal UGC try-on clip generated from the product photo (prompt structure from [@Arina_hoqe](https://x.com/Arina_hoqe/status/2095071815483986241): PRODUCT · DURATION exactly 15s · STYLE photorealistic UGC · scene beats · camera · audio).
 
@@ -40,6 +43,10 @@ Pinterest outbound clicks, Meta catalog CTR, Omni.
 [_COMPLIANCE.md](../_COMPLIANCE.md). Product must be accurately represented; label AI imagery; don't use real celebrities' likeness.
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Quality of Life Labs: Model-holding-bottle DCO (Quality of Life Labs, 5 headlines), 583 days live (Skincare & Anti-Aging Winners board). DCO keeps a winning visual alive by rotating headlines (Entity-ID caveat: Andromeda counts these as one idea).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

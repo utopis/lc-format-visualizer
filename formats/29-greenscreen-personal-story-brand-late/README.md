@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (multiple operators; $750k winner) · hype risk: Low · cost $100-400 per creator video · 1 day turnaround per creator
 
 ## What it is
@@ -104,6 +107,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [14-in-car-yapper-confession](../14-in-car-yapper-confession/README.md), [18-green-screen-reaction-and-comment-reply](../18-green-screen-reaction-and-comment-reply/README.md), [09-native-story-static-to-advertorial](../09-native-story-static-to-advertorial/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Mariella Gut Health Expert: "Gross embarrassing story time" gut yapper (Mariella Gut Health Expert), 320 days live (Yapper Ads board). It's a confession, not a pitch.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

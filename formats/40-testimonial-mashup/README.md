@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium-High · hype risk: Low · cost $0-300 (customer incentives) · 2-4 h
 
 ## What it is
@@ -92,6 +95,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [26-founder-surprise-customer-call](../26-founder-surprise-customer-call/README.md), [36-backhanded-zero-star-review](../36-backhanded-zero-star-review/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Blossom Essentials Skin: Short AI-UGC "only balm I'll ever buy" (Blossom Essentials, 3 variants), 213 days live (AI UGC + Doctor Avatars board). One script on many faces is Fedotoff's "avatar is the variable, mechanism is the template".
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

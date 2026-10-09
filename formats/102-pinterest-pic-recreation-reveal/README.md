@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium-High (one $2M-MRR app + 2M-view demand signal) · hype risk: Medium · cost $0-80 · 30-60 min
 
 ## What it is
@@ -86,11 +89,11 @@ Write 15 'Pinterest vs me' carousel concepts for Louise Carter. Each: (1) descri
 - **Naming:** `utm_content=F102-<aesthetic>-<variant>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - Only use pins you own or have permission for; credit the original when it's a follower's pin.
 - AI-generated recreations must be labelled and must match the real product exactly.
 - Don't imply a celebrity wore LC.
 
 ## Related
 - Strategies: 13-identity-shareables-accidental-virality, 01-viral-slideshow-recreation, 11-social-proof-credibility-engine
-- Formats: [11-before-after-transformation](../../11-before-after-transformation/README.md), [20-ai-model-lookbook-on-body](../../20-ai-model-lookbook-on-body/README.md), [57-styling-carousel-how-to-wear](../../57-styling-carousel-how-to-wear/README.md), [85-persona-aesthetic-slideshow-caption-template](../../85-persona-aesthetic-slideshow-caption-template/README.md)
+- Formats: [11-before-after-transformation](../11-before-after-transformation/README.md), [20-ai-model-lookbook-on-body](../20-ai-model-lookbook-on-body/README.md), [57-styling-carousel-how-to-wear](../57-styling-carousel-how-to-wear/README.md), [85-persona-aesthetic-slideshow-caption-template](../85-persona-aesthetic-slideshow-caption-template/README.md)

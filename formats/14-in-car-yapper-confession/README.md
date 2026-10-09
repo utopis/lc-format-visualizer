@@ -25,6 +25,9 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 31-founder-daily-posti
 
 
 
+
+
+
 ## Looks like
 Creator in a parked car (or walking), phone propped, talking fast and personal: "I couldn't even wait to go inside to tell you." One continuous story, light jump cuts, captions. Why it works ([@jennamediaco](https://x.com/jennamediaco/status/2106209597526540312)): car looks organic, a story the whole time, feels private and unscripted.
 
@@ -48,6 +51,16 @@ Brief 10 creators via Trybe/creator network (strategy 28) with 3 story prompts; 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - "Yapper girl in car" AI UGC is reported as the format behind $200K days for an ecom brand, beating every studio shot ([@CEO_Vlad](https://x.com/CEO_Vlad/status/2082092962348167273)). Seed, Grüns, Arrae and Primal Queen all run yapper ads: one person, voice-memo style, almost no cuts, no music, product at ~75% ([@philhippoflynn](https://x.com/philhippoflynn/status/2081808221426397302)).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Luxmend: Test-it-live yapper ("we're gonna see if this actually works"), 528 days live (Yapper Ads board). "I won't cut the video" is a proof promise, and the doubt at the start ("I want to know if this is gonna just take off random hair") buys trust.
+- Kristina's Fashion Essentials: "I'll be so disappointed if this doesn't work" lash-test yapper, 382 days live (Yapper Ads board). The stakes are set before the demo, and "everyone says" is borrowed social proof.
+- BioRoot Labs: Ingredient-nerd yapper (turmeric percentages), 381 days live (Yapper Ads board). A comparison with "store bought" is the enemy, and the specific numbers make it believable.
+- Nothora: In-car storytime yapper (gossip hook), 350 days live (Yapper Ads board). Story first, so the viewer stays for the gossip and the product rides along.
+- Feel Mighty: "Car chats" one-month update yapper (gifted, then hooked), 341 days live (Yapper Ads board). The update format gives time-based proof, and admitting it was PR adds honesty.
+- Mariella Gut Health Expert: "Gross embarrassing story time" gut yapper (Mariella Gut Health Expert), 320 days live (Yapper Ads board). It's a confession, not a pitch.
+- HappySupp: Girlfriend-voice men's multivitamin (HappySupp), 378 days live (Winning Men's Health / Testosterone Ads board). Primal framing told by the partner; the partner's voice is the proof.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

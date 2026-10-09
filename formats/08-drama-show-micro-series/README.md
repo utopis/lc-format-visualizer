@@ -25,6 +25,9 @@ related_strategies: [32-drama-show-ads-hidden-storyline, 22-serialized-chat-stor
 
 
 
+
+
+
 ## What it looks like
 A 45-120s mini-episode with characters, conflict, tension and payoff; product enters late as the thing that changes the scene. "Women wanna watch shows… They don't wanna get 8 seconds into their scroll and suddenly feel ambushed by an ad. So give them the show" ([@frankyecom](https://x.com/frankyecom/status/2106833649970684195)). Best drama ads let the viewer "experience a version of themselves they secretly want to become" ([@frankyecom](https://x.com/frankyecom/status/2108308896813326775)).
 
@@ -64,6 +67,10 @@ Episode 1 of 3 concepts; $100/day each; metrics: 50% hold, comments/1k, Omni new
 - @0xROAS's 100% AI drama (Seedance, 2:23): 40th-anniversary party, husband says "she's let herself go", rival at the garden centre, "it was never your fault… after 50 it gets stuck", vindication at the party, "I'll tell you, but keep it between us" ([post](https://x.com/0xROAS/status/2104589798208065796)).
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- PopDrama 02: Long-form short-drama episode ad (PopDrama, 19:41), 406 days live (Drama Brand Names board). Fedotoff: drama is "best TOFU format along with VSLs… average watch time is through the roof".
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

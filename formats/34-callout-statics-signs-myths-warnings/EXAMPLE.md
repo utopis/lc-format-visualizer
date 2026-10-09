@@ -132,7 +132,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: more call-out variants (Fedotoff 37 formats)](README.md) · [Wave 2d update: cause relocation and the "big enemy"](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
+Newer observations live in the playbook: [Wave 2c update: more call-out variants (Fedotoff 37 formats)](README.md) · [Wave 2d update: cause relocation and the "big enemy"](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

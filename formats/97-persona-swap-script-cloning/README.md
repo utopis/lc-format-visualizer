@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High (the core of the highest-volume account in DTC) · hype risk: Medium · cost $50-150 per creator take · 1 week for 8 takes
 
 ## What it is
@@ -100,6 +101,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - Prime Prometics (mature-skin makeup): 2,828 active ads, 24 distinct avatars all women 40-65+, six of them life-event avatars (mother of the bride, reunion, divorcee, first date, local-news clip, church community), ~28 narrator personas across 11 types on 15 pages ([@FedotOff90](https://x.com/FedotOff90/status/2108188222710862166)); winning ad = a woman over 50 on colour-changing foundation, "doesn't sit in the creases": one objection killed in 7 words ([@edwardlavinel_](https://x.com/edwardlavinel_/status/2082829380376723726)).
 - LC life-event avatars to clone into: bride, mother of the bride, bridesmaid, new mom, 40th-birthday trip, divorcee glow-up, retirement beach trip.
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Prime Prometics: Older-man talking head (Prime Prometics persona ad), 331 days live (Yapper Ads board). Fedotoff's avatar-diversity point: Prime Prometics runs 24 avatars and about 28 narrators; this one is a husband talking about his wife's result.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

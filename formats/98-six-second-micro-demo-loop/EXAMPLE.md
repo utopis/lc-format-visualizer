@@ -156,6 +156,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Use real, unedited footage of the claim; no CGI water tricks.
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).

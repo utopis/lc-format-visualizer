@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (522M views, 930 videos >100K, one app) · hype risk: Low · cost $0-150 per creator video · 20-40 min
 
 ## What it is
@@ -96,11 +99,11 @@ For the best 10, write: (a) a 2-bubble answer the brand character gives (max 22 
 - **Naming:** `utm_content=F100-<fact>-<creator>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - Every fact must be true and supported by the PDP / supplier spec; no health or allergy cure claims ("hypoallergenic" only if certified).
 - The reaction must be the creator's genuine reaction; creators disclose (#ad / Paid partnership).
 - Don't imply competitors are fake or harmful; talk about "gold tone" or "plated" as categories, not brands.
 
 ## Related
 - Strategies: 28-ugc-creator-network-per-video-pay, 10-skit-and-problem-first-ugc-hooks, 24-niche-character-account-network
-- Formats: [28-reaction-hook-plus-demo](../../28-reaction-hook-plus-demo/README.md), [54-regret-discovery-hook-silent-demo](../../54-regret-discovery-hook-silent-demo/README.md), [43-hudson-method-creator-swarm](../../43-hudson-method-creator-swarm/README.md), [21-recurring-ai-character-mascot](../../21-recurring-ai-character-mascot/README.md)
+- Formats: [28-reaction-hook-plus-demo](../28-reaction-hook-plus-demo/README.md), [54-regret-discovery-hook-silent-demo](../54-regret-discovery-hook-silent-demo/README.md), [43-hudson-method-creator-swarm](../43-hudson-method-creator-swarm/README.md), [21-recurring-ai-character-mascot](../21-recurring-ai-character-mascot/README.md)

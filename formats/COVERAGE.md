@@ -13,18 +13,18 @@ Every format in this library, placed on the funnel. Use it to audit Louise Carte
 | Stage | What it does | Formats | Exact real example | Thin evidence (<5 examples) | LC produced or tested |
 |---|---|---|---|---|---|
 | **Reach: organic** | Accounts and posts that earn attention without paying: slideshows, memes, pages, day-in-the-life. | 18 | 16 | 3 | 0 |
-| **Reach: paid cold** | Scroll-stopping ads to people who have never heard of Louise Carter. | 34 | 31 | 3 | 0 |
-| **Consider: proof and education** | Gives a warm viewer a reason to believe: demos, comparisons, reviews, explainers, advertorials. | 31 | 27 | 2 | 0 |
+| **Reach: paid cold** | Scroll-stopping ads to people who have never heard of Louise Carter. | 35 | 32 | 4 | 0 |
+| **Consider: proof and education** | Gives a warm viewer a reason to believe: demos, comparisons, reviews, explainers, advertorials. | 32 | 28 | 3 | 0 |
 | **Convert: offer and retargeting** | Turns intent into an order: offers, urgency, catalog, retargeting, DMs, live shopping. | 13 | 8 | 3 | 0 |
 | **Keep: customers and community** | After the order: unboxing, customer photos, challenges, thank-yous that feed new ads. | 4 | 4 | 1 | 0 |
 | **Engine: systems** | Machines that produce or distribute creative at volume: creator swarms, clipping, AI remake labs, persona pages. | 7 | 7 | 0 | 0 |
 
 ## Gaps to check first
 
-- **Nothing in this library has reached Production yet.** All 107 formats are at research or drafted concepts, so every stage below is still untested for LC.
+- **Nothing in this library has reached Production yet.** All 109 formats are at research or drafted concepts, so every stage below is still untested for LC.
 - **Fewest formats:** Keep: customers and community. These stages have the fewest options to test.
 - **No exact real example yet:** [60](60-click-to-message-dm-ads/EXAMPLE.md), [68](68-streak-calendar-static/EXAMPLE.md), [90](90-fake-pdp-product-page-screenshot/EXAMPLE.md), [102](102-pinterest-pic-recreation-reveal/EXAMPLE.md). Treat these as untested ideas.
-- **Thin evidence (<5 real examples):** [10](10-shock-headline-text-static/EXAMPLE.md), [25](25-sweepstakes-celebrity-giveaway/EXAMPLE.md), [60](60-click-to-message-dm-ads/EXAMPLE.md), [68](68-streak-calendar-static/EXAMPLE.md), [81](81-fiction-serial-native/EXAMPLE.md), [89](89-customer-thank-you-shoutout-ad/EXAMPLE.md), [90](90-fake-pdp-product-page-screenshot/EXAMPLE.md), [100](100-relatable-body-question-mascot-answer/EXAMPLE.md), [101](101-in-store-scan-score-reaction/EXAMPLE.md), [102](102-pinterest-pic-recreation-reveal/EXAMPLE.md), [103](103-dm-screenshot-story-slideshow/EXAMPLE.md), [104](104-retail-receipt-rebate-offer/EXAMPLE.md).
+- **Thin evidence (<5 real examples):** [10](10-shock-headline-text-static/EXAMPLE.md), [25](25-sweepstakes-celebrity-giveaway/EXAMPLE.md), [60](60-click-to-message-dm-ads/EXAMPLE.md), [68](68-streak-calendar-static/EXAMPLE.md), [81](81-fiction-serial-native/EXAMPLE.md), [89](89-customer-thank-you-shoutout-ad/EXAMPLE.md), [90](90-fake-pdp-product-page-screenshot/EXAMPLE.md), [100](100-relatable-body-question-mascot-answer/EXAMPLE.md), [101](101-in-store-scan-score-reaction/EXAMPLE.md), [102](102-pinterest-pic-recreation-reveal/EXAMPLE.md), [103](103-dm-screenshot-story-slideshow/EXAMPLE.md), [104](104-retail-receipt-rebate-offer/EXAMPLE.md), [108](108-ai-doctor-avatar-explainer/EXAMPLE.md), [109](109-attraction-proof-partner-reaction/EXAMPLE.md).
 
 ## Reach: organic (18)
 
@@ -51,7 +51,7 @@ Accounts and posts that earn attention without paying: slideshows, memes, pages,
 | 102 | [Pinterest-pic recreation reveal (\"I recreated this Pinterest photo with me in it\")](102-pinterest-pic-recreation-reveal/EXAMPLE.md) | proxy | 3 | Concepts: drafted (LC) |
 | 103 | [DM-screenshot story slideshow (a chat people binge, the app/product on the slide that changes what happens next)](103-dm-screenshot-story-slideshow/EXAMPLE.md) | close | 2 | Concepts: drafted (LC) |
 
-## Reach: paid cold (34)
+## Reach: paid cold (35)
 
 Scroll-stopping ads to people who have never heard of Louise Carter.
 
@@ -91,8 +91,9 @@ Scroll-stopping ads to people who have never heard of Louise Carter.
 | 98 | [6-second micro-demo loop with a native headline ('omg I think I finally found…')](98-six-second-micro-demo-loop/EXAMPLE.md) | exact | 8 | Concepts: drafted (LC) |
 | 105 | [Short AI revenge-drama ad (25-60 s: betrayal open, fast cuts, twist, product is how she gets even)](105-short-ai-revenge-drama-ad/EXAMPLE.md) | exact | 6 | Concepts: drafted (LC) |
 | 106 | [Cliffhanger-cut drama ad (stops at the peak; \"part 2\" / full episode lives on the PDP, app or profile)](106-cliffhanger-cut-drama-ad/EXAMPLE.md) | close | 6 | Concepts: drafted (LC) |
+| 109 | [Attraction-proof partner reaction (primal-desire hook: 'I got one to see if it actually works on my wife/him', the partner's reaction is the proof)](109-attraction-proof-partner-reaction/EXAMPLE.md) | exact | 1 | Concepts: drafted (LC) |
 
-## Consider: proof and education (31)
+## Consider: proof and education (32)
 
 Gives a warm viewer a reason to believe: demos, comparisons, reviews, explainers, advertorials.
 
@@ -129,6 +130,7 @@ Gives a warm viewer a reason to believe: demos, comparisons, reviews, explainers
 | 94 | [Buyer's-guide warning: 'Before you buy X, flip the label' (3-2-1 countdown, only one passes)](94-buyers-guide-warning-flip-the-label/EXAMPLE.md) | exact | 9 | Concepts: drafted (LC) |
 | 96 | [Result reveal → expert stitch ('Y'all, this is my dad… after listening to this man. Just listen.')](96-result-reveal-expert-stitch/EXAMPLE.md) | exact | 5 | Concepts: drafted (LC) |
 | 101 | [In-store scan → score → reaction (scan a product on the shelf with the app, react to the score)](101-in-store-scan-score-reaction/EXAMPLE.md) | exact | 3 | Concepts: drafted (LC) |
+| 108 | [AI doctor avatar explainer (white-coat presenter breaks a problem into 'layers', product is the fix for the layer nobody treats)](108-ai-doctor-avatar-explainer/EXAMPLE.md) | exact | 1 | Concepts: drafted (LC) |
 
 ## Convert: offer and retargeting (13)
 

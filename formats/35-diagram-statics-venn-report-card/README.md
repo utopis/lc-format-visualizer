@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (format lists) · hype risk: Low · cost $0 · 20 min
 
 ## What it is
@@ -93,6 +96,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [16-us-vs-copycat-screen-scroll](../16-us-vs-copycat-screen-scroll/README.md), [34-callout-statics-signs-myths-warnings](../34-callout-statics-signs-myths-warnings/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Frøya Organics: "What will be gone by 2025" checklist static (Frøya Organics), 609 days live (Skincare & Anti-Aging Winners board). A year-goal checklist; each line is one symptom the reader ticks off.
+- Raising Toddlers with Bec: Vintage anatomy diagram static ("2 years in diapers vs 4 years"), 278 days live (Native Unusual Visuals board). An old-textbook look reads as education, not an ad, and it is unusual in the feed.
+- FurryWell Philippines: Report-card rating static (FurryWell "A+ / 9.7"), 188 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). A report-card UI makes a claim look like a third-party rating.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (copied from drama apps; few public ROAS numbers) · hype risk: Medium-High · cost $20-150 per episode (AI) · 3-6 h
 
 ## What it is
@@ -86,11 +89,11 @@ Write a 3-episode cliffhanger drama for Louise Carter (12-20 s each). Ep1 ends o
 - **Naming:** `utm_content=F106-<story>-ep<n>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - The landing page must deliver the promised ending; no bait-and-switch.
 - AI disclosure as in F105; no real people or competitors.
 - No violence or humiliation that breaks platform ad policies (keep it soap-opera, not abuse).
 
 ## Related
 - Strategies: 32-drama-show-ads-hidden-storyline, 22-serialized-chat-story-slideshows, 35-mass-awareness-placement-to-advertorial
-- Formats: [08-drama-show-micro-series](../../08-drama-show-micro-series/README.md), [91-ai-melodrama-mini-movie](../../91-ai-melodrama-mini-movie/README.md), [105-short-ai-revenge-drama-ad](../../105-short-ai-revenge-drama-ad/README.md), [81-fiction-serial-native](../../81-fiction-serial-native/README.md)
+- Formats: [08-drama-show-micro-series](../08-drama-show-micro-series/README.md), [91-ai-melodrama-mini-movie](../91-ai-melodrama-mini-movie/README.md), [105-short-ai-revenge-drama-ad](../105-short-ai-revenge-drama-ad/README.md), [81-fiction-serial-native](../81-fiction-serial-native/README.md)

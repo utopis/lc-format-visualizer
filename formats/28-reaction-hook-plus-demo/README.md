@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: Very high (522M-view case, 4.7M example, multiple app operators) · hype risk: Low-Med · cost $15-60 per creator video (or in-house) · 15-30 min per video once the template exists
 
 ## What it is
@@ -108,6 +111,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [18-green-screen-reaction-and-comment-reply](../18-green-screen-reaction-and-comment-reply/README.md), [43-hudson-method-creator-swarm](../43-hudson-method-creator-swarm/README.md), [53-ai-ugc-outlier-remake-lab](../53-ai-ugc-outlier-remake-lab/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Luxmend: Test-it-live yapper ("we're gonna see if this actually works"), 528 days live (Yapper Ads board). "I won't cut the video" is a proof promise, and the doubt at the start ("I want to know if this is gonna just take off random hair") buys trust.
+- Kristina's Fashion Essentials: "I'll be so disappointed if this doesn't work" lash-test yapper, 382 days live (Yapper Ads board). The stakes are set before the demo, and "everyone says" is borrowed social proof.
+- Muscle Mat: "I transform your bed today" demo (Muscle Mat), 819 days live (Hook Frameworks That Stop the Scroll board). A before/after demo in one location with a clear transformation.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

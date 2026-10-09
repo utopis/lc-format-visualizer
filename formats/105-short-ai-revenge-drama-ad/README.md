@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium-High (many live ads, ecom → apps) · hype risk: Medium · cost $20-150 (AI) per 30 s · 3-6 h
 
 ## What it is
@@ -91,11 +94,11 @@ Write 5 short revenge-drama ad scripts (25-30 s, 12-16 shots) for Louise Carter.
 - **Naming:** `utm_content=F105-<story>-<length>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - AI characters must be disclosed where the platform requires (Meta AI label; TikTok AIGC label).
 - Never imply a real person or a real competitor; no defamatory 'their product is fake' lines.
 - Product footage and claims must be real (PDP facts only).
 
 ## Related
 - Strategies: 32-drama-show-ads-hidden-storyline, 37-ai-realism-craft, 36-owned-winner-video-remix
-- Formats: [91-ai-melodrama-mini-movie](../../91-ai-melodrama-mini-movie/README.md), [08-drama-show-micro-series](../../08-drama-show-micro-series/README.md), [42-ai-object-head-micro-drama](../../42-ai-object-head-micro-drama/README.md), [106-cliffhanger-cut-drama-ad](../../106-cliffhanger-cut-drama-ad/README.md)
+- Formats: [91-ai-melodrama-mini-movie](../91-ai-melodrama-mini-movie/README.md), [08-drama-show-micro-series](../08-drama-show-micro-series/README.md), [42-ai-object-head-micro-drama](../42-ai-object-head-micro-drama/README.md), [106-cliffhanger-cut-drama-ad](../106-cliffhanger-cut-drama-ad/README.md)

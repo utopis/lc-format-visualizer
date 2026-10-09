@@ -25,3 +25,29 @@ From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public
 - **Why it lasts:** 258 days live. A blunt first-person result headline + 3 benefit labels is readable in one glance.
 - **How to make one:** One macro photo, Canva pill labels with thin leader lines; 1080x1350.
 - **LC remake:** Wrist stack close-up, pill headline 'THIS SURVIVED 200 SHOWERS', labels: 14K PVD / won't turn green / any 7 for $85.
+
+<!-- WAVE4 -->
+## Wave 4: Alex Fedotoff's October 2026 swipe boards (GetHookd public previews)
+
+Each ad below is from the free 10-ad preview of a public GetHookd board that [@FedotOff90](https://x.com/FedotOff90) shared on X. Days live are as of 2026-10-09; brand claims are the advertisers', not verified.
+
+### Wellness Way UK: "Regain your confidence, without pills" device static (Wellness Way UK) (252 days live)
+
+![Wellness Way UK](w4_54683348.jpg)
+
+- **Board:** [Winning Men's Health / Testosterone Ads — June 2026](https://x.com/FedotOff90/status/2102455699557200246) · image
+- **What happens:** A hand holds a black device: "REGAIN YOUR CONFIDENCE, WITHOUT PILLS", "Harder, stronger erections in just 10 minutes", "50% OFF today" badge.
+- **Why it lasts:** 252 days. A pill-free promise plus a time-bound result.
+- **How to make one:** Product in hand, a "[outcome], without [drug]" headline, a time-bound result, a discount badge.
+- **LC remake:** Not for LC.
+
+### Aurivita Cayenne: "WARNING: Fake websites!" brand notice static (Aurivita) (197 days live)
+
+![Aurivita Cayenne](w4_74138535.jpg)
+
+- **Board:** [iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments](https://x.com/FedotOff90/status/2106046297434374289) · image
+- **What happens:** A red "WARNING Fake websites!" banner with screenshots stamped "FAKE": "We are the original brand, and we don't sell on Amazon… if you see ads offering Auri Cayenne Pepper in huge discounts, do not place an order."
+- **Why it lasts:** 197 days. A brand warning reads as a public service, and it implies demand (people copy it).
+- **How to make one:** A red warning banner, screenshots stamped FAKE, an "original brand" claim.
+- **LC remake:** "WARNING: fake LC sellers on Amazon" (only if true).
+

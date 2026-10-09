@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (one app, replicable formula) · hype risk: Low · cost $0-100 · 30-60 min
 
 ## What it is
@@ -89,11 +92,11 @@ Design a transparent 0-100 'Gold Check' scoring rubric for gold-coloured jewelry
 - **Naming:** `utm_content=F101-<store>-<variant>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - No competitor brand names, logos or identifiable packaging; score only unbranded generic pieces.
 - The rubric must be public and objective; don't present a marketing quiz as an independent lab test.
 - Respect store filming rules; no customers in frame without consent.
 
 ## Related
 - Strategies: 13-identity-shareables-accidental-virality, 27-satisfying-product-loop-recordings, 10-skit-and-problem-first-ugc-hooks
-- Formats: [28-reaction-hook-plus-demo](../../28-reaction-hook-plus-demo/README.md), [35-diagram-statics-venn-report-card](../../35-diagram-statics-venn-report-card/README.md), [94-buyers-guide-warning-flip-the-label](../../94-buyers-guide-warning-flip-the-label/README.md), [51-quiz-guess-game](../../51-quiz-guess-game/README.md)
+- Formats: [28-reaction-hook-plus-demo](../28-reaction-hook-plus-demo/README.md), [35-diagram-statics-venn-report-card](../35-diagram-statics-venn-report-card/README.md), [94-buyers-guide-warning-flip-the-label](../94-buyers-guide-warning-flip-the-label/README.md), [51-quiz-guess-game](../51-quiz-guess-game/README.md)

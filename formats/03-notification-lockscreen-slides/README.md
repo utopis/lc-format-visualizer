@@ -25,6 +25,9 @@ related_strategies: [23-product-voice-notification-slideshows, 22-serialized-cha
 
 
 
+
+
+
 ## What it looks like
 2 slides. Slide 1: aesthetic AI/lifestyle visual with an iPhone lock screen overlay showing 2-4 push notifications written in a witty/brutal brand voice ("Right now is another chance to become who you want to be"). Slide 2: the "app comes in naturally" — product/app screenshot or a single line. ([@brainextends](https://x.com/brainextends/status/2099496707209994736), [@enzoxmotion](https://x.com/enzoxmotion/status/2099622190970712321)).
 
@@ -50,6 +53,10 @@ C. Monday: "LC: you don't have to take us off. ever." / "LC: 3 pieces. 0 thinkin
 [_COMPLIANCE.md](../_COMPLIANCE.md). Don't imitate Apple UI trademarks exactly; generic notification style. No "texted you" that could be read as real SMS spoofing.
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Japanese Taste: iPhone Notes checklist static (Japanese Taste), 238 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). It looks like the user's own note.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

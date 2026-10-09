@@ -23,6 +23,9 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 43-48h-trend-hijacking
 
 
 
+
+
+
 ## Looks like
 Skit: 2-character comedic scene with a relatable problem; B-I-E: same task done at 3 skill levels, product at "expert".
 

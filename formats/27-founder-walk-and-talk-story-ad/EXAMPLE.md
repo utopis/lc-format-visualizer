@@ -272,7 +272,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2b update — founder-story angles (GetHookd library)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
+Newer observations live in the playbook: [Wave 2b update — founder-story angles (GetHookd library)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

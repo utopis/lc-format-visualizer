@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (boards) · hype risk: Low · cost $0 · 20 min
 
 ## What it is
@@ -91,6 +92,13 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
 - WebMD: Editorial flat-lay food static (WebMD 'Polyphenols'), 253 days live. Looks like editorial content, not an ad; curiosity click to an article.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Alicia Darling: Gym-clock POV with sticky caption ("Black leggings so I hope no one notices"), 319 days live (Native Unusual Visuals board). An embarrassing secret told as a caption over a mundane POV; the product is implied (period / odor).
+- Raising Toddlers with Bec: Vintage anatomy diagram static ("2 years in diapers vs 4 years"), 278 days live (Native Unusual Visuals board). An old-textbook look reads as education, not an ad, and it is unusual in the feed.
+- Skincare Tips: Mundane car-door POV (Skincare Tips), 290 days live (Native Unusual Visuals board). The "ugly ads print" thesis: weird or mundane visuals stop the scroll and long copy sells.
+- Pet PA: Horse-nose-in-lens static (Pet PA), 176 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). An unusual visual paired with a plain offer.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

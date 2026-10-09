@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P3** · evidence: Medium (one big brand, live ads) · hype risk: Low · cost $0-100 per static + rebate cost · 1-2 h
 
 ## What it is
@@ -85,11 +88,11 @@ Write 6 Meta static concepts and 2 UGC scripts (15 s) for a 'buy 2 at {{RETAILER
 - **Naming:** `utm_content=F104-<retailer>-<variant>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - Rebate terms (limits, dates, eligible stores, payout timing) must be stated on the ad landing page.
 - Retailer logos only per the retailer's brand guidelines and agreement.
 - Collect only the data needed for the rebate; state the privacy use.
 
 ## Related
 - Strategies: 05-offer-page-engineering, 16-rewards-streaks-earned-discounts, 21-one-channel-deep-then-layer
-- Formats: [37-urgency-offer-statics](../../37-urgency-offer-statics/README.md), [86-offer-architecture-bundle-picker](../../86-offer-architecture-bundle-picker/README.md), [62-catalog-collection-dpa-ads](../../62-catalog-collection-dpa-ads/README.md), [25-sweepstakes-celebrity-giveaway](../../25-sweepstakes-celebrity-giveaway/README.md)
+- Formats: [37-urgency-offer-statics](../37-urgency-offer-statics/README.md), [86-offer-architecture-bundle-picker](../86-offer-architecture-bundle-picker/README.md), [62-catalog-collection-dpa-ads](../62-catalog-collection-dpa-ads/README.md), [25-sweepstakes-celebrity-giveaway](../25-sweepstakes-celebrity-giveaway/README.md)

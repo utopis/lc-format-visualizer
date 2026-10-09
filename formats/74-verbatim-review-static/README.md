@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0 · 10 min
 
 ## What it is
@@ -90,6 +93,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 <!-- EVIDENCE:START -->
 ## Wave 3 update: Fedotoff gut-health board (Oct 2026)
 - Alex Fedotoff's "Winning Gut Health Ads, June 2026" board (420 ads: 211 carousels, 126 videos, 82 images) leads with a verbatim Trustpilot review static (Soulbrew: "Finally, a hot chocolate I don't have to say no to", quote card over a lifestyle product shot, guarantee bar) ([@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)). Full breakdown of the public preview (all 10 ads, transcripts, LC remakes) is in the internal sources folder; per-format stills live in each folder's adlibrary/.
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- BioRoot Labs: "We don't trick you into taking turmeric" retention-claim static, 481 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). It sells the subscription with a retention claim instead of a discount.
+- Amy: Verified-buyer review card over car selfie (Amy, beef liver), 382 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). It is a native review screenshot, and the selfie makes the customer real.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

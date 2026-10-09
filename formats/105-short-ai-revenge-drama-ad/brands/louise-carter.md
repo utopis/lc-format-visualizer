@@ -30,7 +30,7 @@ Brand: Louise Carter (waterproof, tarnish-free 14K PVD gold jewelry; women 25-55
 
 ## Compliance
 
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - AI characters must be disclosed where the platform requires (Meta AI label; TikTok AIGC label).
 - Never imply a real person or a real competitor; no defamatory 'their product is fake' lines.
 - Product footage and claims must be real (PDP facts only).

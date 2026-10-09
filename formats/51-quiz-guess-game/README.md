@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Low-Med · hype risk: Low · cost $0-100 · 1 h
 
 ## What it is
@@ -87,6 +90,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [31-tier-list-ranking-ad](../31-tier-list-ranking-ad/README.md), [07-street-interview-overheard-question](../07-street-interview-overheard-question/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Astrid Zeegen: 60-year-old founder quiz talking head (collagen), 208 days live (AI UGC + Doctor Avatars board). A quiz opener makes the viewer answer in their head, and the age-matched presenter fits the 50+ buyer.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Med-High (platform case studies) · hype risk: Low · cost $0 creative (catalog), setup time · setup 1-2 days
 
 ## What it is
@@ -100,6 +103,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Phantom Athletics: Catalog DCO grid with big % badge (German), 445 days live. Meta's DCO tests the image/headline combos; the % badge + rating does all the selling for an impulse category.
 - Phantom Athletics: Catalog DCO grid, alternate layout, 374 days live. 374 days live; two layouts of the same offer let DCO find the better frame per placement.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Quality of Life Labs: Model-holding-bottle DCO (Quality of Life Labs, 5 headlines), 583 days live (Skincare & Anti-Aging Winners board). DCO keeps a winning visual alive by rotating headlines (Entity-ID caveat: Andromeda counts these as one idea).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

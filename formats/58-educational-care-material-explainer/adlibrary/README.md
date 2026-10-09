@@ -40,3 +40,29 @@ From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public
 - **Why it lasts:** 253 days live. Looks like editorial content, not an ad; curiosity click to an article.
 - **How to make one:** Overhead shot, natural light, slate or linen, one handwritten word; no product claims on the image.
 - **LC remake:** Overhead flat-lay of an LC jewelry box on linen with handwritten label 'things I never take off' → blog/advertorial.
+
+<!-- WAVE4 -->
+## Wave 4: Alex Fedotoff's October 2026 swipe boards (GetHookd public previews)
+
+Each ad below is from the free 10-ad preview of a public GetHookd board that [@FedotOff90](https://x.com/FedotOff90) shared on X. Days live are as of 2026-10-09; brand claims are the advertisers', not verified.
+
+### StellaLife, Inc.: Clinical CGI explainer (mouth lesions) (1189 days live)
+
+![StellaLife, Inc.](w4_89004207.jpg)
+
+- **Board:** [AI & CGI Ads That Actually Convert](https://x.com/FedotOff90/status/2107892934050037807) · video 98 s
+- **What happens:** "Suffering from mucositis? Natural relief from lesions and inflammation…" A clinical 3D mouth animation with captions. 98 s.
+- **Why it lasts:** 1,189 days, the longest AI/CGI ad on the board. Clinical CGI for a specific medical audience.
+- **How to make one:** A sober medical 3D animation, a name-the-condition hook, the mechanism, the product.
+- **LC remake:** Not core for LC.
+
+### BioRoot Labs: Ingredient-nerd yapper (turmeric percentages) (381 days live)
+
+![BioRoot Labs](w4_57073202.jpg)
+
+- **Board:** [Yapper Ads (raw talking-head UGC) - Oct 2026](https://x.com/FedotOff90/status/2108196484403663180) · video 125 s
+- **What happens:** A creator in a branded tee explains why she picked BioRoot: "95% curcumin, around 30 times more than the store bought" and black pepper "which majority of store bought ones don't have". 125 s; the brand has 1,000 active ads.
+- **Why it lasts:** 381 days. A comparison with "store bought" is the enemy, and the specific numbers make it believable.
+- **How to make one:** A creator holds the bottle and reads 2-3 numbers off the label, compares them with a generic store version, then gives her personal routine.
+- **LC remake:** "Why I switched: 14K PVD versus the 0.5 micron plating on store-bought jewelry."
+

@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P3** · evidence: Medium-High (live ads; ethics risk) · hype risk: Medium · cost $0-200 (real) / $50 (AI, not recommended) · half day
 
 ## What it is
@@ -96,6 +97,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [07-street-interview-overheard-question](../07-street-interview-overheard-question/README.md), [39-x-reasons-why](../39-x-reasons-why/README.md), [97-persona-swap-script-cloning](../97-persona-swap-script-cloning/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Prime Prometics: Older-man talking head (Prime Prometics persona ad), 331 days live (Yapper Ads board). Fedotoff's avatar-diversity point: Prime Prometics runs 24 avatars and about 28 narrators; this one is a husband talking about his wife's result.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

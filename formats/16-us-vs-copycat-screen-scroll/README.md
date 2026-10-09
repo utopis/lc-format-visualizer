@@ -24,6 +24,9 @@ related_strategies: [08-ad-library-transparency-targeting-intel, 41-von-restorff
 
 
 
+
+
+
 ## Looks like
 Screen recording of an iPhone scrolling marketplace listings of look-alike products while a VO explains how to tell the difference (materials, plating, reviews mentioning tarnish), then cuts to the real product. ([@Nate_Google_](https://x.com/Nate_Google_/status/2104963469548085713)).
 
@@ -44,6 +47,12 @@ Retargeting + broad; CVR, Omni new vs returning.
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - Primal Queen (women's beef-organ supplement, reported $10M+/mo, ~1,600 active Meta ads, Target + TikTok Shop) leans on Us-vs-Them as a signature angle ([@zarastrategy](https://x.com/zarastrategy/status/2090820261574529478)); subscription revenue $2M → $100M+ in under 2 years ([@piyush_jn](https://x.com/piyush_jn/status/2077070874084315386)).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Penrose Skin: "Wanna pull? You need this fragrance" dupe yapper (Penrose), 89 days live (Penrose Skin: 100 Longest-Running 4-5 Star Ads board). A primal hook, a dupe-of-luxury angle and a price anchor.
+- Penrose Skin: Talking-jar CGI rivalry ("You copied me! That's theft!"), 89 days live (Penrose Skin: 100 Longest-Running 4-5 Star Ads board). A rivalry skit between product characters dramatizes the dupe claim without a human making it.
+- Penrose Skin: "I stopped buying $400 colognes" price-anchor demo, 89 days live (Penrose Skin: 100 Longest-Running 4-5 Star Ads board). A clear price-anchor switch story in 15 s.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

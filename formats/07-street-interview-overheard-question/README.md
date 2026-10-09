@@ -25,6 +25,9 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 11-social-proof-credib
 
 
 
+
+
+
 ## What it looks like
 **Variant 1 — Interview**: handheld mic, stranger on the street/resort: "Are you really 56?" → "I lost 18 pounds in one month… it was cortisol" ([@tryatria_AI](https://x.com/tryatria_AI/status/2095860430099058905)). Question does the hooking; answer is social proof.
 **Variant 2 — Overheard question (stronger)**: the product is discovered by a third party asking. GroundingWell: hotel guests calling the front desk asking what mattress they use — "Quick question, what kind of mattress you guys use?… I think you just saved me three grand… half the calls I get now are about the sheets" (transcript; [@adamtaylorl](https://x.com/adamtaylorl/status/2094742062755422423)). They don't even sell mattresses.
@@ -52,6 +55,10 @@ C. Wedding: bridesmaid at the table asks the bride's mom about her stack → "Se
 - Resilia runs AI street interviews with "90+ year olds": "How old is your grandson?" "That's my grandson's grandson… 102 years old… because of these three foods" (@ZedNilm1, 17.5K views). Smooche's AI street interview "performing the best ROAS" (agency claim). Now its own file: **F93** (elder-wisdom countdown). LC: real people only.
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Penrose Skin: Nightlife street-reaction montage (Penrose), 89 days live (Penrose Skin: 100 Longest-Running 4-5 Star Ads board). Stranger reactions as proof, then a VO mechanism (shea plus pheromones).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

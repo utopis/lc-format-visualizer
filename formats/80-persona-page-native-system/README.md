@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P3** · evidence: High (many large advertisers) · hype risk: High · cost $0-200 · ongoing
 
 ## What it is
@@ -100,6 +101,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - Menopause bracelet: 1,592 active Meta ads, 107 days straight, 58.9% US; UK women's health untapped ([@vincenzo_micale](https://x.com/vincenzo_micale/status/2105349586717950002)).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Dr Ruth White: Persona-page "this woman found relief" static (Dr Ruth White), 416 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). Third-person news framing on a persona page; it replaces a drug habit (ibuprofen).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

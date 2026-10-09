@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (live ad) · hype risk: Low · cost $0-100 · 45 min
 
 ## What it is
@@ -91,6 +94,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [34-callout-statics-signs-myths-warnings](../34-callout-statics-signs-myths-warnings/README.md), [14-in-car-yapper-confession](../14-in-car-yapper-confession/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Pure Rhythm: Tough-love podcast rant ("women over 40 who still don't know this"), 324 days live (Podcast-Style Ads board). Tough-love anger reads as honest (as in Fedotoff's reflux case), and a symptom list gives the viewer self-recognition.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

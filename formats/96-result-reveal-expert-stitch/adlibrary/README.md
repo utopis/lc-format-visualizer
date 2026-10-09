@@ -16,3 +16,19 @@ From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public
 > Major pain point for men and women is belly fat. Kirtna bhi exercise kardo, it doesn't go by. Most of the belly fat guys is a body's response to stress and cortisol and indigestion. If you don't digest proteins, where you don't digest fats, where you don't break down your liver is fatty and your high cortisol. We have the perfect solution for you. And the solution is something called as easy digest. This is to break down all the protein you eat. Protein shakes, eggs, chicken, dals, whatever protein you eat. This will melt your inches. Big time. The other great product we have is gallbladder support. This is made for choked gallbladder than fatty liver. When your liver is fatty, the bile starts to thicken. You can't break down fats and cholesterol starts to rise. This is your answer. Yeh leti, with every meal you will see your inches melting. Literally all the cholesterol that comes out of your body. And cortisol support made of adeptogens, ashram, etc. This is meant to be taken at night before sleeping. You will see a lot of change in how you look the next morning and how deep you sleep. And these are your formulas for that very fat that just doesn't go away. You try it for a month all these three and give me your feedback. You will see a very positive change.
 
 </details>
+
+<!-- WAVE4 -->
+## Wave 4: Alex Fedotoff's October 2026 swipe boards (GetHookd public previews)
+
+Each ad below is from the free 10-ad preview of a public GetHookd board that [@FedotOff90](https://x.com/FedotOff90) shared on X. Days live are as of 2026-10-09; brand claims are the advertisers', not verified.
+
+### BioRoot Labs: Podcast-plus-doctor stitched explainer (turmeric) (345 days live)
+
+![BioRoot Labs](w4_57072260.jpg)
+
+- **Board:** [AI Storytelling Ads: 13 Brands x 50 Longest-Running (Oct 2026)](https://x.com/FedotOff90/status/2107177846070202853) · dco 129 s
+- **What happens:** A woman on a podcast mic, turmeric close-ups, then a doctor with "Doctor-Formulated" and a "What do you think?" overlay. 129 s DCO with 32 media.
+- **Why it lasts:** 345 days. It mixes podcast credibility with doctor stitches; 32 media variations of one idea.
+- **How to make one:** A podcast host intro, ingredient b-roll, an expert stitch, a CTA; build many DCO variants.
+- **LC remake:** A stylist podcast clip plus a jeweler stitch.
+

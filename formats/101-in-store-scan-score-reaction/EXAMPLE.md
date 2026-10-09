@@ -166,7 +166,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - No competitor brand names, logos or identifiable packaging; score only unbranded generic pieces. - The rubric must be public and objective; don't present a marketing quiz as an independent lab test. - Respect store filming rules; no customers in frame without consent.
+**Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - No competitor brand names, logos or identifiable packaging; score only unbranded generic pieces. - The rubric must be public and objective; don't present a marketing quiz as an independent lab test. - Respect store filming rules; no customers in frame without consent.
 
 ## More examples
 

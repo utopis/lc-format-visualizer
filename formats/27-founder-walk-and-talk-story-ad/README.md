@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (multiple operator lists; contested for scripted versions) · hype risk: Low-Med · cost $0-300 (phone, lav mic, optional host) · half day = 10-20 cuts
 
 ## What it is
@@ -113,6 +116,10 @@ Pick the angle that is truest: **Hero's Journey** (problem → solution, WelleCo
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
 - Rachel's Tea: Co-founder spouse explains the new product line, 481 days live. A trust update from a real person reads like a customer email, not an ad, and pre-empts the 'why did my product change?' objection for returning buyers.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- BioRoot Labs: "A message from our founder" scarcity text static, 378 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). A letter format reads as personal, not an ad, and adds offer scarcity.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

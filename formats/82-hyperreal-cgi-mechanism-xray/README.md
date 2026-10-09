@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (boards + playbook) · hype risk: Medium · cost $50-500 · 1-2 days
 
 ## What it is
@@ -91,6 +92,13 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [05-ai-animation-format-swap](../05-ai-animation-format-swap/README.md), [41-talking-product-ad](../41-talking-product-ad/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Petra Weber: "Swiss urologist challenge" CGI x-ray explainer (prostate), 265 days live (AI & CGI Ads That Actually Convert board). Foreign-insider authority ("Swiss / Austrian research") plus a 5-day challenge plus an x-ray mechanism plus an analogy.
+- Deborah Hayes: "Spa treatments for belly fat don't work" two-layer explainer, 286 days live (AI & CGI Ads That Actually Convert board). A "what you tried doesn't work, here's the layer it misses" reframe, the same skeleton as F108's "3 layers".
+- Dr. Lisa Downing: Pixar-style organ-and-pills CGI (kidneys), 217 days live (AI & CGI Ads That Actually Convert board). The organ is made visible as a character; Fedotoff's CGI Machine style.
+- StellaLife, Inc.: Clinical CGI explainer (mouth lesions), 1189 days live (AI & CGI Ads That Actually Convert board). Clinical CGI for a specific medical audience.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

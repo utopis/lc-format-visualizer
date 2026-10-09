@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (CPM data + every static list) · hype risk: Low · cost $0 (Figma/AI image) · 15-30 min per static
 
 ## What it is
@@ -113,6 +116,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
 - British Supplements: Google-search UI static ('Which UK brand has no fillers?'), 331 days live. It mimics the moment the buyer is already in (searching), and the brand appears as the 'answer'.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Amy: Verified-buyer review card over car selfie (Amy, beef liver), 382 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). It is a native review screenshot, and the selfie makes the customer real.
+- Japanese Taste: iPhone Notes checklist static (Japanese Taste), 238 days live (iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments board). It looks like the user's own note.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

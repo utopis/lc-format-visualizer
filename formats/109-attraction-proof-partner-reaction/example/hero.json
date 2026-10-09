@@ -1,0 +1,62 @@
+{
+ "id": "F109",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/FedotOff90/status/2108201405496336460",
+ "author": "FedotOff90",
+ "type": "video",
+ "duration": 32,
+ "mp4": "https://video.twimg.com/amplify_video/2108200402088755200/vid/avc1/320x568/_J4XyAhuTcpJpD3c.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 27,
+ "views": 3524,
+ "seen": "A 32 s phone-shot montage with a fixed top caption, \"\ud83e\udd1f I'm actually shook \ud83d\ude33\". Shots: a man in the kitchen and a woman on the couch, a close-up nuzzle, a dropper into a glass bottle (\"this is an ancient oil blend which is designed to turn women on\"), \"so I got one to see if it actually works on my wife\", a woman fanning herself, a couple laughing at dinner with beers (\"oh my gosh babe\", \"this thing really turns women on\"), an embrace in the kitchen, then \"it even comes with the sixty day guarantee\u2026 grab a bottle and save your relationship\". The partner's reaction is the only proof. Fedotoff used it to illustrate \"keep it simple, keep it primal\" for men's offers.",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "This is It is an ancient oil blend which is designed to turn women on.",
+   "ocr": "we a Ul actually shook me I a ae if"
+  },
+  {
+   "t": "0:14",
+   "said": "This is It is an ancient oil blend which is designed to turn women on. So I got one to see if it actually actually it actually",
+   "ocr": ""
+  },
+  {
+   "t": "0:18",
+   "said": "",
+   "ocr": "ti ae a wi ie my gosh wh"
+  },
+  {
+   "t": "0:22",
+   "said": "I'm glad I tried it this thing really turns women on it even comes with the sixty",
+   "ocr": ""
+  },
+  {
+   "t": "0:26",
+   "said": "day guarantee so click the link below grab a bottle and",
+   "ocr": ""
+  },
+  {
+   "t": "0:30",
+   "said": "day guarantee so click the link below grab a bottle and and save your relationshipoi",
+   "ocr": ""
+  }
+ ],
+ "more": []
+}

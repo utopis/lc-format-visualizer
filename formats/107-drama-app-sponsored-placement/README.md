@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (several brands, few public ROAS numbers) · hype risk: Medium · cost $500-10,000 per placement · 1-3 weeks lead time
 
 ## What it is
@@ -87,11 +90,11 @@ Write a sponsorship brief for a micro-drama channel to integrate Louise Carter i
 - **Naming:** `utm_content=F107-<channel>-<episode>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - Paid partnership label required on the organic post (FTC / platform rules); creators must disclose.
 - AI characters disclosed per platform rules.
 - Approve the script for claims before production; PDP facts only.
 
 ## Related
 - Strategies: 32-drama-show-ads-hidden-storyline, 09-influencer-rev-share, 39-creator-campaign-marketplaces
-- Formats: [08-drama-show-micro-series](../../08-drama-show-micro-series/README.md), [91-ai-melodrama-mini-movie](../../91-ai-melodrama-mini-movie/README.md), [19-tiktok-shop-affiliate-shoppable-demo](../../19-tiktok-shop-affiliate-shoppable-demo/README.md), [105-short-ai-revenge-drama-ad](../../105-short-ai-revenge-drama-ad/README.md)
+- Formats: [08-drama-show-micro-series](../08-drama-show-micro-series/README.md), [91-ai-melodrama-mini-movie](../91-ai-melodrama-mini-movie/README.md), [19-tiktok-shop-affiliate-shoppable-demo](../19-tiktok-shop-affiliate-shoppable-demo/README.md), [105-short-ai-revenge-drama-ad](../105-short-ai-revenge-drama-ad/README.md)

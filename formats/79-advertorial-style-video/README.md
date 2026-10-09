@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium (playbook + boards) · hype risk: Low · cost $50-300 · 3-4 h
 
 ## What it is

@@ -163,7 +163,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: long-form drama episodes (Pocket FM, via Fedotoff)](README.md) · [Wave 2d update: single-episode melodrama vs serial](README.md)
+Newer observations live in the playbook: [Wave 2c update: long-form drama episodes (Pocket FM, via Fedotoff)](README.md) · [Wave 2d update: single-episode melodrama vs serial](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

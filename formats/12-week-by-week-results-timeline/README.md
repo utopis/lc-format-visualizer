@@ -24,6 +24,9 @@ related_strategies: [11-social-proof-credibility-engine, 33-animated-brand-chara
 
 
 
+
+
+
 ## Structure
 0-3s provocative question hook ("what happens if you only poop twice a week?") → Week 1 / Week 2 / Week 3 / Week 4 each one beat of result → offer. ([@tryatria_AI](https://x.com/tryatria_AI/status/2106069700950294836)). Also "Day 1 skeptical… Day 7 automatic… Day 30…" (FedotOff90 example transcript).
 
@@ -44,6 +47,10 @@ Real creator 30-day diary (best) or AI animated (F05). Metric hold to 75%, CPA, 
 - @Salifsibane16 timeline rule: keep week 1 small, or nobody believes the rest.
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Feel Mighty: "Car chats" one-month update yapper (gifted, then hooked), 341 days live (Yapper Ads board). The update format gives time-based proof, and admitting it was PR adds honesty.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (board + trend doc) · hype risk: Low · cost $0 · 20 min
 
 ## What it is
@@ -90,6 +91,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [59-problem-solution-pas-ad](../59-problem-solution-pas-ad/README.md), [34-callout-statics-signs-myths-warnings](../34-callout-statics-signs-myths-warnings/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Male Health Tips: Elder "ancient remedy" doctor (men's health, gut-blood-flow claim), 222 days live (AI UGC + Doctor Avatars board). The claims are extreme; this is the risky end of the format.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

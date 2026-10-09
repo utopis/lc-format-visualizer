@@ -97,7 +97,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: before/after share in neighbouring accounts](README.md)
+Newer observations live in the playbook: [Wave 2d update: before/after share in neighbouring accounts](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

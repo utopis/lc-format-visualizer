@@ -23,6 +23,9 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium-High (one $100K/mo app; known slideshow engine) · hype risk: Medium · cost $0 · 20-40 min
 
 ## What it is
@@ -86,11 +89,11 @@ Write 12 six-slide chat-screenshot stories for Louise Carter. Each: the chat par
 - **Naming:** `utm_content=F103-<story>-<part>`
 
 ## Compliance
-Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
+Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims).
 - Dramatised chats must be labelled as dramatisations; never present invented messages as real customers.
 - No real names, numbers or profile photos of real people without consent.
 - No fake reviews inside the chats.
 
 ## Related
 - Strategies: 22-serialized-chat-story-slideshows, 23-product-voice-notification-slideshows, 01-viral-slideshow-recreation
-- Formats: [32-screenshot-native-static-pack](../../32-screenshot-native-static-pack/README.md), [48-the-dm-i-get-every-day](../../48-the-dm-i-get-every-day/README.md), [03-notification-lockscreen-slides](../../03-notification-lockscreen-slides/README.md), [56-emotional-relatable-slideshow](../../56-emotional-relatable-slideshow/README.md)
+- Formats: [32-screenshot-native-static-pack](../32-screenshot-native-static-pack/README.md), [48-the-dm-i-get-every-day](../48-the-dm-i-get-every-day/README.md), [03-notification-lockscreen-slides](../03-notification-lockscreen-slides/README.md), [56-emotional-relatable-slideshow](../56-emotional-relatable-slideshow/README.md)

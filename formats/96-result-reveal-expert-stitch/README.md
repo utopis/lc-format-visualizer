@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (live long-runners) · hype risk: Medium · cost $0-150 · 2-3 h
 
 ## What it is
@@ -96,6 +97,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
 - Smriti Kochar: Nutritionist 3-product stack explainer (Hinglish), 301 days live. An expert-recommended routine sells a bundle, not a single SKU; mixing local language keeps it native for the market.
 - Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- BioRoot Labs: Podcast-plus-doctor stitched explainer (turmeric), 345 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). It mixes podcast credibility with doctor stitches; 32 media variations of one idea.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

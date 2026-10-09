@@ -164,7 +164,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: AI UGC at Resilia, Lymphoria, Rosabella scale](README.md)
+Newer observations live in the playbook: [Wave 2d update: AI UGC at Resilia, Lymphoria, Rosabella scale](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

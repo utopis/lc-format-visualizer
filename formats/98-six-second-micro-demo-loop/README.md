@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium (225-day live ad) · hype risk: Medium · cost $0 · 30 min
 
 ## What it is
@@ -91,6 +92,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [28-reaction-hook-plus-demo](../28-reaction-hook-plus-demo/README.md), [54-regret-discovery-hook-silent-demo](../54-regret-discovery-hook-silent-demo/README.md), [49-cinematic-macro-product-film](../49-cinematic-macro-product-film/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Muscle Mat: Dog-test visual hook (Muscle Mat, 859 days), 859 days live (Hook Frameworks That Stop the Scroll board). The visual hook (an animal test) and the copy hook (the comfort question) run together: Fedotoff's "every hook is 2 hooks".
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

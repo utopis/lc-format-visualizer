@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High reach (22.5M views) / AI-persona caveat · hype risk: Med · cost $0-500 · 2-4 h
 
 ## What it is
@@ -101,6 +104,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)
 - Once (disposable-camera wedding app, ~$20K/mo in 83 days): an AI bride crying at her own wedding; 11.8M views on an account with 2,516 followers, 202K bookmarks, and not one comment noticed she was AI ([@sammgrowth](https://x.com/sammgrowth/status/2080991187133943894)); 22.5M views from 2 AI creators, 13M top ([@traqscales](https://x.com/traqscales/status/2108113354178932920)).
+
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Mariella Gut Health Expert: "Gross embarrassing story time" gut yapper (Mariella Gut Health Expert), 320 days live (Yapper Ads board). It's a confession, not a pitch.
+- Pure Rhythm: Menopause reframe podcast (hair / energy), 326 days live (Podcast-Style Ads board). Identity and defiance ("not going to waste away") for women 50+.
+- Aucier: AI story ad: sister's autistic son's meltdowns (sensory product), 447 days live (AI & CGI Ads That Actually Convert board). A high-emotion family story, and the product is the turning point.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
 ## Evidence from X discovery (auto-generated)
 

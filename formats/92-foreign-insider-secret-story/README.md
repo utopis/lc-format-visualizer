@@ -29,6 +29,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: High (one $1M/mo ad + a brand-wide pattern) · hype risk: Medium · cost $0-300 · half day
 
 ## What it is
@@ -99,6 +100,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [91-ai-melodrama-mini-movie](../91-ai-melodrama-mini-movie/README.md), [27-founder-walk-and-talk-story-ad](../27-founder-walk-and-talk-story-ad/README.md), [50-mini-documentary-how-its-made](../50-mini-documentary-how-its-made/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Petra Weber: "Swiss urologist challenge" CGI x-ray explainer (prostate), 265 days live (AI & CGI Ads That Actually Convert board). Foreign-insider authority ("Swiss / Austrian research") plus a 5-day challenge plus an x-ray mechanism plus an analogy.
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

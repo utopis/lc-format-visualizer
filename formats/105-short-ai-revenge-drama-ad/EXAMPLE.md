@@ -192,7 +192,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** Baseline: [_COMPLIANCE.md](../../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - AI characters must be disclosed where the platform requires (Meta AI label; TikTok AIGC label). - Never imply a real person or a real competitor; no defamatory 'their product is fake' lines. - Product footage and claims must be real (PDP facts only).
+**Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - AI characters must be disclosed where the platform requires (Meta AI label; TikTok AIGC label). - Never imply a real person or a real competitor; no defamatory 'their product is fake' lines. - Product footage and claims must be real (PDP facts only).
 
 ## More examples
 

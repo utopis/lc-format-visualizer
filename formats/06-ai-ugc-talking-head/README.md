@@ -26,6 +26,9 @@ related_strategies: [29-ai-ugc-outlier-test-pipeline, 34-persona-archetype-ai-ug
 
 
 
+
+
+
 ## What it looks like
 A phone-selfie video of a "creator" talking to camera — bedroom, bathroom, car, kitchen — holding/wearing the product, 15-45s, casual captions. Sub-formats ranked by @CEO_Vlad: **S** podcast ad, talking head ("cleanest test of whether your angle works"), in-car ("reads private, cheapest to render well"); **A** street interview, multi-scene demo; **B** reply-to-comment overlay, split-screen day.
 Example (jewelry): GIVA collection "I'm obsessed with these tiny little things and I've been stacking them like this…" (Arcads promo, [@SparkifyAI](https://x.com/SparkifyAI/status/2101869170937958407)).
@@ -59,6 +62,11 @@ Use AI UGC as the cheap first pass: 5 angles × 2 avatars → $50 each → winne
 - @lorenzo_pravata on Resilia: the gap is **real people**. "Take the exact concepts already winning and reshoot them with a real actor… same proven angle, format they don't have yet." For LC, real creators are the edge, not a fallback.
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Khazanay Pakistan: Clinic presenter in scrubs (orthopedic shoes), 338 days live (AI UGC + Doctor Avatars board). The scrubs give authority, the reframe ("it's not an injury, it's your shoes") does the selling, and running two near-identical cuts is typical DCO practice.
+- Blossom Essentials Skin: Short AI-UGC "only balm I'll ever buy" (Blossom Essentials, 3 variants), 213 days live (AI UGC + Doctor Avatars board). One script on many faces is Fedotoff's "avatar is the variable, mechanism is the template".
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

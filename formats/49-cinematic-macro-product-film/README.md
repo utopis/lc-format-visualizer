@@ -29,6 +29,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium · hype risk: Med · cost $0-500 (AI or studio) · 2-6 h
 
 ## What it is
@@ -91,6 +94,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [30-voiceless-broll-text-overlay](../30-voiceless-broll-text-overlay/README.md), [05-ai-animation-format-swap](../05-ai-animation-format-swap/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 4 update: Fedotoff October 2026 swipe boards
+- Solvaderm Skin Care: Clean product-on-podium static (Solvaderm, "Unlock your best skin yet"), 690 days live (Skincare & Anti-Aging Winners board). It shows a polished brand static can also run for years in skincare (a contrast to the ugly-ad board).
+- Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |
