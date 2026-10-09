@@ -1,0 +1,543 @@
+{
+ "id": "F04",
+ "slug": "04-ai-song-ad",
+ "name": "AI song / singing story ad (Suno-style music-video ad)",
+ "title": "04 · AI song / singing story ad",
+ "n_examples": 31,
+ "n_curated": 20,
+ "n_candidates": 11,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2086842038457098499",
+   "file": "2026-08-10-LachezarVoynov-2086842038457098499.md",
+   "kind": "curated",
+   "author": "LachezarVoynov",
+   "date": "2026-08-10",
+   "url": "https://x.com/LachezarVoynov/status/2086842038457098499",
+   "eng": "396L/1453BM/88kV",
+   "grade": "VALUE",
+   "gist": "29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107425650478829611",
+   "file": "2026-10-06-adamtaylorl-2107425650478829611.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-10-06",
+   "url": "https://x.com/adamtaylorl/status/2107425650478829611",
+   "eng": "357L/463BM/29kV",
+   "grade": "SOME",
+   "gist": "Smooche creative to study.",
+   "thumb": "https://pbs.twimg.com/media/HT3kF_VW0AA5ru-.png",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2100612763487740236",
+   "file": "2026-09-17-LachezarVoynov-2100612763487740236.md",
+   "kind": "curated",
+   "author": "LachezarVoynov",
+   "date": "2026-09-17",
+   "url": "https://x.com/LachezarVoynov/status/2100612763487740236",
+   "eng": "119L/339BM/10kV",
+   "grade": "VALUE",
+   "gist": "7 Suno song ad examples selling to women 45+ (links).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105288429873528875",
+   "file": "2026-09-30-EcomSapo-2105288429873528875.md",
+   "kind": "curated",
+   "author": "EcomSapo",
+   "date": "2026-09-30",
+   "url": "https://x.com/EcomSapo/status/2105288429873528875",
+   "eng": "157L/218BM/24kV",
+   "grade": "VALUE",
+   "gist": "Smooche ($22M/mo skincare) uses singing ads as acquisition weapon.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105288291746721792/img/M9AR-aiOVL1oayeJ.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2085447071990251986",
+   "file": "2026-08-06-rayjbjang-2085447071990251986.md",
+   "kind": "curated",
+   "author": "rayjbjang",
+   "date": "2026-08-06",
+   "url": "https://x.com/rayjbjang/status/2085447071990251986",
+   "eng": "155L/207BM/21kV",
+   "grade": "VALUE",
+   "gist": "9-fig founder group chats sharing singing animation ads - format printing.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2106058921559630022",
+   "file": "2026-10-02-Ecombos_Ai-2106058921559630022.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-02",
+   "url": "https://x.com/Ecombos_Ai/status/2106058921559630022",
+   "eng": "130L/138BM/10kV",
+   "grade": "SOME",
+   "gist": "Singing ad system (Ecombos) - tool/community pitch.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106058871047667712/img/fVz_mqRbCZRYR7j5.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2102454127494094887",
+   "file": "2026-09-22-qwertyu_alex-2102454127494094887.md",
+   "kind": "curated",
+   "author": "qwertyu_alex",
+   "date": "2026-09-22",
+   "url": "https://x.com/qwertyu_alex/status/2102454127494094887",
+   "eng": "102L/130BM/8kV",
+   "grade": "VALUE",
+   "gist": "One AI song ad: 5x ROAS, +$11k revenue; still early but will crowd.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102026078323707904/img/xVXyofE-vyQFsy1c.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2097351286094021034",
+   "file": "2026-09-08-LachezarVoynov-2097351286094021034.md",
+   "kind": "curated",
+   "author": "LachezarVoynov",
+   "date": "2026-09-08",
+   "url": "https://x.com/LachezarVoynov/status/2097351286094021034",
+   "eng": "86L/102BM/10kV",
+   "grade": "VALUE",
+   "gist": "$300k/mo strategy: wrappers that became top spenders = skits, carpool ads, Suno songs, AI Pixar-character podcasts; hooks must target different people.",
+   "thumb": "https://pbs.twimg.com/media/HRtJ4IxWsAA53Lh.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100659903488819256",
+   "file": "2026-09-17-lifemaximised-2100659903488819256.md",
+   "kind": "curated",
+   "author": "lifemaximised",
+   "date": "2026-09-17",
+   "url": "https://x.com/lifemaximised/status/2100659903488819256",
+   "eng": "63L/80BM/5kV",
+   "grade": "VALUE",
+   "gist": "RYZE ($25M+/mo) AI song ad library breakdown.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100656951851954176/img/cTpPd-qfrPEpU5rw.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2105684266457637009",
+   "file": "2026-10-01-lorenzo_pravata-2105684266457637009.md",
+   "kind": "curated",
+   "author": "lorenzo_pravata",
+   "date": "2026-10-01",
+   "url": "https://x.com/lorenzo_pravata/status/2105684266457637009",
+   "eng": "38L/58BM/4kV",
+   "grade": "VALUE",
+   "gist": "4-min Suno song ad became top spender: beat ROAS in 5 days, $500->$12K+/day.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105682527071449088/img/HD4qWkk6Df0UCKVo.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2108228200421576872",
+   "file": "2026-10-08-antonioventre_-2108228200421576872.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-10-08",
+   "url": "https://x.com/antonioventre_/status/2108228200421576872",
+   "eng": "47L/49BM/3kV",
+   "grade": "VALUE",
+   "gist": "Supplement 3.17x ROAS: 1 CBO/product, 1 ad set/persona; creatives = Suno AI ads, professor interview...",
+   "thumb": "https://pbs.twimg.com/media/HUHuYEeWcAEc411.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102465180567543939",
+   "file": "2026-09-22-therahulissar-2102465180567543939.md",
+   "kind": "curated",
+   "author": "therahulissar",
+   "date": "2026-09-22",
+   "url": "https://x.com/therahulissar/status/2102465180567543939",
+   "eng": "51L/20BM/3kV",
+   "grade": "VALUE",
+   "gist": "4-min AI song video, product not revealed until minute 3 - winner.",
+   "thumb": "https://pbs.twimg.com/media/HS1zVBva4AAkRfH.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107121214716297532",
+   "file": "2026-10-05-indiewhacker-2107121214716297532.md",
+   "kind": "curated",
+   "author": "indiewhacker",
+   "date": "2026-10-05",
+   "url": "https://x.com/indiewhacker/status/2107121214716297532",
+   "eng": "45L/4BM/2kV",
+   "grade": "VALUE",
+   "gist": "Counterpoint: 92% of song ads suck and won't take spend; quality of lyrics/angle matters.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2088293230450512089",
+   "file": "2026-08-14-mkwizrd-2088293230450512089.md",
+   "kind": "curated",
+   "author": "mkwizrd",
+   "date": "2026-08-14",
+   "url": "https://x.com/mkwizrd/status/2088293230450512089",
+   "eng": "39L/4BM/6kV",
+   "grade": "SOME",
+   "gist": "Brand reports AI song ad driving big order.",
+   "thumb": "https://pbs.twimg.com/media/HPsagNjbkAAvSoj.png",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085621175292670183",
+   "file": "2026-08-07-zackpaid-2085621175292670183.md",
+   "kind": "curated",
+   "author": "zackpaid",
+   "date": "2026-08-07",
+   "url": "https://x.com/zackpaid/status/2085621175292670183",
+   "eng": "9L/20BM/2kV",
+   "grade": "SOME",
+   "gist": "11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-doc, meme.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107157131010965744",
+   "file": "2026-10-05-Ecombos_Ai-2107157131010965744.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-05",
+   "url": "https://x.com/Ecombos_Ai/status/2107157131010965744",
+   "eng": "22L/14BM/793V",
+   "grade": "SOME",
+   "gist": "AI ecom format tiers: S = AI animation, AI singing, AI native statics → advertorial; A = AI before/after, AI podcast, talking product; F = AI avatar reading script, AI street interviews.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107419279872360910",
+   "file": "2026-10-06-ErJithin-2107419279872360910.md",
+   "kind": "curated",
+   "author": "ErJithin",
+   "date": "2026-10-06",
+   "url": "https://x.com/ErJithin/status/2107419279872360910",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Story-song ads losing top impression rank to BOF statics in Koriderm/Resilia libraries.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103047669556166886",
+   "file": "2026-09-24-EcomSapo-2103047669556166886.md",
+   "kind": "curated",
+   "author": "EcomSapo",
+   "date": "2026-09-24",
+   "url": "https://x.com/EcomSapo/status/2103047669556166886",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Smooche top ad of 1,600+: \"At 63 I ran into my ex at Walmart\" + Seoul colleague, 5:37; Atria #1 of 721, 70d. \"Resilia blueprint works for skincare.\"",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2100264709672849475",
+   "file": "2026-09-16-alexgoughcooper-2100264709672849475.md",
+   "kind": "curated",
+   "author": "alexgoughcooper",
+   "date": "2026-09-16",
+   "url": "https://x.com/alexgoughcooper/status/2100264709672849475",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "12+ ad libraries for storytelling AI animation ads: Quasi, Resilia, Ankhway, Lymphoria, Koriderm, Nebula, Rise, Liven, Moongrade, BioRoot, Cosmetic Times (Smooche), Tradesman.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099891350015512903",
+   "file": "2026-09-15-Salifsibane16-2099891350015512903.md",
+   "kind": "curated",
+   "author": "Salifsibane16",
+   "date": "2026-09-15",
+   "url": "https://x.com/Salifsibane16/status/2099891350015512903",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "3 AI song-ad story frameworks: bumping into ex (start at end), week-by-week timeline, cheating → self-improvement.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2098795041187615050",
+   "file": "2026-09-12-frankyecom-2098795041187615050.md",
+   "kind": "candidate",
+   "author": "frankyecom",
+   "date": "2026-09-12",
+   "url": "https://x.com/frankyecom/status/2098795041187615050",
+   "eng": "10069L/6274BM/1.3MV",
+   "grade": "",
+   "gist": "Everybody is obsessed with song ads right now. They retain attention. They get cheap clicks. They can absolutely crush CPA. But cheap acquisition and great acquisition are two diff",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098794818365493248/img/cJJBG74GVAb64xPv.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102083500052795710",
+   "file": "2026-09-21-manojbash-2102083500052795710.md",
+   "kind": "candidate",
+   "author": "manojbash",
+   "date": "2026-09-21",
+   "url": "https://x.com/manojbash/status/2102083500052795710",
+   "eng": "496L/695BM/183kV",
+   "grade": "",
+   "gist": "Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a shot Suno Ai Ads might be you",
+   "thumb": "https://pbs.twimg.com/media/HSwTGkIa8AACesn.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104191324219908260",
+   "file": "2026-09-27-AMannhaft-2104191324219908260.md",
+   "kind": "candidate",
+   "author": "AMannhaft",
+   "date": "2026-09-27",
+   "url": "https://x.com/AMannhaft/status/2104191324219908260",
+   "eng": "148L/225BM/13kV",
+   "grade": "",
+   "gist": "500k DAYS WITH SONG ADS 🤯 AI SONG ADS for RYZE SUPERFOODS are printing . This format doesn’t feel like an ad. It feels like a song with an interesting story. That’s why the hook ra",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103919802678923265/img/eXTuIonEyb48LaF1.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105410348752756813",
+   "file": "2026-09-30-adswithcami-2105410348752756813.md",
+   "kind": "candidate",
+   "author": "adswithcami",
+   "date": "2026-09-30",
+   "url": "https://x.com/adswithcami/status/2105410348752756813",
+   "eng": "131L/230BM/20kV",
+   "grade": "",
+   "gist": "ai song ads got popular recently... but everyone just copies without actually understanding why they work this ad spent $25k in 2 weeks for our client why? we didn't just copy and ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105410308768428032/img/5BYxDvOf8-UPZ2RI.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096252527457013765",
+   "file": "2026-09-05-StefanGeorgi-2096252527457013765.md",
+   "kind": "candidate",
+   "author": "StefanGeorgi",
+   "date": "2026-09-05",
+   "url": "https://x.com/StefanGeorgi/status/2096252527457013765",
+   "eng": "171L/195BM/16kV",
+   "grade": "",
+   "gist": "New Vid Gen model StefanBrain is pretty insane - especially for song ads. Example below. Entire Prompt: \"make a fun song ad for Norse Organics. Target - moms of teenage boys. lego ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2096252164255444996/img/ITK_E5hrKV2ZehzT.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102893620898496544",
+   "file": "2026-09-23-thedanielokon-2102893620898496544.md",
+   "kind": "candidate",
+   "author": "thedanielokon",
+   "date": "2026-09-23",
+   "url": "https://x.com/thedanielokon/status/2102893620898496544",
+   "eng": "83L/171BM/6kV",
+   "grade": "",
+   "gist": "HOW TO CREATE BANGER AI SONG ADS: One of the biggest things to remember is you are trying to do TWO things really well. 1. Storytelling: This is the heart of the winning Suno song.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2106887585645932750",
+   "file": "2026-10-04-mikefutia-2106887585645932750.md",
+   "kind": "candidate",
+   "author": "mikefutia",
+   "date": "2026-10-04",
+   "url": "https://x.com/mikefutia/status/2106887585645932750",
+   "eng": "57L/88BM/14kV",
+   "grade": "",
+   "gist": "We cracked the code on automated AI drama song ads. This Resilia-style ad was 90% automated in ScaleBot, end-to-end. No more manually prompting back-and-forth with Claude... No mor",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106885711370571777/img/nMqNjcmTugc5C9ZV.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100215847427944464",
+   "file": "2026-09-16-Diego_exits-2100215847427944464.md",
+   "kind": "candidate",
+   "author": "Diego_exits",
+   "date": "2026-09-16",
+   "url": "https://x.com/Diego_exits/status/2100215847427944464",
+   "eng": "49L/48BM/5kV",
+   "grade": "",
+   "gist": "13k Active Meta ads and 17.000.000 MRR 🤯 AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesnt feel like an ad - CRAZY hook",
+   "thumb": "https://pbs.twimg.com/media/HSV2lTvXcAERPSz.jpg",
+   "media": [
+    "photo",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100566935960162797",
+   "file": "2026-09-17-Diego_exits-2100566935960162797.md",
+   "kind": "candidate",
+   "author": "Diego_exits",
+   "date": "2026-09-17",
+   "url": "https://x.com/Diego_exits/status/2100566935960162797",
+   "eng": "15L/10BM/1kV",
+   "grade": "",
+   "gist": "100 MILLION ARR WITH SONG ADS 🤯 AI SONG ADS for RYZE SUPERFOODS hit different. This format doesn’t feel like an ad. It feels like a song people actually watch. That’s why the hook ",
+   "thumb": "https://pbs.twimg.com/media/HSa2EVqWcAAHnN1.jpg",
+   "media": [
+    "photo",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107923415650701515",
+   "file": "2026-10-07-qwertyu_alex-2107923415650701515.md",
+   "kind": "candidate",
+   "author": "qwertyu_alex",
+   "date": "2026-10-07",
+   "url": "https://x.com/qwertyu_alex/status/2107923415650701515",
+   "eng": "6L/13BM/660V",
+   "grade": "",
+   "gist": "there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butter 3. supplements 4. furniture ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107183474683576320/img/0Ynd3UIREHPcUWi2.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107131198145204441",
+   "file": "2026-10-05-vladdubchak_x-2107131198145204441.md",
+   "kind": "candidate",
+   "author": "vladdubchak_x",
+   "date": "2026-10-05",
+   "url": "https://x.com/vladdubchak_x/status/2107131198145204441",
+   "eng": "4L/4BM/195V",
+   "grade": "",
+   "gist": "You waste hours making one AI song ad because you did not do a timing map A timing map gets claude to listen to the song and map what word is said in what second So you can generat",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107104189251719168/img/omzhfq9HhDwdkmnt.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

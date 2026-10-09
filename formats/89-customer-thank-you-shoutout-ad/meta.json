@@ -1,0 +1,71 @@
+{
+ "id": "F89",
+ "slug": "89-customer-thank-you-shoutout-ad",
+ "name": "Customer thank-you / shout-out turned into an ad",
+ "title": "89 · Customer thank-you / shout-out turned into an ad",
+ "n_examples": 2,
+ "n_curated": 0,
+ "n_candidates": 2,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2090789562121359452",
+   "file": "2026-08-21-Nate_Google_-2090789562121359452.md",
+   "kind": "candidate",
+   "author": "Nate_Google_",
+   "date": "2026-08-21",
+   "url": "https://x.com/Nate_Google_/status/2090789562121359452",
+   "eng": "211L/267BM/23kV",
+   "grade": "",
+   "gist": "this is a PRIME EXAMPLE of why native style creative wins 600k views on this article post in 5 hours nobody scrolls past a handwritten note on a cup. everybody scrolls past a rende",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2095707442294448570",
+   "file": "2026-09-04-envyofyibo-2095707442294448570.md",
+   "kind": "candidate",
+   "author": "envyofyibo",
+   "date": "2026-09-04",
+   "url": "https://x.com/envyofyibo/status/2095707442294448570",
+   "eng": "44L/3BM/2kV",
+   "grade": "",
+   "gist": "Lanqin Lozenges Weibo \"Lanqin Lozenges's Monkey Lily suddenly disappeared last night!! We found a handwritten note on his workstation. 🔍 It said he was going to see someone he'd al",
+   "thumb": "https://pbs.twimg.com/media/HRVyzyxbcAAGsFA.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

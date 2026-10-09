@@ -1,0 +1,177 @@
+{
+ "id": "F22",
+ "slug": "22-split-screen-two-versions",
+ "name": "Split-screen \"two versions of the same person\" day",
+ "title": "22 · Split-screen two versions",
+ "n_examples": 9,
+ "n_curated": 1,
+ "n_candidates": 8,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "in progress"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2096569603761827953",
+   "file": "2026-09-06-CEO_Vlad-2096569603761827953.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-09-06",
+   "url": "https://x.com/CEO_Vlad/status/2096569603761827953",
+   "eng": "88L/169BM/5kV",
+   "grade": "VALUE",
+   "gist": "AI UGC formats tiered: S = podcast, talking head, in-car...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096979805346673029",
+   "file": "2026-09-07-DailyYTNiches-2096979805346673029.md",
+   "kind": "candidate",
+   "author": "DailyYTNiches",
+   "date": "2026-09-07",
+   "url": "https://x.com/DailyYTNiches/status/2096979805346673029",
+   "eng": "158L/96BM/7kV",
+   "grade": "",
+   "gist": "This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format > Split screen thumbnails com",
+   "thumb": "https://pbs.twimg.com/media/HRncp4AasAACD5V.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093386984349700402",
+   "file": "2026-08-28-thankyouecom-2093386984349700402.md",
+   "kind": "candidate",
+   "author": "thankyouecom",
+   "date": "2026-08-28",
+   "url": "https://x.com/thankyouecom/status/2093386984349700402",
+   "eng": "78L/133BM/6kV",
+   "grade": "",
+   "gist": "Almost every winner in our scaling CBO this month is AI debate Here’s our method for generating these bangers 1. Not an interview Debate formats are arguments and it feels more lik",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097064734474256890",
+   "file": "2026-09-07-YouTubeAut3538-2097064734474256890.md",
+   "kind": "candidate",
+   "author": "YouTubeAut3538",
+   "date": "2026-09-07",
+   "url": "https://x.com/YouTubeAut3538/status/2097064734474256890",
+   "eng": "20L/5BM/633V",
+   "grade": "",
+   "gist": "This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split screen thumbnails comparing tw",
+   "thumb": "https://pbs.twimg.com/media/HRpFQAObgAAMMun.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096998590971269290",
+   "file": "2026-09-07-ytaeliteacademy-2096998590971269290.md",
+   "kind": "candidate",
+   "author": "ytaeliteacademy",
+   "date": "2026-09-07",
+   "url": "https://x.com/ytaeliteacademy/status/2096998590971269290",
+   "eng": "11L/6BM/428V",
+   "grade": "",
+   "gist": "This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format &gt; Split screen thumbnails ",
+   "thumb": "https://pbs.twimg.com/media/HRoJGK5aMAEPIzs.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2099292610175361351",
+   "file": "2026-09-14-creativesbycare-2099292610175361351.md",
+   "kind": "candidate",
+   "author": "creativesbycare",
+   "date": "2026-09-14",
+   "url": "https://x.com/creativesbycare/status/2099292610175361351",
+   "eng": "8L/1BM/114V",
+   "grade": "",
+   "gist": "If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 1/4) ⭐️ READING REVIEWS ⭐️ Social proof is more importat than ever ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099289586577063936/img/8dKBwTLeNb41bG0H.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098403691262833141",
+   "file": "2026-09-11-linafahizul-2098403691262833141.md",
+   "kind": "candidate",
+   "author": "linafahizul",
+   "date": "2026-09-11",
+   "url": "https://x.com/linafahizul/status/2098403691262833141",
+   "eng": "3L/3BM/296V",
+   "grade": "",
+   "gist": "\"what is the best ad format?\" i get this question alllllll the time. static vs video, ugc vs founder-led, long form vs six seconds. tbh there's no clear winner. not because one isn",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077819414917898378",
+   "file": "2026-07-16-wes_kibet-2077819414917898378.md",
+   "kind": "candidate",
+   "author": "wes_kibet",
+   "date": "2026-07-16",
+   "url": "https://x.com/wes_kibet/status/2077819414917898378",
+   "eng": "4L/0BM/365V",
+   "grade": "",
+   "gist": "YouTube have adopted a new ad format that shows ads mid stream without affecting the stream using a split screen. Not bad.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2081629763882430905",
+   "file": "2026-07-27-Charconsults-2081629763882430905.md",
+   "kind": "candidate",
+   "author": "Charconsults",
+   "date": "2026-07-27",
+   "url": "https://x.com/Charconsults/status/2081629763882430905",
+   "eng": "3L/0BM/172V",
+   "grade": "",
+   "gist": "Day 7/14 This one is an oldie, brief show the product in use and the pay off for using. This ad was very visual use before after/split screen pacing and brolls. Hello@charlottecons",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2081629688942768128/img/hY-hdBeIApFT5xTY.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

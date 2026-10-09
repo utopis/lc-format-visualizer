@@ -1,0 +1,85 @@
+{
+ "id": "F48",
+ "slug": "48-the-dm-i-get-every-day",
+ "name": "'The DM / question I get every day' answer video",
+ "title": "48 · \"The DM / question I get every day\" answer video",
+ "n_examples": 3,
+ "n_curated": 1,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2091592059517837677",
+   "file": "2026-08-23-antonioventre_-2091592059517837677.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-08-23",
+   "url": "https://x.com/antonioventre_/status/2091592059517837677",
+   "eng": "12L/13BM/995V",
+   "grade": "VALUE",
+   "gist": "Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask.",
+   "thumb": "https://pbs.twimg.com/media/HQbT5PIXsAATKNY.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083288607062732816",
+   "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+   "kind": "cited",
+   "author": "raph_guilhem",
+   "date": "2026-07-31",
+   "url": "https://x.com/raph_guilhem/status/2083288607062732816",
+   "eng": "55L/105BM/7kV",
+   "grade": "VALUE",
+   "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

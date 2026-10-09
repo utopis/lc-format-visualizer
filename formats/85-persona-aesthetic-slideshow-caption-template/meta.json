@@ -1,0 +1,167 @@
+{
+ "id": "F85",
+ "slug": "85-persona-aesthetic-slideshow-caption-template",
+ "name": "Persona aesthetic slideshow account with one recurring caption template",
+ "title": "85 · Persona aesthetic slideshow account with one recurring caption template",
+ "n_examples": 8,
+ "n_curated": 1,
+ "n_candidates": 7,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108224536902815967",
+   "file": "2026-10-08-yurahulei-2108224536902815967.md",
+   "kind": "curated",
+   "author": "yurahulei",
+   "date": "2026-10-08",
+   "url": "https://x.com/yurahulei/status/2108224536902815967",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "AI agent posting 1000s of TikTok slideshows: rented US iPhones (Minionix), warmed accounts, 100K Pinterest image DB; screenshots: persona accounts, same caption, 7.6M-34.6M views. Account-farm = ToS risk.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090094780864713021",
+   "file": "2026-08-19-rsalimx-2090094780864713021.md",
+   "kind": "candidate",
+   "author": "rsalimx",
+   "date": "2026-08-19",
+   "url": "https://x.com/rsalimx/status/2090094780864713021",
+   "eng": "76L/122BM/8kV",
+   "grade": "SOME",
+   "gist": "Claim slideshows convert harder than videos; it's about finding the right format.",
+   "thumb": "https://pbs.twimg.com/media/HQGB6J4WwAA9kRw.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2077706055656558799",
+   "file": "2026-07-16-onlinedopamine-2077706055656558799.md",
+   "kind": "candidate",
+   "author": "onlinedopamine",
+   "date": "2026-07-16",
+   "url": "https://x.com/onlinedopamine/status/2077706055656558799",
+   "eng": "46L/73BM/5kV",
+   "grade": "",
+   "gist": "this slideshow account is literally leaving money on the table, it's almost infuriating the account owner is going viral on basically every second post what's more, the format alre",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2077659850788528128/img/5N0HzWwAN8YHXe3Z.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100554319070212573",
+   "file": "2026-09-17-yassratti-2100554319070212573.md",
+   "kind": "candidate",
+   "author": "yassratti",
+   "date": "2026-09-17",
+   "url": "https://x.com/yassratti/status/2100554319070212573",
+   "eng": "60L/54BM/5kV",
+   "grade": "",
+   "gist": "bro is doing $9k a month with a single tiktok slideshow account 😭 that's wild as fuck and it's your wake up call build an app that fits a format exploit that format across 10 accou",
+   "thumb": "https://pbs.twimg.com/media/HSaqQdqWcAAgk1e.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098080607125561633",
+   "file": "2026-09-10-chesny-2098080607125561633.md",
+   "kind": "candidate",
+   "author": "chesny",
+   "date": "2026-09-10",
+   "url": "https://x.com/chesny/status/2098080607125561633",
+   "eng": "121L/17BM/14kV",
+   "grade": "",
+   "gist": "You swiped through that slideshow 3 times today. Nobody filmed it. Nobody edited it. Watch until 0:25. That's where it breaks down the hook. Find a slideshow account you want to re",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098080070992789504/img/Q8p9kWhZ-16Clcuo.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082813772373098530",
+   "file": "2026-07-30-onlinedopamine-2082813772373098530.md",
+   "kind": "candidate",
+   "author": "onlinedopamine",
+   "date": "2026-07-30",
+   "url": "https://x.com/onlinedopamine/status/2082813772373098530",
+   "eng": "34L/39BM/3kV",
+   "grade": "",
+   "gist": "these are the types of outsized organic views you get on new accounts when you nail &gt; understanding of your target audience (= pinterest aesthetic girlies) &gt; have one visuall",
+   "thumb": "https://pbs.twimg.com/media/HOejShaWQAAHZq_.jpg",
+   "media": [
+    "photo",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096288782517457130",
+   "file": "2026-09-05-g_buildz_apps-2096288782517457130.md",
+   "kind": "candidate",
+   "author": "g_buildz_apps",
+   "date": "2026-09-05",
+   "url": "https://x.com/g_buildz_apps/status/2096288782517457130",
+   "eng": "18L/10BM/1kV",
+   "grade": "",
+   "gist": "I started this account last month Over 1M+ views just on slideshows This brought me 10,000 downloads btw One slideshow account. https://t.co/plkjEqnwZv",
+   "thumb": "https://pbs.twimg.com/media/HReDiczbAAA_Ctm.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104327435110232567",
+   "file": "2026-09-27-SideShiftUGC-2104327435110232567.md",
+   "kind": "candidate",
+   "author": "SideShiftUGC",
+   "date": "2026-09-27",
+   "url": "https://x.com/SideShiftUGC/status/2104327435110232567",
+   "eng": "22L/7BM/3kV",
+   "grade": "",
+   "gist": "Hiring creators for a faith and focus app - $200/mo trial rate, rises on performance - Faceless slideshows, no filming - Must have grown a slideshow account Send your best carousel",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

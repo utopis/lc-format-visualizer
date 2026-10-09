@@ -1,0 +1,149 @@
+{
+ "id": "F82",
+ "slug": "82-hyperreal-cgi-mechanism-xray",
+ "name": "Hyperreal CGI mechanism / 'x-ray' shot (inside the material) + villain monologue",
+ "title": "82 · Hyperreal CGI mechanism / \"x-ray\" shot (inside the material) + villain monologue",
+ "n_examples": 7,
+ "n_curated": 2,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2106401392374186396",
+   "file": "2026-10-03-FedotOff90-2106401392374186396.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-10-03",
+   "url": "https://x.com/FedotOff90/status/2106401392374186396",
+   "eng": "103L/205BM/8kV",
+   "grade": "VALUE",
+   "gist": "5 AI formats scaling: AI podcast (280 days live), AI UGC, AI doctor avatar, AI listicle, AI animation (claymation/CGI).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106400932410150912/img/zGPPTQ7y809dVB3R.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2072477830861254686",
+   "file": "2026-07-02-FedotOff90-2072477830861254686.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-07-02",
+   "url": "https://x.com/FedotOff90/status/2072477830861254686",
+   "eng": "71L/129BM/10kV",
+   "grade": "SOME",
+   "gist": "66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085761997526999415",
+   "file": "2026-08-07-lifemaximised-2085761997526999415.md",
+   "kind": "candidate",
+   "author": "lifemaximised",
+   "date": "2026-08-07",
+   "url": "https://x.com/lifemaximised/status/2085761997526999415",
+   "eng": "26L/10BM/3kV",
+   "grade": "",
+   "gist": "I spent 48h building a FULL YouTube Ads system that combines Seedance 2.5 + Images 2.0 + Opus 5 From market research to winning AI ad creatives to campaign optimisation. And now I'",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2085761931252789248/img/EVGxGpzGrw0HU9Al.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091972209178796230",
+   "file": "2026-08-24-D_Only_Aji-2091972209178796230.md",
+   "kind": "candidate",
+   "author": "D_Only_Aji",
+   "date": "2026-08-24",
+   "url": "https://x.com/D_Only_Aji/status/2091972209178796230",
+   "eng": "9L/2BM/603V",
+   "grade": "",
+   "gist": "Just wrapped up this 3D animated performance ad for Rejuvenate, built from the ground up using an AI-assisted production workflow. From creative direction, visual storytelling and ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2091971510030217216/img/v3SLknfLdEAVeojU.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106709668324093965",
+   "file": "2026-10-04-vladdubchak_x-2106709668324093965.md",
+   "kind": "candidate",
+   "author": "vladdubchak_x",
+   "date": "2026-10-04",
+   "url": "https://x.com/vladdubchak_x/status/2106709668324093965",
+   "eng": "4L/3BM/223V",
+   "grade": "",
+   "gist": "Found this in the AI and CGI swipe file. A frequency-healing device has run the same ad for one hundred and ninety-eight days, and nobody speaks in it. It's three minutes and forty",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106441547449331712/img/OJ8OijgUlF6SgMMx.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2088725135130063256",
+   "file": "2026-08-15-clinton_xyz-2088725135130063256.md",
+   "kind": "candidate",
+   "author": "clinton_xyz",
+   "date": "2026-08-15",
+   "url": "https://x.com/clinton_xyz/status/2088725135130063256",
+   "eng": "7L/0BM/541V",
+   "grade": "",
+   "gist": "I'm looking to work with individuals or an agency as an AI video editor👨‍🎨 I make AI-generated ads and content: UGC, cartoon song style & 3D animation (claymation or pixar-style) 🤸",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082004242471268500",
+   "file": "2026-07-28-HikeMyTraffic-2082004242471268500.md",
+   "kind": "candidate",
+   "author": "HikeMyTraffic",
+   "date": "2026-07-28",
+   "url": "https://x.com/HikeMyTraffic/status/2082004242471268500",
+   "eng": "5L/0BM/65V",
+   "grade": "",
+   "gist": "Team HikeMyTraffic created this stunning Wilkinson Sword Hydro 5 razor commercial entirely with AI. 🎬AI Product Videos | CGI Ads | Social Creatives HikeMyTraffic helps brands turn ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082002658832130048/img/3lGRX7mJX7KKQ9Yf.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

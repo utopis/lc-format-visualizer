@@ -1,0 +1,87 @@
+{
+ "id": "F83",
+ "slug": "83-shock-gross-visual",
+ "name": "Shock & gross visual (the problem in close-up)",
+ "title": "83 · Shock & gross visual (the problem in close-up)",
+ "n_examples": 3,
+ "n_curated": 2,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2093350155751924213",
+   "file": "2026-08-28-FedotOff90-2093350155751924213.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-08-28",
+   "url": "https://x.com/FedotOff90/status/2093350155751924213",
+   "eng": "238L/632BM/20kV",
+   "grade": "SOME",
+   "gist": "7,500+ winning Meta ads sorted by format across public boards (top-50 DTC, beauty, natives, listicles, shock & gross, BOFU).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097694037050642468",
+   "file": "2026-09-09-FedotOff90-2097694037050642468.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-09",
+   "url": "https://x.com/FedotOff90/status/2097694037050642468",
+   "eng": "30L/31BM/3kV",
+   "grade": "SOME",
+   "gist": "Dog joint pain 4 formats, all 200+ days: \"SCAM ALERT… turns out it works?\" static, brace carousel, sticky-note UGC, quote carousel — format | lander | offer | days.",
+   "thumb": "https://pbs.twimg.com/media/HRyBmHlagAA_msG.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2099967483071582480",
+   "file": "2026-09-15-FedotOff90-2099967483071582480.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-09-15",
+   "url": "https://x.com/FedotOff90/status/2099967483071582480",
+   "eng": "3L/7BM/2kV",
+   "grade": "",
+   "gist": "Gross ads get banned in every \"clean creative\" guide. They keep making money anyway. A gross picture (the parasite, the plaque, the gunk in your pillow) stops the thumb for 2 secon",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099967317308551168/img/6tAtljy3_3ixU166.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

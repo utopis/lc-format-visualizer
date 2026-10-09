@@ -1,0 +1,165 @@
+{
+ "id": "F16",
+ "slug": "16-us-vs-copycat-screen-scroll",
+ "name": "Us-vs-copycat screen-scroll comparison (and comparison page)",
+ "title": "16 · Us-vs-copycat screen-scroll",
+ "n_examples": 8,
+ "n_curated": 4,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "in progress"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2104963469548085713",
+   "file": "2026-09-29-Nate_Google_-2104963469548085713.md",
+   "kind": "curated",
+   "author": "Nate_Google_",
+   "date": "2026-09-29",
+   "url": "https://x.com/Nate_Google_/status/2104963469548085713",
+   "eng": "258L/461BM/23kV",
+   "grade": "VALUE",
+   "gist": "Us-vs-copycat ads: iPhone scrolling fake Amazon listings explaining the difference - high CVR MOF.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2084404696840569332",
+   "file": "2026-08-03-antonioventre_-2084404696840569332.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-08-03",
+   "url": "https://x.com/antonioventre_/status/2084404696840569332",
+   "eng": "39L/23BM/3kV",
+   "grade": "VALUE",
+   "gist": "99% of comparison ads send click to PDP; send to dedicated comparison page instead.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099438014456045990",
+   "file": "2026-09-14-alexpagepilot-2099438014456045990.md",
+   "kind": "curated",
+   "author": "alexpagepilot",
+   "date": "2026-09-14",
+   "url": "https://x.com/alexpagepilot/status/2099438014456045990",
+   "eng": "11L/19BM/1kV",
+   "grade": "SOME",
+   "gist": "Top 5 dropship formats: UGC problem/solution, \"TikTok made me buy it\", us vs them split, founder talking head (retargets 2-3x), text-overlay slideshow.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2088266872194023737",
+   "file": "2026-08-14-EiyanDickerson-2088266872194023737.md",
+   "kind": "candidate",
+   "author": "EiyanDickerson",
+   "date": "2026-08-14",
+   "url": "https://x.com/EiyanDickerson/status/2088266872194023737",
+   "eng": "180L/248BM/9kV",
+   "grade": "",
+   "gist": "4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYhthrj2t",
+   "thumb": "https://pbs.twimg.com/media/HPsDpxYWAAAUdQk.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096337779412304217",
+   "file": "2026-09-05-Hashir_Shaikh_-2096337779412304217.md",
+   "kind": "candidate",
+   "author": "Hashir_Shaikh_",
+   "date": "2026-09-05",
+   "url": "https://x.com/Hashir_Shaikh_/status/2096337779412304217",
+   "eng": "127L/111BM/5kV",
+   "grade": "",
+   "gist": "We make 1,000+ statics every month. Around 10% are Us vs Them. Because showing the difference can be more powerful than simply talking about your product. Show people what they’re ",
+   "thumb": "https://pbs.twimg.com/media/HRewFwda0AAhOwe.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098426706612683154",
+   "file": "2026-09-11-EmerieOnoh-2098426706612683154.md",
+   "kind": "candidate",
+   "author": "EmerieOnoh",
+   "date": "2026-09-11",
+   "url": "https://x.com/EmerieOnoh/status/2098426706612683154",
+   "eng": "6L/6BM/498V",
+   "grade": "SOME",
+   "gist": "Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090399839309738284",
+   "file": "2026-08-20-ultimategrafiks-2090399839309738284.md",
+   "kind": "candidate",
+   "author": "ultimategrafiks",
+   "date": "2026-08-20",
+   "url": "https://x.com/ultimategrafiks/status/2090399839309738284",
+   "eng": "5L/0BM/179V",
+   "grade": "",
+   "gist": "I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love creating static ads that make ever",
+   "thumb": "https://pbs.twimg.com/media/HQKTf1kXAAAxtSY.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

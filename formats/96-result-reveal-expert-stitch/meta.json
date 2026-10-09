@@ -1,0 +1,102 @@
+{
+ "id": "F96",
+ "slug": "96-result-reveal-expert-stitch",
+ "name": "Result reveal → expert stitch ('Y'all, this is my dad… after listening to this man. Just listen.')",
+ "title": "96 · Result reveal → expert stitch (\"Y'all, this is my dad… after listening to this man. Just listen.\")",
+ "n_examples": 4,
+ "n_curated": 0,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2079614879309185498",
+   "file": "2026-07-21-valentinszabadi-2079614879309185498.md",
+   "kind": "candidate",
+   "author": "valentinszabadi",
+   "date": "2026-07-21",
+   "url": "https://x.com/valentinszabadi/status/2079614879309185498",
+   "eng": "49L/58BM/3kV",
+   "grade": "",
+   "gist": "How to iterate a winning creative as a strategist? Easy. - Change the talent - Change the format - UGC, VSL, Stitch, Street Interview, Podcast, AI slop, Pixar, Claymation, Lego - C",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082416231353590174",
+   "file": "2026-07-29-EvoBradley-2082416231353590174.md",
+   "kind": "candidate",
+   "author": "EvoBradley",
+   "date": "2026-07-29",
+   "url": "https://x.com/EvoBradley/status/2082416231353590174",
+   "eng": "18L/31BM/1kV",
+   "grade": "",
+   "gist": "The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits trust and reaction from someone ",
+   "thumb": "https://pbs.twimg.com/media/HOY6hhuWIAA4QSH.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085544771150352632",
+   "file": "2026-08-07-nicktheriot_-2085544771150352632.md",
+   "kind": "candidate",
+   "author": "nicktheriot_",
+   "date": "2026-08-07",
+   "url": "https://x.com/nicktheriot_/status/2085544771150352632",
+   "eng": "29L/23BM/3kV",
+   "grade": "",
+   "gist": "Begging every brand owner to stop this mistake: Sitting on 50 pieces of B-roll footage… And launching zero variations of it. Do THIS instead: ⦁ Find one hook → stitch one voiceover",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083448214431351004",
+   "file": "2026-08-01-CalixAVelarde-2083448214431351004.md",
+   "kind": "candidate",
+   "author": "CalixAVelarde",
+   "date": "2026-08-01",
+   "url": "https://x.com/CalixAVelarde/status/2083448214431351004",
+   "eng": "4L/1BM/461V",
+   "grade": "",
+   "gist": "this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back talking, in the car, ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083448093736091648/img/j3Nq0lakz5u6yLrn.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "F68",
+ "slug": "68-streak-calendar-static",
+ "name": "Streak calendar static (a habit grid filled with ✓ days)",
+ "title": "68 · Streak calendar static (a habit grid filled with ✓ days)",
+ "n_examples": 2,
+ "n_curated": 0,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2089682216209330375",
+   "file": "2026-08-18-monavb04-2089682216209330375.md",
+   "kind": "candidate",
+   "author": "monavb04",
+   "date": "2026-08-18",
+   "url": "https://x.com/monavb04/status/2089682216209330375",
+   "eng": "3L/0BM/236V",
+   "grade": "",
+   "gist": "Continuing to build out our open-source shadcn dashboard This time: 💬 Chat 📅 Calendar We wanted these to feel like actual apps rather than just static dashboard screens Here's a qu",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2089682003860033537/img/YanYlaB5T-WAd10o.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

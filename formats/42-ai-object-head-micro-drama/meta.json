@@ -1,0 +1,140 @@
+{
+ "id": "F42",
+ "slug": "42-ai-object-head-micro-drama",
+ "name": "AI object-head micro-drama (talking-fruit-style soap opera)",
+ "title": "42 · AI object-head micro-drama (talking-fruit-style soap opera)",
+ "n_examples": 6,
+ "n_curated": 2,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2103701345563812177",
+   "file": "2026-09-26-bmx_ai13-2103701345563812177.md",
+   "kind": "curated",
+   "author": "bmx_ai13",
+   "date": "2026-09-26",
+   "url": "https://x.com/bmx_ai13/status/2103701345563812177",
+   "eng": "44L/6BM/1kV",
+   "grade": "HYPE",
+   "gist": "AI micro-drama production skill (script → storyboard → consistent characters) — tool promo.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103597800772812800/img/wI1UMF6gf0srGL-_.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2089472288001347867",
+   "file": "2026-08-17-seergioo_gil-2089472288001347867.md",
+   "kind": "curated",
+   "author": "seergioo_gil",
+   "date": "2026-08-17",
+   "url": "https://x.com/seergioo_gil/status/2089472288001347867",
+   "eng": "9L/12BM/6kV",
+   "grade": "SOME",
+   "gist": "Talking-fruit micro-dramas (+20B views claimed): 1-2 min love/betrayal story, fruit heads on human bodies, AI lip-sync, plot twist. Tool promo.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2089471991908540416/img/joYgM9_S9pcAtkBb.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2096695495590568092",
+   "file": "2026-09-06-CodewizzyX-2096695495590568092.md",
+   "kind": "candidate",
+   "author": "CodewizzyX",
+   "date": "2026-09-06",
+   "url": "https://x.com/CodewizzyX/status/2096695495590568092",
+   "eng": "32L/22BM/3kV",
+   "grade": "",
+   "gist": "THESE VIRAL \"FRUIT DRAMA\" AI VIDEOS AREN'T RANDOM - THERE'S AN ACTUAL FORMULA AND IT'S FREE TO COPY No camera, no writers room, no editing. Absurd fruit soap operas are quietly pul",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2096695286924029953/img/gofbz-Uyb6bh5_iP.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082748308293071171",
+   "file": "2026-07-30-SmartEye_ADSpy-2082748308293071171.md",
+   "kind": "candidate",
+   "author": "SmartEye_ADSpy",
+   "date": "2026-07-30",
+   "url": "https://x.com/SmartEye_ADSpy/status/2082748308293071171",
+   "eng": "3L/0BM/242V",
+   "grade": "",
+   "gist": "🔥July 30 Global Micro Dramas & AI Micro Dramas: Multiple NetShort Horror Campus AI Dramas Secure Chart Rankings; Fruit-Themed AI Micro Drama Jumps to No.3 on TikTok Trending List 🔍",
+   "thumb": "https://pbs.twimg.com/media/HOdoi5Za0AAMAvb.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087111287184728470",
+   "file": "2026-08-11-SmartEye_ADSpy-2087111287184728470.md",
+   "kind": "candidate",
+   "author": "SmartEye_ADSpy",
+   "date": "2026-08-11",
+   "url": "https://x.com/SmartEye_ADSpy/status/2087111287184728470",
+   "eng": "3L/0BM/158V",
+   "grade": "",
+   "gist": "Top 3 Claim Over 40% of Global Market Revenue; Breakout AI Micro Drama App VibeShort Cracks the Chart Market Revenue Is Highly Concentrated: In H1 2026, the Top 20 global micro dra",
+   "thumb": "https://pbs.twimg.com/media/HPboo3LbsAAGxec.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087810501686481034",
+   "file": "2026-08-13-SmartEye_ADSpy-2087810501686481034.md",
+   "kind": "candidate",
+   "author": "SmartEye_ADSpy",
+   "date": "2026-08-13",
+   "url": "https://x.com/SmartEye_ADSpy/status/2087810501686481034",
+   "eng": "3L/0BM/137V",
+   "grade": "",
+   "gist": "Top 3 Contribute Over 40% of Market Revenue | Maiya's NetShort Cracks the Top 3 In H1 2026, the Top 20 Chinese micro drama apps in global markets generated a combined IAP revenue e",
+   "thumb": "https://pbs.twimg.com/media/HPlkWYwagAAm-JA.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

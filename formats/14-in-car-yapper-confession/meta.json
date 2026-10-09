@@ -1,0 +1,243 @@
+{
+ "id": "F14",
+ "slug": "14-in-car-yapper-confession",
+ "name": "In-car / \"yapper\" confession talking head",
+ "title": "14 · In-car / yapper confession",
+ "n_examples": 13,
+ "n_curated": 8,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2107526350605070475",
+   "file": "2026-10-06-hectorserrranoo-2107526350605070475.md",
+   "kind": "curated",
+   "author": "hectorserrranoo",
+   "date": "2026-10-06",
+   "url": "https://x.com/hectorserrranoo/status/2107526350605070475",
+   "eng": "210L/251BM/15kV",
+   "grade": "VALUE",
+   "gist": "Wispr Flow paid UGC program: what companies get wrong.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107525283083354112/img/Yfz7c9sEq_KbDrdj.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2096569603761827953",
+   "file": "2026-09-06-CEO_Vlad-2096569603761827953.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-09-06",
+   "url": "https://x.com/CEO_Vlad/status/2096569603761827953",
+   "eng": "88L/169BM/5kV",
+   "grade": "VALUE",
+   "gist": "AI UGC formats tiered: S = podcast, talking head, in-car...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108198291242676622",
+   "file": "2026-10-08-FedotOff90-2108198291242676622.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-10-08",
+   "url": "https://x.com/FedotOff90/status/2108198291242676622",
+   "eng": "69L/130BM/6kV",
+   "grade": "SOME",
+   "gist": "\"Yappers are printing\" — 299 raw talking-head yapper ads in one public swipe board (GetHookd \"Yapper Ads (raw talking-head UGC) - Oct 2026\").",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097351286094021034",
+   "file": "2026-09-08-LachezarVoynov-2097351286094021034.md",
+   "kind": "curated",
+   "author": "LachezarVoynov",
+   "date": "2026-09-08",
+   "url": "https://x.com/LachezarVoynov/status/2097351286094021034",
+   "eng": "86L/102BM/10kV",
+   "grade": "VALUE",
+   "gist": "$300k/mo strategy: wrappers that became top spenders = skits, carpool ads, Suno songs, AI Pixar-character podcasts; hooks must target different people.",
+   "thumb": "https://pbs.twimg.com/media/HRtJ4IxWsAA53Lh.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106136430556672384",
+   "file": "2026-10-02-hectorserrranoo-2106136430556672384.md",
+   "kind": "curated",
+   "author": "hectorserrranoo",
+   "date": "2026-10-02",
+   "url": "https://x.com/hectorserrranoo/status/2106136430556672384",
+   "eng": "97L/83BM/8kV",
+   "grade": "VALUE",
+   "gist": "Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106136321458647040/img/6jnbRKEe2t4UmgnO.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2100341794777227769",
+   "file": "2026-09-16-ZoeyBennettAi-2100341794777227769.md",
+   "kind": "curated",
+   "author": "ZoeyBennettAi",
+   "date": "2026-09-16",
+   "url": "https://x.com/ZoeyBennettAi/status/2100341794777227769",
+   "eng": "137L/7BM/24kV",
+   "grade": "SOME",
+   "gist": "'Product pitch that looks like a confession' is the format of 2026.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2106209597526540312",
+   "file": "2026-10-03-jennamediaco-2106209597526540312.md",
+   "kind": "curated",
+   "author": "jennamediaco",
+   "date": "2026-10-03",
+   "url": "https://x.com/jennamediaco/status/2106209597526540312",
+   "eng": "16L/7BM/1kV",
+   "grade": "VALUE",
+   "gist": "Simple in-car talking head ad scaling: car = organic, story throughout.",
+   "thumb": "https://pbs.twimg.com/media/HTrCd3oWQAA7EBp.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106794963006861535",
+   "file": "2026-10-04-harrydelmege_-2106794963006861535.md",
+   "kind": "curated",
+   "author": "harrydelmege_",
+   "date": "2026-10-04",
+   "url": "https://x.com/harrydelmege_/status/2106794963006861535",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "RolyPoly yapper ads: $154.5k spend in a single day across 1,635 ads; single ads at $45.1k and $33.1k; hook rates 44-62%, hold 31-48% (Ads Manager screenshot).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2081817960814178412",
+   "file": "2026-07-27-joeparugc-2081817960814178412.md",
+   "kind": "candidate",
+   "author": "joeparugc",
+   "date": "2026-07-27",
+   "url": "https://x.com/joeparugc/status/2081817960814178412",
+   "eng": "8L/0BM/209V",
+   "grade": "",
+   "gist": "My wife walked up to my Corvette with a mic and asked “how did you get so wealthy?” My answer? “I never overspent on pizza.” That’s an actual UGC ad I made for Pizza Hut. And it’s ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2081814701273755648/img/wGmOXin1Qow0yopp.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083448214431351004",
+   "file": "2026-08-01-CalixAVelarde-2083448214431351004.md",
+   "kind": "candidate",
+   "author": "CalixAVelarde",
+   "date": "2026-08-01",
+   "url": "https://x.com/CalixAVelarde/status/2083448214431351004",
+   "eng": "4L/1BM/461V",
+   "grade": "",
+   "gist": "this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back talking, in the car, ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083448093736091648/img/j3Nq0lakz5u6yLrn.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097636391798854069",
+   "file": "2026-09-09-tiffanyxugc-2097636391798854069.md",
+   "kind": "candidate",
+   "author": "tiffanyxugc",
+   "date": "2026-09-09",
+   "url": "https://x.com/tiffanyxugc/status/2097636391798854069",
+   "eng": "5L/0BM/159V",
+   "grade": "",
+   "gist": "#ugcexample of a yapper style script read in the car, edited by their team 🍬 I had creative freedom to take this script &amp; make it my own which makes the “higher edits” feel a l",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097636323066851328/img/Lo-o_Pztfyfg9X0z.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090130508256600274",
+   "file": "2026-08-19-ugcwithdarrell-2090130508256600274.md",
+   "kind": "candidate",
+   "author": "ugcwithdarrell",
+   "date": "2026-08-19",
+   "url": "https://x.com/ugcwithdarrell/status/2090130508256600274",
+   "eng": "4L/0BM/75V",
+   "grade": "",
+   "gist": "Beautiful sunny day. Ideal light. Filming in the car. Phone: “not today.” Nothing humbles a creator faster than a temperature warning. #UGC #UGCcommunity #UGCcreator",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2087571793452118181",
+   "file": "2026-08-12-houseofjenUGC-2087571793452118181.md",
+   "kind": "candidate",
+   "author": "houseofjenUGC",
+   "date": "2026-08-12",
+   "url": "https://x.com/houseofjenUGC/status/2087571793452118181",
+   "eng": "3L/0BM/145V",
+   "grade": "",
+   "gist": "Talking head in the car example! Yapping UGC as a mom ugc creator Hello@houseofjenugc.com https://t.co/4hlMiWlhlS",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087571700065927168/img/ROBKMlGmvHxNTzsc.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

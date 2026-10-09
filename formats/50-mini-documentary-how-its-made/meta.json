@@ -1,0 +1,205 @@
+{
+ "id": "F50",
+ "slug": "50-mini-documentary-how-its-made",
+ "name": "Mini-documentary / founder mini-VSL ('how it's made', mission)",
+ "title": "50 · Mini-documentary / founder mini-VSL (\"how it's made\", mission)",
+ "n_examples": 11,
+ "n_curated": 4,
+ "n_candidates": 6,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2085621175292670183",
+   "file": "2026-08-07-zackpaid-2085621175292670183.md",
+   "kind": "curated",
+   "author": "zackpaid",
+   "date": "2026-08-07",
+   "url": "https://x.com/zackpaid/status/2085621175292670183",
+   "eng": "9L/20BM/2kV",
+   "grade": "SOME",
+   "gist": "11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-doc, meme.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086324982892605618",
+   "file": "2026-08-09-rirahcreates-2086324982892605618.md",
+   "kind": "curated",
+   "author": "rirahcreates",
+   "date": "2026-08-09",
+   "url": "https://x.com/rirahcreates/status/2086324982892605618",
+   "eng": "18L/7BM/454V",
+   "grade": "SOME",
+   "gist": "AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI documentary.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2086324307970449408/img/mQYnLhtLckmAyK7S.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2101018997508669891",
+   "file": "2026-09-18-luisfelipebfr2-2101018997508669891.md",
+   "kind": "curated",
+   "author": "luisfelipebfr2",
+   "date": "2026-09-18",
+   "url": "https://x.com/luisfelipebfr2/status/2101018997508669891",
+   "eng": "0L/0BM/166V",
+   "grade": "VALUE",
+   "gist": "Eskiin founder mini-VSL breakdown: vision-board open loop → problem → failed solutions → mechanism → product → mission → retire mom.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101017775611203584/img/bl3oyW2g8HbTrBA7.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2079246318191403496",
+   "file": "2026-07-20-lorenzo_pravata-2079246318191403496.md",
+   "kind": "curated",
+   "author": "lorenzo_pravata",
+   "date": "2026-07-20",
+   "url": "https://x.com/lorenzo_pravata/status/2079246318191403496",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Resilia ~8,000 ads, \"$10-15M/month\" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083316144765649131",
+   "file": "2026-07-31-copywriter_adam-2083316144765649131.md",
+   "kind": "candidate",
+   "author": "copywriter_adam",
+   "date": "2026-07-31",
+   "url": "https://x.com/copywriter_adam/status/2083316144765649131",
+   "eng": "56L/30BM/5kV",
+   "grade": "",
+   "gist": "🚨 Hiring: Full-Time DTC E-commerce Video Editor (cracked at AI) We’re looking for a full-time DTC e-commerce video editor to join our team long-term. You should be highly skilled a",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082485801536168201",
+   "file": "2026-07-29-ladprofit-2082485801536168201.md",
+   "kind": "candidate",
+   "author": "ladprofit",
+   "date": "2026-07-29",
+   "url": "https://x.com/ladprofit/status/2082485801536168201",
+   "eng": "6L/2BM/4kV",
+   "grade": "",
+   "gist": "this mini VSL style ad is the highest converting format we've tested especially for telehealth authority figure, direct to camera, feels like advice not an ad made entirely with OM",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082485629926137856/img/jQZwE939z2KRhpEP.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080054481853788591",
+   "file": "2026-07-22-Haariz23-2080054481853788591.md",
+   "kind": "candidate",
+   "author": "Haariz23",
+   "date": "2026-07-22",
+   "url": "https://x.com/Haariz23/status/2080054481853788591",
+   "eng": "5L/4BM/743V",
+   "grade": "",
+   "gist": "A Small Creative Strategy Update. Ecom Bros & Creative Strategists Listen up. A brand came to me with ads that weren't converting. Same creatives. Same audience. Same budget. Just ",
+   "thumb": "https://pbs.twimg.com/media/HN3WhA9bwAAg6FP.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102744840647614638",
+   "file": "2026-09-23-TheJackBly-2102744840647614638.md",
+   "kind": "candidate",
+   "author": "TheJackBly",
+   "date": "2026-09-23",
+   "url": "https://x.com/TheJackBly/status/2102744840647614638",
+   "eng": "5L/2BM/3kV",
+   "grade": "",
+   "gist": "My Mini VSL Funnel signs new clients every month. Here's what it looks like: 1. Ads (short videos or image ads sharing a client case study) 2. Mini VSL (1-3 minute video breaking d",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2091148471684268417",
+   "file": "2026-08-22-TheJackBly-2091148471684268417.md",
+   "kind": "candidate",
+   "author": "TheJackBly",
+   "date": "2026-08-22",
+   "url": "https://x.com/TheJackBly/status/2091148471684268417",
+   "eng": "2L/0BM/4kV",
+   "grade": "",
+   "gist": "Last month we put in $6,143.14 into ads and generated $53,300 revenue. All through my Mini VSL Funnel.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2094146716417069510",
+   "file": "2026-08-30-BobG_Ecom-2094146716417069510.md",
+   "kind": "candidate",
+   "author": "BobG_Ecom",
+   "date": "2026-08-30",
+   "url": "https://x.com/BobG_Ecom/status/2094146716417069510",
+   "eng": "6L/0BM/201V",
+   "grade": "",
+   "gist": "0 to 100k/mo profit with ecom - Day 9 Back in the green, but slowing down as we are experiencing supply chain issues. I’ve been in the process making the custom variant of this pro",
+   "thumb": "https://pbs.twimg.com/media/HQ_nVpNXwAA3D8j.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

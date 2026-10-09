@@ -1,0 +1,69 @@
+{
+ "id": "F81",
+ "slug": "81-fiction-serial-native",
+ "name": "Fiction serial native (an episodic short story told across a run of ads)",
+ "title": "81 · Fiction serial native (an episodic short story told across a run of ads)",
+ "n_examples": 2,
+ "n_curated": 1,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2101445743412138341",
+   "file": "2026-09-19-FedotOff90-2101445743412138341.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-19",
+   "url": "https://x.com/FedotOff90/status/2101445743412138341",
+   "eng": "210L/592BM/83kV",
+   "grade": "SOME",
+   "gist": "Pocket FM storytelling drama ads — 199 longest-running; serial episode logic.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085621175292670183",
+   "file": "2026-08-07-zackpaid-2085621175292670183.md",
+   "kind": "candidate",
+   "author": "zackpaid",
+   "date": "2026-08-07",
+   "url": "https://x.com/zackpaid/status/2085621175292670183",
+   "eng": "9L/20BM/2kV",
+   "grade": "SOME",
+   "gist": "11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-doc, meme.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

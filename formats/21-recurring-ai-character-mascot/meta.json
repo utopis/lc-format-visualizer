@@ -1,0 +1,170 @@
+{
+ "id": "F21",
+ "slug": "21-recurring-ai-character-mascot",
+ "name": "Recurring (AI or illustrated) character / mascot page",
+ "title": "21 · Recurring character",
+ "n_examples": 8,
+ "n_curated": 3,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "in progress"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2103534688048414959",
+   "file": "2026-09-25-ErnestoSOFTWARE-2103534688048414959.md",
+   "kind": "curated",
+   "author": "ErnestoSOFTWARE",
+   "date": "2026-09-25",
+   "url": "https://x.com/ErnestoSOFTWARE/status/2103534688048414959",
+   "eng": "941L/1533BM/95kV",
+   "grade": "HYPE",
+   "gist": "11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103534633233100800/img/HwqT7X8btjKjMJex.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107172215586513360",
+   "file": "2026-10-05-sairahul1-2107172215586513360.md",
+   "kind": "curated",
+   "author": "sairahul1",
+   "date": "2026-10-05",
+   "url": "https://x.com/sairahul1/status/2107172215586513360",
+   "eng": "238L/329BM/22kV",
+   "grade": "SOME",
+   "gist": "GaryVee: make AI influencers; 'jean phil' 100M views in 1 week (recognizable odd character).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107051320087916544/img/cYB5FOWODpO4Uada.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107211233405325547",
+   "file": "2026-10-05-rewind02-2107211233405325547.md",
+   "kind": "curated",
+   "author": "rewind02",
+   "date": "2026-10-05",
+   "url": "https://x.com/rewind02/status/2107211233405325547",
+   "eng": "108L/56BM/4kV",
+   "grade": "SOME",
+   "gist": "AI influencer: treat character as a service, sell ads to brands.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107211054979653632/img/zkzNCPBY3jvSJKKq.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107022363313279044",
+   "file": "2026-10-05-MuteeAutomation-2107022363313279044.md",
+   "kind": "candidate",
+   "author": "MuteeAutomation",
+   "date": "2026-10-05",
+   "url": "https://x.com/MuteeAutomation/status/2107022363313279044",
+   "eng": "43L/39BM/3kV",
+   "grade": "",
+   "gist": "This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The result? Millions of views acr",
+   "thumb": "https://pbs.twimg.com/media/HT2lrADW0AA8RnO.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082833207402057894",
+   "file": "2026-07-30-BTCTanAces1-2082833207402057894.md",
+   "kind": "candidate",
+   "author": "BTCTanAces1",
+   "date": "2026-07-30",
+   "url": "https://x.com/BTCTanAces1/status/2082833207402057894",
+   "eng": "18L/0BM/343V",
+   "grade": "",
+   "gist": "Research on brand characters consistently shows measurable effects: higher recall, stronger emotional response, better long-term brand equity, and improved market-share performance",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107104155831546119",
+   "file": "2026-10-05-YouTubeAut3538-2107104155831546119.md",
+   "kind": "candidate",
+   "author": "YouTubeAut3538",
+   "date": "2026-10-05",
+   "url": "https://x.com/YouTubeAut3538/status/2107104155831546119",
+   "eng": "5L/2BM/361V",
+   "grade": "",
+   "gist": "This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The result? Millions of views acr",
+   "thumb": "https://pbs.twimg.com/media/HT3wDhTWYAA4NHG.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107048376558567547",
+   "file": "2026-10-05-Automation94453-2107048376558567547.md",
+   "kind": "candidate",
+   "author": "Automation94453",
+   "date": "2026-10-05",
+   "url": "https://x.com/Automation94453/status/2107048376558567547",
+   "eng": "5L/1BM/55V",
+   "grade": "",
+   "gist": "This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The result? Millions of views acr",
+   "thumb": "https://pbs.twimg.com/media/HT29U-TXUAAmMGk.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107147460443275590",
+   "file": "2026-10-05-AdebayoYTA-2107147460443275590.md",
+   "kind": "candidate",
+   "author": "AdebayoYTA",
+   "date": "2026-10-05",
+   "url": "https://x.com/AdebayoYTA/status/2107147460443275590",
+   "eng": "3L/0BM/110V",
+   "grade": "",
+   "gist": "Familiar news format. Satire on top. One recurring character. Same shape every upload. 60–90 seconds. Millions of views across the catalog. The videos are short because the format ",
+   "thumb": "https://pbs.twimg.com/media/HT4XcNvXsAAcbdX.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

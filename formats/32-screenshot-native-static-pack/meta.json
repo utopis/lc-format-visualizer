@@ -1,0 +1,159 @@
+{
+ "id": "F32",
+ "slug": "32-screenshot-native-static-pack",
+ "name": "Screenshot-native static pack (iPhone Notes, text thread, Reddit, email, Google, IG story/DM, Trustpilot)",
+ "title": "32 · Screenshot-native static pack (iPhone Notes, text thread, Reddit, email, Google, IG story/DM, Trustpilot)",
+ "n_examples": 8,
+ "n_curated": 8,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2081785032679518490",
+   "file": "2026-07-27-ads4apps-2081785032679518490.md",
+   "kind": "curated",
+   "author": "ads4apps",
+   "date": "2026-07-27",
+   "url": "https://x.com/ads4apps/status/2081785032679518490",
+   "eng": "412L/930BM/27kV",
+   "grade": "VALUE",
+   "gist": "39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breaking news, Reddit, Google search, text on skin, tier list, zero stars…",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096549796408619413",
+   "file": "2026-09-06-PhilKiel-2096549796408619413.md",
+   "kind": "curated",
+   "author": "PhilKiel",
+   "date": "2026-09-06",
+   "url": "https://x.com/PhilKiel/status/2096549796408619413",
+   "eng": "35L/37BM/6kV",
+   "grade": "VALUE",
+   "gist": "Format-level CPMs over 90 days: screenshot/fake-text/Reddit formats $7-12 vs educational talking heads $20; partnership creator $11-17 vs brand $18-31.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2087270100617646477",
+   "file": "2026-08-11-DtcMamun-2087270100617646477.md",
+   "kind": "curated",
+   "author": "DtcMamun",
+   "date": "2026-08-11",
+   "url": "https://x.com/DtcMamun/status/2087270100617646477",
+   "eng": "59L/14BM/3kV",
+   "grade": "SOME",
+   "gist": "Jewelry brand running AI statics + videos on TikTok/Meta: $14k sales on $7k ads (2.04 ROAS) day screenshot.",
+   "thumb": "https://pbs.twimg.com/media/HPd5FwTbUAAUBHs.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090725512976970065",
+   "file": "2026-08-21-raph_guilhem-2090725512976970065.md",
+   "kind": "curated",
+   "author": "raph_guilhem",
+   "date": "2026-08-21",
+   "url": "https://x.com/raph_guilhem/status/2090725512976970065",
+   "eng": "9L/6BM/377V",
+   "grade": "SOME",
+   "gist": "35 static/native formats tree: Trustpilot, text msg, email screenshot, Reddit, text on skin, crossed-out, tier list, Venn, breaking news.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090725302146105344/img/uA1K2IYxklTm-uus.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2098426706612683154",
+   "file": "2026-09-11-EmerieOnoh-2098426706612683154.md",
+   "kind": "curated",
+   "author": "EmerieOnoh",
+   "date": "2026-09-11",
+   "url": "https://x.com/EmerieOnoh/status/2098426706612683154",
+   "eng": "6L/6BM/498V",
+   "grade": "SOME",
+   "gist": "Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2084775630152114293",
+   "file": "2026-08-04-_evancarroll-2084775630152114293.md",
+   "kind": "curated",
+   "author": "_evancarroll",
+   "date": "2026-08-04",
+   "url": "https://x.com/_evancarroll/status/2084775630152114293",
+   "eng": "4L/2BM/239V",
+   "grade": "SOME",
+   "gist": "15 AI static frameworks: 3 core benefits, bold claim, us vs them, comparison chart, old vs new, 5-star, stat, press screenshot, notes app, sticky notes, meme, lo-fi.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085017654364958737",
+   "file": "2026-08-05-Yannlce-2085017654364958737.md",
+   "kind": "curated",
+   "author": "Yannlce",
+   "date": "2026-08-05",
+   "url": "https://x.com/Yannlce/status/2085017654364958737",
+   "eng": "3L/2BM/1kV",
+   "grade": "SOME",
+   "gist": "Same 40-format list (adds claymation, AI podcast).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

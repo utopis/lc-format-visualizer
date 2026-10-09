@@ -1,0 +1,233 @@
+{
+ "id": "F56",
+ "slug": "56-emotional-relatable-slideshow",
+ "name": "Emotional + relatable TikTok slideshow (share-bait story slides)",
+ "title": "56 · Emotional + relatable TikTok slideshow (share-bait story slides)",
+ "n_examples": 12,
+ "n_curated": 3,
+ "n_candidates": 9,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2107471216126906682",
+   "file": "2026-10-06-consumerxai-2107471216126906682.md",
+   "kind": "curated",
+   "author": "consumerxai",
+   "date": "2026-10-06",
+   "url": "https://x.com/consumerxai/status/2107471216126906682",
+   "eng": "12L/18BM/1kV",
+   "grade": "SOME",
+   "gist": "30 most-SAVED app TikTok hooks in 6 types (POV moment, name the viewer, disbelief, signs/lists, result first, pattern interrupt); save rate > views as signal.",
+   "thumb": "",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108234459241935255",
+   "file": "2026-10-08-g_buildz_apps-2108234459241935255.md",
+   "kind": "curated",
+   "author": "g_buildz_apps",
+   "date": "2026-10-08",
+   "url": "https://x.com/g_buildz_apps/status/2108234459241935255",
+   "eng": "7L/5BM/390V",
+   "grade": "SOME",
+   "gist": "\"Post emotional slideshows on TikTok\" — one slideshow: 13.3K views, 2,881 likes, 802 shares, 313 saves (TikTok Studio screenshot).",
+   "thumb": "",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2094812455847309758",
+   "file": "2026-09-01-g_buildz_apps-2094812455847309758.md",
+   "kind": "curated",
+   "author": "g_buildz_apps",
+   "date": "2026-09-01",
+   "url": "https://x.com/g_buildz_apps/status/2094812455847309758",
+   "eng": "0L/1BM/172V",
+   "grade": "SOME",
+   "gist": "Emotional slideshows do better every time and convert better (claim).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099496707209994736",
+   "file": "2026-09-14-brainextends-2099496707209994736.md",
+   "kind": "candidate",
+   "author": "brainextends",
+   "date": "2026-09-14",
+   "url": "https://x.com/brainextends/status/2099496707209994736",
+   "eng": "265L/497BM/16kV",
+   "grade": "SOME",
+   "gist": "2-slide slideshow, AI visuals + phone-notification copy -> 1M views, app $1k->$5k/mo.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099496665107615744/img/RrB1S-zf9qLPdLM0.jpg",
+   "media": [
+    "video",
+    "photo",
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2090094780864713021",
+   "file": "2026-08-19-rsalimx-2090094780864713021.md",
+   "kind": "candidate",
+   "author": "rsalimx",
+   "date": "2026-08-19",
+   "url": "https://x.com/rsalimx/status/2090094780864713021",
+   "eng": "76L/122BM/8kV",
+   "grade": "SOME",
+   "gist": "Claim slideshows convert harder than videos; it's about finding the right format.",
+   "thumb": "https://pbs.twimg.com/media/HQGB6J4WwAA9kRw.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100425887636472312",
+   "file": "2026-09-17-Dkevs_-2100425887636472312.md",
+   "kind": "candidate",
+   "author": "Dkevs_",
+   "date": "2026-09-17",
+   "url": "https://x.com/Dkevs_/status/2100425887636472312",
+   "eng": "90L/102BM/4kV",
+   "grade": "SOME",
+   "gist": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100425541719650304/img/gjGd-kh2OfocxdZs.jpg",
+   "media": [
+    "video",
+    "photo",
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2095543004626890752",
+   "file": "2026-09-03-BrunoF566-2095543004626890752.md",
+   "kind": "candidate",
+   "author": "BrunoF566",
+   "date": "2026-09-03",
+   "url": "https://x.com/BrunoF566/status/2095543004626890752",
+   "eng": "36L/46BM/3kV",
+   "grade": "",
+   "gist": "TikTok slideshows are being used completely wrong. Most people treat them like a lottery ticket. Post the same recycled hooks, hope one goes viral, then wonder why the views never ",
+   "thumb": "https://pbs.twimg.com/media/HRTdQSqWsAQPE6s.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092356624761475331",
+   "file": "2026-08-25-JamesEbringer-2092356624761475331.md",
+   "kind": "candidate",
+   "author": "JamesEbringer",
+   "date": "2026-08-25",
+   "url": "https://x.com/JamesEbringer/status/2092356624761475331",
+   "eng": "22L/10BM/2kV",
+   "grade": "",
+   "gist": "You dont need to create one perfect tiktok slideshow but you need to create 100 good ones So stop overthinking the content you post All you need to do is to be obsessed with testin",
+   "thumb": "https://pbs.twimg.com/media/HQmLQSpX0AEJn2r.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2095912032583262247",
+   "file": "2026-09-04-getnoise-2095912032583262247.md",
+   "kind": "candidate",
+   "author": "getnoise",
+   "date": "2026-09-04",
+   "url": "https://x.com/getnoise/status/2095912032583262247",
+   "eng": "8L/4BM/2kV",
+   "grade": "",
+   "gist": "6th #Shipaton GIVEAWAY! 🧵 (09/04 to 09/11) This week, we want to see a VIRAL TIKTOK SLIDESHOW from your app's category 📲 Slideshows are one of the most common content types on Nois",
+   "thumb": "https://pbs.twimg.com/media/HRYs3dXa0AMjQhI.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096282993375461750",
+   "file": "2026-09-05-VantaClip-2096282993375461750.md",
+   "kind": "candidate",
+   "author": "VantaClip",
+   "date": "2026-09-05",
+   "url": "https://x.com/VantaClip/status/2096282993375461750",
+   "eng": "4L/0BM/204V",
+   "grade": "",
+   "gist": "🐶 MAKE MONEY MAKING TIKTOK SLIDESHOWS We’re looking for TikTok slideshow creators to promote Tails. 💰 $1 CPM — every 1,000 views = $1 📱 Create simple TikTok slideshows 💸 Get paid b",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099889565829849581",
+   "file": "2026-09-15-VantaClip-2099889565829849581.md",
+   "kind": "candidate",
+   "author": "VantaClip",
+   "date": "2026-09-15",
+   "url": "https://x.com/VantaClip/status/2099889565829849581",
+   "eng": "3L/0BM/172V",
+   "grade": "",
+   "gist": "🐶 DEDICATED TAILS SLIDESHOW CREATORS WANTED We’re looking for dedicated TikTok slideshow creators to push the Tails campaign HARD. This is a $1,000 campaign budget, and we’re looki",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102792215399727277",
+   "file": "2026-09-23-henrybui_io-2102792215399727277.md",
+   "kind": "candidate",
+   "author": "henrybui_io",
+   "date": "2026-09-23",
+   "url": "https://x.com/henrybui_io/status/2102792215399727277",
+   "eng": "3L/0BM/129V",
+   "grade": "",
+   "gist": "day 16: &gt; read some posts on @reel_farm site to learn how to warm up a TikTok account &gt; good news: Apple sent a congrats email; my app has been approved and can be released n",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

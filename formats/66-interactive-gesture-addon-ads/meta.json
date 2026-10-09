@@ -1,0 +1,57 @@
+{
+ "id": "F66",
+ "slug": "66-interactive-gesture-addon-ads",
+ "name": "Interactive gesture add-on ads (TikTok tap-to-reveal, shake-to-reveal, Super Like)",
+ "title": "66 · Interactive gesture add-on ads (TikTok tap-to-reveal, shake-to-reveal, Super Like)",
+ "n_examples": 1,
+ "n_curated": 0,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2087895969157246985",
+   "file": "2026-08-13-_deepakss_-2087895969157246985.md",
+   "kind": "candidate",
+   "author": "_deepakss_",
+   "date": "2026-08-13",
+   "url": "https://x.com/_deepakss_/status/2087895969157246985",
+   "eng": "10L/0BM/201V",
+   "grade": "",
+   "gist": "Building \"Tiktok for games\" Arcadeo for this year's Shipaton. My main aim is to have a non frustrating experience when viewing an ad. This means user can skip the ad in 5 seconds, ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087894468787675137/img/kdqgSw2hFmtsqg-i.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

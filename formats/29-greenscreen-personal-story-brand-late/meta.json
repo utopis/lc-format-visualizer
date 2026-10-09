@@ -1,0 +1,332 @@
+{
+ "id": "F29",
+ "slug": "29-greenscreen-personal-story-brand-late",
+ "name": "Green-screen personal story / long-form yapper (brand appears late)",
+ "title": "29 · Green-screen personal story / long-form yapper (brand appears late)",
+ "n_examples": 19,
+ "n_curated": 6,
+ "n_candidates": 13,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2084298521251860579",
+   "file": "2026-08-03-williamkast_-2084298521251860579.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-03",
+   "url": "https://x.com/williamkast_/status/2084298521251860579",
+   "eng": "227L/549BM/17kV",
+   "grade": "VALUE",
+   "gist": "5 formats that win in every account, each with a live Atria ad link: founder, yapper, AI educator, B-roll text overlay, long VSL.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090446853565296658",
+   "file": "2026-08-20-StefanGeorgi-2090446853565296658.md",
+   "kind": "curated",
+   "author": "StefanGeorgi",
+   "date": "2026-08-20",
+   "url": "https://x.com/StefanGeorgi/status/2090446853565296658",
+   "eng": "220L/280BM/39kV",
+   "grade": "VALUE",
+   "gist": "Stefan Georgi: yapper-style winner ~$750k spend in <3 weeks on an angle the brand said \"doesn't work\"; double 80/20 rule (80% proven formats).",
+   "thumb": "https://pbs.twimg.com/media/HQLCN6NWMAA1tzu.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078147137049923751",
+   "file": "2026-07-17-danclipping-2078147137049923751.md",
+   "kind": "curated",
+   "author": "danclipping",
+   "date": "2026-07-17",
+   "url": "https://x.com/danclipping/status/2078147137049923751",
+   "eng": "43L/52BM/6kV",
+   "grade": "SOME",
+   "gist": "Manifestation app 250K downloads from 2 formats: reaction + app demo, and the yap format (1.3M views, strong hook). Comment-gated guide.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078147101792604160/img/UUbCI_tnm5_hNEx3.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078179704050246125",
+   "file": "2026-07-17-williamkast_-2078179704050246125.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-07-17",
+   "url": "https://x.com/williamkast_/status/2078179704050246125",
+   "eng": "28L/34BM/3kV",
+   "grade": "VALUE",
+   "gist": "5 formats to test: founder talking head, voiceless B-roll text overlay, yapper (uncut), AI educational, camouflage static + long copy.",
+   "thumb": "https://pbs.twimg.com/media/HNctbXjWYAA91qu.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103485927528009820",
+   "file": "2026-09-25-therahulissar-2103485927528009820.md",
+   "kind": "curated",
+   "author": "therahulissar",
+   "date": "2026-09-25",
+   "url": "https://x.com/therahulissar/status/2103485927528009820",
+   "eng": "12L/7BM/1kV",
+   "grade": "VALUE",
+   "gist": "Trends beyond AI: greenscreen personal story with no product until late; natives → quiz funnel; founder calling customers.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086497571313537299",
+   "file": "2026-08-09-zackpaid-2086497571313537299.md",
+   "kind": "candidate",
+   "author": "zackpaid",
+   "date": "2026-08-09",
+   "url": "https://x.com/zackpaid/status/2086497571313537299",
+   "eng": "130L/93BM/10kV",
+   "grade": "",
+   "gist": "Claude Opus 5 x Seedance 2.5 is the most CRACKED combo for generating winning meta ad creatives AT SCALE So I'm giving away the full AI creative blueprint we use to produce 30 winn",
+   "thumb": "https://pbs.twimg.com/media/HPS6eS1bwAA-lWK.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083288607062732816",
+   "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+   "kind": "candidate",
+   "author": "raph_guilhem",
+   "date": "2026-07-31",
+   "url": "https://x.com/raph_guilhem/status/2083288607062732816",
+   "eng": "55L/105BM/7kV",
+   "grade": "VALUE",
+   "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105303432424767662",
+   "file": "2026-09-30-antonioventre_-2105303432424767662.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-09-30",
+   "url": "https://x.com/antonioventre_/status/2105303432424767662",
+   "eng": "67L/94BM/4kV",
+   "grade": "",
+   "gist": "Native ads, end to end, for anyone who wants to build one The image - A normal looking photo, like something a friend posted - A bit weird on purpose, so people stop - The problem ",
+   "thumb": "https://pbs.twimg.com/media/HTeKULHWQAAQlD3.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076794556180308204",
+   "file": "2026-07-13-antonioventre_-2076794556180308204.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-13",
+   "url": "https://x.com/antonioventre_/status/2076794556180308204",
+   "eng": "75L/73BM/4kV",
+   "grade": "",
+   "gist": "These ads are crushing for our eCommerce clients right now: - FaceTime call ads - Customer service call - Street interviews - Trend ads - Yapping ads - AI storytelling ads - Founde",
+   "thumb": "https://pbs.twimg.com/media/HNJBpGRXEAAyPsR.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083984888127271189",
+   "file": "2026-08-02-AvaGrace_AI-2083984888127271189.md",
+   "kind": "candidate",
+   "author": "AvaGrace_AI",
+   "date": "2026-08-02",
+   "url": "https://x.com/AvaGrace_AI/status/2083984888127271189",
+   "eng": "43L/12BM/27kV",
+   "grade": "",
+   "gist": "🚨 AI videos are getting easier to generate. The real challenge is controlling the final result. That's why Seedance 2.5 inside CapCut caught my attention. Instead of just creating ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083984824189194240/img/FJurhOq9a6wKMRY3.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078849094311674138",
+   "file": "2026-07-19-antonioventre_-2078849094311674138.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-19",
+   "url": "https://x.com/antonioventre_/status/2078849094311674138",
+   "eng": "36L/28BM/2kV",
+   "grade": "",
+   "gist": "Green screen reaction ads are working really well right now. Here is the setup. You have a main video, usually a creator or an AI creator telling a story or talking about a problem",
+   "thumb": "https://pbs.twimg.com/media/HNmOO-fXwAAkwu2.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078874761669554521",
+   "file": "2026-07-19-antonioventre_-2078874761669554521.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-19",
+   "url": "https://x.com/antonioventre_/status/2078874761669554521",
+   "eng": "25L/32BM/2kV",
+   "grade": "",
+   "gist": "Three ways we run native ads, all built on a long story in the primary text. 1. Personal story. A real selfie and a first-person story. It feels like a friend posting, not a brand ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083948194988220841",
+   "file": "2026-08-02-antonioventre_-2083948194988220841.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-08-02",
+   "url": "https://x.com/antonioventre_/status/2083948194988220841",
+   "eng": "33L/26BM/2kV",
+   "grade": "",
+   "gist": "Green screen reaction ads are still one of our most reliable formats, and most brands build them wrong. The setup: a base video plays (a story, a demo, an AI explanation), and a cr",
+   "thumb": "https://pbs.twimg.com/media/HOur1riWwAAhfIi.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082130750204428404",
+   "file": "2026-07-28-ginacostag_-2082130750204428404.md",
+   "kind": "candidate",
+   "author": "ginacostag_",
+   "date": "2026-07-28",
+   "url": "https://x.com/ginacostag_/status/2082130750204428404",
+   "eng": "14L/2BM/34kV",
+   "grade": "",
+   "gist": "The next AI video advantage may not come from generating more clips. It may come from making the entire production workflow easier to control. Dreamina Seedance 2.5 is coming soon ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082130726917709825/img/Pyfh_BeJl6kRcn5W.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090725512976970065",
+   "file": "2026-08-21-raph_guilhem-2090725512976970065.md",
+   "kind": "candidate",
+   "author": "raph_guilhem",
+   "date": "2026-08-21",
+   "url": "https://x.com/raph_guilhem/status/2090725512976970065",
+   "eng": "9L/6BM/377V",
+   "grade": "SOME",
+   "gist": "35 static/native formats tree: Trustpilot, text msg, email screenshot, Reddit, text on skin, crossed-out, tier list, Venn, breaking news.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090725302146105344/img/uA1K2IYxklTm-uus.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2098426706612683154",
+   "file": "2026-09-11-EmerieOnoh-2098426706612683154.md",
+   "kind": "candidate",
+   "author": "EmerieOnoh",
+   "date": "2026-09-11",
+   "url": "https://x.com/EmerieOnoh/status/2098426706612683154",
+   "eng": "6L/6BM/498V",
+   "grade": "SOME",
+   "gist": "Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085314160317911360",
+   "file": "2026-08-06-DEO_TechJobs-2085314160317911360.md",
+   "kind": "candidate",
+   "author": "DEO_TechJobs",
+   "date": "2026-08-06",
+   "url": "https://x.com/DEO_TechJobs/status/2085314160317911360",
+   "eng": "7L/4BM/2kV",
+   "grade": "",
+   "gist": "Remote Hiring: Expert Video Editor 🌍 Remote 💼 Full-Time We’re looking for an experienced Video Editor who can create high-quality, engaging content across multiple digital platform",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102106541394399259",
+   "file": "2026-09-21-Geoffreyhurth-2102106541394399259.md",
+   "kind": "candidate",
+   "author": "Geoffreyhurth",
+   "date": "2026-09-21",
+   "url": "https://x.com/Geoffreyhurth/status/2102106541394399259",
+   "eng": "3L/0BM/230V",
+   "grade": "",
+   "gist": "💸 10 ad concepts quietly printing money on Meta right now: 1. Yapping: Raw, unscripted, straight to camera. Feels like a friend, not an ad. 2. Pixar Ads: AI-animated story worlds. ",
+   "thumb": "https://pbs.twimg.com/media/HSwuwiGW8AAW_TK.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

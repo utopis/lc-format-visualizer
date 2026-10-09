@@ -1,0 +1,165 @@
+{
+ "id": "F88",
+ "slug": "88-challenge-ad",
+ "name": "Challenge ad ('the 30-day never-take-it-off challenge')",
+ "title": "88 · Challenge ad (\"the 30-day never-take-it-off challenge\")",
+ "n_examples": 8,
+ "n_curated": 0,
+ "n_candidates": 8,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2094998935949427016",
+   "file": "2026-09-02-KimRaceRod-2094998935949427016.md",
+   "kind": "candidate",
+   "author": "KimRaceRod",
+   "date": "2026-09-02",
+   "url": "https://x.com/KimRaceRod/status/2094998935949427016",
+   "eng": "9L/0BM/107V",
+   "grade": "",
+   "gist": "Day 15 of the Creator Quest 30 day challenge!!! I did a reach out with my comment banner and it does look more professional!!! #cqchallenge #ugc @UGCbyBrandon https://t.co/J4hUxw7Q",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094998853854388224/img/psNRyExc7CMWbdR1.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093064218568233104",
+   "file": "2026-08-27-KimRaceRod-2093064218568233104.md",
+   "kind": "candidate",
+   "author": "KimRaceRod",
+   "date": "2026-08-27",
+   "url": "https://x.com/KimRaceRod/status/2093064218568233104",
+   "eng": "8L/0BM/139V",
+   "grade": "",
+   "gist": "Day 9 of the Creator Quest UGC 30 day challenge. Working on sharpening and adding to my Fiverr, thumbnails to look more professional and mock videos to add to my portfolio and pitc",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2093064134640234496/img/_B1LgBRqxV27Aly-.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100366661324779651",
+   "file": "2026-09-16-KimRaceRod-2100366661324779651.md",
+   "kind": "candidate",
+   "author": "KimRaceRod",
+   "date": "2026-09-16",
+   "url": "https://x.com/KimRaceRod/status/2100366661324779651",
+   "eng": "7L/0BM/79V",
+   "grade": "",
+   "gist": "Day 30 of the Creator Quest UGC 30 day challenge 🙌🏼 We made and I learned so much!!! It's just the beginning 🙌🏼 #cqchallenge #ugc @UGCbyBrandon https://t.co/YxZrOsZlu4",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100366554663661568/img/A9QmIRX3ysDpwm0m.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097084996548726860",
+   "file": "2026-09-07-KimRaceRod-2097084996548726860.md",
+   "kind": "candidate",
+   "author": "KimRaceRod",
+   "date": "2026-09-07",
+   "url": "https://x.com/KimRaceRod/status/2097084996548726860",
+   "eng": "6L/0BM/125V",
+   "grade": "",
+   "gist": "Day 21 of Creator Quest UGC 30 day challenge!!! I can't count and did two 19s🤦🏻‍♀️ Heading it to the last week and learning a ton🙌🏼 #cqchallenge #ugc @UGCbyBrandon https://t.co/GDo",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097084878181343232/img/3c2cswebPslvg1DF.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096026203589095690",
+   "file": "2026-09-05-KimRaceRod-2096026203589095690.md",
+   "kind": "candidate",
+   "author": "KimRaceRod",
+   "date": "2026-09-05",
+   "url": "https://x.com/KimRaceRod/status/2096026203589095690",
+   "eng": "5L/0BM/123V",
+   "grade": "",
+   "gist": "Day 18 of the Creator Quest UGC 30 day challenge!! I can't wait to land some gigs☺️ #cqchallenge #ugc @UGCbyBrandon https://t.co/wgkLXo5eXM",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2096026131514142728/img/UYsOdHeV78SSkIdg.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093143918355357888",
+   "file": "2026-08-28-TheModernElder-2093143918355357888.md",
+   "kind": "candidate",
+   "author": "TheModernElder",
+   "date": "2026-08-28",
+   "url": "https://x.com/TheModernElder/status/2093143918355357888",
+   "eng": "4L/0BM/167V",
+   "grade": "",
+   "gist": "DAY 10 OF UGC 30 DAY CHALLENGE Today video creation is officially running on repeat in my head. Reaching Day 10 has shifted my focus from making content to building an authentic pr",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2093138548975075328/img/qbNiwU2R-u7m8Tge.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103851221970792610",
+   "file": "2026-09-26-_davedigital-2103851221970792610.md",
+   "kind": "candidate",
+   "author": "_davedigital",
+   "date": "2026-09-26",
+   "url": "https://x.com/_davedigital/status/2103851221970792610",
+   "eng": "4L/0BM/166V",
+   "grade": "",
+   "gist": "I love when a brand spanking new creator does a 30-day challenge one video a day... Follow this one. She's my friend. https://t.co/Mqy954SciV",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090166001287487655",
+   "file": "2026-08-19-DariusHang-2090166001287487655.md",
+   "kind": "candidate",
+   "author": "DariusHang",
+   "date": "2026-08-19",
+   "url": "https://x.com/DariusHang/status/2090166001287487655",
+   "eng": "3L/0BM/85V",
+   "grade": "",
+   "gist": "DAY 3 of growing my apps to $1M - ugc videos started coming in for my main ios app (will post results in a few days) - locked in on coding my second ios app, really excited because",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "id": "F28",
+ "slug": "28-reaction-hook-plus-demo",
+ "name": "Reaction hook + fast demo (Cal AI / app-UGC 'hook and demo')",
+ "title": "28 · Reaction hook + fast demo (Cal AI / app-UGC \"hook and demo\")",
+ "n_examples": 25,
+ "n_curated": 14,
+ "n_candidates": 11,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "curated",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102818749384421524",
+   "file": "2026-09-23-jesseabed_-2102818749384421524.md",
+   "kind": "curated",
+   "author": "jesseabed_",
+   "date": "2026-09-23",
+   "url": "https://x.com/jesseabed_/status/2102818749384421524",
+   "eng": "148L/324BM/18kV",
+   "grade": "VALUE",
+   "gist": "Sideshift creator pay: hook-and-demo creators ~$400 base + view milestones for 40-60 videos; talking head/skit ~$400 for 20-30; 25% upfront.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086830919587942456",
+   "file": "2026-08-10-alexolim_-2086830919587942456.md",
+   "kind": "curated",
+   "author": "alexolim_",
+   "date": "2026-08-10",
+   "url": "https://x.com/alexolim_/status/2086830919587942456",
+   "eng": "55L/192BM/9kV",
+   "grade": "SOME",
+   "gist": "Glam AI / Cal AI / Umax used the same 5 UGC content patterns to $1M MRR (image + thread).",
+   "thumb": "https://pbs.twimg.com/media/HPXppqzWEAIwEqS.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076336849111449657",
+   "file": "2026-07-12-lucaspatiri_-2076336849111449657.md",
+   "kind": "curated",
+   "author": "lucaspatiri_",
+   "date": "2026-07-12",
+   "url": "https://x.com/lucaspatiri_/status/2076336849111449657",
+   "eng": "53L/122BM/4kV",
+   "grade": "VALUE",
+   "gist": "9 hooks in 80% of top app UGC (500+ videos/30 apps): POV, reaction discovery (highest-converting), \"that friend who…\", before/after, guilty confession, stat in first 0.5s.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2069747240634032364",
+   "file": "2026-06-24-cesaralvarezll-2069747240634032364.md",
+   "kind": "curated",
+   "author": "cesaralvarezll",
+   "date": "2026-06-24",
+   "url": "https://x.com/cesaralvarezll/status/2069747240634032364",
+   "eng": "74L/108BM/9kV",
+   "grade": "SOME",
+   "gist": "UGC reaction + app demo works for almost any product (Arcads pitch).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2069746789884801024/img/oldCZoQzMhfZXuU1.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107903429490135362",
+   "file": "2026-10-07-leonclipping-2107903429490135362.md",
+   "kind": "curated",
+   "author": "leonclipping",
+   "date": "2026-10-07",
+   "url": "https://x.com/leonclipping/status/2107903429490135362",
+   "eng": "44L/66BM/3kV",
+   "grade": "VALUE",
+   "gist": "Musa app: ONE format (4-sec shocked reaction to a body fact → mascot explains) = 522M views, 930 videos >100K, 100+ creators.",
+   "thumb": "https://pbs.twimg.com/media/HUDG8-nXoAAby1q.jpg",
+   "media": [
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2096219973139992840",
+   "file": "2026-09-05-nicktheriot_-2096219973139992840.md",
+   "kind": "curated",
+   "author": "nicktheriot_",
+   "date": "2026-09-05",
+   "url": "https://x.com/nicktheriot_/status/2096219973139992840",
+   "eng": "45L/55BM/4kV",
+   "grade": "VALUE",
+   "gist": "Stuck-account order: new avatar → new style (AI UGC, animation, unboxing, reaction, native) → curiosity text hook → uncommon location → combos.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078147137049923751",
+   "file": "2026-07-17-danclipping-2078147137049923751.md",
+   "kind": "curated",
+   "author": "danclipping",
+   "date": "2026-07-17",
+   "url": "https://x.com/danclipping/status/2078147137049923751",
+   "eng": "43L/52BM/6kV",
+   "grade": "SOME",
+   "gist": "Manifestation app 250K downloads from 2 formats: reaction + app demo, and the yap format (1.3M views, strong hook). Comment-gated guide.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078147101792604160/img/UUbCI_tnm5_hNEx3.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2077482959620190437",
+   "file": "2026-07-15-carlynorthmedia-2077482959620190437.md",
+   "kind": "curated",
+   "author": "carlynorthmedia",
+   "date": "2026-07-15",
+   "url": "https://x.com/carlynorthmedia/status/2077482959620190437",
+   "eng": "29L/57BM/4kV",
+   "grade": "VALUE",
+   "gist": "4.7M views in 11 seconds: shocked reaction + hook text → sped-up demo → on-screen text steps.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2077481592100880384/img/-z5e4dAyIQO1Q9bi.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2103180929057407425",
+   "file": "2026-09-24-Ecombos_Ai-2103180929057407425.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-09-24",
+   "url": "https://x.com/Ecombos_Ai/status/2103180929057407425",
+   "eng": "28L/26BM/2kV",
+   "grade": "SOME",
+   "gist": "10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/after, whiteboard.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101054562253631699",
+   "file": "2026-09-18-jhueri-2101054562253631699.md",
+   "kind": "curated",
+   "author": "jhueri",
+   "date": "2026-09-18",
+   "url": "https://x.com/jhueri/status/2101054562253631699",
+   "eng": "25L/24BM/5kV",
+   "grade": "SOME",
+   "gist": "UGC formats ranked by conversion: talking head > hook-and-demo > skit … long text on screen last.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096916156389240853",
+   "file": "2026-09-07-consumerxai-2096916156389240853.md",
+   "kind": "curated",
+   "author": "consumerxai",
+   "date": "2026-09-07",
+   "url": "https://x.com/consumerxai/status/2096916156389240853",
+   "eng": "14L/24BM/1kV",
+   "grade": "SOME",
+   "gist": "Outlier: aesthetic desk-setup hook + split-screen app demo, 558K views/4.4K saves.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2096916138789888000/img/cCGIoF6ZSJXQ91MR.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2082865419950452866",
+   "file": "2026-07-30-youravgtechbro-2082865419950452866.md",
+   "kind": "curated",
+   "author": "youravgtechbro",
+   "date": "2026-07-30",
+   "url": "https://x.com/youravgtechbro/status/2082865419950452866",
+   "eng": "5L/4BM/462V",
+   "grade": "SOME",
+   "gist": "Formats that worked: hook (AI avatar + spicy text) then demo; text-on-screen over a background clip for awareness.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082864711171784705/img/MSDmT2B0teehZO7s.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2108191952047153611",
+   "file": "2026-10-08-themariaines-2108191952047153611.md",
+   "kind": "curated",
+   "author": "themariaines",
+   "date": "2026-10-08",
+   "url": "https://x.com/themariaines/status/2108191952047153611",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Same hook, same format, different app: Albo 891.8K views, $70K/mo — \"been shopping at Aldi for 10 years and NOW I FIND THIS\" + silent demo.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2092704268734099547",
+   "file": "2026-08-26-simonecanciello-2092704268734099547.md",
+   "kind": "candidate",
+   "author": "simonecanciello",
+   "date": "2026-08-26",
+   "url": "https://x.com/simonecanciello/status/2092704268734099547",
+   "eng": "47L/77BM/15kV",
+   "grade": "",
+   "gist": "this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching for “long distance relationship",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092704215634210816/img/jGu3u0nzhdGGmslk.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107146750016307623",
+   "file": "2026-10-05-rudybuild-2107146750016307623.md",
+   "kind": "candidate",
+   "author": "rudybuild",
+   "date": "2026-10-05",
+   "url": "https://x.com/rudybuild/status/2107146750016307623",
+   "eng": "44L/10BM/3kV",
+   "grade": "",
+   "gist": "Not even close. We've gotten 12 million users from UGC and have done over a billion views in the past 6 months. The bar to going viral is 10 times higher than it was 2 years ago. G",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104924114712469774",
+   "file": "2026-09-29-nicholasnlawton-2104924114712469774.md",
+   "kind": "candidate",
+   "author": "nicholasnlawton",
+   "date": "2026-09-29",
+   "url": "https://x.com/nicholasnlawton/status/2104924114712469774",
+   "eng": "44L/7BM/3kV",
+   "grade": "",
+   "gist": "Looking at the current state of tech UGC on TikTok today and remembering a time in early 2025 where you could lob up a hook and demo and drive 100k new users off a single vid: http",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104923918364471296/img/bo905IhXVB72Antz.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079987510680150282",
+   "file": "2026-07-22-danclipping-2079987510680150282.md",
+   "kind": "candidate",
+   "author": "danclipping",
+   "date": "2026-07-22",
+   "url": "https://x.com/danclipping/status/2079987510680150282",
+   "eng": "19L/15BM/4kV",
+   "grade": "",
+   "gist": "This app raked 7.1M views 387K like with the usual WTH reaction hook And they have hundreds of videos in this format with millions of views Works every time https://t.co/XfE9xdNz1z",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2079987445135810560/img/yOU9SCc_I8uvPOXp.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103021653890621561",
+   "file": "2026-09-24-endyjtwn-2103021653890621561.md",
+   "kind": "candidate",
+   "author": "endyjtwn",
+   "date": "2026-09-24",
+   "url": "https://x.com/endyjtwn/status/2103021653890621561",
+   "eng": "14L/5BM/6kV",
+   "grade": "",
+   "gist": "my goal is to get at least 1 sub a day so i’m aiming for 5k+ views across all accounts every day. organically only me testing different formats i started with: - reaction hook + de",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086964752329408933",
+   "file": "2026-08-10-type_tjay-2086964752329408933.md",
+   "kind": "candidate",
+   "author": "type_tjay",
+   "date": "2026-08-10",
+   "url": "https://x.com/type_tjay/status/2086964752329408933",
+   "eng": "2L/8BM/550V",
+   "grade": "",
+   "gist": "Playbook: - Find a format that works, try everything under the sun - Everything under the sun - but only the ones that can scale - By scale it mean, must have a programmable compon",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2086961229269176320/img/v9gcBF1yh4o6fnlx.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087608814551904327",
+   "file": "2026-08-12-getnoise-2087608814551904327.md",
+   "kind": "candidate",
+   "author": "getnoise",
+   "date": "2026-08-12",
+   "url": "https://x.com/getnoise/status/2087608814551904327",
+   "eng": "6L/4BM/607V",
+   "grade": "",
+   "gist": "Viral Hook + Demo format from Cantina 📝 ”Use ChatGPT to make money online” - but actually, you’re using their service to do it. No one thinks twice about using ChatGPT in a workflo",
+   "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2087607670408654848/pu/img/OLw4V5X3dBbrEwEQ.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104591914511045111",
+   "file": "2026-09-28-tellenne_-2104591914511045111.md",
+   "kind": "candidate",
+   "author": "tellenne_",
+   "date": "2026-09-28",
+   "url": "https://x.com/tellenne_/status/2104591914511045111",
+   "eng": "8L/3BM/436V",
+   "grade": "",
+   "gist": "Instagram account with 11.6M views in the US [Real anonymized @tokportal data] CPM: $0.014 | B2B SaaS | UGC (non-AI) hook + demo format This account averages 86k views per video po",
+   "thumb": "https://pbs.twimg.com/media/HTUC8L2WYAAbnr8.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100600685758935412",
+   "file": "2026-09-17-Aizcalibur-2100600685758935412.md",
+   "kind": "candidate",
+   "author": "Aizcalibur",
+   "date": "2026-09-17",
+   "url": "https://x.com/Aizcalibur/status/2100600685758935412",
+   "eng": "4L/1BM/702V",
+   "grade": "",
+   "gist": "One Format, 1.2 Billion Views Consumer AI app · Dillian $300K mrr in 45 days · 85 creators posting A single hook and demo loop. No deviation and no alternate angles. → Find one con",
+   "thumb": "https://pbs.twimg.com/media/HSbVMH4aIAEZnvv.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102862107205398992",
+   "file": "2026-09-23-consumerxai-2102862107205398992.md",
+   "kind": "candidate",
+   "author": "consumerxai",
+   "date": "2026-09-23",
+   "url": "https://x.com/consumerxai/status/2102862107205398992",
+   "eng": "4L/1BM/674V",
+   "grade": "",
+   "gist": "‼️Tiktok Outlier Alert ‼️ 📉 370K Views, 23K Likes, 207 Comments, 1.6K Shares, 2.9K Saves 🧐What this is: > A genuine reaction hook you can use to promote an entertainment app - an e",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102862090172346368/img/DzimSNgmH05iqN5f.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086202363069763630",
+   "file": "2026-08-08-PKodmad-2086202363069763630.md",
+   "kind": "candidate",
+   "author": "PKodmad",
+   "date": "2026-08-08",
+   "url": "https://x.com/PKodmad/status/2086202363069763630",
+   "eng": "6L/0BM/448V",
+   "grade": "",
+   "gist": "Marketing strategy so far for Specfit Founder led videos everyday showing behind the scenes , product/marketing decisions - Will keep this up, might ramp it up a bit more with info",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

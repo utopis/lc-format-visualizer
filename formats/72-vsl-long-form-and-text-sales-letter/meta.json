@@ -1,0 +1,145 @@
+{
+ "id": "F72",
+ "slug": "72-vsl-long-form-and-text-sales-letter",
+ "name": "VSL: long-form video sales letter (2-25 min) and its text twin (TSL)",
+ "title": "72 · VSL: long-form video sales letter (2-25 min) and its text twin (TSL)",
+ "n_examples": 7,
+ "n_curated": 2,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2087245595249721445",
+   "file": "2026-08-11-FedotOff90-2087245595249721445.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-08-11",
+   "url": "https://x.com/FedotOff90/status/2087245595249721445",
+   "eng": "83L/152BM/17kV",
+   "grade": "VALUE",
+   "gist": "97-day VSL; VSLs spent millions profitably; full VSL Machine SOP.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2095237367925731363",
+   "file": "2026-09-02-FedotOff90-2095237367925731363.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-02",
+   "url": "https://x.com/FedotOff90/status/2095237367925731363",
+   "eng": "49L/103BM/8kV",
+   "grade": "SOME",
+   "gist": "\"VSLs… most scalable ad format by far\" — 300 VSLs with 30+ day runtime.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2095236904023126019/img/joXclMH-vEUbg9Ez.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100245791776428230",
+   "file": "2026-09-16-EricSchechter-2100245791776428230.md",
+   "kind": "candidate",
+   "author": "EricSchechter",
+   "date": "2026-09-16",
+   "url": "https://x.com/EricSchechter/status/2100245791776428230",
+   "eng": "66L/46BM/3kV",
+   "grade": "",
+   "gist": "Don’t overcomplicate testing offers, especially in the beginning. Some of our biggest affiliates on Meta right now are doing hundreds to 1,000+ orders a day running just 1-3 long f",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078179704050246125",
+   "file": "2026-07-17-williamkast_-2078179704050246125.md",
+   "kind": "candidate",
+   "author": "williamkast_",
+   "date": "2026-07-17",
+   "url": "https://x.com/williamkast_/status/2078179704050246125",
+   "eng": "28L/34BM/3kV",
+   "grade": "VALUE",
+   "gist": "5 formats to test: founder talking head, voiceless B-roll text overlay, yapper (uncut), AI educational, camouflage static + long copy.",
+   "thumb": "https://pbs.twimg.com/media/HNctbXjWYAA91qu.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104165639694737558",
+   "file": "2026-09-27-dep_hart-2104165639694737558.md",
+   "kind": "candidate",
+   "author": "dep_hart",
+   "date": "2026-09-27",
+   "url": "https://x.com/dep_hart/status/2104165639694737558",
+   "eng": "43L/22BM/2kV",
+   "grade": "",
+   "gist": "Hiring: Meta native ad + long-form copy specialist for our health brand. Tasks: create high-quality native image ads and write long-form ad copy. Deliver weekly and develop new con",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077609501822181605",
+   "file": "2026-07-16-IgorWoorts-2077609501822181605.md",
+   "kind": "candidate",
+   "author": "IgorWoorts",
+   "date": "2026-07-16",
+   "url": "https://x.com/IgorWoorts/status/2077609501822181605",
+   "eng": "12L/4BM/1kV",
+   "grade": "",
+   "gist": "If you don’t run ads below or at break-even ROAS you’re probably not scaling. Going from 2-300k to 1m+ you NEED to run long form ads focusing on educating unaware ppl into your fun",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

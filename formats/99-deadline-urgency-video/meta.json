@@ -1,0 +1,145 @@
+{
+ "id": "F99",
+ "slug": "99-deadline-urgency-video",
+ "name": "Deadline-urgency video (two-line sale-ends skit, 'don't say I didn't warn you', hands-only deal clip)",
+ "title": "99 · Deadline-urgency video (two-line sale-ends skit, \"don't say I didn't warn you\", hands-only deal clip)",
+ "n_examples": 7,
+ "n_curated": 3,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2107419279872360910",
+   "file": "2026-10-06-ErJithin-2107419279872360910.md",
+   "kind": "curated",
+   "author": "ErJithin",
+   "date": "2026-10-06",
+   "url": "https://x.com/ErJithin/status/2107419279872360910",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Story-song ads losing top impression rank to BOF statics in Koriderm/Resilia libraries.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101002307160731848",
+   "file": "2026-09-18-MaximilianMoj-2101002307160731848.md",
+   "kind": "curated",
+   "author": "MaximilianMoj",
+   "date": "2026-09-18",
+   "url": "https://x.com/MaximilianMoj/status/2101002307160731848",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Resilia \"$36M/month\" (unverified) top 5 ads via Playhead teardowns: candida, aged garlic 4-week arteries, GLP-1, urgency (8 at once), animated explainer.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097798592010547583",
+   "file": "2026-09-09-jackolivieri_-2097798592010547583.md",
+   "kind": "curated",
+   "author": "jackolivieri_",
+   "date": "2026-09-09",
+   "url": "https://x.com/jackolivieri_/status/2097798592010547583",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Smooche static \"847 Orders in Last Hour, Almost Gone\" / \"LIVE UPDATE\" stock copy (GetHookd share).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2093225775755657483",
+   "file": "2026-08-28-CityOfStonks-2093225775755657483.md",
+   "kind": "candidate",
+   "author": "CityOfStonks",
+   "date": "2026-08-28",
+   "url": "https://x.com/CityOfStonks/status/2093225775755657483",
+   "eng": "61L/1BM/3kV",
+   "grade": "",
+   "gist": "LAST CHANCE TO GRAB SOME KEYS!!! @ccmweb3 has a GIVEAWAY for FIVE keys This is the creative agency that built City of Stonks, my personal media brand - show some support!!! https:/",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101211512975003830",
+   "file": "2026-09-19-lukasenECOM-2101211512975003830.md",
+   "kind": "candidate",
+   "author": "lukasenECOM",
+   "date": "2026-09-19",
+   "url": "https://x.com/lukasenECOM/status/2101211512975003830",
+   "eng": "58L/2BM/3kV",
+   "grade": "",
+   "gist": "Road to 1M with ecom - Day 133 Revenue: $197 Ad Spend: $218 ROAS: 0.90 better than yesterday but still not profitable looks like doubling the budget might’ve shaken things up more ",
+   "thumb": "https://pbs.twimg.com/media/HSkAu8QWsAA7b1y.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102309812109193718",
+   "file": "2026-09-22-ItsDuntee-2102309812109193718.md",
+   "kind": "candidate",
+   "author": "ItsDuntee",
+   "date": "2026-09-22",
+   "url": "https://x.com/ItsDuntee/status/2102309812109193718",
+   "eng": "11L/0BM/261V",
+   "grade": "",
+   "gist": "🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 September. Don’t wait until it’s t",
+   "thumb": "https://pbs.twimg.com/media/HSznOOUXcAAjrhC.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2095851837312122988",
+   "file": "2026-09-04-kabiwinter-2095851837312122988.md",
+   "kind": "candidate",
+   "author": "kabiwinter",
+   "date": "2026-09-04",
+   "url": "https://x.com/kabiwinter/status/2095851837312122988",
+   "eng": "6L/0BM/75V",
+   "grade": "",
+   "gist": "#AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from smart fridges to the latest gad",
+   "thumb": "https://pbs.twimg.com/media/HRX2IePbYAACBtP.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

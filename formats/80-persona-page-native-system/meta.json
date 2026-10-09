@@ -1,0 +1,329 @@
+{
+ "id": "F80",
+ "slug": "80-persona-page-native-system",
+ "name": "Persona pages: ads run from named narrator pages (catalog of the pattern + LC-safe version)",
+ "title": "80 · Persona pages: ads run from named narrator pages (catalog of the pattern + LC-safe version)",
+ "n_examples": 19,
+ "n_curated": 2,
+ "n_candidates": 16,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108188222710862166",
+   "file": "2026-10-08-FedotOff90-2108188222710862166.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-10-08",
+   "url": "https://x.com/FedotOff90/status/2108188222710862166",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Prime Prometics x-ray: 2,828 active ads, 24 avatars (6 life-event), ~28 narrator personas across 15 pages — persona-page scale pattern + MCP prompt.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2044464896104857850",
+   "file": "2026-04-15-funneloftheweek-2044464896104857850.md",
+   "kind": "curated",
+   "author": "funneloftheweek",
+   "date": "2026-04-15",
+   "url": "https://x.com/funneloftheweek/status/2044464896104857850",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Resilia: 12 persona Pages → one 7-min advertorial (30-50% of traffic), 3-4 copy templates × hundreds of creatives, 544 new ads/30d, OTO flow $30→$83.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2094988024211812654",
+   "file": "2026-09-02-Seanfrank-2094988024211812654.md",
+   "kind": "candidate",
+   "author": "Seanfrank",
+   "date": "2026-09-02",
+   "url": "https://x.com/Seanfrank/status/2094988024211812654",
+   "eng": "140L/113BM/55kV",
+   "grade": "",
+   "gist": "\"Ill just whitelist\" Whitelisting is fine. But meta is REWARDING accounts that commit to partnership ads. This is fully tin foil hat theory now... but I have seen first hand lower ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094987997385228288/img/Yhw9dtrQnZ93FDUF.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091553134879412673",
+   "file": "2026-08-23-FedotOff90-2091553134879412673.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-08-23",
+   "url": "https://x.com/FedotOff90/status/2091553134879412673",
+   "eng": "52L/120BM/12kV",
+   "grade": "",
+   "gist": "$12.3M raised. Close to $1 billion valuation. 5 awareness levels. 12 distinct avatars. Dose Daily is pushing some serious volume with their ads. Full ad competitive intelligence ex",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2091552365283246080/img/wQkzleIXLFN-NPWp.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097037134872093042",
+   "file": "2026-09-07-FedotOff90-2097037134872093042.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-09-07",
+   "url": "https://x.com/FedotOff90/status/2097037134872093042",
+   "eng": "90L/95BM/9kV",
+   "grade": "",
+   "gist": "A supplement page called The Vitality Edit launched 130 new ads in the last 7 days. The Honest Health: 61. The Antioxidant Edit: 44. All persona pages, all video-heavy. Nobody chec",
+   "thumb": "https://pbs.twimg.com/media/HRosJWsawAAkuvW.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097326852256002170",
+   "file": "2026-09-08-FedotOff90-2097326852256002170.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-09-08",
+   "url": "https://x.com/FedotOff90/status/2097326852256002170",
+   "eng": "26L/46BM/3kV",
+   "grade": "",
+   "gist": "Filtered Gethookd by Checkout Champ + Funnelish + “skin.” 43 brands. The top one runs as a persona page, “Barbara Collins”: 1,058 active ads, menopause skin-fold rash, 90-day guara",
+   "thumb": "https://pbs.twimg.com/media/HRsziTZbgAA1rAa.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097761790621057320",
+   "file": "2026-09-09-FedotOff90-2097761790621057320.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-09-09",
+   "url": "https://x.com/FedotOff90/status/2097761790621057320",
+   "eng": "25L/20BM/3kV",
+   "grade": "VALUE",
+   "gist": "Hair-thinning ads 180+ days: persona page with AI-animated shampoo bottle (199 ads, 183d), pool side-by-side test (215d), \"don't put this on your face\" UGC (309d).",
+   "thumb": "https://pbs.twimg.com/media/HRy_OMEaEAAuST7.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079650696539025426",
+   "file": "2026-07-21-benradack-2079650696539025426.md",
+   "kind": "candidate",
+   "author": "benradack",
+   "date": "2026-07-21",
+   "url": "https://x.com/benradack/status/2079650696539025426",
+   "eng": "13L/25BM/3kV",
+   "grade": "",
+   "gist": "Here's how I tested incremental attribution (and a few other ways you can do it). How I did it: → New campaign, highest volume → Duplicated my top 3 performing ad sets from my scal",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078473442714616149",
+   "file": "2026-07-18-benradack-2078473442714616149.md",
+   "kind": "candidate",
+   "author": "benradack",
+   "date": "2026-07-18",
+   "url": "https://x.com/benradack/status/2078473442714616149",
+   "eng": "20L/11BM/2kV",
+   "grade": "",
+   "gist": "I consolidated our whitelisting ads into one ad set with our brand videos. My CBO performs better with fewer ad sets running. So instead of keeping whitelisting in its own ad set, ",
+   "thumb": "https://pbs.twimg.com/media/HNg4k7mWwAA4KPN.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2088839922161729646",
+   "file": "2026-08-16-JuggMotion-2088839922161729646.md",
+   "kind": "candidate",
+   "author": "JuggMotion",
+   "date": "2026-08-16",
+   "url": "https://x.com/JuggMotion/status/2088839922161729646",
+   "eng": "10L/15BM/1kV",
+   "grade": "",
+   "gist": "growth is not a slope you climb by doing more of the same thing harder. it's a staircase, and every step has a different constraint sitting on it. a thousand-dollar day has a diffe",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105748400977432627",
+   "file": "2026-10-01-HenryCrochemore-2105748400977432627.md",
+   "kind": "candidate",
+   "author": "HenryCrochemore",
+   "date": "2026-10-01",
+   "url": "https://x.com/HenryCrochemore/status/2105748400977432627",
+   "eng": "6L/8BM/608V",
+   "grade": "",
+   "gist": "Opened Claude, connected the Gethookd MCP, and asked it to pull every native static hitting a 98-100 performance score in the supplement category. One search returned a blood press",
+   "thumb": "https://pbs.twimg.com/media/HTke_mLaQAAHPZS.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079597832386871477",
+   "file": "2026-07-21-ZohaibRattu-2079597832386871477.md",
+   "kind": "candidate",
+   "author": "ZohaibRattu",
+   "date": "2026-07-21",
+   "url": "https://x.com/ZohaibRattu/status/2079597832386871477",
+   "eng": "10L/5BM/971V",
+   "grade": "",
+   "gist": "Agencies are getting brands 1,000+ creators for whitelisting ads. The trick is they're pulling from TikTok Shop and moving them to Meta. Here's the playbook agencies are quietly ru",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2079597594842472448/img/8hdBn1Ke3ev_OV6t.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096647013119209951",
+   "file": "2026-09-06-FedotOff90-2096647013119209951.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-09-06",
+   "url": "https://x.com/FedotOff90/status/2096647013119209951",
+   "eng": "9L/3BM/2kV",
+   "grade": "",
+   "gist": "Germany has 85 active German-language ads on Pigmentflecken running 30+ days. The US has 815 on dark spots at 100+. Colibri Skincare owns it: 223 ads, one video at 639K EU reach, D",
+   "thumb": "https://pbs.twimg.com/media/HRjJVjwbsAAJg1F.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107516274142285842",
+   "file": "2026-10-06-DTC_Quizbuilder-2107516274142285842.md",
+   "kind": "candidate",
+   "author": "DTC_Quizbuilder",
+   "date": "2026-10-06",
+   "url": "https://x.com/DTC_Quizbuilder/status/2107516274142285842",
+   "eng": "3L/6BM/642V",
+   "grade": "",
+   "gist": "Noverly's copy is built around one idea: ED isn't age or testosterone, it's a clogged pipe They sell it through a doctor-bylined listicle The buyer thinks it's just age or stress S",
+   "thumb": "https://pbs.twimg.com/media/HT9m4hXasAA2FN_.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2088395195138064748",
+   "file": "2026-08-14-KodyNordquist-2088395195138064748.md",
+   "kind": "candidate",
+   "author": "KodyNordquist",
+   "date": "2026-08-14",
+   "url": "https://x.com/KodyNordquist/status/2088395195138064748",
+   "eng": "5L/4BM/2kV",
+   "grade": "",
+   "gist": "Our top performing brands have different strategies and focuses depending on their current revenue levels: 7 Figure brands: >> High focus on statics >> Offer testing frequently to ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089780788745146834",
+   "file": "2026-08-18-theronshah-2089780788745146834.md",
+   "kind": "candidate",
+   "author": "theronshah",
+   "date": "2026-08-18",
+   "url": "https://x.com/theronshah/status/2089780788745146834",
+   "eng": "5L/4BM/1kV",
+   "grade": "",
+   "gist": "Creator whitelisting is still the cheapest CAC on Meta. Most lean brands won't touch it. Not because it doesn't work. Because the ops are miserable. I just rebuilt Obvi's entire pi",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2076781219845648423",
+   "file": "2026-07-13-brandonwenerd-2076781219845648423.md",
+   "kind": "candidate",
+   "author": "brandonwenerd",
+   "date": "2026-07-13",
+   "url": "https://x.com/brandonwenerd/status/2076781219845648423",
+   "eng": "4L/0BM/952V",
+   "grade": "",
+   "gist": "media buyers everywhere ecstatic they can now lower their Meta CAC by whitelisting Charli XCX UGC ads https://t.co/4alrUpZpkp",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2075580867355771243",
+   "file": "2026-07-10-olimabane-2075580867355771243.md",
+   "kind": "candidate",
+   "author": "olimabane",
+   "date": "2026-07-10",
+   "url": "https://x.com/olimabane/status/2075580867355771243",
+   "eng": "3L/0BM/227V",
+   "grade": "",
+   "gist": "𝟭𝗠+ 𝗳𝗼𝗹𝗹𝗼𝘄𝗲𝗿𝘀. Still stuck with a $32 AOV. Most brands would blame the offer. Or the product. Or the economy. That wasn't the problem. Within 60 days: $44.83 AOV. +289% revenue. $1",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

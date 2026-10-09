@@ -10,10 +10,11 @@
   "cost_per_asset": "$10-60 (Suno Pro/Premier commercial plan + image/video gen)",
   "time_per_asset": "2-4 h",
   "related_strategies": "[32-drama-show-ads-hidden-storyline, 33-animated-brand-character-ads, 36-owned-winner-video-remix]",
-  "file": "04-ai-song-ad.md",
+  "file": "04-ai-song-ad/README.md",
   "rank": 1,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "04-ai-song-ad"
  },
  {
   "id": "F05",
@@ -26,10 +27,11 @@
   "cost_per_asset": "$5-40",
   "time_per_asset": "1-3 h",
   "related_strategies": "[33-animated-brand-character-ads, 36-owned-winner-video-remix, 37-ai-realism-craft]",
-  "file": "05-ai-animation-format-swap.md",
+  "file": "05-ai-animation-format-swap/README.md",
   "rank": 2,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "05-ai-animation-format-swap"
  },
  {
   "id": "F26",
@@ -42,10 +44,11 @@
   "cost_per_asset": "$0-50 (phone + recording consent)",
   "time_per_asset": "1-2 h per call, 3-5 cuts per call",
   "related_strategies": "[11-social-proof-credibility-engine, 17-review-prompt-timing, 31-founder-daily-posting-product-as-ad]",
-  "file": "26-founder-surprise-customer-call.md",
+  "file": "26-founder-surprise-customer-call/README.md",
   "rank": 3,
   "lc_priority": "P0",
-  "related_formats": "[40-testimonial-mashup, 48-the-dm-i-get-every-day, 13-podcast-style-ad]"
+  "related_formats": "[40-testimonial-mashup, 48-the-dm-i-get-every-day, 13-podcast-style-ad]",
+  "folder": "26-founder-surprise-customer-call"
  },
  {
   "id": "F31",
@@ -58,10 +61,11 @@
   "cost_per_asset": "$0-150",
   "time_per_asset": "1-2 h",
   "related_strategies": "[11-social-proof-credibility-engine, 41-von-restorff-static-copy-prompt]",
-  "file": "31-tier-list-ranking-ad.md",
+  "file": "31-tier-list-ranking-ad/README.md",
   "rank": 4,
   "lc_priority": "P0",
-  "related_formats": "[35-diagram-statics-venn-report-card, 39-x-reasons-why, 51-quiz-guess-game]"
+  "related_formats": "[35-diagram-statics-venn-report-card, 39-x-reasons-why, 51-quiz-guess-game]",
+  "folder": "31-tier-list-ranking-ad"
  },
  {
   "id": "F32",
@@ -74,10 +78,11 @@
   "cost_per_asset": "$0 (Figma/AI image)",
   "time_per_asset": "15-30 min per static",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 35-mass-awareness-placement-to-advertorial, 05-offer-page-engineering]",
-  "file": "32-screenshot-native-static-pack.md",
+  "file": "32-screenshot-native-static-pack/README.md",
   "rank": 5,
   "lc_priority": "P0",
-  "related_formats": "[09-native-story-static-to-advertorial, 10-shock-headline-text-static, 17-lofi-handwritten-sign-promo-static]"
+  "related_formats": "[09-native-story-static-to-advertorial, 10-shock-headline-text-static, 17-lofi-handwritten-sign-promo-static]",
+  "folder": "32-screenshot-native-static-pack"
  },
  {
   "id": "F09",
@@ -90,10 +95,11 @@
   "cost_per_asset": "$0-20 + advertorial page build",
   "time_per_asset": "",
   "related_strategies": "[35-mass-awareness-placement-to-advertorial, 41-von-restorff-static-copy-prompt, 05-offer-page-engineering]",
-  "file": "09-native-story-static-to-advertorial.md",
+  "file": "09-native-story-static-to-advertorial/README.md",
   "rank": 6,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "09-native-story-static-to-advertorial"
  },
  {
   "id": "F43",
@@ -106,10 +112,11 @@
   "cost_per_asset": "$100-400 per creator/month + product + commission",
   "time_per_asset": "ongoing program (VA + 5-10 h/week)",
   "related_strategies": "[28-ugc-creator-network-per-video-pay, 09-influencer-rev-share, 39-creator-campaign-marketplaces]",
-  "file": "43-hudson-method-creator-swarm.md",
+  "file": "43-hudson-method-creator-swarm/README.md",
   "rank": 7,
   "lc_priority": "P0",
-  "related_formats": "[19-tiktok-shop-affiliate-shoppable-demo, 14-in-car-yapper-confession, 47-grwm-stack-with-me]"
+  "related_formats": "[19-tiktok-shop-affiliate-shoppable-demo, 14-in-car-yapper-confession, 47-grwm-stack-with-me]",
+  "folder": "43-hudson-method-creator-swarm"
  },
  {
   "id": "F14",
@@ -122,10 +129,11 @@
   "cost_per_asset": "$0-150",
   "time_per_asset": "",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 31-founder-daily-posting-product-as-ad, 28-ugc-creator-network-per-video-pay]",
-  "file": "14-in-car-yapper-confession.md",
+  "file": "14-in-car-yapper-confession/README.md",
   "rank": 8,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "14-in-car-yapper-confession"
  },
  {
   "id": "F28",
@@ -138,10 +146,11 @@
   "cost_per_asset": "$15-60 per creator video (or in-house)",
   "time_per_asset": "15-30 min per video once the template exists",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 28-ugc-creator-network-per-video-pay, 36-owned-winner-video-remix]",
-  "file": "28-reaction-hook-plus-demo.md",
+  "file": "28-reaction-hook-plus-demo/README.md",
   "rank": 9,
   "lc_priority": "P0",
-  "related_formats": "[18-green-screen-reaction-and-comment-reply, 43-hudson-method-creator-swarm, 53-ai-ugc-outlier-remake-lab]"
+  "related_formats": "[18-green-screen-reaction-and-comment-reply, 43-hudson-method-creator-swarm, 53-ai-ugc-outlier-remake-lab]",
+  "folder": "28-reaction-hook-plus-demo"
  },
  {
   "id": "F54",
@@ -154,10 +163,11 @@
   "cost_per_asset": "$0-100 (creator) / near-zero to re-shoot",
   "time_per_asset": "30-60 min",
   "related_strategies": "[28-ugc-creator-network-per-video-pay, 10-skit-and-problem-first-ugc-hooks, 36-owned-winner-video-remix]",
-  "file": "54-regret-discovery-hook-silent-demo.md",
+  "file": "54-regret-discovery-hook-silent-demo/README.md",
   "rank": 10,
   "lc_priority": "P0",
-  "related_formats": "[28-reaction-hook-plus-demo, 43-hudson-method-creator-swarm, 18-green-screen-reaction-and-comment-reply]"
+  "related_formats": "[28-reaction-hook-plus-demo, 43-hudson-method-creator-swarm, 18-green-screen-reaction-and-comment-reply]",
+  "folder": "54-regret-discovery-hook-silent-demo"
  },
  {
   "id": "F86",
@@ -170,10 +180,11 @@
   "cost_per_asset": "$0-100",
   "time_per_asset": "1 h",
   "related_strategies": "[05-offer-page-engineering, 18-upsell-ecosystem]",
-  "file": "86-offer-architecture-bundle-picker.md",
+  "file": "86-offer-architecture-bundle-picker/README.md",
   "rank": 11,
   "lc_priority": "P0",
-  "related_formats": "[37-urgency-offer-statics, 62-catalog-collection-dpa-ads]"
+  "related_formats": "[37-urgency-offer-statics, 62-catalog-collection-dpa-ads]",
+  "folder": "86-offer-architecture-bundle-picker"
  },
  {
   "id": "F08",
@@ -186,10 +197,11 @@
   "cost_per_asset": "$20-150 (AI) / $300-1,500 (real actors)",
   "time_per_asset": "",
   "related_strategies": "[32-drama-show-ads-hidden-storyline, 22-serialized-chat-story-slideshows, 35-mass-awareness-placement-to-advertorial]",
-  "file": "08-drama-show-micro-series.md",
+  "file": "08-drama-show-micro-series/README.md",
   "rank": 12,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "08-drama-show-micro-series"
  },
  {
   "id": "F01",
@@ -202,10 +214,11 @@
   "cost_per_asset": "$0-3 (AI images or own photos + Canva/Volume/Postiz)",
   "time_per_asset": "10-20 min when batched",
   "related_strategies": "[01-viral-slideshow-recreation, 20-niche-persona-pages, 24-niche-character-account-network, 25-content-first-demand-validation]",
-  "file": "01-faceless-niche-slideshow.md",
+  "file": "01-faceless-niche-slideshow/README.md",
   "rank": 13,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "01-faceless-niche-slideshow"
  },
  {
   "id": "F02",
@@ -218,10 +231,11 @@
   "cost_per_asset": "$0-2",
   "time_per_asset": "10 min batched",
   "related_strategies": "[01-viral-slideshow-recreation, 06-keyword-named-products-social-search, 19-content-hub-blog-to-product]",
-  "file": "02-listicle-save-carousel.md",
+  "file": "02-listicle-save-carousel/README.md",
   "rank": 14,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "02-listicle-save-carousel"
  },
  {
   "id": "F11",
@@ -234,10 +248,11 @@
   "cost_per_asset": "$0-50",
   "time_per_asset": "",
   "related_strategies": "[11-social-proof-credibility-engine, 41-von-restorff-static-copy-prompt, 27-satisfying-product-loop-recordings]",
-  "file": "11-before-after-transformation.md",
+  "file": "11-before-after-transformation/README.md",
   "rank": 15,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "11-before-after-transformation"
  },
  {
   "id": "F13",
@@ -250,10 +265,11 @@
   "cost_per_asset": "$0-200 (real) / $10 (AI)",
   "time_per_asset": "",
   "related_strategies": "[31-founder-daily-posting-product-as-ad, 34-persona-archetype-ai-ugc-engine]",
-  "file": "13-podcast-style-ad.md",
+  "file": "13-podcast-style-ad/README.md",
   "rank": 16,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "13-podcast-style-ad"
  },
  {
   "id": "F34",
@@ -266,10 +282,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15-30 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 35-mass-awareness-placement-to-advertorial]",
-  "file": "34-callout-statics-signs-myths-warnings.md",
+  "file": "34-callout-statics-signs-myths-warnings/README.md",
   "rank": 17,
   "lc_priority": "P1",
-  "related_formats": "[09-native-story-static-to-advertorial, 10-shock-headline-text-static, 32-screenshot-native-static-pack]"
+  "related_formats": "[09-native-story-static-to-advertorial, 10-shock-headline-text-static, 32-screenshot-native-static-pack]",
+  "folder": "34-callout-statics-signs-myths-warnings"
  },
  {
   "id": "F30",
@@ -282,10 +299,11 @@
   "cost_per_asset": "$0-50 (existing footage)",
   "time_per_asset": "20-40 min per ad",
   "related_strategies": "[36-owned-winner-video-remix, 40-modular-variation-testing-review]",
-  "file": "30-voiceless-broll-text-overlay.md",
+  "file": "30-voiceless-broll-text-overlay/README.md",
   "rank": 18,
   "lc_priority": "P1",
-  "related_formats": "[39-x-reasons-why, 49-cinematic-macro-product-film, 01-faceless-niche-slideshow]"
+  "related_formats": "[39-x-reasons-why, 49-cinematic-macro-product-film, 01-faceless-niche-slideshow]",
+  "folder": "30-voiceless-broll-text-overlay"
  },
  {
   "id": "F53",
@@ -298,10 +316,11 @@
   "cost_per_asset": "$2-10 per AI test video + tooling",
   "time_per_asset": "pipeline setup 1-2 days; then ~20 min/video",
   "related_strategies": "[29-ai-ugc-outlier-test-pipeline, 26-viral-format-intelligence-feed, 37-ai-realism-craft, 28-ugc-creator-network-per-video-pay]",
-  "file": "53-ai-ugc-outlier-remake-lab.md",
+  "file": "53-ai-ugc-outlier-remake-lab/README.md",
   "rank": 19,
   "lc_priority": "P1",
-  "related_formats": "[06-ai-ugc-talking-head, 43-hudson-method-creator-swarm, 01-faceless-niche-slideshow]"
+  "related_formats": "[06-ai-ugc-talking-head, 43-hudson-method-creator-swarm, 01-faceless-niche-slideshow]",
+  "folder": "53-ai-ugc-outlier-remake-lab"
  },
  {
   "id": "F55",
@@ -314,10 +333,11 @@
   "cost_per_asset": "$0-500",
   "time_per_asset": "2-4 h",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 13-identity-shareables-accidental-virality, 12-built-in-sharing-gift-referral]",
-  "file": "55-emotional-moment-hidden-mechanism-story.md",
+  "file": "55-emotional-moment-hidden-mechanism-story/README.md",
   "rank": 20,
   "lc_priority": "P1",
-  "related_formats": "[53-ai-ugc-outlier-remake-lab, 47-grwm-stack-with-me, 08-drama-show-micro-series]"
+  "related_formats": "[53-ai-ugc-outlier-remake-lab, 47-grwm-stack-with-me, 08-drama-show-micro-series]",
+  "folder": "55-emotional-moment-hidden-mechanism-story"
  },
  {
   "id": "F62",
@@ -330,10 +350,11 @@
   "cost_per_asset": "$0 creative (catalog), setup time",
   "time_per_asset": "setup 1-2 days",
   "related_strategies": "[05-offer-page-engineering, 18-upsell-ecosystem]",
-  "file": "62-catalog-collection-dpa-ads.md",
+  "file": "62-catalog-collection-dpa-ads/README.md",
   "rank": 21,
   "lc_priority": "P1",
-  "related_formats": "[37-urgency-offer-statics, 43-hudson-method-creator-swarm, 64-reminder-retargeting-sequence]"
+  "related_formats": "[37-urgency-offer-statics, 43-hudson-method-creator-swarm, 64-reminder-retargeting-sequence]",
+  "folder": "62-catalog-collection-dpa-ads"
  },
  {
   "id": "F59",
@@ -346,10 +367,11 @@
   "cost_per_asset": "$0-150",
   "time_per_asset": "1 h",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 41-von-restorff-static-copy-prompt]",
-  "file": "59-problem-solution-pas-ad.md",
+  "file": "59-problem-solution-pas-ad/README.md",
   "rank": 22,
   "lc_priority": "P1",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 14-in-car-yapper-confession, 11-before-after-transformation]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 14-in-car-yapper-confession, 11-before-after-transformation]",
+  "folder": "59-problem-solution-pas-ad"
  },
  {
   "id": "F64",
@@ -362,10 +384,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "1 day setup",
   "related_strategies": "[05-offer-page-engineering, 14-email-list-as-asset, 17-review-prompt-timing]",
-  "file": "64-reminder-retargeting-sequence.md",
+  "file": "64-reminder-retargeting-sequence/README.md",
   "rank": 23,
   "lc_priority": "P1",
-  "related_formats": "[37-urgency-offer-statics, 62-catalog-collection-dpa-ads]"
+  "related_formats": "[37-urgency-offer-statics, 62-catalog-collection-dpa-ads]",
+  "folder": "64-reminder-retargeting-sequence"
  },
  {
   "id": "F65",
@@ -378,10 +401,11 @@
   "cost_per_asset": "$0-500",
   "time_per_asset": "1-2 days per season",
   "related_strategies": "[05-offer-page-engineering, 12-built-in-sharing-gift-referral, 14-email-list-as-asset]",
-  "file": "65-seasonal-gifting-early-launch.md",
+  "file": "65-seasonal-gifting-early-launch/README.md",
   "rank": 24,
   "lc_priority": "P1",
-  "related_formats": "[37-urgency-offer-statics, 25-sweepstakes-celebrity-giveaway, 64-reminder-retargeting-sequence]"
+  "related_formats": "[37-urgency-offer-statics, 25-sweepstakes-celebrity-giveaway, 64-reminder-retargeting-sequence]",
+  "folder": "65-seasonal-gifting-early-launch"
  },
  {
   "id": "F57",
@@ -394,10 +418,11 @@
   "cost_per_asset": "$0-100",
   "time_per_asset": "45 min",
   "related_strategies": "[06-keyword-named-products-social-search, 18-upsell-ecosystem]",
-  "file": "57-styling-carousel-how-to-wear.md",
+  "file": "57-styling-carousel-how-to-wear/README.md",
   "rank": 25,
   "lc_priority": "P1",
-  "related_formats": "[02-listicle-save-carousel, 47-grwm-stack-with-me, 39-x-reasons-why]"
+  "related_formats": "[02-listicle-save-carousel, 47-grwm-stack-with-me, 39-x-reasons-why]",
+  "folder": "57-styling-carousel-how-to-wear"
  },
  {
   "id": "F67",
@@ -410,10 +435,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 02-oldest-ad-hook-repurposing]",
-  "file": "67-cross-out-static.md",
+  "file": "67-cross-out-static/README.md",
   "rank": 26,
   "lc_priority": "P1",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 35-diagram-statics-venn-report-card, 32-screenshot-native-static-pack]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 35-diagram-statics-venn-report-card, 32-screenshot-native-static-pack]",
+  "folder": "67-cross-out-static"
  },
  {
   "id": "F74",
@@ -426,10 +452,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "10 min",
   "related_strategies": "[11-social-proof-credibility-engine, 17-review-prompt-timing]",
-  "file": "74-verbatim-review-static.md",
+  "file": "74-verbatim-review-static/README.md",
   "rank": 27,
   "lc_priority": "P1",
-  "related_formats": "[40-testimonial-mashup, 32-screenshot-native-static-pack]"
+  "related_formats": "[40-testimonial-mashup, 32-screenshot-native-static-pack]",
+  "folder": "74-verbatim-review-static"
  },
  {
   "id": "F75",
@@ -442,10 +469,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[05-offer-page-engineering, 16-rewards-streaks-earned-discounts]",
-  "file": "75-were-sorry-sold-out-apology.md",
+  "file": "75-were-sorry-sold-out-apology/README.md",
   "rank": 28,
   "lc_priority": "P1",
-  "related_formats": "[37-urgency-offer-statics, 64-reminder-retargeting-sequence]"
+  "related_formats": "[37-urgency-offer-statics, 64-reminder-retargeting-sequence]",
+  "folder": "75-were-sorry-sold-out-apology"
  },
  {
   "id": "F90",
@@ -458,10 +486,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 03-creative-volume-flooding]",
-  "file": "90-fake-pdp-product-page-screenshot.md",
+  "file": "90-fake-pdp-product-page-screenshot/README.md",
   "rank": 29,
   "lc_priority": "P1",
-  "related_formats": "[32-screenshot-native-static-pack, 37-urgency-offer-statics]"
+  "related_formats": "[32-screenshot-native-static-pack, 37-urgency-offer-statics]",
+  "folder": "90-fake-pdp-product-page-screenshot"
  },
  {
   "id": "F94",
@@ -474,10 +503,11 @@
   "cost_per_asset": "$0-150",
   "time_per_asset": "2-4 h",
   "related_strategies": "[35-mass-awareness-placement-to-advertorial, 11-social-proof-credibility-engine]",
-  "file": "94-buyers-guide-warning-flip-the-label.md",
+  "file": "94-buyers-guide-warning-flip-the-label/README.md",
   "rank": 30,
   "lc_priority": "P1",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 35-diagram-statics-venn-report-card, 58-educational-care-material-explainer]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 35-diagram-statics-venn-report-card, 58-educational-care-material-explainer]",
+  "folder": "94-buyers-guide-warning-flip-the-label"
  },
  {
   "id": "F95",
@@ -490,10 +520,11 @@
   "cost_per_asset": "$0-200",
   "time_per_asset": "2-4 h",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 35-mass-awareness-placement-to-advertorial]",
-  "file": "95-visual-diagnosis-roll-call.md",
+  "file": "95-visual-diagnosis-roll-call/README.md",
   "rank": 31,
   "lc_priority": "P1",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 59-problem-solution-pas-ad, 82-hyperreal-cgi-mechanism-xray]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 59-problem-solution-pas-ad, 82-hyperreal-cgi-mechanism-xray]",
+  "folder": "95-visual-diagnosis-roll-call"
  },
  {
   "id": "F97",
@@ -506,10 +537,11 @@
   "cost_per_asset": "$50-150 per creator take",
   "time_per_asset": "1 week for 8 takes",
   "related_strategies": "[03-creative-volume-flooding, 34-persona-archetype-ai-ugc-engine]",
-  "file": "97-persona-swap-script-cloning.md",
+  "file": "97-persona-swap-script-cloning/README.md",
   "rank": 32,
   "lc_priority": "P1",
-  "related_formats": "[43-hudson-method-creator-swarm, 05-ai-animation-format-swap, 77-ugc-voiceover-hook-swap-remix]"
+  "related_formats": "[43-hudson-method-creator-swarm, 05-ai-animation-format-swap, 77-ugc-voiceover-hook-swap-remix]",
+  "folder": "97-persona-swap-script-cloning"
  },
  {
   "id": "F98",
@@ -522,10 +554,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "30 min",
   "related_strategies": "[27-satisfying-product-loop-recordings, 03-creative-volume-flooding]",
-  "file": "98-six-second-micro-demo-loop.md",
+  "file": "98-six-second-micro-demo-loop/README.md",
   "rank": 33,
   "lc_priority": "P1",
-  "related_formats": "[28-reaction-hook-plus-demo, 54-regret-discovery-hook-silent-demo, 49-cinematic-macro-product-film]"
+  "related_formats": "[28-reaction-hook-plus-demo, 54-regret-discovery-hook-silent-demo, 49-cinematic-macro-product-film]",
+  "folder": "98-six-second-micro-demo-loop"
  },
  {
   "id": "F99",
@@ -538,10 +571,11 @@
   "cost_per_asset": "$0-100",
   "time_per_asset": "1-2 h",
   "related_strategies": "[05-offer-page-engineering, 40-modular-variation-testing-review]",
-  "file": "99-deadline-urgency-video.md",
+  "file": "99-deadline-urgency-video/README.md",
   "rank": 34,
   "lc_priority": "P1",
-  "related_formats": "[37-urgency-offer-statics, 75-were-sorry-sold-out-apology, 64-reminder-retargeting-sequence]"
+  "related_formats": "[37-urgency-offer-statics, 75-were-sorry-sold-out-apology, 64-reminder-retargeting-sequence]",
+  "folder": "99-deadline-urgency-video"
  },
  {
   "id": "F73",
@@ -554,10 +588,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 12-built-in-sharing-gift-referral]",
-  "file": "73-cheat-code-hack-static.md",
+  "file": "73-cheat-code-hack-static/README.md",
   "rank": 35,
   "lc_priority": "P1",
-  "related_formats": "[39-x-reasons-why, 65-seasonal-gifting-early-launch]"
+  "related_formats": "[39-x-reasons-why, 65-seasonal-gifting-early-launch]",
+  "folder": "73-cheat-code-hack-static"
  },
  {
   "id": "F71",
@@ -570,10 +605,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 11-social-proof-credibility-engine]",
-  "file": "71-side-effect-ad.md",
+  "file": "71-side-effect-ad/README.md",
   "rank": 36,
   "lc_priority": "P1",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 36-backhanded-zero-star-review]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 36-backhanded-zero-star-review]",
+  "folder": "71-side-effect-ad"
  },
  {
   "id": "F76",
@@ -586,10 +622,11 @@
   "cost_per_asset": "$0-50",
   "time_per_asset": "30 min",
   "related_strategies": "[19-content-hub-blog-to-product, 41-von-restorff-static-copy-prompt]",
-  "file": "76-whiteboard-explainer.md",
+  "file": "76-whiteboard-explainer/README.md",
   "rank": 37,
   "lc_priority": "P1",
-  "related_formats": "[58-educational-care-material-explainer, 35-diagram-statics-venn-report-card]"
+  "related_formats": "[58-educational-care-material-explainer, 35-diagram-statics-venn-report-card]",
+  "folder": "76-whiteboard-explainer"
  },
  {
   "id": "F77",
@@ -602,10 +639,11 @@
   "cost_per_asset": "$20-100 per VO set",
   "time_per_asset": "1 h",
   "related_strategies": "[36-owned-winner-video-remix, 40-modular-variation-testing-review]",
-  "file": "77-ugc-voiceover-hook-swap-remix.md",
+  "file": "77-ugc-voiceover-hook-swap-remix/README.md",
   "rank": 38,
   "lc_priority": "P1",
-  "related_formats": "[30-voiceless-broll-text-overlay, 53-ai-ugc-outlier-remake-lab]"
+  "related_formats": "[30-voiceless-broll-text-overlay, 53-ai-ugc-outlier-remake-lab]",
+  "folder": "77-ugc-voiceover-hook-swap-remix"
  },
  {
   "id": "F79",
@@ -618,10 +656,11 @@
   "cost_per_asset": "$50-300",
   "time_per_asset": "3-4 h",
   "related_strategies": "[35-mass-awareness-placement-to-advertorial, 05-offer-page-engineering]",
-  "file": "79-advertorial-style-video.md",
+  "file": "79-advertorial-style-video/README.md",
   "rank": 39,
   "lc_priority": "P1",
-  "related_formats": "[09-native-story-static-to-advertorial, 39-x-reasons-why]"
+  "related_formats": "[09-native-story-static-to-advertorial, 39-x-reasons-why]",
+  "folder": "79-advertorial-style-video"
  },
  {
   "id": "F87",
@@ -634,10 +673,11 @@
   "cost_per_asset": "$0 + rights mgmt",
   "time_per_asset": "30 min/week",
   "related_strategies": "[11-social-proof-credibility-engine, 15-community-led-discovery]",
-  "file": "87-customer-photo-hashtag-ugc-ads.md",
+  "file": "87-customer-photo-hashtag-ugc-ads/README.md",
   "rank": 40,
   "lc_priority": "P1",
-  "related_formats": "[40-testimonial-mashup, 74-verbatim-review-static]"
+  "related_formats": "[40-testimonial-mashup, 74-verbatim-review-static]",
+  "folder": "87-customer-photo-hashtag-ugc-ads"
  },
  {
   "id": "F18",
@@ -650,10 +690,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[36-owned-winner-video-remix, 11-social-proof-credibility-engine]",
-  "file": "18-green-screen-reaction-and-comment-reply.md",
+  "file": "18-green-screen-reaction-and-comment-reply/README.md",
   "rank": 41,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "18-green-screen-reaction-and-comment-reply"
  },
  {
   "id": "F39",
@@ -666,10 +707,11 @@
   "cost_per_asset": "$0-50",
   "time_per_asset": "20-40 min",
   "related_strategies": "[40-modular-variation-testing-review, 36-owned-winner-video-remix]",
-  "file": "39-x-reasons-why.md",
+  "file": "39-x-reasons-why/README.md",
   "rank": 42,
   "lc_priority": "P1",
-  "related_formats": "[30-voiceless-broll-text-overlay, 02-listicle-save-carousel, 35-diagram-statics-venn-report-card]"
+  "related_formats": "[30-voiceless-broll-text-overlay, 02-listicle-save-carousel, 35-diagram-statics-venn-report-card]",
+  "folder": "39-x-reasons-why"
  },
  {
   "id": "F37",
@@ -682,10 +724,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[05-offer-page-engineering, 16-rewards-streaks-earned-discounts]",
-  "file": "37-urgency-offer-statics.md",
+  "file": "37-urgency-offer-statics/README.md",
   "rank": 43,
   "lc_priority": "P1",
-  "related_formats": "[17-lofi-handwritten-sign-promo-static, 32-screenshot-native-static-pack]"
+  "related_formats": "[17-lofi-handwritten-sign-promo-static, 32-screenshot-native-static-pack]",
+  "folder": "37-urgency-offer-statics"
  },
  {
   "id": "F19",
@@ -698,10 +741,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[09-influencer-rev-share, 28-ugc-creator-network-per-video-pay, 39-creator-campaign-marketplaces]",
-  "file": "19-tiktok-shop-affiliate-shoppable-demo.md",
+  "file": "19-tiktok-shop-affiliate-shoppable-demo/README.md",
   "rank": 44,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "19-tiktok-shop-affiliate-shoppable-demo"
  },
  {
   "id": "F25",
@@ -714,10 +758,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[12-built-in-sharing-gift-referral, 14-email-list-as-asset, 16-rewards-streaks-earned-discounts]",
-  "file": "25-sweepstakes-celebrity-giveaway.md",
+  "file": "25-sweepstakes-celebrity-giveaway/README.md",
   "rank": 45,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "25-sweepstakes-celebrity-giveaway"
  },
  {
   "id": "F17",
@@ -730,10 +775,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[05-offer-page-engineering, 41-von-restorff-static-copy-prompt, 16-rewards-streaks-earned-discounts]",
-  "file": "17-lofi-handwritten-sign-promo-static.md",
+  "file": "17-lofi-handwritten-sign-promo-static/README.md",
   "rank": 46,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "17-lofi-handwritten-sign-promo-static"
  },
  {
   "id": "F16",
@@ -746,10 +792,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[08-ad-library-transparency-targeting-intel, 41-von-restorff-static-copy-prompt]",
-  "file": "16-us-vs-copycat-screen-scroll.md",
+  "file": "16-us-vs-copycat-screen-scroll/README.md",
   "rank": 47,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "16-us-vs-copycat-screen-scroll"
  },
  {
   "id": "F27",
@@ -762,10 +809,11 @@
   "cost_per_asset": "$0-300 (phone, lav mic, optional host)",
   "time_per_asset": "half day = 10-20 cuts",
   "related_strategies": "[31-founder-daily-posting-product-as-ad, 10-skit-and-problem-first-ugc-hooks]",
-  "file": "27-founder-walk-and-talk-story-ad.md",
+  "file": "27-founder-walk-and-talk-story-ad/README.md",
   "rank": 48,
   "lc_priority": "P1",
-  "related_formats": "[14-in-car-yapper-confession, 50-mini-documentary-how-its-made, 45-day-in-the-life-behind-the-scenes]"
+  "related_formats": "[14-in-car-yapper-confession, 50-mini-documentary-how-its-made, 45-day-in-the-life-behind-the-scenes]",
+  "folder": "27-founder-walk-and-talk-story-ad"
  },
  {
   "id": "F29",
@@ -778,10 +826,11 @@
   "cost_per_asset": "$100-400 per creator video",
   "time_per_asset": "1 day turnaround per creator",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 31-founder-daily-posting-product-as-ad]",
-  "file": "29-greenscreen-personal-story-brand-late.md",
+  "file": "29-greenscreen-personal-story-brand-late/README.md",
   "rank": 49,
   "lc_priority": "P1",
-  "related_formats": "[14-in-car-yapper-confession, 18-green-screen-reaction-and-comment-reply, 09-native-story-static-to-advertorial]"
+  "related_formats": "[14-in-car-yapper-confession, 18-green-screen-reaction-and-comment-reply, 09-native-story-static-to-advertorial]",
+  "folder": "29-greenscreen-personal-story-brand-late"
  },
  {
   "id": "F33",
@@ -794,10 +843,11 @@
   "cost_per_asset": "$0-50 (photo + handwriting or AI)",
   "time_per_asset": "20 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 13-identity-shareables-accidental-virality]",
-  "file": "33-text-on-skin-static.md",
+  "file": "33-text-on-skin-static/README.md",
   "rank": 50,
   "lc_priority": "P1",
-  "related_formats": "[17-lofi-handwritten-sign-promo-static, 32-screenshot-native-static-pack]"
+  "related_formats": "[17-lofi-handwritten-sign-promo-static, 32-screenshot-native-static-pack]",
+  "folder": "33-text-on-skin-static"
  },
  {
   "id": "F36",
@@ -810,10 +860,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[11-social-proof-credibility-engine, 17-review-prompt-timing]",
-  "file": "36-backhanded-zero-star-review.md",
+  "file": "36-backhanded-zero-star-review/README.md",
   "rank": 51,
   "lc_priority": "P1",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 40-testimonial-mashup]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 40-testimonial-mashup]",
+  "folder": "36-backhanded-zero-star-review"
  },
  {
   "id": "F38",
@@ -826,10 +877,11 @@
   "cost_per_asset": "$0-100",
   "time_per_asset": "30-60 min",
   "related_strategies": "[43-48h-trend-hijacking, 35-mass-awareness-placement-to-advertorial]",
-  "file": "38-breaking-news-report-style.md",
+  "file": "38-breaking-news-report-style/README.md",
   "rank": 52,
   "lc_priority": "P1",
-  "related_formats": "[09-native-story-static-to-advertorial, 32-screenshot-native-static-pack]"
+  "related_formats": "[09-native-story-static-to-advertorial, 32-screenshot-native-static-pack]",
+  "folder": "38-breaking-news-report-style"
  },
  {
   "id": "F40",
@@ -842,10 +894,11 @@
   "cost_per_asset": "$0-300 (customer incentives)",
   "time_per_asset": "2-4 h",
   "related_strategies": "[11-social-proof-credibility-engine, 17-review-prompt-timing]",
-  "file": "40-testimonial-mashup.md",
+  "file": "40-testimonial-mashup/README.md",
   "rank": 53,
   "lc_priority": "P1",
-  "related_formats": "[26-founder-surprise-customer-call, 36-backhanded-zero-star-review]"
+  "related_formats": "[26-founder-surprise-customer-call, 36-backhanded-zero-star-review]",
+  "folder": "40-testimonial-mashup"
  },
  {
   "id": "F45",
@@ -858,10 +911,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "1-2 h",
   "related_strategies": "[31-founder-daily-posting-product-as-ad]",
-  "file": "45-day-in-the-life-behind-the-scenes.md",
+  "file": "45-day-in-the-life-behind-the-scenes/README.md",
   "rank": 54,
   "lc_priority": "P1",
-  "related_formats": "[27-founder-walk-and-talk-story-ad, 46-unboxing-packing-orders, 23-first-person-pov-hyperreal]"
+  "related_formats": "[27-founder-walk-and-talk-story-ad, 46-unboxing-packing-orders, 23-first-person-pov-hyperreal]",
+  "folder": "45-day-in-the-life-behind-the-scenes"
  },
  {
   "id": "F47",
@@ -874,10 +928,11 @@
   "cost_per_asset": "$0-150 (creator)",
   "time_per_asset": "30-60 min",
   "related_strategies": "[28-ugc-creator-network-per-video-pay, 10-skit-and-problem-first-ugc-hooks]",
-  "file": "47-grwm-stack-with-me.md",
+  "file": "47-grwm-stack-with-me/README.md",
   "rank": 55,
   "lc_priority": "P1",
-  "related_formats": "[43-hudson-method-creator-swarm, 45-day-in-the-life-behind-the-scenes, 20-ai-model-lookbook-on-body]"
+  "related_formats": "[43-hudson-method-creator-swarm, 45-day-in-the-life-behind-the-scenes, 20-ai-model-lookbook-on-body]",
+  "folder": "47-grwm-stack-with-me"
  },
  {
   "id": "F49",
@@ -890,10 +945,11 @@
   "cost_per_asset": "$0-500 (AI or studio)",
   "time_per_asset": "2-6 h",
   "related_strategies": "[37-ai-realism-craft, 40-modular-variation-testing-review]",
-  "file": "49-cinematic-macro-product-film.md",
+  "file": "49-cinematic-macro-product-film/README.md",
   "rank": 56,
   "lc_priority": "P1",
-  "related_formats": "[30-voiceless-broll-text-overlay, 05-ai-animation-format-swap]"
+  "related_formats": "[30-voiceless-broll-text-overlay, 05-ai-animation-format-swap]",
+  "folder": "49-cinematic-macro-product-film"
  },
  {
   "id": "F07",
@@ -906,10 +962,11 @@
   "cost_per_asset": "$0-300 (real) / $5-20 (AI)",
   "time_per_asset": "",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 11-social-proof-credibility-engine]",
-  "file": "07-street-interview-overheard-question.md",
+  "file": "07-street-interview-overheard-question/README.md",
   "rank": 57,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "07-street-interview-overheard-question"
  },
  {
   "id": "F12",
@@ -922,10 +979,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[11-social-proof-credibility-engine, 33-animated-brand-character-ads]",
-  "file": "12-week-by-week-results-timeline.md",
+  "file": "12-week-by-week-results-timeline/README.md",
   "rank": 58,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "12-week-by-week-results-timeline"
  },
  {
   "id": "F10",
@@ -938,10 +996,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 32-drama-show-ads-hidden-storyline]",
-  "file": "10-shock-headline-text-static.md",
+  "file": "10-shock-headline-text-static/README.md",
   "rank": 59,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "10-shock-headline-text-static"
  },
  {
   "id": "F06",
@@ -954,10 +1013,11 @@
   "cost_per_asset": "$2-15",
   "time_per_asset": "15-60 min",
   "related_strategies": "[29-ai-ugc-outlier-test-pipeline, 34-persona-archetype-ai-ugc-engine, 37-ai-realism-craft]",
-  "file": "06-ai-ugc-talking-head.md",
+  "file": "06-ai-ugc-talking-head/README.md",
   "rank": 60,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "06-ai-ugc-talking-head"
  },
  {
   "id": "F20",
@@ -970,10 +1030,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[37-ai-realism-craft, 06-keyword-named-products-social-search]",
-  "file": "20-ai-model-lookbook-on-body.md",
+  "file": "20-ai-model-lookbook-on-body/README.md",
   "rank": 61,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "20-ai-model-lookbook-on-body"
  },
  {
   "id": "F24",
@@ -986,10 +1047,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 43-48h-trend-hijacking]",
-  "file": "24-skit-beginner-intermediate-expert.md",
+  "file": "24-skit-beginner-intermediate-expert/README.md",
   "rank": 62,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "24-skit-beginner-intermediate-expert"
  },
  {
   "id": "F35",
@@ -1002,10 +1064,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 08-ad-library-transparency-targeting-intel]",
-  "file": "35-diagram-statics-venn-report-card.md",
+  "file": "35-diagram-statics-venn-report-card/README.md",
   "rank": 63,
   "lc_priority": "P2",
-  "related_formats": "[16-us-vs-copycat-screen-scroll, 34-callout-statics-signs-myths-warnings]"
+  "related_formats": "[16-us-vs-copycat-screen-scroll, 34-callout-statics-signs-myths-warnings]",
+  "folder": "35-diagram-statics-venn-report-card"
  },
  {
   "id": "F41",
@@ -1018,10 +1081,11 @@
   "cost_per_asset": "$20-100 (AI video)",
   "time_per_asset": "1-2 h",
   "related_strategies": "[33-animated-brand-character-ads, 37-ai-realism-craft]",
-  "file": "41-talking-product-ad.md",
+  "file": "41-talking-product-ad/README.md",
   "rank": 64,
   "lc_priority": "P2",
-  "related_formats": "[05-ai-animation-format-swap, 21-recurring-ai-character-mascot, 42-ai-object-head-micro-drama]"
+  "related_formats": "[05-ai-animation-format-swap, 21-recurring-ai-character-mascot, 42-ai-object-head-micro-drama]",
+  "folder": "41-talking-product-ad"
  },
  {
   "id": "F44",
@@ -1034,10 +1098,11 @@
   "cost_per_asset": "$1-3 CPM paid to clippers + platform fee",
   "time_per_asset": "setup 1 day; ongoing",
   "related_strategies": "[39-creator-campaign-marketplaces, 26-viral-format-intelligence-feed]",
-  "file": "44-clipping-campaign.md",
+  "file": "44-clipping-campaign/README.md",
   "rank": 65,
   "lc_priority": "P2",
-  "related_formats": "[43-hudson-method-creator-swarm, 27-founder-walk-and-talk-story-ad]"
+  "related_formats": "[43-hudson-method-creator-swarm, 27-founder-walk-and-talk-story-ad]",
+  "folder": "44-clipping-campaign"
  },
  {
   "id": "F46",
@@ -1050,10 +1115,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "30 min",
   "related_strategies": "[27-satisfying-product-loop-recordings, 31-founder-daily-posting-product-as-ad]",
-  "file": "46-unboxing-packing-orders.md",
+  "file": "46-unboxing-packing-orders/README.md",
   "rank": 66,
   "lc_priority": "P2",
-  "related_formats": "[45-day-in-the-life-behind-the-scenes, 47-grwm-stack-with-me]"
+  "related_formats": "[45-day-in-the-life-behind-the-scenes, 47-grwm-stack-with-me]",
+  "folder": "46-unboxing-packing-orders"
  },
  {
   "id": "F48",
@@ -1066,10 +1132,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[11-social-proof-credibility-engine, 17-review-prompt-timing]",
-  "file": "48-the-dm-i-get-every-day.md",
+  "file": "48-the-dm-i-get-every-day/README.md",
   "rank": 67,
   "lc_priority": "P2",
-  "related_formats": "[26-founder-surprise-customer-call, 18-green-screen-reaction-and-comment-reply]"
+  "related_formats": "[26-founder-surprise-customer-call, 18-green-screen-reaction-and-comment-reply]",
+  "folder": "48-the-dm-i-get-every-day"
  },
  {
   "id": "F50",
@@ -1082,10 +1149,11 @@
   "cost_per_asset": "$0-1,000",
   "time_per_asset": "1-3 days",
   "related_strategies": "[31-founder-daily-posting-product-as-ad]",
-  "file": "50-mini-documentary-how-its-made.md",
+  "file": "50-mini-documentary-how-its-made/README.md",
   "rank": 68,
   "lc_priority": "P2",
-  "related_formats": "[27-founder-walk-and-talk-story-ad, 49-cinematic-macro-product-film]"
+  "related_formats": "[27-founder-walk-and-talk-story-ad, 49-cinematic-macro-product-film]",
+  "folder": "50-mini-documentary-how-its-made"
  },
  {
   "id": "F51",
@@ -1098,10 +1166,11 @@
   "cost_per_asset": "$0-100",
   "time_per_asset": "1 h",
   "related_strategies": "[04-quiz-funnel-web-onboarding, 15-community-led-discovery]",
-  "file": "51-quiz-guess-game.md",
+  "file": "51-quiz-guess-game/README.md",
   "rank": 69,
   "lc_priority": "P2",
-  "related_formats": "[31-tier-list-ranking-ad, 07-street-interview-overheard-question]"
+  "related_formats": "[31-tier-list-ranking-ad, 07-street-interview-overheard-question]",
+  "folder": "51-quiz-guess-game"
  },
  {
   "id": "F52",
@@ -1114,10 +1183,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min/post",
   "related_strategies": "[20-niche-persona-pages, 24-niche-character-account-network, 13-identity-shareables-accidental-virality]",
-  "file": "52-meme-page-product-card.md",
+  "file": "52-meme-page-product-card/README.md",
   "rank": 70,
   "lc_priority": "P2",
-  "related_formats": "[01-faceless-niche-slideshow, 21-recurring-ai-character-mascot]"
+  "related_formats": "[01-faceless-niche-slideshow, 21-recurring-ai-character-mascot]",
+  "folder": "52-meme-page-product-card"
  },
  {
   "id": "F56",
@@ -1130,10 +1200,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20 min",
   "related_strategies": "[01-viral-slideshow-recreation, 22-serialized-chat-story-slideshows, 13-identity-shareables-accidental-virality]",
-  "file": "56-emotional-relatable-slideshow.md",
+  "file": "56-emotional-relatable-slideshow/README.md",
   "rank": 71,
   "lc_priority": "P2",
-  "related_formats": "[01-faceless-niche-slideshow, 08-drama-show-micro-series, 09-native-story-static-to-advertorial]"
+  "related_formats": "[01-faceless-niche-slideshow, 08-drama-show-micro-series, 09-native-story-static-to-advertorial]",
+  "folder": "56-emotional-relatable-slideshow"
  },
  {
   "id": "F58",
@@ -1146,10 +1217,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20-40 min",
   "related_strategies": "[19-content-hub-blog-to-product, 11-social-proof-credibility-engine]",
-  "file": "58-educational-care-material-explainer.md",
+  "file": "58-educational-care-material-explainer/README.md",
   "rank": 72,
   "lc_priority": "P2",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 39-x-reasons-why, 48-the-dm-i-get-every-day]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 39-x-reasons-why, 48-the-dm-i-get-every-day]",
+  "folder": "58-educational-care-material-explainer"
  },
  {
   "id": "F60",
@@ -1162,10 +1234,11 @@
   "cost_per_asset": "$0 creative + chat ops",
   "time_per_asset": "setup 1-2 days",
   "related_strategies": "[14-email-list-as-asset, 15-community-led-discovery]",
-  "file": "60-click-to-message-dm-ads.md",
+  "file": "60-click-to-message-dm-ads/README.md",
   "rank": 73,
   "lc_priority": "P2",
-  "related_formats": "[48-the-dm-i-get-every-day, 26-founder-surprise-customer-call]"
+  "related_formats": "[48-the-dm-i-get-every-day, 26-founder-surprise-customer-call]",
+  "folder": "60-click-to-message-dm-ads"
  },
  {
   "id": "F61",
@@ -1178,10 +1251,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "30 min + quiz build",
   "related_strategies": "[04-quiz-funnel-web-onboarding, 16-rewards-streaks-earned-discounts]",
-  "file": "61-poll-and-product-match-quiz-ads.md",
+  "file": "61-poll-and-product-match-quiz-ads/README.md",
   "rank": 74,
   "lc_priority": "P2",
-  "related_formats": "[51-quiz-guess-game, 31-tier-list-ranking-ad]"
+  "related_formats": "[51-quiz-guess-game, 31-tier-list-ranking-ad]",
+  "folder": "61-poll-and-product-match-quiz-ads"
  },
  {
   "id": "F68",
@@ -1194,10 +1268,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20 min",
   "related_strategies": "[16-rewards-streaks-earned-discounts, 41-von-restorff-static-copy-prompt]",
-  "file": "68-streak-calendar-static.md",
+  "file": "68-streak-calendar-static/README.md",
   "rank": 75,
   "lc_priority": "P2",
-  "related_formats": "[12-week-by-week-results-timeline, 33-text-on-skin-static]"
+  "related_formats": "[12-week-by-week-results-timeline, 33-text-on-skin-static]",
+  "folder": "68-streak-calendar-static"
  },
  {
   "id": "F69",
@@ -1210,10 +1285,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "15 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 11-social-proof-credibility-engine]",
-  "file": "69-zero-stars-rating-flip.md",
+  "file": "69-zero-stars-rating-flip/README.md",
   "rank": 76,
   "lc_priority": "P2",
-  "related_formats": "[36-backhanded-zero-star-review, 40-testimonial-mashup]"
+  "related_formats": "[36-backhanded-zero-star-review, 40-testimonial-mashup]",
+  "folder": "69-zero-stars-rating-flip"
  },
  {
   "id": "F70",
@@ -1226,10 +1302,11 @@
   "cost_per_asset": "$0-100",
   "time_per_asset": "45 min",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 20-niche-persona-pages]",
-  "file": "70-tough-love-blunt-narrator.md",
+  "file": "70-tough-love-blunt-narrator/README.md",
   "rank": 77,
   "lc_priority": "P2",
-  "related_formats": "[34-callout-statics-signs-myths-warnings, 14-in-car-yapper-confession]"
+  "related_formats": "[34-callout-statics-signs-myths-warnings, 14-in-car-yapper-confession]",
+  "folder": "70-tough-love-blunt-narrator"
  },
  {
   "id": "F72",
@@ -1242,10 +1319,11 @@
   "cost_per_asset": "$200-2,000",
   "time_per_asset": "1-2 weeks",
   "related_strategies": "[35-mass-awareness-placement-to-advertorial, 31-founder-daily-posting-product-as-ad]",
-  "file": "72-vsl-long-form-and-text-sales-letter.md",
+  "file": "72-vsl-long-form-and-text-sales-letter/README.md",
   "rank": 78,
   "lc_priority": "P2",
-  "related_formats": "[50-mini-documentary-how-its-made, 27-founder-walk-and-talk-story-ad, 09-native-story-static-to-advertorial]"
+  "related_formats": "[50-mini-documentary-how-its-made, 27-founder-walk-and-talk-story-ad, 09-native-story-static-to-advertorial]",
+  "folder": "72-vsl-long-form-and-text-sales-letter"
  },
  {
   "id": "F78",
@@ -1258,10 +1336,11 @@
   "cost_per_asset": "$300-2,000",
   "time_per_asset": "1-2 days",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 32-drama-show-ads-hidden-storyline]",
-  "file": "78-comedy-sketch-dr-pitch.md",
+  "file": "78-comedy-sketch-dr-pitch/README.md",
   "rank": 79,
   "lc_priority": "P2",
-  "related_formats": "[24-skit-beginner-intermediate-expert, 08-drama-show-micro-series]"
+  "related_formats": "[24-skit-beginner-intermediate-expert, 08-drama-show-micro-series]",
+  "folder": "78-comedy-sketch-dr-pitch"
  },
  {
   "id": "F82",
@@ -1274,10 +1353,11 @@
   "cost_per_asset": "$50-500",
   "time_per_asset": "1-2 days",
   "related_strategies": "[33-animated-brand-character-ads, 37-ai-realism-craft]",
-  "file": "82-hyperreal-cgi-mechanism-xray.md",
+  "file": "82-hyperreal-cgi-mechanism-xray/README.md",
   "rank": 80,
   "lc_priority": "P2",
-  "related_formats": "[05-ai-animation-format-swap, 41-talking-product-ad]"
+  "related_formats": "[05-ai-animation-format-swap, 41-talking-product-ad]",
+  "folder": "82-hyperreal-cgi-mechanism-xray"
  },
  {
   "id": "F83",
@@ -1290,10 +1370,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20 min",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 41-von-restorff-static-copy-prompt]",
-  "file": "83-shock-gross-visual.md",
+  "file": "83-shock-gross-visual/README.md",
   "rank": 81,
   "lc_priority": "P2",
-  "related_formats": "[59-problem-solution-pas-ad, 34-callout-statics-signs-myths-warnings]"
+  "related_formats": "[59-problem-solution-pas-ad, 34-callout-statics-signs-myths-warnings]",
+  "folder": "83-shock-gross-visual"
  },
  {
   "id": "F84",
@@ -1306,10 +1387,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20 min",
   "related_strategies": "[41-von-restorff-static-copy-prompt, 03-creative-volume-flooding]",
-  "file": "84-ugly-unusual-visual-native.md",
+  "file": "84-ugly-unusual-visual-native/README.md",
   "rank": 82,
   "lc_priority": "P2",
-  "related_formats": "[09-native-story-static-to-advertorial, 10-shock-headline-text-static]"
+  "related_formats": "[09-native-story-static-to-advertorial, 10-shock-headline-text-static]",
+  "folder": "84-ugly-unusual-visual-native"
  },
  {
   "id": "F85",
@@ -1322,10 +1404,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "10 min/post",
   "related_strategies": "[01-viral-slideshow-recreation, 24-niche-character-account-network]",
-  "file": "85-persona-aesthetic-slideshow-caption-template.md",
+  "file": "85-persona-aesthetic-slideshow-caption-template/README.md",
   "rank": 83,
   "lc_priority": "P2",
-  "related_formats": "[01-faceless-niche-slideshow, 56-emotional-relatable-slideshow]"
+  "related_formats": "[01-faceless-niche-slideshow, 56-emotional-relatable-slideshow]",
+  "folder": "85-persona-aesthetic-slideshow-caption-template"
  },
  {
   "id": "F88",
@@ -1338,10 +1421,11 @@
   "cost_per_asset": "$0-200",
   "time_per_asset": "1 h",
   "related_strategies": "[16-rewards-streaks-earned-discounts, 28-ugc-creator-network-per-video-pay]",
-  "file": "88-challenge-ad.md",
+  "file": "88-challenge-ad/README.md",
   "rank": 84,
   "lc_priority": "P2",
-  "related_formats": "[68-streak-calendar-static, 43-hudson-method-creator-swarm]"
+  "related_formats": "[68-streak-calendar-static, 43-hudson-method-creator-swarm]",
+  "folder": "88-challenge-ad"
  },
  {
   "id": "F89",
@@ -1354,10 +1438,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "20 min",
   "related_strategies": "[11-social-proof-credibility-engine, 17-review-prompt-timing]",
-  "file": "89-customer-thank-you-shoutout-ad.md",
+  "file": "89-customer-thank-you-shoutout-ad/README.md",
   "rank": 85,
   "lc_priority": "P2",
-  "related_formats": "[74-verbatim-review-static, 26-founder-surprise-customer-call]"
+  "related_formats": "[74-verbatim-review-static, 26-founder-surprise-customer-call]",
+  "folder": "89-customer-thank-you-shoutout-ad"
  },
  {
   "id": "F91",
@@ -1370,10 +1455,11 @@
   "cost_per_asset": "$150-600 per finished ad (AI video + edit) or a real-actor shoot",
   "time_per_asset": "1-3 days",
   "related_strategies": "[32-drama-show-ads-hidden-storyline, 35-mass-awareness-placement-to-advertorial]",
-  "file": "91-ai-melodrama-mini-movie.md",
+  "file": "91-ai-melodrama-mini-movie/README.md",
   "rank": 86,
   "lc_priority": "P2",
-  "related_formats": "[08-drama-show-micro-series, 04-ai-song-ad, 50-mini-documentary-how-its-made]"
+  "related_formats": "[08-drama-show-micro-series, 04-ai-song-ad, 50-mini-documentary-how-its-made]",
+  "folder": "91-ai-melodrama-mini-movie"
  },
  {
   "id": "F92",
@@ -1386,10 +1472,11 @@
   "cost_per_asset": "$0-300",
   "time_per_asset": "half day",
   "related_strategies": "[32-drama-show-ads-hidden-storyline, 11-social-proof-credibility-engine]",
-  "file": "92-foreign-insider-secret-story.md",
+  "file": "92-foreign-insider-secret-story/README.md",
   "rank": 87,
   "lc_priority": "P2",
-  "related_formats": "[91-ai-melodrama-mini-movie, 27-founder-walk-and-talk-story-ad, 50-mini-documentary-how-its-made]"
+  "related_formats": "[91-ai-melodrama-mini-movie, 27-founder-walk-and-talk-story-ad, 50-mini-documentary-how-its-made]",
+  "folder": "92-foreign-insider-secret-story"
  },
  {
   "id": "F96",
@@ -1402,10 +1489,11 @@
   "cost_per_asset": "$0-150",
   "time_per_asset": "2-3 h",
   "related_strategies": "[11-social-proof-credibility-engine, 36-owned-winner-video-remix]",
-  "file": "96-result-reveal-expert-stitch.md",
+  "file": "96-result-reveal-expert-stitch/README.md",
   "rank": 88,
   "lc_priority": "P2",
-  "related_formats": "[18-green-screen-reaction-and-comment-reply, 28-reaction-hook-plus-demo, 40-testimonial-mashup]"
+  "related_formats": "[18-green-screen-reaction-and-comment-reply, 28-reaction-hook-plus-demo, 40-testimonial-mashup]",
+  "folder": "96-result-reveal-expert-stitch"
  },
  {
   "id": "F15",
@@ -1418,10 +1506,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[11-social-proof-credibility-engine]",
-  "file": "15-retro-infomercial-expert-authority.md",
+  "file": "15-retro-infomercial-expert-authority/README.md",
   "rank": 89,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "15-retro-infomercial-expert-authority"
  },
  {
   "id": "F03",
@@ -1434,10 +1523,11 @@
   "cost_per_asset": "$0-1",
   "time_per_asset": "",
   "related_strategies": "[23-product-voice-notification-slideshows, 22-serialized-chat-story-slideshows]",
-  "file": "03-notification-lockscreen-slides.md",
+  "file": "03-notification-lockscreen-slides/README.md",
   "rank": 90,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "03-notification-lockscreen-slides"
  },
  {
   "id": "F21",
@@ -1450,10 +1540,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[24-niche-character-account-network, 33-animated-brand-character-ads]",
-  "file": "21-recurring-ai-character-mascot.md",
+  "file": "21-recurring-ai-character-mascot/README.md",
   "rank": 91,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "21-recurring-ai-character-mascot"
  },
  {
   "id": "F23",
@@ -1466,10 +1557,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[27-satisfying-product-loop-recordings]",
-  "file": "23-first-person-pov-hyperreal.md",
+  "file": "23-first-person-pov-hyperreal/README.md",
   "rank": 92,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "23-first-person-pov-hyperreal"
  },
  {
   "id": "F22",
@@ -1482,10 +1574,11 @@
   "cost_per_asset": "",
   "time_per_asset": "",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks]",
-  "file": "22-split-screen-two-versions.md",
+  "file": "22-split-screen-two-versions/README.md",
   "rank": 93,
   "lc_priority": "",
-  "related_formats": ""
+  "related_formats": "",
+  "folder": "22-split-screen-two-versions"
  },
  {
   "id": "F42",
@@ -1498,10 +1591,11 @@
   "cost_per_asset": "$50-200 per episode (AI)",
   "time_per_asset": "3-6 h",
   "related_strategies": "[32-drama-show-ads-hidden-storyline, 24-niche-character-account-network]",
-  "file": "42-ai-object-head-micro-drama.md",
+  "file": "42-ai-object-head-micro-drama/README.md",
   "rank": 94,
   "lc_priority": "P3",
-  "related_formats": "[08-drama-show-micro-series, 21-recurring-ai-character-mascot, 41-talking-product-ad]"
+  "related_formats": "[08-drama-show-micro-series, 21-recurring-ai-character-mascot, 41-talking-product-ad]",
+  "folder": "42-ai-object-head-micro-drama"
  },
  {
   "id": "F63",
@@ -1514,10 +1608,11 @@
   "cost_per_asset": "$0 + host time",
   "time_per_asset": "2-3 h per session",
   "related_strategies": "[39-creator-campaign-marketplaces, 28-ugc-creator-network-per-video-pay]",
-  "file": "63-live-shopping-ads.md",
+  "file": "63-live-shopping-ads/README.md",
   "rank": 95,
   "lc_priority": "P3",
-  "related_formats": "[19-tiktok-shop-affiliate-shoppable-demo, 43-hudson-method-creator-swarm]"
+  "related_formats": "[19-tiktok-shop-affiliate-shoppable-demo, 43-hudson-method-creator-swarm]",
+  "folder": "63-live-shopping-ads"
  },
  {
   "id": "F66",
@@ -1530,10 +1625,11 @@
   "cost_per_asset": "$0 add-on to existing video",
   "time_per_asset": "15 min",
   "related_strategies": "[05-offer-page-engineering]",
-  "file": "66-interactive-gesture-addon-ads.md",
+  "file": "66-interactive-gesture-addon-ads/README.md",
   "rank": 96,
   "lc_priority": "P3",
-  "related_formats": "[37-urgency-offer-statics, 46-unboxing-packing-orders]"
+  "related_formats": "[37-urgency-offer-statics, 46-unboxing-packing-orders]",
+  "folder": "66-interactive-gesture-addon-ads"
  },
  {
   "id": "F80",
@@ -1546,10 +1642,11 @@
   "cost_per_asset": "$0-200",
   "time_per_asset": "ongoing",
   "related_strategies": "[20-niche-persona-pages, 34-persona-archetype-ai-ugc-engine]",
-  "file": "80-persona-page-native-system.md",
+  "file": "80-persona-page-native-system/README.md",
   "rank": 97,
   "lc_priority": "P3",
-  "related_formats": "[09-native-story-static-to-advertorial, 21-recurring-ai-character-mascot]"
+  "related_formats": "[09-native-story-static-to-advertorial, 21-recurring-ai-character-mascot]",
+  "folder": "80-persona-page-native-system"
  },
  {
   "id": "F81",
@@ -1562,10 +1659,11 @@
   "cost_per_asset": "$0",
   "time_per_asset": "1 h per episode",
   "related_strategies": "[32-drama-show-ads-hidden-storyline, 22-serialized-chat-story-slideshows]",
-  "file": "81-fiction-serial-native.md",
+  "file": "81-fiction-serial-native/README.md",
   "rank": 98,
   "lc_priority": "P3",
-  "related_formats": "[08-drama-show-micro-series, 09-native-story-static-to-advertorial]"
+  "related_formats": "[08-drama-show-micro-series, 09-native-story-static-to-advertorial]",
+  "folder": "81-fiction-serial-native"
  },
  {
   "id": "F93",
@@ -1578,9 +1676,10 @@
   "cost_per_asset": "$0-200 (real) / $50 (AI, not recommended)",
   "time_per_asset": "half day",
   "related_strategies": "[10-skit-and-problem-first-ugc-hooks, 11-social-proof-credibility-engine]",
-  "file": "93-elder-wisdom-interview-countdown.md",
+  "file": "93-elder-wisdom-interview-countdown/README.md",
   "rank": 99,
   "lc_priority": "P3",
-  "related_formats": "[07-street-interview-overheard-question, 39-x-reasons-why, 97-persona-swap-script-cloning]"
+  "related_formats": "[07-street-interview-overheard-question, 39-x-reasons-why, 97-persona-swap-script-cloning]",
+  "folder": "93-elder-wisdom-interview-countdown"
  }
 ]

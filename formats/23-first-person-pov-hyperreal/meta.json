@@ -1,0 +1,89 @@
+{
+ "id": "F23",
+ "slug": "23-first-person-pov-hyperreal",
+ "name": "Hyper-real first-person POV footage",
+ "title": "23 · First-person POV",
+ "n_examples": 3,
+ "n_curated": 2,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2105648964716380197",
+   "file": "2026-10-01-spwfeijen-2105648964716380197.md",
+   "kind": "curated",
+   "author": "spwfeijen",
+   "date": "2026-10-01",
+   "url": "https://x.com/spwfeijen/status/2105648964716380197",
+   "eng": "46L/49BM/5kV",
+   "grade": "SOME",
+   "gist": "Hyper-real first-person POV footage with narrative tension keeps watch time near 100%.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105648735929696258/img/UGap2cwIg3oeEdLZ.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2091895054755373116",
+   "file": "2026-08-24-antonioventre_-2091895054755373116.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-08-24",
+   "url": "https://x.com/antonioventre_/status/2091895054755373116",
+   "eng": "8L/4BM/693V",
+   "grade": "VALUE",
+   "gist": "Production rule: reaction can't be scripted — founder-customer call + POV reaction ads with live unscripted reaction.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100177884975612016",
+   "file": "2026-09-16-DeQueenofSpaces-2100177884975612016.md",
+   "kind": "candidate",
+   "author": "DeQueenofSpaces",
+   "date": "2026-09-16",
+   "url": "https://x.com/DeQueenofSpaces/status/2100177884975612016",
+   "eng": "100L/2BM/2kV",
+   "grade": "",
+   "gist": "First-person POV vs Third-person POV. Welcome back to this week's AI Creation Lab, where we're exploring Point of View. For this experiment, I created a fitness smartwatch ad using",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100173342762307584/img/iBkm1wyJAPAqPdjY.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

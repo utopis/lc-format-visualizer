@@ -1,0 +1,145 @@
+{
+ "id": "F70",
+ "slug": "70-tough-love-blunt-narrator",
+ "name": "Tough Love: blunt, scolding narrator ad ('stop doing this to yourself')",
+ "title": "70 · Tough Love: blunt, scolding narrator ad (\"stop doing this to yourself\")",
+ "n_examples": 7,
+ "n_curated": 0,
+ "n_candidates": 6,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107188290264740348",
+   "file": "2026-10-05-0xROAS-2107188290264740348.md",
+   "kind": "candidate",
+   "author": "0xROAS",
+   "date": "2026-10-05",
+   "url": "https://x.com/0xROAS/status/2107188290264740348",
+   "eng": "104L/139BM/9kV",
+   "grade": "",
+   "gist": "100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here’s how to make sure your dramas hit: - start with a very aggressive hook - make a plot twist - add ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107188258639642624/img/ePsp33GYPcvEqtkD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093433523906773248",
+   "file": "2026-08-28-mannybarbas_-2093433523906773248.md",
+   "kind": "candidate",
+   "author": "mannybarbas_",
+   "date": "2026-08-28",
+   "url": "https://x.com/mannybarbas_/status/2093433523906773248",
+   "eng": "57L/28BM/6kV",
+   "grade": "",
+   "gist": "Regarding turning off ads: Stop doing this constantly every single day. Sometimes an ad with a higher CPA is actually doing an important job: bringing fresh people into the funnel.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096365154011074617",
+   "file": "2026-09-05-Bobbyy_V-2096365154011074617.md",
+   "kind": "candidate",
+   "author": "Bobbyy_V",
+   "date": "2026-09-05",
+   "url": "https://x.com/Bobbyy_V/status/2096365154011074617",
+   "eng": "40L/9BM/11kV",
+   "grade": "",
+   "gist": "Every player with a brain just going flats and ultra aggressive hook curls + switch stick because they know you have 1.5 seconds before Myles Garrett and Aaron Donald end you. Fun ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098017463195553912",
+   "file": "2026-09-10-ZedNilm1-2098017463195553912.md",
+   "kind": "candidate",
+   "author": "ZedNilm1",
+   "date": "2026-09-10",
+   "url": "https://x.com/ZedNilm1/status/2098017463195553912",
+   "eng": "3L/9BM/655V",
+   "grade": "",
+   "gist": "this parasite ad looks like something made in 10 minutes which is exactly why i’d pay attention to it ugly animation aggressive hook zero concern for looking “premium” but it stops",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098017420170711040/img/l04gDNmnBVqbidJk.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108195005126869080",
+   "file": "2026-10-08-LinoLeighton-2108195005126869080.md",
+   "kind": "candidate",
+   "author": "LinoLeighton",
+   "date": "2026-10-08",
+   "url": "https://x.com/LinoLeighton/status/2108195005126869080",
+   "eng": "3L/4BM/834V",
+   "grade": "",
+   "gist": "Drama Ads ripping rn… 100% AI drama ad made with Seedance 2.5 Here’s how to make your drama ads actually hit: Go to agent on arcads Start with an aggressive hook Build up the story",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102382412152123821",
+   "file": "2026-09-22-GabrielHandstad-2102382412152123821.md",
+   "kind": "candidate",
+   "author": "GabrielHandstad",
+   "date": "2026-09-22",
+   "url": "https://x.com/GabrielHandstad/status/2102382412152123821",
+   "eng": "3L/0BM/23V",
+   "grade": "",
+   "gist": "STOP DOING THIS! Editing ads that work in the account. It's the most expensive thing you do. When an ad has built up hundreds of likes and comments, a share of the result sits in t",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "id": "F75",
+ "slug": "75-were-sorry-sold-out-apology",
+ "name": "'We're sorry, we keep selling out' apology notice",
+ "title": "75 · \"We're sorry, we keep selling out\" apology notice",
+ "n_examples": 9,
+ "n_curated": 2,
+ "n_candidates": 6,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2094662259746480410",
+   "file": "2026-09-01-briannjho-2094662259746480410.md",
+   "kind": "curated",
+   "author": "briannjho",
+   "date": "2026-09-01",
+   "url": "https://x.com/briannjho/status/2094662259746480410",
+   "eng": "138L/338BM/10kV",
+   "grade": "SOME",
+   "gist": "Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear \"this is what happens\".",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100948331136782532",
+   "file": "2026-09-18-FedotOff90-2100948331136782532.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-18",
+   "url": "https://x.com/FedotOff90/status/2100948331136782532",
+   "eng": "17L/18BM/3kV",
+   "grade": "VALUE",
+   "gist": "Rebuilt the formats list with proof: 30-day survival column = \"this works\" bar; copy the structure, not the words.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076303701426471059",
+   "file": "2026-07-12-ChichiChachaha-2076303701426471059.md",
+   "kind": "candidate",
+   "author": "ChichiChachaha",
+   "date": "2026-07-12",
+   "url": "https://x.com/ChichiChachaha/status/2076303701426471059",
+   "eng": "251L/24BM/10kV",
+   "grade": "",
+   "gist": "#Overdo sets a new pre-release advertising record. ~RMB 120M secured from ads &amp; sponsorships bef. its premiere date is even announced. 20+ brand partnerships signed, all in-dra",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2076303637643710464/img/E_IDtY_7NDBoZpii.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107153847126831539",
+   "file": "2026-10-05-adamtaylorl-2107153847126831539.md",
+   "kind": "candidate",
+   "author": "adamtaylorl",
+   "date": "2026-10-05",
+   "url": "https://x.com/adamtaylorl/status/2107153847126831539",
+   "eng": "27L/5BM/2kV",
+   "grade": "",
+   "gist": "Fun 7 days at our agency (had Claude scan our Slack channels for these) - client 1: scaled spend and ROAS at the same time. revenue up 21% week on week at 2.9 ROAS. now sold out of",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077807501211267281",
+   "file": "2026-07-16-mikasafavx-2077807501211267281.md",
+   "kind": "candidate",
+   "author": "mikasafavx",
+   "date": "2026-07-16",
+   "url": "https://x.com/mikasafavx/status/2077807501211267281",
+   "eng": "25L/3BM/1kV",
+   "grade": "",
+   "gist": "SKIMS after lisa’s ad: 22% revenue growth in APAC skims x nike set sold out $1B net sales projected at the end of the year GAP after trasheye: 7% revenue growth $951M net sales Tik",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2094130303396630835",
+   "file": "2026-08-30-SaulSellsStuff-2094130303396630835.md",
+   "kind": "candidate",
+   "author": "SaulSellsStuff",
+   "date": "2026-08-30",
+   "url": "https://x.com/SaulSellsStuff/status/2094130303396630835",
+   "eng": "20L/4BM/2kV",
+   "grade": "",
+   "gist": "Amazon inventory just smacks you in the face sometimes. It doesn’t need to be all small websites nobody else has heard of. I got a Facebook ad today for a new release from a brand ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2080320968178692301",
+   "file": "2026-07-23-notdailyavatar-2080320968178692301.md",
+   "kind": "candidate",
+   "author": "notdailyavatar",
+   "date": "2026-07-23",
+   "url": "https://x.com/notdailyavatar/status/2080320968178692301",
+   "eng": "18L/1BM/314V",
+   "grade": "",
+   "gist": "Getting ads for the same brand as Johannes' boots... Are you mocking me? 😭😭 They're too expensive and also sold out https://t.co/6ZwGz09Zcq",
+   "thumb": "https://pbs.twimg.com/media/HN7I5XRX0AA9zSt.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085017654364958737",
+   "file": "2026-08-05-Yannlce-2085017654364958737.md",
+   "kind": "candidate",
+   "author": "Yannlce",
+   "date": "2026-08-05",
+   "url": "https://x.com/Yannlce/status/2085017654364958737",
+   "eng": "3L/2BM/1kV",
+   "grade": "SOME",
+   "gist": "Same 40-format list (adds claymation, AI podcast).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

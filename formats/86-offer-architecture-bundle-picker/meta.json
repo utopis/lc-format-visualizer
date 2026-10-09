@@ -1,0 +1,129 @@
+{
+ "id": "F86",
+ "slug": "86-offer-architecture-bundle-picker",
+ "name": "Offer-architecture ads: build-your-own bundle / any-N picker / mystery box / free-plus-shipping",
+ "title": "86 · Offer-architecture ads: build-your-own bundle / any-N picker / mystery box / free-plus-shipping",
+ "n_examples": 6,
+ "n_curated": 3,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2093350155751924213",
+   "file": "2026-08-28-FedotOff90-2093350155751924213.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-08-28",
+   "url": "https://x.com/FedotOff90/status/2093350155751924213",
+   "eng": "238L/632BM/20kV",
+   "grade": "SOME",
+   "gist": "7,500+ winning Meta ads sorted by format across public boards (top-50 DTC, beauty, natives, listicles, shock & gross, BOFU).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2094854572623675832",
+   "file": "2026-09-01-FedotOff90-2094854572623675832.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-01",
+   "url": "https://x.com/FedotOff90/status/2094854572623675832",
+   "eng": "175L/385BM/47kV",
+   "grade": "VALUE",
+   "gist": "6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) — 53-format lander database.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092382176738202057",
+   "file": "2026-08-25-FedotOff90-2092382176738202057.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-08-25",
+   "url": "https://x.com/FedotOff90/status/2092382176738202057",
+   "eng": "145L/318BM/11kV",
+   "grade": "VALUE",
+   "gist": "24 landing page formats with live ad→lander pairs (breaking news, investigation, as-seen-on-TV, doctor warning…).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091884660871585977",
+   "file": "2026-08-24-FedotOff90-2091884660871585977.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-08-24",
+   "url": "https://x.com/FedotOff90/status/2091884660871585977",
+   "eng": "35L/42BM/7kV",
+   "grade": "",
+   "gist": "335 of top BOFU ads in ONE swipe file here: https://t.co/39G7hAlLer https://t.co/rsZzZSpMFd https://t.co/CJ695Dqbfc",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098456656711467183",
+   "file": "2026-09-11-ArijanJanes-2098456656711467183.md",
+   "kind": "candidate",
+   "author": "ArijanJanes",
+   "date": "2026-09-11",
+   "url": "https://x.com/ArijanJanes/status/2098456656711467183",
+   "eng": "54L/52BM/4kV",
+   "grade": "",
+   "gist": "We changed our offer and got a $20 better AOV with roughly the same CVR... All while sending LESS items to the customer. Version 1: - Highest AOV option at $60 - Sending 4 products",
+   "thumb": "https://pbs.twimg.com/media/HR83NNPXoAArdWE.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+# Examples · 38 · Breaking-news / news-report style ad
+
+Every X post we hold for this format: **11** (5 curated, 1 cited in the playbook, 5 auto-matched candidates).
+
+Curated = hand-graded in the X discovery feed. Candidates come from a targeted X search for this format (last ~90 days, relevancy-sorted, engagement-filtered) and are NOT hand-graded yet: verify, then promote or delete.
+
+Search used: `("breaking news" OR "news report" OR "news style") (ad OR ads OR format OR ugc)`
+
+| # | Date | Author | Status | Engagement | Media | Gist | File |
+|---|---|---|---|---|---|---|---|
+| 1 | 2026-07-27 | [@ads4apps](https://x.com/ads4apps/status/2081785032679518490) | curated VALUE | 412L/930BM/27kV | text | 39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breaking news, Reddit, Google search, text on skin, tier list, zero stars… | [2026-07-27-ads4apps-2081785032679518490](2026-07-27-ads4apps-2081785032679518490.md) |
+| 2 | 2026-10-08 | [@nicktheriot_](https://x.com/nicktheriot_/status/2108173638033871013) | curated VALUE | 219L/348BM/12kV | photo | 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL. | [2026-10-08-nicktheriot_-2108173638033871013](2026-10-08-nicktheriot_-2108173638033871013.md) |
+| 3 | 2026-08-21 | [@raph_guilhem](https://x.com/raph_guilhem/status/2090725512976970065) | curated SOME | 9L/6BM/377V | video + transcript | 35 static/native formats tree: Trustpilot, text msg, email screenshot, Reddit, text on skin, crossed-out, tier list, Venn, breaking news. | [2026-08-21-raph_guilhem-2090725512976970065](2026-08-21-raph_guilhem-2090725512976970065.md) |
+| 4 | 2026-09-11 | [@EmerieOnoh](https://x.com/EmerieOnoh/status/2098426706612683154) | curated SOME | 6L/6BM/498V | text | Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm. | [2026-09-11-EmerieOnoh-2098426706612683154](2026-09-11-EmerieOnoh-2098426706612683154.md) |
+| 5 | 2026-08-05 | [@Yannlce](https://x.com/Yannlce/status/2085017654364958737) | curated SOME | 3L/2BM/1kV | text | Same 40-format list (adds claymation, AI podcast). | [2026-08-05-Yannlce-2085017654364958737](2026-08-05-Yannlce-2085017654364958737.md) |
+| 6 | 2026-07-31 | [@raph_guilhem](https://x.com/raph_guilhem/status/2083288607062732816) | cited VALUE | 55L/105BM/7kV | text | 30 Meta ad formats folder tree (hooks, founder content, etc.). | [2026-07-31-raph_guilhem-2083288607062732816](2026-07-31-raph_guilhem-2083288607062732816.md) |
+| 7 | 2026-08-18 | [@ladprofit](https://x.com/ladprofit/status/2089745258796261415) | candidate | 58L/111BM/90kV | video | built a BREAKING NEWS style ad with AI and it's terrifying how convincing it is synthetic spokesperson, invented product, "doctor" with credentials I generated, and the only thing  | [2026-08-18-ladprofit-2089745258796261415](2026-08-18-ladprofit-2089745258796261415.md) |
+| 8 | 2026-07-30 | [@zackpaid](https://x.com/zackpaid/status/2082723870138671515) | candidate | 80L/97BM/6kV | text | we produce a FULL 20-creative meta ads batch in 5-8 hours the human production pipeline doing the same thing takes 8-13 days. here's the 4-stage stack we run end to end: stage 1 is | [2026-07-30-zackpaid-2082723870138671515](2026-07-30-zackpaid-2082723870138671515.md) |
+| 9 | 2026-07-11 | [@dep_hart](https://x.com/dep_hart/status/2076056430986309814) | candidate VALUE | 65L/90BM/5kV | text | Native ads: mirror ad (ICP sees herself), news-article copy, interview-style advertorial. | [2026-07-11-dep_hart-2076056430986309814](2026-07-11-dep_hart-2076056430986309814.md) |
+| 10 | 2026-08-05 | [@FedotOff90](https://x.com/FedotOff90/status/2084822664863273302) | candidate | 9L/25BM/4kV | video | Great format! Got 200 of these iPhone Notes / Text Messages / Reddit / Google Search / Breaking News / DMs / Amazon Review / TikTok Comments ads in one BIG ASS swipe file. Enjoy, m | [2026-08-05-FedotOff90-2084822664863273302](2026-08-05-FedotOff90-2084822664863273302.md) |
+| 11 | 2026-09-25 | [@richardbrien](https://x.com/richardbrien/status/2103478126928138309) | candidate | 3L/2BM/91V | photo | "Breaking News" style ad creative crushes harder than any other format across long periods of time. https://t.co/5XAPPNoLf7 | [2026-09-25-richardbrien-2103478126928138309](2026-09-25-richardbrien-2103478126928138309.md) |
+
+Add more: drop a new `<date>-<author>-<id>.md` here (copy any file as a template) and add a row.

@@ -1,0 +1,129 @@
+{
+ "id": "F79",
+ "slug": "79-advertorial-style-video",
+ "name": "Advertorial-style video ('5 reasons ___ are ditching ___')",
+ "title": "79 · Advertorial-style video (\"5 reasons ___ are ditching ___\")",
+ "n_examples": 6,
+ "n_curated": 3,
+ "n_candidates": 3,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2094854572623675832",
+   "file": "2026-09-01-FedotOff90-2094854572623675832.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-01",
+   "url": "https://x.com/FedotOff90/status/2094854572623675832",
+   "eng": "175L/385BM/47kV",
+   "grade": "VALUE",
+   "gist": "6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) — 53-format lander database.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092382176738202057",
+   "file": "2026-08-25-FedotOff90-2092382176738202057.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-08-25",
+   "url": "https://x.com/FedotOff90/status/2092382176738202057",
+   "eng": "145L/318BM/11kV",
+   "grade": "VALUE",
+   "gist": "24 landing page formats with live ad→lander pairs (breaking news, investigation, as-seen-on-TV, doctor warning…).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2044464896104857850",
+   "file": "2026-04-15-funneloftheweek-2044464896104857850.md",
+   "kind": "curated",
+   "author": "funneloftheweek",
+   "date": "2026-04-15",
+   "url": "https://x.com/funneloftheweek/status/2044464896104857850",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Resilia: 12 persona Pages → one 7-min advertorial (30-50% of traffic), 3-4 copy templates × hundreds of creatives, 544 new ads/30d, OTO flow $30→$83.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078934717462888585",
+   "file": "2026-07-19-phemeinfluence-2078934717462888585.md",
+   "kind": "candidate",
+   "author": "phemeinfluence",
+   "date": "2026-07-19",
+   "url": "https://x.com/phemeinfluence/status/2078934717462888585",
+   "eng": "224L/41BM/15kV",
+   "grade": "",
+   "gist": "🐶 PET UGC OPPORTUNITY 35+ (cats or dogs moms) BRAND: Chewy PAY: $2000 + Product Pet brand hiring UGC creators to film a 90s advertorial video featuring you + your pet with their pr",
+   "thumb": "https://pbs.twimg.com/media/HNncGLsXkAA7Gf-.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2084289721703010738",
+   "file": "2026-08-03-k4komaaaal-2084289721703010738.md",
+   "kind": "candidate",
+   "author": "k4komaaaal",
+   "date": "2026-08-03",
+   "url": "https://x.com/k4komaaaal/status/2084289721703010738",
+   "eng": "16L/7BM/655V",
+   "grade": "",
+   "gist": "10 reasons why brands are ditching polished ads for founder faces on camera: 1. sushiswap, gymshark all started founder led content before ads 2. face on camera builds trust 3. che",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083963265550303232/img/xGDIvyQHp6abrAmZ.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090417151878348844",
+   "file": "2026-08-20-GlennNieuwenh-2090417151878348844.md",
+   "kind": "candidate",
+   "author": "GlennNieuwenh",
+   "date": "2026-08-20",
+   "url": "https://x.com/GlennNieuwenh/status/2090417151878348844",
+   "eng": "7L/1BM/640V",
+   "grade": "",
+   "gist": "Everyone tests creatives, hooks and angles, and almost nobody tests the page the ad runs from. That page changes how the whole ad gets read before anyone processes a word of it. Pe",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

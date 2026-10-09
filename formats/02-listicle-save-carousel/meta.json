@@ -1,0 +1,230 @@
+{
+ "id": "F02",
+ "slug": "02-listicle-save-carousel",
+ "name": "Listicle save-carousel (one item per slide)",
+ "title": "02 · Listicle save-carousel",
+ "n_examples": 12,
+ "n_curated": 3,
+ "n_candidates": 9,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108340891601748034",
+   "file": "2026-10-08-MaxHirsch13-2108340891601748034.md",
+   "kind": "curated",
+   "author": "MaxHirsch13",
+   "date": "2026-10-08",
+   "url": "https://x.com/MaxHirsch13/status/2108340891601748034",
+   "eng": "75L/224BM/3kV",
+   "grade": "VALUE",
+   "gist": "Exact agent prompt for 6-slide carousel: candid wide photo + '5 ways to get [result]' hook, slides 2-6 one tip each.",
+   "thumb": "https://pbs.twimg.com/media/HUJUxNRa0AAzgUd.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107517609960702306",
+   "file": "2026-10-06-rsalimx-2107517609960702306.md",
+   "kind": "curated",
+   "author": "rsalimx",
+   "date": "2026-10-06",
+   "url": "https://x.com/rsalimx/status/2107517609960702306",
+   "eng": "120L/200BM/6kV",
+   "grade": "VALUE",
+   "gist": "Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it).",
+   "thumb": "https://pbs.twimg.com/media/HT9nvksWwAAHvXM.jpg",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2108259483902513153",
+   "file": "2026-10-08-rsalimx-2108259483902513153.md",
+   "kind": "curated",
+   "author": "rsalimx",
+   "date": "2026-10-08",
+   "url": "https://x.com/rsalimx/status/2108259483902513153",
+   "eng": "103L/146BM/6kV",
+   "grade": "VALUE",
+   "gist": "Recipe slideshows (one meal per slide) hit 40M views; app = 'all of this in your pocket'. Save-bait listicle.",
+   "thumb": "https://pbs.twimg.com/media/HUIKxtVWcAA_hiw.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2095194062756413781",
+   "file": "2026-09-02-_afterblossom_-2095194062756413781.md",
+   "kind": "candidate",
+   "author": "_afterblossom_",
+   "date": "2026-09-02",
+   "url": "https://x.com/_afterblossom_/status/2095194062756413781",
+   "eng": "3932L/391BM/35kV",
+   "grade": "",
+   "gist": "Throwing back this piece to see in the new carousel format https://t.co/rOPT5RDzKO",
+   "thumb": "https://pbs.twimg.com/media/HROfg0XbUAAnMC1.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085121962976661782",
+   "file": "2026-08-05-rustybrick-2085121962976661782.md",
+   "kind": "candidate",
+   "author": "rustybrick",
+   "date": "2026-08-05",
+   "url": "https://x.com/rustybrick/status/2085121962976661782",
+   "eng": "17L/13BM/5kV",
+   "grade": "",
+   "gist": "ChatGPT Ads Product Updates including multi-product carousel format for product feed campaigns https://t.co/TWMRyCOCy2",
+   "thumb": "https://pbs.twimg.com/media/HO_XXlFXwAAjjVi.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090082635658006913",
+   "file": "2026-08-19-vshltxt-2090082635658006913.md",
+   "kind": "candidate",
+   "author": "vshltxt",
+   "date": "2026-08-19",
+   "url": "https://x.com/vshltxt/status/2090082635658006913",
+   "eng": "23L/0BM/994V",
+   "grade": "",
+   "gist": "the worse thing about this new side-scrolling carousel format on X, is it's still limited to 4 images only.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085345793343377737",
+   "file": "2026-08-06-glenngabe-2085345793343377737.md",
+   "kind": "candidate",
+   "author": "glenngabe",
+   "date": "2026-08-06",
+   "url": "https://x.com/glenngabe/status/2085345793343377737",
+   "eng": "5L/4BM/2kV",
+   "grade": "",
+   "gist": "ChatGPT Ads update -&gt; ChatGPT is testing a multi-product carousel format for product feed campaigns \"We’ve started testing a carousel format for product feed ads that shows mult",
+   "thumb": "https://pbs.twimg.com/media/HPCiqfGWgAAIniR.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2089914009550258517",
+   "file": "2026-08-19-bisondele_-2089914009550258517.md",
+   "kind": "candidate",
+   "author": "bisondele_",
+   "date": "2026-08-19",
+   "url": "https://x.com/bisondele_/status/2089914009550258517",
+   "eng": "12L/0BM/181V",
+   "grade": "",
+   "gist": "It’s not as fun posting photos here anymore with the new carousel format.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098992164692734434",
+   "file": "2026-09-13-ru_b_ia-2098992164692734434.md",
+   "kind": "candidate",
+   "author": "ru_b_ia",
+   "date": "2026-09-13",
+   "url": "https://x.com/ru_b_ia/status/2098992164692734434",
+   "eng": "10L/0BM/401V",
+   "grade": "",
+   "gist": "Posting photos in a carousel format is more fun than I thought😊",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085392121830515010",
+   "file": "2026-08-06-kajiiaura-2085392121830515010.md",
+   "kind": "candidate",
+   "author": "kajiiaura",
+   "date": "2026-08-06",
+   "url": "https://x.com/kajiiaura/status/2085392121830515010",
+   "eng": "4L/1BM/737V",
+   "grade": "",
+   "gist": "bruh the carousel format ruined this https://t.co/RhNKJbSkOJ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2095457745873019348",
+   "file": "2026-09-03-mik0chn-2095457745873019348.md",
+   "kind": "candidate",
+   "author": "mik0chn",
+   "date": "2026-09-03",
+   "url": "https://x.com/mik0chn/status/2095457745873019348",
+   "eng": "3L/0BM/622V",
+   "grade": "",
+   "gist": "Ngl I don't like the new carousel format :/",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2087750664306766111",
+   "file": "2026-08-13-GuiltyBadguy-2087750664306766111.md",
+   "kind": "candidate",
+   "author": "GuiltyBadguy",
+   "date": "2026-08-13",
+   "url": "https://x.com/GuiltyBadguy/status/2087750664306766111",
+   "eng": "3L/0BM/121V",
+   "grade": "",
+   "gist": "That new image carousel format is retarded.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

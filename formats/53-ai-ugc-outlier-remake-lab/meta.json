@@ -1,0 +1,396 @@
+{
+ "id": "F53",
+ "slug": "53-ai-ugc-outlier-remake-lab",
+ "name": "AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid)",
+ "title": "53 · AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid)",
+ "n_examples": 23,
+ "n_curated": 4,
+ "n_candidates": 18,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2107873317369581751",
+   "file": "2026-10-07-jakecastilloooo-2107873317369581751.md",
+   "kind": "curated",
+   "author": "jakecastilloooo",
+   "date": "2026-10-07",
+   "url": "https://x.com/jakecastilloooo/status/2107873317369581751",
+   "eng": "984L/3090BM/290kV",
+   "grade": "VALUE",
+   "gist": "Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test take → batch → 4-platform scheduling → remake winners with real creators, then paid.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107918489587507606",
+   "file": "2026-10-07-0xDepressionn-2107918489587507606.md",
+   "kind": "curated",
+   "author": "0xDepressionn",
+   "date": "2026-10-07",
+   "url": "https://x.com/0xDepressionn/status/2107918489587507606",
+   "eng": "18L/14BM/2kV",
+   "grade": "SOME",
+   "gist": "Summary of Jake Castillo's workflow: AI videos as cheap organic tests, then ad money behind winners.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107905110638542848/img/7xqtFJFBnCtnCkvK.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107565970197782530",
+   "file": "2026-10-06-carlynorthmedia-2107565970197782530.md",
+   "kind": "curated",
+   "author": "carlynorthmedia",
+   "date": "2026-10-06",
+   "url": "https://x.com/carlynorthmedia/status/2107565970197782530",
+   "eng": "0L/0BM/69V",
+   "grade": "SOME",
+   "gist": "Know when to stop iterating a winner: reusing the same hook causes audience + algorithm fatigue.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108113354178932920",
+   "file": "2026-10-08-traqscales-2108113354178932920.md",
+   "kind": "curated",
+   "author": "traqscales",
+   "date": "2026-10-08",
+   "url": "https://x.com/traqscales/status/2108113354178932920",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2092368368968049118",
+   "file": "2026-08-25-ai_cult1-2092368368968049118.md",
+   "kind": "cited",
+   "author": "ai_cult1",
+   "date": "2026-08-25",
+   "url": "https://x.com/ai_cult1/status/2092368368968049118",
+   "eng": "0L/0BM/49V",
+   "grade": "SOME",
+   "gist": "Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092366329928151040/img/lXZBKq1pnLY7K9Cc.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083335011063771210",
+   "file": "2026-07-31-VadimStrizheus-2083335011063771210.md",
+   "kind": "candidate",
+   "author": "VadimStrizheus",
+   "date": "2026-07-31",
+   "url": "https://x.com/VadimStrizheus/status/2083335011063771210",
+   "eng": "216L/145BM/31kV",
+   "grade": "",
+   "gist": "if you’re a founder looking to market your app, this is your sign: Snapchat just fully banned AI content from its Spotlight I’m expecting this trend to be followed in the coming mo",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107878663488188775",
+   "file": "2026-10-07-slash1sol-2107878663488188775.md",
+   "kind": "candidate",
+   "author": "slash1sol",
+   "date": "2026-10-07",
+   "url": "https://x.com/slash1sol/status/2107878663488188775",
+   "eng": "169L/146BM/9kV",
+   "grade": "",
+   "gist": "THE CO-FOUNDER WHO RAN GROWTH AT CAL AI JUST LEAKED THE ENTIRE AI UGC PIPELINE. ONE PERSON, ZERO CREATORS, THOUSANDS OF TEST VIDEOS Cal AI went to 15M downloads and a $40M year bef",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107876820896960512/img/zDOFX8JTzX4yKAuJ.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087128911029129704",
+   "file": "2026-08-11-pounddz-2087128911029129704.md",
+   "kind": "candidate",
+   "author": "pounddz",
+   "date": "2026-08-11",
+   "url": "https://x.com/pounddz/status/2087128911029129704",
+   "eng": "117L/167BM/16kV",
+   "grade": "",
+   "gist": "I’ve been making $1k/day from organic affiliate pretty consistently with AI UGC + TikTok (around $500 per 100k views) Seedance 2.5 + Claude code will help me scale this to $50k mon",
+   "thumb": "https://pbs.twimg.com/media/HPb4rpXXgAAvB4J.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107887039513268301",
+   "file": "2026-10-07-N01ennn-2107887039513268301.md",
+   "kind": "candidate",
+   "author": "N01ennn",
+   "date": "2026-10-07",
+   "url": "https://x.com/N01ennn/status/2107887039513268301",
+   "eng": "109L/133BM/12kV",
+   "grade": "",
+   "gist": "the person who ran UGC for Cal AI on its way to a $50M run rate just laid out how to run an AI UGC army for any app. this is pure f*cking treasure. so I turned the whole thing into",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107887016637587456/img/NkkM5eFoL8--NYa3.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107899206178640158",
+   "file": "2026-10-07-igus_ai-2107899206178640158.md",
+   "kind": "candidate",
+   "author": "igus_ai",
+   "date": "2026-10-07",
+   "url": "https://x.com/igus_ai/status/2107899206178640158",
+   "eng": "163L/68BM/22kV",
+   "grade": "",
+   "gist": "Still can't believe this content is free... The co-founder of Cal AI just dropped the exact AI UGC workflow he wishes they had while scaling the app And it’s not another “generate ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107899155330789376/img/wyqVUmAZykhY94cj.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107913083783987306",
+   "file": "2026-10-07-angeldot_-2107913083783987306.md",
+   "kind": "candidate",
+   "author": "angeldot_",
+   "date": "2026-10-07",
+   "url": "https://x.com/angeldot_/status/2107913083783987306",
+   "eng": "177L/11BM/18kV",
+   "grade": "",
+   "gist": "Cal AI scaled to 15M downloads before being acquired by MyFitnessPal now its co-founder just open-sourced the AI UGC workflow he wishes he had while building it the interesting par",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107913015601278977/img/RzI4_0JHO9Z2Msqu.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090613663686087072",
+   "file": "2026-08-21-VadimStrizheus-2090613663686087072.md",
+   "kind": "candidate",
+   "author": "VadimStrizheus",
+   "date": "2026-08-21",
+   "url": "https://x.com/VadimStrizheus/status/2090613663686087072",
+   "eng": "73L/31BM/3kV",
+   "grade": "",
+   "gist": "as a founder, building your own internal tools is one of the funnest things to do. we’re currently building an entire AI UGC system where we find: 1. Viral content trends 2. Upcomi",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102375114868216054",
+   "file": "2026-09-22-dsqjaffa-2102375114868216054.md",
+   "kind": "candidate",
+   "author": "dsqjaffa",
+   "date": "2026-09-22",
+   "url": "https://x.com/dsqjaffa/status/2102375114868216054",
+   "eng": "39L/36BM/5kV",
+   "grade": "",
+   "gist": "jev + @virlomain's MCP is f*cking INSANE 🤯 give it your competitor's brand and niche → virlo builds a 24/7 content agent that finds winning videos and helps turn them into scripts ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102374988028231681/img/FPOXcYnLJLEYHSaY.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090308329084182818",
+   "file": "2026-08-20-ayushtweetshere-2090308329084182818.md",
+   "kind": "candidate",
+   "author": "ayushtweetshere",
+   "date": "2026-08-20",
+   "url": "https://x.com/ayushtweetshere/status/2090308329084182818",
+   "eng": "32L/22BM/2kV",
+   "grade": "",
+   "gist": "5 weeks ago I started an AI UGC YT channel to promote @VoibeAI Just crossed 1000 views + 11 hours of watch time.. I've published 25 videos so far, each one takes around 15-20 minut",
+   "thumb": "https://pbs.twimg.com/media/HQJEWOMbkAExLEf.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107885447074713949",
+   "file": "2026-10-07-shiri_shh-2107885447074713949.md",
+   "kind": "candidate",
+   "author": "shiri_shh",
+   "date": "2026-10-07",
+   "url": "https://x.com/shiri_shh/status/2107885447074713949",
+   "eng": "17L/27BM/2kV",
+   "grade": "",
+   "gist": "Cal AI was doing $30M+ a year before MyFitnessPal bought it a huge part of how they grew was short form video at insane volume now their co-founder wrote out the full workflow for ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107885383199690752/img/D1OVaroNoQZbdrQY.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086147769723670590",
+   "file": "2026-08-08-johnvirality-2086147769723670590.md",
+   "kind": "candidate",
+   "author": "johnvirality",
+   "date": "2026-08-08",
+   "url": "https://x.com/johnvirality/status/2086147769723670590",
+   "eng": "26L/21BM/2kV",
+   "grade": "",
+   "gist": "claude opus 5 x seedance 2.5 is a seriously CRACKED combo for generating VIRAL AI UGC videos so i'm giving away a full AI production blueprint built around it (all based on the fra",
+   "thumb": "https://pbs.twimg.com/media/HPN8VGoWwAEGrP5.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107886078841729342",
+   "file": "2026-10-07-defileo-2107886078841729342.md",
+   "kind": "candidate",
+   "author": "defileo",
+   "date": "2026-10-07",
+   "url": "https://x.com/defileo/status/2107886078841729342",
+   "eng": "16L/19BM/2kV",
+   "grade": "",
+   "gist": "This is the CRAZIEST f*ckn sonnet 5.5 automation setup... One Claude Code orchestrator runs a full AI UGC pipeline across Apify, Higgsfield and Postiz, 10 steps and 13 prompts from",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107886041894211584/img/WhbqBMnh7tcozI-l.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076423523724140838",
+   "file": "2026-07-12-mightyking-2076423523724140838.md",
+   "kind": "candidate",
+   "author": "mightyking",
+   "date": "2026-07-12",
+   "url": "https://x.com/mightyking/status/2076423523724140838",
+   "eng": "15L/18BM/2kV",
+   "grade": "",
+   "gist": "AI UGC factory skill with Claude + maxfusion MCP It researches meta ads &amp; tiktok Writes the script based on the outliers Generates the shots and edits the ad Claude Skill + Goo",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2076422024088420352/img/bnLRGDqbjZ5ruWYb.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2077379970213834777",
+   "file": "2026-07-15-Jake_Joseph-2077379970213834777.md",
+   "kind": "candidate",
+   "author": "Jake_Joseph",
+   "date": "2026-07-15",
+   "url": "https://x.com/Jake_Joseph/status/2077379970213834777",
+   "eng": "10L/7BM/410V",
+   "grade": "",
+   "gist": "Test run of our AI UGC pipeline. 100% automated end to end: → Research: outlier organic + paid winners → Strategy + script → Character → Edit → Captions No humans in the loop. It’s",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2077379915968925696/img/EglbwuGKCvsPkQEq.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107889938964328546",
+   "file": "2026-10-07-ziwenxu_-2107889938964328546.md",
+   "kind": "candidate",
+   "author": "ziwenxu_",
+   "date": "2026-10-07",
+   "url": "https://x.com/ziwenxu_/status/2107889938964328546",
+   "eng": "10L/4BM/815V",
+   "grade": "",
+   "gist": "Just turned this AI UGC flow into a Grok Bot template you can run directly. - Apify pulls outlier videos - Grok breaks each one down: hook, tension, payoff - Test opening hooks on ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2094873288040497282",
+   "file": "2026-09-01-brainextends-2094873288040497282.md",
+   "kind": "candidate",
+   "author": "brainextends",
+   "date": "2026-09-01",
+   "url": "https://x.com/brainextends/status/2094873288040497282",
+   "eng": "10L/3BM/361V",
+   "grade": "",
+   "gist": "i made $36,863 this month using ai agents heres the 3 step process i use : -> i created an ai agent that scans 24/7 for new trends on tiktok once it sees an outlier going viral it ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094873081588449280/img/pXoM8z4C_PRYJ7LO.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098063962310840344",
+   "file": "2026-09-10-jadon_davis_-2098063962310840344.md",
+   "kind": "candidate",
+   "author": "jadon_davis_",
+   "date": "2026-09-10",
+   "url": "https://x.com/jadon_davis_/status/2098063962310840344",
+   "eng": "6L/3BM/398V",
+   "grade": "",
+   "gist": "How the brands with the best results on SideShift run a first campaign, from someone who has onboarded a lot of them 1. The brief fits on one screen. What the product does, who it'",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085400007822520560",
+   "file": "2026-08-06-YelimLee0526-2085400007822520560.md",
+   "kind": "candidate",
+   "author": "YelimLee0526",
+   "date": "2026-08-06",
+   "url": "https://x.com/YelimLee0526/status/2085400007822520560",
+   "eng": "4L/3BM/397V",
+   "grade": "",
+   "gist": "AI generated 136k view for the first post on a fresh new tiktok account. The playbook: 👉🏻NEVER be on the camera. You’re not influencer material. Use AI UGC 👉🏻NEVER spend hours warm",
+   "thumb": "https://pbs.twimg.com/media/HPDTUi3agAAZ1Z1.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

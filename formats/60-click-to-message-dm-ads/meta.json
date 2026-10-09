@@ -1,0 +1,40 @@
+{
+ "id": "F60",
+ "slug": "60-click-to-message-dm-ads",
+ "name": "Click-to-message ads (Messenger / IG DM / TikTok Instant Messaging) — 'stylist in your DMs'",
+ "title": "60 · Click-to-message ads (Messenger / IG DM / TikTok Instant Messaging) — \"stylist in your DMs\"",
+ "n_examples": 0,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": []
+}

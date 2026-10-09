@@ -1,0 +1,97 @@
+{
+ "id": "F95",
+ "slug": "95-visual-diagnosis-roll-call",
+ "name": "Visual-diagnosis roll-call ('This is X. This is X. That's X.' symptom montage → hidden cause)",
+ "title": "95 · Visual-diagnosis roll-call (\"This is X. This is X. That's X.\" symptom montage → hidden cause)",
+ "n_examples": 4,
+ "n_curated": 1,
+ "n_candidates": 3,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2065407167515984348",
+   "file": "2026-06-12-lorenzo_pravata-2065407167515984348.md",
+   "kind": "curated",
+   "author": "lorenzo_pravata",
+   "date": "2026-06-12",
+   "url": "https://x.com/lorenzo_pravata/status/2065407167515984348",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Resilia 6,000 ads, parasite cause-relocation angle, \"That's parasites\" roll-call, carvacrol gate; 10+ subpages to avoid bans.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2079759701244338486",
+   "file": "2026-07-22-Network_UCG-2079759701244338486.md",
+   "kind": "candidate",
+   "author": "Network_UCG",
+   "date": "2026-07-22",
+   "url": "https://x.com/Network_UCG/status/2079759701244338486",
+   "eng": "70L/9BM/5kV",
+   "grade": "",
+   "gist": "☀️ Summer UGC Creator Roll Call! ☀️ Want more brands to discover your portfolio? Drop your link in the comments, follow other creators, and RT to help everyone get seen! 💻✨ Let’s b",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2087962642568860039",
+   "file": "2026-08-13-JenUGCGenX-2087962642568860039.md",
+   "kind": "candidate",
+   "author": "JenUGCGenX",
+   "date": "2026-08-13",
+   "url": "https://x.com/JenUGCGenX/status/2087962642568860039",
+   "eng": "39L/1BM/1kV",
+   "grade": "",
+   "gist": "Am I the only one who feels like Gen X creators are still a small part of the UGC community? I see so many younger creators everywhere, but not as many Gen X creators. Do you guys ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2080621569739518408",
+   "file": "2026-07-24-rollcall-2080621569739518408.md",
+   "kind": "candidate",
+   "author": "rollcall",
+   "date": "2026-07-24",
+   "url": "https://x.com/rollcall/status/2080621569739518408",
+   "eng": "2L/0BM/2kV",
+   "grade": "",
+   "gist": "The Democratic Congressional Campaign Committee is marking 100 days until the midterm elections with a new digital ad shared first with CQ Roll Call. https://t.co/sTrWZaYJfN",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

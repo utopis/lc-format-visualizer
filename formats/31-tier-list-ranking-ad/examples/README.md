@@ -1,0 +1,23 @@
+# Examples · 31 · Tier-list / ranking ad
+
+Every X post we hold for this format: **11** (7 curated, 1 cited in the playbook, 3 auto-matched candidates).
+
+Curated = hand-graded in the X discovery feed. Candidates come from a targeted X search for this format (last ~90 days, relevancy-sorted, engagement-filtered) and are NOT hand-graded yet: verify, then promote or delete.
+
+Search used: `"tier list" (ad OR ads OR ugc OR tiktok OR format)`
+
+| # | Date | Author | Status | Engagement | Media | Gist | File |
+|---|---|---|---|---|---|---|---|
+| 1 | 2026-07-27 | [@ads4apps](https://x.com/ads4apps/status/2081785032679518490) | curated VALUE | 412L/930BM/27kV | text | 39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breaking news, Reddit, Google search, text on skin, tier list, zero stars… | [2026-07-27-ads4apps-2081785032679518490](2026-07-27-ads4apps-2081785032679518490.md) |
+| 2 | 2026-09-29 | [@FedotOff90](https://x.com/FedotOff90/status/2104949773539442831) | curated VALUE | 110L/208BM/9kV | photo | 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars. | [2026-09-29-FedotOff90-2104949773539442831](2026-09-29-FedotOff90-2104949773539442831.md) |
+| 3 | 2026-08-12 | [@MethodByVid](https://x.com/MethodByVid/status/2087570057262256130) | curated SOME | 37L/67BM/4kV | text | 12 no-edit video formats: text story over gameplay, would-you-rather, guess-the-X quizzes, rankings, restoration, recipes from above. | [2026-08-12-MethodByVid-2087570057262256130](2026-08-12-MethodByVid-2087570057262256130.md) |
+| 4 | 2026-09-16 | [@masterhooks_](https://x.com/masterhooks_/status/2100071930074390796) | curated SOME | 12L/13BM/1kV | text | 10 organic formats from a creator agency: storytelling, talking head, reaction, ranking, tier list, object lesson, play/pause reaction, AMA, comparison, before/after. | [2026-09-16-masterhooks_-2100071930074390796](2026-09-16-masterhooks_-2100071930074390796.md) |
+| 5 | 2026-08-21 | [@raph_guilhem](https://x.com/raph_guilhem/status/2090725512976970065) | curated SOME | 9L/6BM/377V | video + transcript | 35 static/native formats tree: Trustpilot, text msg, email screenshot, Reddit, text on skin, crossed-out, tier list, Venn, breaking news. | [2026-08-21-raph_guilhem-2090725512976970065](2026-08-21-raph_guilhem-2090725512976970065.md) |
+| 6 | 2026-07-31 | [@mattdenegri](https://x.com/mattdenegri/status/2083206044423991637) | curated VALUE | 3L/5BM/338V | photo | Tier-list ad = top spender across almost every account for a month (ecom, supplements, software): feels organic, borrows authority. | [2026-07-31-mattdenegri-2083206044423991637](2026-07-31-mattdenegri-2083206044423991637.md) |
+| 7 | 2026-08-05 | [@Yannlce](https://x.com/Yannlce/status/2085017654364958737) | curated SOME | 3L/2BM/1kV | text | Same 40-format list (adds claymation, AI podcast). | [2026-08-05-Yannlce-2085017654364958737](2026-08-05-Yannlce-2085017654364958737.md) |
+| 8 | 2026-10-08 | [@nicktheriot_](https://x.com/nicktheriot_/status/2108173638033871013) | cited VALUE | 219L/348BM/12kV | photo | 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL. | [2026-10-08-nicktheriot_-2108173638033871013](2026-10-08-nicktheriot_-2108173638033871013.md) |
+| 9 | 2026-09-11 | [@blvckledge](https://x.com/blvckledge/status/2098396189561704474) | candidate | 16L/35BM/4kV | photo | a creative format that’s been printing for some of our clients on demand gen youtube tier list ads it’s been a staple of YouTube content for years, and we’re seeing it works really | [2026-09-11-blvckledge-2098396189561704474](2026-09-11-blvckledge-2098396189561704474.md) |
+| 10 | 2026-09-02 | [@adswithcami](https://x.com/adswithcami/status/2095208948764668068) | candidate | 23L/8BM/2kV | photo | I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best... I'll send you the tier lis | [2026-09-02-adswithcami-2095208948764668068](2026-09-02-adswithcami-2095208948764668068.md) |
+| 11 | 2026-08-11 | [@ads4apps](https://x.com/ads4apps/status/2087228807417573577) | candidate | 6L/13BM/2kV | text | Ad/organic format cooking rn: Tier list | [2026-08-11-ads4apps-2087228807417573577](2026-08-11-ads4apps-2087228807417573577.md) |
+
+Add more: drop a new `<date>-<author>-<id>.md` here (copy any file as a template) and add a row.

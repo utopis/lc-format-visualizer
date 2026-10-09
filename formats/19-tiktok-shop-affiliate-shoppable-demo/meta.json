@@ -1,0 +1,372 @@
+{
+ "id": "F19",
+ "slug": "19-tiktok-shop-affiliate-shoppable-demo",
+ "name": "TikTok Shop affiliate shoppable demo (real creators, sample seeding)",
+ "title": "19 · TikTok Shop affiliate shoppable demo",
+ "n_examples": 21,
+ "n_curated": 7,
+ "n_candidates": 14,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2106072031687315486",
+   "file": "2026-10-02-maverickecom-2106072031687315486.md",
+   "kind": "curated",
+   "author": "maverickecom",
+   "date": "2026-10-02",
+   "url": "https://x.com/maverickecom/status/2106072031687315486",
+   "eng": "567L/934BM/44kV",
+   "grade": "SOME",
+   "gist": "$34 product: TikTok Shop affiliates (trust) + AI affiliate pages on IG/FB to Amazon; one hook per video from reviews.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106071905966927872/img/xkSfo4EWiMFRnDew.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107470108515782720",
+   "file": "2026-10-06-maverickecom-2107470108515782720.md",
+   "kind": "curated",
+   "author": "maverickecom",
+   "date": "2026-10-06",
+   "url": "https://x.com/maverickecom/status/2107470108515782720",
+   "eng": "190L/226BM/11kV",
+   "grade": "HYPE",
+   "gist": "Repurpose winning TTS content across hundreds of creator-style accounts (bulk-account; not compliant).",
+   "thumb": "https://pbs.twimg.com/media/HT885MyXIAAl2Op.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080321911918125500",
+   "file": "2026-07-23-NotZainAgain-2080321911918125500.md",
+   "kind": "curated",
+   "author": "NotZainAgain",
+   "date": "2026-07-23",
+   "url": "https://x.com/NotZainAgain/status/2080321911918125500",
+   "eng": "73L/82BM/13kV",
+   "grade": "SOME",
+   "gist": "2026 TikTok Shop playbook incl. 1,000 free samples/mo.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103161679421071603",
+   "file": "2026-09-24-maverickecom-2103161679421071603.md",
+   "kind": "curated",
+   "author": "maverickecom",
+   "date": "2026-09-24",
+   "url": "https://x.com/maverickecom/status/2103161679421071603",
+   "eng": "57L/64BM/6kV",
+   "grade": "SOME",
+   "gist": "Affiliate made $724k GMV/30d; 3 of top 10 TTS affiliates are AI pages (claim).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103161614404820993/img/W8RM4YjqMSQZQ3xB.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2079593540380684296",
+   "file": "2026-07-21-maverickecom-2079593540380684296.md",
+   "kind": "curated",
+   "author": "maverickecom",
+   "date": "2026-07-21",
+   "url": "https://x.com/maverickecom/status/2079593540380684296",
+   "eng": "56L/61BM/10kV",
+   "grade": "HYPE",
+   "gist": "550 AI videos/day via AI affiliate army (bulk-account; not compliant).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2079593498731294720/img/OI0KdTltDuppV9Ai.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2079331861491290525",
+   "file": "2026-07-20-TJ_Bongiorno-2079331861491290525.md",
+   "kind": "curated",
+   "author": "TJ_Bongiorno",
+   "date": "2026-07-20",
+   "url": "https://x.com/TJ_Bongiorno/status/2079331861491290525",
+   "eng": "89L/37BM/9kV",
+   "grade": "VALUE",
+   "gist": "Guest post: seeding affiliates + creative flywheel via TikTok Shop + Trybe.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2079765230888899036",
+   "file": "2026-07-22-NotZainAgain-2079765230888899036.md",
+   "kind": "curated",
+   "author": "NotZainAgain",
+   "date": "2026-07-22",
+   "url": "https://x.com/NotZainAgain/status/2079765230888899036",
+   "eng": "24L/25BM/3kV",
+   "grade": "VALUE",
+   "gist": "3 TikTok Shop contest types: view-based (gameable), GMV-based (free-rider risk), video-count ($100-250 for 10 videos, min-quality rules, VA review, net-30).",
+   "thumb": "https://pbs.twimg.com/media/HNzPZNKXkAA_tSi.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103191756153962752",
+   "file": "2026-09-24-maverickecom-2103191756153962752.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-09-24",
+   "url": "https://x.com/maverickecom/status/2103191756153962752",
+   "eng": "118L/170BM/17kV",
+   "grade": "",
+   "gist": "Hormozi loves affiliate marketing. In ecom the proper method for affiliate marketing is scaling an affiliate army. Here’s what that actually means — and how AI creators just became",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103191632996646913/img/t-pGr_u3o_7WTuYV.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104950173969359336",
+   "file": "2026-09-29-maverickecom-2104950173969359336.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-09-29",
+   "url": "https://x.com/maverickecom/status/2104950173969359336",
+   "eng": "21L/14BM/2kV",
+   "grade": "",
+   "gist": "Creator campaigns are honestly the #1 BEST way for ecom brands to scale revenue in 2026 by far. Even Hormozi discusses how scaling affiliates drives direct revenue plus provides a ",
+   "thumb": "https://pbs.twimg.com/media/HTZJBlaWgAAX48L.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079582382970065402",
+   "file": "2026-07-21-fluxtts-2079582382970065402.md",
+   "kind": "candidate",
+   "author": "fluxtts",
+   "date": "2026-07-21",
+   "url": "https://x.com/fluxtts/status/2079582382970065402",
+   "eng": "15L/15BM/3kV",
+   "grade": "",
+   "gist": "Last month I generated £105,083.94 on TikTok Shop and became a top 80 UK brand on the platform. Here’s exactly how I did it: There are only 2 systems you need to nail. 1. The affil",
+   "thumb": "https://pbs.twimg.com/media/HNwpJ8ZXYAAJCad.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093711217491657027",
+   "file": "2026-08-29-fluxtts-2093711217491657027.md",
+   "kind": "candidate",
+   "author": "fluxtts",
+   "date": "2026-08-29",
+   "url": "https://x.com/fluxtts/status/2093711217491657027",
+   "eng": "19L/13BM/973V",
+   "grade": "",
+   "gist": "The TL;DR playbook for TikTok Shop in 2026: 1) Find one hero product that’s easy to sell in a 20–30 sec video 2) Build an affiliate army 3) Send out samples at scale to generate as",
+   "thumb": "https://pbs.twimg.com/media/HQ5bQMIWQAAxDXh.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2075652551874417117",
+   "file": "2026-07-10-jordantwestecom-2075652551874417117.md",
+   "kind": "candidate",
+   "author": "jordantwestecom",
+   "date": "2026-07-10",
+   "url": "https://x.com/jordantwestecom/status/2075652551874417117",
+   "eng": "16L/14BM/944V",
+   "grade": "",
+   "gist": "If I was starting a TikTok Shop page today, this is what I would do👇 Pick the right hero products I would not launch with the entire catalog. I would choose 3 to 5 products that ar",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078152429653389372",
+   "file": "2026-07-17-jordantwestecom-2078152429653389372.md",
+   "kind": "candidate",
+   "author": "jordantwestecom",
+   "date": "2026-07-17",
+   "url": "https://x.com/jordantwestecom/status/2078152429653389372",
+   "eng": "16L/12BM/1kV",
+   "grade": "",
+   "gist": "You do not have to be a creator to build a career in TikTok Shop 👇 Creators are obviously a MASSIVE part of the ecosystem But behind every brand doing real volume on TikTok Shop...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077033744758714597",
+   "file": "2026-07-14-maverickecom-2077033744758714597.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-07-14",
+   "url": "https://x.com/maverickecom/status/2077033744758714597",
+   "eng": "14L/11BM/2kV",
+   "grade": "",
+   "gist": "Claude Code + Arcads + my AI Creator Club = AI Content Factory We built a system that runs a team of viral AI and human affiliates 24/7, all driving sales to your TikTok Shop and A",
+   "thumb": "https://pbs.twimg.com/media/HNMbLprWAAAw9VF.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103878538851950958",
+   "file": "2026-09-26-maverickecom-2103878538851950958.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-09-26",
+   "url": "https://x.com/maverickecom/status/2103878538851950958",
+   "eng": "11L/12BM/2kV",
+   "grade": "",
+   "gist": "GPT Astra + Fastmoss + Manus + Omni Flow = AI Content Factory We built a fully automated system that repurposes, localizes, and launches winning TikTok Shop content across hundreds",
+   "thumb": "https://pbs.twimg.com/media/HTJ6X_gXkAA63WJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107228383427915832",
+   "file": "2026-10-05-maverickecom-2107228383427915832.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-10-05",
+   "url": "https://x.com/maverickecom/status/2107228383427915832",
+   "eng": "16L/8BM/2kV",
+   "grade": "",
+   "gist": "‼️ HIRING: 25 TikTok Shop Affiliate Creators for 8 figure brand We run the TikTok Shop affiliate programs behind a very big supplement brand that is hiring more creators. Free prod",
+   "thumb": "https://pbs.twimg.com/media/HT5hC9EX0AAnF7i.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078105645757178124",
+   "file": "2026-07-17-maverickecom-2078105645757178124.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-07-17",
+   "url": "https://x.com/maverickecom/status/2078105645757178124",
+   "eng": "12L/7BM/2kV",
+   "grade": "",
+   "gist": "4 years and over $1M GMV into TikTok Shop, here's what I've been surprised to learn. 1. Products must be new, in season, or niche. Videos must be interesting or relevant to go vira",
+   "thumb": "https://pbs.twimg.com/media/HNbqElQXwAAK9cx.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091619772081352801",
+   "file": "2026-08-23-maverickecom-2091619772081352801.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-08-23",
+   "url": "https://x.com/maverickecom/status/2091619772081352801",
+   "eng": "9L/8BM/2kV",
+   "grade": "",
+   "gist": "I’ve scaled many 8 figure brands from 0 to over $100k/monthly on tiktok shop And I did it without what most gurus recommend: no wasting samples no losing time no paying for unneces",
+   "thumb": "https://pbs.twimg.com/media/HQbtGRiWwAA35gz.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108225591942017459",
+   "file": "2026-10-08-maverickecom-2108225591942017459.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-10-08",
+   "url": "https://x.com/maverickecom/status/2108225591942017459",
+   "eng": "7L/6BM/1kV",
+   "grade": "",
+   "gist": "Arcads + ChatGPT = AI Content Factory No actors. No photo shoots. No ghost creators. No wasted samples. Just hundreds of shoppable TikTok videos going live every single day — autom",
+   "thumb": "https://pbs.twimg.com/media/HUHsADQWcAAXlGP.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085379690320085286",
+   "file": "2026-08-06-maverickecom-2085379690320085286.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-08-06",
+   "url": "https://x.com/maverickecom/status/2085379690320085286",
+   "eng": "4L/5BM/2kV",
+   "grade": "",
+   "gist": "I took many brands from 0 to well over $100k/monthly on tiktok shop And I did it without what most gurus recommend: no wasting samples no lost time no paying for unnecessary retain",
+   "thumb": "https://pbs.twimg.com/media/HPDBxqVXoAAERZd.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079624489177108907",
+   "file": "2026-07-21-jordantwestecom-2079624489177108907.md",
+   "kind": "candidate",
+   "author": "jordantwestecom",
+   "date": "2026-07-21",
+   "url": "https://x.com/jordantwestecom/status/2079624489177108907",
+   "eng": "9L/2BM/953V",
+   "grade": "",
+   "gist": "Our agency structure for TikTok Shop is (hopefully helpful) Strategist (and associate strat) Owns the overall plan, weekly priorities, product focus, offer, creator strategy, and c",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "id": "F27",
+ "slug": "27-founder-walk-and-talk-story-ad",
+ "name": "Founder walk-and-talk / founder-story ad (incl. host interview)",
+ "title": "27 · Founder walk-and-talk / founder-story ad (incl. host interview)",
+ "n_examples": 27,
+ "n_curated": 9,
+ "n_candidates": 16,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2084298521251860579",
+   "file": "2026-08-03-williamkast_-2084298521251860579.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-03",
+   "url": "https://x.com/williamkast_/status/2084298521251860579",
+   "eng": "227L/549BM/17kV",
+   "grade": "VALUE",
+   "gist": "5 formats that win in every account, each with a live Atria ad link: founder, yapper, AI educator, B-roll text overlay, long VSL.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "curated",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078179704050246125",
+   "file": "2026-07-17-williamkast_-2078179704050246125.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-07-17",
+   "url": "https://x.com/williamkast_/status/2078179704050246125",
+   "eng": "28L/34BM/3kV",
+   "grade": "VALUE",
+   "gist": "5 formats to test: founder talking head, voiceless B-roll text overlay, yapper (uncut), AI educational, camouflage static + long copy.",
+   "thumb": "https://pbs.twimg.com/media/HNctbXjWYAA91qu.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091887902137454922",
+   "file": "2026-08-24-joshsuggss-2091887902137454922.md",
+   "kind": "curated",
+   "author": "joshsuggss",
+   "date": "2026-08-24",
+   "url": "https://x.com/joshsuggss/status/2091887902137454922",
+   "eng": "38L/11BM/7kV",
+   "grade": "SOME",
+   "gist": "105 founder interviews in 16 weeks; \"founder ads\" = walk-and-talk about your brand (agency pitch).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099438014456045990",
+   "file": "2026-09-14-alexpagepilot-2099438014456045990.md",
+   "kind": "curated",
+   "author": "alexpagepilot",
+   "date": "2026-09-14",
+   "url": "https://x.com/alexpagepilot/status/2099438014456045990",
+   "eng": "11L/19BM/1kV",
+   "grade": "SOME",
+   "gist": "Top 5 dropship formats: UGC problem/solution, \"TikTok made me buy it\", us vs them split, founder talking head (retargets 2-3x), text-overlay slideshow.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083616523134841035",
+   "file": "2026-08-01-williamkast_-2083616523134841035.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-01",
+   "url": "https://x.com/williamkast_/status/2083616523134841035",
+   "eng": "12L/14BM/967V",
+   "grade": "VALUE",
+   "gist": "15 formats to repackage winners into (scaled to $30k/day on 3-4 angles): founder, yapper, AI animation, voiceless overlay, carousel, reply ad, text wall, review static, camouflage.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092987127051010235",
+   "file": "2026-08-27-joshsuggss-2092987127051010235.md",
+   "kind": "curated",
+   "author": "joshsuggss",
+   "date": "2026-08-27",
+   "url": "https://x.com/joshsuggss/status/2092987127051010235",
+   "eng": "14L/2BM/4kV",
+   "grade": "SOME",
+   "gist": "Founder interview ads print because they look like an organic interview; built for ads not organic.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2075890802140873202",
+   "file": "2026-07-11-KanishDigital-2075890802140873202.md",
+   "kind": "curated",
+   "author": "KanishDigital",
+   "date": "2026-07-11",
+   "url": "https://x.com/KanishDigital/status/2075890802140873202",
+   "eng": "1L/3BM/612V",
+   "grade": "SOME",
+   "gist": "Scripted founder ads are boring; unscripted ones about ONE thing the product does well have taken over.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101018997508669891",
+   "file": "2026-09-18-luisfelipebfr2-2101018997508669891.md",
+   "kind": "curated",
+   "author": "luisfelipebfr2",
+   "date": "2026-09-18",
+   "url": "https://x.com/luisfelipebfr2/status/2101018997508669891",
+   "eng": "0L/0BM/166V",
+   "grade": "VALUE",
+   "gist": "Eskiin founder mini-VSL breakdown: vision-board open loop → problem → failed solutions → mechanism → product → mission → retire mom.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101017775611203584/img/bl3oyW2g8HbTrBA7.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2083288607062732816",
+   "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+   "kind": "cited",
+   "author": "raph_guilhem",
+   "date": "2026-07-31",
+   "url": "https://x.com/raph_guilhem/status/2083288607062732816",
+   "eng": "55L/105BM/7kV",
+   "grade": "VALUE",
+   "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077588285401223468",
+   "file": "2026-07-16-ganeshsonawane-2077588285401223468.md",
+   "kind": "candidate",
+   "author": "ganeshsonawane",
+   "date": "2026-07-16",
+   "url": "https://x.com/ganeshsonawane/status/2077588285401223468",
+   "eng": "169L/8BM/13kV",
+   "grade": "",
+   "gist": "my magnesium is better than your magnesium : most convincing founder ads",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101201716658012212",
+   "file": "2026-09-19-adel_katergi-2101201716658012212.md",
+   "kind": "candidate",
+   "author": "adel_katergi",
+   "date": "2026-09-19",
+   "url": "https://x.com/adel_katergi/status/2101201716658012212",
+   "eng": "101L/14BM/5kV",
+   "grade": "",
+   "gist": "looking for a video editor who specializes in paid ads specifically founder ads (just talking to the camera) dm me your best work",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2106092593511837880",
+   "file": "2026-10-02-strikerecom-2106092593511837880.md",
+   "kind": "candidate",
+   "author": "strikerecom",
+   "date": "2026-10-02",
+   "url": "https://x.com/strikerecom/status/2106092593511837880",
+   "eng": "25L/36BM/2kV",
+   "grade": "",
+   "gist": "the amount of directions u can take a native is STUPIDDD if a video concept already works just turn that shit into a native founder ads have been crushing for us lately and this is",
+   "thumb": "https://pbs.twimg.com/media/HTpUVqZacAA1ykj.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097690515491717211",
+   "file": "2026-09-09-sourfraser-2097690515491717211.md",
+   "kind": "candidate",
+   "author": "sourfraser",
+   "date": "2026-09-09",
+   "url": "https://x.com/sourfraser/status/2097690515491717211",
+   "eng": "30L/30BM/3kV",
+   "grade": "",
+   "gist": "This is one of the most valuable resources I’ve ever shared on founder ads. There’s a Black Stuff ad in there where you can tell the founder’s reading a script but we still ran it ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101314385721331941",
+   "file": "2026-09-19-sourfraser-2101314385721331941.md",
+   "kind": "candidate",
+   "author": "sourfraser",
+   "date": "2026-09-19",
+   "url": "https://x.com/sourfraser/status/2101314385721331941",
+   "eng": "33L/23BM/2kV",
+   "grade": "",
+   "gist": "If you're launching founder ads or UGC right now, they should be partnership ads. Meta REALLY wants to push the feature, so they're giving these ads more airtime. So take advantage",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092617084798669087",
+   "file": "2026-08-26-sourfraser-2092617084798669087.md",
+   "kind": "candidate",
+   "author": "sourfraser",
+   "date": "2026-08-26",
+   "url": "https://x.com/sourfraser/status/2092617084798669087",
+   "eng": "30L/18BM/2kV",
+   "grade": "",
+   "gist": "I haven't been in a SINGLE big brand account that's running 100% AI ads successfully. The guy promising the best prompts for ‘high converting AI UGC’ is not taking into account you",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098433621077983648",
+   "file": "2026-09-11-ecom_cork-2098433621077983648.md",
+   "kind": "candidate",
+   "author": "ecom_cork",
+   "date": "2026-09-11",
+   "url": "https://x.com/ecom_cork/status/2098433621077983648",
+   "eng": "33L/6BM/6kV",
+   "grade": "",
+   "gist": "Few million more founder ads https://t.co/IKeYhoxbMc",
+   "thumb": "https://pbs.twimg.com/media/HR8iQXpaUAAOrWh.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092988799332634696",
+   "file": "2026-08-27-TJ_Bongiorno-2092988799332634696.md",
+   "kind": "candidate",
+   "author": "TJ_Bongiorno",
+   "date": "2026-08-27",
+   "url": "https://x.com/TJ_Bongiorno/status/2092988799332634696",
+   "eng": "20L/7BM/3kV",
+   "grade": "",
+   "gist": "My best performing founder ad ever was a walk and talk with Josh https://t.co/zO6MKIFFiy",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099017482854117826",
+   "file": "2026-09-13-degensing-2099017482854117826.md",
+   "kind": "candidate",
+   "author": "degensing",
+   "date": "2026-09-13",
+   "url": "https://x.com/degensing/status/2099017482854117826",
+   "eng": "28L/0BM/429V",
+   "grade": "",
+   "gist": "How Personal Should a Founder Brand Get? There’s a bad piece of advice floating around LinkedIn: “Be authentic. Share everything.” No. You can build a powerful founder brand withou",
+   "thumb": "https://pbs.twimg.com/media/HRRxc6Ia4AA_Ggn.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2081065958127649221",
+   "file": "2026-07-25-reemaabajaj-2081065958127649221.md",
+   "kind": "candidate",
+   "author": "reemaabajaj",
+   "date": "2026-07-25",
+   "url": "https://x.com/reemaabajaj/status/2081065958127649221",
+   "eng": "20L/2BM/3kV",
+   "grade": "",
+   "gist": "Geniuenly like all the founder ads by @myfrido . So organic yet explanatory! ♥️",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107453564318822429",
+   "file": "2026-10-06-generatedbyann-2107453564318822429.md",
+   "kind": "candidate",
+   "author": "generatedbyann",
+   "date": "2026-10-06",
+   "url": "https://x.com/generatedbyann/status/2107453564318822429",
+   "eng": "16L/3BM/485V",
+   "grade": "",
+   "gist": "I'm tired of brands treating every trending format like a creative strategy. “Everyone is doing founder ads!” Okay. Does a founder story make sense for YOUR customer? “Everyone is ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2088058585485910436",
+   "file": "2026-08-14-seunolabiz-2088058585485910436.md",
+   "kind": "candidate",
+   "author": "seunolabiz",
+   "date": "2026-08-14",
+   "url": "https://x.com/seunolabiz/status/2088058585485910436",
+   "eng": "7L/2BM/619V",
+   "grade": "",
+   "gist": "Your Founder Is Your Startup's Most Underrated Marketing Asset There's something interesting happening across the startup world. People are becoming more interested in the people b",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092128426366804035",
+   "file": "2026-08-25-LordofAds-2092128426366804035.md",
+   "kind": "candidate",
+   "author": "LordofAds",
+   "date": "2026-08-25",
+   "url": "https://x.com/LordofAds/status/2092128426366804035",
+   "eng": "7L/1BM/2kV",
+   "grade": "",
+   "gist": "Stop being a bitch and go record some Founder ads.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097566926633680945",
+   "file": "2026-09-09-degensing-2097566926633680945.md",
+   "kind": "candidate",
+   "author": "degensing",
+   "date": "2026-09-09",
+   "url": "https://x.com/degensing/status/2097566926633680945",
+   "eng": "6L/1BM/289V",
+   "grade": "",
+   "gist": "You don't need to become more interesting to build a personal brand. You need to start paying attention to what has already happened to you. The customer conversation that changed ",
+   "thumb": "https://pbs.twimg.com/media/HRRwgN-a8AAjxZI.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2095419266581311830",
+   "file": "2026-09-03-marc__mrr-2095419266581311830.md",
+   "kind": "candidate",
+   "author": "marc__mrr",
+   "date": "2026-09-03",
+   "url": "https://x.com/marc__mrr/status/2095419266581311830",
+   "eng": "4L/1BM/235V",
+   "grade": "",
+   "gist": "WHY are founder ads so underrated in the app space?🤔 Ecom counts on them as long as I now and it’s always one of top performing formats. For me founder ads worked so fucking good, ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107493586774233114",
+   "file": "2026-10-06-mightyking-2107493586774233114.md",
+   "kind": "candidate",
+   "author": "mightyking",
+   "date": "2026-10-06",
+   "url": "https://x.com/mightyking/status/2107493586774233114",
+   "eng": "3L/0BM/1kV",
+   "grade": "",
+   "gist": "🔥 This founder ad shows the founder for six seconds. A mouth tape brand has run it for two hundred and fifty-one days. He opens with: \"Mouth taping sounds dangerous until you actua",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107466269519740928/img/Lfwt6sT1zlRw8GcA.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

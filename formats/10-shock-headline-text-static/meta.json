@@ -1,0 +1,72 @@
+{
+ "id": "F10",
+ "slug": "10-shock-headline-text-static",
+ "name": "Shock-headline typographic static (story headline + product block)",
+ "title": "10 · Shock-headline typographic static",
+ "n_examples": 2,
+ "n_curated": 1,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2105745816828940336",
+   "file": "2026-10-01-tryatria_AI-2105745816828940336.md",
+   "kind": "curated",
+   "author": "tryatria_AI",
+   "date": "2026-10-01",
+   "url": "https://x.com/tryatria_AI/status/2105745816828940336",
+   "eng": "73L/98BM/4kV",
+   "grade": "VALUE",
+   "gist": "Static hook 'My sister slept with my husband' vs generic benefit lines.",
+   "thumb": "https://pbs.twimg.com/media/HThqHSmagAAUywi.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103439375787003983",
+   "file": "2026-09-25-adamtaylorl-2103439375787003983.md",
+   "kind": "candidate",
+   "author": "adamtaylorl",
+   "date": "2026-09-25",
+   "url": "https://x.com/adamtaylorl/status/2103439375787003983",
+   "eng": "17L/9BM/3kV",
+   "grade": "",
+   "gist": "Fully agree. Most brands have a winning ad they haven't made yet and the footage is already sitting on a hard drive. But there's a reason this works that most people miss. Every wi",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "id": "F78",
+ "slug": "78-comedy-sketch-dr-pitch",
+ "name": "Comedy sketch with a full direct-response pitch hidden inside the joke",
+ "title": "78 · Comedy sketch with a full direct-response pitch hidden inside the joke",
+ "n_examples": 5,
+ "n_curated": 1,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2094662259746480410",
+   "file": "2026-09-01-briannjho-2094662259746480410.md",
+   "kind": "curated",
+   "author": "briannjho",
+   "date": "2026-09-01",
+   "url": "https://x.com/briannjho/status/2094662259746480410",
+   "eng": "138L/338BM/10kV",
+   "grade": "SOME",
+   "gist": "Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear \"this is what happens\".",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2091907704734257203",
+   "file": "2026-08-24-imranullah-2091907704734257203.md",
+   "kind": "candidate",
+   "author": "imranullah",
+   "date": "2026-08-24",
+   "url": "https://x.com/imranullah/status/2091907704734257203",
+   "eng": "5L/1BM/12kV",
+   "grade": "",
+   "gist": "The sad part is that this brand thought this was going to be a funny ad. I have pulled the calaway woods from my bag. #calawaygolf #goodgood https://t.co/aMWwQUUirk",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104205130413273395",
+   "file": "2026-09-27-Teavetua1971-2104205130413273395.md",
+   "kind": "candidate",
+   "author": "Teavetua1971",
+   "date": "2026-09-27",
+   "url": "https://x.com/Teavetua1971/status/2104205130413273395",
+   "eng": "7L/0BM/10kV",
+   "grade": "",
+   "gist": "QT With Your Funny Ad (Inspired by an old ad for a famous brand 😁😁) #digitalart #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ https://t.co/WstSXVN5df",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104205109341167617/img/I2I3uCVED4fMDycS.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080780729852526953",
+   "file": "2026-07-24-nedfulmer-2080780729852526953.md",
+   "kind": "candidate",
+   "author": "nedfulmer",
+   "date": "2026-07-24",
+   "url": "https://x.com/nedfulmer/status/2080780729852526953",
+   "eng": "3L/0BM/6kV",
+   "grade": "",
+   "gist": "“Is influencer marketing dead?\" While hiking through a medieval castle (lol, I know), I recently had a conversation with a founder who had shifted nearly all of his spend to UGC. W",
+   "thumb": "https://pbs.twimg.com/media/HOBrAtkXsAAF8W9.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107749101823574297",
+   "file": "2026-10-07-Daniloecom-2107749101823574297.md",
+   "kind": "candidate",
+   "author": "Daniloecom",
+   "date": "2026-10-07",
+   "url": "https://x.com/Daniloecom/status/2107749101823574297",
+   "eng": "4L/1BM/117V",
+   "grade": "",
+   "gist": "What if an anti-snoring ad felt more like a ridiculous comedy sketch than an ad? So I made one. Claymation characters, absurd escalation, deadpan VO, and a fake brand called QuietS",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107748983938404352/img/_nYHFL7C6lbd91kP.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

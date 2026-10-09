@@ -1,0 +1,106 @@
+{
+ "id": "F25",
+ "slug": "25-sweepstakes-celebrity-giveaway",
+ "name": "Sweepstakes / celebrity giveaway campaign ad",
+ "title": "25 · Sweepstakes campaign",
+ "n_examples": 4,
+ "n_curated": 1,
+ "n_candidates": 3,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "in progress"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2098515153654562908",
+   "file": "2026-09-11-couuor-2098515153654562908.md",
+   "kind": "curated",
+   "author": "couuor",
+   "date": "2026-09-11",
+   "url": "https://x.com/couuor/status/2098515153654562908",
+   "eng": "167L/180BM/25kV",
+   "grade": "VALUE",
+   "gist": "Ridge sweepstakes w/ Tony Hawk, $500k prizes: ~50% rev growth YoY at better MER; budget breakdown.",
+   "thumb": "https://pbs.twimg.com/media/HR9rHthbgAAytfq.png",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080703453853282629",
+   "file": "2026-07-24-Seanfrank-2080703453853282629.md",
+   "kind": "candidate",
+   "author": "Seanfrank",
+   "date": "2026-07-24",
+   "url": "https://x.com/Seanfrank/status/2080703453853282629",
+   "eng": "100L/9BM/9kV",
+   "grade": "",
+   "gist": "Me and Tony Hawk want to give you a Lamborghini: Every year, ridge does a sweepstakes. You have watched them evolve from tiny little campaigns, to gold plated cyber trucks, to the ",
+   "thumb": "https://pbs.twimg.com/media/HOAhboaaQAAoy_H.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2094054316361269314",
+   "file": "2026-08-30-gleamapp-2094054316361269314.md",
+   "kind": "candidate",
+   "author": "gleamapp",
+   "date": "2026-08-30",
+   "url": "https://x.com/gleamapp/status/2094054316361269314",
+   "eng": "16L/0BM/4kV",
+   "grade": "",
+   "gist": "NEW from Gleam. Spending money on ads and wondering if a giveaway could get you leads for less? Use the Giveaway vs Paid Ads Cost Per Lead Calculator. Compare your real CPL side by",
+   "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2094054307582640128/pu/img/Ic3Zt4locn6cEQK4.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2075924232333058211",
+   "file": "2026-07-11-EcomVictor-2075924232333058211.md",
+   "kind": "candidate",
+   "author": "EcomVictor",
+   "date": "2026-07-11",
+   "url": "https://x.com/EcomVictor/status/2075924232333058211",
+   "eng": "5L/1BM/482V",
+   "grade": "",
+   "gist": "If you're not offer-stacking and valuemaxxing in 2026 as an ecom brand, scaling profitably will be MUCH harder for you. Grüns is pushing a discount + free gifts + giveaway entry ac",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2075922308884017152/img/ah57IlO1b-P4iTHn.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

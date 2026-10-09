@@ -1,0 +1,225 @@
+{
+ "id": "F26",
+ "slug": "26-founder-surprise-customer-call",
+ "name": "Founder surprise customer call (+ customer-service call variant)",
+ "title": "26 · Founder surprise customer call (+ customer-service call variant)",
+ "n_examples": 12,
+ "n_curated": 6,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2086835243474985414",
+   "file": "2026-08-10-williamkast_-2086835243474985414.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-10",
+   "url": "https://x.com/williamkast_/status/2086835243474985414",
+   "eng": "38L/46BM/3kV",
+   "grade": "VALUE",
+   "gist": "Turn 1 winning ad into 5: same message, different frameworks (DITL, 3 reasons, old me/new me, phone call).",
+   "thumb": "https://pbs.twimg.com/media/HPXtmCoWQAAelu1.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2084767090116837682",
+   "file": "2026-08-04-antonioventre_-2084767090116837682.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-08-04",
+   "url": "https://x.com/antonioventre_/status/2084767090116837682",
+   "eng": "37L/34BM/2kV",
+   "grade": "VALUE",
+   "gist": "Surprise founder→customer call ad: customer doesn't know the call is coming; ad-manager screenshot shows it as top ROAS (4.80 on $20.9k) in a $112k set.",
+   "thumb": "https://pbs.twimg.com/media/HO6UnqWW0AA0hwK.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091592059517837677",
+   "file": "2026-08-23-antonioventre_-2091592059517837677.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-08-23",
+   "url": "https://x.com/antonioventre_/status/2091592059517837677",
+   "eng": "12L/13BM/995V",
+   "grade": "VALUE",
+   "gist": "Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask.",
+   "thumb": "https://pbs.twimg.com/media/HQbT5PIXsAATKNY.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103485927528009820",
+   "file": "2026-09-25-therahulissar-2103485927528009820.md",
+   "kind": "curated",
+   "author": "therahulissar",
+   "date": "2026-09-25",
+   "url": "https://x.com/therahulissar/status/2103485927528009820",
+   "eng": "12L/7BM/1kV",
+   "grade": "VALUE",
+   "gist": "Trends beyond AI: greenscreen personal story with no product until late; natives → quiz funnel; founder calling customers.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2091895054755373116",
+   "file": "2026-08-24-antonioventre_-2091895054755373116.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-08-24",
+   "url": "https://x.com/antonioventre_/status/2091895054755373116",
+   "eng": "8L/4BM/693V",
+   "grade": "VALUE",
+   "gist": "Production rule: reaction can't be scripted — founder-customer call + POV reaction ads with live unscripted reaction.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2084659151578202574",
+   "file": "2026-08-04-williamkast_-2084659151578202574.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-04",
+   "url": "https://x.com/williamkast_/status/2084659151578202574",
+   "eng": "2L/4BM/480V",
+   "grade": "VALUE",
+   "gist": "Creative diversity matrix image: 5 production formats × 5 frameworks = 25 concepts from one message.",
+   "thumb": "https://pbs.twimg.com/media/HO4ycvxXEAARHiz.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083288607062732816",
+   "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+   "kind": "cited",
+   "author": "raph_guilhem",
+   "date": "2026-07-31",
+   "url": "https://x.com/raph_guilhem/status/2083288607062732816",
+   "eng": "55L/105BM/7kV",
+   "grade": "VALUE",
+   "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107597529130873250",
+   "file": "2026-10-06-antonioventre_-2107597529130873250.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-10-06",
+   "url": "https://x.com/antonioventre_/status/2107597529130873250",
+   "eng": "96L/135BM/11kV",
+   "grade": "",
+   "gist": "Customer service call ads are scaling like crazy for us right now If you haven't tried them yet, please do it https://t.co/laU2bgRZht",
+   "thumb": "https://pbs.twimg.com/media/HT-wyMnW8AAJF7w.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079573874883104926",
+   "file": "2026-07-21-antonioventre_-2079573874883104926.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-21",
+   "url": "https://x.com/antonioventre_/status/2079573874883104926",
+   "eng": "88L/125BM/7kV",
+   "grade": "",
+   "gist": "Call ads are quietly becoming their own category on Meta. Every variation of a recorded conversation is working for us right now: - FaceTime call ads, two people on a recorded vide",
+   "thumb": "https://pbs.twimg.com/media/HNwhau8XMAAtyci.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076794556180308204",
+   "file": "2026-07-13-antonioventre_-2076794556180308204.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-13",
+   "url": "https://x.com/antonioventre_/status/2076794556180308204",
+   "eng": "75L/73BM/4kV",
+   "grade": "",
+   "gist": "These ads are crushing for our eCommerce clients right now: - FaceTime call ads - Customer service call - Street interviews - Trend ads - Yapping ads - AI storytelling ads - Founde",
+   "thumb": "https://pbs.twimg.com/media/HNJBpGRXEAAyPsR.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104849075002642643",
+   "file": "2026-09-29-IgorWoorts-2104849075002642643.md",
+   "kind": "candidate",
+   "author": "IgorWoorts",
+   "date": "2026-09-29",
+   "url": "https://x.com/IgorWoorts/status/2104849075002642643",
+   "eng": "34L/65BM/5kV",
+   "grade": "",
+   "gist": "Last week we tested a similar format: talking-head style where the creator calls a customer who just placed their 10th order. We built up the sequence so it still works as TOF: Ask",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108225940962914650",
+   "file": "2026-10-08-ecomchasedimond-2108225940962914650.md",
+   "kind": "candidate",
+   "author": "ecomchasedimond",
+   "date": "2026-10-08",
+   "url": "https://x.com/ecomchasedimond/status/2108225940962914650",
+   "eng": "43L/18BM/18kV",
+   "grade": "",
+   "gist": "Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of those signals live in different",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108224664569016320/img/wl74_qcNYDblwVgM.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

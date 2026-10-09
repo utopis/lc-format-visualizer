@@ -1,0 +1,142 @@
+{
+ "id": "F92",
+ "slug": "92-foreign-insider-secret-story",
+ "name": "Foreign-insider story ('I lived in Seoul for 2 years and learned what Korean women actually use')",
+ "title": "92 · Foreign-insider story (\"I lived in Seoul for 2 years and learned what Korean women actually use\")",
+ "n_examples": 7,
+ "n_curated": 3,
+ "n_candidates": 3,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2103047669556166886",
+   "file": "2026-09-24-EcomSapo-2103047669556166886.md",
+   "kind": "curated",
+   "author": "EcomSapo",
+   "date": "2026-09-24",
+   "url": "https://x.com/EcomSapo/status/2103047669556166886",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Smooche top ad of 1,600+: \"At 63 I ran into my ex at Walmart\" + Seoul colleague, 5:37; Atria #1 of 721, 70d. \"Resilia blueprint works for skincare.\"",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2101315284753629664",
+   "file": "2026-09-19-CSRIPPER-2101315284753629664.md",
+   "kind": "curated",
+   "author": "CSRIPPER",
+   "date": "2026-09-19",
+   "url": "https://x.com/CSRIPPER/status/2101315284753629664",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "\"10 minute movie ad with a Japanese/Swiss authority\": Resilia, Lymphoria all run them.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100156940483760583",
+   "file": "2026-09-16-ladprofit-2100156940483760583.md",
+   "kind": "curated",
+   "author": "ladprofit",
+   "date": "2026-09-16",
+   "url": "https://x.com/ladprofit/status/2100156940483760583",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "US Under Secretary flagged scam ads using \"hidden knowledge\" ethnic secrets + romantic-betrayal drama; quoted re Resilia.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105288429873528875",
+   "file": "2026-09-30-EcomSapo-2105288429873528875.md",
+   "kind": "cited",
+   "author": "EcomSapo",
+   "date": "2026-09-30",
+   "url": "https://x.com/EcomSapo/status/2105288429873528875",
+   "eng": "157L/218BM/24kV",
+   "grade": "VALUE",
+   "gist": "Smooche ($22M/mo skincare) uses singing ads as acquisition weapon.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105288291746721792/img/M9AR-aiOVL1oayeJ.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2082497271195709774",
+   "file": "2026-07-29-TradCathKeng-2082497271195709774.md",
+   "kind": "candidate",
+   "author": "TradCathKeng",
+   "date": "2026-07-29",
+   "url": "https://x.com/TradCathKeng/status/2082497271195709774",
+   "eng": "17L/0BM/446V",
+   "grade": "",
+   "gist": "And now I’m getting ads for Japanese women only dating apps for foreigners… https://t.co/FV4Mr3dxTA",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101490778493133276",
+   "file": "2026-09-20-justavolgirl-2101490778493133276.md",
+   "kind": "candidate",
+   "author": "justavolgirl",
+   "date": "2026-09-20",
+   "url": "https://x.com/justavolgirl/status/2101490778493133276",
+   "eng": "10L/0BM/277V",
+   "grade": "",
+   "gist": "Why is Ashley Moody’s ad on my TV? I loved her as State Attorney when I lived in Florida, but I have enough Georgia political ads on my TV. I don’t need Florida, too. 🥴",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097867152518701076",
+   "file": "2026-09-10-MrBCWalker-2097867152518701076.md",
+   "kind": "candidate",
+   "author": "MrBCWalker",
+   "date": "2026-09-10",
+   "url": "https://x.com/MrBCWalker/status/2097867152518701076",
+   "eng": "3L/0BM/80V",
+   "grade": "",
+   "gist": "If you want to see some of the best marketing around, go to YouTube and look up channels all about hot Korean women going solo camping. Once you notice what is shot and how, you ca",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

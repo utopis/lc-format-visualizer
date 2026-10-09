@@ -1,0 +1,132 @@
+{
+ "id": "F93",
+ "slug": "93-elder-wisdom-interview-countdown",
+ "name": "Elder-wisdom street interview + '3 things' countdown (the product is #3)",
+ "title": "93 · Elder-wisdom street interview + \"3 things\" countdown (the product is #3)",
+ "n_examples": 6,
+ "n_curated": 1,
+ "n_candidates": 3,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2100156940483760583",
+   "file": "2026-09-16-ladprofit-2100156940483760583.md",
+   "kind": "curated",
+   "author": "ladprofit",
+   "date": "2026-09-16",
+   "url": "https://x.com/ladprofit/status/2100156940483760583",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "US Under Secretary flagged scam ads using \"hidden knowledge\" ethnic secrets + romantic-betrayal drama; quoted re Resilia.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101280447154036917",
+   "file": "2026-09-19-ZedNilm1-2101280447154036917.md",
+   "kind": "cited",
+   "author": "ZedNilm1",
+   "date": "2026-09-19",
+   "url": "https://x.com/ZedNilm1/status/2101280447154036917",
+   "eng": "116L/185BM/17kV",
+   "grade": "VALUE",
+   "gist": "Resilia AI street interviews with 90+ year olds - believable, near-zero ad feel.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101280417735192576/img/VF2LU3T4yug5TvFj.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2066967439095771257",
+   "file": "0000-00-00-orbit_media_-2066967439095771257.md",
+   "kind": "cited",
+   "author": "orbit_media_",
+   "date": "",
+   "url": "https://x.com/orbit_media_/status/2066967439095771257",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2095535789836824724",
+   "file": "2026-09-03-IMJustinBrooke-2095535789836824724.md",
+   "kind": "candidate",
+   "author": "IMJustinBrooke",
+   "date": "2026-09-03",
+   "url": "https://x.com/IMJustinBrooke/status/2095535789836824724",
+   "eng": "79L/127BM/6kV",
+   "grade": "",
+   "gist": "Passing on my best wisdom, pt 8 21yrs of Hook Writing Advice in <600 Words As I thought about everything I could probably teach you, one thing stood out as the most important lesso",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092303494250135860",
+   "file": "2026-08-25-FedotOff90-2092303494250135860.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-08-25",
+   "url": "https://x.com/FedotOff90/status/2092303494250135860",
+   "eng": "52L/67BM/9kV",
+   "grade": "",
+   "gist": "Ryze Superfoods is doing multiple 9 figs with 1 product and crazy creative strategy. Massive ad library. Did the full analysis with Gethookd MCP and API. Here's the summary: - Tota",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092301410247364608/img/BMX4zXN8GuzASMNP.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100219781668356485",
+   "file": "2026-09-16-father_rmv-2100219781668356485.md",
+   "kind": "candidate",
+   "author": "father_rmv",
+   "date": "2026-09-16",
+   "url": "https://x.com/father_rmv/status/2100219781668356485",
+   "eng": "57L/3BM/2kV",
+   "grade": "",
+   "gist": "Saint Thascius Caecilius Cyprianus, commonly known as Saint Cyprian of Carthage, stands as one of the most influential figures in early Christianity, embodying the transition from ",
+   "thumb": "https://pbs.twimg.com/media/HSV6wobW0AEP3Wx.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "id": "F84",
+ "slug": "84-ugly-unusual-visual-native",
+ "name": "'Ugly ad': an unusual or weird visual + long copy (native image)",
+ "title": "84 · \"Ugly ad\": an unusual or weird visual + long copy (native image)",
+ "n_examples": 8,
+ "n_curated": 2,
+ "n_candidates": 6,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2104253649346068682",
+   "file": "2026-09-27-FedotOff90-2104253649346068682.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-27",
+   "url": "https://x.com/FedotOff90/status/2104253649346068682",
+   "eng": "68L/98BM/6kV",
+   "grade": "SOME",
+   "gist": "777 native images + long-form copy swipe board.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107184145541853536",
+   "file": "2026-10-05-FedotOff90-2107184145541853536.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-10-05",
+   "url": "https://x.com/FedotOff90/status/2107184145541853536",
+   "eng": "41L/53BM/5kV",
+   "grade": "SOME",
+   "gist": "\"The ugly ads print\" — weird visuals stop the scroll, long copy sells; 122-ad Native Unusual Visuals board.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089448804676239424",
+   "file": "2026-08-17-Simon__Rob-2089448804676239424.md",
+   "kind": "candidate",
+   "author": "Simon__Rob",
+   "date": "2026-08-17",
+   "url": "https://x.com/Simon__Rob/status/2089448804676239424",
+   "eng": "51L/79BM/5kV",
+   "grade": "",
+   "gist": "this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats convince warm traffic - offer ad",
+   "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2089448627156484096/pu/img/gxQdEhVpZimXOfqi.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092657905002529270",
+   "file": "2026-08-26-alexgoughcooper-2092657905002529270.md",
+   "kind": "candidate",
+   "author": "alexgoughcooper",
+   "date": "2026-08-26",
+   "url": "https://x.com/alexgoughcooper/status/2092657905002529270",
+   "eng": "61L/60BM/9kV",
+   "grade": "",
+   "gist": "This video did 32M views and is a masterclass in ugly ads. Why? Because it’s authentic. You keep trying to make ‘UGC’ or ‘ugly ads’ that are fully scripted. But the best creators d",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092653139442708480/img/JXwenyGlOCiHXjcG.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105897021328757090",
+   "file": "2026-10-02-dileshumale-2105897021328757090.md",
+   "kind": "candidate",
+   "author": "dileshumale",
+   "date": "2026-10-02",
+   "url": "https://x.com/dileshumale/status/2105897021328757090",
+   "eng": "10L/3BM/775V",
+   "grade": "",
+   "gist": "Animate those ugly static ads. Thank me later.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100642439346442517",
+   "file": "2026-09-17-tryatria_AI-2100642439346442517.md",
+   "kind": "candidate",
+   "author": "tryatria_AI",
+   "date": "2026-09-17",
+   "url": "https://x.com/tryatria_AI/status/2100642439346442517",
+   "eng": "6L/2BM/709V",
+   "grade": "",
+   "gist": "The best performing ad isn’t always the “best” ad. Sometimes it’s the weird one. The ugly static. The random hook. The ad that looks like it was made in 20 minutes. Stop trying to ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2095135817807155471",
+   "file": "2026-09-02-BHeathMarketing-2095135817807155471.md",
+   "kind": "candidate",
+   "author": "BHeathMarketing",
+   "date": "2026-09-02",
+   "url": "https://x.com/BHeathMarketing/status/2095135817807155471",
+   "eng": "6L/0BM/490V",
+   "grade": "",
+   "gist": "Here’s why ugly ads often perform better... One of your most important jobs as an advertiser is to stop the scroll and grab attention. & ugly ads stand out. Especially if you're in",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2093080064321835033",
+   "file": "2026-08-27-viragkovarii-2093080064321835033.md",
+   "kind": "candidate",
+   "author": "viragkovarii",
+   "date": "2026-08-27",
+   "url": "https://x.com/viragkovarii/status/2093080064321835033",
+   "eng": "5L/0BM/312V",
+   "grade": "",
+   "gist": "my experience in health (specifically the joint pain niche) taught me one thing: selling to older audiences will humble your creative strategy real quick. you can spend hours build",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

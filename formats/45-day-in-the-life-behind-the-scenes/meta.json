@@ -1,0 +1,193 @@
+{
+ "id": "F45",
+ "slug": "45-day-in-the-life-behind-the-scenes",
+ "name": "Day in the life / behind the scenes (founder or customer)",
+ "title": "45 · Day in the life / behind the scenes (founder or customer)",
+ "n_examples": 10,
+ "n_curated": 7,
+ "n_candidates": 2,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "curated",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086835243474985414",
+   "file": "2026-08-10-williamkast_-2086835243474985414.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-10",
+   "url": "https://x.com/williamkast_/status/2086835243474985414",
+   "eng": "38L/46BM/3kV",
+   "grade": "VALUE",
+   "gist": "Turn 1 winning ad into 5: same message, different frameworks (DITL, 3 reasons, old me/new me, phone call).",
+   "thumb": "https://pbs.twimg.com/media/HPXtmCoWQAAelu1.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103180929057407425",
+   "file": "2026-09-24-Ecombos_Ai-2103180929057407425.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-09-24",
+   "url": "https://x.com/Ecombos_Ai/status/2103180929057407425",
+   "eng": "28L/26BM/2kV",
+   "grade": "SOME",
+   "gist": "10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/after, whiteboard.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089827933561016787",
+   "file": "2026-08-18-rirahcreates-2089827933561016787.md",
+   "kind": "curated",
+   "author": "rirahcreates",
+   "date": "2026-08-18",
+   "url": "https://x.com/rirahcreates/status/2089827933561016787",
+   "eng": "12L/17BM/1kV",
+   "grade": "SOME",
+   "gist": "20 UGC types: talking head, review, unboxing, testimonial, demo, problem/solution, before/after, GRWM, DITL, voiceover, routine, how-to, FAQ, 3 reasons why, POV.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2067636022251290725",
+   "file": "2026-06-18-ugcAshleyRJ-2067636022251290725.md",
+   "kind": "curated",
+   "author": "ugcAshleyRJ",
+   "date": "2026-06-18",
+   "url": "https://x.com/ugcAshleyRJ/status/2067636022251290725",
+   "eng": "13L/5BM/534V",
+   "grade": "SOME",
+   "gist": "The 0.5x ultra-wide POV filming technique for demos, GRWM and day-in-the-life — immersive, native.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2067635963845652480/img/si1NW3KQ_N-c4Mtq.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2063387846803673406",
+   "file": "2026-06-06-0xJeyx-2063387846803673406.md",
+   "kind": "curated",
+   "author": "0xJeyx",
+   "date": "2026-06-06",
+   "url": "https://x.com/0xJeyx/status/2063387846803673406",
+   "eng": "15L/3BM/889V",
+   "grade": "SOME",
+   "gist": "Generate the same product as every format at once (street quiz, review, GRWM, DITL) and let the feed pick — example: \"$50 street quiz\" video.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2063387368825008129/img/X-8TAA46qSijW8jD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2084659151578202574",
+   "file": "2026-08-04-williamkast_-2084659151578202574.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-04",
+   "url": "https://x.com/williamkast_/status/2084659151578202574",
+   "eng": "2L/4BM/480V",
+   "grade": "VALUE",
+   "gist": "Creative diversity matrix image: 5 production formats × 5 frameworks = 25 concepts from one message.",
+   "thumb": "https://pbs.twimg.com/media/HO4ycvxXEAARHiz.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083288607062732816",
+   "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+   "kind": "cited",
+   "author": "raph_guilhem",
+   "date": "2026-07-31",
+   "url": "https://x.com/raph_guilhem/status/2083288607062732816",
+   "eng": "55L/105BM/7kV",
+   "grade": "VALUE",
+   "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107067561619693949",
+   "file": "2026-10-05-paula_bearr-2107067561619693949.md",
+   "kind": "candidate",
+   "author": "paula_bearr",
+   "date": "2026-10-05",
+   "url": "https://x.com/paula_bearr/status/2107067561619693949",
+   "eng": "63L/125BM/2kV",
+   "grade": "",
+   "gist": "If you ever run out of things to post on Instagram, save this. Here’s a general content idea bank you can tailor to almost any brand: REELS / SHORT-FORM VIDEO • Tutorials / how-to ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2094773552398389539",
+   "file": "2026-09-01-jaclynforero-2094773552398389539.md",
+   "kind": "candidate",
+   "author": "jaclynforero",
+   "date": "2026-09-01",
+   "url": "https://x.com/jaclynforero/status/2094773552398389539",
+   "eng": "7L/0BM/259V",
+   "grade": "",
+   "gist": "📓 a little peek into my UGC + creative strategy life lately Between filming client content, batching hooks, and figuring out what actually makes a DTC ad convert… this is what buil",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094773500418351104/img/zHfpM6rJDTq069Rs.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

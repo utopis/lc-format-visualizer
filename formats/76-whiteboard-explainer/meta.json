@@ -1,0 +1,131 @@
+{
+ "id": "F76",
+ "slug": "76-whiteboard-explainer",
+ "name": "Whiteboard explainer (marker diagram of the mechanism, static or video)",
+ "title": "76 · Whiteboard explainer (marker diagram of the mechanism, static or video)",
+ "n_examples": 6,
+ "n_curated": 0,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2094086530973229173",
+   "file": "2026-08-30-0xROAS-2094086530973229173.md",
+   "kind": "candidate",
+   "author": "0xROAS",
+   "date": "2026-08-30",
+   "url": "https://x.com/0xROAS/status/2094086530973229173",
+   "eng": "213L/357BM/24kV",
+   "grade": "",
+   "gist": "here's another BANGER ai ad style you can use in your ads it's called BRB Whiteboard Explainer style (my fav) there's infinite ways you can scale your creative output game, so don'",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094085927438098432/img/wKB7-lMllG2buJsH.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083288607062732816",
+   "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+   "kind": "candidate",
+   "author": "raph_guilhem",
+   "date": "2026-07-31",
+   "url": "https://x.com/raph_guilhem/status/2083288607062732816",
+   "eng": "55L/105BM/7kV",
+   "grade": "VALUE",
+   "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103180929057407425",
+   "file": "2026-09-24-Ecombos_Ai-2103180929057407425.md",
+   "kind": "candidate",
+   "author": "Ecombos_Ai",
+   "date": "2026-09-24",
+   "url": "https://x.com/Ecombos_Ai/status/2103180929057407425",
+   "eng": "28L/26BM/2kV",
+   "grade": "SOME",
+   "gist": "10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/after, whiteboard.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100249277029126306",
+   "file": "2026-09-16-artfully_amberr-2100249277029126306.md",
+   "kind": "candidate",
+   "author": "artfully_amberr",
+   "date": "2026-09-16",
+   "url": "https://x.com/artfully_amberr/status/2100249277029126306",
+   "eng": "9L/0BM/252V",
+   "grade": "",
+   "gist": "Here's a #UGCexample I made for Stasis. This whiteboard explainer concept has generated revenue for the client. For this creative, I leaned into my background as a nurse and filmed",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100249175392727040/img/XyuynQ0jrw_3ka2q.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087724906285060447",
+   "file": "2026-08-13-atlas_cloud_ai-2087724906285060447.md",
+   "kind": "candidate",
+   "author": "atlas_cloud_ai",
+   "date": "2026-08-13",
+   "url": "https://x.com/atlas_cloud_ai/status/2087724906285060447",
+   "eng": "4L/1BM/998V",
+   "grade": "",
+   "gist": "30-second expert whiteboard ad. Perfect lip sync, natural handwriting, real skin texture — one single Seedance 2.5 generation. Generated on https://t.co/xXKqwubW8I This is what AI ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

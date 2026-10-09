@@ -1,0 +1,286 @@
+{
+ "id": "F37",
+ "slug": "37-urgency-offer-statics",
+ "name": "Urgency/offer statics: low stock, back in stock, limited-time offer, BFCM",
+ "title": "37 · Urgency/offer statics: low stock, back in stock, limited-time offer, BFCM",
+ "n_examples": 16,
+ "n_curated": 7,
+ "n_candidates": 8,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2081785032679518490",
+   "file": "2026-07-27-ads4apps-2081785032679518490.md",
+   "kind": "curated",
+   "author": "ads4apps",
+   "date": "2026-07-27",
+   "url": "https://x.com/ads4apps/status/2081785032679518490",
+   "eng": "412L/930BM/27kV",
+   "grade": "VALUE",
+   "gist": "39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breaking news, Reddit, Google search, text on skin, tier list, zero stars…",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103910235005935644",
+   "file": "2026-09-26-williamkast_-2103910235005935644.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-09-26",
+   "url": "https://x.com/williamkast_/status/2103910235005935644",
+   "eng": "252L/400BM/13kV",
+   "grade": "VALUE",
+   "gist": "Formats by funnel: TOF founder/yapper/AI animation/natives/3 reasons/voiceless overlay; MOF comment reply/testimonial mashup/text wall; BOF urgency statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "curated",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090725512976970065",
+   "file": "2026-08-21-raph_guilhem-2090725512976970065.md",
+   "kind": "curated",
+   "author": "raph_guilhem",
+   "date": "2026-08-21",
+   "url": "https://x.com/raph_guilhem/status/2090725512976970065",
+   "eng": "9L/6BM/377V",
+   "grade": "SOME",
+   "gist": "35 static/native formats tree: Trustpilot, text msg, email screenshot, Reddit, text on skin, crossed-out, tier list, Venn, breaking news.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090725302146105344/img/uA1K2IYxklTm-uus.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2098426706612683154",
+   "file": "2026-09-11-EmerieOnoh-2098426706612683154.md",
+   "kind": "curated",
+   "author": "EmerieOnoh",
+   "date": "2026-09-11",
+   "url": "https://x.com/EmerieOnoh/status/2098426706612683154",
+   "eng": "6L/6BM/498V",
+   "grade": "SOME",
+   "gist": "Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085017654364958737",
+   "file": "2026-08-05-Yannlce-2085017654364958737.md",
+   "kind": "curated",
+   "author": "Yannlce",
+   "date": "2026-08-05",
+   "url": "https://x.com/Yannlce/status/2085017654364958737",
+   "eng": "3L/2BM/1kV",
+   "grade": "SOME",
+   "gist": "Same 40-format list (adds claymation, AI podcast).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097798592010547583",
+   "file": "2026-09-09-jackolivieri_-2097798592010547583.md",
+   "kind": "curated",
+   "author": "jackolivieri_",
+   "date": "2026-09-09",
+   "url": "https://x.com/jackolivieri_/status/2097798592010547583",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Smooche static \"847 Orders in Last Hour, Almost Gone\" / \"LIVE UPDATE\" stock copy (GetHookd share).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102704237805547557",
+   "file": "2026-09-23-hey_ankita-2102704237805547557.md",
+   "kind": "candidate",
+   "author": "hey_ankita",
+   "date": "2026-09-23",
+   "url": "https://x.com/hey_ankita/status/2102704237805547557",
+   "eng": "82L/2BM/45kV",
+   "grade": "",
+   "gist": "90% OFF Seedance 2.5 on Pippit AI, now only $1.5/month for a limited time. Pippit AI is giving creators access to the official, native Seedance 2.5 model, and this limited offer ma",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102704191785545728/img/DjbrfDKE0tQXeT53.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106885699374829636",
+   "file": "2026-10-04-johntech778-2106885699374829636.md",
+   "kind": "candidate",
+   "author": "johntech778",
+   "date": "2026-10-04",
+   "url": "https://x.com/johntech778/status/2106885699374829636",
+   "eng": "39L/10BM/1kV",
+   "grade": "",
+   "gist": "\"Buy 2 Get 1 Free\" is a stronger offer than \"33% off.\" Same discount. Better conversion. Here's why and how I structured a Pawfect product page around it 👇 9 conversion decisions m",
+   "thumb": "https://pbs.twimg.com/media/HT0pX8pW0AAix_m.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078904351138169143",
+   "file": "2026-07-19-ruben_vdzr-2078904351138169143.md",
+   "kind": "candidate",
+   "author": "ruben_vdzr",
+   "date": "2026-07-19",
+   "url": "https://x.com/ruben_vdzr/status/2078904351138169143",
+   "eng": "21L/10BM/507V",
+   "grade": "",
+   "gist": "There are 4 decisions that separate a dropshipping store from a real ecom brand. The pattern in almost every store that gets stuck is the same. Revenue comes in. Nothing builds on ",
+   "thumb": "https://pbs.twimg.com/media/HNm_oDfacAA-ngg.png",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102744531489751066",
+   "file": "2026-09-23-johntech778-2102744531489751066.md",
+   "kind": "candidate",
+   "author": "johntech778",
+   "date": "2026-09-23",
+   "url": "https://x.com/johntech778/status/2102744531489751066",
+   "eng": "15L/2BM/369V",
+   "grade": "",
+   "gist": "\"6,200+ Bottles Sold This Month\" is the most under-used line on any product page. Here's how I structured a Goli Ashwagandha buy box around it 10 conversion decisions most suppleme",
+   "thumb": "https://pbs.twimg.com/media/HS5y_7ZXMAAZTnH.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101658718647521629",
+   "file": "2026-09-20-johntech778-2101658718647521629.md",
+   "kind": "candidate",
+   "author": "johntech778",
+   "date": "2026-09-20",
+   "url": "https://x.com/johntech778/status/2101658718647521629",
+   "eng": "12L/0BM/368V",
+   "grade": "",
+   "gist": "Buy 1 Get 1 Free\" is the most under-used conversion lever in supplement DTC. Here's how I structured a product page around it. 8 conversion decisions most supplement brands get wro",
+   "thumb": "https://pbs.twimg.com/media/HSqXdLrWIAA81Mi.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087306011849965645",
+   "file": "2026-08-11-usmanstrategist-2087306011849965645.md",
+   "kind": "candidate",
+   "author": "usmanstrategist",
+   "date": "2026-08-11",
+   "url": "https://x.com/usmanstrategist/status/2087306011849965645",
+   "eng": "6L/2BM/299V",
+   "grade": "",
+   "gist": "Here's a breakdown of the three funnel stages and the best creative formats for each, so you can drive more purchases and scale your brand more profitably. 🔵 TOP OF FUNNEL (TOFU) -",
+   "thumb": "https://pbs.twimg.com/media/HPeZwDObIAE7ejQ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096744141031981406",
+   "file": "2026-09-06-kylaugccreator-2096744141031981406.md",
+   "kind": "candidate",
+   "author": "kylaugccreator",
+   "date": "2026-09-06",
+   "url": "https://x.com/kylaugccreator/status/2096744141031981406",
+   "eng": "6L/0BM/228V",
+   "grade": "",
+   "gist": "Here’s an ugc example I created for Bucketlisters Nashville app The goal was to showcase a limited-time 90s throwback bar while positioning Bucketlisters Nashville App as the place",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2096744039022313478/img/kj9Xxa6ypCbJQ-sg.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105304476890648987",
+   "file": "2026-09-30-aditiasiswara-2105304476890648987.md",
+   "kind": "candidate",
+   "author": "aditiasiswara",
+   "date": "2026-09-30",
+   "url": "https://x.com/aditiasiswara/status/2105304476890648987",
+   "eng": "3L/0BM/130V",
+   "grade": "",
+   "gist": "Get the official, native Seedance 2.5 for as low as $1.50 for your first month with a Limited-Time 90% OFF offer! Seedance 2.5 at 720P starts at just $0.035/sec on Pippit AI, compa",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105304318060728320/img/euPyGZKazSbnblRh.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

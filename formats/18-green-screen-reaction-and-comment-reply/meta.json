@@ -1,0 +1,188 @@
+{
+ "id": "F18",
+ "slug": "18-green-screen-reaction-and-comment-reply",
+ "name": "Green-screen reaction over a proven winner + reply-to-comment overlay",
+ "title": "18 · Green-screen reaction & comment reply",
+ "n_examples": 10,
+ "n_curated": 5,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "in progress"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2097641383355879452",
+   "file": "2026-09-09-adamtaylorl-2097641383355879452.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-09-09",
+   "url": "https://x.com/adamtaylorl/status/2097641383355879452",
+   "eng": "139L/203BM/13kV",
+   "grade": "VALUE",
+   "gist": "Tier list of ecom formats: F = AI UGC, street interviews, read scripts; B = founder, testimonial compilations, listicle statics...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096569603761827953",
+   "file": "2026-09-06-CEO_Vlad-2096569603761827953.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-09-06",
+   "url": "https://x.com/CEO_Vlad/status/2096569603761827953",
+   "eng": "88L/169BM/5kV",
+   "grade": "VALUE",
+   "gist": "AI UGC formats tiered: S = podcast, talking head, in-car...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103180929057407425",
+   "file": "2026-09-24-Ecombos_Ai-2103180929057407425.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-09-24",
+   "url": "https://x.com/Ecombos_Ai/status/2103180929057407425",
+   "eng": "28L/26BM/2kV",
+   "grade": "SOME",
+   "gist": "10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/after, whiteboard.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083616523134841035",
+   "file": "2026-08-01-williamkast_-2083616523134841035.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-01",
+   "url": "https://x.com/williamkast_/status/2083616523134841035",
+   "eng": "12L/14BM/967V",
+   "grade": "VALUE",
+   "gist": "15 formats to repackage winners into (scaled to $30k/day on 3-4 angles): founder, yapper, AI animation, voiceless overlay, carousel, reply ad, text wall, review static, camouflage.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103088143138193657",
+   "file": "2026-09-24-ChelalaPierre1-2103088143138193657.md",
+   "kind": "candidate",
+   "author": "ChelalaPierre1",
+   "date": "2026-09-24",
+   "url": "https://x.com/ChelalaPierre1/status/2103088143138193657",
+   "eng": "99L/133BM/7kV",
+   "grade": "",
+   "gist": "ranking every type of ecom ad creative format: F TIER: > AI UGC > street interviews > creator clearly reading script C TIER: > lifestyle b-roll with a voiceover > meme ads >tiktoks",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083288607062732816",
+   "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+   "kind": "candidate",
+   "author": "raph_guilhem",
+   "date": "2026-07-31",
+   "url": "https://x.com/raph_guilhem/status/2083288607062732816",
+   "eng": "55L/105BM/7kV",
+   "grade": "VALUE",
+   "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092620077946614206",
+   "file": "2026-08-26-TheJeremyHaynes-2092620077946614206.md",
+   "kind": "candidate",
+   "author": "TheJeremyHaynes",
+   "date": "2026-08-26",
+   "url": "https://x.com/TheJeremyHaynes/status/2092620077946614206",
+   "eng": "105L/73BM/16kV",
+   "grade": "VALUE",
+   "gist": "Ranking every ad creative format worst->best (video).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2091444419341783040/img/6FdibnGky8PhEvuK.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2100340233678315844",
+   "file": "2026-09-16-creativesbycare-2100340233678315844.md",
+   "kind": "candidate",
+   "author": "creativesbycare",
+   "date": "2026-09-16",
+   "url": "https://x.com/creativesbycare/status/2100340233678315844",
+   "eng": "5L/0BM/155V",
+   "grade": "",
+   "gist": "If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 2/4) ⭐️ COMMENT REPLY ⭐️ Great for objection busting!!! Respond to ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100340130984988673/img/VDH2QnF-bVoLOp70.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078944255465439652",
+   "file": "2026-07-19-sincerelydawnUG-2078944255465439652.md",
+   "kind": "candidate",
+   "author": "sincerelydawnUG",
+   "date": "2026-07-19",
+   "url": "https://x.com/sincerelydawnUG/status/2078944255465439652",
+   "eng": "4L/0BM/233V",
+   "grade": "",
+   "gist": "Here’s a recent ad where the brand requested green screen ads while the product ships! Portfolio: https://t.co/8dOkKM0Yrz Email: sincerelydawn.ugc@gmail.com #Ugc #ugccreator #ugcco",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078944189937803264/img/4yOd7ptH1lKjq61J.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

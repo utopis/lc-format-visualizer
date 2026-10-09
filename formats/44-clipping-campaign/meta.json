@@ -1,0 +1,265 @@
+{
+ "id": "F44",
+ "slug": "44-clipping-campaign",
+ "name": "Clipping campaign (pay-per-view clippers distribute founder/podcast content)",
+ "title": "44 · Clipping campaign (pay-per-view clippers distribute founder/podcast content)",
+ "n_examples": 14,
+ "n_curated": 3,
+ "n_candidates": 10,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2072291737536803119",
+   "file": "2026-07-01-SeoulJosephK-2072291737536803119.md",
+   "kind": "curated",
+   "author": "SeoulJosephK",
+   "date": "2026-07-01",
+   "url": "https://x.com/SeoulJosephK/status/2072291737536803119",
+   "eng": "720L/2243BM/98kV",
+   "grade": "SOME",
+   "gist": "App marketing reading list: paid (athcanft), organic UGC (Superwall pod), Sideshift/Posted/Noise view-based campaigns, Jake Castillo for influencers.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092441815739670637",
+   "file": "2026-08-26-alexzgirbu-2092441815739670637.md",
+   "kind": "curated",
+   "author": "alexzgirbu",
+   "date": "2026-08-26",
+   "url": "https://x.com/alexzgirbu/status/2092441815739670637",
+   "eng": "39L/36BM/2kV",
+   "grade": "SOME",
+   "gist": "Clipper earns ~$3k per 1M views cutting streams/vlogs into short clips submitted to Content Rewards/Clipping Net/Clipster campaigns.",
+   "thumb": "https://pbs.twimg.com/media/HQnYupaXIAEhpJj.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104045499208831116",
+   "file": "2026-09-27-Dkevs_-2104045499208831116.md",
+   "kind": "curated",
+   "author": "Dkevs_",
+   "date": "2026-09-27",
+   "url": "https://x.com/Dkevs_/status/2104045499208831116",
+   "eng": "13L/9BM/1kV",
+   "grade": "SOME",
+   "gist": "App clipping campaign hit 140K+ views while still testing formats; trained teen clippers (agency pitch).",
+   "thumb": "https://pbs.twimg.com/media/HTMSOalbsAA3Oe7.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107903429490135362",
+   "file": "2026-10-07-leonclipping-2107903429490135362.md",
+   "kind": "cited",
+   "author": "leonclipping",
+   "date": "2026-10-07",
+   "url": "https://x.com/leonclipping/status/2107903429490135362",
+   "eng": "44L/66BM/3kV",
+   "grade": "VALUE",
+   "gist": "Musa app: ONE format (4-sec shocked reaction to a body fact → mascot explains) = 522M views, 930 videos >100K, 100+ creators.",
+   "thumb": "https://pbs.twimg.com/media/HUDG8-nXoAAby1q.jpg",
+   "media": [
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2096622664223707174",
+   "file": "2026-09-06-LinoLeighton-2096622664223707174.md",
+   "kind": "candidate",
+   "author": "LinoLeighton",
+   "date": "2026-09-06",
+   "url": "https://x.com/LinoLeighton/status/2096622664223707174",
+   "eng": "82L/170BM/11kV",
+   "grade": "",
+   "gist": "I ran a clipping campaign at 10X ROAS previously. Here’s exactly how I did it: • Paid anywhere from $0.20–$0.60 CPM depending on the country • Sourced clippers directly from TikTok",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077533819905744955",
+   "file": "2026-07-15-LinoLeighton-2077533819905744955.md",
+   "kind": "candidate",
+   "author": "LinoLeighton",
+   "date": "2026-07-15",
+   "url": "https://x.com/LinoLeighton/status/2077533819905744955",
+   "eng": "74L/111BM/32kV",
+   "grade": "",
+   "gist": "Currently at 60 clippers now for side app. I’ve only spent $430 on this faceless clipping campaign so far and it’s currently on around 10X return. Over the past month, we’ve also c",
+   "thumb": "https://pbs.twimg.com/media/HNTgkvwWcAAlD8d.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097173774772617224",
+   "file": "2026-09-08-manucastilloll-2097173774772617224.md",
+   "kind": "candidate",
+   "author": "manucastilloll",
+   "date": "2026-09-08",
+   "url": "https://x.com/manucastilloll/status/2097173774772617224",
+   "eng": "58L/119BM/10kV",
+   "grade": "",
+   "gist": "Why aren't more people talking about this 🤯…. An app went from $0 to $25,000/mo With the most underrated marketing strategy ever.. → They made a peptides app → Ran a clipping campa",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097173742644232192/img/srZEcES65P_eI9BD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085667455062389146",
+   "file": "2026-08-07-alexxgrowth-2085667455062389146.md",
+   "kind": "candidate",
+   "author": "alexxgrowth",
+   "date": "2026-08-07",
+   "url": "https://x.com/alexxgrowth/status/2085667455062389146",
+   "eng": "63L/26BM/10kV",
+   "grade": "",
+   "gist": "doordash did $13.7 BILLION in revenue last year they have one of the best marketing teams on the planet and they just launched something called CringeMart, a store for all the stuf",
+   "thumb": "https://pbs.twimg.com/media/HPHG81UX0AAliwN.png",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082914407567462902",
+   "file": "2026-07-30-savixbt-2082914407567462902.md",
+   "kind": "candidate",
+   "author": "savixbt",
+   "date": "2026-07-30",
+   "url": "https://x.com/savixbt/status/2082914407567462902",
+   "eng": "52L/4BM/1kV",
+   "grade": "",
+   "gist": "clippers in the house, @blknoiz06 just drop a clipping campaign for clippers there’s $10,000 in $ANSEM reward every month for clippers. requirements: > you need a brand new acct + ",
+   "thumb": "https://pbs.twimg.com/media/HOf_m7aXgAAWixE.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098858105761157484",
+   "file": "2026-09-12-itsjahmills-2098858105761157484.md",
+   "kind": "candidate",
+   "author": "itsjahmills",
+   "date": "2026-09-12",
+   "url": "https://x.com/itsjahmills/status/2098858105761157484",
+   "eng": "17L/6BM/2kV",
+   "grade": "",
+   "gist": "every single B2C app founder is using the exact same distribution channels and in super saturated niches it’s almost impossible to be seen unless you’re posting insane volume i’ve ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103032078514246093",
+   "file": "2026-09-24-Dkevs_-2103032078514246093.md",
+   "kind": "candidate",
+   "author": "Dkevs_",
+   "date": "2026-09-24",
+   "url": "https://x.com/Dkevs_/status/2103032078514246093",
+   "eng": "7L/5BM/896V",
+   "grade": "",
+   "gist": "if you’re a founder and you haven’t launched your own clipping campaign yet just start. it’s one of the cheapest ways to distribute your content at scale while testing different fo",
+   "thumb": "https://pbs.twimg.com/media/HS94gIKa4AAg3ty.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101662430048735412",
+   "file": "2026-09-20-natiakourdadze-2101662430048735412.md",
+   "kind": "candidate",
+   "author": "natiakourdadze",
+   "date": "2026-09-20",
+   "url": "https://x.com/natiakourdadze/status/2101662430048735412",
+   "eng": "9L/1BM/2kV",
+   "grade": "",
+   "gist": "Did I share my newest marketing obsession? Content Rewards by Whop 🥳 I just launched a campaign for Overglow AI, and clippers are already applying, posting videos, and promoting th",
+   "thumb": "https://pbs.twimg.com/media/HSqazlZWIAAi70U.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107495566225834123",
+   "file": "2026-10-06-natiakourdadze-2107495566225834123.md",
+   "kind": "candidate",
+   "author": "natiakourdadze",
+   "date": "2026-10-06",
+   "url": "https://x.com/natiakourdadze/status/2107495566225834123",
+   "eng": "5L/1BM/1kV",
+   "grade": "",
+   "gist": "The easiest way to get banned on Clip Brand? A bot score of 99. Don't submit videos with fake views. Content Rewards detects bots, and we can see it right away. If you want to join",
+   "thumb": "https://pbs.twimg.com/media/HT9T_1SWYAALiZm.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2077532362842181898",
+   "file": "2026-07-15-LinoLeighton-2077532362842181898.md",
+   "kind": "candidate",
+   "author": "LinoLeighton",
+   "date": "2026-07-15",
+   "url": "https://x.com/LinoLeighton/status/2077532362842181898",
+   "eng": "4L/0BM/110V",
+   "grade": "",
+   "gist": "Currently at 60 clippers now for side app. I’ve only spent $430 on this faceless clipping campaign so far and it’s already generated $4K in Rev. Over the past month, we’ve also cro",
+   "thumb": "https://pbs.twimg.com/media/HNTgkvwWcAAlD8d.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

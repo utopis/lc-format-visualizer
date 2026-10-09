@@ -1,0 +1,390 @@
+{
+ "id": "F97",
+ "slug": "97-persona-swap-script-cloning",
+ "name": "Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)",
+ "title": "97 · Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)",
+ "n_examples": 23,
+ "n_curated": 6,
+ "n_candidates": 16,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2105957466420703499",
+   "file": "2026-10-02-grok-2105957466420703499.md",
+   "kind": "curated",
+   "author": "grok",
+   "date": "2026-10-02",
+   "url": "https://x.com/grok/status/2105957466420703499",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Pod strategy: creatives labelled Pod1…Pod26, hosted unlisted on YouTube to build view counts (Pod26 420K views in 3 weeks).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105176364748054721",
+   "file": "2026-09-30-Best_OFPages-2105176364748054721.md",
+   "kind": "curated",
+   "author": "Best_OFPages",
+   "date": "2026-09-30",
+   "url": "https://x.com/Best_OFPages/status/2105176364748054721",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Claim: Smooche (Ooak Brands) runs only AI ads at ~$1M/day (unverified).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089344767293567232",
+   "file": "2026-08-17-thevslguy-2089344767293567232.md",
+   "kind": "curated",
+   "author": "thevslguy",
+   "date": "2026-08-17",
+   "url": "https://x.com/thevslguy/status/2089344767293567232",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Resilia and Lymphoria run the same ad with their own mechanism at the end.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2079246318191403496",
+   "file": "2026-07-20-lorenzo_pravata-2079246318191403496.md",
+   "kind": "curated",
+   "author": "lorenzo_pravata",
+   "date": "2026-07-20",
+   "url": "https://x.com/lorenzo_pravata/status/2079246318191403496",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Resilia ~8,000 ads, \"$10-15M/month\" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2044464896104857850",
+   "file": "2026-04-15-funneloftheweek-2044464896104857850.md",
+   "kind": "curated",
+   "author": "funneloftheweek",
+   "date": "2026-04-15",
+   "url": "https://x.com/funneloftheweek/status/2044464896104857850",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Resilia: 12 persona Pages → one 7-min advertorial (30-50% of traffic), 3-4 copy templates × hundreds of creatives, 544 new ads/30d, OTO flow $30→$83.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2026947587450789980",
+   "file": "2026-02-26-holmisthename-2026947587450789980.md",
+   "kind": "curated",
+   "author": "holmisthename",
+   "date": "2026-02-26",
+   "url": "https://x.com/holmisthename/status/2026947587450789980",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "Top 8-9 fig DR brands printing with AI ads: Norse Organics, Gruns, Kovaria, Serene Herbs, Rosabella, Kind Patches, Happy Mammoth, Primal Queen, Resilia, 40 Plus & Fabulous, Emma, Nooro.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107135814585000273",
+   "file": "2026-10-05-LachezarVoynov-2107135814585000273.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-10-05",
+   "url": "https://x.com/LachezarVoynov/status/2107135814585000273",
+   "eng": "293L/254BM/27kV",
+   "grade": "VALUE",
+   "gist": "Resilia: 26 creative pods x 15 concepts x 3 variations = 1,170 new ads/week.",
+   "thumb": "https://pbs.twimg.com/media/HT4M2f4XcAEipJj.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091181160739328190",
+   "file": "2026-08-22-oliverxmedia-2091181160739328190.md",
+   "kind": "candidate",
+   "author": "oliverxmedia",
+   "date": "2026-08-22",
+   "url": "https://x.com/oliverxmedia/status/2091181160739328190",
+   "eng": "71L/16BM/6kV",
+   "grade": "",
+   "gist": "Arcads is quietly changing how apps get customers. This account was created to sell a weight loss app. Not build a personal brand. Not become an influencer. Just sell. Today it's s",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2091181148638728192/img/_afATeXNDaXD3E2t.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2075560773657694682",
+   "file": "2026-07-10-oliverxmedia-2075560773657694682.md",
+   "kind": "candidate",
+   "author": "oliverxmedia",
+   "date": "2026-07-10",
+   "url": "https://x.com/oliverxmedia/status/2075560773657694682",
+   "eng": "69L/7BM/2kV",
+   "grade": "",
+   "gist": "I genuinely had to do a double take the first time I watched this. If nobody told me it was AI-generated, I would've assumed it was filmed by a real creator. That's how far AI UGC ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2075560711372328960/img/VhKlSa7AvLvvhIaD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078068798314422644",
+   "file": "2026-07-17-SparkifyAI-2078068798314422644.md",
+   "kind": "candidate",
+   "author": "SparkifyAI",
+   "date": "2026-07-17",
+   "url": "https://x.com/SparkifyAI/status/2078068798314422644",
+   "eng": "57L/11BM/5kV",
+   "grade": "",
+   "gist": "Real UGC creators are becoming optional. This video is 100% AI-generated with Arcads. Why spend time sourcing creators, coordinating shoots, and managing revisions when you can gen",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078068780241199104/img/LyNnn7nPm1ABFy91.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092082902595174531",
+   "file": "2026-08-25-SparkifyAI-2092082902595174531.md",
+   "kind": "candidate",
+   "author": "SparkifyAI",
+   "date": "2026-08-25",
+   "url": "https://x.com/SparkifyAI/status/2092082902595174531",
+   "eng": "50L/8BM/4kV",
+   "grade": "",
+   "gist": "Arcads is quietly changing how apps get customers. This account was created to sell a weight loss app. Not build a personal brand. Not become an influencer. Just sell. Today it's s",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092082890180014080/img/X4ZZGI3huAtsqJR_.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080734489529971056",
+   "file": "2026-07-24-mikefutia-2080734489529971056.md",
+   "kind": "candidate",
+   "author": "mikefutia",
+   "date": "2026-07-24",
+   "url": "https://x.com/mikefutia/status/2080734489529971056",
+   "eng": "22L/18BM/4kV",
+   "grade": "",
+   "gist": "I just cracked the code on cloning UGC ads with AI 🤯 One ad that's already converting → 20 different creators delivering the exact same script. New face, new voice, new environment",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2080733823885520896/img/oECxxwFWAmi2oito.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100974379257745877",
+   "file": "2026-09-18-IstvanicMarin-2100974379257745877.md",
+   "kind": "candidate",
+   "author": "IstvanicMarin",
+   "date": "2026-09-18",
+   "url": "https://x.com/IstvanicMarin/status/2100974379257745877",
+   "eng": "22L/14BM/3kV",
+   "grade": "",
+   "gist": "Found a winning script. Instead of writing 10 new ones, gave the exact same script to 10 different creators. Some refused. Some modified it. Six delivered close to the original. Fo",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104873326783140256",
+   "file": "2026-09-29-consumerxai-2104873326783140256.md",
+   "kind": "candidate",
+   "author": "consumerxai",
+   "date": "2026-09-29",
+   "url": "https://x.com/consumerxai/status/2104873326783140256",
+   "eng": "7L/18BM/1kV",
+   "grade": "",
+   "gist": "one script took Potto App to $150K in July \"been shopping at [store] literally for 7 years and I'm JUST NOWWW FINDING THIS????\" meal planner built around your grocery store. launch",
+   "thumb": "https://pbs.twimg.com/media/HTYDIsBb0AAdawX.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082205107194634542",
+   "file": "2026-07-28-Yuvelir_22-2082205107194634542.md",
+   "kind": "candidate",
+   "author": "Yuvelir_22",
+   "date": "2026-07-28",
+   "url": "https://x.com/Yuvelir_22/status/2082205107194634542",
+   "eng": "7L/10BM/4kV",
+   "grade": "",
+   "gist": "This guy built a $64,000/month UGC ad agency using just ONE single photo of himself and a 10-second reference video. No studio lighting, no actor contracts, and zero camera crews. ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082205009370824705/img/WOVk8QpOKDWhYyws.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086178392534360228",
+   "file": "2026-08-08-cookwithmrz-2086178392534360228.md",
+   "kind": "candidate",
+   "author": "cookwithmrz",
+   "date": "2026-08-08",
+   "url": "https://x.com/cookwithmrz/status/2086178392534360228",
+   "eng": "8L/4BM/1kV",
+   "grade": "",
+   "gist": "TEST DIFFERENT FORMATS OF SAME AD! usually that’s the case account fatigues, sales dip, so they rewrite the hook. new opener, new first 3 seconds, same talking-head realism underne",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078513876241465832",
+   "file": "2026-07-18-aminegrows-2078513876241465832.md",
+   "kind": "candidate",
+   "author": "aminegrows",
+   "date": "2026-07-18",
+   "url": "https://x.com/aminegrows/status/2078513876241465832",
+   "eng": "6L/1BM/2kV",
+   "grade": "",
+   "gist": "brands keep cycling through ugc creators looking for 'the one' lol bro the creator barely matters. take one decent creator and test 10 different hooks against each other. that will",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082918789470208150",
+   "file": "2026-07-30-wabilaura-2082918789470208150.md",
+   "kind": "candidate",
+   "author": "wabilaura",
+   "date": "2026-07-30",
+   "url": "https://x.com/wabilaura/status/2082918789470208150",
+   "eng": "2L/3BM/486V",
+   "grade": "",
+   "gist": "Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying it? Here is the breakdown: - ru",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082918196215222272/img/ilTEVFPabbP1EBg7.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083215336971858040",
+   "file": "2026-07-31-wabilaura-2083215336971858040.md",
+   "kind": "candidate",
+   "author": "wabilaura",
+   "date": "2026-07-31",
+   "url": "https://x.com/wabilaura/status/2083215336971858040",
+   "eng": "1L/3BM/450V",
+   "grade": "",
+   "gist": "Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying it? here is the breakdown: - ru",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083215238330204160/img/w1g4TLgEo0FlAQcy.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080622473981391029",
+   "file": "2026-07-24-shhotsAI-2080622473981391029.md",
+   "kind": "candidate",
+   "author": "shhotsAI",
+   "date": "2026-07-24",
+   "url": "https://x.com/shhotsAI/status/2080622473981391029",
+   "eng": "3L/1BM/43V",
+   "grade": "",
+   "gist": "Every AI tool helps you make one ad. I think that's the wrong problem. The real job isn't making an ad. It's finding the one that wins. So we built Shhots AI differently. Upload yo",
+   "thumb": "https://pbs.twimg.com/media/HN_a7bZbsAAyg_-.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086558295108821434",
+   "file": "2026-08-09-joshua_onabor-2086558295108821434.md",
+   "kind": "candidate",
+   "author": "joshua_onabor",
+   "date": "2026-08-09",
+   "url": "https://x.com/joshua_onabor/status/2086558295108821434",
+   "eng": "4L/0BM/700V",
+   "grade": "",
+   "gist": "your agency isn’t losing clients because you need better ad ideas. it’s losing them because your creative pipeline can’t produce those ideas fast enough. because a TikTok Shop clie",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082467046034702738",
+   "file": "2026-07-29-edwardlavinel_-2082467046034702738.md",
+   "kind": "candidate",
+   "author": "edwardlavinel_",
+   "date": "2026-07-29",
+   "url": "https://x.com/edwardlavinel_/status/2082467046034702738",
+   "eng": "4L/0BM/127V",
+   "grade": "",
+   "gist": "Shit. Analyzed 800+ active ads from creatine gummy. one pattern doing all the work. want the beats? Here is the breakdown: - uses a magazine cutout aesthetic to feel earned media -",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082466965436932096/img/s9yNSKlbDP8Yz8_f.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101979074193235979",
+   "file": "2026-09-21-BelaabidiaOmar-2101979074193235979.md",
+   "kind": "candidate",
+   "author": "BelaabidiaOmar",
+   "date": "2026-09-21",
+   "url": "https://x.com/BelaabidiaOmar/status/2101979074193235979",
+   "eng": "4L/0BM/71V",
+   "grade": "",
+   "gist": "Day 62 of 365. Spent the morning reading what everyone in my niche is posting. The number is always volume. 10 creatives a week to 50. 15 concepts a week. 40 variants from one scri",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

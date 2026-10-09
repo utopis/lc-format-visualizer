@@ -1,0 +1,229 @@
+{
+ "id": "F11",
+ "slug": "11-before-after-transformation",
+ "name": "Before → After (static + video), incl. \"Me before / me after\" and Polaroid proof",
+ "title": "11 · Before → After",
+ "n_examples": 12,
+ "n_curated": 3,
+ "n_candidates": 9,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2086842038457098499",
+   "file": "2026-08-10-LachezarVoynov-2086842038457098499.md",
+   "kind": "curated",
+   "author": "LachezarVoynov",
+   "date": "2026-08-10",
+   "url": "https://x.com/LachezarVoynov/status/2086842038457098499",
+   "eng": "396L/1453BM/88kV",
+   "grade": "VALUE",
+   "gist": "29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092961578974896447",
+   "file": "2026-08-27-tryatria_AI-2092961578974896447.md",
+   "kind": "curated",
+   "author": "tryatria_AI",
+   "date": "2026-08-27",
+   "url": "https://x.com/tryatria_AI/status/2092961578974896447",
+   "eng": "107L/147BM/6kV",
+   "grade": "VALUE",
+   "gist": "Before->after ads printing; top 50 swipe (reply-bait for file).",
+   "thumb": "https://pbs.twimg.com/media/HQryuuXWMAAkpMb.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "video",
+    "video",
+    "photo",
+    "photo",
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2078512377616589256",
+   "file": "2026-07-18-antonioventre_-2078512377616589256.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-07-18",
+   "url": "https://x.com/antonioventre_/status/2078512377616589256",
+   "eng": "79L/64BM/5kV",
+   "grade": "VALUE",
+   "gist": "Before/after photos are best native ad image: change creates curiosity; long copy tells story.",
+   "thumb": "https://pbs.twimg.com/media/HNhb_e5W0AAVMv-.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085874661460713583",
+   "file": "2026-08-07-FedotOff90-2085874661460713583.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-08-07",
+   "url": "https://x.com/FedotOff90/status/2085874661460713583",
+   "eng": "138L/247BM/16kV",
+   "grade": "",
+   "gist": "Before and after format fucking prints. Nothing tells the story and shows the results of the product like before/ after image. Got a swipe file (freshly updated) with 200 of these ",
+   "thumb": "https://pbs.twimg.com/media/HPKDzVQawAEoThJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097641383355879452",
+   "file": "2026-09-09-adamtaylorl-2097641383355879452.md",
+   "kind": "candidate",
+   "author": "adamtaylorl",
+   "date": "2026-09-09",
+   "url": "https://x.com/adamtaylorl/status/2097641383355879452",
+   "eng": "139L/203BM/13kV",
+   "grade": "VALUE",
+   "gist": "Tier list of ecom formats: F = AI UGC, street interviews, read scripts; B = founder, testimonial compilations, listicle statics...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102065330906399201",
+   "file": "2026-09-21-codyschneider-2102065330906399201.md",
+   "kind": "candidate",
+   "author": "codyschneider",
+   "date": "2026-09-21",
+   "url": "https://x.com/codyschneider/status/2102065330906399201",
+   "eng": "106L/176BM/8kV",
+   "grade": "",
+   "gist": "Marketing Engineering you can do today before and after static ads for your saas how First use exa ai api to scrape Reddit threads with people talking about their pain points and d",
+   "thumb": "https://pbs.twimg.com/media/HSwJRtPWIAAKJf3.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103088143138193657",
+   "file": "2026-09-24-ChelalaPierre1-2103088143138193657.md",
+   "kind": "candidate",
+   "author": "ChelalaPierre1",
+   "date": "2026-09-24",
+   "url": "https://x.com/ChelalaPierre1/status/2103088143138193657",
+   "eng": "99L/133BM/7kV",
+   "grade": "",
+   "gist": "ranking every type of ecom ad creative format: F TIER: > AI UGC > street interviews > creator clearly reading script C TIER: > lifestyle b-roll with a voiceover > meme ads >tiktoks",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099559565721206890",
+   "file": "2026-09-14-Ecombos_Ai-2099559565721206890.md",
+   "kind": "candidate",
+   "author": "Ecombos_Ai",
+   "date": "2026-09-14",
+   "url": "https://x.com/Ecombos_Ai/status/2099559565721206890",
+   "eng": "46L/80BM/9kV",
+   "grade": "",
+   "gist": "Winning ad formats before AI: - Real UGC testimonials - Product demos - Before/after transformations - Carousels - Static benefit/review ads Winning ad formats now:",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2081726618519601307",
+   "file": "2026-07-27-spwfeijen-2081726618519601307.md",
+   "kind": "candidate",
+   "author": "spwfeijen",
+   "date": "2026-07-27",
+   "url": "https://x.com/spwfeijen/status/2081726618519601307",
+   "eng": "73L/65BM/6kV",
+   "grade": "",
+   "gist": "Before/after content used to take months to shoot. Now it's one prompt. Same person, two states — before and after — generated entirely with AI. No real transformation, no waiting,",
+   "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2081726588371046400/pu/img/JsuyH7WjPXvcpUKS.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107157131010965744",
+   "file": "2026-10-05-Ecombos_Ai-2107157131010965744.md",
+   "kind": "candidate",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-05",
+   "url": "https://x.com/Ecombos_Ai/status/2107157131010965744",
+   "eng": "22L/14BM/793V",
+   "grade": "SOME",
+   "gist": "AI ecom format tiers: S = AI animation, AI singing, AI native statics → advertorial; A = AI before/after, AI podcast, talking product; F = AI avatar reading script, AI street interviews.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098023978845478929",
+   "file": "2026-09-10-ecombreaker-2098023978845478929.md",
+   "kind": "candidate",
+   "author": "ecombreaker",
+   "date": "2026-09-10",
+   "url": "https://x.com/ecombreaker/status/2098023978845478929",
+   "eng": "5L/7BM/881V",
+   "grade": "",
+   "gist": "ranking every creative ad format (meta): F TIER: > Street interviews C TIER: > Meme ads > Podcast-style ads B TIER: > Founder ads > Before & after statics > Listicle statics A TIER",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085052792423453145",
+   "file": "2026-08-05-naturallyshan-2085052792423453145.md",
+   "kind": "candidate",
+   "author": "naturallyshan",
+   "date": "2026-08-05",
+   "url": "https://x.com/naturallyshan/status/2085052792423453145",
+   "eng": "6L/0BM/262V",
+   "grade": "",
+   "gist": "A before/after mixed with a testimonial format that performed well for a hair care client!👱‍♀️🚿 For beauty concepts, I like to show: - the payoff - how to product makes me feel mor",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2085052736572129280/img/OfPgnh0JK2TADd0X.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

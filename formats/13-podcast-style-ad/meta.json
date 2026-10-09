@@ -1,0 +1,230 @@
+{
+ "id": "F13",
+ "slug": "13-podcast-style-ad",
+ "name": "Podcast-style ad (two mics, conversation clip)",
+ "title": "13 · Podcast-style ad",
+ "n_examples": 12,
+ "n_curated": 4,
+ "n_candidates": 8,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2104536224488738839",
+   "file": "2026-09-28-lorenzo_pravata-2104536224488738839.md",
+   "kind": "curated",
+   "author": "lorenzo_pravata",
+   "date": "2026-09-28",
+   "url": "https://x.com/lorenzo_pravata/status/2104536224488738839",
+   "eng": "150L/196BM/10kV",
+   "grade": "VALUE",
+   "gist": "\"Ads that don't look like ads\": podcast clips, street interviews, skits with studio actors; pet brand $29K→$150K/mo spend in 60 days, CPA $188→$124.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096569603761827953",
+   "file": "2026-09-06-CEO_Vlad-2096569603761827953.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-09-06",
+   "url": "https://x.com/CEO_Vlad/status/2096569603761827953",
+   "eng": "88L/169BM/5kV",
+   "grade": "VALUE",
+   "gist": "AI UGC formats tiered: S = podcast, talking head, in-car...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097351286094021034",
+   "file": "2026-09-08-LachezarVoynov-2097351286094021034.md",
+   "kind": "curated",
+   "author": "LachezarVoynov",
+   "date": "2026-09-08",
+   "url": "https://x.com/LachezarVoynov/status/2097351286094021034",
+   "eng": "86L/102BM/10kV",
+   "grade": "VALUE",
+   "gist": "$300k/mo strategy: wrappers that became top spenders = skits, carpool ads, Suno songs, AI Pixar-character podcasts; hooks must target different people.",
+   "thumb": "https://pbs.twimg.com/media/HRtJ4IxWsAA53Lh.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097763972325745046",
+   "file": "2026-09-09-tryatria_AI-2097763972325745046.md",
+   "kind": "curated",
+   "author": "tryatria_AI",
+   "date": "2026-09-09",
+   "url": "https://x.com/tryatria_AI/status/2097763972325745046",
+   "eng": "62L/74BM/3kV",
+   "grade": "VALUE",
+   "gist": "Heights podcast ads: don't feel like ads, underrated performance format.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097703692212559872/img/kkFqp32GfG_T_lGp.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106401392374186396",
+   "file": "2026-10-03-FedotOff90-2106401392374186396.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-10-03",
+   "url": "https://x.com/FedotOff90/status/2106401392374186396",
+   "eng": "103L/205BM/8kV",
+   "grade": "VALUE",
+   "gist": "5 AI formats scaling: AI podcast (280 days live), AI UGC, AI doctor avatar, AI listicle, AI animation (claymation/CGI).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106400932410150912/img/zGPPTQ7y809dVB3R.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2089291503919087933",
+   "file": "2026-08-17-HenryCrochemore-2089291503919087933.md",
+   "kind": "candidate",
+   "author": "HenryCrochemore",
+   "date": "2026-08-17",
+   "url": "https://x.com/HenryCrochemore/status/2089291503919087933",
+   "eng": "44L/55BM/4kV",
+   "grade": "",
+   "gist": "ai podcast ads might be one of the easiest ways to make ugc feel native again instead of generating another creator holding a product put them behind a microphone the format instan",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2089291439918268416/img/qXdEhAZFOsH30J5P.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2081473127985582384",
+   "file": "2026-07-26-CEO_Vlad-2081473127985582384.md",
+   "kind": "candidate",
+   "author": "CEO_Vlad",
+   "date": "2026-07-26",
+   "url": "https://x.com/CEO_Vlad/status/2081473127985582384",
+   "eng": "16L/19BM/4kV",
+   "grade": "",
+   "gist": "take AI podcast ads like this and go run them in latin america... barely anyone is running the podcast format in spanish, so the feed there hasn't seen it a thousand times over the",
+   "thumb": "https://pbs.twimg.com/media/HOJEFmDX0AAU5Nd.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107157131010965744",
+   "file": "2026-10-05-Ecombos_Ai-2107157131010965744.md",
+   "kind": "candidate",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-05",
+   "url": "https://x.com/Ecombos_Ai/status/2107157131010965744",
+   "eng": "22L/14BM/793V",
+   "grade": "SOME",
+   "gist": "AI ecom format tiers: S = AI animation, AI singing, AI native statics → advertorial; A = AI before/after, AI podcast, talking product; F = AI avatar reading script, AI street interviews.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083948390451478537",
+   "file": "2026-08-02-FedotOff90-2083948390451478537.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-08-02",
+   "url": "https://x.com/FedotOff90/status/2083948390451478537",
+   "eng": "5L/17BM/5kV",
+   "grade": "",
+   "gist": "100%. If done right, podcast ads print, been crushing for us recently. Got this swipe file of 150+ podcast ad bangers. Get it here: https://t.co/w9IGxMGs5i https://t.co/LOKGUwsR9u ",
+   "thumb": "https://pbs.twimg.com/media/HOusBEIaMAEKs-K.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079061186008760542",
+   "file": "2026-07-20-itsLORDROY-2079061186008760542.md",
+   "kind": "candidate",
+   "author": "itsLORDROY",
+   "date": "2026-07-20",
+   "url": "https://x.com/itsLORDROY/status/2079061186008760542",
+   "eng": "3L/0BM/3kV",
+   "grade": "",
+   "gist": "Podcast ads are entering a new era. The most impressive part isn't that this is AI generated. It's that this entire podcast ad was made inside Claude with the eComrads MCP. From th",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083709698059206725",
+   "file": "2026-08-02-adreads_ai-2083709698059206725.md",
+   "kind": "candidate",
+   "author": "adreads_ai",
+   "date": "2026-08-02",
+   "url": "https://x.com/adreads_ai/status/2083709698059206725",
+   "eng": "3L/0BM/17V",
+   "grade": "",
+   "gist": "Podcast ads data for August 1 320 new podcast ad reads across 183 sponsors and 56 shows 187 announcer read, 123 host read Most active sponsors: @ShaneCompany, @CapitalOne, @Progres",
+   "thumb": "https://pbs.twimg.com/media/HOrSyeHb0AABwj9.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

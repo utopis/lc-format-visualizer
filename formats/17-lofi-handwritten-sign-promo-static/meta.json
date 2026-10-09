@@ -1,0 +1,224 @@
+{
+ "id": "F17",
+ "slug": "17-lofi-handwritten-sign-promo-static",
+ "name": "Lo-fi promo statics (handwritten sign + 24 BFCM variants)",
+ "title": "17 · Lo-fi promo statics",
+ "n_examples": 12,
+ "n_curated": 1,
+ "n_candidates": 11,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "in progress"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2106021392567198020",
+   "file": "2026-10-02-adamtaylorl-2106021392567198020.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-10-02",
+   "url": "https://x.com/adamtaylorl/status/2106021392567198020",
+   "eng": "57L/112BM/6kV",
+   "grade": "VALUE",
+   "gist": "25 BFCM static ads incl. The Handwritten Sign.",
+   "thumb": "https://pbs.twimg.com/media/HTnM0DdWQAAGLpi.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106771287096119428",
+   "file": "2026-10-04-thekaipullai-2106771287096119428.md",
+   "kind": "candidate",
+   "author": "thekaipullai",
+   "date": "2026-10-04",
+   "url": "https://x.com/thekaipullai/status/2106771287096119428",
+   "eng": "373L/4BM/24kV",
+   "grade": "",
+   "gist": "What's the point of all these record profits when it was the worst broadcasted sporting event anyone has ever seen. Never in my life I have seen a sporting channel Breaking into Ad",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099548690360721815",
+   "file": "2026-09-14-Tonystakkz-2099548690360721815.md",
+   "kind": "candidate",
+   "author": "Tonystakkz",
+   "date": "2026-09-14",
+   "url": "https://x.com/Tonystakkz/status/2099548690360721815",
+   "eng": "132L/106BM/13kV",
+   "grade": "",
+   "gist": "This is why Shaun for me is top 5 copywriter in 2026. He understands how copywriting in the modern world works. Abraham Lincoln said something very similar: \"Give me six hours to c",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077730930785980720",
+   "file": "2026-07-16-binghott-2077730930785980720.md",
+   "kind": "candidate",
+   "author": "binghott",
+   "date": "2026-07-16",
+   "url": "https://x.com/binghott/status/2077730930785980720",
+   "eng": "133L/57BM/20kV",
+   "grade": "",
+   "gist": "We might be cooked Go to your best image ad in Ads Manager and check Meta's AI generated image options. I found a handwritten Post-It note ad in it. And it wasn't terrible...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098414761578811635",
+   "file": "2026-09-11-tryatria_AI-2098414761578811635.md",
+   "kind": "candidate",
+   "author": "tryatria_AI",
+   "date": "2026-09-11",
+   "url": "https://x.com/tryatria_AI/status/2098414761578811635",
+   "eng": "72L/93BM/3kV",
+   "grade": "",
+   "gist": "HANDWRITTEN ADS SHOULDN’T WORK THIS WELL. BUT THEY DO. 👀 Handwritten notes. Whiteboards. Crude drawings. Marker scribbles. They look almost too simple compared to the polished crea",
+   "thumb": "https://pbs.twimg.com/media/HR8RGKUWwAAAwCq.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2089448804676239424",
+   "file": "2026-08-17-Simon__Rob-2089448804676239424.md",
+   "kind": "candidate",
+   "author": "Simon__Rob",
+   "date": "2026-08-17",
+   "url": "https://x.com/Simon__Rob/status/2089448804676239424",
+   "eng": "51L/79BM/5kV",
+   "grade": "",
+   "gist": "this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats convince warm traffic - offer ad",
+   "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2089448627156484096/pu/img/gxQdEhVpZimXOfqi.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2077403948370067675",
+   "file": "2026-07-15-stnkvcs-2077403948370067675.md",
+   "kind": "candidate",
+   "author": "stnkvcs",
+   "date": "2026-07-15",
+   "url": "https://x.com/stnkvcs/status/2077403948370067675",
+   "eng": "31L/48BM/3kV",
+   "grade": "",
+   "gist": "I've been ranting a lot about native ads lately. I love 'em. But while they do tickle the algo (and my fancy) in just the right way, \"native\" is just a way of presentation. It's th",
+   "thumb": "https://pbs.twimg.com/media/HNRrl0_WkAAa2UN.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105897021328757090",
+   "file": "2026-10-02-dileshumale-2105897021328757090.md",
+   "kind": "candidate",
+   "author": "dileshumale",
+   "date": "2026-10-02",
+   "url": "https://x.com/dileshumale/status/2105897021328757090",
+   "eng": "10L/3BM/775V",
+   "grade": "",
+   "gist": "Animate those ugly static ads. Thank me later.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098059922734985553",
+   "file": "2026-09-10-venom_vardhan-2098059922734985553.md",
+   "kind": "candidate",
+   "author": "venom_vardhan",
+   "date": "2026-09-10",
+   "url": "https://x.com/venom_vardhan/status/2098059922734985553",
+   "eng": "10L/3BM/478V",
+   "grade": "",
+   "gist": "Here are the static ad formats that are printing for us: 1. Bold headline + benefits Simple, direct and easy to understand in one glance. 2. Post-It Note sticky notes slapped on a ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100642439346442517",
+   "file": "2026-09-17-tryatria_AI-2100642439346442517.md",
+   "kind": "candidate",
+   "author": "tryatria_AI",
+   "date": "2026-09-17",
+   "url": "https://x.com/tryatria_AI/status/2100642439346442517",
+   "eng": "6L/2BM/709V",
+   "grade": "",
+   "gist": "The best performing ad isn’t always the “best” ad. Sometimes it’s the weird one. The ugly static. The random hook. The ad that looks like it was made in 20 minutes. Stop trying to ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108136342282478038",
+   "file": "2026-10-08-HenryCrochemore-2108136342282478038.md",
+   "kind": "candidate",
+   "author": "HenryCrochemore",
+   "date": "2026-10-08",
+   "url": "https://x.com/HenryCrochemore/status/2108136342282478038",
+   "eng": "5L/2BM/290V",
+   "grade": "",
+   "gist": "i went through a bunch of ecommerce ads and noticed the same thing the winners usually aren’t “better designed” they’re just packaged in formats people don’t instantly read as ads ",
+   "thumb": "https://pbs.twimg.com/media/HUGa0_cWcAALqA-.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093080064321835033",
+   "file": "2026-08-27-viragkovarii-2093080064321835033.md",
+   "kind": "candidate",
+   "author": "viragkovarii",
+   "date": "2026-08-27",
+   "url": "https://x.com/viragkovarii/status/2093080064321835033",
+   "eng": "5L/0BM/312V",
+   "grade": "",
+   "gist": "my experience in health (specifically the joint pain niche) taught me one thing: selling to older audiences will humble your creative strategy real quick. you can spend hours build",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

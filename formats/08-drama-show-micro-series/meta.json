@@ -1,0 +1,286 @@
+{
+ "id": "F08",
+ "slug": "08-drama-show-micro-series",
+ "name": "Drama \"show\" micro-series (product as a prop, entertainment first)",
+ "title": "08 · Drama show micro-series",
+ "n_examples": 15,
+ "n_curated": 5,
+ "n_candidates": 9,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2099815494434099379",
+   "file": "2026-09-15-adamtaylorl-2099815494434099379.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-09-15",
+   "url": "https://x.com/adamtaylorl/status/2099815494434099379",
+   "eng": "381L/593BM/77kV",
+   "grade": "VALUE",
+   "gist": "Resilia mastered storytelling ads -> $100M/yr.",
+   "thumb": "https://pbs.twimg.com/media/HSPeTl-XMAAhFcy.png",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2106833649970684195",
+   "file": "2026-10-04-frankyecom-2106833649970684195.md",
+   "kind": "curated",
+   "author": "frankyecom",
+   "date": "2026-10-04",
+   "url": "https://x.com/frankyecom/status/2106833649970684195",
+   "eng": "281L/437BM/66kV",
+   "grade": "VALUE",
+   "gist": "Women want shows: characters, drama, payoff; build entertainment first, slot product in.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106833208167780353/img/CAgEEzmLQ-O0lfuP.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2105377535345258584",
+   "file": "2026-09-30-frankyecom-2105377535345258584.md",
+   "kind": "curated",
+   "author": "frankyecom",
+   "date": "2026-09-30",
+   "url": "https://x.com/frankyecom/status/2105377535345258584",
+   "eng": "344L/248BM/54kV",
+   "grade": "VALUE",
+   "gist": "AI UGC dominating; women consume ads differently (story/drama) - creative strategist takeaway.",
+   "thumb": "https://pbs.twimg.com/media/HTfNgilWoAACZoz.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2108308896813326775",
+   "file": "2026-10-08-frankyecom-2108308896813326775.md",
+   "kind": "curated",
+   "author": "frankyecom",
+   "date": "2026-10-08",
+   "url": "https://x.com/frankyecom/status/2108308896813326775",
+   "eng": "206L/182BM/11kV",
+   "grade": "VALUE",
+   "gist": "Best drama ads let viewer see the version of herself she wants to become.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108308739413389312/img/bKSlUJgbOLFUpIB7.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2105732607208026318",
+   "file": "2026-10-01-frankyecom-2105732607208026318.md",
+   "kind": "curated",
+   "author": "frankyecom",
+   "date": "2026-10-01",
+   "url": "https://x.com/frankyecom/status/2105732607208026318",
+   "eng": "215L/116BM/22kV",
+   "grade": "SOME",
+   "gist": "Cinematic realistic AI ads in scrutinized categories (GLP).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105732489998159872/img/qKxL1M_J6mYaMfBj.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104589798208065796",
+   "file": "2026-09-28-0xROAS-2104589798208065796.md",
+   "kind": "cited",
+   "author": "0xROAS",
+   "date": "2026-09-28",
+   "url": "https://x.com/0xROAS/status/2104589798208065796",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "100% AI drama ad (Seedance): turn the winning ad into a 2-3 min story; Resilia hooks: cheating husband/wife, compared to another girl.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2101227353330549004",
+   "file": "2026-09-19-FedotOff90-2101227353330549004.md",
+   "kind": "candidate",
+   "author": "FedotOff90",
+   "date": "2026-09-19",
+   "url": "https://x.com/FedotOff90/status/2101227353330549004",
+   "eng": "111L/267BM/20kV",
+   "grade": "",
+   "gist": "DRAMA ads already print rn. Borrow the structure, embed the transition to your product in the structure, model the visual structure, print. Swipe file with 321 banger drama ads: ht",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101225887119323137/img/NQ8KcbTFsc0tta9U.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108240933435400432",
+   "file": "2026-10-08-Ecombos_Ai-2108240933435400432.md",
+   "kind": "candidate",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-08",
+   "url": "https://x.com/Ecombos_Ai/status/2108240933435400432",
+   "eng": "147L/205BM/8kV",
+   "grade": "",
+   "gist": "AI drama ads are the next BIG thing printing for brands right now. They don't look like ads. They play like a drama episode, and people stay to see how it ends. Both clips below we",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108240889856610304/img/KVVEz9J40gJ3XRgN.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107259289224053025",
+   "file": "2026-10-05-thankyouecom-2107259289224053025.md",
+   "kind": "candidate",
+   "author": "thankyouecom",
+   "date": "2026-10-05",
+   "url": "https://x.com/thankyouecom/status/2107259289224053025",
+   "eng": "64L/56BM/7kV",
+   "grade": "",
+   "gist": "If you're not running drama ads you are missing tf out Took one of our top historical winners and converted the concept to drama format Used manus to write script based off of a wi",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102176819709673703",
+   "file": "2026-09-21-zedmadeit-2102176819709673703.md",
+   "kind": "candidate",
+   "author": "zedmadeit",
+   "date": "2026-09-21",
+   "url": "https://x.com/zedmadeit/status/2102176819709673703",
+   "eng": "27L/61BM/3kV",
+   "grade": "",
+   "gist": "heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that actually converts into sales its",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102176626054213632/img/UTzZpPT-zzjABq3a.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098373776828256595",
+   "file": "2026-09-11-JUSTCHAEL_-2098373776828256595.md",
+   "kind": "candidate",
+   "author": "JUSTCHAEL_",
+   "date": "2026-09-11",
+   "url": "https://x.com/JUSTCHAEL_/status/2098373776828256595",
+   "eng": "61L/16BM/2kV",
+   "grade": "",
+   "gist": "Enjoy this short drama ad I created for Outlash, featuring their Curt Purse. @outlashbrand AI can create story-driven ads, not just pretty visuals. If you’re looking to advertise y",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098373566848708611/img/qDG48It728l5dO7y.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108195582607081720",
+   "file": "2026-10-08-david_attisaas-2108195582607081720.md",
+   "kind": "candidate",
+   "author": "david_attisaas",
+   "date": "2026-10-08",
+   "url": "https://x.com/david_attisaas/status/2108195582607081720",
+   "eng": "4L/6BM/708V",
+   "grade": "",
+   "gist": "I'm running short drama ads for a few apps right now, and every one of them started as a copy of something a dropshipper ran first. I went looking after the talking-head ugc one of",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108195050865790976/img/rHyBcZFBVj5BMAkE.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108255353016406383",
+   "file": "2026-10-08-ViralOps_-2108255353016406383.md",
+   "kind": "candidate",
+   "author": "ViralOps_",
+   "date": "2026-10-08",
+   "url": "https://x.com/ViralOps_/status/2108255353016406383",
+   "eng": "4L/5BM/579V",
+   "grade": "",
+   "gist": "Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could be one of the BIGGEST advertis",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108201045163913216/img/zQXGBRxH9Inir7N1.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107534573773136189",
+   "file": "2026-10-06-spect3ral-2107534573773136189.md",
+   "kind": "candidate",
+   "author": "spect3ral",
+   "date": "2026-10-06",
+   "url": "https://x.com/spect3ral/status/2107534573773136189",
+   "eng": "5L/3BM/534V",
+   "grade": "",
+   "gist": "This ad doesn't show the product for 90 seconds. That's exactly why it sells. These Drama ads are PRINTING. Here's the whole thing. 0:00 — A conference room. Every eye on her. The ",
+   "thumb": "https://pbs.twimg.com/media/HT93hAxXIAAMSBg.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101705439565979947",
+   "file": "2026-09-20-SGradon-2101705439565979947.md",
+   "kind": "candidate",
+   "author": "SGradon",
+   "date": "2026-09-20",
+   "url": "https://x.com/SGradon/status/2101705439565979947",
+   "eng": "5L/2BM/2kV",
+   "grade": "",
+   "gist": "In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here's the unlock nobody's using St",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101705372201279489/img/EbPwObTvHKFI79D0.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

@@ -1,0 +1,438 @@
+{
+ "id": "F91",
+ "slug": "91-ai-melodrama-mini-movie",
+ "name": "AI melodrama mini-movie (2-10 min soap opera, humiliation → mentor → vindication, product after the midpoint)",
+ "title": "91 · AI melodrama mini-movie (2-10 min soap opera, humiliation → mentor → vindication, product after the midpoint)",
+ "n_examples": 26,
+ "n_curated": 7,
+ "n_candidates": 18,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2094662259746480410",
+   "file": "2026-09-01-briannjho-2094662259746480410.md",
+   "kind": "curated",
+   "author": "briannjho",
+   "date": "2026-09-01",
+   "url": "https://x.com/briannjho/status/2094662259746480410",
+   "eng": "138L/338BM/10kV",
+   "grade": "SOME",
+   "gist": "Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear \"this is what happens\".",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107808445508321597",
+   "file": "2026-10-07-TheIvanKreimer-2107808445508321597.md",
+   "kind": "curated",
+   "author": "TheIvanKreimer",
+   "date": "2026-10-07",
+   "url": "https://x.com/TheIvanKreimer/status/2107808445508321597",
+   "eng": "1L/0BM/62V",
+   "grade": "VALUE",
+   "gist": "Smooche AI melodrama: ID-photo clerk scene, product at 1:54; retention: 90-95% drop before product. Try only if short DR saturated.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107808237755990016/img/BIoYmNCtCqkiU0fM.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104589798208065796",
+   "file": "2026-09-28-0xROAS-2104589798208065796.md",
+   "kind": "curated",
+   "author": "0xROAS",
+   "date": "2026-09-28",
+   "url": "https://x.com/0xROAS/status/2104589798208065796",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "100% AI drama ad (Seedance): turn the winning ad into a 2-3 min story; Resilia hooks: cheating husband/wife, compared to another girl.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2103047669556166886",
+   "file": "2026-09-24-EcomSapo-2103047669556166886.md",
+   "kind": "curated",
+   "author": "EcomSapo",
+   "date": "2026-09-24",
+   "url": "https://x.com/EcomSapo/status/2103047669556166886",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Smooche top ad of 1,600+: \"At 63 I ran into my ex at Walmart\" + Seoul colleague, 5:37; Atria #1 of 721, 70d. \"Resilia blueprint works for skincare.\"",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2101315284753629664",
+   "file": "2026-09-19-CSRIPPER-2101315284753629664.md",
+   "kind": "curated",
+   "author": "CSRIPPER",
+   "date": "2026-09-19",
+   "url": "https://x.com/CSRIPPER/status/2101315284753629664",
+   "eng": "0L/0BM/0V",
+   "grade": "SOME",
+   "gist": "\"10 minute movie ad with a Japanese/Swiss authority\": Resilia, Lymphoria all run them.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100264709672849475",
+   "file": "2026-09-16-alexgoughcooper-2100264709672849475.md",
+   "kind": "curated",
+   "author": "alexgoughcooper",
+   "date": "2026-09-16",
+   "url": "https://x.com/alexgoughcooper/status/2100264709672849475",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "12+ ad libraries for storytelling AI animation ads: Quasi, Resilia, Ankhway, Lymphoria, Koriderm, Nebula, Rise, Liven, Moongrade, BioRoot, Cosmetic Times (Smooche), Tradesman.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099891350015512903",
+   "file": "2026-09-15-Salifsibane16-2099891350015512903.md",
+   "kind": "curated",
+   "author": "Salifsibane16",
+   "date": "2026-09-15",
+   "url": "https://x.com/Salifsibane16/status/2099891350015512903",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "3 AI song-ad story frameworks: bumping into ex (start at end), week-by-week timeline, cheating → self-improvement.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2105288429873528875",
+   "file": "2026-09-30-EcomSapo-2105288429873528875.md",
+   "kind": "cited",
+   "author": "EcomSapo",
+   "date": "2026-09-30",
+   "url": "https://x.com/EcomSapo/status/2105288429873528875",
+   "eng": "157L/218BM/24kV",
+   "grade": "VALUE",
+   "gist": "Smooche ($22M/mo skincare) uses singing ads as acquisition weapon.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105288291746721792/img/M9AR-aiOVL1oayeJ.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104599048493666326",
+   "file": "2026-09-28-LachezarVoynov-2104599048493666326.md",
+   "kind": "candidate",
+   "author": "LachezarVoynov",
+   "date": "2026-09-28",
+   "url": "https://x.com/LachezarVoynov/status/2104599048493666326",
+   "eng": "169L/719BM/26kV",
+   "grade": "",
+   "gist": "14 Top-of-funnel AI video ads you need to test on Meta: 1. AI Skits: https://t.co/qHBs7rvzUU 2. AI Whistleblower: https://t.co/TeYvs3gg3z 3. Celebrity ads: https://t.co/GAO22DjHr4 ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100612079891755286",
+   "file": "2026-09-17-tryatria_AI-2100612079891755286.md",
+   "kind": "candidate",
+   "author": "tryatria_AI",
+   "date": "2026-09-17",
+   "url": "https://x.com/tryatria_AI/status/2100612079891755286",
+   "eng": "116L/226BM/11kV",
+   "grade": "",
+   "gist": "AI ANIMATED STORYTELLING ADS SHOULDN’T WORK THIS WELL. BUT THEY DO. 👀 Cartoon characters. Dramatic storylines. Pixar-style animation. Ridiculous plot twists. They look almost too e",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100611916238336000/img/RXPa7cQF_HmjtSLT.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107188290264740348",
+   "file": "2026-10-05-0xROAS-2107188290264740348.md",
+   "kind": "candidate",
+   "author": "0xROAS",
+   "date": "2026-10-05",
+   "url": "https://x.com/0xROAS/status/2107188290264740348",
+   "eng": "104L/139BM/9kV",
+   "grade": "",
+   "gist": "100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here’s how to make sure your dramas hit: - start with a very aggressive hook - make a plot twist - add ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107188258639642624/img/ePsp33GYPcvEqtkD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106887585645932750",
+   "file": "2026-10-04-mikefutia-2106887585645932750.md",
+   "kind": "candidate",
+   "author": "mikefutia",
+   "date": "2026-10-04",
+   "url": "https://x.com/mikefutia/status/2106887585645932750",
+   "eng": "57L/88BM/14kV",
+   "grade": "",
+   "gist": "We cracked the code on automated AI drama song ads. This Resilia-style ad was 90% automated in ScaleBot, end-to-end. No more manually prompting back-and-forth with Claude... No mor",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106885711370571777/img/nMqNjcmTugc5C9ZV.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108000171598741894",
+   "file": "2026-10-08-thankyouecom-2108000171598741894.md",
+   "kind": "candidate",
+   "author": "thankyouecom",
+   "date": "2026-10-08",
+   "url": "https://x.com/thankyouecom/status/2108000171598741894",
+   "eng": "63L/72BM/7kV",
+   "grade": "",
+   "gist": "🚨 HIRING AI VIDEO EDITORS 🚨 We're looking for talented AI video editors who can create AI DRAMA ADS for a fast-scaling eCommerce brand Specifically looking for editors who can prod",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100587035786715295",
+   "file": "2026-09-17-whotanish-2100587035786715295.md",
+   "kind": "candidate",
+   "author": "whotanish",
+   "date": "2026-09-17",
+   "url": "https://x.com/whotanish/status/2100587035786715295",
+   "eng": "25L/31BM/2kV",
+   "grade": "",
+   "gist": "All the big brands have already catching up too the AI drama ads . users have organically have been watching the micro dramas for really long It has become cost effective now to cr",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100586596290695168/img/wgcij9oRag_oMjj5.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2099444775514492992",
+   "file": "2026-09-14-ecombreaker-2099444775514492992.md",
+   "kind": "candidate",
+   "author": "ecombreaker",
+   "date": "2026-09-14",
+   "url": "https://x.com/ecombreaker/status/2099444775514492992",
+   "eng": "49L/18BM/3kV",
+   "grade": "",
+   "gist": "Hiring an AI Ads editor for an 8 figure ecom brand. $3,000/m retainer What I need: – you've edited for ecom brands before (big ones) – you already know what's hitting right now: so",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108005923343995097",
+   "file": "2026-10-08-unknownpsyop-2108005923343995097.md",
+   "kind": "candidate",
+   "author": "unknownpsyop",
+   "date": "2026-10-08",
+   "url": "https://x.com/unknownpsyop/status/2108005923343995097",
+   "eng": "34L/13BM/3kV",
+   "grade": "",
+   "gist": "🚨 HIRING AI VIDEO EDITORS 🚨 We're looking for talented AI video editors who can create AI DRAMA ADS for a fast-scaling eCommerce brand Specifically looking for editors who can prod",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101990638312886482",
+   "file": "2026-09-21-reon_gould-2101990638312886482.md",
+   "kind": "candidate",
+   "author": "reon_gould",
+   "date": "2026-09-21",
+   "url": "https://x.com/reon_gould/status/2101990638312886482",
+   "eng": "28L/14BM/2kV",
+   "grade": "",
+   "gist": "🚨HIRING: Video Editor for high scaling Ecommerce Brand Role: - Editing & creating high converting vsl style ai ecommerce ads from scratch (scripts and ideology provided) MUST HAVE:",
+   "thumb": "https://pbs.twimg.com/media/HSvFVyWbYAAfpmx.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102786895122178399",
+   "file": "2026-09-23-greyvese-2102786895122178399.md",
+   "kind": "candidate",
+   "author": "greyvese",
+   "date": "2026-09-23",
+   "url": "https://x.com/greyvese/status/2102786895122178399",
+   "eng": "43L/0BM/926V",
+   "grade": "",
+   "gist": "i created this ai movie-ad video this morning, and it took me around 6 hrs the song inspired me before that, i was stuck for days creating ai ads/movies is the hardest task in my u",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092810457690308949",
+   "file": "2026-08-27-ViduAI_official-2092810457690308949.md",
+   "kind": "candidate",
+   "author": "ViduAI_official",
+   "date": "2026-08-27",
+   "url": "https://x.com/ViduAI_official/status/2092810457690308949",
+   "eng": "28L/3BM/2kV",
+   "grade": "",
+   "gist": "AI video has been stuck in \"prototype mode\" for years. The Q3 Mix changes that: 🏷️ Ads: lip-synced testimonials + 15s one-take brand films 🎬 AI Drama: locked characters + real perf",
+   "thumb": "https://pbs.twimg.com/media/HQsn-Q2awAE4yWg.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2094300084955746761",
+   "file": "2026-08-31-ViduAI_official-2094300084955746761.md",
+   "kind": "candidate",
+   "author": "ViduAI_official",
+   "date": "2026-08-31",
+   "url": "https://x.com/ViduAI_official/status/2094300084955746761",
+   "eng": "21L/6BM/2kV",
+   "grade": "",
+   "gist": "What the Q3 Mix actually lets you build: 🏷️ Ads: lip-synced testimonials + 15s one-take brand films + consistent mascots 🎬 AI Drama: episode-length content + locked cast + real per",
+   "thumb": "https://pbs.twimg.com/media/HRByzRVbgAADDah.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108255353016406383",
+   "file": "2026-10-08-ViralOps_-2108255353016406383.md",
+   "kind": "candidate",
+   "author": "ViralOps_",
+   "date": "2026-10-08",
+   "url": "https://x.com/ViralOps_/status/2108255353016406383",
+   "eng": "4L/5BM/579V",
+   "grade": "",
+   "gist": "Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could be one of the BIGGEST advertis",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108201045163913216/img/zQXGBRxH9Inir7N1.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108191928923881782",
+   "file": "2026-10-08-AdamKPx-2108191928923881782.md",
+   "kind": "candidate",
+   "author": "AdamKPx",
+   "date": "2026-10-08",
+   "url": "https://x.com/AdamKPx/status/2108191928923881782",
+   "eng": "11L/1BM/276V",
+   "grade": "",
+   "gist": "AI Drama Ads are crushing it right now. And Arcads makes them ridiculously easy to create. People don’t want to watch ads. They want stories. Characters. Tension. Emotion. A payoff",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108191728595337216/img/Bb-ZWjU_m6wFCMGl.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101705439565979947",
+   "file": "2026-09-20-SGradon-2101705439565979947.md",
+   "kind": "candidate",
+   "author": "SGradon",
+   "date": "2026-09-20",
+   "url": "https://x.com/SGradon/status/2101705439565979947",
+   "eng": "5L/2BM/2kV",
+   "grade": "",
+   "gist": "In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here's the unlock nobody's using St",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101705372201279489/img/EbPwObTvHKFI79D0.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098412272561324084",
+   "file": "2026-09-11-DalyDee___-2098412272561324084.md",
+   "kind": "candidate",
+   "author": "DalyDee___",
+   "date": "2026-09-11",
+   "url": "https://x.com/DalyDee___/status/2098412272561324084",
+   "eng": "7L/1BM/529V",
+   "grade": "",
+   "gist": "Finally, I’ve been cracking the code with AI ads. Been testing different formats, hooks and styles for months. AI UGC AI animations Mini movie-style ads Product-focused creatives S",
+   "thumb": "https://pbs.twimg.com/media/HR8O1OeWQAgZaJl.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104813573960552741",
+   "file": "2026-09-29-OleBakel-2104813573960552741.md",
+   "kind": "candidate",
+   "author": "OleBakel",
+   "date": "2026-09-29",
+   "url": "https://x.com/OleBakel/status/2104813573960552741",
+   "eng": "7L/1BM/309V",
+   "grade": "",
+   "gist": "🎬 HIRING SKINCARE BRAND VIDEO EDITORS Monthly Pay + Bonus We're looking for: High quality AI Drama ads, Long form animations with suno songs. Tools provided. DM me your portfolio. ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108145122517168429",
+   "file": "2026-10-08-FedericoS18132-2108145122517168429.md",
+   "kind": "candidate",
+   "author": "FedericoS18132",
+   "date": "2026-10-08",
+   "url": "https://x.com/FedericoS18132/status/2108145122517168429",
+   "eng": "5L/1BM/182V",
+   "grade": "",
+   "gist": "🚨 HIRING AI VIDEO EDITORS 🚨 8-figure eCom brand looking for editors to produce high-volume AI Drama / Movie-Style Ads. Apply ONLY if you've made great ones before. Seedance 2.5 exp",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

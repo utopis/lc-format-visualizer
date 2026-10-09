@@ -1,0 +1,165 @@
+{
+ "id": "F41",
+ "slug": "41-talking-product-ad",
+ "name": "Talking product (AI-animated product as narrator)",
+ "title": "41 · Talking product (AI-animated product as narrator)",
+ "n_examples": 8,
+ "n_curated": 2,
+ "n_candidates": 6,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2097761790621057320",
+   "file": "2026-09-09-FedotOff90-2097761790621057320.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-09",
+   "url": "https://x.com/FedotOff90/status/2097761790621057320",
+   "eng": "25L/20BM/3kV",
+   "grade": "VALUE",
+   "gist": "Hair-thinning ads 180+ days: persona page with AI-animated shampoo bottle (199 ads, 183d), pool side-by-side test (215d), \"don't put this on your face\" UGC (309d).",
+   "thumb": "https://pbs.twimg.com/media/HRy_OMEaEAAuST7.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107157131010965744",
+   "file": "2026-10-05-Ecombos_Ai-2107157131010965744.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-05",
+   "url": "https://x.com/Ecombos_Ai/status/2107157131010965744",
+   "eng": "22L/14BM/793V",
+   "grade": "SOME",
+   "gist": "AI ecom format tiers: S = AI animation, AI singing, AI native statics → advertorial; A = AI before/after, AI podcast, talking product; F = AI avatar reading script, AI street interviews.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2076868032002150833",
+   "file": "2026-07-14-koloveski-2076868032002150833.md",
+   "kind": "candidate",
+   "author": "koloveski",
+   "date": "2026-07-14",
+   "url": "https://x.com/koloveski/status/2076868032002150833",
+   "eng": "183L/112BM/191kV",
+   "grade": "",
+   "gist": "🚨 I made a fully animated product video for Amazon without touching a traditional editing workflow. I used Dreamina Octo as my AI creative partner, and it took care of: → Storyboar",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2076867981196591104/img/Zvwb997dxnwSW2zX.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082224622255374394",
+   "file": "2026-07-28-AgentOpusAI-2082224622255374394.md",
+   "kind": "candidate",
+   "author": "AgentOpusAI",
+   "date": "2026-07-28",
+   "url": "https://x.com/AgentOpusAI/status/2082224622255374394",
+   "eng": "16L/22BM/6kV",
+   "grade": "",
+   "gist": "Making an animated product ad used to be a project. Making them at scale used to take a month. We took down both. Full tutorial 👇 https://t.co/6pMG6dfEhs https://t.co/OExBK8T0AQ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082224609529827328/img/Qq395WckTPDAbCZq.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076713068982100369",
+   "file": "2026-07-13-raph_guilhem-2076713068982100369.md",
+   "kind": "candidate",
+   "author": "raph_guilhem",
+   "date": "2026-07-13",
+   "url": "https://x.com/raph_guilhem/status/2076713068982100369",
+   "eng": "8L/5BM/1kV",
+   "grade": "",
+   "gist": "Our best clients are generating their highest performing Meta ads with one format: animated product videos. Origami style. Voxel. Minecraft. Pixar. Paper craft. Different looks, sa",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2076711700066136065/img/YBkHsLUZCGGGvWiV.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105653073276207449",
+   "file": "2026-10-01-DBackendBesties-2105653073276207449.md",
+   "kind": "candidate",
+   "author": "DBackendBesties",
+   "date": "2026-10-01",
+   "url": "https://x.com/DBackendBesties/status/2105653073276207449",
+   "eng": "5L/2BM/125V",
+   "grade": "",
+   "gist": "Day 1/30 of creating AI-powered ads for brands. I created this 3D animated product ad for @oraimomate to show how AI can help e-commerce brands turn their products into scroll-stop",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105653014035898368/img/Vdbf5snSKZQ268kw.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092163067073241239",
+   "file": "2026-08-25-rirahcreates-2092163067073241239.md",
+   "kind": "candidate",
+   "author": "rirahcreates",
+   "date": "2026-08-25",
+   "url": "https://x.com/rirahcreates/status/2092163067073241239",
+   "eng": "5L/0BM/370V",
+   "grade": "",
+   "gist": "We're entering an era where your marketing doesn't have to look ordinary. With AI, your ideas can literally come to life. Join AI Content Lab and learn how to create hologram video",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2085624678471606272/img/7xrIs9II-Rb8Y_jv.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079529586337931713",
+   "file": "2026-07-21-AdekanmbiI82845-2079529586337931713.md",
+   "kind": "candidate",
+   "author": "AdekanmbiI82845",
+   "date": "2026-07-21",
+   "url": "https://x.com/AdekanmbiI82845/status/2079529586337931713",
+   "eng": "3L/0BM/686V",
+   "grade": "",
+   "gist": "Here’s why animated product ads consistently outperform on cold traffic: people are curious before they’re skeptical, and animation exploits that window better than almost any othe",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

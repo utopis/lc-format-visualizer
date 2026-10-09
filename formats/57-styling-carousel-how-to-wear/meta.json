@@ -1,0 +1,73 @@
+{
+ "id": "F57",
+ "slug": "57-styling-carousel-how-to-wear",
+ "name": "Styling carousel — 'how to wear it / how it stacks' (jewelry-native carousel)",
+ "title": "57 · Styling carousel — \"how to wear it / how it stacks\" (jewelry-native carousel)",
+ "n_examples": 2,
+ "n_curated": 0,
+ "n_candidates": 2,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2080225401406672901",
+   "file": "2026-07-23-ChristyGodswil-2080225401406672901.md",
+   "kind": "candidate",
+   "author": "ChristyGodswil",
+   "date": "2026-07-23",
+   "url": "https://x.com/ChristyGodswil/status/2080225401406672901",
+   "eng": "73L/31BM/12kV",
+   "grade": "",
+   "gist": "Fashion brands don’t just need beautiful clothes. They need content that helps people imagine themselves wearing them. Instead of posting another product photo, imagine showing you",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2080225328601919488/img/tgHnr5O7poyd5-Ap.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087866038750736389",
+   "file": "2026-08-13-happy_place247-2087866038750736389.md",
+   "kind": "candidate",
+   "author": "happy_place247",
+   "date": "2026-08-13",
+   "url": "https://x.com/happy_place247/status/2087866038750736389",
+   "eng": "51L/28BM/1kV",
+   "grade": "",
+   "gist": "As a fashion vendor, you could simply put your outfits on a mannequin, or you could show potential customers what those same pieces actually look like on a person. And you could ta",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087865543978070016/img/uBH5rYVjxu3WDOlZ.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

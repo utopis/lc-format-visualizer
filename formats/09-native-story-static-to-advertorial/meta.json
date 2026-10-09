@@ -1,0 +1,455 @@
+{
+ "id": "F09",
+ "slug": "09-native-story-static-to-advertorial",
+ "name": "Native story static → advertorial (long primary text, personal-post look, illustrated comic variant)",
+ "title": "09 · Native story static → advertorial",
+ "n_examples": 27,
+ "n_curated": 12,
+ "n_candidates": 15,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2100980324633063694",
+   "file": "2026-09-18-EcomTable-2100980324633063694.md",
+   "kind": "curated",
+   "author": "EcomTable",
+   "date": "2026-09-18",
+   "url": "https://x.com/EcomTable/status/2100980324633063694",
+   "eng": "285L/418BM/21kV",
+   "grade": "VALUE",
+   "gist": "Ad-spy filters: top 10-25%, image, active, 14+ day run, 2,500+ char copy -> find long-copy native winners.",
+   "thumb": "https://pbs.twimg.com/media/HSgtk8yXMAAQJXM.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107899522353381868",
+   "file": "2026-10-07-antonioventre_-2107899522353381868.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-10-07",
+   "url": "https://x.com/antonioventre_/status/2107899522353381868",
+   "eng": "241L/365BM/20kV",
+   "grade": "VALUE",
+   "gist": "Story ad >1M reach: wife/work-wife anniversary drama, no product in first 40 words, revenge payoff.",
+   "thumb": "https://pbs.twimg.com/media/HUDDcggX0AEEAc5.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083619527170871298",
+   "file": "2026-08-01-antonioventre_-2083619527170871298.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-08-01",
+   "url": "https://x.com/antonioventre_/status/2083619527170871298",
+   "eng": "131L/233BM/18kV",
+   "grade": "VALUE",
+   "gist": "Illustrated story-based ad: long primary text, ad sells next line, advertorial closes.",
+   "thumb": "https://pbs.twimg.com/media/HOqA6uVXoAAoHsF.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105745816828940336",
+   "file": "2026-10-01-tryatria_AI-2105745816828940336.md",
+   "kind": "curated",
+   "author": "tryatria_AI",
+   "date": "2026-10-01",
+   "url": "https://x.com/tryatria_AI/status/2105745816828940336",
+   "eng": "73L/98BM/4kV",
+   "grade": "VALUE",
+   "gist": "Static hook 'My sister slept with my husband' vs generic benefit lines.",
+   "thumb": "https://pbs.twimg.com/media/HThqHSmagAAUywi.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076056430986309814",
+   "file": "2026-07-11-dep_hart-2076056430986309814.md",
+   "kind": "curated",
+   "author": "dep_hart",
+   "date": "2026-07-11",
+   "url": "https://x.com/dep_hart/status/2076056430986309814",
+   "eng": "65L/90BM/5kV",
+   "grade": "VALUE",
+   "gist": "Native ads: mirror ad (ICP sees herself), news-article copy, interview-style advertorial.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078512377616589256",
+   "file": "2026-07-18-antonioventre_-2078512377616589256.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-07-18",
+   "url": "https://x.com/antonioventre_/status/2078512377616589256",
+   "eng": "79L/64BM/5kV",
+   "grade": "VALUE",
+   "gist": "Before/after photos are best native ad image: change creates curiosity; long copy tells story.",
+   "thumb": "https://pbs.twimg.com/media/HNhb_e5W0AAVMv-.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083175922048647671",
+   "file": "2026-07-31-blvckledge-2083175922048647671.md",
+   "kind": "curated",
+   "author": "blvckledge",
+   "date": "2026-07-31",
+   "url": "https://x.com/blvckledge/status/2083175922048647671",
+   "eng": "50L/68BM/7kV",
+   "grade": "VALUE",
+   "gist": "Advertorials outperform PDP for Google Shopping traffic.",
+   "thumb": "https://pbs.twimg.com/media/HOjtdedaYAAzlsa.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086814826177679660",
+   "file": "2026-08-10-adamtaylorl-2086814826177679660.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-08-10",
+   "url": "https://x.com/adamtaylorl/status/2086814826177679660",
+   "eng": "36L/36BM/3kV",
+   "grade": "VALUE",
+   "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078179704050246125",
+   "file": "2026-07-17-williamkast_-2078179704050246125.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-07-17",
+   "url": "https://x.com/williamkast_/status/2078179704050246125",
+   "eng": "28L/34BM/3kV",
+   "grade": "VALUE",
+   "gist": "5 formats to test: founder talking head, voiceless B-roll text overlay, yapper (uncut), AI educational, camouflage static + long copy.",
+   "thumb": "https://pbs.twimg.com/media/HNctbXjWYAA91qu.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2096964245485449453",
+   "file": "2026-09-07-FedotOff90-2096964245485449453.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-07",
+   "url": "https://x.com/FedotOff90/status/2096964245485449453",
+   "eng": "17L/18BM/3kV",
+   "grade": "VALUE",
+   "gist": "SafeRoad: 7,800-character confession (reading Amazon reviews at 1:23 AM) → comparison advertorial, 200 days live; port formats from outside your niche.",
+   "thumb": "https://pbs.twimg.com/media/HRnp3IjaUAAb3q2.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107157131010965744",
+   "file": "2026-10-05-Ecombos_Ai-2107157131010965744.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-05",
+   "url": "https://x.com/Ecombos_Ai/status/2107157131010965744",
+   "eng": "22L/14BM/793V",
+   "grade": "SOME",
+   "gist": "AI ecom format tiers: S = AI animation, AI singing, AI native statics → advertorial; A = AI before/after, AI podcast, talking product; F = AI avatar reading script, AI street interviews.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103485927528009820",
+   "file": "2026-09-25-therahulissar-2103485927528009820.md",
+   "kind": "curated",
+   "author": "therahulissar",
+   "date": "2026-09-25",
+   "url": "https://x.com/therahulissar/status/2103485927528009820",
+   "eng": "12L/7BM/1kV",
+   "grade": "VALUE",
+   "gist": "Trends beyond AI: greenscreen personal story with no product until late; natives → quiz funnel; founder calling customers.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2091950944363704346",
+   "file": "2026-08-24-williamkast_-2091950944363704346.md",
+   "kind": "candidate",
+   "author": "williamkast_",
+   "date": "2026-08-24",
+   "url": "https://x.com/williamkast_/status/2091950944363704346",
+   "eng": "299L/881BM/24kV",
+   "grade": "",
+   "gist": "10 TOF static ads you should test: 1. Organic POV: https://t.co/aESzFKGgT8 2. Urgency Offer: https://t.co/XFNJXPJPKa 3. Bold Claim + Product: https://t.co/bxaXVa2c3X 4. Native Ad: ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089491066072285288",
+   "file": "2026-08-17-nicktheriot_-2089491066072285288.md",
+   "kind": "candidate",
+   "author": "nicktheriot_",
+   "date": "2026-08-17",
+   "url": "https://x.com/nicktheriot_/status/2089491066072285288",
+   "eng": "175L/272BM/9kV",
+   "grade": "",
+   "gist": "If I took over your ad account today, here's the exact order I'd diversify creatives: 1. B-roll + captions video 2. Standard UGC 3. B-roll with AI voiceover video 4. Pixar animatio",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078183448896737390",
+   "file": "2026-07-17-theperryecom-2078183448896737390.md",
+   "kind": "candidate",
+   "author": "theperryecom",
+   "date": "2026-07-17",
+   "url": "https://x.com/theperryecom/status/2078183448896737390",
+   "eng": "58L/46BM/4kV",
+   "grade": "",
+   "gist": "Native ad hack: Make it look like a news article or discovery. “Sleep expert reveals why woman over 45…” blah blah blah You can either hint at the product in the static ad by sayin",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077787596294345129",
+   "file": "2026-07-16-antonioventre_-2077787596294345129.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-16",
+   "url": "https://x.com/antonioventre_/status/2077787596294345129",
+   "eng": "42L/39BM/3kV",
+   "grade": "",
+   "gist": "Why a native ad has to lead to an advertorial, not a product page. Here is the part people miss. Not everyone reads your full primary text before they click. So the advertorial has",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2106778634006442013",
+   "file": "2026-10-04-antonioventre_-2106778634006442013.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-10-04",
+   "url": "https://x.com/antonioventre_/status/2106778634006442013",
+   "eng": "35L/25BM/2kV",
+   "grade": "",
+   "gist": "The structure I use for story ads, in video and in long primary text: 1 - Hook: the problem, not the product 2 - Problem: make it specific enough that they recognize themselves 3 -",
+   "thumb": "https://pbs.twimg.com/media/HTzIAOjWYAAfR4t.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2081681278861021254",
+   "file": "2026-07-27-HenryCrochemore-2081681278861021254.md",
+   "kind": "candidate",
+   "author": "HenryCrochemore",
+   "date": "2026-07-27",
+   "url": "https://x.com/HenryCrochemore/status/2081681278861021254",
+   "eng": "16L/25BM/5kV",
+   "grade": "",
+   "gist": "spoke with an operator running paid social for a fast-growing skincare brand they connected gethookd api + mcp to turn one winning angle into hundreds of native ad variations every",
+   "thumb": "https://pbs.twimg.com/media/HOOeFwTXUAAq5sK.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078183710604591539",
+   "file": "2026-07-17-antonioventre_-2078183710604591539.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-17",
+   "url": "https://x.com/antonioventre_/status/2078183710604591539",
+   "eng": "11L/20BM/1kV",
+   "grade": "",
+   "gist": "The native ad funnel, start to finish. 1. The ad. A native image and a long story in the primary text. Built for an unaware or problem-aware person. 2. The advertorial. Same angle ",
+   "thumb": "https://pbs.twimg.com/media/HNcxEhlXwAAS8g7.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2076734155061100851",
+   "file": "2026-07-13-antonioventre_-2076734155061100851.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-07-13",
+   "url": "https://x.com/antonioventre_/status/2076734155061100851",
+   "eng": "13L/16BM/1kV",
+   "grade": "",
+   "gist": "Native ads work because people feel like they are reading a story, not seeing an ad. The setup is simple. A normal selfie, or a weird photo that still matches the problem you are s",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082437926793978213",
+   "file": "2026-07-29-iKaustubhChavan-2082437926793978213.md",
+   "kind": "candidate",
+   "author": "iKaustubhChavan",
+   "date": "2026-07-29",
+   "url": "https://x.com/iKaustubhChavan/status/2082437926793978213",
+   "eng": "15L/10BM/1kV",
+   "grade": "",
+   "gist": "A killer static concept This is not the final ad but a visual explanation I used today to explain the idea to my designer I feel this can also work as a native ad, if anyone is a n",
+   "thumb": "https://pbs.twimg.com/media/HOZN56EbQAAIlYG.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086214664497803327",
+   "file": "2026-08-08-lifemaximised-2086214664497803327.md",
+   "kind": "candidate",
+   "author": "lifemaximised",
+   "date": "2026-08-08",
+   "url": "https://x.com/lifemaximised/status/2086214664497803327",
+   "eng": "12L/7BM/931V",
+   "grade": "",
+   "gist": "Native Google ads could be making you an extra 7 figs right now but you’re sleeping on them. Here’s how to start capitalising on them: What a native ad is on Google: A Demand Gen o",
+   "thumb": "https://pbs.twimg.com/media/HPO5HLMakAAwFUy.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2099893263964557559",
+   "file": "2026-09-15-antonioventre_-2099893263964557559.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-09-15",
+   "url": "https://x.com/antonioventre_/status/2099893263964557559",
+   "eng": "11L/7BM/619V",
+   "grade": "",
+   "gist": "The native ad funnel: 1 - The image stops the scroll because it does not look like an ad 2 - The primary text does the education, and it is long. First person story 3 - Then the cl",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090139734198657414",
+   "file": "2026-08-19-niakjaw-2090139734198657414.md",
+   "kind": "candidate",
+   "author": "niakjaw",
+   "date": "2026-08-19",
+   "url": "https://x.com/niakjaw/status/2090139734198657414",
+   "eng": "5L/4BM/1kV",
+   "grade": "",
+   "gist": "Why would someone use Nano Banana Pro over GPT Image 2 for creating static ads/native ad pics? On Higgsfield, GPT Image 2 costs 0.75 tokens, Nano Banana Pro costs 2 tokens. Output ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100229982983213368",
+   "file": "2026-09-16-antonioventre_-2100229982983213368.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-09-16",
+   "url": "https://x.com/antonioventre_/status/2100229982983213368",
+   "eng": "5L/2BM/401V",
+   "grade": "",
+   "gist": "Some brands will not run native ads because the format feels too aggressive for them. There is a version for those brands Instead of the claim led story, you run the logic led one ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097937094286946797",
+   "file": "2026-09-10-_ecomsam-2097937094286946797.md",
+   "kind": "candidate",
+   "author": "_ecomsam",
+   "date": "2026-09-10",
+   "url": "https://x.com/_ecomsam/status/2097937094286946797",
+   "eng": "8L/0BM/685V",
+   "grade": "",
+   "gist": "Good morning. Still working on the part most people skip: What happens after the ad gets the click? For the OMNI campaign, I’m building the advertorial around the same question the",
+   "thumb": "https://pbs.twimg.com/media/HR1emp_a4AU78Pf.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092065502722216365",
+   "file": "2026-08-25-imrakimali-2092065502722216365.md",
+   "kind": "candidate",
+   "author": "imrakimali",
+   "date": "2026-08-25",
+   "url": "https://x.com/imrakimali/status/2092065502722216365",
+   "eng": "5L/1BM/130V",
+   "grade": "",
+   "gist": "How to build an advertorial funnel that warms up cold traffic: ​• News-style headline to match native ad intent • Relatable narrative agitating bodily discomfort • Educational brea",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092065460099710976/img/4qy8ikxBvkbBF7YY.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

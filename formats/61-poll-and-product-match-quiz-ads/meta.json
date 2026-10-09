@@ -1,0 +1,250 @@
+{
+ "id": "F61",
+ "slug": "61-poll-and-product-match-quiz-ads",
+ "name": "Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer)",
+ "title": "61 · Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer)",
+ "n_examples": 14,
+ "n_curated": 0,
+ "n_candidates": 14,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2084623022649188607",
+   "file": "2026-08-04-IgorWoorts-2084623022649188607.md",
+   "kind": "candidate",
+   "author": "IgorWoorts",
+   "date": "2026-08-04",
+   "url": "https://x.com/IgorWoorts/status/2084623022649188607",
+   "eng": "110L/147BM/6kV",
+   "grade": "",
+   "gist": "There is NO single landing page that works best for all your ads. It all depends on the awareness stage. Unaware → listicle / quiz funnel (educate around the problem). Problem-awar",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2093098436069568758",
+   "file": "2026-08-27-codyschneider-2093098436069568758.md",
+   "kind": "candidate",
+   "author": "codyschneider",
+   "date": "2026-08-27",
+   "url": "https://x.com/codyschneider/status/2093098436069568758",
+   "eng": "67L/92BM/7kV",
+   "grade": "",
+   "gist": "an AI agent is running facebook ads for a local business it just got the 2170 ebook downloads in august 16% of people who download the ebook turn into a future patient they are hea",
+   "thumb": "https://pbs.twimg.com/media/HQwr87rWUAAl-oO.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079684588620664861",
+   "file": "2026-07-21-lorenzo_pravata-2079684588620664861.md",
+   "kind": "candidate",
+   "author": "lorenzo_pravata",
+   "date": "2026-07-21",
+   "url": "https://x.com/lorenzo_pravata/status/2079684588620664861",
+   "eng": "28L/21BM/3kV",
+   "grade": "",
+   "gist": "We scaled an app from $0 to $50M in 10 months on Meta. The peak month did $3M, counting first purchases only. Subscription LTV came on top of that. And here's the thing: we manage ",
+   "thumb": "https://pbs.twimg.com/media/HNyGG91WgAAuFkU.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2081462841052151919",
+   "file": "2026-07-26-JamesEbringer-2081462841052151919.md",
+   "kind": "candidate",
+   "author": "JamesEbringer",
+   "date": "2026-07-26",
+   "url": "https://x.com/JamesEbringer/status/2081462841052151919",
+   "eng": "8L/13BM/2kV",
+   "grade": "",
+   "gist": "Facebook CPCs in Africa are $0.05 right now Five cents a click Go inside TAP and look for the Africa Ads Method Set up a Facebook ad account Point a simple ad at the quiz funnel Th",
+   "thumb": "https://pbs.twimg.com/media/HOLXa-2XsAA-jEC.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2095617829051498810",
+   "file": "2026-09-03-kailodee-2095617829051498810.md",
+   "kind": "candidate",
+   "author": "kailodee",
+   "date": "2026-09-03",
+   "url": "https://x.com/kailodee/status/2095617829051498810",
+   "eng": "7L/13BM/1kV",
+   "grade": "",
+   "gist": "Ran ads for a client. 20 calls on the calendar in 3 days. 88% of leads qualified through the quiz funnel. We're already running out of calendar space and looking for a second close",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082826379863707993",
+   "file": "2026-07-30-zakburgers-2082826379863707993.md",
+   "kind": "candidate",
+   "author": "zakburgers",
+   "date": "2026-07-30",
+   "url": "https://x.com/zakburgers/status/2082826379863707993",
+   "eng": "15L/6BM/1kV",
+   "grade": "",
+   "gist": "working with the biggest peptide players gave me huge experience in the segmentation game for emails creating 10 different angle flows for these brands depending on their answers i",
+   "thumb": "https://pbs.twimg.com/media/HOdqC8HWgAARs4E.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103485927528009820",
+   "file": "2026-09-25-therahulissar-2103485927528009820.md",
+   "kind": "candidate",
+   "author": "therahulissar",
+   "date": "2026-09-25",
+   "url": "https://x.com/therahulissar/status/2103485927528009820",
+   "eng": "12L/7BM/1kV",
+   "grade": "VALUE",
+   "gist": "Trends beyond AI: greenscreen personal story with no product until late; natives → quiz funnel; founder calling customers.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2094347461058052541",
+   "file": "2026-08-31-DTC_Quizbuilder-2094347461058052541.md",
+   "kind": "candidate",
+   "author": "DTC_Quizbuilder",
+   "date": "2026-08-31",
+   "url": "https://x.com/DTC_Quizbuilder/status/2094347461058052541",
+   "eng": "10L/4BM/2kV",
+   "grade": "",
+   "gist": "Running a quiz funnel on Heyflow? Will switch your quiz to a DTC native platform 100% free (Same URL so don't even change your ads - 1:1 clone) 1) Don't get molested by heyflow pri",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097123754036072890",
+   "file": "2026-09-08-TheEhsanMaaz-2097123754036072890.md",
+   "kind": "candidate",
+   "author": "TheEhsanMaaz",
+   "date": "2026-09-08",
+   "url": "https://x.com/TheEhsanMaaz/status/2097123754036072890",
+   "eng": "9L/3BM/396V",
+   "grade": "",
+   "gist": "people genuinely don't understand the opportunity that is unfolding in front of them right now for ecom brands the cost for everything that is required for scaling has gone to ZERO",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098927136803578041",
+   "file": "2026-09-13-TheEhsanMaaz-2098927136803578041.md",
+   "kind": "candidate",
+   "author": "TheEhsanMaaz",
+   "date": "2026-09-13",
+   "url": "https://x.com/TheEhsanMaaz/status/2098927136803578041",
+   "eng": "8L/2BM/849V",
+   "grade": "",
+   "gist": "i wish brand owners understood this. no AI ads are not \"slop\", they let you position your unique selling point into a visual concept that's precisely why it's so powerful. combine ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089480893157294160",
+   "file": "2026-08-17-AdrianChivu6-2089480893157294160.md",
+   "kind": "candidate",
+   "author": "AdrianChivu6",
+   "date": "2026-08-17",
+   "url": "https://x.com/AdrianChivu6/status/2089480893157294160",
+   "eng": "6L/2BM/307V",
+   "grade": "",
+   "gist": "Here's how you chadscale your way past $10k/day on cold traffic using quiz funnels. Quiz funnels are the highest-converting destination for ecom brands right now. And I still don't",
+   "thumb": "https://pbs.twimg.com/media/HP9Ny4yXkAAqvzT.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093096255786234158",
+   "file": "2026-08-27-codyschneider-2093096255786234158.md",
+   "kind": "candidate",
+   "author": "codyschneider",
+   "date": "2026-08-27",
+   "url": "https://x.com/codyschneider/status/2093096255786234158",
+   "eng": "3L/2BM/959V",
+   "grade": "",
+   "gist": "an AI agent is running this local business facebook ads it got the 2170 ebook downloads 16% of people who download the ebook turn into a future patient so they got 347 new customer",
+   "thumb": "https://pbs.twimg.com/media/HQwr87rWUAAl-oO.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102118399476482186",
+   "file": "2026-09-21-danielborodin_-2102118399476482186.md",
+   "kind": "candidate",
+   "author": "danielborodin_",
+   "date": "2026-09-21",
+   "url": "https://x.com/danielborodin_/status/2102118399476482186",
+   "eng": "4L/0BM/587V",
+   "grade": "",
+   "gist": "Just launched Whop Ads for my new SaaS $50/day, 2 image and 2 video ads with a quiz funnel Hope it will be profitable 👀 Will share how it goes!",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2094145176629342553",
+   "file": "2026-08-30-lennardeth-2094145176629342553.md",
+   "kind": "candidate",
+   "author": "lennardeth",
+   "date": "2026-08-30",
+   "url": "https://x.com/lennardeth/status/2094145176629342553",
+   "eng": "4L/0BM/576V",
+   "grade": "",
+   "gist": "Running ads for my B2C (apartment search) product. Is it smarter to redirect to landing page or directly into the quiz funnel? Funnel is a few important questions like where they w",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

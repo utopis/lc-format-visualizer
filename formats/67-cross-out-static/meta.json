@@ -1,0 +1,104 @@
+{
+ "id": "F67",
+ "slug": "67-cross-out-static",
+ "name": "The Cross-Out static (strike through the failed fixes and leave the one that works)",
+ "title": "67 · The Cross-Out static (strike through the failed fixes and leave the one that works)",
+ "n_examples": 4,
+ "n_curated": 1,
+ "n_candidates": 2,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2100948331136782532",
+   "file": "2026-09-18-FedotOff90-2100948331136782532.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-18",
+   "url": "https://x.com/FedotOff90/status/2100948331136782532",
+   "eng": "17L/18BM/3kV",
+   "grade": "VALUE",
+   "gist": "Rebuilt the formats list with proof: 30-day survival column = \"this works\" bar; copy the structure, not the words.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085397746660278559",
+   "file": "2026-08-06-antonioventre_-2085397746660278559.md",
+   "kind": "candidate",
+   "author": "antonioventre_",
+   "date": "2026-08-06",
+   "url": "https://x.com/antonioventre_/status/2085397746660278559",
+   "eng": "7L/6BM/790V",
+   "grade": "",
+   "gist": "Three static concepts from one angle (energy), none of them showing the product: 1. The calendar. A week view with \"gym\", \"dinner with friends\", \"hike\" all crossed out. Headline: t",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105476261619339387",
+   "file": "2026-10-01-principles0618-2105476261619339387.md",
+   "kind": "candidate",
+   "author": "principles0618",
+   "date": "2026-10-01",
+   "url": "https://x.com/principles0618/status/2105476261619339387",
+   "eng": "4L/1BM/2kV",
+   "grade": "",
+   "gist": "GTM, ADS, Web traffic tracking - It all starts to merge and you better build your stack in one big monorepo to give your clankers full access to the context. Today is going to be a",
+   "thumb": "https://pbs.twimg.com/media/HTgl4BTWIAA1Frt.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

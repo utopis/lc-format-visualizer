@@ -1,0 +1,172 @@
+{
+ "id": "F20",
+ "slug": "20-ai-model-lookbook-on-body",
+ "name": "AI model lookbook / on-body try-on (from real product photos)",
+ "title": "20 · AI model lookbook / on-body try-on",
+ "n_examples": 8,
+ "n_curated": 3,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2106081343566381455",
+   "file": "2026-10-02-rirahcreates-2106081343566381455.md",
+   "kind": "curated",
+   "author": "rirahcreates",
+   "date": "2026-10-02",
+   "url": "https://x.com/rirahcreates/status/2106081343566381455",
+   "eng": "70L/53BM/8kV",
+   "grade": "SOME",
+   "gist": "AI fashion content: lookbooks, campaign images.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106081273437470720/img/oyZ4VPzK5Kw8eF8u.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2095071815483986241",
+   "file": "2026-09-02-Arina_hoqe-2095071815483986241.md",
+   "kind": "curated",
+   "author": "Arina_hoqe",
+   "date": "2026-09-02",
+   "url": "https://x.com/Arina_hoqe/status/2095071815483986241",
+   "eng": "42L/36BM/4kV",
+   "grade": "VALUE",
+   "gist": "Full prompt for 15s photoreal UGC watch ad from your own product photo ('Running Late').",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2095071784446099456/img/MN-3ELg_I-Ag-I81.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2080184317771227394",
+   "file": "2026-07-23-MimiTheDesigner-2080184317771227394.md",
+   "kind": "curated",
+   "author": "MimiTheDesigner",
+   "date": "2026-07-23",
+   "url": "https://x.com/MimiTheDesigner/status/2080184317771227394",
+   "eng": "31L/13BM/2kV",
+   "grade": "SOME",
+   "gist": "Fashion: every model/dress in video AI-generated; boutiques advertising this way.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2080183894213578752/img/m_GVAtXVTwVluHdf.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2077765449371025600",
+   "file": "2026-07-16-girlincrypto007-2077765449371025600.md",
+   "kind": "candidate",
+   "author": "girlincrypto007",
+   "date": "2026-07-16",
+   "url": "https://x.com/girlincrypto007/status/2077765449371025600",
+   "eng": "89L/9BM/4kV",
+   "grade": "",
+   "gist": "You need the right AI model for every task so you don’t burn through your limits too fast 👀 My stack is simple: > @claudeai Fable - for building a portfolio, landing page, or link-",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2077765275714191360/img/e5OEdohcWARL1z3y.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092938675394883839",
+   "file": "2026-08-27-shealshakya-2092938675394883839.md",
+   "kind": "candidate",
+   "author": "shealshakya",
+   "date": "2026-08-27",
+   "url": "https://x.com/shealshakya/status/2092938675394883839",
+   "eng": "58L/5BM/1kV",
+   "grade": "",
+   "gist": "You can make $2000/month All you need is... - A smartphone - Internet - 4 hours a day Here are 23 services you can now offer: 1. Rebuild winning ads for brands 2. Refresh old creat",
+   "thumb": "https://pbs.twimg.com/media/HQucoBzagAAN6aB.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2084730957035454832",
+   "file": "2026-08-04-beginnersblog1-2084730957035454832.md",
+   "kind": "candidate",
+   "author": "beginnersblog1",
+   "date": "2026-08-04",
+   "url": "https://x.com/beginnersblog1/status/2084730957035454832",
+   "eng": "14L/18BM/2kV",
+   "grade": "",
+   "gist": "🚨Breaking: 23 ways to earn using GPT IMG 2.0 in 2026 . . . 1. Rebuild winning ads for brands 2. Refresh old creative libraries for agencies 3. Turn messy data into clean infographi",
+   "thumb": "https://pbs.twimg.com/media/HO5zv0bbkAAl4Kz.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091158748370718799",
+   "file": "2026-08-22-ilands_ai-2091158748370718799.md",
+   "kind": "candidate",
+   "author": "ilands_ai",
+   "date": "2026-08-22",
+   "url": "https://x.com/ilands_ai/status/2091158748370718799",
+   "eng": "18L/2BM/1kV",
+   "grade": "",
+   "gist": "An AI model just invoiced her first client. Not for a shoot. For a website. Sloane Val is an AI model on iLands. Editorial work, brand shoots, one consistent face across every fram",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2091158455323377664/img/P_llj7Ci8DcPDNXb.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085708930588557789",
+   "file": "2026-08-07-MirrAIHQ-2085708930588557789.md",
+   "kind": "candidate",
+   "author": "MirrAIHQ",
+   "date": "2026-08-07",
+   "url": "https://x.com/MirrAIHQ/status/2085708930588557789",
+   "eng": "5L/0BM/221V",
+   "grade": "",
+   "gist": "Every fashion brand has a folder of flat product photos. Watch what happens when you run a whole catalog through MirrAI Studio 👇 On-model try-ons for every item. No photoshoot. No ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2085708613922725889/img/lbgYvk7fry3cvLVB.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

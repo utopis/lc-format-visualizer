@@ -1,0 +1,71 @@
+{
+ "id": "F59",
+ "slug": "59-problem-solution-pas-ad",
+ "name": "Problem → agitation → solution → proof (4-part PAS ad, video or static)",
+ "title": "59 · Problem → agitation → solution → proof (4-part PAS ad, video or static)",
+ "n_examples": 2,
+ "n_curated": 0,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2099438014456045990",
+   "file": "2026-09-14-alexpagepilot-2099438014456045990.md",
+   "kind": "cited",
+   "author": "alexpagepilot",
+   "date": "2026-09-14",
+   "url": "https://x.com/alexpagepilot/status/2099438014456045990",
+   "eng": "11L/19BM/1kV",
+   "grade": "SOME",
+   "gist": "Top 5 dropship formats: UGC problem/solution, \"TikTok made me buy it\", us vs them split, founder talking head (retargets 2-3x), text-overlay slideshow.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078116608069800131",
+   "file": "2026-07-17-ayomikunszn-2078116608069800131.md",
+   "kind": "candidate",
+   "author": "ayomikunszn",
+   "date": "2026-07-17",
+   "url": "https://x.com/ayomikunszn/status/2078116608069800131",
+   "eng": "26L/5BM/1kV",
+   "grade": "",
+   "gist": "Created these Weekender Bag ad concepts after studying what's working for leading DTC travel brands on Meta. Each creative focuses on a different conversion angle: problem-solution",
+   "thumb": "https://pbs.twimg.com/media/HNbz9YRXcAAduuE.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

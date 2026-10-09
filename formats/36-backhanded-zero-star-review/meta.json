@@ -1,0 +1,145 @@
+{
+ "id": "F36",
+ "slug": "36-backhanded-zero-star-review",
+ "name": "Backhanded / 'bad review' ad (complaint that is secretly a benefit)",
+ "title": "36 · Backhanded / \"bad review\" ad (complaint that is secretly a benefit)",
+ "n_examples": 7,
+ "n_curated": 4,
+ "n_candidates": 1,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2081785032679518490",
+   "file": "2026-07-27-ads4apps-2081785032679518490.md",
+   "kind": "curated",
+   "author": "ads4apps",
+   "date": "2026-07-27",
+   "url": "https://x.com/ads4apps/status/2081785032679518490",
+   "eng": "412L/930BM/27kV",
+   "grade": "VALUE",
+   "gist": "39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breaking news, Reddit, Google search, text on skin, tier list, zero stars…",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101549415467213023",
+   "file": "2026-09-20-KanishDigital-2101549415467213023.md",
+   "kind": "curated",
+   "author": "KanishDigital",
+   "date": "2026-09-20",
+   "url": "https://x.com/KanishDigital/status/2101549415467213023",
+   "eng": "13L/13BM/824V",
+   "grade": "SOME",
+   "gist": "Negative hooks (\"this product should be banned\", \"don't buy this…\") — for one baby brand the best ad is a fully negative ad.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085017654364958737",
+   "file": "2026-08-05-Yannlce-2085017654364958737.md",
+   "kind": "curated",
+   "author": "Yannlce",
+   "date": "2026-08-05",
+   "url": "https://x.com/Yannlce/status/2085017654364958737",
+   "eng": "3L/2BM/1kV",
+   "grade": "SOME",
+   "gist": "Same 40-format list (adds claymation, AI podcast).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "cited",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098426706612683154",
+   "file": "2026-09-11-EmerieOnoh-2098426706612683154.md",
+   "kind": "cited",
+   "author": "EmerieOnoh",
+   "date": "2026-09-11",
+   "url": "https://x.com/EmerieOnoh/status/2098426706612683154",
+   "eng": "6L/6BM/498V",
+   "grade": "SOME",
+   "gist": "Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089528727445062001",
+   "file": "2026-08-18-stephenfung_dev-2089528727445062001.md",
+   "kind": "candidate",
+   "author": "stephenfung_dev",
+   "date": "2026-08-18",
+   "url": "https://x.com/stephenfung_dev/status/2089528727445062001",
+   "eng": "0L/0BM/5kV",
+   "grade": "",
+   "gist": "Results of buying this ad spot: 358 downloads (+29% week over week) $121.67 in revenue (+114% week over week) $62 in MMR (+75% week over week) 1 - 1 star review 😅 Try VesselFlow: h",
+   "thumb": "https://pbs.twimg.com/media/HP9-gnnXoAA11rZ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

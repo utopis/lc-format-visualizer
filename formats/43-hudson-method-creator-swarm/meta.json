@@ -1,0 +1,308 @@
+{
+ "id": "F43",
+ "slug": "43-hudson-method-creator-swarm",
+ "name": "Hudson Method creator swarm (hundreds of small creators → every ad channel)",
+ "title": "43 · Hudson Method creator swarm (hundreds of small creators → every ad channel)",
+ "n_examples": 18,
+ "n_curated": 12,
+ "n_candidates": 6,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2051036381359849697",
+   "file": "2026-05-03-Seanfrank-2051036381359849697.md",
+   "kind": "curated",
+   "author": "Seanfrank",
+   "date": "2026-05-03",
+   "url": "https://x.com/Seanfrank/status/2051036381359849697",
+   "eng": "2027L/3902BM/376kV",
+   "grade": "VALUE",
+   "gist": "The \"Hudson Method\" (Comfrt): seed hundreds of small TikTok creators, pay per video + commission, bonuses for 100+ videos/mo, load all into every ad channel. (May 2026; 3.9k bookmarks.)",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107873317369581751",
+   "file": "2026-10-07-jakecastilloooo-2107873317369581751.md",
+   "kind": "curated",
+   "author": "jakecastilloooo",
+   "date": "2026-10-07",
+   "url": "https://x.com/jakecastilloooo/status/2107873317369581751",
+   "eng": "984L/3090BM/290kV",
+   "grade": "VALUE",
+   "gist": "Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test take → batch → 4-platform scheduling → remake winners with real creators, then paid.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2072291737536803119",
+   "file": "2026-07-01-SeoulJosephK-2072291737536803119.md",
+   "kind": "curated",
+   "author": "SeoulJosephK",
+   "date": "2026-07-01",
+   "url": "https://x.com/SeoulJosephK/status/2072291737536803119",
+   "eng": "720L/2243BM/98kV",
+   "grade": "SOME",
+   "gist": "App marketing reading list: paid (athcanft), organic UGC (Superwall pod), Sideshift/Posted/Noise view-based campaigns, Jake Castillo for influencers.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2084739019187847201",
+   "file": "2026-08-04-pixclipper-2084739019187847201.md",
+   "kind": "curated",
+   "author": "pixclipper",
+   "date": "2026-08-04",
+   "url": "https://x.com/pixclipper/status/2084739019187847201",
+   "eng": "134L/339BM/26kV",
+   "grade": "VALUE",
+   "gist": "Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, 3 carry 60% of views.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2084738947930800128/img/fsTyiOMhLqvfhxQ5.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2102818749384421524",
+   "file": "2026-09-23-jesseabed_-2102818749384421524.md",
+   "kind": "curated",
+   "author": "jesseabed_",
+   "date": "2026-09-23",
+   "url": "https://x.com/jesseabed_/status/2102818749384421524",
+   "eng": "148L/324BM/18kV",
+   "grade": "VALUE",
+   "gist": "Sideshift creator pay: hook-and-demo creators ~$400 base + view milestones for 40-60 videos; talking head/skit ~$400 for 20-30; 25% upfront.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096261644347224438",
+   "file": "2026-09-05-JoshJDurham-2096261644347224438.md",
+   "kind": "curated",
+   "author": "JoshJDurham",
+   "date": "2026-09-05",
+   "url": "https://x.com/JoshJDurham/status/2096261644347224438",
+   "eng": "27L/24BM/2kV",
+   "grade": "SOME",
+   "gist": "Influencer levers by revenue/AOV: seeding, gifting, whitelisting, Partnership ads, Hudson Method (retainer + % of ad spend), Trybe, TikTok Shop.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2079765230888899036",
+   "file": "2026-07-22-NotZainAgain-2079765230888899036.md",
+   "kind": "curated",
+   "author": "NotZainAgain",
+   "date": "2026-07-22",
+   "url": "https://x.com/NotZainAgain/status/2079765230888899036",
+   "eng": "24L/25BM/3kV",
+   "grade": "VALUE",
+   "gist": "3 TikTok Shop contest types: view-based (gameable), GMV-based (free-rider risk), video-count ($100-250 for 10 videos, min-quality rules, VA review, net-30).",
+   "thumb": "https://pbs.twimg.com/media/HNzPZNKXkAA_tSi.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2088288284690567296",
+   "file": "2026-08-14-maverickecom-2088288284690567296.md",
+   "kind": "curated",
+   "author": "maverickecom",
+   "date": "2026-08-14",
+   "url": "https://x.com/maverickecom/status/2088288284690567296",
+   "eng": "16L/14BM/2kV",
+   "grade": "HYPE",
+   "gist": "\"AI + Hudson method = viral TikTok Shop\" — comment-gated pitch for AI affiliate pages.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2088288158488100865/img/WsQ9R7fBP04GcNzg.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2051293081920758018",
+   "file": "2026-05-04-BoraMutluoglu-2051293081920758018.md",
+   "kind": "curated",
+   "author": "BoraMutluoglu",
+   "date": "2026-05-04",
+   "url": "https://x.com/BoraMutluoglu/status/2051293081920758018",
+   "eng": "8L/2BM/500V",
+   "grade": "VALUE",
+   "gist": "Hudson Method from Comfrt founder masterminds: thousands of samples/mo, $5k+ bonuses for 100+ videos/mo, run creator content on Meta/Snap/YT, keep paying commission on ad sales.",
+   "thumb": "https://pbs.twimg.com/media/HHeoLhRb0AA7-UH.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107533597942964286",
+   "file": "2026-10-06-alexolim_-2107533597942964286.md",
+   "kind": "curated",
+   "author": "alexolim_",
+   "date": "2026-10-06",
+   "url": "https://x.com/alexolim_/status/2107533597942964286",
+   "eng": "2L/5BM/453V",
+   "grade": "VALUE",
+   "gist": "Day-one creator onboarding rules: show the minimum per video, what failure looks like (not approved/not counted), replacement after repeated misses, more campaigns for follow-through.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108429557611290996",
+   "file": "2026-10-09-Peter_Quadrel-2108429557611290996.md",
+   "kind": "curated",
+   "author": "Peter_Quadrel",
+   "date": "2026-10-09",
+   "url": "https://x.com/Peter_Quadrel/status/2108429557611290996",
+   "eng": "1L/2BM/143V",
+   "grade": "VALUE",
+   "gist": "A year of Meta data: Partnership creator ads live 50.5 of first 90 days vs statics 38.4 vs brand video 28.1; 29% still spending at day 90.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092368368968049118",
+   "file": "2026-08-25-ai_cult1-2092368368968049118.md",
+   "kind": "curated",
+   "author": "ai_cult1",
+   "date": "2026-08-25",
+   "url": "https://x.com/ai_cult1/status/2092368368968049118",
+   "eng": "0L/0BM/49V",
+   "grade": "SOME",
+   "gist": "Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092366329928151040/img/lXZBKq1pnLY7K9Cc.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2093149410377060734",
+   "file": "2026-08-28-joshelizetxe-2093149410377060734.md",
+   "kind": "candidate",
+   "author": "joshelizetxe",
+   "date": "2026-08-28",
+   "url": "https://x.com/joshelizetxe/status/2093149410377060734",
+   "eng": "11L/9BM/5kV",
+   "grade": "",
+   "gist": "I’ve generated $84M in sales using affiliates. Paid out over $10M in commissions to a 50,000-creator army. Most founders burn their margins renting ad space from Meta and Google. E",
+   "thumb": "https://pbs.twimg.com/media/HQxcSv0WcAAktcl.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107628086107721798",
+   "file": "2026-10-07-joshelizetxe-2107628086107721798.md",
+   "kind": "candidate",
+   "author": "joshelizetxe",
+   "date": "2026-10-07",
+   "url": "https://x.com/joshelizetxe/status/2107628086107721798",
+   "eng": "8L/3BM/508V",
+   "grade": "",
+   "gist": "just build an affiliate army i dont understand why would you ever do something different tbh agency retainers: • $10k/mo retainer whether they perform or not • manage employees and",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107504952977317898",
+   "file": "2026-10-06-joshelizetxe-2107504952977317898.md",
+   "kind": "candidate",
+   "author": "joshelizetxe",
+   "date": "2026-10-06",
+   "url": "https://x.com/joshelizetxe/status/2107504952977317898",
+   "eng": "12L/1BM/502V",
+   "grade": "",
+   "gist": "I paid a celebrity $250,000 for a holiday post that generated under $35,000 in sales. Our blended customer acquisition cost spiked to over $300 on a $120 product in the middle of Q",
+   "thumb": "https://pbs.twimg.com/media/HT9clBDXMAAaOMo.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107089957995037179",
+   "file": "2026-10-05-joshelizetxe-2107089957995037179.md",
+   "kind": "candidate",
+   "author": "joshelizetxe",
+   "date": "2026-10-05",
+   "url": "https://x.com/joshelizetxe/status/2107089957995037179",
+   "eng": "9L/0BM/539V",
+   "grade": "",
+   "gist": "We burned $50,000 on a studio commercial for Black Friday that got beat by a mom filming on an iPhone in her car. The studio ad had an $82 customer acquisition cost while the car v",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103449355701080399",
+   "file": "2026-09-25-joshelizetxe-2103449355701080399.md",
+   "kind": "candidate",
+   "author": "joshelizetxe",
+   "date": "2026-09-25",
+   "url": "https://x.com/joshelizetxe/status/2103449355701080399",
+   "eng": "3L/2BM/495V",
+   "grade": "",
+   "gist": "Halara scaled 10,000 creator affiliates using that exact same distribution logic without paid ads. Here is the exact operating blueprint behind their engine 1. They relied on produ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100475651384111473",
+   "file": "2026-09-17-RonRauwerda-2100475651384111473.md",
+   "kind": "candidate",
+   "author": "RonRauwerda",
+   "date": "2026-09-17",
+   "url": "https://x.com/RonRauwerda/status/2100475651384111473",
+   "eng": "4L/0BM/64V",
+   "grade": "",
+   "gist": "I honestly don't know why brand owners still pay UGC creators upfront or per piece of content without knowing if they convert for your brand. I highly recommend you start building ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

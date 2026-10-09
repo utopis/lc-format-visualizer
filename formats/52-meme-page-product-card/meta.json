@@ -1,0 +1,164 @@
+{
+ "id": "F52",
+ "slug": "52-meme-page-product-card",
+ "name": "Owned meme / niche page with product card ('bro vs me')",
+ "title": "52 · Owned meme / niche page with product card (\"bro vs me\")",
+ "n_examples": 8,
+ "n_curated": 2,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2107564115275501944",
+   "file": "2026-10-06-leonclipping-2107564115275501944.md",
+   "kind": "curated",
+   "author": "leonclipping",
+   "date": "2026-10-06",
+   "url": "https://x.com/leonclipping/status/2107564115275501944",
+   "eng": "23L/25BM/1kV",
+   "grade": "VALUE",
+   "gist": "Supercar \"bro vs me\" meme page with the app's speed card pasted on the photo: 2.2k followers, 736k likes, top post 1.4M views.",
+   "thumb": "https://pbs.twimg.com/media/HT-SSwRXUAAwAbb.jpg",
+   "media": [
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2085621175292670183",
+   "file": "2026-08-07-zackpaid-2085621175292670183.md",
+   "kind": "curated",
+   "author": "zackpaid",
+   "date": "2026-08-07",
+   "url": "https://x.com/zackpaid/status/2085621175292670183",
+   "eng": "9L/20BM/2kV",
+   "grade": "SOME",
+   "gist": "11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-doc, meme.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "cited",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086540833717895480",
+   "file": "2026-08-09-gauravsbuilding-2086540833717895480.md",
+   "kind": "candidate",
+   "author": "gauravsbuilding",
+   "date": "2026-08-09",
+   "url": "https://x.com/gauravsbuilding/status/2086540833717895480",
+   "eng": "62L/76BM/5kV",
+   "grade": "",
+   "gist": "Attention all founders who don't know how to market your app, it's fr this easy. Create IG + TikTok pages for: 1. Your Brand 2. AI Influencer 3. Theme page Then, just copy what's t",
+   "thumb": "https://pbs.twimg.com/media/HPThyTRawAAG8mD.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102397506843725858",
+   "file": "2026-09-22-cattybk-2102397506843725858.md",
+   "kind": "candidate",
+   "author": "cattybk",
+   "date": "2026-09-22",
+   "url": "https://x.com/cattybk/status/2102397506843725858",
+   "eng": "17L/15BM/886V",
+   "grade": "",
+   "gist": "The most interesting companies being built right now aren't tech companies. They're ad agencies. If, like me, you want to be creative but you're not talented enough to write a hit ",
+   "thumb": "https://pbs.twimg.com/media/HSv6FxCXEAE9QTQ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103741617194578191",
+   "file": "2026-09-26-shadcnblocks-2103741617194578191.md",
+   "kind": "candidate",
+   "author": "shadcnblocks",
+   "date": "2026-09-26",
+   "url": "https://x.com/shadcnblocks/status/2103741617194578191",
+   "eng": "7L/2BM/309V",
+   "grade": "",
+   "gist": "Copy DESIGN.md from any theme Open Alpine, Vercel, or any theme page → Brand guidelines → Copy DESIGN.md. Then install tokens with the shadcn CLI. Agents get the brief; your app ge",
+   "thumb": "https://pbs.twimg.com/media/HTH92bJXkAA0I-s.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107316507000570255",
+   "file": "2026-10-06-zyrogrowth-2107316507000570255.md",
+   "kind": "candidate",
+   "author": "zyrogrowth",
+   "date": "2026-10-06",
+   "url": "https://x.com/zyrogrowth/status/2107316507000570255",
+   "eng": "4L/0BM/186V",
+   "grade": "",
+   "gist": "some app brands’ marketing looks like a niche page you’d follow even if you never downloaded the app. “5 dinners for when you’re too tired to cook” “how to stop forgetting everythi",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2080698247467655181",
+   "file": "2026-07-24-ceobanzzz-2080698247467655181.md",
+   "kind": "candidate",
+   "author": "ceobanzzz",
+   "date": "2026-07-24",
+   "url": "https://x.com/ceobanzzz/status/2080698247467655181",
+   "eng": "3L/0BM/140V",
+   "grade": "",
+   "gist": "You interacted w/ a coordinated clip network this week and i can prove it w/o seeing your feed Somewhere in your scrolling, a brand or a song or a take showed up 3+ times from diff",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

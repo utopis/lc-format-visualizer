@@ -1,0 +1,124 @@
+{
+ "id": "F15",
+ "slug": "15-retro-infomercial-expert-authority",
+ "name": "Retro TV infomercial / expert authority (1987 daytime-TV look, \"professor interview\")",
+ "title": "15 · Retro infomercial",
+ "n_examples": 5,
+ "n_curated": 3,
+ "n_candidates": 2,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "in progress"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2105329322496016777",
+   "file": "2026-09-30-tryatria_AI-2105329322496016777.md",
+   "kind": "curated",
+   "author": "tryatria_AI",
+   "date": "2026-09-30",
+   "url": "https://x.com/tryatria_AI/status/2105329322496016777",
+   "eng": "118L/211BM/8kV",
+   "grade": "VALUE",
+   "gist": "Retro 1987-TV dermatologist ad: un-polished authority format stands out.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105125309880410112/img/XeQSSv9KrrVAoET1.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2088597593949692087",
+   "file": "2026-08-15-CEO_Vlad-2088597593949692087.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-08-15",
+   "url": "https://x.com/CEO_Vlad/status/2088597593949692087",
+   "eng": "78L/117BM/7kV",
+   "grade": "SOME",
+   "gist": "AI pharmacist ad format: $5, 4 minutes (authority-figure risk).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2088597574924337153/img/-j9Q5HmkhiE5QSuu.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2108228200421576872",
+   "file": "2026-10-08-antonioventre_-2108228200421576872.md",
+   "kind": "curated",
+   "author": "antonioventre_",
+   "date": "2026-10-08",
+   "url": "https://x.com/antonioventre_/status/2108228200421576872",
+   "eng": "47L/49BM/3kV",
+   "grade": "VALUE",
+   "gist": "Supplement 3.17x ROAS: 1 CBO/product, 1 ad set/persona; creatives = Suno AI ads, professor interview...",
+   "thumb": "https://pbs.twimg.com/media/HUHuYEeWcAEc411.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092191032645431595",
+   "file": "2026-08-25-HenryCrochemore-2092191032645431595.md",
+   "kind": "candidate",
+   "author": "HenryCrochemore",
+   "date": "2026-08-25",
+   "url": "https://x.com/HenryCrochemore/status/2092191032645431595",
+   "eng": "5L/1BM/394V",
+   "grade": "",
+   "gist": "this static is weird enough to make you stop poo-pourri took a product nobody wants to think about and wrapped it in a polished retro ad the contrast is what makes it work classy v",
+   "thumb": "https://pbs.twimg.com/media/HQj0p1hWAAAADdB.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085467482224247014",
+   "file": "2026-08-06-TomReichertWA-2085467482224247014.md",
+   "kind": "candidate",
+   "author": "TomReichertWA",
+   "date": "2026-08-06",
+   "url": "https://x.com/TomReichertWA/status/2085467482224247014",
+   "eng": "3L/0BM/90V",
+   "grade": "",
+   "gist": "@CocaCola Quick jump to tick tock to dub in music to my Grok made clip now I made you a retro ad in a minute 😎 @nikitabier @X @elonmusk Hot weather grate soft drink grate retro son",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2085467435441037312/img/M_0UK77QzLsmmX0M.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

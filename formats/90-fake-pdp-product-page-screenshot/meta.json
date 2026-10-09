@@ -1,0 +1,71 @@
+{
+ "id": "F90",
+ "slug": "90-fake-pdp-product-page-screenshot",
+ "name": "'Fake PDP': a product-page screenshot as the ad (+ app-settings / Trustpilot / comment screenshots)",
+ "title": "90 · \"Fake PDP\": a product-page screenshot as the ad (+ app-settings / Trustpilot / comment screenshots)",
+ "n_examples": 2,
+ "n_curated": 1,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2106046297434374289",
+   "file": "2026-10-02-FedotOff90-2106046297434374289.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-10-02",
+   "url": "https://x.com/FedotOff90/status/2106046297434374289",
+   "eng": "151L/268BM/11kV",
+   "grade": "VALUE",
+   "gist": "Statics that do not look like ads: Notes, iMessage, Reddit, tweet, email, app settings, breaking news, fake product page; 200 on one board + Native Statics Machine doc.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104949773539442831",
+   "file": "2026-09-29-FedotOff90-2104949773539442831.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-09-29",
+   "url": "https://x.com/FedotOff90/status/2104949773539442831",
+   "eng": "110L/208BM/9kV",
+   "grade": "VALUE",
+   "gist": "37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero stars.",
+   "thumb": "https://pbs.twimg.com/media/HTZIqJBbEAAgPsJ.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

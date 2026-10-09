@@ -1,0 +1,134 @@
+{
+ "id": "F47",
+ "slug": "47-grwm-stack-with-me",
+ "name": "GRWM / 'stack with me'",
+ "title": "47 · GRWM / \"stack with me\"",
+ "n_examples": 6,
+ "n_curated": 4,
+ "n_candidates": 2,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2103180929057407425",
+   "file": "2026-09-24-Ecombos_Ai-2103180929057407425.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-09-24",
+   "url": "https://x.com/Ecombos_Ai/status/2103180929057407425",
+   "eng": "28L/26BM/2kV",
+   "grade": "SOME",
+   "gist": "10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/after, whiteboard.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2089827933561016787",
+   "file": "2026-08-18-rirahcreates-2089827933561016787.md",
+   "kind": "curated",
+   "author": "rirahcreates",
+   "date": "2026-08-18",
+   "url": "https://x.com/rirahcreates/status/2089827933561016787",
+   "eng": "12L/17BM/1kV",
+   "grade": "SOME",
+   "gist": "20 UGC types: talking head, review, unboxing, testimonial, demo, problem/solution, before/after, GRWM, DITL, voiceover, routine, how-to, FAQ, 3 reasons why, POV.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2067636022251290725",
+   "file": "2026-06-18-ugcAshleyRJ-2067636022251290725.md",
+   "kind": "curated",
+   "author": "ugcAshleyRJ",
+   "date": "2026-06-18",
+   "url": "https://x.com/ugcAshleyRJ/status/2067636022251290725",
+   "eng": "13L/5BM/534V",
+   "grade": "SOME",
+   "gist": "The 0.5x ultra-wide POV filming technique for demos, GRWM and day-in-the-life — immersive, native.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2067635963845652480/img/si1NW3KQ_N-c4Mtq.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2063387846803673406",
+   "file": "2026-06-06-0xJeyx-2063387846803673406.md",
+   "kind": "curated",
+   "author": "0xJeyx",
+   "date": "2026-06-06",
+   "url": "https://x.com/0xJeyx/status/2063387846803673406",
+   "eng": "15L/3BM/889V",
+   "grade": "SOME",
+   "gist": "Generate the same product as every format at once (street quiz, review, GRWM, DITL) and let the feed pick — example: \"$50 street quiz\" video.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2063387368825008129/img/X-8TAA46qSijW8jD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2098427836142854483",
+   "file": "2026-09-11-BRAZOyMARTILLO-2098427836142854483.md",
+   "kind": "candidate",
+   "author": "BRAZOyMARTILLO",
+   "date": "2026-09-11",
+   "url": "https://x.com/BRAZOyMARTILLO/status/2098427836142854483",
+   "eng": "82L/1BM/1kV",
+   "grade": "",
+   "gist": "Just thinking about how the Bvlgari ad with Hudson Williams was a de facto “get ready with me” video for his Serpenti Infinito afterparty look. So cunty to have a GRWM as an offici",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2084621955752145291",
+   "file": "2026-08-04-moneytokwitbuki-2084621955752145291.md",
+   "kind": "candidate",
+   "author": "moneytokwitbuki",
+   "date": "2026-08-04",
+   "url": "https://x.com/moneytokwitbuki/status/2084621955752145291",
+   "eng": "17L/0BM/507V",
+   "grade": "",
+   "gist": "Brand Study: rhode rhode's primary target audience is Gen Z and Millennials. Before the official product launch, the founder built anticipation by consistently posting GRWM (Get Re",
+   "thumb": "https://pbs.twimg.com/media/HO4Qk8NW4AAhAZD.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

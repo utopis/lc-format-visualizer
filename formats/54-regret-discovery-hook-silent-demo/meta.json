@@ -1,0 +1,236 @@
+{
+ "id": "F54",
+ "slug": "54-regret-discovery-hook-silent-demo",
+ "name": "'Been doing X for N years and NOW I find this???' — regret-discovery hook + silent demo",
+ "title": "54 · \"Been doing X for N years and NOW I find this???\" — regret-discovery hook + silent demo",
+ "n_examples": 12,
+ "n_curated": 7,
+ "n_candidates": 5,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2084739019187847201",
+   "file": "2026-08-04-pixclipper-2084739019187847201.md",
+   "kind": "curated",
+   "author": "pixclipper",
+   "date": "2026-08-04",
+   "url": "https://x.com/pixclipper/status/2084739019187847201",
+   "eng": "134L/339BM/26kV",
+   "grade": "VALUE",
+   "gist": "Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, 3 carry 60% of views.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2084738947930800128/img/fsTyiOMhLqvfhxQ5.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2090121630538412531",
+   "file": "2026-08-19-themariaines-2090121630538412531.md",
+   "kind": "curated",
+   "author": "themariaines",
+   "date": "2026-08-19",
+   "url": "https://x.com/themariaines/status/2090121630538412531",
+   "eng": "25L/42BM/3kV",
+   "grade": "SOME",
+   "gist": "Herbi: 70K downloads, $20K/mo in 50 days, 20M+ views; Mise copied the playbook → $100K/mo in 5 weeks.",
+   "thumb": "https://pbs.twimg.com/media/HQGaiwKbcAAgDRs.png",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107471216126906682",
+   "file": "2026-10-06-consumerxai-2107471216126906682.md",
+   "kind": "curated",
+   "author": "consumerxai",
+   "date": "2026-10-06",
+   "url": "https://x.com/consumerxai/status/2107471216126906682",
+   "eng": "12L/18BM/1kV",
+   "grade": "SOME",
+   "gist": "30 most-SAVED app TikTok hooks in 6 types (POV moment, name the viewer, disbelief, signs/lists, result first, pattern interrupt); save rate > views as signal.",
+   "thumb": "",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087932298939544011",
+   "file": "2026-08-13-wesocialgrowth-2087932298939544011.md",
+   "kind": "curated",
+   "author": "wesocialgrowth",
+   "date": "2026-08-13",
+   "url": "https://x.com/wesocialgrowth/status/2087932298939544011",
+   "eng": "2L/8BM/838V",
+   "grade": "SOME",
+   "gist": "Herbi + Mise: 30M+ combined views with shocked reaction + app demo + \"been shopping at [supermarket] for 10 years and NOW I FIND THIS\".",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087932233101488128/img/EJVQ_hfXUNJ4An84.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2079949900037415215",
+   "file": "2026-07-22-jakeackerm-2079949900037415215.md",
+   "kind": "curated",
+   "author": "jakeackerm",
+   "date": "2026-07-22",
+   "url": "https://x.com/jakeackerm/status/2079949900037415215",
+   "eng": "1L/0BM/88V",
+   "grade": "SOME",
+   "gist": "2.6M views in 7 days: crying face + text, then app demo; template \"been (doing X) for x years and NOW I FIND THIS ???\".",
+   "thumb": "",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2108191952047153611",
+   "file": "2026-10-08-themariaines-2108191952047153611.md",
+   "kind": "curated",
+   "author": "themariaines",
+   "date": "2026-10-08",
+   "url": "https://x.com/themariaines/status/2108191952047153611",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Same hook, same format, different app: Albo 891.8K views, $70K/mo — \"been shopping at Aldi for 10 years and NOW I FIND THIS\" + silent demo.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2086845144230416463",
+   "file": "2026-08-10-themariaines-2086845144230416463.md",
+   "kind": "curated",
+   "author": "themariaines",
+   "date": "2026-08-10",
+   "url": "https://x.com/themariaines/status/2086845144230416463",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "miso: $100K MRR and 100K downloads 5 weeks after launch with the regret-discovery hook; one video 8.0M views, 200K shares.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2075946162235011466",
+   "file": "2026-07-11-danclipping-2075946162235011466.md",
+   "kind": "candidate",
+   "author": "danclipping",
+   "date": "2026-07-11",
+   "url": "https://x.com/danclipping/status/2075946162235011466",
+   "eng": "233L/331BM/25kV",
+   "grade": "",
+   "gist": "$976K/month is crazy This is a study/homework helper AI app with 350 million users Just from UGC creators They run formats like \"I just found this app and it kinda feels illegal\" D",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2075946106262036480/img/xcX8MTQm1UDK619z.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097280776421126601",
+   "file": "2026-09-08-ColinMaddenUGC-2097280776421126601.md",
+   "kind": "candidate",
+   "author": "ColinMaddenUGC",
+   "date": "2026-09-08",
+   "url": "https://x.com/ColinMaddenUGC/status/2097280776421126601",
+   "eng": "110L/259BM/8kV",
+   "grade": "",
+   "gist": "Our 1.8k-follower UGC creator pulled 12.2M views while some 400k-follower ones can’t even hit 10k… We’ve seen this happen across 100s of brands and the quality of the hook is the d",
+   "thumb": "https://pbs.twimg.com/media/HRsJXe5a0AAmK_Q.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090016988223430845",
+   "file": "2026-08-19-pixclipper-2090016988223430845.md",
+   "kind": "candidate",
+   "author": "pixclipper",
+   "date": "2026-08-19",
+   "url": "https://x.com/pixclipper/status/2090016988223430845",
+   "eng": "124L/207BM/14kV",
+   "grade": "",
+   "gist": "this app crossed $100K revenue and 100K downloads in under 50 days 🤯 their whole strategy is one ugc format on repeat: - shocked face reaction - a snapchat-style caption on top (\"b",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090016317344538624/img/mWRa_NquQc-jw0OE.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2084732666394431581",
+   "file": "2026-08-04-one_mtb-2084732666394431581.md",
+   "kind": "candidate",
+   "author": "one_mtb",
+   "date": "2026-08-04",
+   "url": "https://x.com/one_mtb/status/2084732666394431581",
+   "eng": "69L/77BM/7kV",
+   "grade": "",
+   "gist": "Here’s a $1M MRR app idea that NOBODY has built…. An AI parking ticket fighter Here’s how I would build and scale it 👇 - Launch the app in a week (I used SuperApp to make this) - P",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2084732642478460928/img/X6vOGyFQf4IecpRO.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107132379123077221",
+   "file": "2026-10-05-PerezHatesAI-2107132379123077221.md",
+   "kind": "candidate",
+   "author": "PerezHatesAI",
+   "date": "2026-10-05",
+   "url": "https://x.com/PerezHatesAI/status/2107132379123077221",
+   "eng": "36L/65BM/3kV",
+   "grade": "",
+   "gist": "I need to sit down 😭 29.3M views. 376K saves. 121K shares. For a meal planning app. The hook isn't the app. It's this line: \"been shopping at Aldi literally for 7 years and I'm JUS",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107132324290916352/img/GSnlzuxtMGAm9lMa.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

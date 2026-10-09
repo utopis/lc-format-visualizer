@@ -1,0 +1,292 @@
+{
+ "id": "F07",
+ "slug": "07-street-interview-overheard-question",
+ "name": "Street / resort interview & \"overheard question\" (\"what are you wearing?\")",
+ "title": "07 · Street interview & overheard question",
+ "n_examples": 16,
+ "n_curated": 5,
+ "n_candidates": 11,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2094742062755422423",
+   "file": "2026-09-01-adamtaylorl-2094742062755422423.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-09-01",
+   "url": "https://x.com/adamtaylorl/status/2094742062755422423",
+   "eng": "362L/466BM/26kV",
+   "grade": "VALUE",
+   "gist": "GroundingWell 550+ ads: hotel guests asking what mattress they use (overheard-question angle).",
+   "thumb": "https://pbs.twimg.com/media/HRHpDd_XwAAENly.jpg",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2097641383355879452",
+   "file": "2026-09-09-adamtaylorl-2097641383355879452.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-09-09",
+   "url": "https://x.com/adamtaylorl/status/2097641383355879452",
+   "eng": "139L/203BM/13kV",
+   "grade": "VALUE",
+   "gist": "Tier list of ecom formats: F = AI UGC, street interviews, read scripts; B = founder, testimonial compilations, listicle statics...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2104536224488738839",
+   "file": "2026-09-28-lorenzo_pravata-2104536224488738839.md",
+   "kind": "curated",
+   "author": "lorenzo_pravata",
+   "date": "2026-09-28",
+   "url": "https://x.com/lorenzo_pravata/status/2104536224488738839",
+   "eng": "150L/196BM/10kV",
+   "grade": "VALUE",
+   "gist": "\"Ads that don't look like ads\": podcast clips, street interviews, skits with studio actors; pet brand $29K→$150K/mo spend in 60 days, CPA $188→$124.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101280447154036917",
+   "file": "2026-09-19-ZedNilm1-2101280447154036917.md",
+   "kind": "curated",
+   "author": "ZedNilm1",
+   "date": "2026-09-19",
+   "url": "https://x.com/ZedNilm1/status/2101280447154036917",
+   "eng": "116L/185BM/17kV",
+   "grade": "VALUE",
+   "gist": "Resilia AI street interviews with 90+ year olds - believable, near-zero ad feel.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101280417735192576/img/VF2LU3T4yug5TvFj.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2095860430099058905",
+   "file": "2026-09-04-tryatria_AI-2095860430099058905.md",
+   "kind": "curated",
+   "author": "tryatria_AI",
+   "date": "2026-09-04",
+   "url": "https://x.com/tryatria_AI/status/2095860430099058905",
+   "eng": "83L/150BM/9kV",
+   "grade": "VALUE",
+   "gist": "AI resort 'random interview' ('Are you really 56?') hook format.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2095618726930309124/img/1ZwEcD-Bzf6y5A_g.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2078901864498692155",
+   "file": "2026-07-19-0xROAS-2078901864498692155.md",
+   "kind": "candidate",
+   "author": "0xROAS",
+   "date": "2026-07-19",
+   "url": "https://x.com/0xROAS/status/2078901864498692155",
+   "eng": "170L/235BM/20kV",
+   "grade": "",
+   "gist": "the new drama ADS are crushing on fb lol. you can literally do any format with AI: - podcasts - street interview - drama ads - doctor/authority figure - whatever you want it's lite",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078901500508622848/img/v2FmEf8ln8xD2jbw.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2081842993557127634",
+   "file": "2026-07-27-mikefutia-2081842993557127634.md",
+   "kind": "candidate",
+   "author": "mikefutia",
+   "date": "2026-07-27",
+   "url": "https://x.com/mikefutia/status/2081842993557127634",
+   "eng": "105L/179BM/12kV",
+   "grade": "",
+   "gist": "Claude Opus 5 + Seedance 2.0 = insane AI street interview ads 🤯 Character consistency, voice consistency, and product fidelity across a full 45-second continuous ad. All one with C",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2081840566430539776/img/2y-k8x5aLdEBB_yT.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080007884406960319",
+   "file": "2026-07-22-maxxmalist-2080007884406960319.md",
+   "kind": "candidate",
+   "author": "maxxmalist",
+   "date": "2026-07-22",
+   "url": "https://x.com/maxxmalist/status/2080007884406960319",
+   "eng": "57L/75BM/6kV",
+   "grade": "",
+   "gist": "the new animation ads are crushing on fb here's an example created by my whop member you can literally do any format with AI: - podcasts - street interview - animations (any kind) ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2080007265671614464/img/MRDcysb03bHfs_Qk.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2094742070468730903",
+   "file": "2026-09-01-OriSilver-2094742070468730903.md",
+   "kind": "candidate",
+   "author": "OriSilver",
+   "date": "2026-09-01",
+   "url": "https://x.com/OriSilver/status/2094742070468730903",
+   "eng": "34L/44BM/2kV",
+   "grade": "",
+   "gist": "📂 THE AI AD FACTORY ┃ ┣ 📂 Research ┃ ┣ 📂 Audience & Pain Points ┃ ┣ 📂 Failed Solutions ┃ ┣ 📂 Objections & Misconceptions ┃ ┣ 📂 Voice of Customer ┃ ┣ 📂 Competitor Ad Libraries ┃ ┗ 📂",
+   "thumb": "https://pbs.twimg.com/media/HRHy5MJXMAAwqZe.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100648440497836261",
+   "file": "2026-09-17-social_savannah-2100648440497836261.md",
+   "kind": "candidate",
+   "author": "social_savannah",
+   "date": "2026-09-17",
+   "url": "https://x.com/social_savannah/status/2100648440497836261",
+   "eng": "36L/28BM/3kV",
+   "grade": "",
+   "gist": "This ad format just won't die... The \"man on the street\" interview. It's not a new concept, but it continues to work across so many clients, so I just keep making them! 😁 Why does ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100648274827096064/img/kMzohQzocul9uwlw.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2091914961647763539",
+   "file": "2026-08-24-mikefutia-2091914961647763539.md",
+   "kind": "candidate",
+   "author": "mikefutia",
+   "date": "2026-08-24",
+   "url": "https://x.com/mikefutia/status/2091914961647763539",
+   "eng": "22L/33BM/4kV",
+   "grade": "",
+   "gist": "Claude Fable 5 + Seedance 2.0 = insane AI street interview ads 🤯 Claude writes the interview and every Seedance prompt in order, so the same stranger stays the same person across a",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2091914616045547520/img/QzzCIhoYe_IhtuUk.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092248121581486114",
+   "file": "2026-08-25-vicmediaco-2092248121581486114.md",
+   "kind": "candidate",
+   "author": "vicmediaco",
+   "date": "2026-08-25",
+   "url": "https://x.com/vicmediaco/status/2092248121581486114",
+   "eng": "30L/7BM/1kV",
+   "grade": "",
+   "gist": "Made this street interview ad for a beauty brand … what do you think ? Need Video ads? …send a DM 📩 https://t.co/Km4XvI6oNF",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092248062940868608/img/Q9EdZ4UTo8UNQ-34.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2087181812103831724",
+   "file": "2026-08-11-theisaacmed-2087181812103831724.md",
+   "kind": "candidate",
+   "author": "theisaacmed",
+   "date": "2026-08-11",
+   "url": "https://x.com/theisaacmed/status/2087181812103831724",
+   "eng": "20L/6BM/9kV",
+   "grade": "",
+   "gist": "The ad frequency on my meta account for street interview agencies is at 100x. Every day I login to ig and am blasted by ads. https://t.co/UdeTr0VJDw",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087181766973140992/img/Lx8NZTuYgsWEqiXY.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2095874336037224567",
+   "file": "2026-09-04-dileshumale-2095874336037224567.md",
+   "kind": "candidate",
+   "author": "dileshumale",
+   "date": "2026-09-04",
+   "url": "https://x.com/dileshumale/status/2095874336037224567",
+   "eng": "13L/6BM/2kV",
+   "grade": "",
+   "gist": "I have an idea, has anyone tried street interview style ads outside colleges, offices, etc? Give people a product for free, ask a few fun questions, capture genuine reactions. The ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2081832941483614365",
+   "file": "2026-07-27-joshsuggss-2081832941483614365.md",
+   "kind": "candidate",
+   "author": "joshsuggss",
+   "date": "2026-07-27",
+   "url": "https://x.com/joshsuggss/status/2081832941483614365",
+   "eng": "7L/2BM/729V",
+   "grade": "",
+   "gist": "There's money in making people money Generate leads or make a new ad format Take what business are already doing Then put a spin on it you can own This was my concept for street in",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2081848221903536430",
+   "file": "2026-07-27-Mo_ali-2081848221903536430.md",
+   "kind": "candidate",
+   "author": "Mo_ali",
+   "date": "2026-07-27",
+   "url": "https://x.com/Mo_ali/status/2081848221903536430",
+   "eng": "4L/0BM/285V",
+   "grade": "",
+   "gist": "AI STREET INTERVIEW ADS ARE GETTING MORE PRACTICAL The biggest challenge with AI-generated street interview ads has never been creating a single good shot. It’s keeping everything ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

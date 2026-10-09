@@ -1,0 +1,341 @@
+{
+ "id": "F39",
+ "slug": "39-x-reasons-why",
+ "name": "'3 reasons why' / X reasons listicle ad",
+ "title": "39 · \"3 reasons why\" / X reasons listicle ad",
+ "n_examples": 20,
+ "n_curated": 10,
+ "n_candidates": 10,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2081785032679518490",
+   "file": "2026-07-27-ads4apps-2081785032679518490.md",
+   "kind": "curated",
+   "author": "ads4apps",
+   "date": "2026-07-27",
+   "url": "https://x.com/ads4apps/status/2081785032679518490",
+   "eng": "412L/930BM/27kV",
+   "grade": "VALUE",
+   "gist": "39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breaking news, Reddit, Google search, text on skin, tier list, zero stars…",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103910235005935644",
+   "file": "2026-09-26-williamkast_-2103910235005935644.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-09-26",
+   "url": "https://x.com/williamkast_/status/2103910235005935644",
+   "eng": "252L/400BM/13kV",
+   "grade": "VALUE",
+   "gist": "Formats by funnel: TOF founder/yapper/AI animation/natives/3 reasons/voiceless overlay; MOF comment reply/testimonial mashup/text wall; BOF urgency statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "curated",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2086835243474985414",
+   "file": "2026-08-10-williamkast_-2086835243474985414.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-10",
+   "url": "https://x.com/williamkast_/status/2086835243474985414",
+   "eng": "38L/46BM/3kV",
+   "grade": "VALUE",
+   "gist": "Turn 1 winning ad into 5: same message, different frameworks (DITL, 3 reasons, old me/new me, phone call).",
+   "thumb": "https://pbs.twimg.com/media/HPXtmCoWQAAelu1.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2089827933561016787",
+   "file": "2026-08-18-rirahcreates-2089827933561016787.md",
+   "kind": "curated",
+   "author": "rirahcreates",
+   "date": "2026-08-18",
+   "url": "https://x.com/rirahcreates/status/2089827933561016787",
+   "eng": "12L/17BM/1kV",
+   "grade": "SOME",
+   "gist": "20 UGC types: talking head, review, unboxing, testimonial, demo, problem/solution, before/after, GRWM, DITL, voiceover, routine, how-to, FAQ, 3 reasons why, POV.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2083616523134841035",
+   "file": "2026-08-01-williamkast_-2083616523134841035.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-01",
+   "url": "https://x.com/williamkast_/status/2083616523134841035",
+   "eng": "12L/14BM/967V",
+   "grade": "VALUE",
+   "gist": "15 formats to repackage winners into (scaled to $30k/day on 3-4 angles): founder, yapper, AI animation, voiceless overlay, carousel, reply ad, text wall, review static, camouflage.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090725512976970065",
+   "file": "2026-08-21-raph_guilhem-2090725512976970065.md",
+   "kind": "curated",
+   "author": "raph_guilhem",
+   "date": "2026-08-21",
+   "url": "https://x.com/raph_guilhem/status/2090725512976970065",
+   "eng": "9L/6BM/377V",
+   "grade": "SOME",
+   "gist": "35 static/native formats tree: Trustpilot, text msg, email screenshot, Reddit, text on skin, crossed-out, tier list, Venn, breaking news.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090725302146105344/img/uA1K2IYxklTm-uus.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2084659151578202574",
+   "file": "2026-08-04-williamkast_-2084659151578202574.md",
+   "kind": "curated",
+   "author": "williamkast_",
+   "date": "2026-08-04",
+   "url": "https://x.com/williamkast_/status/2084659151578202574",
+   "eng": "2L/4BM/480V",
+   "grade": "VALUE",
+   "gist": "Creative diversity matrix image: 5 production formats × 5 frameworks = 25 concepts from one message.",
+   "thumb": "https://pbs.twimg.com/media/HO4ycvxXEAARHiz.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2084775630152114293",
+   "file": "2026-08-04-_evancarroll-2084775630152114293.md",
+   "kind": "curated",
+   "author": "_evancarroll",
+   "date": "2026-08-04",
+   "url": "https://x.com/_evancarroll/status/2084775630152114293",
+   "eng": "4L/2BM/239V",
+   "grade": "SOME",
+   "gist": "15 AI static frameworks: 3 core benefits, bold claim, us vs them, comparison chart, old vs new, 5-star, stat, press screenshot, notes app, sticky notes, meme, lo-fi.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085017654364958737",
+   "file": "2026-08-05-Yannlce-2085017654364958737.md",
+   "kind": "curated",
+   "author": "Yannlce",
+   "date": "2026-08-05",
+   "url": "https://x.com/Yannlce/status/2085017654364958737",
+   "eng": "3L/2BM/1kV",
+   "grade": "SOME",
+   "gist": "Same 40-format list (adds claymation, AI podcast).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077818070580548013",
+   "file": "2026-07-16-williamkast_-2077818070580548013.md",
+   "kind": "candidate",
+   "author": "williamkast_",
+   "date": "2026-07-16",
+   "url": "https://x.com/williamkast_/status/2077818070580548013",
+   "eng": "214L/374BM/13kV",
+   "grade": "",
+   "gist": "Best creative formats on Meta for each funnel stage: TOF: - Founders Ad - UGC - AI Animation - Yapper Ad - Native Statics - Long form VS - Podcasts - 3 reasons why - Voiceless text",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090384597737508973",
+   "file": "2026-08-20-lorenzo_pravata-2090384597737508973.md",
+   "kind": "candidate",
+   "author": "lorenzo_pravata",
+   "date": "2026-08-20",
+   "url": "https://x.com/lorenzo_pravata/status/2090384597737508973",
+   "eng": "70L/121BM/5kV",
+   "grade": "",
+   "gist": "This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad account 3. Our B-roll generation ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090376266335580160/img/wh04oScRUQlNf--u.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092929767993471081",
+   "file": "2026-08-27-Bogzabs96-2092929767993471081.md",
+   "kind": "candidate",
+   "author": "Bogzabs96",
+   "date": "2026-08-27",
+   "url": "https://x.com/Bogzabs96/status/2092929767993471081",
+   "eng": "39L/59BM/2kV",
+   "grade": "",
+   "gist": "This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad account 3. Our B-roll generation ",
+   "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2092929614855221248/pu/img/9jcmd_wJcXPlCJab.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102460670440567095",
+   "file": "2026-09-22-tryatria_AI-2102460670440567095.md",
+   "kind": "candidate",
+   "author": "tryatria_AI",
+   "date": "2026-09-22",
+   "url": "https://x.com/tryatria_AI/status/2102460670440567095",
+   "eng": "23L/41BM/2kV",
+   "grade": "",
+   "gist": "REASONS WHY ADS ARE ABSOLUTELY CRUSHING RIGHT NOW 👀🔥 It’s basically classic direct response marketing… rebuilt for Meta + TikTok. “Here are 3 reasons why…” → creates an open loop →",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102115583395344384/img/h2wU0AN_-uLppfoU.jpg",
+   "media": [
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100546772066254945",
+   "file": "2026-09-17-_kaushalshah-2100546772066254945.md",
+   "kind": "candidate",
+   "author": "_kaushalshah",
+   "date": "2026-09-17",
+   "url": "https://x.com/_kaushalshah/status/2100546772066254945",
+   "eng": "23L/33BM/3kV",
+   "grade": "",
+   "gist": "Meta ad tip - we have tried different formats to test a “3 reasons why” ad but for some reason it never worked. Recently we tested this format where you write a text all over the v",
+   "thumb": "https://pbs.twimg.com/media/HSakJu5a4AA8jYn.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2090857167213531391",
+   "file": "2026-08-21-KFragoulias-2090857167213531391.md",
+   "kind": "candidate",
+   "author": "KFragoulias",
+   "date": "2026-08-21",
+   "url": "https://x.com/KFragoulias/status/2090857167213531391",
+   "eng": "20L/12BM/1kV",
+   "grade": "",
+   "gist": "People dont dive deep enough when it comes to ads. Im seeing a lot of ads being ''3 reasons why'' ''this changed my life'' ''Before and after'' Its like going through copy paste ad",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2106461863189913892",
+   "file": "2026-10-03-thedennis-2106461863189913892.md",
+   "kind": "candidate",
+   "author": "thedennis",
+   "date": "2026-10-03",
+   "url": "https://x.com/thedennis/status/2106461863189913892",
+   "eng": "8L/12BM/1kV",
+   "grade": "",
+   "gist": "The fastest way to waste money on Meta is running the right ad at the wrong awareness level. Here's the map, and what happens when you get it wrong. Unaware: founder ad, podcast cl",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102890739432566805",
+   "file": "2026-09-23-SeanKim436-2102890739432566805.md",
+   "kind": "candidate",
+   "author": "SeanKim436",
+   "date": "2026-09-23",
+   "url": "https://x.com/SeanKim436/status/2102890739432566805",
+   "eng": "9L/4BM/525V",
+   "grade": "",
+   "gist": "Here are 3 reasons why the biggest consumer tech startups are POURING money into Canvas UGC over traditional influencer marketing in 2026 1. More volume Instead of betting the budg",
+   "thumb": "https://pbs.twimg.com/media/HS731gHWQAEv7Ib.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101459882461610159",
+   "file": "2026-09-19-LXMoore_-2101459882461610159.md",
+   "kind": "candidate",
+   "author": "LXMoore_",
+   "date": "2026-09-19",
+   "url": "https://x.com/LXMoore_/status/2101459882461610159",
+   "eng": "5L/2BM/3kV",
+   "grade": "",
+   "gist": "3 reasons why 1 ad per adsets sucks for creative testing - Your cost of testing will be too high - Not every ad deserves spend. Less than 15-20% of ads will be winners i.e you don'",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2076668028616323486",
+   "file": "2026-07-13-olimabane-2076668028616323486.md",
+   "kind": "candidate",
+   "author": "olimabane",
+   "date": "2026-07-13",
+   "url": "https://x.com/olimabane/status/2076668028616323486",
+   "eng": "3L/0BM/206V",
+   "grade": "",
+   "gist": "Do not send another creator outreach DM before you read this. The best whitelist asset you have is already on payroll. He's sitting in the founder's chair. Most brands think whitel",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

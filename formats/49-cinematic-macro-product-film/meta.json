@@ -1,0 +1,184 @@
+{
+ "id": "F49",
+ "slug": "49-cinematic-macro-product-film",
+ "name": "Cinematic macro product film (15s, no dialogue)",
+ "title": "49 · Cinematic macro product film (15s, no dialogue)",
+ "n_examples": 9,
+ "n_curated": 5,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108173638033871013",
+   "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+   "kind": "curated",
+   "author": "nicktheriot_",
+   "date": "2026-10-08",
+   "url": "https://x.com/nicktheriot_/status/2108173638033871013",
+   "eng": "219L/348BM/12kV",
+   "grade": "VALUE",
+   "gist": "2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL.",
+   "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2085621175292670183",
+   "file": "2026-08-07-zackpaid-2085621175292670183.md",
+   "kind": "curated",
+   "author": "zackpaid",
+   "date": "2026-08-07",
+   "url": "https://x.com/zackpaid/status/2085621175292670183",
+   "eng": "9L/20BM/2kV",
+   "grade": "SOME",
+   "gist": "11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-doc, meme.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086324982892605618",
+   "file": "2026-08-09-rirahcreates-2086324982892605618.md",
+   "kind": "curated",
+   "author": "rirahcreates",
+   "date": "2026-08-09",
+   "url": "https://x.com/rirahcreates/status/2086324982892605618",
+   "eng": "18L/7BM/454V",
+   "grade": "SOME",
+   "gist": "AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI documentary.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2086324307970449408/img/mQYnLhtLckmAyK7S.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2087086851148660816",
+   "file": "2026-08-11-lifemaximised-2087086851148660816.md",
+   "kind": "curated",
+   "author": "lifemaximised",
+   "date": "2026-08-11",
+   "url": "https://x.com/lifemaximised/status/2087086851148660816",
+   "eng": "12L/9BM/990V",
+   "grade": "SOME",
+   "gist": "Highest-ROAS YouTube ad anatomy: outcome text hook, 9-shot claymation villain arc, CTA last 3s, non-discount offer, custom-intent audiences, 6s Shorts bumper.",
+   "thumb": "https://pbs.twimg.com/tweet_video_thumb/HPbSUAkaUAAMVk0.jpg",
+   "media": [
+    "animated_gif"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2094059955472990517",
+   "file": "2026-08-30-lifemaximised-2094059955472990517.md",
+   "kind": "curated",
+   "author": "lifemaximised",
+   "date": "2026-08-30",
+   "url": "https://x.com/lifemaximised/status/2094059955472990517",
+   "eng": "8L/5BM/1kV",
+   "grade": "VALUE",
+   "gist": "Top 4 YouTube ad formats by awareness: claymation 9-shot (unaware), hybrid AI UGC (problem-aware), 15s cinematic no-dialogue product film (solution-aware), 6s Shorts bumper (remarketing). Prompts included.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094059022047449089/img/Q41n6QN9zTpKhYZX.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2080581505441480774",
+   "file": "2026-07-24-Balentin_J-2080581505441480774.md",
+   "kind": "candidate",
+   "author": "Balentin_J",
+   "date": "2026-07-24",
+   "url": "https://x.com/Balentin_J/status/2080581505441480774",
+   "eng": "68L/0BM/3kV",
+   "grade": "",
+   "gist": "&gt; What if a familiar kitchen moment could become a product story? 🥤 I explored that idea by reimagining the Vitamix A3500 as the centerpiece of a fresh, cinematic product launch",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2080581406971842560/img/dyxfNFu0_mylHR9O.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104226192085987378",
+   "file": "2026-09-27-alohaproxy-2104226192085987378.md",
+   "kind": "candidate",
+   "author": "alohaproxy",
+   "date": "2026-09-27",
+   "url": "https://x.com/alohaproxy/status/2104226192085987378",
+   "eng": "21L/0BM/781V",
+   "grade": "",
+   "gist": "Every founder wants to see their product here👑 Ankon AI is currently at HOF on HopUp. I thought that deserved more than a leaderboard card......So I turned it into a cinematic prod",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104225638274277376/img/1Wp907-XoV8yALmf.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2077709443165507626",
+   "file": "2026-07-16-gptproto-2077709443165507626.md",
+   "kind": "candidate",
+   "author": "gptproto",
+   "date": "2026-07-16",
+   "url": "https://x.com/gptproto/status/2077709443165507626",
+   "eng": "5L/5BM/526V",
+   "grade": "",
+   "gist": "Can AI create luxury brand advertisements? This fragrance commercial was created with AI. Workflow: 🖼️ GPT Image 2 → storyboard &amp; visual concept 🎬 Seedance 2.0 → cinematic prod",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2077708814649065474/img/aIIZRv7QkA-kux2K.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2088473026098774492",
+   "file": "2026-08-15-Imagvio_AI-2088473026098774492.md",
+   "kind": "candidate",
+   "author": "Imagvio_AI",
+   "date": "2026-08-15",
+   "url": "https://x.com/Imagvio_AI/status/2088473026098774492",
+   "eng": "4L/0BM/195V",
+   "grade": "",
+   "gist": "Your weekend challenge starts now. 🎬 We created this entire cinematic product ad with Imagvio AI — from the luxury store to the product reveal, ingredient visuals and final hero sh",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

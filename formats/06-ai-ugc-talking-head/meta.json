@@ -1,0 +1,638 @@
+{
+ "id": "F06",
+ "slug": "06-ai-ugc-talking-head",
+ "name": "AI UGC talking-head (avatar) — and its realism stack",
+ "title": "06 · AI UGC talking-head",
+ "n_examples": 37,
+ "n_curated": 28,
+ "n_candidates": 8,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2107873317369581751",
+   "file": "2026-10-07-jakecastilloooo-2107873317369581751.md",
+   "kind": "curated",
+   "author": "jakecastilloooo",
+   "date": "2026-10-07",
+   "url": "https://x.com/jakecastilloooo/status/2107873317369581751",
+   "eng": "984L/3090BM/290kV",
+   "grade": "VALUE",
+   "gist": "Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test take → batch → 4-platform scheduling → remake winners with real creators, then paid.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2101352217089282066",
+   "file": "2026-09-19-kristian_jennin-2101352217089282066.md",
+   "kind": "curated",
+   "author": "kristian_jennin",
+   "date": "2026-09-19",
+   "url": "https://x.com/kristian_jennin/status/2101352217089282066",
+   "eng": "1123L/3024BM/231kV",
+   "grade": "VALUE",
+   "gist": "AI UGC looks fake because of a missing step (realism workflow video).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101317945678868481/img/IYNqguRLj6oRPWtL.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2092612451623694388",
+   "file": "2026-08-26-eliasrrecom-2092612451623694388.md",
+   "kind": "curated",
+   "author": "eliasrrecom",
+   "date": "2026-08-26",
+   "url": "https://x.com/eliasrrecom/status/2092612451623694388",
+   "eng": "266L/548BM/54kV",
+   "grade": "SOME",
+   "gist": "Realistic AI UGC ads tutorial.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092612228562223104/img/9oHmmhXd3lbi41RP.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107552798842003488",
+   "file": "2026-10-06-zedmadeit-2107552798842003488.md",
+   "kind": "curated",
+   "author": "zedmadeit",
+   "date": "2026-10-06",
+   "url": "https://x.com/zedmadeit/status/2107552798842003488",
+   "eng": "347L/472BM/20kV",
+   "grade": "SOME",
+   "gist": "Intentional AI ad system starting from brand/product/customer, visuals matched to script.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107552585942986752/img/pWxNgiGDwm2SQTtK.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2089713928511345017",
+   "file": "2026-08-18-adamtaylorl-2089713928511345017.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-08-18",
+   "url": "https://x.com/adamtaylorl/status/2089713928511345017",
+   "eng": "266L/426BM/22kV",
+   "grade": "SOME",
+   "gist": "Hike Footwear ad 100% AI.",
+   "thumb": "https://pbs.twimg.com/media/HP6nceeWoAAUFUy.png",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2105377535345258584",
+   "file": "2026-09-30-frankyecom-2105377535345258584.md",
+   "kind": "curated",
+   "author": "frankyecom",
+   "date": "2026-09-30",
+   "url": "https://x.com/frankyecom/status/2105377535345258584",
+   "eng": "344L/248BM/54kV",
+   "grade": "VALUE",
+   "gist": "AI UGC dominating; women consume ads differently (story/drama) - creative strategist takeaway.",
+   "thumb": "https://pbs.twimg.com/media/HTfNgilWoAACZoz.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2097641383355879452",
+   "file": "2026-09-09-adamtaylorl-2097641383355879452.md",
+   "kind": "curated",
+   "author": "adamtaylorl",
+   "date": "2026-09-09",
+   "url": "https://x.com/adamtaylorl/status/2097641383355879452",
+   "eng": "139L/203BM/13kV",
+   "grade": "VALUE",
+   "gist": "Tier list of ecom formats: F = AI UGC, street interviews, read scripts; B = founder, testimonial compilations, listicle statics...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2085374858267857069",
+   "file": "2026-08-06-Mho_23-2085374858267857069.md",
+   "kind": "curated",
+   "author": "Mho_23",
+   "date": "2026-08-06",
+   "url": "https://x.com/Mho_23/status/2085374858267857069",
+   "eng": "131L/192BM/8kV",
+   "grade": "SOME",
+   "gist": "Realistic AI UGC with Seedance 2.0 full breakdown (mho_23).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2085374266669699072/img/d7XsSWZ0qfRQPorn.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104572111549247916",
+   "file": "2026-09-28-jonnyscales-2104572111549247916.md",
+   "kind": "curated",
+   "author": "jonnyscales",
+   "date": "2026-09-28",
+   "url": "https://x.com/jonnyscales/status/2104572111549247916",
+   "eng": "129L/180BM/8kV",
+   "grade": "VALUE",
+   "gist": "Consumer app distribution ranked: real organic UGC #1 ... AI UGC slop last.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082463906694648266",
+   "file": "2026-07-29-NahFlo2n-2082463906694648266.md",
+   "kind": "curated",
+   "author": "NahFlo2n",
+   "date": "2026-07-29",
+   "url": "https://x.com/NahFlo2n/status/2082463906694648266",
+   "eng": "169L/147BM/12kV",
+   "grade": "HYPE",
+   "gist": "$74k/mo from AI UGC avatars (promo).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082458944803336192/img/8gIxCEouwpW1x2Nv.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2097454666342674542",
+   "file": "2026-09-08-CEO_Vlad-2097454666342674542.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-09-08",
+   "url": "https://x.com/CEO_Vlad/status/2097454666342674542",
+   "eng": "105L/157BM/16kV",
+   "grade": "SOME",
+   "gist": "$200k/day brand on AI UGC; guide (angles, rewrite prompt, avatars).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097453124092895232/img/iR8_elgU5flN9ypy.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2096569603761827953",
+   "file": "2026-09-06-CEO_Vlad-2096569603761827953.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-09-06",
+   "url": "https://x.com/CEO_Vlad/status/2096569603761827953",
+   "eng": "88L/169BM/5kV",
+   "grade": "VALUE",
+   "gist": "AI UGC formats tiered: S = podcast, talking head, in-car...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2087883254850289744",
+   "file": "2026-08-13-LukasPakter-2087883254850289744.md",
+   "kind": "curated",
+   "author": "LukasPakter",
+   "date": "2026-08-13",
+   "url": "https://x.com/LukasPakter/status/2087883254850289744",
+   "eng": "169L/123BM/14kV",
+   "grade": "VALUE",
+   "gist": "$1M->$80M brand: 6,000+ ads/mo with $0 upfront (performance-based creators).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2087547218605523005",
+   "file": "2026-08-12-adswithcami-2087547218605523005.md",
+   "kind": "curated",
+   "author": "adswithcami",
+   "date": "2026-08-12",
+   "url": "https://x.com/adswithcami/status/2087547218605523005",
+   "eng": "83L/106BM/8kV",
+   "grade": "HYPE",
+   "gist": "AI UGC spent $405k/30d one client; comment-for-skill bait.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087547193724936192/img/rrd-zo-ZAtLfArCl.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104954498565464350",
+   "file": "2026-09-29-oliverxmedia-2104954498565464350.md",
+   "kind": "curated",
+   "author": "oliverxmedia",
+   "date": "2026-09-29",
+   "url": "https://x.com/oliverxmedia/status/2104954498565464350",
+   "eng": "130L/77BM/5kV",
+   "grade": "SOME",
+   "gist": "Realistic AI = reference images + precise prompts + consistent characters + guided motion.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104954441761955841/img/2fsjr-r_lebaToJw.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2102021063295013031",
+   "file": "2026-09-21-danclipping-2102021063295013031.md",
+   "kind": "curated",
+   "author": "danclipping",
+   "date": "2026-09-21",
+   "url": "https://x.com/danclipping/status/2102021063295013031",
+   "eng": "78L/99BM/6kV",
+   "grade": "SOME",
+   "gist": "Lock character/product JSON prompt -> 50 consistent AI UGC ads.",
+   "thumb": "https://pbs.twimg.com/media/HSvhAvjW8AAQQmX.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107472215474094436",
+   "file": "2026-10-06-jonnyscales-2107472215474094436.md",
+   "kind": "curated",
+   "author": "jonnyscales",
+   "date": "2026-10-06",
+   "url": "https://x.com/jonnyscales/status/2107472215474094436",
+   "eng": "43L/100BM/5kV",
+   "grade": "SOME",
+   "gist": "1.2M views in 48h from UGC campaign for app; how to escape 200-view jail.",
+   "thumb": "https://pbs.twimg.com/media/HT8-z5zXQAIN9Ow.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105345336768405749",
+   "file": "2026-09-30-sulfurscales-2105345336768405749.md",
+   "kind": "curated",
+   "author": "sulfurscales",
+   "date": "2026-09-30",
+   "url": "https://x.com/sulfurscales/status/2105345336768405749",
+   "eng": "164L/30BM/19kV",
+   "grade": "HYPE",
+   "gist": "Ava Studio AI UGC pitch (research hooks → scripts → variations → read Meta data).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105345077635874816/img/nWtaIItvzAuZj-i-.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2095562486481137809",
+   "file": "2026-09-03-JacobCanfield-2095562486481137809.md",
+   "kind": "curated",
+   "author": "JacobCanfield",
+   "date": "2026-09-03",
+   "url": "https://x.com/JacobCanfield/status/2095562486481137809",
+   "eng": "51L/52BM/10kV",
+   "grade": "VALUE",
+   "gist": "Old UGC model ($1k for 3-5 videos) dead -> performance creative management.",
+   "thumb": "https://pbs.twimg.com/media/HRTs6IKXoAITC4g.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2081741532915450137",
+   "file": "2026-07-27-oliverxmedia-2081741532915450137.md",
+   "kind": "curated",
+   "author": "oliverxmedia",
+   "date": "2026-07-27",
+   "url": "https://x.com/oliverxmedia/status/2081741532915450137",
+   "eng": "90L/17BM/23kV",
+   "grade": "HYPE",
+   "gist": "Same GIVA jewelry AI UGC promo.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2081741512988352512/img/Jn4yNzOJjBq4GT1G.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2101869170937958407",
+   "file": "2026-09-21-SparkifyAI-2101869170937958407.md",
+   "kind": "curated",
+   "author": "SparkifyAI",
+   "date": "2026-09-21",
+   "url": "https://x.com/SparkifyAI/status/2101869170937958407",
+   "eng": "134L/2BM/8kV",
+   "grade": "HYPE",
+   "gist": "GIVA jewelry UGC fully AI (Arcads promo) - jewelry reference.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101869151262494720/img/4XY4ZkdZ9lHVgzvO.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2105481327906853022",
+   "file": "2026-10-01-httpsean_ca-2105481327906853022.md",
+   "kind": "curated",
+   "author": "httpsean_ca",
+   "date": "2026-10-01",
+   "url": "https://x.com/httpsean_ca/status/2105481327906853022",
+   "eng": "69L/17BM/5kV",
+   "grade": "VALUE",
+   "gist": "Use Trybe as performance platform, not gifting/seeding.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100960479577362499",
+   "file": "2026-09-18-ladprofit-2100960479577362499.md",
+   "kind": "curated",
+   "author": "ladprofit",
+   "date": "2026-09-18",
+   "url": "https://x.com/ladprofit/status/2100960479577362499",
+   "eng": "35L/26BM/2kV",
+   "grade": "HYPE",
+   "gist": "Seedance AI UGC page for Veterans Day: same B-roll, new hook each post, trending audio, comment-keyword link (comment-gated teardown).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100960411659141121/img/M-WhZTfXimMAlMkj.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2087224676292472948",
+   "file": "2026-08-11-iowntraffic-2087224676292472948.md",
+   "kind": "curated",
+   "author": "iowntraffic",
+   "date": "2026-08-11",
+   "url": "https://x.com/iowntraffic/status/2087224676292472948",
+   "eng": "56L/15BM/2kV",
+   "grade": "VALUE",
+   "gist": "Counter: realism != ROAS; spend time on copywriting not aesthetics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090437914052227288",
+   "file": "2026-08-20-rewind02-2090437914052227288.md",
+   "kind": "curated",
+   "author": "rewind02",
+   "date": "2026-08-20",
+   "url": "https://x.com/rewind02/status/2090437914052227288",
+   "eng": "37L/14BM/1kV",
+   "grade": "SOME",
+   "gist": "Baby gift shop with 5.9k followers hit 21.5M views with AI-generated UGC; format > follower count.",
+   "thumb": "https://pbs.twimg.com/media/HQK5_sGWkAA8j2y.png",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108284716709208534",
+   "file": "2026-10-08-zackpaid-2108284716709208534.md",
+   "kind": "curated",
+   "author": "zackpaid",
+   "date": "2026-10-08",
+   "url": "https://x.com/zackpaid/status/2108284716709208534",
+   "eng": "26L/13BM/1kV",
+   "grade": "HYPE",
+   "gist": "Home-services AI UGC loop (comment-gated doc): 60+ day ads from ad library → Claude → Higgsfield variants.",
+   "thumb": "https://pbs.twimg.com/media/HUIhxF4WUAA4YSk.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108405736245952955",
+   "file": "2026-10-09-CEO_Vlad-2108405736245952955.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-10-09",
+   "url": "https://x.com/CEO_Vlad/status/2108405736245952955",
+   "eng": "0L/1BM/16V",
+   "grade": "VALUE",
+   "gist": "Audio is what makes AI UGC feel real; one robotic sentence kills it.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108404773598773248/img/pSnNGurJEYNvtuym.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2108113354178932920",
+   "file": "2026-10-08-traqscales-2108113354178932920.md",
+   "kind": "curated",
+   "author": "traqscales",
+   "date": "2026-10-08",
+   "url": "https://x.com/traqscales/status/2108113354178932920",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
+  },
+  {
+   "id": "2105613706227069087",
+   "file": "2026-10-01-adamtaylorl-2105613706227069087.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-10-01",
+   "url": "https://x.com/adamtaylorl/status/2105613706227069087",
+   "eng": "93L/57BM/5kV",
+   "grade": "VALUE",
+   "gist": "Find new winners via review mining, personas, awareness levels - not hook iterations or AI UGC volume.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2078545343768330490",
+   "file": "2026-07-18-Mho_23-2078545343768330490.md",
+   "kind": "candidate",
+   "author": "Mho_23",
+   "date": "2026-07-18",
+   "url": "https://x.com/Mho_23/status/2078545343768330490",
+   "eng": "602L/848BM/62kV",
+   "grade": "",
+   "gist": "Claude Code + Gemini Omni + GPT Image 2 is f*cking cracked i just built an AUTOMATED AI UGC content system that generates full ad creatives end to end drop in your product photos a",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078545316673138688/img/Edv4rI9f5jil5Uqc.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103187313358418263",
+   "file": "2026-09-24-nicos_ai-2103187313358418263.md",
+   "kind": "candidate",
+   "author": "nicos_ai",
+   "date": "2026-09-24",
+   "url": "https://x.com/nicos_ai/status/2103187313358418263",
+   "eng": "150L/82BM/15kV",
+   "grade": "",
+   "gist": "he should never be sharing this but he did grok 4.7 + higgsfield + postiz is THE best combo for AI UGC right now he cracked the formula for AI content that looks hyper realistic &a",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103187259251994624/img/0eowe3LTiAXYdq1G.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2077072658345431188",
+   "file": "2026-07-14-pounddz-2077072658345431188.md",
+   "kind": "candidate",
+   "author": "pounddz",
+   "date": "2026-07-14",
+   "url": "https://x.com/pounddz/status/2077072658345431188",
+   "eng": "28L/29BM/4kV",
+   "grade": "",
+   "gist": "There’s a reason your yapper ads don’t perform and I’ve solved it 90% of AI UGC editors who brands pay $100 a video to do “yapper ads” just make there AI avatar spit out some nonse",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092974813295894631",
+   "file": "2026-08-27-maverickecom-2092974813295894631.md",
+   "kind": "candidate",
+   "author": "maverickecom",
+   "date": "2026-08-27",
+   "url": "https://x.com/maverickecom/status/2092974813295894631",
+   "eng": "15L/8BM/2kV",
+   "grade": "",
+   "gist": "Grok + Arcads = 20 Viral AI Avatar Pages for a single brand! Most AI UGC \"agents\" demo well and die in production. They hallucinate the hook. They forget the named tag. They post o",
+   "thumb": "https://pbs.twimg.com/media/HQu9f95WMAAPihB.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079999534118424674",
+   "file": "2026-07-22-pinktwtz-2079999534118424674.md",
+   "kind": "candidate",
+   "author": "pinktwtz",
+   "date": "2026-07-22",
+   "url": "https://x.com/pinktwtz/status/2079999534118424674",
+   "eng": "6L/3BM/110V",
+   "grade": "",
+   "gist": "a 22 year old in Lagos makes AI UGC videos for brands and clears $9,100 a month: &gt;no camera crew &gt;no talent fees &gt;no reshoots because the \"creator\" flubbed a line she neve",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2079999507366805504/img/4Yh2bX26H4Khni_x.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2099900081826902440",
+   "file": "2026-09-15-noahxops-2099900081826902440.md",
+   "kind": "candidate",
+   "author": "noahxops",
+   "date": "2026-09-15",
+   "url": "https://x.com/noahxops/status/2099900081826902440",
+   "eng": "5L/2BM/451V",
+   "grade": "",
+   "gist": "this is how i ACTUALLY run an AI UGC pipeline that doesn't look like slop 🤖 1. start in Grok, not a blank doc. dump your product/niche and ask it for 20 hook angles. 2. take those ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099899990844059648/img/L4u4Y0rK50z-K0Rv.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2083448214431351004",
+   "file": "2026-08-01-CalixAVelarde-2083448214431351004.md",
+   "kind": "candidate",
+   "author": "CalixAVelarde",
+   "date": "2026-08-01",
+   "url": "https://x.com/CalixAVelarde/status/2083448214431351004",
+   "eng": "4L/1BM/461V",
+   "grade": "",
+   "gist": "this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back talking, in the car, ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083448093736091648/img/j3Nq0lakz5u6yLrn.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2080303188322766869",
+   "file": "2026-07-23-AndraeCG-2080303188322766869.md",
+   "kind": "candidate",
+   "author": "AndraeCG",
+   "date": "2026-07-23",
+   "url": "https://x.com/AndraeCG/status/2080303188322766869",
+   "eng": "5L/0BM/441V",
+   "grade": "",
+   "gist": "Built this short Hybrid AI UGC ad using a stock footage workflow 🤖🔥 The Breakdown: 🎭 AI Avatar for a scroll-stopping hook 🧼 Seamless transition to product B-roll 💬 High-contrast, d",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2080303102297554944/img/z4mxHMIoFDQDy33I.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

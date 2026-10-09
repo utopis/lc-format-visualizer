@@ -1,0 +1,102 @@
+{
+ "id": "F87",
+ "slug": "87-customer-photo-hashtag-ugc-ads",
+ "name": "Customer-photo hashtag UGC turned into Story & retargeting ads",
+ "title": "87 · Customer-photo hashtag UGC turned into Story & retargeting ads",
+ "n_examples": 4,
+ "n_curated": 0,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2082463906694648266",
+   "file": "2026-07-29-NahFlo2n-2082463906694648266.md",
+   "kind": "candidate",
+   "author": "NahFlo2n",
+   "date": "2026-07-29",
+   "url": "https://x.com/NahFlo2n/status/2082463906694648266",
+   "eng": "169L/147BM/12kV",
+   "grade": "HYPE",
+   "gist": "$74k/mo from AI UGC avatars (promo).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082458944803336192/img/8gIxCEouwpW1x2Nv.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107067561619693949",
+   "file": "2026-10-05-paula_bearr-2107067561619693949.md",
+   "kind": "candidate",
+   "author": "paula_bearr",
+   "date": "2026-10-05",
+   "url": "https://x.com/paula_bearr/status/2107067561619693949",
+   "eng": "63L/125BM/2kV",
+   "grade": "",
+   "gist": "If you ever run out of things to post on Instagram, save this. Here’s a general content idea bank you can tailor to almost any brand: REELS / SHORT-FORM VIDEO • Tutorials / how-to ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086552616679756212",
+   "file": "2026-08-09-lifemaximised-2086552616679756212.md",
+   "kind": "candidate",
+   "author": "lifemaximised",
+   "date": "2026-08-09",
+   "url": "https://x.com/lifemaximised/status/2086552616679756212",
+   "eng": "17L/12BM/1kV",
+   "grade": "",
+   "gist": "Google Ads funnels are one of the biggest untapped opportunities in eCom right now. A huge portion of your GADs performance comes down to JUST optimizing the landing page and every",
+   "thumb": "https://pbs.twimg.com/media/HPTsiV-aIAAz-Nc.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2079691741666377989",
+   "file": "2026-07-21-ceorazwan-2079691741666377989.md",
+   "kind": "candidate",
+   "author": "ceorazwan",
+   "date": "2026-07-21",
+   "url": "https://x.com/ceorazwan/status/2079691741666377989",
+   "eng": "3L/0BM/339V",
+   "grade": "",
+   "gist": "A new EU law is about to change how AI-generated content can be used in ads and if you're running AI UGC, this affects you. Starting August 2, 2026, the EU AI Act (Article 50) requ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

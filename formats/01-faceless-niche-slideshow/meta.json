@@ -1,0 +1,513 @@
+{
+ "id": "F01",
+ "slug": "01-faceless-niche-slideshow",
+ "name": "Faceless niche slideshow (content-first, product as one tip)",
+ "title": "01 · Faceless niche slideshow",
+ "n_examples": 28,
+ "n_curated": 24,
+ "n_candidates": 4,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2103534688048414959",
+   "file": "2026-09-25-ErnestoSOFTWARE-2103534688048414959.md",
+   "kind": "curated",
+   "author": "ErnestoSOFTWARE",
+   "date": "2026-09-25",
+   "url": "https://x.com/ErnestoSOFTWARE/status/2103534688048414959",
+   "eng": "941L/1533BM/95kV",
+   "grade": "HYPE",
+   "gist": "11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103534633233100800/img/HwqT7X8btjKjMJex.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2075642615316513195",
+   "file": "2026-07-10-sulfurscales-2075642615316513195.md",
+   "kind": "curated",
+   "author": "sulfurscales",
+   "date": "2026-07-10",
+   "url": "https://x.com/sulfurscales/status/2075642615316513195",
+   "eng": "452L/1127BM/87kV",
+   "grade": "SOME",
+   "gist": "Batch 2 months of slideshows in one 4-6h day; sequence content x4 -> ad warm-up -> product push.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2075642396214534144/img/3sEZcHYIkDVMnYf2.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104660939069170110",
+   "file": "2026-09-28-leonclipping-2104660939069170110.md",
+   "kind": "curated",
+   "author": "leonclipping",
+   "date": "2026-09-28",
+   "url": "https://x.com/leonclipping/status/2104660939069170110",
+   "eng": "449L/765BM/37kV",
+   "grade": "VALUE",
+   "gist": "Faceless relationship page: same couple photo every post, 'rules we made after a fight' slides, app plug as bonus tip; 1.7M top post.",
+   "thumb": "https://pbs.twimg.com/media/HTVB4onXIAEaZrT.jpg",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2082847934841049519",
+   "file": "2026-07-30-mufvza-2082847934841049519.md",
+   "kind": "curated",
+   "author": "mufvza",
+   "date": "2026-07-30",
+   "url": "https://x.com/mufvza/status/2082847934841049519",
+   "eng": "277L/674BM/44kV",
+   "grade": "VALUE",
+   "gist": "Analysis of 1,000 app slideshows: most-viewed != most installs; track saves/profile clicks per slideshow.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2082847745644343296/img/0tQY8tqw2Dy5UgwU.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107549240868422131",
+   "file": "2026-10-06-rsalimx-2107549240868422131.md",
+   "kind": "curated",
+   "author": "rsalimx",
+   "date": "2026-10-06",
+   "url": "https://x.com/rsalimx/status/2107549240868422131",
+   "eng": "267L/428BM/16kV",
+   "grade": "VALUE",
+   "gist": "Fitness page pushing one workout app; 4.8M views slideshow; reads as tips, is an ad.",
+   "thumb": "https://pbs.twimg.com/media/HT-EKgGXoAAEkpS.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097756649872298049",
+   "file": "2026-09-09-brainextends-2097756649872298049.md",
+   "kind": "curated",
+   "author": "brainextends",
+   "date": "2026-09-09",
+   "url": "https://x.com/brainextends/status/2097756649872298049",
+   "eng": "213L/437BM/16kV",
+   "grade": "SOME",
+   "gist": "Slideshow playbook: 1h competitor research, save top slideshows, study hooks, batch 3 days for 2 months content.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097756567345258496/img/gMo8Ixo90VV8SwNR.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107476467127050598",
+   "file": "2026-10-06-eglitisX-2107476467127050598.md",
+   "kind": "curated",
+   "author": "eglitisX",
+   "date": "2026-10-06",
+   "url": "https://x.com/eglitisX/status/2107476467127050598",
+   "eng": "294L/387BM/16kV",
+   "grade": "SOME",
+   "gist": "Slideshows need zero skill: Pinterest-style own images + CTA.",
+   "thumb": "https://pbs.twimg.com/media/HT9CrL8boAA1Kw2.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106833379823894702",
+   "file": "2026-10-04-leonclipping-2106833379823894702.md",
+   "kind": "curated",
+   "author": "leonclipping",
+   "date": "2026-10-04",
+   "url": "https://x.com/leonclipping/status/2106833379823894702",
+   "eng": "139L/278BM/8kV",
+   "grade": "VALUE",
+   "gist": "GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106833269035528192/img/bXhE8Jmk6xgIiI9d.jpg",
+   "media": [
+    "video",
+    "photo",
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107885511855706387",
+   "file": "2026-10-07-eglitisX-2107885511855706387.md",
+   "kind": "curated",
+   "author": "eglitisX",
+   "date": "2026-10-07",
+   "url": "https://x.com/eglitisX/status/2107885511855706387",
+   "eng": "172L/186BM/11kV",
+   "grade": "SOME",
+   "gist": "TikTok slideshows vs Instagram Trial Reels comparison: 3x MRR in <30 days.",
+   "thumb": "https://pbs.twimg.com/media/HUC2svGaAAAJaHv.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107517609960702306",
+   "file": "2026-10-06-rsalimx-2107517609960702306.md",
+   "kind": "curated",
+   "author": "rsalimx",
+   "date": "2026-10-06",
+   "url": "https://x.com/rsalimx/status/2107517609960702306",
+   "eng": "120L/200BM/6kV",
+   "grade": "VALUE",
+   "gist": "Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it).",
+   "thumb": "https://pbs.twimg.com/media/HT9nvksWwAAHvXM.jpg",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2098786343836860487",
+   "file": "2026-09-12-ChadAppDev-2098786343836860487.md",
+   "kind": "curated",
+   "author": "ChadAppDev",
+   "date": "2026-09-12",
+   "url": "https://x.com/ChadAppDev/status/2098786343836860487",
+   "eng": "110L/195BM/18kV",
+   "grade": "VALUE",
+   "gist": "Before building: make niche TikTok page, find most viral slideshow formats, copy with own flavor, 1/day.",
+   "thumb": "https://pbs.twimg.com/media/HSBjDoaXcAoQMP6.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2075615421978312713",
+   "file": "2026-07-10-maxfranzen-2075615421978312713.md",
+   "kind": "curated",
+   "author": "maxfranzen",
+   "date": "2026-07-10",
+   "url": "https://x.com/maxfranzen/status/2075615421978312713",
+   "eng": "54L/7BM/413kV",
+   "grade": "SOME",
+   "gist": "Listing: AI garden app $1.8k MRR all from organic TikTok slideshows (proof organic slideshows monetize).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090128553082036542",
+   "file": "2026-08-19-sulfurscales-2090128553082036542.md",
+   "kind": "curated",
+   "author": "sulfurscales",
+   "date": "2026-08-19",
+   "url": "https://x.com/sulfurscales/status/2090128553082036542",
+   "eng": "127L/154BM/22kV",
+   "grade": "SOME",
+   "gist": "App slideshow networks: keep the proven structure, vary pain point/images/captions, lock the ad slide; one publisher ~$40k/mo (claim).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090127588106891264/img/6aogVvi2tx0QIduv.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2097925109155549689",
+   "file": "2026-09-10-adamtwtz-2097925109155549689.md",
+   "kind": "curated",
+   "author": "adamtwtz",
+   "date": "2026-09-10",
+   "url": "https://x.com/adamtwtz/status/2097925109155549689",
+   "eng": "92L/175BM/9kV",
+   "grade": "VALUE",
+   "gist": "Symmetry gym app: 150k downloads/mo off one slideshow format, no ads (AI body scan before/after).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097922754431623169/img/kq1m1HLmuTFqvp1r.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107186633871114374",
+   "file": "2026-10-05-ChadAppDev-2107186633871114374.md",
+   "kind": "curated",
+   "author": "ChadAppDev",
+   "date": "2026-10-05",
+   "url": "https://x.com/ChadAppDev/status/2107186633871114374",
+   "eng": "78L/144BM/5kV",
+   "grade": "VALUE",
+   "gist": "Repost of ChadAppDev niche slideshow method.",
+   "thumb": "https://pbs.twimg.com/media/HT47E3_XkAABdsg.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098401400954794402",
+   "file": "2026-09-11-enzoxmotion-2098401400954794402.md",
+   "kind": "curated",
+   "author": "enzoxmotion",
+   "date": "2026-09-11",
+   "url": "https://x.com/enzoxmotion/status/2098401400954794402",
+   "eng": "75L/143BM/8kV",
+   "grade": "SOME",
+   "gist": "Same batch-research slideshow playbook (screenshot every viral slideshow in niche, rebuild with own flavor).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098399605197328384/img/fR3qZX8iehf4NCKe.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2090094780864713021",
+   "file": "2026-08-19-rsalimx-2090094780864713021.md",
+   "kind": "curated",
+   "author": "rsalimx",
+   "date": "2026-08-19",
+   "url": "https://x.com/rsalimx/status/2090094780864713021",
+   "eng": "76L/122BM/8kV",
+   "grade": "SOME",
+   "gist": "Claim slideshows convert harder than videos; it's about finding the right format.",
+   "thumb": "https://pbs.twimg.com/media/HQGB6J4WwAA9kRw.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2099238343074832810",
+   "file": "2026-09-13-brainextends-2099238343074832810.md",
+   "kind": "curated",
+   "author": "brainextends",
+   "date": "2026-09-13",
+   "url": "https://x.com/brainextends/status/2099238343074832810",
+   "eng": "82L/119BM/4kV",
+   "grade": "SOME",
+   "gist": "Founder scaled app to $10k MRR with slideshows; NOTE uses fresh iPhones + proxies (device farm) - copy only content method.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099238300917862400/img/5gEyTU3yRl7rrS9m.jpg",
+   "media": [
+    "video",
+    "photo",
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2098901464693502340",
+   "file": "2026-09-12-brainextends-2098901464693502340.md",
+   "kind": "curated",
+   "author": "brainextends",
+   "date": "2026-09-12",
+   "url": "https://x.com/brainextends/status/2098901464693502340",
+   "eng": "76L/109BM/18kV",
+   "grade": "VALUE",
+   "gist": "Create a research-only TikTok account, train FYP on niche to surface viral formats daily.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098901423815892992/img/0mSwbAs8npmRC-qd.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2100425887636472312",
+   "file": "2026-09-17-Dkevs_-2100425887636472312.md",
+   "kind": "curated",
+   "author": "Dkevs_",
+   "date": "2026-09-17",
+   "url": "https://x.com/Dkevs_/status/2100425887636472312",
+   "eng": "90L/102BM/4kV",
+   "grade": "SOME",
+   "gist": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100425541719650304/img/gjGd-kh2OfocxdZs.jpg",
+   "media": [
+    "video",
+    "photo",
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2076801602187407773",
+   "file": "2026-07-13-yassratti-2076801602187407773.md",
+   "kind": "curated",
+   "author": "yassratti",
+   "date": "2026-07-13",
+   "url": "https://x.com/yassratti/status/2076801602187407773",
+   "eng": "46L/113BM/10kV",
+   "grade": "SOME",
+   "gist": "$40k MRR app runs 30+ accounts spamming identical format around an everyday physical problem (bulk-account risk).",
+   "thumb": "https://pbs.twimg.com/media/HNJH4KyXAAAvev1.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105342205342941358",
+   "file": "2026-09-30-MaxHirsch13-2105342205342941358.md",
+   "kind": "curated",
+   "author": "MaxHirsch13",
+   "date": "2026-09-30",
+   "url": "https://x.com/MaxHirsch13/status/2105342205342941358",
+   "eng": "88L/72BM/10kV",
+   "grade": "VALUE",
+   "gist": "Warning: paying $100/mo per warmed account + $1.50/upload is unprofitable; most slideshows <2k views -> bad effective CPM.",
+   "thumb": "https://pbs.twimg.com/media/HTetkJWb0AAQVVr.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100625122843320629",
+   "file": "2026-09-17-g_buildz_apps-2100625122843320629.md",
+   "kind": "curated",
+   "author": "g_buildz_apps",
+   "date": "2026-09-17",
+   "url": "https://x.com/g_buildz_apps/status/2100625122843320629",
+   "eng": "41L/60BM/3kV",
+   "grade": "SOME",
+   "gist": "Fewer slides (max 4) -> 2x MRR; CTA always last slide.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097077774578065638",
+   "file": "2026-09-07-alexxgrowth-2097077774578065638.md",
+   "kind": "curated",
+   "author": "alexxgrowth",
+   "date": "2026-09-07",
+   "url": "https://x.com/alexxgrowth/status/2097077774578065638",
+   "eng": "48L/34BM/5kV",
+   "grade": "VALUE",
+   "gist": "Content Rewards campaign: $21.4k spent for 23.1M views (≈$0.93 CPM) of faceless slideshows; app $2k->$25k MRR.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096288782517457130",
+   "file": "2026-09-05-g_buildz_apps-2096288782517457130.md",
+   "kind": "candidate",
+   "author": "g_buildz_apps",
+   "date": "2026-09-05",
+   "url": "https://x.com/g_buildz_apps/status/2096288782517457130",
+   "eng": "18L/10BM/1kV",
+   "grade": "",
+   "gist": "I started this account last month Over 1M+ views just on slideshows This brought me 10,000 downloads btw One slideshow account. https://t.co/plkjEqnwZv",
+   "thumb": "https://pbs.twimg.com/media/HReDiczbAAA_Ctm.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104327435110232567",
+   "file": "2026-09-27-SideShiftUGC-2104327435110232567.md",
+   "kind": "candidate",
+   "author": "SideShiftUGC",
+   "date": "2026-09-27",
+   "url": "https://x.com/SideShiftUGC/status/2104327435110232567",
+   "eng": "22L/7BM/3kV",
+   "grade": "",
+   "gist": "Hiring creators for a faith and focus app - $200/mo trial rate, rises on performance - Faceless slideshows, no filming - Must have grown a slideshow account Send your best carousel",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086942448769532047",
+   "file": "2026-08-10-growthsuck-2086942448769532047.md",
+   "kind": "candidate",
+   "author": "growthsuck",
+   "date": "2026-08-10",
+   "url": "https://x.com/growthsuck/status/2086942448769532047",
+   "eng": "3L/4BM/548V",
+   "grade": "",
+   "gist": "&gt;run a mid-quality slideshow account &gt;realize launch video with enough volume is better &gt;make the highest quality launch video, instruct your creators &gt;no sacrificing v",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2086942335447760896/img/GhS7f7WJ8WoTlTHX.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2104315900346380309",
+   "file": "2026-09-27-kr0der-2104315900346380309.md",
+   "kind": "candidate",
+   "author": "kr0der",
+   "date": "2026-09-27",
+   "url": "https://x.com/kr0der/status/2104315900346380309",
+   "eng": "6L/0BM/1kV",
+   "grade": "",
+   "gist": "day 89 of the $1m in 6 months challenge revenue: $84.32 total: $3,969.96 a new annual subscription and 2 renewal, maybe the slideshows are starting to do well? 👀 gonna create more ",
+   "thumb": "https://pbs.twimg.com/media/HTQIKRLbAAAobwi.png",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

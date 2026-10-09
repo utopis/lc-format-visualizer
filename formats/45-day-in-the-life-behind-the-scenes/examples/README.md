@@ -1,0 +1,22 @@
+# Examples · 45 · Day in the life / behind the scenes (founder or customer)
+
+Every X post we hold for this format: **10** (7 curated, 1 cited in the playbook, 2 auto-matched candidates).
+
+Curated = hand-graded in the X discovery feed. Candidates come from a targeted X search for this format (last ~90 days, relevancy-sorted, engagement-filtered) and are NOT hand-graded yet: verify, then promote or delete.
+
+Search used: `("day in the life" OR "behind the scenes" OR "ditl") (founder OR brand OR ad OR ugc)`
+
+| # | Date | Author | Status | Engagement | Media | Gist | File |
+|---|---|---|---|---|---|---|---|
+| 1 | 2026-10-08 | [@nicktheriot_](https://x.com/nicktheriot_/status/2108173638033871013) | curated VALUE | 219L/348BM/12kV | photo | 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder story, podcast, BTS, authority, x reasons; C = unboxing, DITL. | [2026-10-08-nicktheriot_-2108173638033871013](2026-10-08-nicktheriot_-2108173638033871013.md) |
+| 2 | 2026-08-10 | [@williamkast_](https://x.com/williamkast_/status/2086835243474985414) | curated VALUE | 38L/46BM/3kV | photo | Turn 1 winning ad into 5: same message, different frameworks (DITL, 3 reasons, old me/new me, phone call). | [2026-08-10-williamkast_-2086835243474985414](2026-08-10-williamkast_-2086835243474985414.md) |
+| 3 | 2026-09-24 | [@Ecombos_Ai](https://x.com/Ecombos_Ai/status/2103180929057407425) | curated SOME | 28L/26BM/2kV | text | 10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/after, whiteboard. | [2026-09-24-Ecombos_Ai-2103180929057407425](2026-09-24-Ecombos_Ai-2103180929057407425.md) |
+| 4 | 2026-08-18 | [@rirahcreates](https://x.com/rirahcreates/status/2089827933561016787) | curated SOME | 12L/17BM/1kV | text | 20 UGC types: talking head, review, unboxing, testimonial, demo, problem/solution, before/after, GRWM, DITL, voiceover, routine, how-to, FAQ, 3 reasons why, POV. | [2026-08-18-rirahcreates-2089827933561016787](2026-08-18-rirahcreates-2089827933561016787.md) |
+| 5 | 2026-06-18 | [@ugcAshleyRJ](https://x.com/ugcAshleyRJ/status/2067636022251290725) | curated SOME | 13L/5BM/534V | video + transcript | The 0.5x ultra-wide POV filming technique for demos, GRWM and day-in-the-life — immersive, native. | [2026-06-18-ugcAshleyRJ-2067636022251290725](2026-06-18-ugcAshleyRJ-2067636022251290725.md) |
+| 6 | 2026-06-06 | [@0xJeyx](https://x.com/0xJeyx/status/2063387846803673406) | curated SOME | 15L/3BM/889V | video + transcript | Generate the same product as every format at once (street quiz, review, GRWM, DITL) and let the feed pick — example: "$50 street quiz" video. | [2026-06-06-0xJeyx-2063387846803673406](2026-06-06-0xJeyx-2063387846803673406.md) |
+| 7 | 2026-08-04 | [@williamkast_](https://x.com/williamkast_/status/2084659151578202574) | curated VALUE | 2L/4BM/480V | photo | Creative diversity matrix image: 5 production formats × 5 frameworks = 25 concepts from one message. | [2026-08-04-williamkast_-2084659151578202574](2026-08-04-williamkast_-2084659151578202574.md) |
+| 8 | 2026-07-31 | [@raph_guilhem](https://x.com/raph_guilhem/status/2083288607062732816) | cited VALUE | 55L/105BM/7kV | text | 30 Meta ad formats folder tree (hooks, founder content, etc.). | [2026-07-31-raph_guilhem-2083288607062732816](2026-07-31-raph_guilhem-2083288607062732816.md) |
+| 9 | 2026-10-05 | [@paula_bearr](https://x.com/paula_bearr/status/2107067561619693949) | candidate | 63L/125BM/2kV | text | If you ever run out of things to post on Instagram, save this. Here’s a general content idea bank you can tailor to almost any brand: REELS / SHORT-FORM VIDEO • Tutorials / how-to  | [2026-10-05-paula_bearr-2107067561619693949](2026-10-05-paula_bearr-2107067561619693949.md) |
+| 10 | 2026-09-01 | [@jaclynforero](https://x.com/jaclynforero/status/2094773552398389539) | candidate | 7L/0BM/259V | video | 📓 a little peek into my UGC + creative strategy life lately Between filming client content, batching hooks, and figuring out what actually makes a DTC ad convert… this is what buil | [2026-09-01-jaclynforero-2094773552398389539](2026-09-01-jaclynforero-2094773552398389539.md) |
+
+Add more: drop a new `<date>-<author>-<id>.md` here (copy any file as a template) and add a row.

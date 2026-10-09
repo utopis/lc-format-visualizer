@@ -1,0 +1,10 @@
+# Concepts · 59 · Problem → agitation → solution → proof (4-part PAS ad, video or static)
+
+_Write brand-specific concepts and scripts (3 minimum) from review mining and the playbook recipe._
+
+Status: not started
+Owner:
+Updated:
+
+## Notes
+

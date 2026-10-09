@@ -1,0 +1,521 @@
+{
+ "id": "F05",
+ "slug": "05-ai-animation-format-swap",
+ "name": "AI animation format swap (Claymation, Pixar-3D, Zach-Films 2nd-person, Skeleton, Chalkboard, Brick, Tiny-characters)",
+ "title": "05 · AI animation format swap",
+ "n_examples": 29,
+ "n_curated": 19,
+ "n_candidates": 9,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2107023055532810720",
+   "file": "2026-10-05-spwfeijen-2107023055532810720.md",
+   "kind": "curated",
+   "author": "spwfeijen",
+   "date": "2026-10-05",
+   "url": "https://x.com/spwfeijen/status/2107023055532810720",
+   "eng": "908L/2121BM/73kV",
+   "grade": "SOME",
+   "gist": "Chalkboard Explainer AI ad format: native look, step-by-step drawing retention, myths/listicles.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107022904181346304/img/MfLC6-lZaFV-5JRr.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107328605995077699",
+   "file": "2026-10-06-CEO_Vlad-2107328605995077699.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-10-06",
+   "url": "https://x.com/CEO_Vlad/status/2107328605995077699",
+   "eng": "894L/1279BM/49kV",
+   "grade": "VALUE",
+   "gist": "7 AI UGC animation styles and what each is good for (article).",
+   "thumb": "https://pbs.twimg.com/media/HT68E1eWIAAf1ra.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107781382533472512",
+   "file": "2026-10-07-ArmandasPuckus-2107781382533472512.md",
+   "kind": "curated",
+   "author": "ArmandasPuckus",
+   "date": "2026-10-07",
+   "url": "https://x.com/ArmandasPuckus/status/2107781382533472512",
+   "eng": "903L/602BM/44kV",
+   "grade": "VALUE",
+   "gist": "'Selling to menopausal women with AI animations IS the method'.",
+   "thumb": "https://pbs.twimg.com/media/HUBX_mBXwAAVmVN.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2107818540522737913",
+   "file": "2026-10-07-FynCas-2107818540522737913.md",
+   "kind": "curated",
+   "author": "FynCas",
+   "date": "2026-10-07",
+   "url": "https://x.com/FynCas/status/2107818540522737913",
+   "eng": "348L/705BM/21kV",
+   "grade": "SOME",
+   "gist": "Same Chalkboard Explainer post (copied by FynCas).",
+   "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2107818495874408448/pu/img/9F-wzh4bPyIq18Ql.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2104186859689836822",
+   "file": "2026-09-27-AlessandroLavis-2104186859689836822.md",
+   "kind": "curated",
+   "author": "AlessandroLavis",
+   "date": "2026-09-27",
+   "url": "https://x.com/AlessandroLavis/status/2104186859689836822",
+   "eng": "397L/579BM/27kV",
+   "grade": "SOME",
+   "gist": "Claude skill for cartoon ads from one prompt (research->script->scenes->VO->animation).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104186804127903744/img/BMFWYb8fH93HVCea.jpg",
+   "media": [
+    "video",
+    "photo",
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107777527699632215",
+   "file": "2026-10-07-eliasrrecom-2107777527699632215.md",
+   "kind": "curated",
+   "author": "eliasrrecom",
+   "date": "2026-10-07",
+   "url": "https://x.com/eliasrrecom/status/2107777527699632215",
+   "eng": "248L/434BM/15kV",
+   "grade": "SOME",
+   "gist": "Cartoon ad automation skill; ad 'crushing'.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107777257024458753/img/9hw0sC917MDi-KeO.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2085447071990251986",
+   "file": "2026-08-06-rayjbjang-2085447071990251986.md",
+   "kind": "curated",
+   "author": "rayjbjang",
+   "date": "2026-08-06",
+   "url": "https://x.com/rayjbjang/status/2085447071990251986",
+   "eng": "155L/207BM/21kV",
+   "grade": "VALUE",
+   "gist": "9-fig founder group chats sharing singing animation ads - format printing.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2096569603761827953",
+   "file": "2026-09-06-CEO_Vlad-2096569603761827953.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-09-06",
+   "url": "https://x.com/CEO_Vlad/status/2096569603761827953",
+   "eng": "88L/169BM/5kV",
+   "grade": "VALUE",
+   "gist": "AI UGC formats tiered: S = podcast, talking head, in-car...",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102132251706429937",
+   "file": "2026-09-21-LordofAds-2102132251706429937.md",
+   "kind": "curated",
+   "author": "LordofAds",
+   "date": "2026-09-21",
+   "url": "https://x.com/LordofAds/status/2102132251706429937",
+   "eng": "57L/120BM/5kV",
+   "grade": "VALUE",
+   "gist": "'Money glitch': remake best 30-day ad in 6 animation styles (Pixar, anime, paper cutout, whiteboard, skeleton...).",
+   "thumb": "https://pbs.twimg.com/media/HSxFmu-W0AA2l4t.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo",
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2100586376551145942",
+   "file": "2026-09-17-FedotOff90-2100586376551145942.md",
+   "kind": "curated",
+   "author": "FedotOff90",
+   "date": "2026-09-17",
+   "url": "https://x.com/FedotOff90/status/2100586376551145942",
+   "eng": "54L/91BM/6kV",
+   "grade": "SOME",
+   "gist": "How to make AI animation ads (was $3-5k/studio).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100586320171311104/img/9y7hssf4yeYfsQcr.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2087333716334924071",
+   "file": "2026-08-12-CEO_Vlad-2087333716334924071.md",
+   "kind": "curated",
+   "author": "CEO_Vlad",
+   "date": "2026-08-12",
+   "url": "https://x.com/CEO_Vlad/status/2087333716334924071",
+   "eng": "59L/63BM/10kV",
+   "grade": "SOME",
+   "gist": "Pixar-style AI ads helped $117k day.",
+   "thumb": "https://pbs.twimg.com/media/HPeyfopWkAAtlso.png",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2101991919920243015",
+   "file": "2026-09-21-Diego_exits-2101991919920243015.md",
+   "kind": "curated",
+   "author": "Diego_exits",
+   "date": "2026-09-21",
+   "url": "https://x.com/Diego_exits/status/2101991919920243015",
+   "eng": "45L/60BM/4kV",
+   "grade": "VALUE",
+   "gist": "PRIMALQUEEN $6M/mo, 1,019 active ads; normal cartoon ads.",
+   "thumb": "https://pbs.twimg.com/media/HSvGPQxWsAE9uec.jpg",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2099359156121825337",
+   "file": "2026-09-14-oliverxmedia-2099359156121825337.md",
+   "kind": "curated",
+   "author": "oliverxmedia",
+   "date": "2026-09-14",
+   "url": "https://x.com/oliverxmedia/status/2099359156121825337",
+   "eng": "94L/18BM/9kV",
+   "grade": "HYPE",
+   "gist": "Arcads AI animation ad promo.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099359129601245184/img/-ZDgQUAizVYKcbEb.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2099519666045776287",
+   "file": "2026-09-14-therahulissar-2099519666045776287.md",
+   "kind": "curated",
+   "author": "therahulissar",
+   "date": "2026-09-14",
+   "url": "https://x.com/therahulissar/status/2099519666045776287",
+   "eng": "39L/47BM/3kV",
+   "grade": "VALUE",
+   "gist": "Break Meta audience cap with format change (same message, new display: AI video, static, lo-fi) and new personas.",
+   "thumb": "https://pbs.twimg.com/media/HSL0OktbkAAlMmV.png",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2078490302437003279",
+   "file": "2026-07-18-ladprofit-2078490302437003279.md",
+   "kind": "curated",
+   "author": "ladprofit",
+   "date": "2026-07-18",
+   "url": "https://x.com/ladprofit/status/2078490302437003279",
+   "eng": "28L/29BM/2kV",
+   "grade": "SOME",
+   "gist": "Agent extracts winning ad DNA (hook, mechanism, arc, belief shift) and rebuilds as animation.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078490279859138560/img/_iCsUC09-G1Qxl_m.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107157131010965744",
+   "file": "2026-10-05-Ecombos_Ai-2107157131010965744.md",
+   "kind": "curated",
+   "author": "Ecombos_Ai",
+   "date": "2026-10-05",
+   "url": "https://x.com/Ecombos_Ai/status/2107157131010965744",
+   "eng": "22L/14BM/793V",
+   "grade": "SOME",
+   "gist": "AI ecom format tiers: S = AI animation, AI singing, AI native statics → advertorial; A = AI before/after, AI podcast, talking product; F = AI avatar reading script, AI street interviews.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2087086851148660816",
+   "file": "2026-08-11-lifemaximised-2087086851148660816.md",
+   "kind": "curated",
+   "author": "lifemaximised",
+   "date": "2026-08-11",
+   "url": "https://x.com/lifemaximised/status/2087086851148660816",
+   "eng": "12L/9BM/990V",
+   "grade": "SOME",
+   "gist": "Highest-ROAS YouTube ad anatomy: outcome text hook, 9-shot claymation villain arc, CTA last 3s, non-discount offer, custom-intent audiences, 6s Shorts bumper.",
+   "thumb": "https://pbs.twimg.com/tweet_video_thumb/HPbSUAkaUAAMVk0.jpg",
+   "media": [
+    "animated_gif"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2094059955472990517",
+   "file": "2026-08-30-lifemaximised-2094059955472990517.md",
+   "kind": "curated",
+   "author": "lifemaximised",
+   "date": "2026-08-30",
+   "url": "https://x.com/lifemaximised/status/2094059955472990517",
+   "eng": "8L/5BM/1kV",
+   "grade": "VALUE",
+   "gist": "Top 4 YouTube ad formats by awareness: claymation 9-shot (unaware), hybrid AI UGC (problem-aware), 15s cinematic no-dialogue product film (solution-aware), 6s Shorts bumper (remarketing). Prompts included.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094059022047449089/img/Q41n6QN9zTpKhYZX.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2100264709672849475",
+   "file": "2026-09-16-alexgoughcooper-2100264709672849475.md",
+   "kind": "curated",
+   "author": "alexgoughcooper",
+   "date": "2026-09-16",
+   "url": "https://x.com/alexgoughcooper/status/2100264709672849475",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "12+ ad libraries for storytelling AI animation ads: Quasi, Resilia, Ankhway, Lymphoria, Koriderm, Nebula, Rise, Liven, Moongrade, BioRoot, Cosmetic Times (Smooche), Tradesman.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107325758238777477",
+   "file": "2026-10-06-Peter_Quadrel-2107325758238777477.md",
+   "kind": "cited",
+   "author": "Peter_Quadrel",
+   "date": "2026-10-06",
+   "url": "https://x.com/Peter_Quadrel/status/2107325758238777477",
+   "eng": "376L/653BM/34kV",
+   "grade": "VALUE",
+   "gist": "Meta groups visually similar ads under one Entity ID; 30 statics same product = 1 ad. Need real visual diversity.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107325581331439616/img/XmeUmC5ywXlGE1vN.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2094832575122661443",
+   "file": "2026-09-01-Ecombos_Ai-2094832575122661443.md",
+   "kind": "candidate",
+   "author": "Ecombos_Ai",
+   "date": "2026-09-01",
+   "url": "https://x.com/Ecombos_Ai/status/2094832575122661443",
+   "eng": "137L/168BM/12kV",
+   "grade": "",
+   "gist": "This is every AI ad system we have built so far that is working. The best formats that are printing. Took the team hours to put the full stack together. 10 production systems insid",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094832454096027648/img/6zYjVq9TpC0szjqr.jpg",
+   "media": [
+    "video",
+    "video",
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2094742070468730903",
+   "file": "2026-09-01-OriSilver-2094742070468730903.md",
+   "kind": "candidate",
+   "author": "OriSilver",
+   "date": "2026-09-01",
+   "url": "https://x.com/OriSilver/status/2094742070468730903",
+   "eng": "34L/44BM/2kV",
+   "grade": "",
+   "gist": "📂 THE AI AD FACTORY ┃ ┣ 📂 Research ┃ ┣ 📂 Audience & Pain Points ┃ ┣ 📂 Failed Solutions ┃ ┣ 📂 Objections & Misconceptions ┃ ┣ 📂 Voice of Customer ┃ ┣ 📂 Competitor Ad Libraries ┃ ┗ 📂",
+   "thumb": "https://pbs.twimg.com/media/HRHy5MJXMAAwqZe.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098420179403444486",
+   "file": "2026-09-11-aaliya_va-2098420179403444486.md",
+   "kind": "candidate",
+   "author": "aaliya_va",
+   "date": "2026-09-11",
+   "url": "https://x.com/aaliya_va/status/2098420179403444486",
+   "eng": "62L/6BM/8kV",
+   "grade": "",
+   "gist": "A product image can now become a 3D ad without starting from scratch. Arcads lets you add your website and product image, pick an animation style and duration, and Mark generates t",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098420070330568704/img/8_eb04l7mCbHU8Hc.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2098854282040578215",
+   "file": "2026-09-12-altitude_jaden-2098854282040578215.md",
+   "kind": "candidate",
+   "author": "altitude_jaden",
+   "date": "2026-09-12",
+   "url": "https://x.com/altitude_jaden/status/2098854282040578215",
+   "eng": "48L/7BM/4kV",
+   "grade": "",
+   "gist": "CLIENT REQUEST : -hiring a long-term Video Editor for a growing supplement brand. Must be highly skilled with AI tools and able to produce trending ad formats: AI UGC, song ads, cl",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2077744374625005754",
+   "file": "2026-07-16-francisbaranski-2077744374625005754.md",
+   "kind": "candidate",
+   "author": "francisbaranski",
+   "date": "2026-07-16",
+   "url": "https://x.com/francisbaranski/status/2077744374625005754",
+   "eng": "24L/8BM/2kV",
+   "grade": "",
+   "gist": "⚠️ Hiring The AI Video Wizard! MUST HAVE ad editing experience + AI mastery Creative genius, short-form editor for our ads gency $$$$ opportunity Part Time -&gt; Full Time Pixar-st",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105715646273368159",
+   "file": "2026-10-01-ashen_one-2105715646273368159.md",
+   "kind": "candidate",
+   "author": "ashen_one",
+   "date": "2026-10-01",
+   "url": "https://x.com/ashen_one/status/2105715646273368159",
+   "eng": "23L/5BM/3kV",
+   "grade": "",
+   "gist": "if you're using AI to cook ads and you've been doing the claymation meta, the singing meta seems to be next using arcads, you can cook an entire ad in a Disney Pixar style that jus",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105715621296287744/img/P0eHmhIqvl0-vlHD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2099126261910319506",
+   "file": "2026-09-13-JaydeepGajera0-2099126261910319506.md",
+   "kind": "candidate",
+   "author": "JaydeepGajera0",
+   "date": "2026-09-13",
+   "url": "https://x.com/JaydeepGajera0/status/2099126261910319506",
+   "eng": "21L/4BM/1kV",
+   "grade": "",
+   "gist": "🚨 WE’RE HIRING — D2C VIDEO EDITOR We’re looking for a D2C Video Editor who can take ownership of creating high-converting AI-powered ads. You should have experience creating: • AI-",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097574836411445452",
+   "file": "2026-09-09-Clarmindbrand-2097574836411445452.md",
+   "kind": "candidate",
+   "author": "Clarmindbrand",
+   "date": "2026-09-09",
+   "url": "https://x.com/Clarmindbrand/status/2097574836411445452",
+   "eng": "13L/2BM/1kV",
+   "grade": "",
+   "gist": "We’re hiring a long-term Video Editor for a 8 figures supplement brand. Must be highly skilled with AI tools and able to produce trending ad formats: AI UGC, song ads, claymation, ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086082609126240472",
+   "file": "2026-08-08-clinton_xyz-2086082609126240472.md",
+   "kind": "candidate",
+   "author": "clinton_xyz",
+   "date": "2026-08-08",
+   "url": "https://x.com/clinton_xyz/status/2086082609126240472",
+   "eng": "10L/1BM/2kV",
+   "grade": "",
+   "gist": "i'm an ai video editor making ad creatives for ecom and health supplement brands ai ugc, claymation, pixar-style animation, cartoon song ads, whatever fits your product multiple va",
+   "thumb": "https://pbs.twimg.com/media/HPNBETuWUAAg1tY.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}
