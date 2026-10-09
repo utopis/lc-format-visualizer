@@ -1,0 +1,60 @@
+{
+ "id": "F66",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/_deepakss_/status/2087895969157246985",
+ "author": "_deepakss_",
+ "type": "video",
+ "duration": 16,
+ "mp4": "https://video.twimg.com/amplify_video/2087894468787675137/vid/avc1/320x568/OJey6kH1QrZRe7CY.mp4?tag=29",
+ "w": 954,
+ "h": 1696,
+ "via_quote": false,
+ "likes": 10,
+ "views": 201,
+ "seen": "An interactive game ad: phone screens showing a puzzle you tap to play, then a story scene, so the viewer plays a few seconds inside the ad before the app is shown.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "",
+   "ocr": "14:09 cw so wes as ae mes me a"
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "from ancient minds",
+   "ocr": "a, oo SS io Bi a in mm Test mode: The Wisdom App a"
+  },
+  {
+   "t": "0:06",
+   "said": "from ancient minds to modern times",
+   "ocr": "Ee Sr Oy ra! a My Ob Rj Test mode: The Wisdom App"
+  },
+  {
+   "t": "0:08",
+   "said": "from ancient minds to modern times",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "to modern times",
+   "ocr": ""
+  },
+  {
+   "t": "0:12",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:14",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

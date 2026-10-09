@@ -1,0 +1,60 @@
+{
+ "id": "F13",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/tryatria_AI/status/2097763972325745046",
+ "author": "tryatria_AI",
+ "type": "video",
+ "duration": 97,
+ "mp4": "https://video.twimg.com/amplify_video/2097703692212559872/vid/avc1/320x568/DhtJlwMeR5ylp5_4.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 62,
+ "views": 3289,
+ "seen": "Podcast-studio cuts: men at mics delivering lines with big captions (\"I used to be you\", \"I couldn't\"), cutaways to the Heights supplement tub (\"I started taking\") and an ingredients card, then several different hosts. It looks like clipped podcast content, not an ad.",
+ "beats": [
+  {
+   "t": "0:06",
+   "said": "I'm 64, I feel bloody fantastic, and this is my secret. I used to be you. I was lost about what to take. I tried everything to help me. I sp",
+   "ocr": ""
+  },
+  {
+   "t": "0:18",
+   "said": "Therapy, medication. So many different pills and potions. There were times when I couldn't be present. I couldn't switch my brain off. I'm f",
+   "ocr": ""
+  },
+  {
+   "t": "0:30",
+   "said": "That was just gonna be me forever. Everything felt like it was falling apart. Until. Until. Until. Until. I started taking heights. This. Th",
+   "ocr": ""
+  },
+  {
+   "t": "0:42",
+   "said": "Inside just two capsules, you get 20 key nutrients. Like omega-3, all the bees, plus iron and vitamin D. There's no fluff, there's no confus",
+   "ocr": "All the B\u2019s a3 NH vitamin Iron"
+  },
+  {
+   "t": "0:54",
+   "said": "Heights has been absolutely invaluable to me, just with regards to managing my energy, my recovery, my sleep, my enthusiasm. Unbelievable. S",
+   "ocr": "Es ie tA By"
+  },
+  {
+   "t": "1:06",
+   "said": "I went from waking up 14 times, averagely per night, sleep and recovery being on the floor, to literally just taking heights, and now asleep",
+   "ocr": "Ww ae 1. en Pao a"
+  },
+  {
+   "t": "1:18",
+   "said": "everyone in these capsules? I mean, what actually is in this thing? These 20 essential nutrients are everything you might need in your daily",
+   "ocr": "ay in your daily diet. Sa. le"
+  },
+  {
+   "t": "1:30",
+   "said": "to feeling your best. My energy has gone from spiking and crashing to being stable all day long. That tangible difference is really clear, a",
+   "ocr": ""
+  }
+ ]
+}

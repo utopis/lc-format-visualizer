@@ -1,0 +1,60 @@
+{
+ "id": "F14",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/contentbyroxy/status/2100991855441666519",
+ "author": "contentbyroxy",
+ "type": "video",
+ "duration": 36,
+ "mp4": "https://video.twimg.com/amplify_video/2100991374493380609/vid/avc1/320x568/11Ic5VinUzWFz4Y7.mp4?tag=29",
+ "w": 2160,
+ "h": 3840,
+ "via_quote": false,
+ "likes": 5,
+ "views": 310,
+ "seen": "A creator filming herself in the driver's seat with the sunroof open, talking fast and casually to the phone, with sunglasses on for the sign-off. It is one continuous car-talk monologue with captions.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "card declining the most embarrassing thing. Everyone knows it's a tough time",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "right now. The economy feels like it's the worst it's ever been but still I",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "don't need to hold up a line at the grocery store while everyone sees me",
+   "ocr": ""
+  },
+  {
+   "t": "0:15",
+   "said": "trying out all my cards praying one will go through. Anyways I was tired of",
+   "ocr": ""
+  },
+  {
+   "t": "0:20",
+   "said": "living that life so I started using Bri. I saw an ad and I was ready to try anything at this point. I got approved approved for $320 in minu",
+   "ocr": ""
+  },
+  {
+   "t": "0:24",
+   "said": "anything at this point. I got approved approved for $320 in minutes which shocked me because my credit scores still recovering from when I w",
+   "ocr": ""
+  },
+  {
+   "t": "0:29",
+   "said": "shocked me because my credit scores still recovering from when I was laid off last year. The best part there is no interest there's no credi",
+   "ocr": ""
+  },
+  {
+   "t": "0:34",
+   "said": "lathees. If you're tired of your card declining, download Bri today.",
+   "ocr": ""
+  }
+ ]
+}

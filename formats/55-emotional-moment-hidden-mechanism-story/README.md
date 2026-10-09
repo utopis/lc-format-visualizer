@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 55 · Emotional life-moment story with the product as the hidden mechanism (crying-bride "we gave every guest a camera")
 
+<!-- HERO:START -->
+[![Featured example: @stat_biz](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/stat_biz/status/2100293137709269251)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High reach (22.5M views) / AI-persona caveat · hype risk: Med · cost $0-500 · 2-4 h
 
 ## What it is

@@ -1,0 +1,60 @@
+{
+ "id": "F46",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/mannyvivianne/status/2101756682359480565",
+ "author": "mannyvivianne",
+ "type": "video",
+ "duration": 52,
+ "mp4": "https://video.twimg.com/amplify_video/2101756598314012673/vid/avc1/320x568/4_Z02Z9oBRYWQnYX.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 14,
+ "views": 439,
+ "seen": "\"Pack orders with me\": a creator in her room unpacking a shipment and trying on the pieces (\"Packed some orders today\"), ending with a celebratory toast. It is casual, behind the scenes and in real time.",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "",
+   "ocr": "Packed some orders today WwW yi! fs a"
+  },
+  {
+   "t": "0:09",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:16",
+   "said": "",
+   "ocr": "Oo a Ss oo ee"
+  },
+  {
+   "t": "0:22",
+   "said": "",
+   "ocr": "wee Packed some orders today ei gt"
+  },
+  {
+   "t": "0:29",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:36",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:42",
+   "said": "",
+   "ocr": "Packed some orders today Dx a"
+  },
+  {
+   "t": "0:49",
+   "said": "Black woman skin smooth Wish you no bleach, you no burn up",
+   "ocr": "Packed some orders today ss eS"
+  }
+ ]
+}

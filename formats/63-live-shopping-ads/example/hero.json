@@ -1,0 +1,60 @@
+{
+ "id": "F63",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/HobiCasa/status/2084825639866277902",
+ "author": "HobiCasa",
+ "type": "video",
+ "duration": 21,
+ "mp4": "https://video.twimg.com/amplify_video/2084825561998970880/vid/avc1/320x568/tPRPHaTyOgiIANPr.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 293,
+ "views": 7092,
+ "seen": "A TikTok LIVE selling stream: a host holding up Colgate Optic White tubes in front of a red branded backdrop, with on-screen live comments and a product pin.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "",
+   "ocr": "League D2 top 99% PH August OPTIC WI VITA ae BTS ant care ji EE oO ge a a 50 no ng: ee Le Sha Ta joined"
+  },
+  {
+   "t": "0:03",
+   "said": "",
+   "ocr": "League D2 top 99% PH August... OPT Cc WHITE ar, BTS j-hope FREE al Ww Ang ii Foes"
+  },
+  {
+   "t": "0:06",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:14",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:17",
+   "said": "",
+   "ocr": "Daily Ranking OPTIC KL IVE tm VITA BTS Jj Ka Asa gate 5c ko az a! An ooo Le joined"
+  },
+  {
+   "t": "0:19",
+   "said": "",
+   "ocr": "Daily Ranking Music or age OPTIC LIV est VITA NJ competition val a oh FREE OS Es writ AN ee, ee Ang 9000 daisy joined"
+  }
+ ]
+}

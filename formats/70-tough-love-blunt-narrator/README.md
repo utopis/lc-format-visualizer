@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 70 · Tough Love: blunt, scolding narrator ad ("stop doing this to yourself")
 
+<!-- HERO:START -->
+[![Featured example: @ZedNilm1](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ZedNilm1/status/2098017463195553912)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (live ad) · hype risk: Low · cost $0-100 · 45 min
 
 ## What it is

@@ -1,0 +1,60 @@
+{
+ "id": "F08",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/JUSTCHAEL_/status/2098373776828256595",
+ "author": "JUSTCHAEL_",
+ "type": "video",
+ "duration": 110,
+ "mp4": "https://video.twimg.com/amplify_video/2098373566848708611/vid/avc1/320x568/5fJN8PQBSpH-pP7b.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 61,
+ "views": 2321,
+ "seen": "A short AI-made soap-opera scene for a handbag brand (Outlash): three women in a boutique, a tense confrontation, close-ups of the brown purse, then a cut to a living-room fallout. Shot and paced like an episode of a drama series, with the bag as a plot device.",
+ "beats": [
+  {
+   "t": "0:06",
+   "said": "Let's get the day started",
+   "ocr": "Ie a we 7. ap"
+  },
+  {
+   "t": "0:20",
+   "said": "Good morning ma. Good morning. How are you? I'm fine ma. Do we have any updates so far? None for now ma. Alright Ma one of your friends is a",
+   "ocr": ""
+  },
+  {
+   "t": "0:34",
+   "said": "Please tell her to come in. What exactly is the problem? Why are you crying? Is it not Samuel?",
+   "ocr": ""
+  },
+  {
+   "t": "0:47",
+   "said": "Relationship matter again on a Monday morning. Eh? You can't blame me. Imagine him telling me he's going to break up with me because I don't",
+   "ocr": ""
+  },
+  {
+   "t": "1:01",
+   "said": "But when it comes to the tacky bags issue, he is perfectly right Because you are the only person I know that earns well but still ends up bu",
+   "ocr": ""
+  },
+  {
+   "t": "1:15",
+   "said": "That's even why I came to meet you. You're my friend and you know your way around Iced bags and I'm so flattered Well, I'm glad you're final",
+   "ocr": ""
+  },
+  {
+   "t": "1:29",
+   "said": "This is a curt purse from Outlash. It's even what I brought to the office today In fact, everybody around me knows how much I love buying ba",
+   "ocr": ""
+  },
+  {
+   "t": "1:42",
+   "said": "I even have a lot of bags from Outlash in the shop right now If you really want to step up your bag game as a Legos big girl Outlash is the ",
+   "ocr": ""
+  }
+ ]
+}

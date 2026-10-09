@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 57 · Styling carousel — "how to wear it / how it stacks" (jewelry-native carousel)
 
+<!-- HERO:START -->
+[![Featured example: @ChristyGodswil](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ChristyGodswil/status/2080225401406672901)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (vendor library, jewelry-specific) · hype risk: Low · cost $0-100 · 45 min
 
 ## What it is

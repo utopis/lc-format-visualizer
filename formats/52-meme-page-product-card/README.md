@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 52 · Owned meme / niche page with product card ("bro vs me")
 
+<!-- HERO:START -->
+[![Featured example: @leonclipping](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/leonclipping/status/2107564115275501944)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Low-Med (one outlier) · hype risk: Med · cost $0 · 15 min/post
 
 ## What it is

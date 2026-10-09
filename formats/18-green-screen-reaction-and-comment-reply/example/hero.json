@@ -1,0 +1,60 @@
+{
+ "id": "F18",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/claireonvideo/status/2098103517680402637",
+ "author": "claireonvideo",
+ "type": "video",
+ "duration": 59,
+ "mp4": "https://video.twimg.com/amplify_video/2098103366756798469/vid/avc1/320x568/2ApWt-MZarxr_39X.mp4?tag=14",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 0,
+ "views": 63,
+ "seen": "A creator in front of a green screen of news articles (Hollywood box office, Warner Bros) reacting and explaining, then the green screen switches to the product (the \"Dailies\" newsletter signup page). It is UGC commentary with the background as the visual.",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "The Spider-Man just crossed one billion in six days, helping deliver the biggest domestic",
+   "ocr": "The biggest box office weekend of all time... a 28 af es ae ie, aN al eG Tom or Daniel on the set ot Spider: Day\u2019 Sony P"
+  },
+  {
+   "t": "0:11",
+   "said": "horror film in history, so much for superhero fatigue. Hollywood is in a bidding war over 21-year-old... backroom director Cain Parsons.",
+   "ocr": "Everyone in Hollywood wants Kane Parsons... Ss Ne bidding Kane Parsons Amanda Edwards Hollywood's biggest bidding war ri"
+  },
+  {
+   "t": "0:18",
+   "said": "After turning a $10 million horror film into a $364 million hit, studios are now offering him deals worth up to $65 million. Paramount just ",
+   "ocr": "Everyone in Hollywood wants Kane Parsons... as how offering a Li Kane Parsons Amanda Hollywood's biggest bidding war rig"
+  },
+  {
+   "t": "0:25",
+   "said": "a lawsuit from 12 states and the writers. Every day after September 30th could cost the company another 7 million.",
+   "ocr": "is a 2027 problem now... Ly Ji a Ll By AS IN its own merger. rs are suing to os. Discovery deal, and Friday that it won'"
+  },
+  {
+   "t": "0:33",
+   "said": "And Darren Aronofsky is raising $15 million for his new studio. Despite the backlash around his involvement with AI, he's doubling down on b",
+   "ocr": "and LA production... Darren the his Al studio. The made headlines Primordial Soup with make shorts blending traditional "
+  },
+  {
+   "t": "0:40",
+   "said": "with traditional filmmaking. So how do I know all this? I read the Dailys. It's a free Hollywood newsletter read by more than 185,000 Hollyw",
+   "ocr": "5-minute newsletter that keeps film tv professionals in the loop, every Monday, Wednesday. and Friday. Join free is Trus"
+  },
+  {
+   "t": "0:47",
+   "said": "The reason I love it is because it doesn't read like a trade publication. It feels like a friend catching you up on everything happening in ",
+   "ocr": "eel Homer wt bree Cones Lions kicks off with Trusted hy the industry's best: The is a great resource for filmmakers to s"
+  },
+  {
+   "t": "0:55",
+   "said": "Honestly, at this point, it's not even about trying it. It's about what you're missing if you're not reading it. It's completely free, so it",
+   "ocr": "5-minute newsletter that keeps film tv professionals in the loop, every Monday, Wednesday. and Friday. 23 ,000 readers P"
+  }
+ ]
+}

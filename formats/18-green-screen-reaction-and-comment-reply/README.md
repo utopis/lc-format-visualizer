@@ -10,6 +10,15 @@ related_strategies: [36-owned-winner-video-remix, 11-social-proof-credibility-en
 ---
 # 18 · Green-screen reaction & comment reply
 
+<!-- HERO:START -->
+[![Featured example: @claireonvideo](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/claireonvideo/status/2098103517680402637)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Creator in front of a green-screen background showing **LC's own winning ad/post** (or a screenshot of a viral comment), reacting/explaining. Comment-reply: TikTok/IG comment bubble sticker ("does this actually survive the ocean??") + answer video.
 

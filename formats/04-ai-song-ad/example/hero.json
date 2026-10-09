@@ -1,0 +1,60 @@
+{
+ "id": "F04",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/lorenzo_pravata/status/2105684266457637009",
+ "author": "lorenzo_pravata",
+ "type": "video",
+ "duration": 70,
+ "mp4": "https://video.twimg.com/amplify_video/2105682527071449088/vid/avc1/320x568/cTOP2vDDjHJopLRe.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 38,
+ "views": 3681,
+ "seen": "A Pixar-style 3D story about 70 seconds long. A lonely pink character sits by a door under the caption \"2 YEARS AND NOBODY LOOKED AT THIS\" and narrates (\"I'm the one downstairs\", \"Then one winter\", \"And she decided I moved out\") while a couple lives their life upstairs. It ends with the character wrapped in a blanket: \"I'm COLD...\". Every line has big centred captions; the product is the quiet answer to the story.",
+ "beats": [
+  {
+   "t": "0:04",
+   "said": "Two years, two years and not one person is checked on me.",
+   "ocr": "YEARS AND NOBODY LOOKED AT THIS and not one person has oa checked on me."
+  },
+  {
+   "t": "0:13",
+   "said": "Okay, so nobody's gonna ask, so I'm just gonna tell you. I'm the one downstairs, you haven't heard from, there's a reason.",
+   "ocr": ""
+  },
+  {
+   "t": "0:21",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:30",
+   "said": "It used to be so loud down here, nobody said anything.",
+   "ocr": "I AF. Ui one winter a am"
+  },
+  {
+   "t": "0:39",
+   "said": "And she decided I moved.",
+   "ocr": ""
+  },
+  {
+   "t": "0:47",
+   "said": "",
+   "ocr": "om sa a Nobody asked how I'm doing down here. a"
+  },
+  {
+   "t": "0:56",
+   "said": "Okay, so the woman...",
+   "ocr": ""
+  },
+  {
+   "t": "1:05",
+   "said": "",
+   "ocr": "Lad hs. a 1% So mn: Ss. SS ASS oY rm COLD... mS bl"
+  }
+ ]
+}

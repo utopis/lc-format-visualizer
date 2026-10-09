@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 95 · Visual-diagnosis roll-call ("This is X. This is X. That's X." symptom montage → hidden cause)
 
+<!-- HERO:START -->
+[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)**
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High (multi-brand engine) · hype risk: Medium · cost $0-200 · 2-4 h
 
 ## What it is

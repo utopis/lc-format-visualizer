@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 83 · Shock & gross visual (the problem in close-up)
 
+<!-- HERO:START -->
+[![Featured example: @FedotOff90](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/FedotOff90/status/2099967483071582480)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (board + trend doc) · hype risk: Low · cost $0 · 20 min
 
 ## What it is

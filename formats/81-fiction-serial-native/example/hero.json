@@ -1,0 +1,60 @@
+{
+ "id": "F81",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/adriamatz/status/2108190619449372721",
+ "author": "adriamatz",
+ "type": "video",
+ "duration": 52,
+ "mp4": "https://video.twimg.com/amplify_video/2108190428713439232/vid/avc1/468x360/8fy9qV8xPc5K5Pz9.mp4?tag=29",
+ "w": 650,
+ "h": 500,
+ "via_quote": false,
+ "likes": 7,
+ "views": 1029,
+ "seen": "An Arcads demo of a short-drama ad: office scenes with actors, split with a script panel, styled like DramaBox micro-dramas but built around a product.",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "Mari, Inaan accept these. It've all been opened. They didn't work.",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "You can't return 12 open bottles because they didn't work?",
+   "ocr": ""
+  },
+  {
+   "t": "0:16",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:22",
+   "said": "They didn't work for two",
+   "ocr": ""
+  },
+  {
+   "t": "0:29",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:35",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:42",
+   "said": "Six weeks. It stopped falling out. I stopped finding it on my pillow.",
+   "ocr": ""
+  },
+  {
+   "t": "0:49",
+   "said": "It's called Lumo 100. Now, my refund.",
+   "ocr": ""
+  }
+ ]
+}

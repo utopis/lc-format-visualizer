@@ -1,0 +1,60 @@
+{
+ "id": "F57",
+ "kind": "carousel",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/ChristyGodswil/status/2080225401406672901",
+ "author": "ChristyGodswil",
+ "type": "video",
+ "duration": 28,
+ "mp4": "https://video.twimg.com/amplify_video/2080225328601919488/vid/avc1/320x568/-puJYDEolrSuC3Ag.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 73,
+ "views": 11965,
+ "seen": "A styling video: the same woman on a turntable stand in a wood-panelled room, changing outfit every couple of seconds (white set, wide trousers, sun hat, blue dress, black, maroon). It shows many ways to wear and style one wardrobe.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "Need an effortless everyday look?",
+   "ocr": ""
+  },
+  {
+   "t": "0:05",
+   "said": "Need an effortless everyday look? Watch how I'd style it. Simple, elegant, ready for anywhere.",
+   "ocr": "el a Al by"
+  },
+  {
+   "t": "0:08",
+   "said": "Simple, elegant, ready for anywhere. Planning a beach getaway?",
+   "ocr": "I es ee Al by"
+  },
+  {
+   "t": "0:12",
+   "said": "Planning a beach getaway? I'd wear this.",
+   "ocr": ""
+  },
+  {
+   "t": "0:15",
+   "said": "I'd wear this. Fresh, light, and vacation ready.",
+   "ocr": ""
+  },
+  {
+   "t": "0:19",
+   "said": "Fresh, light, and vacation ready. Now let's dress for the evening.",
+   "ocr": ""
+  },
+  {
+   "t": "0:22",
+   "said": "Now let's dress for the evening. This one makes an entrance.",
+   "ocr": ""
+  },
+  {
+   "t": "0:25",
+   "said": "Elegant, timeless, unforgettable.",
+   "ocr": ""
+  }
+ ]
+}

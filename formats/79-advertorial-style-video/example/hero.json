@@ -1,0 +1,60 @@
+{
+ "id": "F79",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/k4komaaaal/status/2084289721703010738",
+ "author": "k4komaaaal",
+ "type": "video",
+ "duration": 911,
+ "mp4": "https://video.twimg.com/amplify_video/2083963265550303232/vid/avc1/640x360/tV0NnUMrmDkJn9G4.mp4?tag=29",
+ "w": 3840,
+ "h": 2160,
+ "via_quote": false,
+ "likes": 16,
+ "views": 655,
+ "seen": "A long founder-style talking video (about 15 minutes) filmed casually in a car and around town. It is cited for why brands are dropping polished ads for raw founder storytelling.",
+ "beats": [
+  {
+   "t": "0:57",
+   "said": "We got to knock the meeting out, and then we got to get back to Spain because we have our Robin Hood product launch happening in the next 24",
+   "ocr": "candy ae sin Ch,"
+  },
+  {
+   "t": "2:50",
+   "said": "Nice little run, sunny day in Cannes, super nice day out. My favorite time to run is when it's super sunny, super hot. I feel like a good sw",
+   "ocr": "Toby: Why ist so important for Sushi so fast launch?"
+  },
+  {
+   "t": "4:44",
+   "said": "or you want to create maybe you want to generate some yield, right? You want to stake some Bitcoin or some ETH in a lending market and you w",
+   "ocr": ""
+  },
+  {
+   "t": "6:38",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "8:32",
+   "said": "",
+   "ocr": "ee NY St Ad"
+  },
+  {
+   "t": "10:26",
+   "said": "",
+   "ocr": "ey et ol ul ay ye mf iF"
+  },
+  {
+   "t": "12:20",
+   "said": "",
+   "ocr": "al types of things right are kind ofthe focus, and so."
+  },
+  {
+   "t": "14:14",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "F89",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Zobo_Konect/status/2100470193377923466",
+ "author": "Zobo_Konect",
+ "type": "video",
+ "duration": 5,
+ "mp4": "https://video.twimg.com/amplify_video/2100470158019944448/vid/avc1/320x568/dVH-hhCIZAYfLd0J.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 23,
+ "views": 937,
+ "seen": "A small food brand's playful \"Dear customer\" post: product pouches (4-in-1 mix) on a shelf with a cheeky message to customers who keep viewing but not buying.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:01",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:01",
+   "said": "",
+   "ocr": "IM eR tt"
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "GLOBAL Taste OC IM SF. COG NUT, MiLK Ww eo ws Enterprise ae Estate. al Lagos Sta te fa"
+  },
+  {
+   "t": "0:03",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

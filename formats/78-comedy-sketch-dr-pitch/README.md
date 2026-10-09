@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 78 · Comedy sketch with a full direct-response pitch hidden inside the joke
 
+<!-- HERO:START -->
+[![Featured example: @Daniloecom](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Daniloecom/status/2107749101823574297)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (live example + playbook) · hype risk: Medium · cost $300-2,000 · 1-2 days
 
 ## What it is

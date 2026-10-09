@@ -1,0 +1,60 @@
+{
+ "id": "F26",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/ecomchasedimond/status/2108225940962914650",
+ "author": "ecomchasedimond",
+ "type": "video",
+ "duration": 44,
+ "mp4": "https://video.twimg.com/amplify_video/2108224664569016320/vid/avc1/640x360/appPkUklrKcf6Hmb.mp4?tag=29",
+ "w": 1920,
+ "h": 1080,
+ "via_quote": false,
+ "likes": 43,
+ "views": 17800,
+ "seen": "A screen recording that walks through a real customer call used as an ad: chat and messages UI, video thumbnails, then the call itself. The point is that the ad is a real, unscripted conversation with a customer.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "Read, draft, and send email from your Inbox Email Meta Connected Read and Run Facebook and Instagram ads: campaigns, bud"
+  },
+  {
+   "t": "0:08",
+   "said": "",
+   "ocr": "Meta is connected. Bright Ridge spent $4,210 last month. Here's what do for your en"
+  },
+  {
+   "t": "0:13",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:19",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:24",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:30",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:35",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:41",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 42 · AI object-head micro-drama (talking-fruit-style soap opera)
 
+<!-- HERO:START -->
+[![Featured example: @seergioo_gil](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/seergioo_gil/status/2089472288001347867)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P3** · evidence: Low-Med (claims from tool promos) · hype risk: High · cost $50-200 per episode (AI) · 3-6 h
 
 ## What it is

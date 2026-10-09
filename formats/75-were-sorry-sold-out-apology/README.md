@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 75 · "We're sorry, we keep selling out" apology notice
 
+<!-- HERO:START -->
+[![Featured example: @OmologatoUK](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/OmologatoUK/status/2099497006158725545)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0 · 15 min
 
 ## What it is

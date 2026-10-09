@@ -1,0 +1,60 @@
+{
+ "id": "F91",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/TheIvanKreimer/status/2107808445508321597",
+ "author": "TheIvanKreimer",
+ "type": "video",
+ "duration": 177,
+ "mp4": "https://video.twimg.com/amplify_video/2107808237755990016/vid/avc1/320x568/OWv3_kpb4rmEDQcn.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 1,
+ "views": 62,
+ "seen": "An AI live-action melodrama (Smooche): a woman at an ID-photo desk being told she looks old (\"in this photo\", \"what did you do?\"), office scenes with colleagues, and the product only appearing around 1:54.",
+ "beats": [
+  {
+   "t": "0:11",
+   "said": "Ma'am I cannot accept this the woman in this photo is 61. I am 61. You are not 61 Look at the mouth in this photo. Those lines are not on yo",
+   "ocr": ""
+  },
+  {
+   "t": "0:33",
+   "said": "I've been in this room waiting for two hours. I need to get this done. I can't verify this document verify what my own face Ma'am lower your",
+   "ocr": ""
+  },
+  {
+   "t": "0:55",
+   "said": "It is her it is not Monique. It is her look at the photograph. That isn't her. I see the photo ma'am. What did you do? I? Need my paper stam",
+   "ocr": "a what did you do?"
+  },
+  {
+   "t": "1:17",
+   "said": "Then it must be a cream. Is it a cream if I tell you will you stamp it so I can leave? My sister spends $400 a jar on her serum and she does",
+   "ocr": ""
+  },
+  {
+   "t": "1:39",
+   "said": "stamp it Ma'am tell me you want to know and I want to go home stamp my paper there There now what is it?",
+   "ocr": ""
+  },
+  {
+   "t": "2:01",
+   "said": "Fine the deal is a deal This is it This says it's for dark spots. It is and wrinkles fine lines and plumping all in one formula. This this i",
+   "ocr": "tp a and wrinkles, wa aw a"
+  },
+  {
+   "t": "2:23",
+   "said": "Can I have this one? You know what take it? I have a fresh one at home. What about me? Go online and get one if it doesn't work. They have a",
+   "ocr": ""
+  },
+  {
+   "t": "2:45",
+   "said": "That's how confident they are you ladies enjoy now. Thank you Smooch reverse time serum you may want to update your ID photo once you start ",
+   "ocr": ""
+  }
+ ]
+}

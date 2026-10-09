@@ -1,0 +1,60 @@
+{
+ "id": "F72",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/FedotOff90/status/2095237367925731363",
+ "author": "FedotOff90",
+ "type": "video",
+ "duration": 265,
+ "mp4": "https://video.twimg.com/amplify_video/2095236904023126019/vid/avc1/320x568/0nSFoYFO49uLp1za.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 49,
+ "views": 8095,
+ "seen": "A long-form VSL of about 4 to 5 minutes: a woman telling her story to camera (\"Over 40\"), with cutaways to an orange being peeled, a woman in bed, a red-light device on skin and close-ups of skin. It is slow, story-led and sells late.",
+ "beats": [
+  {
+   "t": "0:16",
+   "said": "Are your chin hairs multiplying? Here's why that's happening. I've tried every hair removal product out there, but I've never seen results l",
+   "ocr": "a Over 45 Ay ata al a be 8:"
+  },
+  {
+   "t": "0:49",
+   "said": "During menopause, estrogen drops and androgen levels spike. This shift activates facial hair follicles, making them stronger and turning bar",
+   "ocr": "Ta Those methods were aN"
+  },
+  {
+   "t": "1:22",
+   "said": "And it feels like it's getting worse by the week. Linda, a 54 year old woman, noticed her first little mustache at a family dinner. Her gran",
+   "ocr": "site pre a mm a she started avoiding photos"
+  },
+  {
+   "t": "1:55",
+   "said": "It seemed like the only solution was to get a $3,000 laser hair removal treatment that she couldn't afford. She felt hopeless, like this was",
+   "ocr": ""
+  },
+  {
+   "t": "2:29",
+   "said": "They think they're under attack, so they respond by growing the hair back. Thicker, darker, faster. And that's why every woman says, I pluck",
+   "ocr": "in le a Va ae SN You're experiencing"
+  },
+  {
+   "t": "3:02",
+   "said": "while also exfoliating away the dead skin that traps new hair. Unlike razors, Sonic Smooth doesn't cut the hair bluntly. Unlike waxing, it d",
+   "ocr": "NI if vi it over"
+  },
+  {
+   "t": "3:35",
+   "said": "Dr. Morales gave one to Linda, and the transformation shocked her. Her mustache shadow was gone. Her chin stubble, like it wasn't even there",
+   "ocr": "et al sD a ee ae ee ae a with thousands of women"
+  },
+  {
+   "t": "4:08",
+   "said": "and has already helped thousands of menopausal women stop feeling ashamed about their hormonal facial hair. Elena Morales wants every woman ",
+   "ocr": "iV wh If you don't see smoother"
+  }
+ ]
+}

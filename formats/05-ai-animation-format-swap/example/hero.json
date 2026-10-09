@@ -1,0 +1,60 @@
+{
+ "id": "F05",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/oliverxmedia/status/2099359156121825337",
+ "author": "oliverxmedia",
+ "type": "video",
+ "duration": 20,
+ "mp4": "https://video.twimg.com/amplify_video/2099359129601245184/vid/avc1/540x540/NNjJSlGc92Asva1C.mp4?tag=16",
+ "w": 1080,
+ "h": 1080,
+ "via_quote": false,
+ "likes": 94,
+ "views": 9146,
+ "seen": "An Arcads demo: one short scene re-rendered in several animation styles, shown side by side and sequenced (Pixar-3D kids in a room, then the same beat in other looks). It shows the core move of the format: keep the script, swap the visual style.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "2-4-14 AM and my brain would like to revisit something I said in 2016.",
+   "ocr": ""
+  },
+  {
+   "t": "0:03",
+   "said": "2-4-14 AM and my brain would like to revisit something I said in 2016. No, we are not doing this, kitchen.",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "No, we are not doing this, kitchen.",
+   "ocr": ""
+  },
+  {
+   "t": "0:08",
+   "said": "No, we are not doing this, kitchen. One scoop, hot milk, froth it like you mean it, chocolate, at bedtime, legally.",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "One scoop, hot milk, froth it like you mean it, chocolate, at bedtime, legally. Raisin, magnesium, the ashwagangji thing, it's gone quiet in",
+   "ocr": ""
+  },
+  {
+   "t": "0:13",
+   "said": "Raisin, magnesium, the ashwagangji thing, it's gone quiet in here, suspicious.",
+   "ocr": ""
+  },
+  {
+   "t": "0:16",
+   "said": "Raisin, magnesium, the ashwagangji thing, it's gone quiet in here, suspicious. Ooh, that's the good kind of heavy.",
+   "ocr": "2D Retro 3D Pixar ee ee ment Ls a 301 ip"
+  },
+  {
+   "t": "0:18",
+   "said": "Ooh, that's the good kind of heavy.",
+   "ocr": "2D Retro 3D Pixar od Ge oa Pt a pf a4 MN"
+  }
+ ]
+}

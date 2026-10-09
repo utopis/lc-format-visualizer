@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 71 · "Side effect" ad (a positive side effect framed as a warning)
 
+<!-- HERO:START -->
+[![Featured example: @pmaymin](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/pmaymin/status/2105059737343492311)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (live ad, very large tester) · hype risk: Low · cost $0 · 15 min
 
 ## What it is

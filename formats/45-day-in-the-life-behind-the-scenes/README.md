@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 45 · Day in the life / behind the scenes (founder or customer)
 
+<!-- HERO:START -->
+[![Featured example: @ugcAshleyRJ](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ugcAshleyRJ/status/2067636022251290725)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium · hype risk: Low · cost $0 · 1-2 h
 
 ## What it is

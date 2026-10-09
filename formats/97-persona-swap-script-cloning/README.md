@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 97 · Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)
 
+<!-- HERO:START -->
+[![Featured example: @SparkifyAI](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/SparkifyAI/status/2078068798314422644)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High (the core of the highest-volume account in DTC) · hype risk: Medium · cost $50-150 per creator take · 1 week for 8 takes
 
 ## What it is

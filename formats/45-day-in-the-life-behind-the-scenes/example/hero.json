@@ -1,0 +1,55 @@
+{
+ "id": "F45",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/ugcAshleyRJ/status/2067636022251290725",
+ "author": "ugcAshleyRJ",
+ "type": "video",
+ "duration": 17,
+ "mp4": "https://video.twimg.com/amplify_video/2067635963845652480/vid/avc1/320x568/ZmDKM3A-TdanUqbu.mp4?tag=28",
+ "w": 576,
+ "h": 1024,
+ "via_quote": false,
+ "likes": 13,
+ "views": 534,
+ "seen": "A day-in-the-life POV filmed with an ultra-wide 0.5x lens: walking into an office (\"Be Empowered\" on the wall), working at a round table, a printed magazine spread, with captions explaining the 0.5x POV angle.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "",
+   "ocr": "Tat ty ALA ot WISE nt I FD a yi Fi SS to ay"
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": "a Be Empowered The POV ANG 93"
+  },
+  {
+   "t": "0:07",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "",
+   "ocr": "Empowered. The 0.5 POV"
+  },
+  {
+   "t": "0:13",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:15",
+   "said": "",
+   "ocr": "Ci ISLE 9:"
+  }
+ ]
+}

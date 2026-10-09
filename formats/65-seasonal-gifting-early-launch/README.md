@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 65 · Seasonal gifting campaign — launch 3-4 weeks early, urgency only in the final week
 
+<!-- HERO:START -->
+[![Featured example: @M__Operators](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/M__Operators/status/2094809174907535497)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (vendor jewelry study) · hype risk: Low · cost $0-500 · 1-2 days per season
 
 ## What it is

@@ -1,0 +1,50 @@
+{
+ "id": "F21",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/rewind02/status/2107211233405325547",
+ "author": "rewind02",
+ "type": "video",
+ "duration": 10,
+ "mp4": "https://video.twimg.com/amplify_video/2107211054979653632/vid/avc1/320x568/Ot8XMv3ixPAzF2Kg.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 108,
+ "views": 4356,
+ "seen": "A recurring AI character (a duck-headed \"AI influencer\" in a leather jacket) walking through a store aisle and showing a drink to camera. The same character appears in every post, so the audience follows the character.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "a Ww Fi ta a ae SL ea oa"
+  },
+  {
+   "t": "0:04",
+   "said": "This is my third dinner. Don't judge me",
+   "ocr": "I Al ee m2: Bp ef le Se a ON"
+  },
+  {
+   "t": "0:05",
+   "said": "This is my third dinner. Don't judge me",
+   "ocr": ""
+  },
+  {
+   "t": "0:07",
+   "said": "This is my third dinner. Don't judge me",
+   "ocr": "te Al cane in et ae ee By #4"
+  },
+  {
+   "t": "0:09",
+   "said": "This is my third dinner. Don't judge me",
+   "ocr": "ty av Al INFLUENCE a ay Ne a Me ow SS"
+  }
+ ]
+}

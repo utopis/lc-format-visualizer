@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 47 · GRWM / "stack with me"
 
+<!-- HERO:START -->
+[![Featured example: @ugcAshleyRJ](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ugcAshleyRJ/status/2067636022251290725)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium · hype risk: Low · cost $0-150 (creator) · 30-60 min
 
 ## What it is

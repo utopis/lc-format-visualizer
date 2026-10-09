@@ -1,0 +1,60 @@
+{
+ "id": "F22",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Charconsults/status/2081629763882430905",
+ "author": "Charconsults",
+ "type": "video",
+ "duration": 26,
+ "mp4": "https://video.twimg.com/amplify_video/2081629688942768128/vid/avc1/320x568/lATJiGIvw83AxLjT.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 3,
+ "views": 172,
+ "seen": "Fast UGC cuts for an herb-keeper product: wilted herbs (\"HERBS SAY GOODBYE\"), the creator smiling with the product, adding water, fresh mint and rosemary in the tubes (\"THAT FITS PERFECTLY\"), a finished salad and \"STOP WASTING HERBS\". The before and after sit next to each other.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "Tired of wasting herbs? Say goodbye to waste. I found these herb saver bottles to",
+   "ocr": "HERB GOODBYE a fi"
+  },
+  {
+   "t": "0:04",
+   "said": "Tired of wasting herbs? Say goodbye to waste. I found these herb saver bottles to keep your herbs fresh and they are so useful. You simply r",
+   "ocr": "fg Ya Ta Ze we AND TI HEY. are ad fi SS"
+  },
+  {
+   "t": "0:08",
+   "said": "keep your herbs fresh and they are so useful. You simply rinse, add water and",
+   "ocr": "oS ta ADD WATER AND a"
+  },
+  {
+   "t": "0:11",
+   "said": "let the bottle do the rest. The results you get fresh herbs, delicious meals and",
+   "ocr": ""
+  },
+  {
+   "t": "0:14",
+   "said": "they're perfect for parsley, mint, rosemary and more. They come in a compact",
+   "ocr": "MINT ROSEMARY AND a Fe aa"
+  },
+  {
+   "t": "0:17",
+   "said": "they're perfect for parsley, mint, rosemary and more. They come in a compact design that fits perfectly in a fridge and save space while pre",
+   "ocr": ""
+  },
+  {
+   "t": "0:21",
+   "said": "design that fits perfectly in a fridge and save space while preserving your favorite herbs. Upgrade your kitchen now and order yours today a",
+   "ocr": ""
+  },
+  {
+   "t": "0:24",
+   "said": "favorite herbs. Upgrade your kitchen now and order yours today and stop wasting herbs.",
+   "ocr": "reg STOP NG HERBS a"
+  }
+ ]
+}

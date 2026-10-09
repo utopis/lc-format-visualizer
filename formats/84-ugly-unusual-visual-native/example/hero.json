@@ -1,0 +1,60 @@
+{
+ "id": "F84",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/alexgoughcooper/status/2092657905002529270",
+ "author": "alexgoughcooper",
+ "type": "video",
+ "duration": 56,
+ "mp4": "https://video.twimg.com/amplify_video/2092653139442708480/vid/avc1/320x568/Lg0pt6Trlodm2vuQ.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 61,
+ "views": 8537,
+ "seen": "A man in a lab-like room holding a big water bottle with a goofy caption (\"Revealing my greatest invention\"), swinging it around, a cheap and odd look that stops the scroll, 32M views.",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "This is the product that almost got me thrown in jail. Oh, you think this is a regular bottle of water?",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "What about this little sticker here that says peel corner peel corn? Well, whoa? whoa",
+   "ocr": ""
+  },
+  {
+   "t": "0:17",
+   "said": "You are witnessing history because this is the world's first",
+   "ocr": ""
+  },
+  {
+   "t": "0:24",
+   "said": "wearable water Let's go. It stretches to fit any size human being ever",
+   "ocr": "rae a er hf oF Ss TS 814 a fi tia Se"
+  },
+  {
+   "t": "0:31",
+   "said": "made No seriously any size. I love drinking water, but I hate carrying it",
+   "ocr": "ah cS Thi 123 a a5 es TS fas ls res an Sees"
+  },
+  {
+   "t": "0:38",
+   "said": "It's something you will never say because I got two gallons on me hands-free",
+   "ocr": ""
+  },
+  {
+   "t": "0:45",
+   "said": "Imagine the future whether you're walking your dog",
+   "ocr": ""
+  },
+  {
+   "t": "0:52",
+   "said": "You will be hydrated",
+   "ocr": "EE AJ fi Ae"
+  }
+ ]
+}

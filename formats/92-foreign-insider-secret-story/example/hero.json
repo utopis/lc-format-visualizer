@@ -1,0 +1,60 @@
+{
+ "id": "F92",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/EcomSapo/status/2105288429873528875",
+ "author": "EcomSapo",
+ "type": "video",
+ "duration": 636,
+ "mp4": "https://video.twimg.com/amplify_video/2105288291746721792/vid/avc1/320x568/aTdm2vivqZa8D1s4.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 157,
+ "views": 23585,
+ "seen": "A Pixar-3D sung drama (Smooche) of about 10 minutes: a red-haired woman's story through a party, a bathroom shelf of skincare, a tearful close-up and a graduation crowd. The insider secret and the product arrive late in the song.",
+ "beats": [
+  {
+   "t": "0:39",
+   "said": "I had to sit next to my ex-husband And the woman he left me for Who was the same age as our daughter Throughout my daughter's graduation I g",
+   "ocr": "Ww wd wh And reason"
+  },
+  {
+   "t": "1:59",
+   "said": "I didn't want a crowd of family seeing me As the wrinkled old woman The husband traded in For a bright shiny new toy I didn't want their pit",
+   "ocr": ""
+  },
+  {
+   "t": "3:18",
+   "said": "This is what pharmacist recommend in Seoul She said Korean women Have known about this for decades Not influences Pharmacists, American foun",
+   "ocr": ""
+  },
+  {
+   "t": "4:38",
+   "said": "Like magic Younger so I went to the store Ran some errands Four hours passed I looked in the mirror My skin looked incredible I texted Lisa ",
+   "ocr": "a My, skin was like%g tides"
+  },
+  {
+   "t": "5:57",
+   "said": "",
+   "ocr": "pit ay my"
+  },
+  {
+   "t": "7:17",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "8:36",
+   "said": "",
+   "ocr": "by io PL 74 am! that crowd, ff But st if"
+  },
+  {
+   "t": "9:56",
+   "said": "",
+   "ocr": "Nothing slides or cracks."
+  }
+ ]
+}

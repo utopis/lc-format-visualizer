@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 29 · Green-screen personal story / long-form yapper (brand appears late)
 
+<!-- HERO:START -->
+[![Featured example: @danclipping](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/danclipping/status/2078147137049923751)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High (multiple operators; $750k winner) · hype risk: Low · cost $100-400 per creator video · 1 day turnaround per creator
 
 ## What it is

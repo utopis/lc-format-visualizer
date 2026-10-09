@@ -1,0 +1,60 @@
+{
+ "id": "F78",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Daniloecom/status/2107749101823574297",
+ "author": "Daniloecom",
+ "type": "video",
+ "duration": 64,
+ "mp4": "https://video.twimg.com/amplify_video/2107748983938404352/vid/avc1/320x568/tpY0PtAmYqJmsyYe.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 4,
+ "views": 117,
+ "seen": "A claymation-style comedy sketch about snoring: a man snoring with sound waves, his wife suffering, a cop bursting in, a giant cartoon mouth, then the product (QuietSeal) on the nightstand.",
+ "beats": [
+  {
+   "t": "0:04",
+   "said": "I used to think I just snored a little. Apparently, I was wrong. My wife said it sounded like a chainsaw running in our bedroom.",
+   "ocr": ""
+  },
+  {
+   "t": "0:12",
+   "said": "So, we tried everything. Earplugs, nose strips, special pillows.",
+   "ocr": ""
+  },
+  {
+   "t": "0:20",
+   "said": "At one point, we were basically sleeping in separate rooms. Nothing worked. Then one night, my snoring got so loud, my wife actually called ",
+   "ocr": ""
+  },
+  {
+   "t": "0:27",
+   "said": "The officer came in with a decibel meter. I took one breath, and apparently, that was enough to break it.",
+   "ocr": "Fx mm xs"
+  },
+  {
+   "t": "0:35",
+   "said": "Turns out, the problem was pretty simple. I was sleeping with my mouth wide open. So, I started using quiet seal.",
+   "ocr": "fei LOW a PAL led as AY"
+  },
+  {
+   "t": "0:43",
+   "said": "It gently keeps my mouth closed while I sleep, helping me breathe quietly through my nose. And for the first time in a very long time,",
+   "ocr": "a. ba ad 5s\u2019 YA"
+  },
+  {
+   "t": "0:51",
+   "said": "my wife actually slept next to me. No earplugs, no couch, no police.",
+   "ocr": "ay Pd ec! a. ie"
+  },
+  {
+   "t": "0:59",
+   "said": "It's just quiet. Honestly, I should have tried it sooner. Get quiet seal before your wife calls the cops.",
+   "ocr": "GENTLE MOUTH TA a SO"
+  }
+ ]
+}

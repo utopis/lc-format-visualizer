@@ -1,0 +1,60 @@
+{
+ "id": "F30",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/consumerxai/status/2092629155036987751",
+ "author": "consumerxai",
+ "type": "video",
+ "duration": 15,
+ "mp4": "https://video.twimg.com/amplify_video/2092629141313273856/vid/avc1/432x360/Dv8bWFD50a6xxLUU.mp4?tag=14",
+ "w": 806,
+ "h": 670,
+ "via_quote": false,
+ "likes": 7,
+ "views": 1149,
+ "seen": "Silent travel and food B-roll (beach, plates, a caf\u00e9 table) with a long on-screen text story about a long-distance relationship, ending on a phone screen. There is no voice: the text overlay is the whole message.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": "a HE to app pairing intimate dinner clips a with along-distance text hook before demonstrating couples drawing val az SC"
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "art travel-footage to app pairing intimate dinner clips with a long-distance text hook before demonstrating at di couple"
+  },
+  {
+   "t": "0:04",
+   "said": "",
+   "ocr": "travel-footage to app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared couples"
+  },
+  {
+   "t": "0:06",
+   "said": "",
+   "ocr": "00 silent travel-footage to lifestyle app pairing intimate dinner clips long-distance text hook before demonstrating a s"
+  },
+  {
+   "t": "0:08",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "",
+   "ocr": "a a cent isla to lifestyle app pairing intimate dinner clips with a long-distance text hook before demonstrating a share"
+  },
+  {
+   "t": "0:13",
+   "said": "",
+   "ocr": "silent travel-footage to app pairing intimate dinner clips with a long-distance before demonstrating a shared couples dr"
+  }
+ ]
+}

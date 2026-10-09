@@ -1,0 +1,50 @@
+{
+ "id": "F49",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/prompthanem/status/2108225912957186085",
+ "author": "prompthanem",
+ "type": "video",
+ "duration": 10,
+ "mp4": "https://video.twimg.com/amplify_video/2108187564263751681/vid/avc1/320x568/TOojYChMq4Kt-rs9.mp4?tag=14",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 0,
+ "views": 1,
+ "seen": "An AI-generated cinematic jewelry commercial: a macro of an emerald, a velvet box opening, white-gloved hands lifting the ring, a hand reveal, and the box closing for the final shot. No people, just light, texture and slow camera moves.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:07",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "",
+   "ocr": "Comment RING I'll share the prompt with you."
+  }
+ ]
+}

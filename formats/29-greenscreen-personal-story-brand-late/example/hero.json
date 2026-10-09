@@ -1,0 +1,60 @@
+{
+ "id": "F29",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/danclipping/status/2078147137049923751",
+ "author": "danclipping",
+ "type": "video",
+ "duration": 35,
+ "mp4": "https://video.twimg.com/amplify_video/2078147101792604160/vid/avc1/320x568/-Reg_ytn0MQNd93P.mp4?tag=14",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 43,
+ "views": 6418,
+ "seen": "A creator talking to camera in her bedroom with captions (\"I'm going to make you fall in love with the girl who...\") that tells a personal manifestation story. The app (a mood or affirmation screen) only appears late, as part of her story.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "to make out with the girl who told me about this. You're telling me there's an app",
+   "ocr": "I'm going to make out with the girl who this"
+  },
+  {
+   "t": "0:06",
+   "said": "You're telling me there's an app where you tell it your desires, your dreams, and it will write stories, detailed stories",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "and it will write stories, detailed stories that you can listen to about your future self",
+   "ocr": "that you to"
+  },
+  {
+   "t": "0:15",
+   "said": "who already has it. The version of you that already became a millionaire,",
+   "ocr": "The version of you"
+  },
+  {
+   "t": "0:19",
+   "said": "the version of you where that guy is obsessed with you and is getting down on one knee to marry you.",
+   "ocr": "obsessed with you"
+  },
+  {
+   "t": "0:24",
+   "said": "and is getting down on one knee to marry you. I have manifested the craziest shit using it.",
+   "ocr": ""
+  },
+  {
+   "t": "0:28",
+   "said": "It is literally a Spotify of your dream self.",
+   "ocr": ""
+  },
+  {
+   "t": "0:32",
+   "said": "It is literally a Spotify of your dream self. Gate keep this.",
+   "ocr": ""
+  }
+ ]
+}

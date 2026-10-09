@@ -1,0 +1,60 @@
+{
+ "id": "F39",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/lorenzo_pravata/status/2090384597737508973",
+ "author": "lorenzo_pravata",
+ "type": "video",
+ "duration": 126,
+ "mp4": "https://video.twimg.com/amplify_video/2090376266335580160/vid/avc1/320x568/5ryLgPLePCgfeqb6.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 70,
+ "views": 4776,
+ "seen": "A doctor in a white coat talking to camera, intercut with CGI of a bone breaking down and microscopic cells. Each \"reason why\" gets its own visual, then it cuts back to the doctor.",
+ "beats": [
+  {
+   "t": "0:07",
+   "said": "There is a cellular reason your bones thin after menopause, and it is reversible. What is the best way to rebuild bone density after age 60?",
+   "ocr": "a, ar si -2 fs my after age 607 eo lu fl me me,"
+  },
+  {
+   "t": "0:23",
+   "said": "There is an even more powerful vitamin that rebuilds bone density in the hips, knees, and spine. Did you know that a calcium deficiency is n",
+   "ocr": ""
+  },
+  {
+   "t": "0:39",
+   "said": "Inside your bones, there are a group of good cells that repair and grow your bones, and a group of evil cells that damage and break down you",
+   "ocr": "Nw a a that damage and Weak down your bones rX ns SS ee Se"
+  },
+  {
+   "t": "0:55",
+   "said": "The old cells get cleared out to make room for new, healthy ones. And your bones stay healthy and strong, no problems. But after age 60, esp",
+   "ocr": "a. git hy especially if youre post menopause a 9?"
+  },
+  {
+   "t": "1:10",
+   "said": "Aki, low back, knees, or hips, that's your skeletal system losing that battle to zombie cells. But here's the concerning part, if your bones",
+   "ocr": ""
+  },
+  {
+   "t": "1:26",
+   "said": "until something as simple as a stumble, a bump, or even an awkward step becomes a fracture waiting to happen. And according to recent resear",
+   "ocr": ""
+  },
+  {
+   "t": "1:42",
+   "said": "A spinal fracture can mean permanent disability. A simple fall can mean never living alone again. Many stop their fitness hobbies. Many stop",
+   "ocr": "et a, Sy their fitness Sy ae ee"
+  },
+  {
+   "t": "1:58",
+   "said": "Meanwhile, doctors keep prescribing calcium supplements. Bio-phosphate medications and tell you just to manage the bone loss. But calcium su",
+   "ocr": "and tell you just to manage the bone loss yr fi"
+  }
+ ]
+}

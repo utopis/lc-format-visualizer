@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 92 · Foreign-insider story ("I lived in Seoul for 2 years and learned what Korean women actually use")
 
+<!-- HERO:START -->
+[![Featured example: @EcomSapo](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/EcomSapo/status/2105288429873528875)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: High (one $1M/mo ad + a brand-wide pattern) · hype risk: Medium · cost $0-300 · half day
 
 ## What it is

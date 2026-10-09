@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 79 · Advertorial-style video ("5 reasons ___ are ditching ___")
 
+<!-- HERO:START -->
+[![Featured example: @k4komaaaal](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/k4komaaaal/status/2084289721703010738)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (playbook + boards) · hype risk: Low · cost $50-300 · 3-4 h
 
 ## What it is

@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 88 · Challenge ad ("the 30-day never-take-it-off challenge")
 
+<!-- HERO:START -->
+[![Featured example: @0xShahzaib_](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/0xShahzaib_/status/2104901293190119594)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Low-medium (case studies) · hype risk: Medium · cost $0-200 · 1 h
 
 ## What it is

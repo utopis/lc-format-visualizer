@@ -1,0 +1,60 @@
+{
+ "id": "F99",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Counterprint/status/2107894146140631180",
+ "author": "Counterprint",
+ "type": "video",
+ "duration": 34,
+ "mp4": "https://video.twimg.com/amplify_video/2107894068478922753/vid/avc1/320x568/2iqSPstU0esxWupN.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 11,
+ "views": 1720,
+ "seen": "A sample-sale \"LAST CHANCE! ENDS TONIGHT\" video: a fast top-down scroll across piles of colourful printed books, packaging and merch on a table.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "See IN $9 ec Om ou 329 oO 1987 tee cs vt 16 yt ms aa ot"
+  },
+  {
+   "t": "0:06",
+   "said": "",
+   "ocr": "Ee es eS SS ToLD a 44% yah a oh ss oO vu mee ak eG"
+  },
+  {
+   "t": "0:10",
+   "said": "",
+   "ocr": "ss 3S SS Ne 73 va AN, a a Go Dae"
+  },
+  {
+   "t": "0:14",
+   "said": "",
+   "ocr": "vr at. ic M4 es eh 608 dA INDIES an ia Le"
+  },
+  {
+   "t": "0:19",
+   "said": "",
+   "ocr": "il Ye 423 76 axe RS rA"
+  },
+  {
+   "t": "0:23",
+   "said": "",
+   "ocr": "me ny a mane AR, iN Ja a UD or a: Lis or oO"
+  },
+  {
+   "t": "0:27",
+   "said": "",
+   "ocr": "ok. CREATIVE BLOCK by Pass through Tr"
+  },
+  {
+   "t": "0:32",
+   "said": "",
+   "ocr": "ey a oO SS a NS es World Football ae nt sae Po a Oy rah 7s se 499 ae Te"
+  }
+ ]
+}

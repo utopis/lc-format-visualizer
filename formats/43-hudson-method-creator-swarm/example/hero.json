@@ -1,0 +1,60 @@
+{
+ "id": "F43",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/maverickecom/status/2088288284690567296",
+ "author": "maverickecom",
+ "type": "video",
+ "duration": 90,
+ "mp4": "https://video.twimg.com/amplify_video/2088288158488100865/vid/avc1/320x568/5AfaczMQiKdozgEd.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 16,
+ "views": 2491,
+ "seen": "A TikTok Shop creator explaining the \"Hudson method\" to camera (in a hoodie), with screenshots of analytics (14.4M views, GMV), then a grid of many creator accounts all posting the same product.",
+ "beats": [
+  {
+   "t": "0:05",
+   "said": "Oh my gosh, we've got creators making tens of thousands of dollars per month, and brands making hundreds of thousands of dollars per month, ",
+   "ocr": "11:46 au ay Y-wins Online August 4, Ale &424m 418 Ordered items between July 24th and the August is gonna be insane! eve"
+  },
+  {
+   "t": "0:16",
+   "said": "powering this right now, scripting content on easy mode, enabling new affiliates to go viral every day. It genuinely feels like running Face",
+   "ocr": "Key metrics Jun Aug Post views Profile views 14.4M 365.1K -19.4M -59.9% Likes Comments 1.2M 14.4K -1.6M -56.3% -17.8K -5"
+  },
+  {
+   "t": "0:28",
+   "said": "This new brand we started from zero on TikTok Shop is up 50% every month. The way that I've mastered scaling on TikTok Shop right now is pur",
+   "ocr": ""
+  },
+  {
+   "t": "0:39",
+   "said": "First of all, I mix in top affiliates with a lot worse affiliates as well, and so the bad affiliates learn from the good ones and become goo",
+   "ocr": "Wee And th mn fr the good ones and ones too"
+  },
+  {
+   "t": "0:50",
+   "said": "and they can get views and sales like it's easy peasy. Combining these two things as well as adding a proper scripting kind of feedback loop",
+   "ocr": ""
+  },
+  {
+   "t": "1:01",
+   "said": "research, in terms of reporting, and just allowing me to know the metrics every day. Because I know the best metrics as Peter Drucker once s",
+   "ocr": ""
+  },
+  {
+   "t": "1:12",
+   "said": "it and do more of what works every single day. Yeah, we have pages getting millions of views and driving sales for brands and I've genuinely",
+   "ocr": "66 69.7K 13 posts followers following Al creator He\u2019 wt Over 40 years he thicker fuller hair ae ie te a ow, 14 ee we hav"
+  },
+  {
+   "t": "1:23",
+   "said": "All you need to do is plug in with affiliate pages and social media pages that are already viral in your niche. If you're an Ecom brand and ",
+   "ocr": "en months Ls: us ba a 499 re Za we Or it 413 Ps, ae commerce brand and you wanna steal a this method, Sw a"
+  }
+ ]
+}

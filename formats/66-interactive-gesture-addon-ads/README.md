@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 66 · Interactive gesture add-on ads (TikTok tap-to-reveal, shake-to-reveal, Super Like)
 
+<!-- HERO:START -->
+[![Featured example: @_deepakss_](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/_deepakss_/status/2087895969157246985)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P3** · evidence: Low-Med (platform case studies) · hype risk: Low · cost $0 add-on to existing video · 15 min
 
 ## What it is

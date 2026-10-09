@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 32 · Screenshot-native static pack (iPhone Notes, text thread, Reddit, email, Google, IG story/DM, Trustpilot)
 
+<!-- HERO:START -->
+[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)**
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P0** · evidence: High (CPM data + every static list) · hype risk: Low · cost $0 (Figma/AI image) · 15-30 min per static
 
 ## What it is

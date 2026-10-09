@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 30 · Voiceless B-roll + text-overlay ad (mute-first)
 
+<!-- HERO:START -->
+[![Featured example: @consumerxai](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/consumerxai/status/2092629155036987751)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Med-High (operator lists + outliers; contested) · hype risk: Low · cost $0-50 (existing footage) · 20-40 min per ad
 
 ## What it is

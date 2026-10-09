@@ -1,0 +1,60 @@
+{
+ "id": "F77",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/zedmadeit/status/2098121655167926499",
+ "author": "zedmadeit",
+ "type": "video",
+ "duration": 98,
+ "mp4": "https://video.twimg.com/amplify_video/2098121497508253699/vid/avc1/320x568/b6lC2OMK1YgYWrqh.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 55,
+ "views": 8707,
+ "seen": "An AI song version of an existing ad: the same Pixar-style man and the same scenes (morning bathroom, mirror, product jar in a jungle set) with new sung audio. Same video, new soundtrack.",
+ "beats": [
+  {
+   "t": "0:06",
+   "said": "Dramastome every morning here's what two weeks could bring within 48 hours the fog lives at",
+   "ocr": "wh at lo wee bring. oo aa hy fl"
+  },
+  {
+   "t": "0:18",
+   "said": "Wired tired feeling quits down shoulders drop your mind clear something moving underneath After three days morning would not every morning y",
+   "ocr": "a Not every morning it's there. a"
+  },
+  {
+   "t": "0:30",
+   "said": "After five days chest firms up you catch yourself in the middle you're gonna look away After one week she'd give you that look again you're ",
+   "ocr": ""
+  },
+  {
+   "t": "0:42",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:55",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:07",
+   "said": "You be capsules every morning that you gotta do what it would and 10,000 other men",
+   "ocr": ""
+  },
+  {
+   "t": "1:19",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:31",
+   "said": "",
+   "ocr": "Before we 20 ae worm"
+  }
+ ]
+}

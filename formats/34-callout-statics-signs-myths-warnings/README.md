@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 34 · Call-out statics: "3 signs…", myth vs fact, "don't buy this", warning
 
+<!-- HERO:START -->
+[![Featured example: @FedotOff90](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/FedotOff90/status/2096964245485449453)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High (1,525-day + 200-day live ads) · hype risk: Low · cost $0 · 15-30 min
 
 ## What it is

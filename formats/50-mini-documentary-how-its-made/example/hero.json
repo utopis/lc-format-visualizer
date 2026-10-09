@@ -1,0 +1,60 @@
+{
+ "id": "F50",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/IND__Sweety/status/2103386592136376620",
+ "author": "IND__Sweety",
+ "type": "video",
+ "duration": 57,
+ "mp4": "https://video.twimg.com/amplify_video/2103386548066725889/vid/avc1/320x568/faa9cRs_N-y8gGxL.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 2,
+ "views": 4081,
+ "seen": "A how-it's-made clip: a jeweler's hands cutting a band, shaping a dome, setting a crystal and finishing the piece, shot in tight close-up. The opening caption asks \"WOULD YOU GIVE THIS AS A GIFT? DROP A COMMENT\".",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "Oh",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:17",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:24",
+   "said": "",
+   "ocr": "ee te HG, La er"
+  },
+  {
+   "t": "0:31",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:38",
+   "said": "",
+   "ocr": "fw ar a 72 er"
+  },
+  {
+   "t": "0:46",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:53",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

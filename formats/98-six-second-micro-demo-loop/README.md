@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 98 · 6-second micro-demo loop with a native headline ("omg I think I finally found…")
 
+<!-- HERO:START -->
+[![Featured example: @fablecut](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/fablecut/status/2102944927868965360)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (225-day live ad) · hype risk: Medium · cost $0 · 30 min
 
 ## What it is

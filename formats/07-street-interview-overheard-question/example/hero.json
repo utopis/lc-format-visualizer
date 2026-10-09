@@ -1,0 +1,60 @@
+{
+ "id": "F07",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/adamtaylorl/status/2094742062755422423",
+ "author": "adamtaylorl",
+ "type": "video",
+ "duration": 108,
+ "mp4": "https://video.twimg.com/amplify_video/2094711596698181632/vid/avc1/320x568/Bt72fu10StlTc2QN.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 362,
+ "views": 26261,
+ "seen": "Phone-in-hand at a hotel front desk: the creator films herself asking staff what mattress the hotel uses (captions \"FRONT DESK THIS...\", \"NOTHING SPECIAL\", \"WE STARTED PUTTING\"), then cuts to a man sleeping badly, a woman unboxing the brand and the answer reveal. It looks like an overheard real conversation, not an ad.",
+ "beats": [
+  {
+   "t": "0:06",
+   "said": "I already know what this call is gonna be about. Front desk, this is Sarah. Yeah, hi. We just checked out of room 217 this morning. My wife ",
+   "ocr": ""
+  },
+  {
+   "t": "0:20",
+   "said": "Quick question, what kind of mattress do you guys use? Because my wife has fibromyalgia. She hasn't slept through the night in years, and sh",
+   "ocr": ""
+  },
+  {
+   "t": "0:33",
+   "said": "",
+   "ocr": "if aa ad 3. Vet a"
+  },
+  {
+   "t": "0:47",
+   "said": "",
+   "ocr": "WE STARTED, PUTTING"
+  },
+  {
+   "t": "1:00",
+   "said": "I'm not the science person, I'm not the science person. My manager could explain it better. But basically your body builds up a positive cha",
+   "ocr": "hs a Ww ee Pt, ey\u2019 Bh"
+  },
+  {
+   "t": "1:14",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:27",
+   "said": "and they have a 90-day return. So if your wife doesn't feel a difference, you just send it back.",
+   "ocr": "ro THE BRAND WE"
+  },
+  {
+   "t": "1:40",
+   "said": "Sarah, I think you just saved me three grand. Half the calls I get now are about the sheets. I don't usually tell them. I'm ordering one ton",
+   "ocr": ""
+  }
+ ]
+}

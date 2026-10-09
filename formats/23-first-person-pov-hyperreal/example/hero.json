@@ -1,0 +1,50 @@
+{
+ "id": "F23",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/spwfeijen/status/2105648964716380197",
+ "author": "spwfeijen",
+ "type": "video",
+ "duration": 10,
+ "mp4": "https://video.twimg.com/amplify_video/2105648735929696258/vid/avc1/640x360/v3W3K8QWC50FDmfK.mp4?tag=29",
+ "w": 1920,
+ "h": 1080,
+ "via_quote": false,
+ "likes": 46,
+ "views": 4654,
+ "seen": "A hyper-real first-person POV clip: the camera is the viewer's eyes, standing on a ship's deck looking out over the sea, with no cuts away from the POV.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": "in pos ye oy ww poe. ae"
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "Be a my Ve wo a Eq im a pa"
+  },
+  {
+   "t": "0:04",
+   "said": "",
+   "ocr": "a5 wes Rae ie 33"
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:07",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

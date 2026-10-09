@@ -1,0 +1,50 @@
+{
+ "id": "F44",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/leonclipping/status/2107903429490135362",
+ "author": "leonclipping",
+ "type": "video",
+ "duration": 8,
+ "mp4": "https://video.twimg.com/amplify_video/2107903387496833024/vid/avc1/320x568/7rkDLgG0WQ-jYeZR.mp4?tag=29",
+ "w": 576,
+ "h": 1024,
+ "via_quote": false,
+ "likes": 44,
+ "views": 2687,
+ "seen": "A 4-second shocked-reaction hook (a woman covering her face and reading the fact on screen), then the app screen (a purple mascot with a body fact). It is one tiny format repeated across many clipping accounts.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "Somebody's watching me",
+   "ocr": ""
+  },
+  {
+   "t": "0:01",
+   "said": "Somebody's watching me",
+   "ocr": ""
+  },
+  {
+   "t": "0:03",
+   "said": "Somebody's watching me",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "Somebody's watching me",
+   "ocr": "Cycle day of 28 ll my on taught me! phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your "
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": "Ef Cycle day of 28 ee phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making"
+  },
+  {
+   "t": "0:07",
+   "said": "",
+   "ocr": "Cycle day of 28 ee my dragon taught me!! phase Itch levels are at an all-time high. Hormonal chaos is in full swing, and"
+  }
+ ]
+}

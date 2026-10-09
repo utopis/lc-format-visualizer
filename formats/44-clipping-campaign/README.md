@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 44 · Clipping campaign (pay-per-view clippers distribute founder/podcast content)
 
+<!-- HERO:START -->
+[![Featured example: @leonclipping](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/leonclipping/status/2107903429490135362)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (outlier case studies; mostly agency pitches) · hype risk: Med · cost $1-3 CPM paid to clippers + platform fee · setup 1 day; ongoing
 
 ## What it is

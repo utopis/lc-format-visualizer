@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 33 · Text-on-skin / text-on-palm static
 
+<!-- HERO:START -->
+[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)**
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Med-High (in 4 independent format lists) · hype risk: Low · cost $0-50 (photo + handwriting or AI) · 20 min
 
 ## What it is

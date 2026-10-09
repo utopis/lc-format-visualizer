@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 41 · Talking product (AI-animated product as narrator)
 
+<!-- HERO:START -->
+[![Featured example: @koloveski](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/koloveski/status/2076868032002150833)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (183-day live) · hype risk: Med · cost $20-100 (AI video) · 1-2 h
 
 ## What it is

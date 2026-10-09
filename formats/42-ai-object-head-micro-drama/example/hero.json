@@ -1,0 +1,60 @@
+{
+ "id": "F42",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/seergioo_gil/status/2089472288001347867",
+ "author": "seergioo_gil",
+ "type": "video",
+ "duration": 68,
+ "mp4": "https://video.twimg.com/amplify_video/2089471991908540416/vid/avc1/320x568/SwludvS8nMgHToEX.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 9,
+ "views": 5508,
+ "seen": "Talking-fruit micro-drama: a broccoli-head character and a tomato-head businessman in suits in a barbershop or office, then an apple and an eggplant character. It is a 1-minute soap plot acted out by food characters.",
+ "beats": [
+  {
+   "t": "0:04",
+   "said": "Bruno I have the most important interview of my life today",
+   "ocr": "a Rat SS my hi aes Shi"
+  },
+  {
+   "t": "0:12",
+   "said": "One euro you get nothing here for that if I look good today this interview could change everything",
+   "ocr": ""
+  },
+  {
+   "t": "0:21",
+   "said": "Beggars have no place in my salon What is going on here? What is your name boy?",
+   "ocr": ""
+  },
+  {
+   "t": "0:29",
+   "said": "Bruno sir, I only want a fair chance Then today you will have it Put your euro back in your pocket",
+   "ocr": ""
+  },
+  {
+   "t": "0:38",
+   "said": "You pay nothing Success usually starts with one person believing in you",
+   "ocr": ""
+  },
+  {
+   "t": "0:46",
+   "said": "This salon closes tomorrow if the debts are not paid. Do you still recognize this place, sir? Bruno is that really you?",
+   "ocr": "Ss SB rh Nl ict Be"
+  },
+  {
+   "t": "0:55",
+   "said": "Every debt is paid in full today. This salon is yours again. I Am ashamed",
+   "ocr": "wt os mx ek Ls rai a a a"
+  },
+  {
+   "t": "1:03",
+   "said": "Everyone deserves a second chance The greatest gift is not money. It is that you never lost your heart",
+   "ocr": ""
+  }
+ ]
+}

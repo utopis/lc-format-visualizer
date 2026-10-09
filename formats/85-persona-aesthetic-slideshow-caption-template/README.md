@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 85 · Persona aesthetic slideshow account with one recurring caption template
 
+<!-- HERO:START -->
+[![Featured example: @yurahulei](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/yurahulei/status/2108224536902815967)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (screenshots; vendor post) · hype risk: High · cost $0 · 10 min/post
 
 ## What it is

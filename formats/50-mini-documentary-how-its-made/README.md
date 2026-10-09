@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 50 · Mini-documentary / founder mini-VSL ("how it's made", mission)
 
+<!-- HERO:START -->
+[![Featured example: @IND__Sweety](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/IND__Sweety/status/2103386592136376620)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (one teardown; contested) · hype risk: Med · cost $0-1,000 · 1-3 days
 
 ## What it is

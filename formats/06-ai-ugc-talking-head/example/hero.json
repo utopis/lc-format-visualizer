@@ -1,0 +1,60 @@
+{
+ "id": "F06",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/frankyecom/status/2105377535345258584",
+ "author": "frankyecom",
+ "type": "video",
+ "duration": 141,
+ "mp4": "https://video.twimg.com/amplify_video/2105377309666525184/vid/avc1/320x568/xJ-NzaqYt5EcqagJ.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 344,
+ "views": 53762,
+ "seen": "A run of AI-made and real beauty talking heads: a TV-shopping set (\"LIVE MASCARA DEMO\"), tight face close-ups that read like UGC, a before/after face and a mannequin head. The speaker talks straight to camera with captions.",
+ "beats": [
+  {
+   "t": "0:08",
+   "said": "Okay, if your mascara just isn't doing what it used to, you need to see this. We're doing this completely live, one eye, one coat of blush. ",
+   "ocr": "MASCARA DEMO, 7k al"
+  },
+  {
+   "t": "0:26",
+   "said": "and pulling all the way through to the tip. This is why I love doing these demonstrations live because there's nowhere to hide. Look at the ",
+   "ocr": ""
+  },
+  {
+   "t": "0:44",
+   "said": "lashes. Like look at the difference on this model. Tell me which one you think has tubing mascara on versus the Korean lash casting. I mean,",
+   "ocr": ""
+  },
+  {
+   "t": "1:01",
+   "said": "Look closely at that tube because that's a huge part of why you're getting that separation. Oh, that is beautiful. Look at her now. You can ",
+   "ocr": ""
+  },
+  {
+   "t": "1:19",
+   "said": "for our aged lashes. And that's exactly why this Korean formula has gotten so popular. It's natural, but attaches to each individual lash, g",
+   "ocr": "SHE Ss Ow a mf"
+  },
+  {
+   "t": "1:36",
+   "said": "and it's selling fast. I mean, if you guys aren't blown away by this, I don't know what will. So tell us what do you think? I can't believe ",
+   "ocr": ""
+  },
+  {
+   "t": "1:54",
+   "said": "while tubing gives you that big dark look, I always just wanted something more natural, but still gave me that volume I was looking for. And",
+   "ocr": "PS ee a"
+  },
+  {
+   "t": "2:11",
+   "said": "That was just two passes on each eyelash. It really is a total game changer. If you're a woman at home watching over 40, you need to see it ",
+   "ocr": "BEAUTY il LIVES HERE ah LOC cD a a Ps"
+  }
+ ]
+}

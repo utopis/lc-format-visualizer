@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 46 · Unboxing / packing orders (ASMR)
 
+<!-- HERO:START -->
+[![Featured example: @mannyvivianne](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/mannyvivianne/status/2101756682359480565)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium · hype risk: Low · cost $0 · 30 min
 
 ## What it is

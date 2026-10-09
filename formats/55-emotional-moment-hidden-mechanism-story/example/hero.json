@@ -1,0 +1,60 @@
+{
+ "id": "F55",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/stat_biz/status/2100293137709269251",
+ "author": "stat_biz",
+ "type": "video",
+ "duration": 24,
+ "mp4": "https://video.twimg.com/amplify_video/2100196134350422016/vid/avc1/320x568/ESpyc-uyYMAzoB8n.mp4?tag=29",
+ "w": 576,
+ "h": 1024,
+ "via_quote": false,
+ "likes": 6,
+ "views": 582,
+ "seen": "A real wedding moment (a crying bride, a flower) as the hook, then a phone showing the app (Once camera) collecting guests' photos, ending on a QR code and the app name. The emotion comes first and the mechanism is revealed after.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "",
+   "ocr": "ia eh, tS my ee ti Pb gifs ri a a Ne ta Sl aw 78 every guest a an"
+  },
+  {
+   "t": "0:04",
+   "said": "",
+   "ocr": "seats instead! LA rr yo"
+  },
+  {
+   "t": "0:07",
+   "said": "Talk to you on the vision of a standing light",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "Talk to you on the vision of a standing light",
+   "ocr": "0.5 Ic 34 with only 36 shots ob"
+  },
+  {
+   "t": "0:13",
+   "said": "",
+   "ocr": "4048 a? Brian May 27, 4039 photo unlock day! cf"
+  },
+  {
+   "t": "0:16",
+   "said": "",
+   "ocr": "Happy ey Diana Wedding Day ie May 21 24 hours later... by Once Pr."
+  },
+  {
+   "t": "0:19",
+   "said": "",
+   "ocr": "mt rh Mi, iv collected into shared gall archive ae"
+  },
+  {
+   "t": "0:22",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

@@ -10,6 +10,15 @@ related_strategies: [37-ai-realism-craft, 06-keyword-named-products-social-searc
 ---
 # 20 · AI model lookbook / on-body try-on
 
+<!-- HERO:START -->
+[![Featured example: @KarinaRed123](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/KarinaRed123/status/2099477629078307041)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Diverse models wearing the exact piece in lifestyle scenes (beach, office, wedding); or a 15s photoreal UGC try-on clip generated from the product photo (prompt structure from [@Arina_hoqe](https://x.com/Arina_hoqe/status/2095071815483986241): PRODUCT · DURATION exactly 15s · STYLE photorealistic UGC · scene beats · camera · audio).
 

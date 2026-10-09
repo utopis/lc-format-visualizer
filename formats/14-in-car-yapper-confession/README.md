@@ -11,6 +11,15 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 31-founder-daily-posti
 ---
 # 14 · In-car / yapper confession
 
+<!-- HERO:START -->
+[![Featured example: @contentbyroxy](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/contentbyroxy/status/2100991855441666519)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Creator in a parked car (or walking), phone propped, talking fast and personal: "I couldn't even wait to go inside to tell you." One continuous story, light jump cuts, captions. Why it works ([@jennamediaco](https://x.com/jennamediaco/status/2106209597526540312)): car looks organic, a story the whole time, feels private and unscripted.
 

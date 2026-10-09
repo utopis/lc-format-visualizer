@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en"><head><meta charset="utf-8"><meta name="referrer" content="no-referrer"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Format folder</title>
 <style>
 :root{--bg:#fbfbfd;--card:#fff;--txt:#1d1d1f;--mut:#6e6e73;--gold:#a8823a;--link:#0066cc;--line:rgba(0,0,0,.09)}
@@ -17,9 +17,15 @@ pre{background:var(--card);padding:18px;border-radius:14px;overflow:auto;border:
 table{border-collapse:collapse;width:100%;font-size:14px;display:block;overflow-x:auto}th,td{border-bottom:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}th{color:var(--mut);font-weight:600}
 .meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin:0 0 28px}.meta div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;font-size:14px}.meta span{display:block;font-size:12px;color:var(--gold);margin-bottom:4px;font-weight:600}
 .err{color:#d70015}
+#doc img{max-width:100%;border-radius:14px}
+.hx{display:grid;grid-template-columns:minmax(0,300px) 1fr;gap:28px;align-items:start;margin:0 0 34px;padding:22px;background:var(--card);border:1px solid var(--line);border-radius:22px}
+.hx-media{display:block;background:#000;border-radius:16px;overflow:hidden}.hx-media video,.hx-media img{display:block;width:100%;max-height:540px;object-fit:contain;background:#000}
+.hx-k{font-size:13px;font-weight:600;color:var(--gold)}.hx-meta{margin:2px 0 10px;color:var(--mut);font-size:14px}.hx-seen{margin:0 0 16px;font-size:16px;line-height:1.55}
+.hx-btns{display:flex;gap:10px;flex-wrap:wrap}.hx-btns a{display:inline-flex;align-items:center;height:36px;padding:0 16px;border-radius:980px;font-size:15px;text-decoration:none}.hx-go{background:#0071e3;color:#fff}.hx-x{background:rgba(118,118,128,.12);color:var(--txt)}
+@media(max-width:700px){.hx{grid-template-columns:1fr}}
 </style></head><body>
 <nav><div class="in" id="tabs"><a href="./">Format library</a><span class="sp"></span></div></nav>
-<main><div class="crumb" id="crumb"></div><div id="doc">Loading…</div></main>
+<main><div class="crumb" id="crumb"></div><div id="hero"></div><div id="doc">Loading…</div></main>
 <script src="assets/marked.min.js"></script>
 <script>
 const q=new URLSearchParams(location.search).get('f')||'formats/README.md';
@@ -27,7 +33,7 @@ const ok=/^formats\/[A-Za-z0-9_.\-\/]+\.md$/.test(q)&&!q.includes('..');
 const doc=document.getElementById('doc');
 const dir=q.slice(0,q.lastIndexOf('/')+1);
 const m=q.match(/^formats\/(\d\d-[a-z0-9-]+)\//);
-if(m){const base='formats/'+m[1]+'/';const T=[['Playbook','README.md'],['Bot brief','BOT.md'],['Examples','examples/README.md'],['Stages','STAGES.md'],['Louise Carter','brands/louise-carter.md']];
+if(m){const base='formats/'+m[1]+'/';const T=[['See it + make it','EXAMPLE.md'],['Playbook','README.md'],['Bot brief','BOT.md'],['Examples','examples/README.md'],['Stages','STAGES.md'],['Louise Carter','brands/louise-carter.md']];
   document.getElementById('tabs').insertAdjacentHTML('beforeend',T.map(([l,p])=>`<a class="t ${q===base+p?'on':''}" href="brief.html?f=${encodeURIComponent(base+p)}">${l}</a>`).join('')+`<a class="t" href="https://github.com/utopis/lc-format-visualizer/tree/main/${base}" target="_blank" rel="noopener">GitHub</a>`);
   document.getElementById('crumb').innerHTML=`<a href="brief.html?f=formats%2FFOLDERS.md">All folders</a> / ${m[1]}${q!==base+'README.md'?' / '+q.slice(base.length):''}`}
 function resolve(h){const parts=(dir+h).split('/'),out=[];for(const p of parts){if(p==='..')out.pop();else if(p!=='.')out.push(p)}return out.join('/')}
@@ -36,14 +42,25 @@ if(!ok){doc.innerHTML='<p class="err">Unknown file.</p>'}else fetch(q).then(r=>{
   if(fm){md=md.slice(fm[0].length);const rows=fm[1].split('\n').map(l=>l.match(/^([a-z_]+):\s*(.*)$/)).filter(Boolean);
     const e=t=>t.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
     meta='<div class="meta">'+rows.filter(r=>!['id','name'].includes(r[1])).map(r=>'<div><span>'+e(r[1].replace(/_/g,' '))+'</span>'+e(r[2].replace(/^\[|\]$|^"|"$/g,''))+'</div>').join('')+'</div>'}
+  md=md.replace(/<!-- HERO:START -->[\s\S]*?<!-- HERO:END -->\n?/,'');
   doc.innerHTML=marked.parse(md);const h1=doc.querySelector('h1');if(meta){h1?h1.insertAdjacentHTML('afterend',meta):doc.insertAdjacentHTML('afterbegin',meta)}
   doc.querySelectorAll('script,iframe,object,embed').forEach(e=>e.remove());
+  doc.querySelectorAll('h1,h2,h3,h4').forEach(h=>{if(!h.id)h.id=h.textContent.trim().toLowerCase().replace(/[^\w\- ]+/g,'').replace(/ /g,'-')});
   doc.querySelectorAll('[onerror],[onclick],[onload]').forEach(e=>{e.removeAttribute('onerror');e.removeAttribute('onclick');e.removeAttribute('onload')});
   doc.querySelectorAll('a[href]').forEach(a=>{const h=a.getAttribute('href');
     if(/^https?:/.test(h)){a.target='_blank';a.rel='noopener'}
     else if(/^javascript:/i.test(h)){a.removeAttribute('href')}
     else if(/\.md(#.*)?$/.test(h)){const r=resolve(h.split('#')[0]);a.href=r.startsWith('formats/')?'brief.html?f='+encodeURIComponent(r):'https://github.com/utopis/lc-format-visualizer/blob/main/'+r}
+    else if(/\.(jpe?g|png)$/i.test(h)){a.href=resolve(h)}
     else if(!h.startsWith('#')){const r=resolve(h);a.href=r.startsWith('formats/')?'https://github.com/utopis/lc-format-visualizer/tree/main/'+r:'#'}});
+  doc.querySelectorAll('img[src]').forEach(i=>{const h=i.getAttribute('src');if(!/^(https?:|data:)/.test(h)){const r=resolve(h);if(r.startsWith('formats/'))i.src=r;else i.remove()}i.loading='lazy'});
   document.title=(h1?h1.textContent:q)+' · Format folder';
 }).catch(()=>{doc.innerHTML='<p class="err">Could not load '+q.replace(/</g,'&lt;')+'.</p>'});
+
+if(m&&ok&&/(README|EXAMPLE)\.md$/.test(q)&&q.split('/').length===3){const base='formats/'+m[1]+'/';
+ fetch(base+'example/hero.json').then(r=>r.ok?r.json():null).then(h=>{if(!h)return;const e=t=>String(t??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const isEx=q.endsWith('EXAMPLE.md');if(isEx&&!h.mp4)return;
+  const media=h.mp4?`<div class="hx-media"><video controls playsinline preload="metadata" poster="${base+h.poster}" src="${e(h.mp4)}"></video></div>`:`<a class="hx-media" href="${h.mock?'brief.html?f='+encodeURIComponent(base+'EXAMPLE.md'):e(h.url)}"${h.mock?'':' target="_blank" rel="noopener"'}><img src="${base+h.poster}" alt="Example"></a>`;
+  const meta=h.mock?'Illustrative mock. No clean public example yet.':`@${e(h.author)} on X${h.duration?', '+Math.floor(h.duration/60)+':'+String(h.duration%60).padStart(2,'0')+' video':''}`;
+  document.getElementById('hero').innerHTML=`<section class="hx">${media}<div><span class="hx-k">${h.mock?'What it looks like':'The real example'}</span><p class="hx-meta">${meta}</p>${h.seen?`<p class="hx-seen">${e(h.seen)}</p>`:''}<div class="hx-btns">${isEx?'':`<a class="hx-go" href="brief.html?f=${encodeURIComponent(base+'EXAMPLE.md')}">How to make it</a>`}${h.url?`<a class="hx-x" href="${e(h.url)}" target="_blank" rel="noopener">Open on X</a>`:''}</div></div></section>`}).catch(()=>{})}
 </script></body></html>

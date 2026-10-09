@@ -1,0 +1,60 @@
+{
+ "id": "F70",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/ZedNilm1/status/2098017463195553912",
+ "author": "ZedNilm1",
+ "type": "video",
+ "duration": 157,
+ "mp4": "https://video.twimg.com/amplify_video/2098017420170711040/vid/avc1/320x572/UTnxVwA_tGAyAThU.mp4?tag=14",
+ "w": 712,
+ "h": 1276,
+ "via_quote": false,
+ "likes": 3,
+ "views": 655,
+ "seen": "A blunt, tough-love narrator over gross-out medical visuals (\"YOU HAVE PARASITES\", a gut close-up, a CGI man in a bathroom), then a man in scrubs and a mask talking frankly to camera. It is meant to look like it took 10 minutes to make.",
+ "beats": [
+  {
+   "t": "0:09",
+   "said": "If you walk barefoot over dirt, a hookworm can use its sharp mouth to penetrate your skin and enter your body directly through your feet. On",
+   "ocr": "Up to! Your throat"
+  },
+  {
+   "t": "0:29",
+   "said": "get swallowed and end up clamping onto your intestinal walls with sharp curved mouth parts to feed on your blood. They lay eggs, they expand",
+   "ocr": "a ae me! years. They fOr wa ie"
+  },
+  {
+   "t": "0:49",
+   "said": "explain, wondering why your energy is gone no matter how much you sleep. Over 60 million Americans have organisms living inside them right n",
+   "ocr": ""
+  },
+  {
+   "t": "1:08",
+   "said": "I stood in the bathroom staring at it, not fully believing what I was looking at. You are not going to find what I am about to show you at t",
+   "ocr": ""
+  },
+  {
+   "t": "1:28",
+   "said": "designed to clear what is living inside your guts at every life stage. Sarsop, the anemone, kill the organisms and destroy the eggs before t",
+   "ocr": "Both and are traditionally used for their antimicrobial and properties. Research indicates they can inhibit or kill vari"
+  },
+  {
+   "t": "1:47",
+   "said": "Lapseed and turmeric calm the systemic inflammation they leave behind so the bloating, cuffiness and exhaustion start clearing with them. It",
+   "ocr": "2s te It tastes ab"
+  },
+  {
+   "t": "2:07",
+   "said": "because that is what actually penetrates the biofilm these organisms hide behind. Most products on the market do not come close to the conce",
+   "ocr": ""
+  },
+  {
+   "t": "2:27",
+   "said": "Over 500,000 people have cleared theirs with this formula, 60 day money back guarantee if you do not feel the difference you get every penny",
+   "ocr": "eC. because small batches"
+  }
+ ]
+}

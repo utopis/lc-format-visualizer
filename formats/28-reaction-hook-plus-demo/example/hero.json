@@ -1,0 +1,50 @@
+{
+ "id": "F28",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/carlynorthmedia/status/2077482959620190437",
+ "author": "carlynorthmedia",
+ "type": "video",
+ "duration": 12,
+ "mp4": "https://video.twimg.com/amplify_video/2077481592100880384/vid/avc1/320x568/Rf3sAno3qrRsFL_S.mp4?tag=28",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 29,
+ "views": 3544,
+ "seen": "A woman covers her mouth in shock (the reaction hook, captioned), then a fast screen demo of a face-search app (\"you can search ANYONE's face\"), and she reacts again. The whole thing is 11 seconds.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "Life does not... Oh my God.",
+   "ocr": ""
+  },
+  {
+   "t": "0:02",
+   "said": "Life does not... Oh my God.",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "Oh my God. Oh...",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "Oh...",
+   "ocr": ""
+  },
+  {
+   "t": "0:08",
+   "said": "Oh...",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

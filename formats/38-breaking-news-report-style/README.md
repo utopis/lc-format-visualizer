@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 38 · Breaking-news / news-report style ad
 
+<!-- HERO:START -->
+[![Featured example: @ladprofit](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ladprofit/status/2089745258796261415)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High (S-tier "news") · hype risk: Medium · cost $0-100 · 30-60 min
 
 ## What it is

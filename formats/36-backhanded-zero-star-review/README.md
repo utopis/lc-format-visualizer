@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 36 · Backhanded / "bad review" ad (complaint that is secretly a benefit)
 
+<!-- HERO:START -->
+[![Featured example: @Smdigitalsys](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Smdigitalsys/status/2099549775892783266)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (tier lists) · hype risk: Low · cost $0 · 15 min
 
 ## What it is

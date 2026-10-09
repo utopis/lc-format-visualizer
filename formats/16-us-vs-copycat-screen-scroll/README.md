@@ -10,6 +10,15 @@ related_strategies: [08-ad-library-transparency-targeting-intel, 41-von-restorff
 ---
 # 16 · Us-vs-copycat screen-scroll
 
+<!-- HERO:START -->
+[![Featured example: @Nate_Google_](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Nate_Google_/status/2104963469548085713)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Screen recording of an iPhone scrolling marketplace listings of look-alike products while a VO explains how to tell the difference (materials, plating, reviews mentioning tarnish), then cuts to the real product. ([@Nate_Google_](https://x.com/Nate_Google_/status/2104963469548085713)).
 

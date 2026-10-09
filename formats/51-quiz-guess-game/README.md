@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 51 · Quiz / guess-the-price / street quiz game
 
+<!-- HERO:START -->
+[![Featured example: @LewisSylvi3994](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/LewisSylvi3994/status/2105450856086917518)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Low-Med · hype risk: Low · cost $0-100 · 1 h
 
 ## What it is

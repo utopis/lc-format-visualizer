@@ -12,6 +12,15 @@ related_strategies: [01-viral-slideshow-recreation, 20-niche-persona-pages, 24-n
 ---
 # 01 · Faceless niche slideshow
 
+<!-- HERO:START -->
+[![Featured example: @leonclipping](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/leonclipping/status/2104660939069170110)
+<!-- HERO:END -->
+
+
+
+
 ## What it looks like
 A 4-6 slide photo carousel that reads like genuinely useful niche content (tips, rules, lists, diary). The product appears **once**, framed as one of the tips — typically slide N-1 ("right before the last tip so you can't get the full list without seeing it", @rsalimx).
 

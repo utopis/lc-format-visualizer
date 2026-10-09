@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 86 · Offer-architecture ads: build-your-own bundle / any-N picker / mystery box / free-plus-shipping
 
+<!-- HERO:START -->
+[![Featured example: @FedotOff90](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/FedotOff90/status/2094854572623675832)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P0** · evidence: High (many live offer pages) · hype risk: Low · cost $0-100 · 1 h
 
 ## What it is

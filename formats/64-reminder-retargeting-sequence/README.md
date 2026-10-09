@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 64 · Reminder / retargeting sequence ads (abandoned cart, countdown, back-in-stock, wishlist, cross-sell)
 
+<!-- HERO:START -->
+[![Featured example: @aakashkapil01](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/aakashkapil01/status/2080679066693492819)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (vendor library) · hype risk: Low · cost $0 · 1 day setup
 
 ## What it is

@@ -1,0 +1,50 @@
+{
+ "id": "F41",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/koloveski/status/2076868032002150833",
+ "author": "koloveski",
+ "type": "video",
+ "duration": 6,
+ "mp4": "https://video.twimg.com/amplify_video/2076867981196591104/vid/avc1/570x360/y98b5q-s_pVV_HiY.mp4?tag=14",
+ "w": 1350,
+ "h": 850,
+ "via_quote": false,
+ "likes": 183,
+ "views": 190509,
+ "seen": "A fully animated product video: an Amazon logo, \"ONLY ONE CLICK\", a parcel dropping in, an object rising out of a box, then the Amazon logo again. The product animates itself with no presenter.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "Ever since then",
+   "ocr": ""
+  },
+  {
+   "t": "0:01",
+   "said": "Ever since then",
+   "ocr": ""
+  },
+  {
+   "t": "0:02",
+   "said": "Ever since then",
+   "ocr": ""
+  },
+  {
+   "t": "0:03",
+   "said": "Ever since then",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

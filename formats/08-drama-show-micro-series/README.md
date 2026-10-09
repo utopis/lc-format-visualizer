@@ -11,6 +11,15 @@ related_strategies: [32-drama-show-ads-hidden-storyline, 22-serialized-chat-stor
 ---
 # 08 · Drama show micro-series
 
+<!-- HERO:START -->
+[![Featured example: @JUSTCHAEL_](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/JUSTCHAEL_/status/2098373776828256595)
+<!-- HERO:END -->
+
+
+
+
 ## What it looks like
 A 45-120s mini-episode with characters, conflict, tension and payoff; product enters late as the thing that changes the scene. "Women wanna watch shows… They don't wanna get 8 seconds into their scroll and suddenly feel ambushed by an ad. So give them the show" ([@frankyecom](https://x.com/frankyecom/status/2106833649970684195)). Best drama ads let the viewer "experience a version of themselves they secretly want to become" ([@frankyecom](https://x.com/frankyecom/status/2108308896813326775)).
 

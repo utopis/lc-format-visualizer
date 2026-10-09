@@ -1,0 +1,60 @@
+{
+ "id": "F54",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/pixclipper/status/2084739019187847201",
+ "author": "pixclipper",
+ "type": "video",
+ "duration": 40,
+ "mp4": "https://video.twimg.com/amplify_video/2084738947930800128/vid/avc1/320x568/i7qGSBJitxPPWBv8.mp4?tag=29",
+ "w": 576,
+ "h": 1024,
+ "via_quote": false,
+ "likes": 134,
+ "views": 26301,
+ "seen": "A short selfie reaction (\"been shopping at Lidl for 8 years and NOW I find this??\"), then a long wordless screen demo of the app: tapping through store deals and recipes on a phone held over a counter. There is no voiceover; the text hook does the work.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "No way.",
+   "ocr": "been shopping at for years and NOW FIND THIS"
+  },
+  {
+   "t": "0:07",
+   "said": "",
+   "ocr": "been at for years and NOW THIS 22?"
+  },
+  {
+   "t": "0:12",
+   "said": "",
+   "ocr": "yo. on been shopping at for years and NOW FIND THIS 2??? for Family Fave bed"
+  },
+  {
+   "t": "0:17",
+   "said": "",
+   "ocr": "been shopping at for years and NOW FIND. THIS 722 hat appliances do you have Ny a"
+  },
+  {
+   "t": "0:22",
+   "said": "",
+   "ocr": "been for 8.years and NOW FIND THIS building your week.."
+  },
+  {
+   "t": "0:27",
+   "said": "",
+   "ocr": "been shopping at Lid! for NOW FIND THIS ?2?"
+  },
+  {
+   "t": "0:32",
+   "said": "",
+   "ocr": "been shopping for.8 years and NOW FIND THIS 2??? Instructions"
+  },
+  {
+   "t": "0:37",
+   "said": "",
+   "ocr": "been shopping at Lid! for and NOW HIS 222"
+  }
+ ]
+}

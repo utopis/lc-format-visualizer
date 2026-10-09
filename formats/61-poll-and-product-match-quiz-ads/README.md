@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 61 · Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer)
 
+<!-- HERO:START -->
+[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)**
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (vendor + brand case studies) · hype risk: Low · cost $0 · 30 min + quiz build
 
 ## What it is

@@ -12,6 +12,15 @@ related_strategies: [32-drama-show-ads-hidden-storyline, 33-animated-brand-chara
 ---
 # 04 · AI song / singing story ad
 
+<!-- HERO:START -->
+[![Featured example: @lorenzo_pravata](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/lorenzo_pravata/status/2105684266457637009)
+<!-- HERO:END -->
+
+
+
+
 ## What it looks like
 A full original song (30s to **4 minutes**) whose lyrics tell a relatable story — usually a woman's emotional problem → turning point → product as the quiet hero. Visuals are AI-generated scenes (realistic, Pixar-3D, or animated) cut to the lyrics, captions on screen like a lyric video. Product often **not revealed until late** (minute 3 in @therahulissar's winner). Variants:
 - **Ballad/drama** (Smooche): "Lisa poured the wine and I started crying… he left, and I'm the one who looks like she lost… Lisa has been a dermatologist for 15 years… Sit down, I brought something" (transcript from @EcomSapo's example).

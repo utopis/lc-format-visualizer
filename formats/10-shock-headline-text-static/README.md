@@ -11,6 +11,15 @@ related_strategies: [41-von-restorff-static-copy-prompt, 32-drama-show-ads-hidde
 ---
 # 10 · Shock-headline typographic static
 
+<!-- HERO:START -->
+[![Featured example: @tryatria_AI](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/tryatria_AI/status/2105745816828940336)
+<!-- HERO:END -->
+
+
+
+
 ## What it looks like
 White background, huge condensed black headline that is a story line, 3 short lines of body continuing the story with a twist, product pack-shot bottom right, brand + 2-line benefit + "SHOP NOW →". Example: "MY SISTER SLEPT WITH MY HUSBAND. / Eight months later, she's the one everyone calls beautiful at family dinners. / Because she drains parasites. / And I didn't even know I had them." ([@tryatria_AI](https://x.com/tryatria_AI/status/2105745816828940336)).
 

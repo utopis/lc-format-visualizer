@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 28 · Reaction hook + fast demo (Cal AI / app-UGC "hook and demo")
 
+<!-- HERO:START -->
+[![Featured example: @carlynorthmedia](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/carlynorthmedia/status/2077482959620190437)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P0** · evidence: Very high (522M-view case, 4.7M example, multiple app operators) · hype risk: Low-Med · cost $15-60 per creator video (or in-house) · 15-30 min per video once the template exists
 
 ## What it is

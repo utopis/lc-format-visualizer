@@ -1,0 +1,19 @@
+{
+ "id": "F16",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Nate_Google_/status/2104963469548085713",
+ "author": "Nate_Google_",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": true,
+ "likes": 258,
+ "views": 23178,
+ "seen": "A plain warning static: a red triangle and \"IMPORTANT NOTICE: Please Check Before Purchasing\", explaining that replicas use the brand's images and that you should only buy from the real site. It plays the copycat problem as a public-service notice.",
+ "beats": []
+}

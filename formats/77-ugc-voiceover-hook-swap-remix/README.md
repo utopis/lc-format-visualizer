@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 77 · UGC voiceover remix (one creator clip, 10 swapped VO hooks)
 
+<!-- HERO:START -->
+[![Featured example: @zedmadeit](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/zedmadeit/status/2098121655167926499)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (playbook + live examples) · hype risk: Low · cost $20-100 per VO set · 1 h
 
 ## What it is

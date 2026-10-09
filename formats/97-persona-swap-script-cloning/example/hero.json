@@ -1,0 +1,60 @@
+{
+ "id": "F97",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/SparkifyAI/status/2078068798314422644",
+ "author": "SparkifyAI",
+ "type": "video",
+ "duration": 15,
+ "mp4": "https://video.twimg.com/amplify_video/2078068780241199104/vid/avc1/320x568/xLHWLrGbKxDcMWpt.mp4?tag=14",
+ "w": 478,
+ "h": 850,
+ "via_quote": false,
+ "likes": 57,
+ "views": 5109,
+ "seen": "An AI-cloned UGC creator in an orange gym set talking excitedly to camera in a home gym. It is the same script performed by an AI persona instead of a real creator.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "Okay, I genuinely thought this was going to be easy. It's definitely not. But honestly,",
+   "ocr": ""
+  },
+  {
+   "t": "0:02",
+   "said": "Okay, I genuinely thought this was going to be easy. It's definitely not. But honestly,",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "Okay, I genuinely thought this was going to be easy. It's definitely not. But honestly,",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "it's such a good workout. I've been using this at home almost every day",
+   "ocr": ""
+  },
+  {
+   "t": "0:08",
+   "said": "it's such a good workout. I've been using this at home almost every day",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "it's such a good workout. I've been using this at home almost every day and not having to leave the house is the best part. You need this.",
+   "ocr": ""
+  },
+  {
+   "t": "0:12",
+   "said": "and not having to leave the house is the best part. You need this.",
+   "ocr": "he a we"
+  },
+  {
+   "t": "0:14",
+   "said": "and not having to leave the house is the best part. You need this.",
+   "ocr": ""
+  }
+ ]
+}

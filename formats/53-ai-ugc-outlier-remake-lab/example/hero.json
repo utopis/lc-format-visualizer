@@ -1,0 +1,60 @@
+{
+ "id": "F53",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/0xDepressionn/status/2107918489587507606",
+ "author": "0xDepressionn",
+ "type": "video",
+ "duration": 1873,
+ "mp4": "https://video.twimg.com/amplify_video/2107905110638542848/vid/avc1/640x360/o2DfLCbNbZXHaZCY.mp4?tag=29",
+ "w": 1920,
+ "h": 1080,
+ "via_quote": false,
+ "likes": 18,
+ "views": 1966,
+ "seen": "A long workflow video (about 29 minutes) of a creator walking through his AI-UGC remake process on screen: finding outlier videos, then remaking them with AI.",
+ "beats": [
+  {
+   "t": "1:57",
+   "said": "Okay, it's finally here. I'm gonna do the ARUGC video. I know a lot of you guys in Ecom Talent have been asking like how I managed to get my",
+   "ocr": "THERAPY cy a, YOU NEED TO WALK YOU THROUGH mm WEEK BY WEEK. PS ee"
+  },
+  {
+   "t": "5:51",
+   "said": "is we really slow down and take our time to like analyze other winners, analyze the ads that we're iterating off. If it's a new idea, then y",
+   "ocr": ""
+  },
+  {
+   "t": "9:45",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "13:39",
+   "said": "",
+   "ocr": "ee ee ee Hy pete ns anne son seems a Il Il om Il HI Be Sm pe Lame mee nee aT"
+  },
+  {
+   "t": "17:33",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "21:27",
+   "said": "",
+   "ocr": "ann one Area sim ing MI ima teen ao tom moe ne ot ae out sue"
+  },
+  {
+   "t": "25:21",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "29:16",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

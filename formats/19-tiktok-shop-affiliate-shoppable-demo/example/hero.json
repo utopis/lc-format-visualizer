@@ -1,0 +1,60 @@
+{
+ "id": "F19",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/maverickecom/status/2103161679421071603",
+ "author": "maverickecom",
+ "type": "video",
+ "duration": 39,
+ "mp4": "https://video.twimg.com/amplify_video/2103161614404820993/vid/avc1/320x568/F1OVje-f1ulHjrS0.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 57,
+ "views": 5736,
+ "seen": "A TikTok Shop affiliate explainer: the creator's profile and GMV dashboard ($100K+ in 30 days), then the creator talking to camera, then a grid of the many accounts posting the same shoppable product videos.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "This AI clothing account has done over $700,000 on TikTok shop in the last 30 days. As you can",
+   "ocr": "a ur 109 143.1K 2M Message Your virtual shopping Showcase Subscription rr te $700k past 30 days With 100% Al er ay sms f"
+  },
+  {
+   "t": "0:07",
+   "said": "see right here, this count girly pop shop finds on TikTok has done over $725,000 in the last 30",
+   "ocr": "aE a a 2-0 ee Se kan As you can see right here, this account girly pop shop"
+  },
+  {
+   "t": "0:12",
+   "said": "see right here, this count girly pop shop finds on TikTok has done over $725,000 in the last 30",
+   "ocr": ""
+  },
+  {
+   "t": "0:17",
+   "said": "days, which is about $25,000 per day. And you can look through all these videos, but they're",
+   "ocr": "we And you can look through all these videos, but they're all"
+  },
+  {
+   "t": "0:22",
+   "said": "all relatively easy to make about eight to 10 seconds long. And anyone could make videos like",
+   "ocr": ""
+  },
+  {
+   "t": "0:27",
+   "said": "this for about $2 each. At my agency, we already have hundreds of AI creator accounts tapping in with brands and getting 300% commission. So",
+   "ocr": "a ot wine Me mt Ne e3 215 369 ee Lal bf a as 81.5K 247 ef if id Never eat the- ON YOUR FAT. cs a a At my agency, we alre"
+  },
+  {
+   "t": "0:32",
+   "said": "tapping in with brands and getting 300% commission. So if you're an AI creator and you want to get in on this opportunity right now with AI ",
+   "ocr": "To ears ot wine ie vines EVA 2165 369 ee so ball La we 81.5K 247 ef ps Var BT est thee: we ON YOUR FAT. Reels Friends Ma"
+  },
+  {
+   "t": "0:36",
+   "said": "in on this opportunity right now with AI and TikTok shop affiliate, comment the word train, I'll send you the invite for free to join.",
+   "ocr": "a ears of and wine ie seen ay iN 7215 369 e3 eb, 2. Sy Mi 81.5K 247 of a mot thee ON YOUR FAT, uN. affiliate, comment th"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "F40",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/ashvinmelwani/status/2105710765151752218",
+ "author": "ashvinmelwani",
+ "type": "video",
+ "duration": 93,
+ "mp4": "https://video.twimg.com/amplify_video/2105591527678287872/vid/avc1/640x360/GNl2ow2BKAvHW-oZ.mp4?tag=29",
+ "w": 1920,
+ "h": 1080,
+ "via_quote": true,
+ "likes": 31,
+ "views": 12220,
+ "seen": "A mashup of raw customer testimonials: different people on Zoom-style calls, at desks and in kitchens, each saying one line, cut together fast and ending on the brand card (\"synthesis tutoring\").",
+ "beats": [
+  {
+   "t": "0:05",
+   "said": "Ever wish you could send an avatar to do meetings for you? Interview a hundred customers a day and be available 24-7 while you're on the bea",
+   "ocr": "ew du sme"
+  },
+  {
+   "t": "0:17",
+   "said": "Sessions are like joining a zoo. But on the other side is an avatar that speaks every language which can take meetings and do work- and work",
+   "ocr": "Se and do work for you."
+  },
+  {
+   "t": "0:29",
+   "said": "and set it all up in a single prompt with our system. In role-play, role-play sessions let you practice hard conversations with an avatar an",
+   "ocr": ""
+  },
+  {
+   "t": "0:40",
+   "said": "Today",
+   "ocr": "can train a thousand a week,"
+  },
+  {
+   "t": "0:52",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:03",
+   "said": "to fill out",
+   "ocr": ""
+  },
+  {
+   "t": "1:15",
+   "said": "What do you mean by once it clicked? It took, you know what to realize? It's all in how you prompt it?",
+   "ocr": "What do you once it clicked? ww"
+  },
+  {
+   "t": "1:27",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 62 · Catalog / collection / dynamic product ads (Advantage+ catalog, catalog video, collection + Instant Experience lookbook)
 
+<!-- HERO:START -->
+[![Featured example: @Vickyjr](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Vickyjr/status/2102260350263382341)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Med-High (platform case studies) · hype risk: Low · cost $0 creative (catalog), setup time · setup 1-2 days
 
 ## What it is

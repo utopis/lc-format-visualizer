@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 53 · AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid)
 
+<!-- HERO:START -->
+[![Featured example: @0xDepressionn](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/0xDepressionn/status/2107918489587507606)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Med-High (ex-Cal AI operator, detailed method) · hype risk: Med · cost $2-10 per AI test video + tooling · pipeline setup 1-2 days; then ~20 min/video
 
 ## What it is

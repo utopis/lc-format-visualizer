@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 96 · Result reveal → expert stitch ("Y'all, this is my dad… after listening to this man. Just listen.")
 
+<!-- HERO:START -->
+[![Featured example: @CalixAVelarde](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/CalixAVelarde/status/2083448214431351004)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (live long-runners) · hype risk: Medium · cost $0-150 · 2-3 h
 
 ## What it is

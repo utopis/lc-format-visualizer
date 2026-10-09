@@ -1,0 +1,60 @@
+{
+ "id": "F80",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Seanfrank/status/2094988024211812654",
+ "author": "Seanfrank",
+ "type": "video",
+ "duration": 27,
+ "mp4": "https://video.twimg.com/amplify_video/2094987997385228288/vid/avc1/320x568/M9DgP2BSpr7kE_Qv.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 140,
+ "views": 55242,
+ "seen": "A creator talking to camera (\"This is Meta's answer to TikTok Shop\") with cutaways to persona-style pages: a woman holding a drink can, product screenshots, a \"where you can deliver\" card and a landing page. It explains how persona pages run ads natively.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "We want partnership ads in your ad account. Met is leaning into partnership ads harder and harder.",
+   "ocr": "es This is answer to Shop"
+  },
+  {
+   "t": "0:05",
+   "said": "We want partnership ads in your ad account. Met is leaning into partnership ads harder and harder. They see it as their competition to TikTo",
+   "ocr": ""
+  },
+  {
+   "t": "0:08",
+   "said": "They see it as their competition to TikTok shop. So prioritize that above all else. It's better to have a worse partnership handle, but be a",
+   "ocr": "above Pi ey"
+  },
+  {
+   "t": "0:12",
+   "said": "It's better to have a worse partnership handle, but be able to control the creative.",
+   "ocr": "but be able"
+  },
+  {
+   "t": "0:15",
+   "said": "Sunpowder has the best bundled offer. I think they are punching people in the face with that.",
+   "ocr": "sun powder BA 0,"
+  },
+  {
+   "t": "0:18",
+   "said": "Look for things like that where you can deliver tons of value to your customers,",
+   "ocr": ""
+  },
+  {
+   "t": "0:22",
+   "said": "where it doesn't cost you anything. How do you get the number to be attractive",
+   "ocr": "vat you'll Receive: gifts when you pick up a 90-day supply brands to help you make a commitment to your body, the new ye"
+  },
+  {
+   "t": "0:25",
+   "said": "and to make the order a no brainer? Like we're looking for no brainer offers.",
+   "ocr": ""
+  }
+ ]
+}

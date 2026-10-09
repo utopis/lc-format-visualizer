@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 58 · Educational care / material explainer post ("how to keep gold from tarnishing", "which metals are safe")
 
+<!-- HERO:START -->
+[![Featured example: @lorenzo_pravata](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/lorenzo_pravata/status/2095136884666052819)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (vendor library) · hype risk: Low · cost $0 · 20-40 min
 
 ## What it is

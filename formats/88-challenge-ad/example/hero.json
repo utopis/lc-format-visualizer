@@ -1,0 +1,60 @@
+{
+ "id": "F88",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/0xShahzaib_/status/2104901293190119594",
+ "author": "0xShahzaib_",
+ "type": "video",
+ "duration": 101,
+ "mp4": "https://video.twimg.com/amplify_video/2104900084400070656/vid/avc1/320x568/Wzs2XFcZ7pim3U1l.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 59,
+ "views": 16180,
+ "seen": "A real-world stress test: a creator unboxes a smart ring, then wears it through a gym workout (push-ups, dumbbells, machines) to see whether it holds up.",
+ "beats": [
+  {
+   "t": "0:06",
+   "said": "Can this tiny thing actually survive the real work out? I just received the TENJUM RING today and I am going to put it through some serious ",
+   "ocr": ""
+  },
+  {
+   "t": "0:19",
+   "said": "Alright, let's open the package and see what we have inside. And here we have the TENJUM RING box. The TENJUM RING is a crypto hardware wall",
+   "ocr": ""
+  },
+  {
+   "t": "0:31",
+   "said": "So instead of getting our traditional hardware wallet, you can simply wear it on your finger. And here it is, the TENJUM RING.",
+   "ocr": "ig ui Th a you can"
+  },
+  {
+   "t": "0:44",
+   "said": "And it has a really simple and pretty design, so it doesn't look like a hardware wallet. Along with the ring, we also get two bags. This is ",
+   "ocr": "ADs is ut wD ia if fe"
+  },
+  {
+   "t": "0:56",
+   "said": "These are used as a bag of options for accessing your wallet. Of course, we also get the user manual, which honestly we probably never read.",
+   "ocr": ""
+  },
+  {
+   "t": "1:09",
+   "said": "So let's go with me and test it while doing our gym workout. Now it's time for the real test. Let's see how the TENJUM RING handles an actua",
+   "ocr": "al List ma Mea: ASA rh"
+  },
+  {
+   "t": "1:22",
+   "said": "I am keeping the ring on and putting it through a normal workout. And now let's make it a little more challenging. Some dumbbell exercise wh",
+   "ocr": ""
+  },
+  {
+   "t": "1:34",
+   "said": "And that's the workout done. The ring stayed on throughout the workout and it still looked completely fine.",
+   "ocr": ""
+  }
+ ]
+}

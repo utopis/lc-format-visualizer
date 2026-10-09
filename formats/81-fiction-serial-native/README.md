@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 81 · Fiction serial native (an episodic short story told across a run of ads)
 
+<!-- HERO:START -->
+[![Featured example: @adriamatz](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/adriamatz/status/2108190619449372721)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P3** · evidence: Low-medium · hype risk: Medium · cost $0 · 1 h per episode
 
 ## What it is

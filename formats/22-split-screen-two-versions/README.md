@@ -9,6 +9,15 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks]
 ---
 # 22 · Split-screen two versions
 
+<!-- HERO:START -->
+[![Featured example: @Charconsults](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Charconsults/status/2081629763882430905)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Left: version A of a person's day; right: version B (with product), synced timelines, captions with times.
 

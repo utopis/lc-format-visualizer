@@ -1,0 +1,60 @@
+{
+ "id": "F83",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/FedotOff90/status/2099967483071582480",
+ "author": "FedotOff90",
+ "type": "video",
+ "duration": 36,
+ "mp4": "https://video.twimg.com/amplify_video/2099967317308551168/vid/avc1/320x568/td6iAWU69bgJe429.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 3,
+ "views": 1631,
+ "seen": "A woman in a robe and headband doing a close-up demo of a gross-but-satisfying product, with captions, filmed in one take in her bathroom.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "If you have acne, this product is going to be your new best run.",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "So last night, I had one of those pimples where they're just so deep in your skin,",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "like you know the ones where you can't pop them, they're just there, they take forever to go away,",
+   "ocr": "he Eva Just ther DO ef"
+  },
+  {
+   "t": "0:15",
+   "said": "they're just like massive and you can't do anything about them. I zapped that pimple",
+   "ocr": ""
+  },
+  {
+   "t": "0:20",
+   "said": "for about 30 seconds with this machine so I just held it up to my chin.",
+   "ocr": ""
+  },
+  {
+   "t": "0:24",
+   "said": "And I went like that for about 30 seconds. I woke up in the morning when I tell you my",
+   "ocr": ""
+  },
+  {
+   "t": "0:29",
+   "said": "pimple was gone, like nowhere to be found, she was gone. So it's safe to say that I'm going to be",
+   "ocr": ""
+  },
+  {
+   "t": "0:33",
+   "said": "using this product every single night for the rest of my life.",
+   "ocr": ""
+  }
+ ]
+}

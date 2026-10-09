@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 72 · VSL: long-form video sales letter (2-25 min) and its text twin (TSL)
 
+<!-- HERO:START -->
+[![Featured example: @FedotOff90](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/FedotOff90/status/2095237367925731363)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: High (multi-year live ads, large boards) · hype risk: Medium · cost $200-2,000 · 1-2 weeks
 
 ## What it is

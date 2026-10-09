@@ -1,0 +1,60 @@
+{
+ "id": "F12",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/tryatria_AI/status/2106069700950294836",
+ "author": "tryatria_AI",
+ "type": "video",
+ "duration": 74,
+ "mp4": "https://video.twimg.com/amplify_video/2106024421463052288/vid/avc1/320x568/DbR6b2rio1aTVFz4.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 221,
+ "views": 18205,
+ "seen": "A Pixar-style girl character in a timeline story about 75 seconds long. A provocative opening, then week-by-week scenes (bloating, a swirling gut visual, ingredients on a table), ending on the product pouch (Ankhwa). Captions mark each week.",
+ "beats": [
+  {
+   "t": "0:04",
+   "said": "If a woman who only goes to the toilet twice a week, took two mushroom gummies every day, this is what would happen. Week 1. Something that'",
+   "ocr": "PP every day,"
+  },
+  {
+   "t": "0:13",
+   "said": "That's the reishi, calming the cortisol that's slammed the brakes on her gut, so it can relax and actually start working again. Week 2.",
+   "ocr": "the brakes on her gut"
+  },
+  {
+   "t": "0:23",
+   "said": "What's been stuck, finally starts to move, and she's going properly for the first time in months. That's the mitake, waking her gut back up ",
+   "ocr": ""
+  },
+  {
+   "t": "0:32",
+   "said": "been backed up. Week 3. The bloat she assumed was just her body, settles right down. That's the charger, calming the inflammation and rebuil",
+   "ocr": "settles right down. ie"
+  },
+  {
+   "t": "0:41",
+   "said": "worn away. Week 4. A fog she didn't even know she was living in lifts, and her energy comes flooding back. That's the lion's mane, repairing",
+   "ocr": ""
+  },
+  {
+   "t": "0:50",
+   "said": "and the cordyceps flooding her cells with oxygen. And there she is. The version of you who goes every morning without a second thought, ligh",
+   "ocr": ""
+  },
+  {
+   "t": "0:59",
+   "said": "herself again. 10 functional mushrooms, 2 raspberry gummies a day. The only brand that combines all 10 is Anque.",
+   "ocr": "a 2, a ma mushrooms, two raspberry fF"
+  },
+  {
+   "t": "1:09",
+   "said": "Over 200,000 women use it. 60 day money back guarantee, and right now, buy 2, get 1 free. Links below.",
+   "ocr": ""
+  }
+ ]
+}

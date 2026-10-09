@@ -11,6 +11,15 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 11-social-proof-credib
 ---
 # 07 · Street interview & overheard question
 
+<!-- HERO:START -->
+[![Featured example: @adamtaylorl](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/adamtaylorl/status/2094742062755422423)
+<!-- HERO:END -->
+
+
+
+
 ## What it looks like
 **Variant 1 — Interview**: handheld mic, stranger on the street/resort: "Are you really 56?" → "I lost 18 pounds in one month… it was cortisol" ([@tryatria_AI](https://x.com/tryatria_AI/status/2095860430099058905)). Question does the hooking; answer is social proof.
 **Variant 2 — Overheard question (stronger)**: the product is discovered by a third party asking. GroundingWell: hotel guests calling the front desk asking what mattress they use — "Quick question, what kind of mattress you guys use?… I think you just saved me three grand… half the calls I get now are about the sheets" (transcript; [@adamtaylorl](https://x.com/adamtaylorl/status/2094742062755422423)). They don't even sell mattresses.

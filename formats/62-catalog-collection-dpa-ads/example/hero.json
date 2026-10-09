@@ -1,0 +1,19 @@
+{
+ "id": "F62",
+ "kind": "carousel",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Vickyjr/status/2102260350263382341",
+ "author": "Vickyjr",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 12,
+ "views": 470,
+ "seen": "A simple illustration of how catalog ads work: a phone with product tiles (a jacket, a t-shirt, sneakers, jeans) flowing out into a carousel row.",
+ "beats": []
+}

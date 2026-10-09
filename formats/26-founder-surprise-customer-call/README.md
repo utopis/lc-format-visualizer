@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 26 · Founder surprise customer call (+ customer-service call variant)
 
+<!-- HERO:START -->
+[![Featured example: @ecomchasedimond](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ecomchasedimond/status/2108225940962914650)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P0** · evidence: High (4.80 ROAS first-party; 3 sources) · hype risk: Low · cost $0-50 (phone + recording consent) · 1-2 h per call, 3-5 cuts per call
 
 ## What it is

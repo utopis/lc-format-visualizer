@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 94 · Buyer's-guide warning: "Before you buy X, flip the label" (3-2-1 countdown, only one passes)
 
+<!-- HERO:START -->
+[![Featured example: @HenryCrochemore](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/HenryCrochemore/status/2087894849618087981)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium-High (live long-runner + strategist teardown) · hype risk: Medium · cost $0-150 · 2-4 h
 
 ## What it is

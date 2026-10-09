@@ -1,0 +1,60 @@
+{
+ "id": "F15",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/tryatria_AI/status/2105329322496016777",
+ "author": "tryatria_AI",
+ "type": "video",
+ "duration": 49,
+ "mp4": "https://video.twimg.com/amplify_video/2105125309880410112/vid/avc1/320x568/48bSEZsNtH29aeHN.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 118,
+ "views": 7889,
+ "seen": "A retro late-80s TV infomercial: a big-haired presenter in a pink suit, a \"70% WATER\" starburst, a dermatology close-up, the product bottle (Magic serum) on a set, and a collage of archive-looking footage. The lo-fi era styling is the hook.",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "Fifteen years as a dermatologist, and this is the best thing I've found for aging skin.",
+   "ocr": "rye in vi ey ad and this is the best thing"
+  },
+  {
+   "t": "0:09",
+   "said": "Most women deal with crepiness, skin thinning, bruising, dryness, and age spots, despite moisturizing daily.",
+   "ocr": ""
+  },
+  {
+   "t": "0:15",
+   "said": "That's because the lotions they're using are 70% water that evaporates by noon.",
+   "ocr": ""
+  },
+  {
+   "t": "0:21",
+   "said": "Aging skin needs something that absorbs beneath the surface. That's where botanical oils come in.",
+   "ocr": ""
+  },
+  {
+   "t": "0:27",
+   "said": "Pure, cold pressed, 100% natural. That's why I recommend Besk to every woman above, above 40.",
+   "ocr": ""
+  },
+  {
+   "t": "0:33",
+   "said": "Made from 7 botanicals known to support aging skin. Anti-inflammatory and antioxidant properties",
+   "ocr": "oF AG! 86 a Known tG 34"
+  },
+  {
+   "t": "0:39",
+   "said": "with ingredients that absorb deeper and visibly improve the look and feel of skin over time.",
+   "ocr": ""
+  },
+  {
+   "t": "0:45",
+   "said": "550,000 plus women already love this. So, what are you waiting for?",
+   "ocr": ""
+  }
+ ]
+}

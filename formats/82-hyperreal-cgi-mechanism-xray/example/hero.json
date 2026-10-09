@@ -1,0 +1,60 @@
+{
+ "id": "F82",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/FedotOff90/status/2106401392374186396",
+ "author": "FedotOff90",
+ "type": "video",
+ "duration": 209,
+ "mp4": "https://video.twimg.com/amplify_video/2106400932410150912/vid/avc1/320x568/TyfIAquKBQAHBDxG.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 103,
+ "views": 7754,
+ "seen": "A woman in a white coat with a stethoscope talking to camera, with a hook caption (\"Chronic bad breath has 3 layers!\") pinned on top for the whole video and cutaways to mouth CGI.",
+ "beats": [
+  {
+   "t": "0:13",
+   "said": "All right if you want your tongue to look like this you are only seeing the first layer of the problem and let me show you what is underneat",
+   "ocr": "Chronic bad breath has layers! a Vi ep people think food fi"
+  },
+  {
+   "t": "0:39",
+   "said": "the bacteria underneath this is what your scraper never reaches underneath that biofilm colonies of bacteria are alive anchor to your tongue",
+   "ocr": ""
+  },
+  {
+   "t": "1:05",
+   "said": "not the coating itself the gas that is being produced under it layer three and this is what most people never find out these same bacteria d",
+   "ocr": ""
+  },
+  {
+   "t": "1:31",
+   "said": "to break through the biofilm kill the bacteria underneath and rebalance the environment all the way from your tongue throughout your throat ",
+   "ocr": "Chronic bad breath has layers ay hi"
+  },
+  {
+   "t": "1:57",
+   "said": "sulfur compounds on contact that white coating isn't being scraped off and rebuilt by lunch it is being broken down at the structural level ",
+   "ocr": "Chronic bad breath has layers!! ff love peppermint"
+  },
+  {
+   "t": "2:23",
+   "said": "of the day and for layer three the throat and gut where the deepest bacteria live that is green tea parsley and lemon bomb green tea and par",
+   "ocr": "Chronic bad breath has layers restore vr ag"
+  },
+  {
+   "t": "2:49",
+   "said": "few hours so the good news is that you don't have to find all of these yourself in different places they are all inside whisper this is an h",
+   "ocr": "Chronic bad breath has layers! a as touches te rr"
+  },
+  {
+   "t": "3:15",
+   "said": "starts clearing the white coating things within two to three weeks layer two is under control the sour morning taste fades and by week three",
+   "ocr": "Chronic bad breath has cas met\u2019, iF it come"
+  }
+ ]
+}

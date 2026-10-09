@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 40 · Testimonial mashup (real customer clip montage)
 
+<!-- HERO:START -->
+[![Featured example: @ashvinmelwani](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ashvinmelwani/status/2105710765151752218)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium-High · hype risk: Low · cost $0-300 (customer incentives) · 2-4 h
 
 ## What it is

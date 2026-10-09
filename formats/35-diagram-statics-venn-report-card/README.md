@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 35 · Diagram statics: Venn, report card, comparison chart, us-vs-them grid
 
+<!-- HERO:START -->
+[![Featured example: @Hashir_Shaikh_](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Hashir_Shaikh_/status/2096337779412304217)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (format lists) · hype risk: Low · cost $0 · 20 min
 
 ## What it is

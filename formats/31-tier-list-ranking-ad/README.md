@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 31 · Tier-list / ranking ad
 
+<!-- HERO:START -->
+[![Featured example: @deepbajwacreate](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/deepbajwacreate/status/2098014748570739055)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P0** · evidence: High (operator: top spender across accounts) · hype risk: Low · cost $0-150 · 1-2 h
 
 ## What it is

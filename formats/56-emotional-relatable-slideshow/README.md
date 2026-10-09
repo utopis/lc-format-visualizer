@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 56 · Emotional + relatable TikTok slideshow (share-bait story slides)
 
+<!-- HERO:START -->
+[![Featured example: @?](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/?/status/2099496707209994736)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Low-Med (small-account data + saved-hook study) · hype risk: Low · cost $0 · 20 min
 
 ## What it is

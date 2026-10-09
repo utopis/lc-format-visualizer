@@ -1,0 +1,60 @@
+{
+ "id": "F51",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/LewisSylvi3994/status/2105450856086917518",
+ "author": "LewisSylvi3994",
+ "type": "video",
+ "duration": 23,
+ "mp4": "https://video.twimg.com/amplify_video/2105450802303180800/vid/avc1/320x568/y00l3gBptmmBWkIM.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 0,
+ "views": 5,
+ "seen": "A guess-the-price game: a creator asks you to guess how much a necklace cost (\"Everyone assumes it's fine jewelry\"), shows the pieces close up, reveals \"It's under $70 from XN Jewelry\", then \"Stop overpaying\" and \"Tap the link in bio!\".",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "Okay, guess how much this necklace was.",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "Okay, guess how much this necklace was. Everyone assumes it's fine jewelry.",
+   "ocr": "loo! iK FINE Everyone assumes je"
+  },
+  {
+   "t": "0:07",
+   "said": "Everyone assumes it's fine jewelry. It's under 70 bucks from XN Jewelry.",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "It's under 70 bucks from XN Jewelry.",
+   "ocr": ""
+  },
+  {
+   "t": "0:12",
+   "said": "My family's burnt stones, on gold that doesn't fade or turn my skin green.",
+   "ocr": ""
+  },
+  {
+   "t": "0:15",
+   "said": "My family's burnt stones, on gold that doesn't fade or turn my skin green.",
+   "ocr": ""
+  },
+  {
+   "t": "0:18",
+   "said": "Stop overpaying for jewelry that looks this good.",
+   "ocr": ""
+  },
+  {
+   "t": "0:21",
+   "said": "Stop overpaying for jewelry that looks this good.",
+   "ocr": ""
+  }
+ ]
+}

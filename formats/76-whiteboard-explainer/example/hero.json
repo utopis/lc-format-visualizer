@@ -1,0 +1,60 @@
+{
+ "id": "F76",
+ "kind": "static",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/artfully_amberr/status/2100249277029126306",
+ "author": "artfully_amberr",
+ "type": "video",
+ "duration": 53,
+ "mp4": "https://video.twimg.com/amplify_video/2100249175392727040/vid/avc1/320x568/m8MsZJmGswMDDLcZ.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 9,
+ "views": 252,
+ "seen": "A creator drawing on a whiteboard while explaining (\"that nobody talks about\", \"these dopamine levels\"), with a graph curve, then the product page and a woman relaxing. It is a teacher-style explainer with a marker.",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "If you take Adderall or any stimulant, let's map out the crash that nobody talks about. You take Adderall in the morning, dopamine goes up, ",
+   "ocr": "Tl ee vi hi la if a. bs that nobody talks about."
+  },
+  {
+   "t": "0:09",
+   "said": "But as the day goes on, these dopamine levels naturally start coming back down,",
+   "ocr": "The these dopamine levels Le"
+  },
+  {
+   "t": "0:16",
+   "said": "while cortisol, your body's main stress hormone, can stay elevated. That's why some people experience that afternoon crash and feel like the",
+   "ocr": "Fa Ky experience that"
+  },
+  {
+   "t": "0:23",
+   "said": "The good news is, those downsides don't have to be something you just accept as part of taking a stimulant. That's exactly why Stasis was cr",
+   "ocr": "lee a Fe oh ae: ae ra wh eh a Ne a a tee a- Sees ee ee: fo oa ne Ns at mw ae as part of taking a stimulant. oF"
+  },
+  {
+   "t": "0:29",
+   "said": "Their daytime formula is designed to be taken with your stimulant, with ingredients like l-theanine, ashwagandha, and saffron,",
+   "ocr": ""
+  },
+  {
+   "t": "0:36",
+   "said": "to support healthy dopamine balance and your body's natural stress response. 96% of people said their crash improved.",
+   "ocr": "he SF DA po\u2019 Ly Lie 96% percent of people Based on a September 2024 of a previous version of and current version of Nigh"
+  },
+  {
+   "t": "0:43",
+   "said": "Then their nighttime formula is designed to support relaxation and restorative sleep, so you can actually fall asleep at the end of the day ",
+   "ocr": "So you can actually"
+  },
+  {
+   "t": "0:49",
+   "said": "If you're looking for a better way to support your stimulant routine, not replace it, check out the link below to learn more about Stasis.",
+   "ocr": ""
+  }
+ ]
+}

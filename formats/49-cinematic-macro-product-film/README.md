@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 49 · Cinematic macro product film (15s, no dialogue)
 
+<!-- HERO:START -->
+[![Featured example: @prompthanem](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/prompthanem/status/2108225912957186085)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium · hype risk: Med · cost $0-500 (AI or studio) · 2-6 h
 
 ## What it is

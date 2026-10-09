@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 99 · Deadline-urgency video (two-line sale-ends skit, "don't say I didn't warn you", hands-only deal clip)
 
+<!-- HERO:START -->
+[![Featured example: @Counterprint](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Counterprint/status/2107894146140631180)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium-High (multiple live BOF ads) · hype risk: Medium · cost $0-100 · 1-2 h
 
 ## What it is

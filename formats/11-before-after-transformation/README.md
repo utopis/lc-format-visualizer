@@ -11,6 +11,15 @@ related_strategies: [11-social-proof-credibility-engine, 41-von-restorff-static-
 ---
 # 11 · Before → After
 
+<!-- HERO:START -->
+[![Featured example: @tryatria_AI](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/tryatria_AI/status/2092961578974896447)
+<!-- HERO:END -->
+
+
+
+
 ## What it looks like
 Split image or 2-slide: left/first "before" (problem state), right/second "after" (result), with a date or condition label; video version = jump-cut transition. "People stop because they see a real change, not a product… then long primary text tells the story" ([@antonioventre_](https://x.com/antonioventre_/status/2078512377616589256)).
 

@@ -9,6 +9,15 @@ related_strategies: [27-satisfying-product-loop-recordings]
 ---
 # 23 · First-person POV
 
+<!-- HERO:START -->
+[![Featured example: @spwfeijen](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/spwfeijen/status/2105648964716380197)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Camera = viewer's eyes; hands wearing the product doing real things; a narrative tension (will it survive?).
 

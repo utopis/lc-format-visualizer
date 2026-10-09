@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 89 · Customer thank-you / shout-out turned into an ad
 
+<!-- HERO:START -->
+[![Featured example: @Zobo_Konect](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Zobo_Konect/status/2100470193377923466)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Low-medium · hype risk: Low · cost $0 · 20 min
 
 ## What it is

@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 84 · "Ugly ad": an unusual or weird visual + long copy (native image)
 
+<!-- HERO:START -->
+[![Featured example: @alexgoughcooper](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/alexgoughcooper/status/2092657905002529270)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (boards) · hype risk: Low · cost $0 · 20 min
 
 ## What it is

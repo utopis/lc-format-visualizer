@@ -1,0 +1,60 @@
+{
+ "id": "F36",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Smdigitalsys/status/2099549775892783266",
+ "author": "Smdigitalsys",
+ "type": "video",
+ "duration": 17,
+ "mp4": "https://video.twimg.com/amplify_video/2099549675468570624/vid/avc1/320x568/Px6zCLdfn3su5zAH.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 13,
+ "views": 33,
+ "seen": "An agency's animated ad built from a real 1-star review (\"They left us a 1-star review. We turned it into an ad\"): a review card pops up, a hand on a laptop, an \"ADS\" dashboard, then a logo end card.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "Someone left us this review, so instead of deleting it, we built a whole ad campaign around it.",
+   "ocr": "Daniel Carter: Really appointing The website is slow, confusing to navigate, and issues trying to complete a simple task"
+  },
+  {
+   "t": "0:03",
+   "said": "Someone left us this review, so instead of deleting it, we built a whole ad campaign around it.",
+   "ocr": ""
+  },
+  {
+   "t": "0:05",
+   "said": "Someone left us this review, so instead of deleting it, we built a whole ad campaign around it.",
+   "ocr": ""
+  },
+  {
+   "t": "0:07",
+   "said": "Your worst review could be your best headline. DM us with yours.",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "Your worst review could be your best headline. DM us with yours.",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "Your worst review could be your best headline. DM us with yours.",
+   "ocr": ""
+  },
+  {
+   "t": "0:13",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:16",
+   "said": "",
+   "ocr": "SM DIGITAL SYSTEMS"
+  }
+ ]
+}

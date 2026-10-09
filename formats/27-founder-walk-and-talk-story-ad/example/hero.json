@@ -1,0 +1,60 @@
+{
+ "id": "F27",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/luisfelipebfr2/status/2101018997508669891",
+ "author": "luisfelipebfr2",
+ "type": "video",
+ "duration": 236,
+ "mp4": "https://video.twimg.com/amplify_video/2101017775611203584/vid/avc1/320x568/LjEaLb_ZdCup2dps.mp4?tag=29",
+ "w": 360,
+ "h": 640,
+ "via_quote": false,
+ "likes": 0,
+ "views": 166,
+ "seen": "A founder mini-documentary of almost 4 minutes for Eskiin (shower filters): the founder walking the factory floor (\"showerhead company\"), a junk-filled showerhead, the filter cartridge, packing orders (\"every order\"), staff (\"Take care of family\") and a customer washing her hair (\"for a full refund\").",
+ "beats": [
+  {
+   "t": "0:14",
+   "said": "This picture on my little brother's vision board for a full decade. A 16-year-old kid, insane work ethic, insatiable drive. One goal, retire",
+   "ocr": ""
+  },
+  {
+   "t": "0:44",
+   "said": "Chlorine, heavy metals, pesticides, chemicals, mold? I had no idea. And our hot water tang? Hot, dark. Parasite and bacteria, breeding groun",
+   "ocr": ""
+  },
+  {
+   "t": "1:13",
+   "said": "Hydra Boost, technology. Strong, but not prickly. Soft, like a feather. Spa like? Euphoric. Perfect. Onto filtering. The best in the market.",
+   "ocr": "ce Ss Ji van ty os Po than anyone else in SS ian gt"
+  },
+  {
+   "t": "1:43",
+   "said": "Educate on how toxic the rusty, rat-infested city water pipes are in this country. Americans deserve to know. Been left in the dark for too ",
+   "ocr": "pe Ne a Se your shower water"
+  },
+  {
+   "t": "2:12",
+   "said": "The goal is to give people back their comfort and confidence through clean shower water. Now, the business must be American. Ship from USA. ",
+   "ocr": "Pe every order"
+  },
+  {
+   "t": "2:41",
+   "said": "Make clean water more accessible. Not less. Innovate innovate innovate. They want a handheld. Give it to them. No shortcuts. Listen to our c",
+   "ocr": "Se ee om Ye Take oats of family, aA"
+  },
+  {
+   "t": "3:11",
+   "said": "",
+   "ocr": "for loving our product,"
+  },
+  {
+   "t": "3:40",
+   "said": "Thank you for helping us turn a promise,",
+   "ocr": "ye AN a for a full refund"
+  }
+ ]
+}

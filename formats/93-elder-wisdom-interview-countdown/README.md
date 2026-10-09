@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 93 · Elder-wisdom street interview + "3 things" countdown (the product is #3)
 
+<!-- HERO:START -->
+[![Featured example: @ZedNilm1](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ZedNilm1/status/2101280447154036917)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P3** · evidence: Medium-High (live ads; ethics risk) · hype risk: Medium · cost $0-200 (real) / $50 (AI, not recommended) · half day
 
 ## What it is

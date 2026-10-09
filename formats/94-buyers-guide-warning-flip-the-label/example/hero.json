@@ -1,0 +1,60 @@
+{
+ "id": "F94",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/HenryCrochemore/status/2087894849618087981",
+ "author": "HenryCrochemore",
+ "type": "video",
+ "duration": 143,
+ "mp4": "https://video.twimg.com/amplify_video/2087894766180868098/vid/avc1/320x572/oNiiz2-uvm8nGS0-.mp4?tag=29",
+ "w": 712,
+ "h": 1276,
+ "via_quote": false,
+ "likes": 6,
+ "views": 1103,
+ "seen": "A grotesque, stretched-face claymation character at a podcast mic reading the label of a skincare product (\"WE JUST MOVED\", \"EVERY CREAM BEFORE\", \"HYDROLYZED HYALURONIC ACID\", \"61% OFF\"). It is a buyer's guide delivered by an unforgettable character.",
+ "beats": [
+  {
+   "t": "0:08",
+   "said": "Why are you so down, Chucky? What's going on? Our time's over, Gobbler. They finally figured it out after decades of nobody being able to to",
+   "ocr": "ONE vA OO VE JU"
+  },
+  {
+   "t": "0:26",
+   "said": "A neck lift? Eight grand? Under the knife? Exactly. So she'd say I'll save up for it, but the surgery never came. Remember her trying to ang",
+   "ocr": ""
+  },
+  {
+   "t": "0:44",
+   "said": "Why'd you say were? Because of the lab, Gobbler. In France. Chucky, don't talk about the lab. They figured it out, mate. But how? See, every",
+   "ocr": "oc CRT BEFORE"
+  },
+  {
+   "t": "1:02",
+   "said": "Please, too harsh made her crepia. We loved retinol. Red light just softened the surface. Never touched us. And those expensive firming crea",
+   "ocr": ""
+  },
+  {
+   "t": "1:20",
+   "said": "Collagen and Elastin. Elastin? It's what gives skin its elasticity and natural tightness. It's what the neck needs to snap back after being ",
+   "ocr": ""
+  },
+  {
+   "t": "1:38",
+   "said": "Xyren. I hate that cream. Not only does it have the French peptide, but the exact concentration proven to work best against us. They paired ",
+   "ocr": "ls ee eo Md FED ON IC ACID"
+  },
+  {
+   "t": "1:56",
+   "said": "I've never seen anything work so good and fast on us. You remember that turkey guy? Live two houses down? Oh, he's gone. She used it for six",
+   "ocr": "a ff 7, ONLY GONE"
+  },
+  {
+   "t": "2:13",
+   "said": "That's the worst part. She gets 60 days. If we don't shrink, she pays nothing, and it gets even worse. Right now there's a discount. Up to 6",
+   "ocr": ""
+  }
+ ]
+}

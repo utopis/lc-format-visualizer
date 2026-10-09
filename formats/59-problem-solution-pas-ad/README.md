@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 59 · Problem → agitation → solution → proof (4-part PAS ad, video or static)
 
+<!-- HERO:START -->
+[![Featured example: @ayomikunszn](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ayomikunszn/status/2078116608069800131)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (framework, multi-source) · hype risk: Low · cost $0-150 · 1 h
 
 ## What it is

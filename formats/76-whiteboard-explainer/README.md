@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 76 · Whiteboard explainer (marker diagram of the mechanism, static or video)
 
+<!-- HERO:START -->
+[![Featured example: @artfully_amberr](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/artfully_amberr/status/2100249277029126306)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0-50 · 30 min
 
 ## What it is

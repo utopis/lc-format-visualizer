@@ -1,0 +1,60 @@
+{
+ "id": "F93",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/ZedNilm1/status/2101280447154036917",
+ "author": "ZedNilm1",
+ "type": "video",
+ "duration": 140,
+ "mp4": "https://video.twimg.com/amplify_video/2101280417735192576/vid/avc1/320x568/CiulmNxT0EyBnz5G.mp4?tag=14",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 116,
+ "views": 17484,
+ "seen": "An AI-generated street interview with a 90+ year-old man in a hat and long beard. The reporter asks him questions, he answers with captions (\"MY GRANDFATHER LIVED\"), then holds up the product (\"MAKE A DIFFERENCE\").",
+ "beats": [
+  {
+   "t": "0:08",
+   "said": "1. All the oil and turmeric. Every morning, the old Jewish grandmothers",
+   "ocr": "be ee av HOW DO po"
+  },
+  {
+   "t": "0:26",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:43",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:01",
+   "said": "",
+   "ocr": "ST al BLEEDING ae fy if"
+  },
+  {
+   "t": "1:18",
+   "said": "",
+   "ocr": "as IN DARKNESS FOR a he"
+  },
+  {
+   "t": "1:36",
+   "said": "and their children. The Jewish men in my family ate aged garlic every single morning. My grandfather, 96, my father is 89 89. Not one of the",
+   "ocr": ""
+  },
+  {
+   "t": "1:53",
+   "said": "is fake. Only aged a few weeks. The only one I trust is called Resilia. Aged the full 20 months in completely darkness. Full clinical dose. ",
+   "ocr": "Aaa ED ODOR! DIFFERENCE ia"
+  },
+  {
+   "t": "2:11",
+   "said": "blood pressure numbers dropping for the first time in years. If you want to try it, I left a link below. They have a limited sale running ri",
+   "ocr": ""
+  }
+ ]
+}

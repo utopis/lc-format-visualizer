@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 37 · Urgency/offer statics: low stock, back in stock, limited-time offer, BFCM
 
+<!-- HERO:START -->
+[![Featured example: @johntech778](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/johntech778/status/2106885699374829636)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High (S-tier LTO; BOF map) · hype risk: Low · cost $0 · 15 min
 
 ## What it is

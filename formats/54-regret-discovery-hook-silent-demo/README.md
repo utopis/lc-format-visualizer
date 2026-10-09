@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 54 · "Been doing X for N years and NOW I find this???" — regret-discovery hook + silent demo
 
+<!-- HERO:START -->
+[![Featured example: @pixclipper](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/pixclipper/status/2084739019187847201)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P0** · evidence: High (multiple apps, 30M+ views, revenue claims) · hype risk: Low · cost $0-100 (creator) / near-zero to re-shoot · 30-60 min
 
 ## What it is

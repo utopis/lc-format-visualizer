@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 90 · "Fake PDP": a product-page screenshot as the ad (+ app-settings / Trustpilot / comment screenshots)
 
+<!-- HERO:START -->
+[![Featured example: @FedotOff90](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/FedotOff90/status/2106046297434374289)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (live ads + board) · hype risk: Low · cost $0 · 20 min
 
 ## What it is

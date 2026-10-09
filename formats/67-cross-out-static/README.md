@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 67 · The Cross-Out static (strike through the failed fixes and leave the one that works)
 
+<!-- HERO:START -->
+[![Featured example: @aashishilla170](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/aashishilla170/status/2105999366104444944)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (live ad + days-active) · hype risk: Low · cost $0 · 15 min
 
 ## What it is

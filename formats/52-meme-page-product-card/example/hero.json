@@ -1,0 +1,60 @@
+{
+ "id": "F52",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/leonclipping/status/2107564115275501944",
+ "author": "leonclipping",
+ "type": "video",
+ "duration": 13,
+ "mp4": "https://video.twimg.com/amplify_video/2107564043401658368/vid/avc1/320x572/4cwYrbWgV9bY6YsH.mp4?tag=29",
+ "w": 464,
+ "h": 832,
+ "via_quote": false,
+ "likes": 23,
+ "views": 1432,
+ "seen": "A meme page format: a supercar \"bro vs me\" meme (two cars in a garage), then the app's speed card pasted in as the punchline. The page posts memes; the product rides inside them.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "Oh",
+   "ocr": "170 Km 240 Km 132 bro on 14.76 hoo Bro just for the pics... AG"
+  },
+  {
+   "t": "0:02",
+   "said": "Oh",
+   "ocr": "WA 45% wise ere Search Ps Find co or a. An vee! ay fe 25, 10.9K Photo Don\u2019t worry about the speed cameras drive without "
+  },
+  {
+   "t": "0:04",
+   "said": "Oh",
+   "ocr": "50 Km 1d 498 ie times 111 Km Grew speed ton 331 Km it om od You 183.7K 14.9K se 10.9K Photo 1-15 Don't worry about the s"
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:07",
+   "said": "",
+   "ocr": "WA GD 45% it nd related content Search a 1.5 years later rd 330 Km 401 Km a ee pee ae od bro me 13.9K Add comment.."
+  },
+  {
+   "t": "0:09",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:12",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

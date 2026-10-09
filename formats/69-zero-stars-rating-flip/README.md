@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 69 · Zero Stars rating flip ("5 stars from you / zero stars from them")
 
+<!-- HERO:START -->
+[![Featured example: @cortex_adbrain](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/cortex_adbrain/status/2103883993603031429)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (live ad, big tester brand) · hype risk: Low · cost $0 · 15 min
 
 ## What it is

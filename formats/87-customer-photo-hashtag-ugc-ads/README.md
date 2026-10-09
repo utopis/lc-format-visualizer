@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 87 · Customer-photo hashtag UGC turned into Story & retargeting ads
 
+<!-- HERO:START -->
+[![Featured example: @huejewellers](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/huejewellers/status/2099792841115386168)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (brand case studies) · hype risk: Low · cost $0 + rights mgmt · 30 min/week
 
 ## What it is

@@ -1,0 +1,60 @@
+{
+ "id": "F58",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/lorenzo_pravata/status/2095136884666052819",
+ "author": "lorenzo_pravata",
+ "type": "video",
+ "duration": 21,
+ "mp4": "https://video.twimg.com/amplify_video/2095136804991053824/vid/avc1/320x568/xbARYjkUN0Y0WpXR.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 36,
+ "views": 2554,
+ "seen": "A vet or expert talking to camera with red caption labels, intercut with dogs (a golden retriever, a scruffy dog, a husky, a dog with a toy). It is an educational explainer about care, with the product as the solution.",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "By the time your dog you actually limps or slows down, it's usually been wrong for weeks.",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "By the time your dog you actually limps or slows down, it's usually been wrong for weeks. It's a survival thing. In the wild, a sick animal ",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "It's a survival thing. In the wild, a sick animal is a target. So dogs learn to mask it. No whining, no limping, they just carry on.",
+   "ocr": "yr 1. hee ely. re Woe a Fi Sick if oY ae ON ans"
+  },
+  {
+   "t": "0:09",
+   "said": "So dogs learn to mask it. No whining, no limping, they just carry on.",
+   "ocr": "SR, a Pita? Wwe. se ot te as ie poe te! oct 25,342"
+  },
+  {
+   "t": "0:12",
+   "said": "So dogs learn to mask it. No whining, no limping, they just carry on. Ours still do it. And what changes first isn't something you can see.",
+   "ocr": "Pe Fate. su ag till do I a at melt nat Fan ss os se hee wh or ad ox ee Ty ae a SA ax vee Si ae en 26 fe m2 Se Ea"
+  },
+  {
+   "t": "0:14",
+   "said": "Ours still do it. And what changes first isn't something you can see. It's their vitals, the breathing, the heart rate, sleep, how much they",
+   "ocr": ""
+  },
+  {
+   "t": "0:17",
+   "said": "It's their vitals, the breathing, the heart rate, sleep, how much they drink. That shifts way before your eyes catch a thing.",
+   "ocr": ""
+  },
+  {
+   "t": "0:19",
+   "said": "It's their vitals, the breathing, the heart rate, sleep, how much they drink. That shifts way before your eyes catch a thing.",
+   "ocr": ""
+  }
+ ]
+}

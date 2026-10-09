@@ -1,0 +1,60 @@
+{
+ "id": "F65",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/M__Operators/status/2094809174907535497",
+ "author": "M__Operators",
+ "type": "video",
+ "duration": 84,
+ "mp4": "https://video.twimg.com/amplify_video/2094809085598105600/vid/avc1/640x360/kH_jok9QKii4zEwc.mp4?tag=29",
+ "w": 1920,
+ "h": 1080,
+ "via_quote": false,
+ "likes": 11,
+ "views": 747,
+ "seen": "A podcast clip planning a Black Friday / holiday early launch: hosts at mics with green branded overlays and captions, 87 days out from Black Friday.",
+ "beats": [
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:15",
+   "said": "What should I be thinking about as I,",
+   "ocr": "St ey: ARE TAS ie"
+  },
+  {
+   "t": "0:26",
+   "said": "",
+   "ocr": "es in youre 4-"
+  },
+  {
+   "t": "0:36",
+   "said": "to not drive incremental results and be extremely happy with your outcome. You do like you do like you do like you do like you do like you d",
+   "ocr": ""
+  },
+  {
+   "t": "0:47",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:57",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:08",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:18",
+   "said": "biggest sale so we just try to like",
+   "ocr": ""
+  }
+ ]
+}

@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 43 · Hudson Method creator swarm (hundreds of small creators → every ad channel)
 
+<!-- HERO:START -->
+[![Featured example: @maverickecom](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/maverickecom/status/2088288284690567296)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P0** · evidence: High (multiple operators + first-party data) · hype risk: Med · cost $100-400 per creator/month + product + commission · ongoing program (VA + 5-10 h/week)
 
 ## What it is

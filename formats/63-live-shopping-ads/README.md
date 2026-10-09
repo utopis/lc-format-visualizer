@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 63 · Live shopping ads (TikTok LIVE / IG Live sessions amplified with paid)
 
+<!-- HERO:START -->
+[![Featured example: @HobiCasa](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/HobiCasa/status/2084825639866277902)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P3** · evidence: Medium (platform case studies) · hype risk: Med · cost $0 + host time · 2-3 h per session
 
 ## What it is

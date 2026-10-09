@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 80 · Persona pages: ads run from named narrator pages (catalog of the pattern + LC-safe version)
 
+<!-- HERO:START -->
+[![Featured example: @Seanfrank](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Seanfrank/status/2094988024211812654)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P3** · evidence: High (many large advertisers) · hype risk: High · cost $0-200 · ongoing
 
 ## What it is

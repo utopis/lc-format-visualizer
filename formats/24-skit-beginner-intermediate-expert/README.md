@@ -9,6 +9,15 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 43-48h-trend-hijacking
 ---
 # 24 · Skit / B-I-E tiers
 
+<!-- HERO:START -->
+[![Featured example: @TheKhushLife](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/TheKhushLife/status/2079287229164442041)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Skit: 2-character comedic scene with a relatable problem; B-I-E: same task done at 3 skill levels, product at "expert".
 

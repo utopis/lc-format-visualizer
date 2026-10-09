@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 48 · "The DM / question I get every day" answer video
 
+<!-- HERO:START -->
+[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)**
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium · hype risk: Low · cost $0 · 15 min
 
 ## What it is

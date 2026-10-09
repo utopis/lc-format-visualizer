@@ -12,6 +12,15 @@ related_strategies: [33-animated-brand-character-ads, 36-owned-winner-video-remi
 ---
 # 05 · AI animation format swap
 
+<!-- HERO:START -->
+[![Featured example: @oliverxmedia](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/oliverxmedia/status/2099359156121825337)
+<!-- HERO:END -->
+
+
+
+
 ## What it looks like
 Same script/angle as a proven ad, re-rendered in an animated style. Styles and their jobs (from @CEO_Vlad's 7-styles chart and tier list):
 | Style | Good for | Why |

@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 60 · Click-to-message ads (Messenger / IG DM / TikTok Instant Messaging) — "stylist in your DMs"
 
+<!-- HERO:START -->
+[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)**
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (platform case studies via vendor) · hype risk: Med · cost $0 creative + chat ops · setup 1-2 days
 
 ## What it is

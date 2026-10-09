@@ -1,0 +1,60 @@
+{
+ "id": "F38",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/ladprofit/status/2089745258796261415",
+ "author": "ladprofit",
+ "type": "video",
+ "duration": 45,
+ "mp4": "https://video.twimg.com/amplify_video/2089745025005735936/vid/avc1/320x570/iIVPKOKBkbB6gkI2.mp4?tag=29",
+ "w": 1080,
+ "h": 1930,
+ "via_quote": false,
+ "likes": 58,
+ "views": 89514,
+ "seen": "An AI-generated breaking-news broadcast: a male anchor at a news desk with a red \"BREAKING NEWS\" lower-third, then a female reporter holding up the product as if it were a news story.",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "We're following breaking news tonight on a growing concern for anyone taking a GLP-1 weight loss drug.",
+   "ocr": "Gee ee ee BREAKING NEWS"
+  },
+  {
+   "t": "0:08",
+   "said": "Joining us now, Dr. Sophia Marchetti. Doctor, what exactly is happening here?",
+   "ocr": "ay BREAKING NEWS"
+  },
+  {
+   "t": "0:14",
+   "said": "When you eat significantly less, your body can't always tell the difference between fat and muscle. It burns both.",
+   "ocr": "ll Se Th hd BREAKING NEWS"
+  },
+  {
+   "t": "0:19",
+   "said": "So people could be losing muscle without even realizing it? Exactly. That's why so many people",
+   "ocr": "al BREAKING NEWS"
+  },
+  {
+   "t": "0:25",
+   "said": "Exactly. That's why so many people feel weak and drained even as the number on the scale keeps dropping.",
+   "ocr": "ee we BREAKING NEWS"
+  },
+  {
+   "t": "0:31",
+   "said": "What should someone actually do about that? This. Myogard Pro.",
+   "ocr": ""
+  },
+  {
+   "t": "0:36",
+   "said": "Creatine, CAHMB, Zinc, Carnacine, 80-plus vitamins and minerals built to help you hold onto muscle",
+   "ocr": "ll a Th ky 1. a BREAKING"
+  },
+  {
+   "t": "0:42",
+   "said": "while you lose the fat. You don't have to lose muscle to lose weight. Ask about Myogard Pro.",
+   "ocr": "ee a 1. Ez BREAKING NE WS"
+  }
+ ]
+}

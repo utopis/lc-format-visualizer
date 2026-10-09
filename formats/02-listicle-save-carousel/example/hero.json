@@ -1,0 +1,19 @@
+{
+ "id": "F02",
+ "kind": "carousel",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/rsalimx/status/2108259483902513153",
+ "author": "rsalimx",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 103,
+ "views": 5578,
+ "seen": "Two screenshots: a recipe app's App Store page (Daily Bite, \"Save Any Recipe Anywhere\") and the TikTok profile that drives it (\"Success Fitness\"), a grid of one-meal-per-slide recipe carousels, many past 1M views. The carousel is the content; the app is the save-it-for-later tool.",
+ "beats": []
+}

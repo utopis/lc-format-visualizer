@@ -11,6 +11,15 @@ related_strategies: [31-founder-daily-posting-product-as-ad, 34-persona-archetyp
 ---
 # 13 · Podcast-style ad
 
+<!-- HERO:START -->
+[![Featured example: @tryatria_AI](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/tryatria_AI/status/2097763972325745046)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 Two people at podcast mics, warm studio, captions; clip starts mid-conversation with a strong opinion; host asks the question the viewer has; guest explains; product mentioned naturally. "They're not trying to make a podcast ad feel like an ad" ([@tryatria_AI](https://x.com/tryatria_AI/status/2097763972325745046)). "Best format for anything that needs explaining" ([@CEO_Vlad](https://x.com/CEO_Vlad/status/2096569603761827953)).
 

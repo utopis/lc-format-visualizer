@@ -1,0 +1,19 @@
+{
+ "id": "F35",
+ "kind": "static",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Hashir_Shaikh_/status/2096337779412304217",
+ "author": "Hashir_Shaikh_",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 127,
+ "views": 4786,
+ "seen": "Four diagram-style statics: a this-vs-that comparison with the product against a rival, a red X versus a green check table, and a \"NO WONDER EVERY STEP HURTS\" anatomy visual. Each one makes the argument with a simple chart instead of a lifestyle photo.",
+ "beats": []
+}

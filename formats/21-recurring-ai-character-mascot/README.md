@@ -10,6 +10,15 @@ related_strategies: [24-niche-character-account-network, 33-animated-brand-chara
 ---
 # 21 · Recurring character
 
+<!-- HERO:START -->
+[![Featured example: @rewind02](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/rewind02/status/2107211233405325547)
+<!-- HERO:END -->
+
+
+
+
 ## Looks like
 One distinctive character (odd, recognisable — accent, look, catchphrase) in short repeatable bits; motion borrowed from trending formats; same character every post builds a following ([@sairahul1](https://x.com/sairahul1/status/2107172215586513360)).
 

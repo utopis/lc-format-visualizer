@@ -1,0 +1,50 @@
+{
+ "id": "F03",
+ "kind": "carousel",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/brainextends/status/2099496707209994736",
+ "author": "brainextends",
+ "type": "video",
+ "duration": 10,
+ "mp4": "https://video.twimg.com/amplify_video/2099496665107615744/vid/avc1/320x710/zyfYf1h6eN_IVgZX.mp4?tag=29",
+ "w": 864,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 265,
+ "views": 16345,
+ "seen": "A short slideshow built from big stat cards and phone UI: \"#00\", \"4.8\", \"<$5K\" tiles over lifestyle photos, then an iPhone lock screen at 9:41 with notification bubbles (\"Follow your routine\"). Two slides, phone-native look, no talking.",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": "wi 71 1:06 ob an 46.3 ar 80.56 RE ul ee 2d ago 1,100 tells you the hardest part is actually walking in #24 Contains Al-g"
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "11:06 100%05 a it ir home, wha n't to do po 46. 3K ee ff in Photo 2d age nobody tells you the hardest part is actually B"
+  },
+  {
+   "t": "0:04",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": "00:07 ali 719 11:06 Madison te 534 234.1K Message 24 los angeles mexican american fitness travel 24 lifestyle insta obse"
+  },
+  {
+   "t": "0:07",
+   "said": "",
+   "ocr": "11:06 00:08 ron a 253.7% 233.7K ws 480.1K mind Pa ans Aha cB rE hem, tin ae nt: ME BON ca me fo ks with ne pure: by no e"
+  },
+  {
+   "t": "0:08",
+   "said": "",
+   "ocr": ""
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "id": "F64",
+ "kind": "system",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/aakashkapil01/status/2080679066693492819",
+ "author": "aakashkapil01",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 2,
+ "views": 1750,
+ "seen": "An infographic of an abandoned-cart flow: \"Abandoned Cart Flows\" with a phone showing a \"Forgot something?\" message and 4 timed steps (1 hour reminder, 24 hours social proof, 48 hours incentive, recovery).",
+ "beats": []
+}

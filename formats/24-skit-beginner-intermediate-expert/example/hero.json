@@ -1,0 +1,60 @@
+{
+ "id": "F24",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/TheKhushLife/status/2079287229164442041",
+ "author": "TheKhushLife",
+ "type": "video",
+ "duration": 32,
+ "mp4": "https://video.twimg.com/amplify_video/2079286426399907840/vid/avc1/320x568/a_vpOiwrdBknuhnF.mp4?tag=14",
+ "w": 540,
+ "h": 960,
+ "via_quote": false,
+ "likes": 10,
+ "views": 467,
+ "seen": "A skit where one creator plays several levels of the same person (beginner, intermediate, expert) in different outfits and locations: outside a house, in sunglasses, in a car, at a desk. It ends on the app screen (\"Real locals. Reviewed and verified.\").",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "Is the item still available? Yep, it is. Is it still available?",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "Is it still available? It's still here. Great, can you deliver it to Ottawa?",
+   "ocr": "a hy af I Ve the!"
+  },
+  {
+   "t": "0:10",
+   "said": "Great, can you deliver it to Ottawa? Ottawa? No, that's too far and you're gone.",
+   "ocr": "fe. a Ve ae hy,\u2019 Ottawa? No that's too fare and' you're gone"
+  },
+  {
+   "t": "0:14",
+   "said": "Ottawa? No, that's too far and you're gone. Hey, how much is this?",
+   "ocr": ""
+  },
+  {
+   "t": "0:18",
+   "said": "Hey, how much is this? Oh, this? Uh, 200, like it says. 20? That's a great deal.",
+   "ocr": ""
+  },
+  {
+   "t": "0:22",
+   "said": "20? That's a great deal. My bank only does mobile check deposits. Does that work for you?",
+   "ocr": "My. bank only does mobile check deposits, ae"
+  },
+  {
+   "t": "0:26",
+   "said": "Does that work for you? 20? No. Sound familiar? Try cared instead.",
+   "ocr": "a RAN aX on -$20?...no Wi ze"
+  },
+  {
+   "t": "0:30",
+   "said": "Sound familiar? Try cared instead. Trusted by over 32 million people around the world.",
+   "ocr": "Real locals. Reviewed and verified. 9:41 GD Profile Joy wed NG 48 Reviews Rate Share profile Score 6588 Pro ted Over &2 "
+  }
+ ]
+}

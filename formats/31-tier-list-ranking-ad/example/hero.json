@@ -1,0 +1,60 @@
+{
+ "id": "F31",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/deepbajwacreate/status/2098014748570739055",
+ "author": "deepbajwacreate",
+ "type": "video",
+ "duration": 47,
+ "mp4": "https://video.twimg.com/amplify_video/2098014630513725443/vid/avc1/320x568/eDZlSVsQ8uj0XTaA.mp4?tag=29",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 0,
+ "views": 21,
+ "seen": "A creator holding a printed tier list (S/A/B/C/D) and ranking popular side hustles one card at a time, with captions, ending on the product he places at the top (an Ecom Degree signup page).",
+ "beats": [
+  {
+   "t": "0:02",
+   "said": "Dropshipping C tier. Sure it's cheap to start but it's very saturated right now so that most",
+   "ocr": "Most people don't ate one of them Fs a uA"
+  },
+  {
+   "t": "0:08",
+   "said": "beginners end up blowing through their entire ad budget before they even see a single sale. Amazon FBA B tier. I know this is probably going",
+   "ocr": "Most people don't know about one of them Se a ae amazon"
+  },
+  {
+   "t": "0:14",
+   "said": "You're competing with millions of sellers and inventory costs eating away at your margins",
+   "ocr": "Ranking aside for Beginners Most people don't know about one of them Fw a a"
+  },
+  {
+   "t": "0:20",
+   "said": "pretty fast. Freelancing. Now I'm going to put this into A tier. It's a solid way to make extra money with your skills but let's be honest y",
+   "ocr": "Ranking aside for Beginners Most people don't know about one of them tre a"
+  },
+  {
+   "t": "0:26",
+   "said": "dollars. It's not really building anything. Walmart selling S tier. Most people aren't",
+   "ocr": ""
+  },
+  {
+   "t": "0:32",
+   "said": "actually very familiar with this one and I thought it'd be another looks good on paper side hustle. But there's way less competition than Am",
+   "ocr": "Ranking aside for Beginners Most people don't know about one of them Se al on WE Boy a"
+  },
+  {
+   "t": "0:37",
+   "said": "putting in one to two hours of work every day. There's even a free workshop showing you exactly",
+   "ocr": "Ranking aside for Beginners Most don't know about one of them 3& GE"
+  },
+  {
+   "t": "0:43",
+   "said": "how people are selling a Walmart step-by-step called eCom degree. So if you've been wanting to start a side hustle definitely check this one",
+   "ocr": "Check out Degree today Degree ed The Simplest Way to Build Profitable Walmart Business in 2026 28K: month"
+  }
+ ]
+}

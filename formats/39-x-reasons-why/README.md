@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 39 · "3 reasons why" / X reasons listicle ad
 
+<!-- HERO:START -->
+[![Featured example: @lorenzo_pravata](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/lorenzo_pravata/status/2090384597737508973)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: High (framework in multiple systems) · hype risk: Low · cost $0-50 · 20-40 min
 
 ## What it is

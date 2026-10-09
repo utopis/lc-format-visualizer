@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 82 · Hyperreal CGI mechanism / "x-ray" shot (inside the material) + villain monologue
 
+<!-- HERO:START -->
+[![Featured example: @FedotOff90](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/FedotOff90/status/2106401392374186396)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (boards + playbook) · hype risk: Medium · cost $50-500 · 1-2 days
 
 ## What it is

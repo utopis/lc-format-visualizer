@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 74 · "The Verbatim": one raw customer review as the whole creative
 
+<!-- HERO:START -->
+[![Featured example: @CreatorSaad](example/poster.jpg)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/CreatorSaad/status/2107818233302528335)
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0 · 10 min
 
 ## What it is

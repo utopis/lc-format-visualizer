@@ -15,6 +15,15 @@ added: 2026-10-08 (wave 2)
 ---
 # 68 · Streak calendar static (a habit grid filled with ✓ days)
 
+<!-- HERO:START -->
+[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+
+**[See the example and how to make it →](EXAMPLE.md)**
+<!-- HERO:END -->
+
+
+
+
 > **LC priority P2** · evidence: Medium (live ad) · hype risk: Low · cost $0 · 20 min
 
 ## What it is
