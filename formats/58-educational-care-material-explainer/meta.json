@@ -5,7 +5,7 @@
  "title": "58 · Educational care / material explainer post (\"how to keep gold from tarnishing\", \"which metals are safe\")",
  "n_examples": 7,
  "n_curated": 0,
- "n_candidates": 7,
+ "n_candidates": 6,
  "stages": [
   {
    "stage": "Find",
@@ -38,6 +38,22 @@
  ],
  "examples": [
   {
+   "id": "2095136884666052819",
+   "file": "2026-09-02-lorenzo_pravata-2095136884666052819.md",
+   "kind": "cited",
+   "author": "lorenzo_pravata",
+   "date": "2026-09-02",
+   "url": "https://x.com/lorenzo_pravata/status/2095136884666052819",
+   "eng": "36L/37BM/3kV",
+   "grade": "",
+   "gist": "There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. The product doesn't appear unt",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2095136804991053824/img/HYL2hGKuH7_qSErW.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2093427975350005795",
    "file": "2026-08-28-Halosznn_-2093427975350005795.md",
    "kind": "candidate",
@@ -49,22 +65,6 @@
    "gist": "Marek Health is hiring ‼️ 🎨 Graphic Designer 📍 Remote | Part-Time • Design static social media assets • Turn campaigns, educational content, promotions, into strong visual concepts",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2095136884666052819",
-   "file": "2026-09-02-lorenzo_pravata-2095136884666052819.md",
-   "kind": "candidate",
-   "author": "lorenzo_pravata",
-   "date": "2026-09-02",
-   "url": "https://x.com/lorenzo_pravata/status/2095136884666052819",
-   "eng": "36L/37BM/3kV",
-   "grade": "",
-   "gist": "There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. The product doesn't appear unt",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2095136804991053824/img/HYL2hGKuH7_qSErW.jpg",
-   "media": [
-    "video"
-   ],
    "transcript": false
   },
   {

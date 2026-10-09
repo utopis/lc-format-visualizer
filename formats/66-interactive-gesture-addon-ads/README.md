@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P3** · evidence: Low-Med (platform case studies) · hype risk: Low · cost $0 add-on to existing video · 15 min
 
 ## What it is
@@ -82,6 +85,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [37-urgency-offer-statics](../37-urgency-offer-statics/README.md), [46-unboxing-packing-orders](../46-unboxing-packing-orders/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Ana Luisa (jewelry) runs an ad with an iOS crop-menu overlay that visually programs the exact gesture needed to claim the in-store discount; held 47 days of 22 live ads ([@SOCIALFUELio](https://x.com/SOCIALFUELio/status/2092930152133243178)). Closest direct jewelry competitor signal in the set.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

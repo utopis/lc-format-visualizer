@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (many live offer pages) · hype risk: Low · cost $0-100 · 1 h
 
 ## What it is
@@ -90,6 +93,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [37-urgency-offer-statics](../37-urgency-offer-statics/README.md), [62-catalog-collection-dpa-ads](../62-catalog-collection-dpa-ads/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Resilia: 5,449 ads in 90 days, 4,790 to the same page; 1 bag $34.99, 2 bags $54.99 (+free glass jar, flagged Most Popular), 3 bags $79.99 where bag 3 is a DIFFERENT product (D3+K2) to start a second-product habit on order one; "Gifts Unlocked" bar with one padlocked gift; ~55 new ads a day on the same page ([@tryatria_AI](https://x.com/tryatria_AI/status/2107919598917923125)). LC: 1 / 3 / 7 picker where tile 3 adds a different category (earrings) + a padlocked free pouch at 7.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

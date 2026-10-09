@@ -1,0 +1,31 @@
+{
+ "id": "F104",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/GustavWalsted/status/2105227892309594486",
+ "author": "GustavWalsted",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 9,
+ "views": 376,
+ "seen": "Primal Queen's live offer page behind the Meta ad. The headline is \"BUY ONE GET ONE FREE\". How it works: 1) buy any 2 Primal Queen products at your nearest Target; 2) enter your phone number; 3) we text you a link to upload your receipt; 4) once verified we refund via PayPal or Venmo. \"That's it. One product is on us.\" Under that is a \"FIND MY CLOSEST target\" store locator with a map. Paid social drives retail sell-through, and the brand captures the SMS list.",
+ "match": "close",
+ "beats": [],
+ "more": [
+  {
+   "id": "2099533970484646210",
+   "author": "eCom_Amin",
+   "url": "https://x.com/eCom_Amin/status/2099533970484646210",
+   "thumb": "example/more/2099533970484646210.jpg",
+   "kind": "1:42 video",
+   "cap": "primal queen prints $2M a month and their google funnel is the most complete i've dissected all year AI youtube ads with 1M+ views, an advertorial run",
+   "views": 27542
+  }
+ ]
+}

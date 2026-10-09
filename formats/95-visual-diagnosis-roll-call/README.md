@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (multi-brand engine) · hype risk: Medium · cost $0-200 · 2-4 h
 
 ## What it is

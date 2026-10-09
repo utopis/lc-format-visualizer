@@ -3,7 +3,7 @@
  "slug": "62-catalog-collection-dpa-ads",
  "name": "Catalog / collection / dynamic product ads (Advantage+ catalog, catalog video, collection + Instant Experience lookbook)",
  "title": "62 · Catalog / collection / dynamic product ads (Advantage+ catalog, catalog video, collection + Instant Experience lookbook)",
- "n_examples": 3,
+ "n_examples": 4,
  "n_curated": 0,
  "n_candidates": 3,
  "stages": [
@@ -37,6 +37,20 @@
   }
  ],
  "examples": [
+  {
+   "id": "1640330448818544640",
+   "file": "0000-00-00-danpantelo-1640330448818544640.md",
+   "kind": "cited",
+   "author": "danpantelo",
+   "date": "",
+   "url": "https://x.com/danpantelo/status/1640330448818544640",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
   {
    "id": "2098135439458877901",
    "file": "2026-09-10-torovictorioso-2098135439458877901.md",

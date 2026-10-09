@@ -5,7 +5,7 @@
  "title": "41 · Talking product (AI-animated product as narrator)",
  "n_examples": 8,
  "n_curated": 2,
- "n_candidates": 6,
+ "n_candidates": 5,
  "stages": [
   {
    "stage": "Find",
@@ -70,7 +70,7 @@
   {
    "id": "2076868032002150833",
    "file": "2026-07-14-koloveski-2076868032002150833.md",
-   "kind": "candidate",
+   "kind": "cited",
    "author": "koloveski",
    "date": "2026-07-14",
    "url": "https://x.com/koloveski/status/2076868032002150833",

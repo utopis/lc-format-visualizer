@@ -3,7 +3,7 @@
  "slug": "61-poll-and-product-match-quiz-ads",
  "name": "Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer)",
  "title": "61 · Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer)",
- "n_examples": 14,
+ "n_examples": 15,
  "n_curated": 0,
  "n_candidates": 14,
  "stages": [
@@ -37,6 +37,20 @@
   }
  ],
  "examples": [
+  {
+   "id": "2039638255537201662",
+   "file": "0000-00-00-f3dericobartoli-2039638255537201662.md",
+   "kind": "cited",
+   "author": "f3dericobartoli",
+   "date": "",
+   "url": "https://x.com/f3dericobartoli/status/2039638255537201662",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
   {
    "id": "2084623022649188607",
    "file": "2026-08-04-IgorWoorts-2084623022649188607.md",

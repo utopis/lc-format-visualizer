@@ -33,13 +33,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
-## More real examples (3)
+## More real examples (4)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
 | [![@crowizard_stef](example/more/1735569746349670808.jpg)](https://x.com/crowizard_stef/status/1735569746349670808)<br>**@crowizard_stef** · image · 2K views<br>Stores are using TikTok’s new interactive cards already! Don’t fall behind: ​1. Create a new campaign where you select Reach & Frequency as the Ad Buy | [![@coltonjetlee](example/more/1790930807764435387.jpg)](https://x.com/coltonjetlee/status/1790930807764435387)<br>**@coltonjetlee** · image · 164 views<br>For those running TikTok Shop ads... Do you guys turn on a "Interactive Add-on" like a Product Card? We've been using them as TikTok claims it boosts | [![@_deepakss_](example/more/2087895969157246985.jpg)](https://x.com/_deepakss_/status/2087895969157246985)<br>**@_deepakss_** · 0:15 video · 201 views<br>Building "Tiktok for games" Arcadeo for this year's Shipaton. My main aim is to have a non frustrating experience when viewing an ad. This means user |
+| [![@SOCIALFUELio](example/more/2092930152133243178.jpg)](https://x.com/SOCIALFUELio/status/2092930152133243178)<br>**@SOCIALFUELio** · 0:07 video · 12 views<br>ana luisa are running 22 ads. this one has held for 47 days. Using an iOS crop-menu overlay visually programs the exact user behavior needed to claim |   |   |
 
 ## How to make one like it
 
@@ -150,6 +151,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Offer must be real.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

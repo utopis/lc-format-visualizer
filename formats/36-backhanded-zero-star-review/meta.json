@@ -3,7 +3,7 @@
  "slug": "36-backhanded-zero-star-review",
  "name": "Backhanded / 'bad review' ad (complaint that is secretly a benefit)",
  "title": "36 · Backhanded / \"bad review\" ad (complaint that is secretly a benefit)",
- "n_examples": 7,
+ "n_examples": 8,
  "n_curated": 4,
  "n_candidates": 1,
  "stages": [
@@ -123,6 +123,22 @@
    "gist": "Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm.",
    "thumb": "",
    "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2099549775892783266",
+   "file": "2026-09-14-Smdigitalsys-2099549775892783266.md",
+   "kind": "cited",
+   "author": "Smdigitalsys",
+   "date": "2026-09-14",
+   "url": "https://x.com/Smdigitalsys/status/2099549775892783266",
+   "eng": "13L/0BM/33V",
+   "grade": "",
+   "gist": "They left us a 1-star review. We turned it into an ad 😂🔥 DM your worst review, we'll turn it into content. #reputationmarketing #contentmarketing #smdigitalsystems https://t.co/lva",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2099549675468570624/img/ebrrMK9C808uBXPk.jpg",
+   "media": [
+    "video"
+   ],
    "transcript": false
   },
   {

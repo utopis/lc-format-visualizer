@@ -1,0 +1,62 @@
+{
+ "id": "F101",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/cicerougc/status/2075757653309919555",
+ "author": "cicerougc",
+ "type": "video",
+ "duration": 9,
+ "mp4": "https://video.twimg.com/ext_tw_video/2075757593683701760/pu/vid/avc1/320x568/avp3kWsvV_mlVbVf.mp4?tag=26",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 0,
+ "views": 165,
+ "seen": "A girl takes a mirror selfie with German text: \"du glaubst nicht wie schlecht ordinary f\u00fcr dich ist\" (\"you won't believe how bad The Ordinary is for you\"). At 0:02 the app's \"Capture ingredient list\" camera frames a bottle of The Ordinary Glycolic Acid 7% toner. At 0:05 the app shows \"Product Scanner: 70 FIT SCORE, Good Fit\", with the overlay \"70 von 100 f\u00fcr meine Haut\". At 0:06-0:08 it scrolls to \"Routine conflicts: vs. Bonding Oil\" and \"Watch out for: Fragrance, Witch Hazel\", with the overlay \"harmoniert schlecht mit meinem bonding oil\", then shows \"Add to my routine\". The whole video is 9 seconds: a famous product, a score, and a personal conflict.",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:03",
+   "said": "",
+   "ocr": "at'60 Capture ingredient list ea? ow eT hee a a ee ol tf ae Home Analyze Sean Profile"
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": "2258 al SGt Product Scanner Ww it fit your skin? Scan to find out. a Good Fit Acid 7% Toner 70 von 100 This toner textur"
+  },
+  {
+   "t": "0:06",
+   "said": "",
+   "ocr": "2258 at SG FE Product Scanner Will it fit your skin? Scan to find out. WHAT WORKS FOR YOU improves skin texture and clar"
+  },
+  {
+   "t": "0:08",
+   "said": "",
+   "ocr": "22:58 atl SG Product Scanner Will it fit your skin? Scan to find out. ROUTINE CONFLICTS vs. Bonding Oi! Contains high oi"
+  }
+ ],
+ "more": [
+  {
+   "id": "2107834606368293123",
+   "author": "consumerxai",
+   "url": "https://x.com/consumerxai/status/2107834606368293123",
+   "thumb": "example/more/2107834606368293123.jpg",
+   "kind": "0:08 video",
+   "cap": "121M views lost to 9.6M on the number that matters more for engagement saves -> a save means \"i'm going to do this later\" and has high intent -> calor",
+   "views": 293
+  }
+ ]
+}

@@ -89,7 +89,7 @@ Write 4 tough-love scripts (30s) and 2 long-copy statics for LC in a blunt older
 See [examples/README.md](examples/README.md) (7 posts). Top 5:
 
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
+- @ZedNilm1 (3L/9BM/655V): this parasite ad looks like something made in 10 minutes which is exactly why i’d pay attention to it ugly animation aggressive hook zero concern for looking “p — https://x.com/ZedNilm1/status/2098017463195553912
 - @0xROAS (104L/139BM/9kV): 100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here’s how to make sure your dramas hit: - start with a very aggressive hook - make — https://x.com/0xROAS/status/2107188290264740348
 - @mannybarbas_ (57L/28BM/6kV): Regarding turning off ads: Stop doing this constantly every single day. Sometimes an ad with a higher CPA is actually doing an important job: bringing fresh peo — https://x.com/mannybarbas_/status/2093433523906773248
 - @Bobbyy_V (40L/9BM/11kV): Every player with a brain just going flats and ultra aggressive hook curls + switch stick because they know you have 1.5 seconds before Myles Garrett and Aaron  — https://x.com/Bobbyy_V/status/2096365154011074617
-- @ZedNilm1 (3L/9BM/655V): this parasite ad looks like something made in 10 minutes which is exactly why i’d pay attention to it ugly animation aggressive hook zero concern for looking “p — https://x.com/ZedNilm1/status/2098017463195553912

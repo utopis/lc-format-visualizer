@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0 · 10 min
 
 ## What it is
@@ -85,6 +88,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [40-testimonial-mashup](../40-testimonial-mashup/README.md), [32-screenshot-native-static-pack](../32-screenshot-native-static-pack/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Fedotoff gut-health board (Oct 2026)
+- Alex Fedotoff's "Winning Gut Health Ads, June 2026" board (420 ads: 211 carousels, 126 videos, 82 images) leads with a verbatim Trustpilot review static (Soulbrew: "Finally, a hot chocolate I don't have to say no to", quote card over a lifestyle product shot, guarantee bar) ([@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)). Full breakdown of the public preview (all 10 ads, transcripts, LC remakes) is in the internal sources folder; per-format stills live in each folder's adlibrary/.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

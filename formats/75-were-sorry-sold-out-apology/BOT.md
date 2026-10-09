@@ -84,10 +84,10 @@ Write 3 "we're sorry, we keep selling out" notices for LC SKUs with real sell-ou
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (9 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @briannjho (138L/338BM/10kV): Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear "this is what happ — https://x.com/briannjho/status/2094662259746480410
 - @FedotOff90 (17L/18BM/3kV): Rebuilt the formats list with proof: 30-day survival column = "this works" bar; copy the structure, not the words. — https://x.com/FedotOff90/status/2100948331136782532
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
+- @OmologatoUK (0L/0BM/0V):  — https://x.com/OmologatoUK/status/2099497006158725545
 - @ChichiChachaha (251L/24BM/10kV): #Overdo sets a new pre-release advertising record. ~RMB 120M secured from ads &amp; sponsorships bef. its premiere date is even announced. 20+ brand partnership — https://x.com/ChichiChachaha/status/2076303701426471059
-- @adamtaylorl (27L/5BM/2kV): Fun 7 days at our agency (had Claude scan our Slack channels for these) - client 1: scaled spend and ROAS at the same time. revenue up 21% week on week at 2.9 R — https://x.com/adamtaylorl/status/2107153847126831539

@@ -22,6 +22,9 @@ related_strategies: [11-social-proof-credibility-engine, 41-von-restorff-static-
 
 
 
+
+
+
 ## What it looks like
 Split image or 2-slide: left/first "before" (problem state), right/second "after" (result), with a date or condition label; video version = jump-cut transition. "People stop because they see a real change, not a product… then long primary text tells the story" ([@antonioventre_](https://x.com/antonioventre_/status/2078512377616589256)).
 

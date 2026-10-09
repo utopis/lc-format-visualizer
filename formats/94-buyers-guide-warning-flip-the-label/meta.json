@@ -5,7 +5,7 @@
  "title": "94 · Buyer's-guide warning: \"Before you buy X, flip the label\" (3-2-1 countdown, only one passes)",
  "n_examples": 5,
  "n_curated": 2,
- "n_candidates": 3,
+ "n_candidates": 2,
  "stages": [
   {
    "stage": "Find",
@@ -66,6 +66,23 @@
    "transcript": false
   },
   {
+   "id": "2087894849618087981",
+   "file": "2026-08-13-HenryCrochemore-2087894849618087981.md",
+   "kind": "cited",
+   "author": "HenryCrochemore",
+   "date": "2026-08-13",
+   "url": "https://x.com/HenryCrochemore/status/2087894849618087981",
+   "eng": "6L/10BM/1kV",
+   "grade": "",
+   "gist": "Worth breaking this one down. brand: thriving through midlife. hook: \"spring sale | up to 63% off . today only\". specific: sounds too good to be true? try it before you buy it. we ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087894766180868098/img/TYlN9Ixgr1rdEag2.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2105130548155056153",
    "file": "2026-09-30-nicklaunches-2105130548155056153.md",
    "kind": "candidate",
@@ -77,23 +94,6 @@
    "gist": "Before you buy ANY directory ad, ask these 4. &gt; who measures the traffic, them or a third party &gt; how many ads rotate through the same spot &gt; is it on 1 page or on every p",
    "thumb": "https://pbs.twimg.com/media/HTbtE7oacAAcqxX.jpg",
    "media": [
-    "photo"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2087894849618087981",
-   "file": "2026-08-13-HenryCrochemore-2087894849618087981.md",
-   "kind": "candidate",
-   "author": "HenryCrochemore",
-   "date": "2026-08-13",
-   "url": "https://x.com/HenryCrochemore/status/2087894849618087981",
-   "eng": "6L/10BM/1kV",
-   "grade": "",
-   "gist": "Worth breaking this one down. brand: thriving through midlife. hook: \"spring sale | up to 63% off . today only\". specific: sounds too good to be true? try it before you buy it. we ",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2087894766180868098/img/TYlN9Ixgr1rdEag2.jpg",
-   "media": [
-    "video",
     "photo"
    ],
    "transcript": false

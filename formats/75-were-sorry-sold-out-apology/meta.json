@@ -3,7 +3,7 @@
  "slug": "75-were-sorry-sold-out-apology",
  "name": "'We're sorry, we keep selling out' apology notice",
  "title": "75 · \"We're sorry, we keep selling out\" apology notice",
- "n_examples": 9,
+ "n_examples": 10,
  "n_curated": 2,
  "n_candidates": 6,
  "stages": [
@@ -79,6 +79,20 @@
    "media": [
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2099497006158725545",
+   "file": "0000-00-00-OmologatoUK-2099497006158725545.md",
+   "kind": "cited",
+   "author": "OmologatoUK",
+   "date": "",
+   "url": "https://x.com/OmologatoUK/status/2099497006158725545",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

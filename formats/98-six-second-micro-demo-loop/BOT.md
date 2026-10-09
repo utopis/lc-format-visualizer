@@ -86,10 +86,10 @@ Write 10 casual first-person headlines (≤12 words, lowercase ok) for a 6-secon
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (7 posts). Top 5:
+See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
 - @ecomrudolfs (0L/0BM/0V): Smooche 6-second foundation clip, 12 duplicates, 225 days, "omg I think I finally found a foundation that looks like second skin". — https://x.com/ecomrudolfs/status/2102762930886336763
+- @fablecut (0L/0BM/0V):  — https://x.com/fablecut/status/2102944927868965360
 - @vladdubchak_x (222L/317BM/29kV): Your best static ads have a ceiling. Static-only means no video slots, no autoplay spots that stop the scroll. This skill removes the ceiling: drop the static – — https://x.com/vladdubchak_x/status/2080614240386240932
 - @lifemaximised (8L/12BM/929V): YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is always the s — https://x.com/lifemaximised/status/2087623547288207463
 - @hasantoxr (9L/5BM/10kV): Every lab claims "we're the best model" and the phrase means nothing the moment you actually make something. Best at a cinematic film look isn't best at a 6-sec — https://x.com/hasantoxr/status/2099897310654378092
-- @akari_w0r1d (23L/2BM/545V): I created this cozy 6-second lo-fi loop animation entirely within @adobefirefly First, I made the illustration and animation, then I used the AI Music Generator — https://x.com/akari_w0r1d/status/2102937109405311256

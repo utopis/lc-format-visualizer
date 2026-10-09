@@ -96,5 +96,5 @@ See [examples/README.md](examples/README.md) (7 posts). Top 5:
 - @EcomSapo (0L/0BM/0V): Smooche top ad of 1,600+: "At 63 I ran into my ex at Walmart" + Seoul colleague, 5:37; Atria #1 of 721, 70d. "Resilia blueprint works for skincare." — https://x.com/EcomSapo/status/2103047669556166886
 - @CSRIPPER (0L/0BM/0V): "10 minute movie ad with a Japanese/Swiss authority": Resilia, Lymphoria all run them. — https://x.com/CSRIPPER/status/2101315284753629664
 - @ladprofit (0L/0BM/0V): US Under Secretary flagged scam ads using "hidden knowledge" ethnic secrets + romantic-betrayal drama; quoted re Resilia. — https://x.com/ladprofit/status/2100156940483760583
-- @EcomSapo (157L/218BM/24kV): Smooche ($22M/mo skincare) uses singing ads as acquisition weapon. — https://x.com/EcomSapo/status/2105288429873528875
+- @EcomSapo (157L/220BM/24kV): Smooche ($22M/mo skincare) uses singing ads as acquisition weapon. — https://x.com/EcomSapo/status/2105288429873528875
 - @TradCathKeng (17L/0BM/446V): And now I’m getting ads for Japanese women only dating apps for foreigners… https://t.co/FV4Mr3dxTA — https://x.com/TradCathKeng/status/2082497271195709774

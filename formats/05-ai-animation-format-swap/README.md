@@ -23,6 +23,9 @@ related_strategies: [33-animated-brand-character-ads, 36-owned-winner-video-remi
 
 
 
+
+
+
 ## What it looks like
 Same script/angle as a proven ad, re-rendered in an animated style. Styles and their jobs (from @CEO_Vlad's 7-styles chart and tier list):
 | Style | Good for | Why |

@@ -3,7 +3,7 @@
  "slug": "98-six-second-micro-demo-loop",
  "name": "6-second micro-demo loop with a native headline ('omg I think I finally found…')",
  "title": "98 · 6-second micro-demo loop with a native headline (\"omg I think I finally found…\")",
- "n_examples": 7,
+ "n_examples": 8,
  "n_curated": 1,
  "n_candidates": 6,
  "stages": [
@@ -47,6 +47,20 @@
    "eng": "0L/0BM/0V",
    "grade": "VALUE",
    "gist": "Smooche 6-second foundation clip, 12 duplicates, 225 days, \"omg I think I finally found a foundation that looks like second skin\".",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102944927868965360",
+   "file": "0000-00-00-fablecut-2102944927868965360.md",
+   "kind": "cited",
+   "author": "fablecut",
+   "date": "",
+   "url": "https://x.com/fablecut/status/2102944927868965360",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

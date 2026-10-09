@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium (framework, multi-source) · hype risk: Low · cost $0-150 · 1 h
 
 ## What it is

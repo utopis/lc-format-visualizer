@@ -18,13 +18,14 @@ A spec static built from a single verbatim review: "Your customers already wrote
 |---|---|
 | 1 | How find ad ideas Your customers already wrote it. Most of the time you don't even know it's on. owner, 5-star review Ba Spec ad for |
 
-## More real examples (3)
+## More real examples (4)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
 | [![@PhilKiel](example/more/1842707896443732362.jpg)](https://x.com/PhilKiel/status/1842707896443732362)<br>**@PhilKiel** · image · 22K views<br>Customer review static. Who thinks a customer actually wrote this? Stellar copywriting if they did 😂 | [![@ariesnotebook](example/more/1857792129004675247.jpg)](https://x.com/ariesnotebook/status/1857792129004675247)<br>**@ariesnotebook** · image · 5K views<br>Simple but effective testimonial static. Stats: 4.8M likes | [![@helloitsdrew_](example/more/2000557038682706000.jpg)](https://x.com/helloitsdrew_/status/2000557038682706000)<br>**@helloitsdrew_** · image · 893 views<br>Keys to an effective review/testimonial static: - Review that highlights a specific product benefit - Review shown in an authentic way (social media U |
+| [![@FedotOff90](example/more/2108212319113412929.jpg)](https://x.com/FedotOff90/status/2108212319113412929)<br>**@FedotOff90** · image · 1K views<br>Complete breakdown of 420 gut health ads winning on Meta (save this). Gut health is one of the biggest money printers on Meta right now. Bloating, dig |   |   |
 
 ## How to make one like it
 
@@ -127,6 +128,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Verbatim and real; never edited to change meaning; disclose incentives.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: Fedotoff gut-health board (Oct 2026)](README.md)
 
 ## More examples
 

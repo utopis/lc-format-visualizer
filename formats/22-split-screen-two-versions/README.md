@@ -20,6 +20,9 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks]
 
 
 
+
+
+
 ## Looks like
 Left: version A of a person's day; right: version B (with product), synced timelines, captions with times.
 
@@ -30,6 +33,10 @@ A. "Taking jewelry off before every shower/gym/beach" (left: fumbling, losing ea
 Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md).
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: AI debate split-screen (Oct 2026)
+- "Almost every winner in our scaling CBO this month is AI debate": not an interview but an argument; extreme character contrast (young girl vs old man, karen vs Gen-Z skater); outdoors (park, street), not a podcast set; a layer of rage-bait; split screen beats cutting back and forth; then move the same character into a podcast talking about the debate ([@thankyouecom](https://x.com/thankyouecom/status/2093386984349700402)).
+- LC: split-screen debate "real gold or nothing" (older woman) vs "I shower in mine" (25-year-old) at a beach boardwalk; keep it playful, no product bashing.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -2,7 +2,7 @@
 
 | # | Stage | Status | Where |
 |---|---|---|---|
-| 1 | Find | in progress | 3 example posts in [examples/](examples/README.md) |
+| 1 | Find | in progress | 4 example posts in [examples/](examples/README.md) |
 | 2 | Deep research | done | Structure, hooks and recipe in [README.md](README.md); per-post breakdown slots in each example file |
 | 3 | Concepts | drafted (LC) | [brands/louise-carter.md](brands/louise-carter.md) has the first LC scripts |
 | 4 | Production | not started | [stages/04-production.md](stages/04-production.md) |

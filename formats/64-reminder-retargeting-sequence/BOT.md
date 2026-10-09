@@ -91,8 +91,8 @@ Design a 5-step LC reminder sequence (audience, timing, creative type, copy ≤1
 
 See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
+- @aakashkapil01 (2L/1BM/2kV): You're not losing money because your ads suck. You're losing money because people who were ready to buy... leave. Most 6-figure health brands never get them bac — https://x.com/aakashkapil01/status/2080679066693492819
 - @bogdan_ai (826L/1735BM/192kV): $15K revenue in the last 30 days. $1.7K MRR. not flexing. just sharing what I learned so you can skip my mistakes. this is what worked: I stopped selling softwa — https://x.com/bogdan_ai/status/2080955204304769061
 - @wizofecom (26L/18BM/4kV): Let me guess You built your abandoned cart flow when the store was doing 200 sessions a day. And nobody's touched it since. - Timing written for a smaller store — https://x.com/wizofecom/status/2099554762995708353
 - @travis_mcewan (13L/12BM/579V): You can’t retarget abandoned carts if Meta can’t see the carts being abandoned. That sounds obvious, but it gets missed more often than you’d think. A brand may — https://x.com/travis_mcewan/status/2088656209180242228
 - @GlennNieuwenh (19L/6BM/1kV): If I took over a struggling store tomorrow... I wouldn't open the ads manager on day one: I'd start with the numbers. First, a real P&L. - Cost of goods and shi — https://x.com/GlennNieuwenh/status/2093369535248154778
-- @zakburgers (17L/4BM/1kV): II find it kinda crazy when I onboard brands that are doing 7 figs a month and they don't have email flows Just imagine the math behind email sales Say you've g — https://x.com/zakburgers/status/2080407812891455789

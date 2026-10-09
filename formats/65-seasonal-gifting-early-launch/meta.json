@@ -3,7 +3,7 @@
  "slug": "65-seasonal-gifting-early-launch",
  "name": "Seasonal gifting campaign — launch 3-4 weeks early, urgency only in the final week",
  "title": "65 · Seasonal gifting campaign — launch 3-4 weeks early, urgency only in the final week",
- "n_examples": 7,
+ "n_examples": 8,
  "n_curated": 0,
  "n_candidates": 7,
  "stages": [
@@ -37,6 +37,20 @@
   }
  ],
  "examples": [
+  {
+   "id": "1733284392045543691",
+   "file": "0000-00-00-PowerbyMomBlog-1733284392045543691.md",
+   "kind": "cited",
+   "author": "PowerbyMomBlog",
+   "date": "",
+   "url": "https://x.com/PowerbyMomBlog/status/1733284392045543691",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
   {
    "id": "2098058544654450850",
    "file": "2026-09-10-herrmanndigital-2098058544654450850.md",

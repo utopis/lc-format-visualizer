@@ -2,7 +2,7 @@
 
 [![The example: storyboard of @rsalimx's post](example/storyboard.jpg)](https://x.com/rsalimx/status/2108259483902513153)
 
-**The example:** [@rsalimx on X](https://x.com/rsalimx/status/2108259483902513153) · 2 images · 103 likes, 6K views
+**The example:** [@rsalimx on X](https://x.com/rsalimx/status/2108259483902513153) · 2 images · 149 likes, 9K views
 
 **Watch it:** [open the post on X](https://x.com/rsalimx/status/2108259483902513153)
 
@@ -25,8 +25,8 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 
 | | | |
 |---|---|---|
-| [![@rsalimx](example/more/2107517609960702306.jpg)](https://x.com/rsalimx/status/2107517609960702306)<br>**@rsalimx** · images · 6K views<br>Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it). | [![@_afterblossom_](example/more/2095194062756413781.jpg)](https://x.com/_afterblossom_/status/2095194062756413781)<br>**@_afterblossom_** · images · 35K views<br>Throwing back this piece to see in the new carousel format https://t.co/rOPT5RDzKO | [![@rustybrick](example/more/2085121962976661782.jpg)](https://x.com/rustybrick/status/2085121962976661782)<br>**@rustybrick** · image · 5K views<br>ChatGPT Ads Product Updates including multi-product carousel format for product feed campaigns https://t.co/TWMRyCOCy2 |
-| [![@glenngabe](example/more/2085345793343377737.jpg)](https://x.com/glenngabe/status/2085345793343377737)<br>**@glenngabe** · image · 2K views<br>ChatGPT Ads update -&gt; ChatGPT is testing a multi-product carousel format for product feed campaigns "We’ve started testing a carousel format for pr | [![@kajiiaura](example/more/2085392121830515010.jpg)](https://x.com/kajiiaura/status/2085392121830515010)<br>**@kajiiaura** · 0:06 video · 737 views<br>bruh the carousel format ruined this https://t.co/RhNKJbSkOJ |   |
+| [![@rsalimx](example/more/2107517609960702306.jpg)](https://x.com/rsalimx/status/2107517609960702306)<br>**@rsalimx** · images · 6K views<br>Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it). | [![@PerezHatesAI](example/more/2106779894785188006.jpg)](https://x.com/PerezHatesAI/status/2106779894785188006)<br>**@PerezHatesAI** · images · 2K views<br>This is wild 😭 4.3M views. 250K saves. On a "weird habits" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that "actually | [![@_afterblossom_](example/more/2095194062756413781.jpg)](https://x.com/_afterblossom_/status/2095194062756413781)<br>**@_afterblossom_** · images · 35K views<br>Throwing back this piece to see in the new carousel format https://t.co/rOPT5RDzKO |
+| [![@rustybrick](example/more/2085121962976661782.jpg)](https://x.com/rustybrick/status/2085121962976661782)<br>**@rustybrick** · image · 5K views<br>ChatGPT Ads Product Updates including multi-product carousel format for product feed campaigns https://t.co/TWMRyCOCy2 | [![@glenngabe](example/more/2085345793343377737.jpg)](https://x.com/glenngabe/status/2085345793343377737)<br>**@glenngabe** · image · 2K views<br>ChatGPT Ads update -&gt; ChatGPT is testing a multi-product carousel format for product feed campaigns "We’ve started testing a carousel format for pr |   |
 
 ## How to make one like it
 
@@ -112,7 +112,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2b update — carousel sub-types (GetHookd library)](README.md)
+Newer observations live in the playbook: [Wave 2b update — carousel sub-types (GetHookd library)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

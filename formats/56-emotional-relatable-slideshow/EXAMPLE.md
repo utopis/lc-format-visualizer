@@ -25,12 +25,13 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 5 | 0:06–0:08 | 11:06 00:08 ron a 253.7% 233.7K ws 480.1K mind Pa ans Aha cB rE hem, tin ae nt: ME BON ca me fo ks with ne pure: by no every looks 134.9K 1,964 Ge an NT raul rd | · |
 | 6 | 0:08–0:09 | · | · |
 
-## More real examples (3)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
+| [![@simonecanciello](example/more/2092704268734099547.jpg)](https://x.com/simonecanciello/status/2092704268734099547)<br>**@simonecanciello** · 0:08 video · 15K views<br>this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching f | [![@consumerxai](example/more/2092629155036987751.jpg)](https://x.com/consumerxai/status/2092629155036987751)<br>**@consumerxai** · 0:15 video · 1K views<br>‼️Tiktok Outlier Alert ‼️ 📉 585K Views, 133K Likes, 322 Comments, 28K Shares, 11K Saves 🧐What this is: > A silent travel-footage slideshow you can use | [![@tellenne_](example/more/2106759383656849698.jpg)](https://x.com/tellenne_/status/2106759383656849698)<br>**@tellenne_** · image · 912 views<br>A skincare app promoting across 20 US TikTok accounts (no ads, $0.21 CPM). I analyzed 30 of its carousels in TokPortal: • 786,527 total views • 3,152 |
 | [![@g_buildz_apps](example/more/2108234459241935255.jpg)](https://x.com/g_buildz_apps/status/2108234459241935255)<br>**@g_buildz_apps** · image · 390 views<br>"Post emotional slideshows on TikTok" — one slideshow: 13.3K views, 2,881 likes, 802 shares, 313 saves (TikTok Studio screenshot). | [![@Dkevs_](example/more/2100425887636472312.jpg)](https://x.com/Dkevs_/status/2100425887636472312)<br>**@Dkevs_** · 0:05 video · 4K views<br>$200K MRR app via TikTok slideshows; don't overcomplicate with clippers. | [![@BrunoF566](example/more/2095543004626890752.jpg)](https://x.com/BrunoF566/status/2095543004626890752)<br>**@BrunoF566** · image · 3K views<br>TikTok slideshows are being used completely wrong. Most people treat them like a lottery ticket. Post the same recycled hooks, hope one goes viral, th |
 
 ## How to make one like it
@@ -143,6 +144,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - No reason to save: give a list, a checklist or a reference people come back to.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Real stories with consent or clearly the brand's own voice; no fabricated testimonials. - Sensitive topics (illness, grief) only with explicit consent and care.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

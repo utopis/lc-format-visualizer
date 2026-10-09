@@ -3,7 +3,7 @@
  "slug": "74-verbatim-review-static",
  "name": "'The Verbatim': one raw customer review as the whole creative",
  "title": "74 · \"The Verbatim\": one raw customer review as the whole creative",
- "n_examples": 5,
+ "n_examples": 7,
  "n_curated": 1,
  "n_candidates": 3,
  "stages": [
@@ -65,6 +65,34 @@
    "media": [
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2108212319113412929",
+   "file": "2026-10-08-FedotOff90-2108212319113412929.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-10-08",
+   "url": "https://x.com/FedotOff90/status/2108212319113412929",
+   "eng": "18L/22BM/1kV",
+   "grade": "",
+   "gist": "Complete breakdown of 420 gut health ads winning on Meta (save this). Gut health is one of the biggest money printers on Meta right now. Bloating, digestion, probiotics, every angl",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107818233302528335",
+   "file": "0000-00-00-CreatorSaad-2107818233302528335.md",
+   "kind": "cited",
+   "author": "CreatorSaad",
+   "date": "",
+   "url": "https://x.com/CreatorSaad/status/2107818233302528335",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

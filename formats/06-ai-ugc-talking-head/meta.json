@@ -58,7 +58,7 @@
    "author": "kristian_jennin",
    "date": "2026-09-19",
    "url": "https://x.com/kristian_jennin/status/2101352217089282066",
-   "eng": "1123L/3024BM/231kV",
+   "eng": "1124L/3024BM/231kV",
    "grade": "VALUE",
    "gist": "AI UGC looks fake because of a missing step (realism workflow video).",
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2101317945678868481/img/IYNqguRLj6oRPWtL.jpg",
@@ -92,7 +92,7 @@
    "author": "zedmadeit",
    "date": "2026-10-06",
    "url": "https://x.com/zedmadeit/status/2107552798842003488",
-   "eng": "347L/472BM/20kV",
+   "eng": "348L/473BM/20kV",
    "grade": "SOME",
    "gist": "Intentional AI ad system starting from brand/product/customer, visuals matched to script.",
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107552585942986752/img/pWxNgiGDwm2SQTtK.jpg",
@@ -429,6 +429,23 @@
    "transcript": false
   },
   {
+   "id": "2108113354178932920",
+   "file": "2026-10-08-traqscales-2108113354178932920.md",
+   "kind": "curated",
+   "author": "traqscales",
+   "date": "2026-10-08",
+   "url": "https://x.com/traqscales/status/2108113354178932920",
+   "eng": "22L/27BM/1kV",
+   "grade": "VALUE",
+   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108113307915653120/img/MYOYI-DzIZgRfisC.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
    "id": "2090437914052227288",
    "file": "2026-08-20-rewind02-2090437914052227288.md",
    "kind": "curated",
@@ -476,20 +493,6 @@
     "video",
     "video"
    ],
-   "transcript": true
-  },
-  {
-   "id": "2108113354178932920",
-   "file": "2026-10-08-traqscales-2108113354178932920.md",
-   "kind": "curated",
-   "author": "traqscales",
-   "date": "2026-10-08",
-   "url": "https://x.com/traqscales/status/2108113354178932920",
-   "eng": "0L/0BM/0V",
-   "grade": "VALUE",
-   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
-   "thumb": "",
-   "media": [],
    "transcript": true
   },
   {

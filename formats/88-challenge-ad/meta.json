@@ -3,7 +3,7 @@
  "slug": "88-challenge-ad",
  "name": "Challenge ad ('the 30-day never-take-it-off challenge')",
  "title": "88 · Challenge ad (\"the 30-day never-take-it-off challenge\")",
- "n_examples": 8,
+ "n_examples": 9,
  "n_curated": 0,
  "n_candidates": 8,
  "stages": [
@@ -37,6 +37,20 @@
   }
  ],
  "examples": [
+  {
+   "id": "2104901293190119594",
+   "file": "0000-00-00-0xShahzaib_-2104901293190119594.md",
+   "kind": "cited",
+   "author": "0xShahzaib_",
+   "date": "",
+   "url": "https://x.com/0xShahzaib_/status/2104901293190119594",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
   {
    "id": "2094998935949427016",
    "file": "2026-09-02-KimRaceRod-2094998935949427016.md",

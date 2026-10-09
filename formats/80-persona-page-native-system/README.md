@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P3** · evidence: High (many large advertisers) · hype risk: High · cost $0-200 · ongoing
 
 ## What it is
@@ -95,6 +98,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - **LC stance:** one brand Page + disclosed founder/creator Pages only. No invented doctors, experts or review "reports".
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Menopause bracelet: 1,592 active Meta ads, 107 days straight, 58.9% US; UK women's health untapped ([@vincenzo_micale](https://x.com/vincenzo_micale/status/2105349586717950002)).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

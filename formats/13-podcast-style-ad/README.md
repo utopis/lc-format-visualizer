@@ -22,6 +22,9 @@ related_strategies: [31-founder-daily-posting-product-as-ad, 34-persona-archetyp
 
 
 
+
+
+
 ## Looks like
 Two people at podcast mics, warm studio, captions; clip starts mid-conversation with a strong opinion; host asks the question the viewer has; guest explains; product mentioned naturally. "They're not trying to make a podcast ad feel like an ad" ([@tryatria_AI](https://x.com/tryatria_AI/status/2097763972325745046)). "Best format for anything that needs explaining" ([@CEO_Vlad](https://x.com/CEO_Vlad/status/2096569603761827953)).
 
@@ -45,6 +48,9 @@ Real: rent a podcast studio 2h → 15 clips. Metric: hold, CPA, Omni. Founder fa
 - LC: a real jeweller or materials scientist as the guest; the host asks the skeptic's question ("why does my gold turn green?").
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- One TikTok account posting podcast-style talking-head clips (1M-10M views each) feeds several apps at once; one journaling app got 40K downloads from it ([@sixugc](https://x.com/sixugc/status/2088316130070790246)). Distribution play: rent placements in an existing clip account instead of building your own.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

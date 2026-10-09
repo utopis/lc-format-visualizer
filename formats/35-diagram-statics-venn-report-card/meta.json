@@ -5,7 +5,7 @@
  "title": "35 · Diagram statics: Venn, report card, comparison chart, us-vs-them grid",
  "n_examples": 13,
  "n_curated": 5,
- "n_candidates": 7,
+ "n_candidates": 6,
  "stages": [
   {
    "stage": "Find",
@@ -128,6 +128,25 @@
    "transcript": false
   },
   {
+   "id": "2096337779412304217",
+   "file": "2026-09-05-Hashir_Shaikh_-2096337779412304217.md",
+   "kind": "cited",
+   "author": "Hashir_Shaikh_",
+   "date": "2026-09-05",
+   "url": "https://x.com/Hashir_Shaikh_/status/2096337779412304217",
+   "eng": "127L/111BM/5kV",
+   "grade": "",
+   "gist": "We make 1,000+ statics every month. Around 10% are Us vs Them. Because showing the difference can be more powerful than simply talking about your product. Show people what they’re ",
+   "thumb": "https://pbs.twimg.com/media/HRewFwda0AAhOwe.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2088266872194023737",
    "file": "2026-08-14-EiyanDickerson-2088266872194023737.md",
    "kind": "candidate",
@@ -138,25 +157,6 @@
    "grade": "",
    "gist": "4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYhthrj2t",
    "thumb": "https://pbs.twimg.com/media/HPsDpxYWAAAUdQk.jpg",
-   "media": [
-    "photo",
-    "photo",
-    "photo",
-    "photo"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2096337779412304217",
-   "file": "2026-09-05-Hashir_Shaikh_-2096337779412304217.md",
-   "kind": "candidate",
-   "author": "Hashir_Shaikh_",
-   "date": "2026-09-05",
-   "url": "https://x.com/Hashir_Shaikh_/status/2096337779412304217",
-   "eng": "127L/111BM/5kV",
-   "grade": "",
-   "gist": "We make 1,000+ statics every month. Around 10% are Us vs Them. Because showing the difference can be more powerful than simply talking about your product. Show people what they’re ",
-   "thumb": "https://pbs.twimg.com/media/HRewFwda0AAhOwe.jpg",
    "media": [
     "photo",
     "photo",

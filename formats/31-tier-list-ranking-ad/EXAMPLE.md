@@ -44,13 +44,13 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
-## More real examples (1)
+## More real examples (2)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@adswithcami](example/more/2095208948764668068.jpg)](https://x.com/adswithcami/status/2095208948764668068)<br>**@adswithcami** · image · 2K views<br>I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best |   |   |
+| [![@adamtwtz](example/more/2097925109155549689.jpg)](https://x.com/adamtwtz/status/2097925109155549689)<br>**@adamtwtz** · 0:20 video · 9K views<br>there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take | [![@adswithcami](example/more/2095208948764668068.jpg)](https://x.com/adswithcami/status/2095208948764668068)<br>**@adswithcami** · image · 2K views<br>I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best |   |
 
 ## How to make one like it
 
@@ -172,6 +172,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Rank generic categories, not named competitors; statements about other materials must be accurate and general. - No fake "expert" credentials (see _COMPLIANCE §6).
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

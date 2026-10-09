@@ -19,6 +19,24 @@
  "beats": [],
  "more": [
   {
+   "id": "2106779894785188006",
+   "author": "PerezHatesAI",
+   "url": "https://x.com/PerezHatesAI/status/2106779894785188006",
+   "thumb": "example/more/2106779894785188006.jpg",
+   "kind": "images",
+   "cap": "This is wild \ud83d\ude2d 4.3M views. 250K saves. On a \"weird habits\" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that \"actually",
+   "views": 1912
+  },
+  {
+   "id": "2108259483902513153",
+   "author": "rsalimx",
+   "url": "https://x.com/rsalimx/status/2108259483902513153",
+   "thumb": "example/more/2108259483902513153.jpg",
+   "kind": "images",
+   "cap": "nah this is actually insane \ud83d\ude2d the account has posts sitting at 40m views and the app is doing ~$10k mrr off it recipes are the most natural slideshow ",
+   "views": 5622
+  },
+  {
    "id": "2107517609960702306",
    "author": "rsalimx",
    "url": "https://x.com/rsalimx/status/2107517609960702306",
@@ -53,24 +71,6 @@
    "kind": "0:16 video",
    "cap": "GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip.",
    "views": 7646
-  },
-  {
-   "id": "2100425887636472312",
-   "author": "Dkevs_",
-   "url": "https://x.com/Dkevs_/status/2100425887636472312",
-   "thumb": "example/more/2100425887636472312.jpg",
-   "kind": "0:05 video",
-   "cap": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
-   "views": 4461
-  },
-  {
-   "id": "2082847934841049519",
-   "author": "mufvza",
-   "url": "https://x.com/mufvza/status/2082847934841049519",
-   "thumb": "example/more/2082847934841049519.jpg",
-   "kind": "0:18 video",
-   "cap": "Analysis of 1,000 app slideshows: most-viewed != most installs; track saves/profile clicks per slideshow.",
-   "views": 44232
   }
  ]
 }

@@ -3,7 +3,7 @@
  "slug": "56-emotional-relatable-slideshow",
  "name": "Emotional + relatable TikTok slideshow (share-bait story slides)",
  "title": "56 · Emotional + relatable TikTok slideshow (share-bait story slides)",
- "n_examples": 12,
+ "n_examples": 15,
  "n_curated": 3,
  "n_candidates": 9,
  "stages": [
@@ -79,6 +79,52 @@
    "eng": "0L/1BM/172V",
    "grade": "SOME",
    "gist": "Emotional slideshows do better every time and convert better (claim).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092704268734099547",
+   "file": "2026-08-26-simonecanciello-2092704268734099547.md",
+   "kind": "cited",
+   "author": "simonecanciello",
+   "date": "2026-08-26",
+   "url": "https://x.com/simonecanciello/status/2092704268734099547",
+   "eng": "47L/77BM/15kV",
+   "grade": "",
+   "gist": "this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching for “long distance relationship",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092704215634210816/img/jGu3u0nzhdGGmslk.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2092629155036987751",
+   "file": "2026-08-26-consumerxai-2092629155036987751.md",
+   "kind": "cited",
+   "author": "consumerxai",
+   "date": "2026-08-26",
+   "url": "https://x.com/consumerxai/status/2092629155036987751",
+   "eng": "7L/11BM/1kV",
+   "grade": "SOME",
+   "gist": "Outlier: silent travel-footage slideshow with long-distance text hook → widget demo, 585K views/28K shares.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092629141313273856/img/rwNGMOgMA1LgtqRg.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2106759383656849698",
+   "file": "2026-10-04-tellenne_-2106759383656849698.md",
+   "kind": "cited",
+   "author": "tellenne_",
+   "date": "2026-10-04",
+   "url": "https://x.com/tellenne_/status/2106759383656849698",
+   "eng": "10L/8BM/912V",
+   "grade": "",
+   "gist": "A skincare app promoting across 20 US TikTok accounts (no ads, $0.21 CPM). I analyzed 30 of its carousels in TokPortal: • 786,527 total views • 3,152 median views • 83% of the view",
    "thumb": "",
    "media": [],
    "transcript": false

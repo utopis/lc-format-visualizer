@@ -87,6 +87,6 @@ See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
 - @FedotOff90 (68L/98BM/6kV): 777 native images + long-form copy swipe board. — https://x.com/FedotOff90/status/2104253649346068682
 - @FedotOff90 (41L/53BM/5kV): "The ugly ads print" — weird visuals stop the scroll, long copy sells; 122-ad Native Unusual Visuals board. — https://x.com/FedotOff90/status/2107184145541853536
-- @Simon__Rob (51L/79BM/5kV): this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats convince war — https://x.com/Simon__Rob/status/2089448804676239424
 - @alexgoughcooper (61L/60BM/9kV): This video did 32M views and is a masterclass in ugly ads. Why? Because it’s authentic. You keep trying to make ‘UGC’ or ‘ugly ads’ that are fully scripted. But — https://x.com/alexgoughcooper/status/2092657905002529270
+- @Simon__Rob (51L/79BM/5kV): this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats convince war — https://x.com/Simon__Rob/status/2089448804676239424
 - @dileshumale (10L/3BM/775V): Animate those ugly static ads. Thank me later. — https://x.com/dileshumale/status/2105897021328757090

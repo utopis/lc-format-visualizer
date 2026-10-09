@@ -85,10 +85,10 @@ Using real stories {{CUSTOMER_STORIES}} (with consent), write 6 first-person nat
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (19 posts). Top 5:
+See [examples/README.md](examples/README.md) (20 posts). Top 5:
 
 - @FedotOff90 (0L/0BM/0V): Prime Prometics x-ray: 2,828 active ads, 24 avatars (6 life-event), ~28 narrator personas across 15 pages — persona-page scale pattern + MCP prompt. — https://x.com/FedotOff90/status/2108188222710862166
 - @funneloftheweek (0L/0BM/0V): Resilia: 12 persona Pages → one 7-min advertorial (30-50% of traffic), 3-4 copy templates × hundreds of creatives, 544 new ads/30d, OTO flow $30→$83. — https://x.com/funneloftheweek/status/2044464896104857850
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
 - @Seanfrank (140L/113BM/55kV): "Ill just whitelist" Whitelisting is fine. But meta is REWARDING accounts that commit to partnership ads. This is fully tin foil hat theory now... but I have se — https://x.com/Seanfrank/status/2094988024211812654
-- @FedotOff90 (52L/120BM/12kV): $12.3M raised. Close to $1 billion valuation. 5 awareness levels. 12 distinct avatars. Dose Daily is pushing some serious volume with their ads. Full ad competi — https://x.com/FedotOff90/status/2091553134879412673
+- @vincenzo_micale (50L/69BM/4kV): Menopause bracelet brand: 1,592 active Meta ads, 107 days, 59% US — saturation-level creative volume in wearable/jewelry. — https://x.com/vincenzo_micale/status/2105349586717950002

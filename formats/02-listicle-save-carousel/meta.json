@@ -3,7 +3,7 @@
  "slug": "02-listicle-save-carousel",
  "name": "Listicle save-carousel (one item per slide)",
  "title": "02 · Listicle save-carousel",
- "n_examples": 12,
+ "n_examples": 13,
  "n_curated": 3,
  "n_candidates": 9,
  "stages": [
@@ -44,11 +44,30 @@
    "author": "MaxHirsch13",
    "date": "2026-10-08",
    "url": "https://x.com/MaxHirsch13/status/2108340891601748034",
-   "eng": "75L/224BM/3kV",
+   "eng": "144L/398BM/6kV",
    "grade": "VALUE",
    "gist": "Exact agent prompt for 6-slide carousel: candid wide photo + '5 ways to get [result]' hook, slides 2-6 one tip each.",
    "thumb": "https://pbs.twimg.com/media/HUJUxNRa0AAzgUd.jpg",
    "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108259483902513153",
+   "file": "2026-10-08-rsalimx-2108259483902513153.md",
+   "kind": "curated",
+   "author": "rsalimx",
+   "date": "2026-10-08",
+   "url": "https://x.com/rsalimx/status/2108259483902513153",
+   "eng": "149L/213BM/9kV",
+   "grade": "VALUE",
+   "gist": "Recipe slideshows (one meal per slide) hit 40M views; app = 'all of this in your pocket'. Save-bait listicle.",
+   "thumb": "https://pbs.twimg.com/media/HUIKxtVWcAA_hiw.jpg",
+   "media": [
+    "photo",
+    "photo",
     "photo",
     "photo"
    ],
@@ -74,16 +93,16 @@
    "transcript": true
   },
   {
-   "id": "2108259483902513153",
-   "file": "2026-10-08-rsalimx-2108259483902513153.md",
-   "kind": "curated",
-   "author": "rsalimx",
-   "date": "2026-10-08",
-   "url": "https://x.com/rsalimx/status/2108259483902513153",
-   "eng": "103L/146BM/6kV",
-   "grade": "VALUE",
-   "gist": "Recipe slideshows (one meal per slide) hit 40M views; app = 'all of this in your pocket'. Save-bait listicle.",
-   "thumb": "https://pbs.twimg.com/media/HUIKxtVWcAA_hiw.jpg",
+   "id": "2106779894785188006",
+   "file": "2026-10-04-PerezHatesAI-2106779894785188006.md",
+   "kind": "cited",
+   "author": "PerezHatesAI",
+   "date": "2026-10-04",
+   "url": "https://x.com/PerezHatesAI/status/2106779894785188006",
+   "eng": "48L/68BM/2kV",
+   "grade": "",
+   "gist": "This is wild 😭 4.3M views. 250K saves. On a \"weird habits\" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that \"actually work\". And somewhere in the m",
+   "thumb": "https://pbs.twimg.com/media/HTzJJGha4AAhypR.jpg",
    "media": [
     "photo",
     "photo",

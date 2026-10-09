@@ -66,7 +66,7 @@ Claude writes 10 episode outlines from LC personas; AI video (Seedance/Veo/Kling
 See [examples/README.md](examples/README.md) (15 posts). Top 5:
 
 - @adamtaylorl (381L/593BM/77kV): Resilia mastered storytelling ads -> $100M/yr. — https://x.com/adamtaylorl/status/2099815494434099379
-- @frankyecom (281L/437BM/66kV): Women want shows: characters, drama, payoff; build entertainment first, slot product in. — https://x.com/frankyecom/status/2106833649970684195
+- @frankyecom (282L/437BM/67kV): Women want shows: characters, drama, payoff; build entertainment first, slot product in. — https://x.com/frankyecom/status/2106833649970684195
 - @frankyecom (344L/248BM/54kV): AI UGC dominating; women consume ads differently (story/drama) - creative strategist takeaway. — https://x.com/frankyecom/status/2105377535345258584
 - @frankyecom (206L/182BM/11kV): Best drama ads let viewer see the version of herself she wants to become. — https://x.com/frankyecom/status/2108308896813326775
 - @frankyecom (215L/116BM/22kV): Cinematic realistic AI ads in scrutinized categories (GLP). — https://x.com/frankyecom/status/2105732607208026318

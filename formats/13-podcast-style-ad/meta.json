@@ -3,7 +3,7 @@
  "slug": "13-podcast-style-ad",
  "name": "Podcast-style ad (two mics, conversation clip)",
  "title": "13 · Podcast-style ad",
- "n_examples": 12,
+ "n_examples": 13,
  "n_curated": 4,
  "n_candidates": 8,
  "stages": [
@@ -101,6 +101,20 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2088316130070790246",
+   "file": "2026-08-14-sixugc-2088316130070790246.md",
+   "kind": "cited",
+   "author": "sixugc",
+   "date": "2026-08-14",
+   "url": "https://x.com/sixugc/status/2088316130070790246",
+   "eng": "6L/3BM/233V",
+   "grade": "",
+   "gist": "genuinely confused why apps still don't get it they need to scale with content not ads found one tiktok account posting podcast style talking head clips single videos pulling 1m to",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2104949773539442831",

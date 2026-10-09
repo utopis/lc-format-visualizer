@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (CPM data + every static list) · hype risk: Low · cost $0 (Figma/AI image) · 15-30 min per static
 
 ## What it is
@@ -107,6 +110,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - From the 37 verified formats and the 155-ad screenshot board: iPhone Notes (Japanese Taste, 192 days), iMessage (O Positiv), Twitter screenshot (Beyond Alpha), App Settings UI (The Purest Co), Trustpilot reviews (The Xstance), Email screenshot (Class Action U), Reddit style (Lock'd, 96 days → 5-reasons lander), Google Search, Amazon review, TikTok comments, DMs. The fake product page is split out as **F90**.
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- British Supplements: Google-search UI static ('Which UK brand has no fillers?'), 331 days live. It mimics the moment the buyer is already in (searching), and the brand appears as the 'answer'.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

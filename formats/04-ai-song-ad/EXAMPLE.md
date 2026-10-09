@@ -165,7 +165,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: the Resilia / Smooche sung-drama VSL blueprint](README.md)
+Newer observations live in the playbook: [Wave 2d update: the Resilia / Smooche sung-drama VSL blueprint](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

@@ -89,5 +89,6 @@ Write a click-to-message ad (15s script + primary text) and a 4-step welcome flo
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (0 posts). Top 5:
+See [examples/README.md](examples/README.md) (1 posts). Top 5:
 
+- @aura_alloy (0L/0BM/0V):  — https://x.com/aura_alloy/status/1982632501110812979

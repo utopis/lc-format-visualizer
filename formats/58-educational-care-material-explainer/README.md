@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (vendor library) · hype risk: Low · cost $0 · 20-40 min
 
 ## What it is
@@ -88,6 +91,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [34-callout-statics-signs-myths-warnings](../34-callout-statics-signs-myths-warnings/README.md), [39-x-reasons-why](../39-x-reasons-why/README.md), [48-the-dm-i-get-every-day](../48-the-dm-i-get-every-day/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Libby Babet: Women's-body myth-bust talking head (fitness coach), 305 days live. 'Women's bodies react differently' is an identity hook; the product arrives as the personal fix after 60 s of genuine education; the empty-wrapper detail is proof of real use.
+- Pinch Magic Fiber: Presenter explainer with 'this is what 30 g of fiber looks like', 288 days live. The 'what X looks like' visual turns an abstract number into a pile of food the viewer can't eat daily, so the product becomes the shortcut; comparison table handles 'all fiber is the same'.
+- WebMD: Editorial flat-lay food static (WebMD 'Polyphenols'), 253 days live. Looks like editorial content, not an ad; curiosity click to an article.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -167,6 +167,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Real, disclosed creators only. No AI doctors/nutritionists or fake persona Pages: Resilia runs 12 authority-persona Pages (e.g. "Dr. Anna Reyes", "Nutritionist Allison Langford, PhD"), and Rosabella is being sued over AI "doctors" (404 Media / Humann v. Ambrosia). - Keep claims identical across takes so compliance review happens once.
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).

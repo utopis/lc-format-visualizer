@@ -1,0 +1,86 @@
+{
+ "id": "F102",
+ "slug": "102-pinterest-pic-recreation-reveal",
+ "name": "Pinterest-pic recreation reveal (\\\"I recreated this Pinterest photo with me in it\\\")",
+ "title": "102 · Pinterest-pic recreation reveal (\"I recreated this Pinterest photo with me in it\")",
+ "n_examples": 3,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2061578473370501423",
+   "file": "2026-06-01-ErnestoSOFTWARE-2061578473370501423.md",
+   "kind": "cited",
+   "author": "ErnestoSOFTWARE",
+   "date": "2026-06-01",
+   "url": "https://x.com/ErnestoSOFTWARE/status/2061578473370501423",
+   "eng": "380L/706BM/60kV",
+   "grade": "",
+   "gist": "This is literally a $1M app idea...😭 This post has over 2 million views and 12k+ comments asking for the app its literally just an app that helps you replicate aesthetic pictures. ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2102046332970013078",
+   "file": "2026-09-21-simonecanciello-2102046332970013078.md",
+   "kind": "cited",
+   "author": "simonecanciello",
+   "date": "2026-09-21",
+   "url": "https://x.com/simonecanciello/status/2102046332970013078",
+   "eng": "56L/65BM/18kV",
+   "grade": "",
+   "gist": "who’s building this $1M app? take a pic of yourself + pick any pic you want to recreate from pinterest. the app recreates the exact same pic, but replaces the girl with you. this m",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082813772373098530",
+   "file": "2026-07-30-onlinedopamine-2082813772373098530.md",
+   "kind": "cited",
+   "author": "onlinedopamine",
+   "date": "2026-07-30",
+   "url": "https://x.com/onlinedopamine/status/2082813772373098530",
+   "eng": "34L/39BM/3kV",
+   "grade": "",
+   "gist": "these are the types of outsized organic views you get on new accounts when you nail &gt; understanding of your target audience (= pinterest aesthetic girlies) &gt; have one visuall",
+   "thumb": "https://pbs.twimg.com/media/HOejShaWQAAHZq_.jpg",
+   "media": [
+    "photo",
+    "video"
+   ],
+   "transcript": false
+  }
+ ]
+}

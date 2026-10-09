@@ -5,7 +5,7 @@
  "title": "25 · Sweepstakes campaign",
  "n_examples": 4,
  "n_curated": 1,
- "n_candidates": 3,
+ "n_candidates": 2,
  "stages": [
   {
    "stage": "Find",
@@ -57,7 +57,7 @@
   {
    "id": "2080703453853282629",
    "file": "2026-07-24-Seanfrank-2080703453853282629.md",
-   "kind": "candidate",
+   "kind": "cited",
    "author": "Seanfrank",
    "date": "2026-07-24",
    "url": "https://x.com/Seanfrank/status/2080703453853282629",

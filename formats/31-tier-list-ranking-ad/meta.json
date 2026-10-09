@@ -3,7 +3,7 @@
  "slug": "31-tier-list-ranking-ad",
  "name": "Tier-list / ranking ad",
  "title": "31 · Tier-list / ranking ad",
- "n_examples": 11,
+ "n_examples": 13,
  "n_curated": 7,
  "n_candidates": 3,
  "stages": [
@@ -154,6 +154,39 @@
    "thumb": "https://pbs.twimg.com/media/HUG8u7SXgAAbtrp.jpg",
    "media": [
     "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2097925109155549689",
+   "file": "2026-09-10-adamtwtz-2097925109155549689.md",
+   "kind": "cited",
+   "author": "adamtwtz",
+   "date": "2026-09-10",
+   "url": "https://x.com/adamtwtz/status/2097925109155549689",
+   "eng": "92L/175BM/9kV",
+   "grade": "VALUE",
+   "gist": "Symmetry gym app: 150k downloads/mo off one slideshow format, no ads (AI body scan before/after).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097922754431623169/img/kq1m1HLmuTFqvp1r.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2098014748570739055",
+   "file": "2026-09-10-deepbajwacreate-2098014748570739055.md",
+   "kind": "cited",
+   "author": "deepbajwacreate",
+   "date": "2026-09-10",
+   "url": "https://x.com/deepbajwacreate/status/2098014748570739055",
+   "eng": "0L/0BM/21V",
+   "grade": "",
+   "gist": "Good morning X ☀️ Starting the day with a recent UGC example I created for Ecom Degree. For this one, I used a tier-list format to rank popular side hustles, keep the hook interest",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098014630513725443/img/aS2gD1V5GffMaCUQ.jpg",
+   "media": [
+    "video"
    ],
    "transcript": false
   },

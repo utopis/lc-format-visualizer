@@ -64,7 +64,7 @@ Claude writes 10 stories from review themes (gift moments, beach trip, wedding, 
 See [examples/README.md](examples/README.md) (27 posts). Top 5:
 
 - @EcomTable (285L/418BM/21kV): Ad-spy filters: top 10-25%, image, active, 14+ day run, 2,500+ char copy -> find long-copy native winners. — https://x.com/EcomTable/status/2100980324633063694
-- @antonioventre_ (241L/365BM/20kV): Story ad >1M reach: wife/work-wife anniversary drama, no product in first 40 words, revenge payoff. — https://x.com/antonioventre_/status/2107899522353381868
+- @antonioventre_ (270L/389BM/20kV): Story ad >1M reach: wife/work-wife anniversary drama, no product in first 40 words, revenge payoff. — https://x.com/antonioventre_/status/2107899522353381868
 - @antonioventre_ (131L/233BM/18kV): Illustrated story-based ad: long primary text, ad sells next line, advertorial closes. — https://x.com/antonioventre_/status/2083619527170871298
 - @tryatria_AI (73L/98BM/4kV): Static hook 'My sister slept with my husband' vs generic benefit lines. — https://x.com/tryatria_AI/status/2105745816828940336
 - @dep_hart (65L/90BM/5kV): Native ads: mirror ad (ICP sees herself), news-article copy, interview-style advertorial. — https://x.com/dep_hart/status/2076056430986309814

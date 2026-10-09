@@ -5,7 +5,7 @@
  "title": "64 · Reminder / retargeting sequence ads (abandoned cart, countdown, back-in-stock, wishlist, cross-sell)",
  "n_examples": 10,
  "n_curated": 0,
- "n_candidates": 10,
+ "n_candidates": 9,
  "stages": [
   {
    "stage": "Find",
@@ -37,6 +37,22 @@
   }
  ],
  "examples": [
+  {
+   "id": "2080679066693492819",
+   "file": "2026-07-24-aakashkapil01-2080679066693492819.md",
+   "kind": "cited",
+   "author": "aakashkapil01",
+   "date": "2026-07-24",
+   "url": "https://x.com/aakashkapil01/status/2080679066693492819",
+   "eng": "2L/1BM/2kV",
+   "grade": "",
+   "gist": "You're not losing money because your ads suck. You're losing money because people who were ready to buy... leave. Most 6-figure health brands never get them back. Here's the abando",
+   "thumb": "https://pbs.twimg.com/media/HOANW6tbsAEcYxz.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
   {
    "id": "2080955204304769061",
    "file": "2026-07-25-bogdan_ai-2080955204304769061.md",
@@ -165,22 +181,6 @@
    "gist": "The most underrated asset in your eCom business is probably sitting completely unused right now: Your email list. Most eCom stores are built around one pipe: paid traffic. Ads are ",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2080679066693492819",
-   "file": "2026-07-24-aakashkapil01-2080679066693492819.md",
-   "kind": "candidate",
-   "author": "aakashkapil01",
-   "date": "2026-07-24",
-   "url": "https://x.com/aakashkapil01/status/2080679066693492819",
-   "eng": "2L/1BM/2kV",
-   "grade": "",
-   "gist": "You're not losing money because your ads suck. You're losing money because people who were ready to buy... leave. Most 6-figure health brands never get them back. Here's the abando",
-   "thumb": "https://pbs.twimg.com/media/HOANW6tbsAEcYxz.jpg",
-   "media": [
-    "photo"
-   ],
    "transcript": false
   }
  ]

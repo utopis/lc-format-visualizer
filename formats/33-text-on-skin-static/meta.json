@@ -3,7 +3,7 @@
  "slug": "33-text-on-skin-static",
  "name": "Text-on-skin / text-on-palm static",
  "title": "33 · Text-on-skin / text-on-palm static",
- "n_examples": 5,
+ "n_examples": 6,
  "n_curated": 5,
  "n_candidates": 0,
  "stages": [
@@ -107,6 +107,20 @@
    "eng": "3L/2BM/1kV",
    "grade": "SOME",
    "gist": "Same 40-format list (adds claymation, AI podcast).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "1919120416485855259",
+   "file": "0000-00-00-Outscaler-1919120416485855259.md",
+   "kind": "cited",
+   "author": "Outscaler",
+   "date": "",
+   "url": "https://x.com/Outscaler/status/1919120416485855259",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

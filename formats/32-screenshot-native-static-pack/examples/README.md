@@ -1,6 +1,6 @@
 # Examples · 32 · Screenshot-native static pack (iPhone Notes, text thread, Reddit, email, Google, IG story/DM, Trustpilot)
 
-Every X post we hold for this format: **8** (8 curated, 0 cited in the playbook, 0 auto-matched candidates).
+Every X post we hold for this format: **9** (8 curated, 1 cited in the playbook, 0 auto-matched candidates).
 
 Curated = hand-graded in the X discovery feed. Candidates come from a targeted X search for this format (last ~90 days, relevancy-sorted, engagement-filtered) and are NOT hand-graded yet: verify, then promote or delete.
 
@@ -16,5 +16,6 @@ Search used: `("iphone notes" OR "notes app" OR "reddit ad" OR "text message ad"
 | 6 | 2026-09-11 | [@EmerieOnoh](https://x.com/EmerieOnoh/status/2098426706612683154) | curated SOME | 6L/6BM/498V | text | Static formats printing: us vs them, whiteboard, breaking news, doodle, low stock, iPhone notes, Google search, we're sorry, Reddit, tweet screenshot, text on palm. | [2026-09-11-EmerieOnoh-2098426706612683154](2026-09-11-EmerieOnoh-2098426706612683154.md) |
 | 7 | 2026-08-04 | [@_evancarroll](https://x.com/_evancarroll/status/2084775630152114293) | curated SOME | 4L/2BM/239V | text | 15 AI static frameworks: 3 core benefits, bold claim, us vs them, comparison chart, old vs new, 5-star, stat, press screenshot, notes app, sticky notes, meme, lo-fi. | [2026-08-04-_evancarroll-2084775630152114293](2026-08-04-_evancarroll-2084775630152114293.md) |
 | 8 | 2026-08-05 | [@Yannlce](https://x.com/Yannlce/status/2085017654364958737) | curated SOME | 3L/2BM/1kV | text | Same 40-format list (adds claymation, AI podcast). | [2026-08-05-Yannlce-2085017654364958737](2026-08-05-Yannlce-2085017654364958737.md) |
+| 9 |  | [@liv_unltd](https://x.com/liv_unltd/status/1774923299136716885) | cited | 0L/0BM/0V | text |  | [0000-00-00-liv_unltd-1774923299136716885](0000-00-00-liv_unltd-1774923299136716885.md) |
 
 Add more: drop a new `<date>-<author>-<id>.md` here (copy any file as a template) and add a row.

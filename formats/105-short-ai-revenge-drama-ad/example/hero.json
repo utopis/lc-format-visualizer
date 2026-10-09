@@ -1,0 +1,108 @@
+{
+ "id": "F105",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/0xROAS/status/2107188290264740348",
+ "author": "0xROAS",
+ "type": "video",
+ "duration": 25,
+ "mp4": "https://video.twimg.com/amplify_video/2107188258639642624/vid/avc1/320x568/N7pBJJ5VyleH1rGX.mp4?tag=29",
+ "w": 480,
+ "h": 854,
+ "via_quote": false,
+ "likes": 104,
+ "views": 8843,
+ "seen": "A 25-second AI drama (Seedance 2.5). A woman calls up the stairs: \"Dad, tea's on the table, it's getting cold.\" Dad struggles on the stairs: \"40 years I've done these stairs... I'm all right.\" Close-ups: \"You're not all right, Dad. It's been like this since Christmas. Why didn't you say something?\" \"Didn't want to be the old bloke who can't do the stairs.\" She kneels beside him on the stairs, with family photos on the wall. The product (a joint or mobility aid) is set up as the emotional resolution. It plays like a cinematic family scene, not an ad.",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "Dad tea's on the table. It's getting cold coming love. You're right 40 years. I've done these stairs",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "Dad tea's on the table. It's getting cold coming love. You're right 40 years. I've done these stairs",
+   "ocr": ""
+  },
+  {
+   "t": "0:08",
+   "said": "Dad",
+   "ocr": ""
+  },
+  {
+   "t": "0:11",
+   "said": "Dad I'm all right. I'm all right",
+   "ocr": ""
+  },
+  {
+   "t": "0:14",
+   "said": "I'm all right. I'm all right",
+   "ocr": ""
+  },
+  {
+   "t": "0:17",
+   "said": "You're not all right dad. It's been like this since Christmas. Why didn't you say something?",
+   "ocr": ""
+  },
+  {
+   "t": "0:20",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:23",
+   "said": "Didn't want to be the old bloke who can't do the stairs",
+   "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2108195582607081720",
+   "author": "david_attisaas",
+   "url": "https://x.com/david_attisaas/status/2108195582607081720",
+   "thumb": "example/more/2108195582607081720.jpg",
+   "kind": "5:25 video",
+   "cap": "I'm running short drama ads for a few apps right now, and every one of them started as a copy of something a dropshipper ran first. I went looking aft",
+   "views": 724
+  },
+  {
+   "id": "2108255353016406383",
+   "author": "ViralOps_",
+   "url": "https://x.com/ViralOps_/status/2108255353016406383",
+   "thumb": "example/more/2108255353016406383.jpg",
+   "kind": "1:00 video",
+   "cap": "Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products \ud83d\ude2d and i think this could ",
+   "views": 589
+  },
+  {
+   "id": "2102176819709673703",
+   "author": "zedmadeit",
+   "url": "https://x.com/zedmadeit/status/2102176819709673703",
+   "thumb": "example/more/2102176819709673703.jpg",
+   "kind": "1:36 video",
+   "cap": "heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac",
+   "views": 2507
+  },
+  {
+   "id": "2098373776828256595",
+   "author": "JUSTCHAEL_",
+   "url": "https://x.com/JUSTCHAEL_/status/2098373776828256595",
+   "thumb": "example/more/2098373776828256595.jpg",
+   "kind": "1:50 video",
+   "cap": "Enjoy this short drama ad I created for Outlash, featuring their Curt Purse. @outlashbrand AI can create story-driven ads, not just pretty visuals. If",
+   "views": 2321
+  },
+  {
+   "id": "2106833649970684195",
+   "author": "frankyecom",
+   "url": "https://x.com/frankyecom/status/2106833649970684195",
+   "thumb": "example/more/2106833649970684195.jpg",
+   "kind": "7:00 video",
+   "cap": "Women want shows: characters, drama, payoff; build entertainment first, slot product in.",
+   "views": 66391
+  }
+ ]
+}

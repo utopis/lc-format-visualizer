@@ -53,10 +53,10 @@ Nano Banana / GPT Image edit with the real product photo as reference; QC each i
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (8 posts). Top 5:
+See [examples/README.md](examples/README.md) (9 posts). Top 5:
 
 - @rirahcreates (70L/53BM/8kV): AI fashion content: lookbooks, campaign images. — https://x.com/rirahcreates/status/2106081343566381455
 - @Arina_hoqe (42L/36BM/4kV): Full prompt for 15s photoreal UGC watch ad from your own product photo ('Running Late'). — https://x.com/Arina_hoqe/status/2095071815483986241
 - @MimiTheDesigner (31L/13BM/2kV): Fashion: every model/dress in video AI-generated; boutiques advertising this way. — https://x.com/MimiTheDesigner/status/2080184317771227394
+- @KarinaRed123 (0L/0BM/0V):  — https://x.com/KarinaRed123/status/2099477629078307041
 - @girlincrypto007 (89L/9BM/4kV): You need the right AI model for every task so you don’t burn through your limits too fast 👀 My stack is simple: > @claudeai Fable - for building a portfolio, la — https://x.com/girlincrypto007/status/2077765449371025600
-- @shealshakya (58L/5BM/1kV): You can make $2000/month All you need is... - A smartphone - Internet - 4 hours a day Here are 23 services you can now offer: 1. Rebuild winning ads for brands  — https://x.com/shealshakya/status/2092938675394883839

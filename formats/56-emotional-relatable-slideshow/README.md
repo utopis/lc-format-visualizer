@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Low-Med (small-account data + saved-hook study) · hype risk: Low · cost $0 · 20 min
 
 ## What it is
@@ -93,6 +96,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [01-faceless-niche-slideshow](../01-faceless-niche-slideshow/README.md), [08-drama-show-micro-series](../08-drama-show-micro-series/README.md), [09-native-story-static-to-advertorial](../09-native-story-static-to-advertorial/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Skincare app on 20 US TikTok accounts ($0.21 CPM, no ads): breakup-story hook, the app appears several slides later inside the routine the story describes; 786K views across 30 carousels, 83% from 4 posts, so test one format 5-20 times before stopping ([@tellenne_](https://x.com/tellenne_/status/2106759383656849698)).
+- Long-distance relationship app (~$100K/mo): hook + demo, relatable for women, 6.7M views / 578K likes ([@simonecanciello](https://x.com/simonecanciello/status/2092704268734099547)); silent travel-footage slideshow with an LDR text hook then a shared drawing widget, 585K views ([@consumerxai](https://x.com/consumerxai/status/2092629155036987751)).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

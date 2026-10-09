@@ -3,13 +3,13 @@
  "slug": "51-quiz-guess-game",
  "name": "Quiz / guess-the-price / street quiz game",
  "title": "51 · Quiz / guess-the-price / street quiz game",
- "n_examples": 4,
+ "n_examples": 5,
  "n_curated": 4,
  "n_candidates": 0,
  "stages": [
   {
    "stage": "Find",
-   "status": "in progress"
+   "status": "done"
   },
   {
    "stage": "Deep research",
@@ -96,6 +96,20 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2105450856086917518",
+   "file": "0000-00-00-LewisSylvi3994-2105450856086917518.md",
+   "kind": "cited",
+   "author": "LewisSylvi3994",
+   "date": "",
+   "url": "https://x.com/LewisSylvi3994/status/2105450856086917518",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   }
  ]
 }

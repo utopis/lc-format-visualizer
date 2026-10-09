@@ -26,13 +26,13 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 | 6 | 0:12–0:14 | · | · |
 | 7 | 0:14–0:16 | Ci ISLE 9: | · |
 
-## More real examples (1)
+## More real examples (3)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@moneytokwitbuki](example/more/2084621955752145291.jpg)](https://x.com/moneytokwitbuki/status/2084621955752145291)<br>**@moneytokwitbuki** · images · 507 views<br>Brand Study: rhode rhode's primary target audience is Gen Z and Millennials. Before the official product launch, the founder built anticipation by con |   |   |
+| [![@wayne_forge](example/more/2087161700298473607.jpg)](https://x.com/wayne_forge/status/2087161700298473607)<br>**@wayne_forge** · 0:12 video · 118 views<br>TWO AI TWINS "GET READY" IN THE SAME CLOSET — AND THE PAGE BEHIND THEM CLEARS $11,400 A MONTH. Same face, same hair, same dressing room. One in a pink | [![@Atlas8a](example/more/2080302219199385799.jpg)](https://x.com/Atlas8a/status/2080302219199385799)<br>**@Atlas8a** · 0:14 video · 50 views<br>A 26-YEAR-OLD IN TEXAS BUILT A TRY-ON HAUL INFLUENCER WHO DOESN'T EXIST. ONE VIDEO HIT 5.8 MILLION VIEWS 👗 Try-on hauls used to be a job. Buy the clot | [![@moneytokwitbuki](example/more/2084621955752145291.jpg)](https://x.com/moneytokwitbuki/status/2084621955752145291)<br>**@moneytokwitbuki** · images · 507 views<br>Brand Study: rhode rhode's primary target audience is Gen Z and Millennials. Before the official product launch, the founder built anticipation by con |
 
 ## How to make one like it
 
@@ -152,6 +152,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Creator disclosure.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
 
 ## More examples
 

@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (1,525-day + 200-day live ads) · hype risk: Low · cost $0 · 15-30 min
 
 ## What it is
@@ -107,6 +110,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - UndrDog "big enemy" ad: "Could polyester be the next smoking epidemic?" (2:33, top 3% of 890 brand ads; [Atria](https://app.tryatria.com/ad/m1482820870278804)). LC enemy: "gold paint over brass".
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Libby Babet: Women's-body myth-bust talking head (fitness coach), 305 days live. 'Women's bodies react differently' is an identity hook; the product arrives as the personal fix after 60 s of genuine education; the empty-wrapper detail is proof of real use.
+- Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop'), 258 days live. A blunt first-person result headline + 3 benefit labels is readable in one glance.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -89,7 +89,7 @@ Take the LC winning script {{SCRIPT}}. Produce 8 narrator briefs (age, job, sett
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (23 posts). Top 5:
+See [examples/README.md](examples/README.md) (25 posts). Top 5:
 
 - @grok (0L/0BM/0V): Pod strategy: creatives labelled Pod1…Pod26, hosted unlisted on YouTube to build view counts (Pod26 420K views in 3 weeks). — https://x.com/grok/status/2105957466420703499
 - @Best_OFPages (0L/0BM/0V): Claim: Smooche (Ooak Brands) runs only AI ads at ~$1M/day (unverified). — https://x.com/Best_OFPages/status/2105176364748054721

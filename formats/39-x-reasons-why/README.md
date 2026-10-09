@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (framework in multiple systems) · hype risk: Low · cost $0-50 · 20-40 min
 
 ## What it is
@@ -93,6 +96,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - "The list does the selling. The ad only sells the list." **6 angles:** Comparison Question (low risk), Category Ranking with receipts (medium), Countdown Tease (low), Wrong-Pick Warning (medium), Numbered Timeline (low-medium), Single-Winner Reveal (medium). The ERODUS cluster tests variants at volume. Extract the funnel (ad → listicle lander), not just the ad. Board: 430 top-N listicles. Doc: [AI Listicle Ads](https://rural-lifeboat-196.notion.site/3addb9d7074d8182bd33cbf42e6fbc6e). Pullup & Dip "X reasons why" → numbered listicle lander, 35 days, 145 ads.
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Rachel's Tea: Animated numbered-benefit product spec video, 424 days live. Silent, readable in 3 s, cheap to version; for a returning-customer base the spec IS the message.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

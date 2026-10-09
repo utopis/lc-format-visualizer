@@ -1,0 +1,83 @@
+{
+ "id": "F104",
+ "slug": "104-retail-receipt-rebate-offer",
+ "name": "Retail receipt rebate offer ad (\\\"buy 2 at Target, upload your receipt, get 1 back\\\")",
+ "title": "104 · Retail receipt rebate offer ad (\"buy 2 at Target, upload your receipt, get 1 back\")",
+ "n_examples": 3,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2099533970484646210",
+   "file": "2026-09-14-eCom_Amin-2099533970484646210.md",
+   "kind": "cited",
+   "author": "eCom_Amin",
+   "date": "2026-09-14",
+   "url": "https://x.com/eCom_Amin/status/2099533970484646210",
+   "eng": "164L/360BM/28kV",
+   "grade": "",
+   "gist": "primal queen prints $2M a month and their google funnel is the most complete i've dissected all year AI youtube ads with 1M+ views, an advertorial running on SHOPPING listings, and",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105227892309594486",
+   "file": "2026-09-30-GustavWalsted-2105227892309594486.md",
+   "kind": "cited",
+   "author": "GustavWalsted",
+   "date": "2026-09-30",
+   "url": "https://x.com/GustavWalsted/status/2105227892309594486",
+   "eng": "9L/0BM/376V",
+   "grade": "",
+   "gist": "Honestly, genius move @abdushodmonov. Hats off to you and the team. Primal Queen is running Meta ads with a simple offer: buy 2 products at Target, upload your receipt and get your",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090820261574529478",
+   "file": "2026-08-21-zarastrategy-2090820261574529478.md",
+   "kind": "cited",
+   "author": "zarastrategy",
+   "date": "2026-08-21",
+   "url": "https://x.com/zarastrategy/status/2090820261574529478",
+   "eng": "0L/0BM/1V",
+   "grade": "",
+   "gist": "Us vs Them Meta Ads are the type of ad I would always bet on. Primal Queen does this really well. Primal Queen is in the women's supplement space and reportedly does $10M+ a month ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

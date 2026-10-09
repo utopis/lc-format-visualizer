@@ -5,7 +5,7 @@
  "title": "08 · Drama show micro-series",
  "n_examples": 15,
  "n_curated": 5,
- "n_candidates": 9,
+ "n_candidates": 8,
  "stages": [
   {
    "stage": "Find",
@@ -63,7 +63,7 @@
    "author": "frankyecom",
    "date": "2026-10-04",
    "url": "https://x.com/frankyecom/status/2106833649970684195",
-   "eng": "281L/437BM/66kV",
+   "eng": "282L/437BM/67kV",
    "grade": "VALUE",
    "gist": "Women want shows: characters, drama, payoff; build entertainment first, slot product in.",
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106833208167780353/img/CAgEEzmLQ-O0lfuP.jpg",
@@ -123,6 +123,22 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2098373776828256595",
+   "file": "2026-09-11-JUSTCHAEL_-2098373776828256595.md",
+   "kind": "cited",
+   "author": "JUSTCHAEL_",
+   "date": "2026-09-11",
+   "url": "https://x.com/JUSTCHAEL_/status/2098373776828256595",
+   "eng": "61L/16BM/2kV",
+   "grade": "",
+   "gist": "Enjoy this short drama ad I created for Outlash, featuring their Curt Purse. @outlashbrand AI can create story-driven ads, not just pretty visuals. If you’re looking to advertise y",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098373566848708611/img/qDG48It728l5dO7y.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
   },
   {
    "id": "2104589798208065796",
@@ -196,22 +212,6 @@
    "grade": "",
    "gist": "heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that actually converts into sales its",
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102176626054213632/img/UTzZpPT-zzjABq3a.jpg",
-   "media": [
-    "video"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2098373776828256595",
-   "file": "2026-09-11-JUSTCHAEL_-2098373776828256595.md",
-   "kind": "candidate",
-   "author": "JUSTCHAEL_",
-   "date": "2026-09-11",
-   "url": "https://x.com/JUSTCHAEL_/status/2098373776828256595",
-   "eng": "61L/16BM/2kV",
-   "grade": "",
-   "gist": "Enjoy this short drama ad I created for Outlash, featuring their Curt Purse. @outlashbrand AI can create story-driven ads, not just pretty visuals. If you’re looking to advertise y",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2098373566848708611/img/qDG48It728l5dO7y.jpg",
    "media": [
     "video"
    ],

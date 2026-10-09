@@ -89,7 +89,7 @@ Write 5 result-reveal intros (≤8 s each) from real LC customer stories {{STORI
 
 See [examples/README.md](examples/README.md) (4 posts). Top 5:
 
+- @CalixAVelarde (4L/1BM/461V): this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back t — https://x.com/CalixAVelarde/status/2083448214431351004
 - @valentinszabadi (49L/58BM/3kV): How to iterate a winning creative as a strategist? Easy. - Change the talent - Change the format - UGC, VSL, Stitch, Street Interview, Podcast, AI slop, Pixar,  — https://x.com/valentinszabadi/status/2079614879309185498
 - @EvoBradley (18L/31BM/1kV): The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits trust and re — https://x.com/EvoBradley/status/2082416231353590174
 - @nicktheriot_ (29L/23BM/3kV): Begging every brand owner to stop this mistake: Sitting on 50 pieces of B-roll footage… And launching zero variations of it. Do THIS instead: ⦁ Find one hook →  — https://x.com/nicktheriot_/status/2085544771150352632
-- @CalixAVelarde (4L/1BM/461V): this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back t — https://x.com/CalixAVelarde/status/2083448214431351004

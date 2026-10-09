@@ -94,7 +94,7 @@ Write a 2:30 melodrama ad script for Louise Carter (waterproof 14K PVD jewelry, 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (26 posts). Top 5:
+See [examples/README.md](examples/README.md) (27 posts). Top 5:
 
 - @briannjho (138L/338BM/10kV): Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear "this is what happ — https://x.com/briannjho/status/2094662259746480410
 - @TheIvanKreimer (1L/0BM/62V): Smooche AI melodrama: ID-photo clerk scene, product at 1:54; retention: 90-95% drop before product. Try only if short DR saturated. — https://x.com/TheIvanKreimer/status/2107808445508321597

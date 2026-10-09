@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium-High (multiple live BOF ads) · hype risk: Medium · cost $0-100 · 1-2 h
 
 ## What it is

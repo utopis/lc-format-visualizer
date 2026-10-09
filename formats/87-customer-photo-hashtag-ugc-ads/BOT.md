@@ -84,8 +84,9 @@ Write a hashtag launch kit for LC: hashtag, packaging insert copy, rights-reques
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (4 posts). Top 5:
+See [examples/README.md](examples/README.md) (5 posts). Top 5:
 
+- @huejewellers (0L/0BM/0V):  — https://x.com/huejewellers/status/2099792841115386168
 - @NahFlo2n (169L/147BM/12kV): $74k/mo from AI UGC avatars (promo). — https://x.com/NahFlo2n/status/2082463906694648266
 - @paula_bearr (63L/125BM/2kV): If you ever run out of things to post on Instagram, save this. Here’s a general content idea bank you can tailor to almost any brand: REELS / SHORT-FORM VIDEO • — https://x.com/paula_bearr/status/2107067561619693949
 - @lifemaximised (17L/12BM/1kV): Google Ads funnels are one of the biggest untapped opportunities in eCom right now. A huge portion of your GADs performance comes down to JUST optimizing the la — https://x.com/lifemaximised/status/2086552616679756212

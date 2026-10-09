@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High reach (22.5M views) / AI-persona caveat · hype risk: Med · cost $0-500 · 2-4 h
 
 ## What it is
@@ -96,6 +99,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [53-ai-ugc-outlier-remake-lab](../53-ai-ugc-outlier-remake-lab/README.md), [47-grwm-stack-with-me](../47-grwm-stack-with-me/README.md), [08-drama-show-micro-series](../08-drama-show-micro-series/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Once (disposable-camera wedding app, ~$20K/mo in 83 days): an AI bride crying at her own wedding; 11.8M views on an account with 2,516 followers, 202K bookmarks, and not one comment noticed she was AI ([@sammgrowth](https://x.com/sammgrowth/status/2080991187133943894)); 22.5M views from 2 AI creators, 13M top ([@traqscales](https://x.com/traqscales/status/2108113354178932920)).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

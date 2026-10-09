@@ -23,6 +23,9 @@ related_strategies: [32-drama-show-ads-hidden-storyline, 33-animated-brand-chara
 
 
 
+
+
+
 ## What it looks like
 A full original song (30s to **4 minutes**) whose lyrics tell a relatable story — usually a woman's emotional problem → turning point → product as the quiet hero. Visuals are AI-generated scenes (realistic, Pixar-3D, or animated) cut to the lyrics, captions on screen like a lyric video. Product often **not revealed until late** (minute 3 in @therahulissar's winner). Variants:
 - **Ballad/drama** (Smooche): "Lisa poured the wine and I started crying… he left, and I'm the one who looks like she lost… Lisa has been a dermatologist for 15 years… Sit down, I brought something" (transcript from @EcomSapo's example).
@@ -69,6 +72,10 @@ Cost ~$10-60 + 2-4h. Make 3 songs per concept (different genres), not 30 hook va
 - Spoken (non-sung) version: **F91**. Foreign-insider mechanism: **F92**.
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Smooche ($22M/mo skincare): singing ads are "one of their favorite acquisition weapons"; Arcads now makes them a commodity, so expect saturation ([@EcomSapo](https://x.com/EcomSapo/status/2105288429873528875)).
+- RYZE (mushroom coffee, $25M+/mo): long-form Pixar 3D song skits built on the Resilia plot (husband cheats, wife is the main character, postpartum body insecurity), then the SAME song re-made for a different couple, ethnicity, accent and gender: one concept cloned across every ICP ([@lifemaximised](https://x.com/lifemaximised/status/2100659903488819256)). LC: clone a winning song across bride / mom / sister personas (F97); skip insecurity-shaming.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

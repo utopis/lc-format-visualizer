@@ -3,9 +3,9 @@
  "slug": "97-persona-swap-script-cloning",
  "name": "Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)",
  "title": "97 · Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)",
- "n_examples": 23,
+ "n_examples": 25,
  "n_curated": 6,
- "n_candidates": 16,
+ "n_candidates": 15,
  "stages": [
   {
    "stage": "Find",
@@ -128,7 +128,7 @@
    "author": "LachezarVoynov",
    "date": "2026-10-05",
    "url": "https://x.com/LachezarVoynov/status/2107135814585000273",
-   "eng": "293L/254BM/27kV",
+   "eng": "293L/256BM/28kV",
    "grade": "VALUE",
    "gist": "Resilia: 26 creative pods x 15 concepts x 3 variations = 1,170 new ads/week.",
    "thumb": "https://pbs.twimg.com/media/HT4M2f4XcAEipJj.jpg",
@@ -136,6 +136,50 @@
     "photo",
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2078068798314422644",
+   "file": "2026-07-17-SparkifyAI-2078068798314422644.md",
+   "kind": "cited",
+   "author": "SparkifyAI",
+   "date": "2026-07-17",
+   "url": "https://x.com/SparkifyAI/status/2078068798314422644",
+   "eng": "57L/11BM/5kV",
+   "grade": "",
+   "gist": "Real UGC creators are becoming optional. This video is 100% AI-generated with Arcads. Why spend time sourcing creators, coordinating shoots, and managing revisions when you can gen",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078068780241199104/img/LyNnn7nPm1ABFy91.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2082829380376723726",
+   "file": "2026-07-30-edwardlavinel_-2082829380376723726.md",
+   "kind": "cited",
+   "author": "edwardlavinel_",
+   "date": "2026-07-30",
+   "url": "https://x.com/edwardlavinel_/status/2082829380376723726",
+   "eng": "0L/1BM/115V",
+   "grade": "",
+   "gist": "Prime prometics at 1,400+ ads. winning creative is a woman over 50 reviewing color changing foundation. 'doesn't sit in the creases.' one specific objection killed in seven words. ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108188222710862166",
+   "file": "2026-10-08-FedotOff90-2108188222710862166.md",
+   "kind": "cited",
+   "author": "FedotOff90",
+   "date": "2026-10-08",
+   "url": "https://x.com/FedotOff90/status/2108188222710862166",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Prime Prometics x-ray: 2,828 active ads, 24 avatars (6 life-event), ~28 narrator personas across 15 pages — persona-page scale pattern + MCP prompt.",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {
@@ -165,22 +209,6 @@
    "grade": "",
    "gist": "I genuinely had to do a double take the first time I watched this. If nobody told me it was AI-generated, I would've assumed it was filmed by a real creator. That's how far AI UGC ",
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2075560711372328960/img/VhKlSa7AvLvvhIaD.jpg",
-   "media": [
-    "video"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2078068798314422644",
-   "file": "2026-07-17-SparkifyAI-2078068798314422644.md",
-   "kind": "candidate",
-   "author": "SparkifyAI",
-   "date": "2026-07-17",
-   "url": "https://x.com/SparkifyAI/status/2078068798314422644",
-   "eng": "57L/11BM/5kV",
-   "grade": "",
-   "gist": "Real UGC creators are becoming optional. This video is 100% AI-generated with Arcads. Why spend time sourcing creators, coordinating shoots, and managing revisions when you can gen",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2078068780241199104/img/LyNnn7nPm1ABFy91.jpg",
    "media": [
     "video"
    ],

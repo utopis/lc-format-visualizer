@@ -5,7 +5,7 @@
  "title": "24 · Skit / B-I-E tiers",
  "n_examples": 5,
  "n_curated": 3,
- "n_candidates": 2,
+ "n_candidates": 1,
  "stages": [
   {
    "stage": "Find",
@@ -82,6 +82,22 @@
    "transcript": false
   },
   {
+   "id": "2079287229164442041",
+   "file": "2026-07-20-TheKhushLife-2079287229164442041.md",
+   "kind": "cited",
+   "author": "TheKhushLife",
+   "date": "2026-07-20",
+   "url": "https://x.com/TheKhushLife/status/2079287229164442041",
+   "eng": "10L/0BM/467V",
+   "grade": "",
+   "gist": "#ugcexample 13/30 Lately I've been doing a lot more skit ADs &amp; SUPER excited to film one at the grocery store this week!🛒 Throwback to a Karrot AD I did, 5M+ views! Skit conten",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2079286426399907840/img/aKD_C_77cRudjG86.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2094662259746480410",
    "file": "2026-09-01-briannjho-2094662259746480410.md",
    "kind": "candidate",
@@ -93,22 +109,6 @@
    "gist": "Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear \"this is what happens\".",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2079287229164442041",
-   "file": "2026-07-20-TheKhushLife-2079287229164442041.md",
-   "kind": "candidate",
-   "author": "TheKhushLife",
-   "date": "2026-07-20",
-   "url": "https://x.com/TheKhushLife/status/2079287229164442041",
-   "eng": "10L/0BM/467V",
-   "grade": "",
-   "gist": "#ugcexample 13/30 Lately I've been doing a lot more skit ADs &amp; SUPER excited to film one at the grocery store this week!🛒 Throwback to a Karrot AD I did, 5M+ views! Skit conten",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2079286426399907840/img/aKD_C_77cRudjG86.jpg",
-   "media": [
-    "video"
-   ],
    "transcript": false
   }
  ]

@@ -84,7 +84,7 @@ Write a 15s shot list + AI video prompts for an LC macro film from these product
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (9 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @nicktheriot_ (219L/348BM/12kV): 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder st — https://x.com/nicktheriot_/status/2108173638033871013
 - @zackpaid (9L/20BM/2kV): 11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-d — https://x.com/zackpaid/status/2085621175292670183

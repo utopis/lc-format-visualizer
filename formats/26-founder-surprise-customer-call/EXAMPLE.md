@@ -166,6 +166,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Written consent to be contacted + verbal consent to record captured in the raw file; signed release before use in ads. Follow call-recording consent law for both parties' states (two-party consent states). - No scripted or staged customers presented as real; no paid actors in the customer seat. If a call is reenacted, label it "dramatization". - Customer claims stay within PDP wording (14K PVD, waterproof as worded). Bleep/remove personal data (names of others, addresses).
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).

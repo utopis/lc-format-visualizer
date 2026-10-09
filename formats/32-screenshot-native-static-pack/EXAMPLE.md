@@ -139,7 +139,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: more screenshot UIs found running (Fedotoff)](README.md)
+Newer observations live in the playbook: [Wave 2c update: more screenshot UIs found running (Fedotoff)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
 
 ## More examples
 

@@ -3,7 +3,7 @@
  "slug": "53-ai-ugc-outlier-remake-lab",
  "name": "AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid)",
  "title": "53 · AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid)",
- "n_examples": 23,
+ "n_examples": 24,
  "n_curated": 4,
  "n_candidates": 18,
  "stages": [
@@ -52,6 +52,23 @@
    "transcript": false
   },
   {
+   "id": "2108113354178932920",
+   "file": "2026-10-08-traqscales-2108113354178932920.md",
+   "kind": "curated",
+   "author": "traqscales",
+   "date": "2026-10-08",
+   "url": "https://x.com/traqscales/status/2108113354178932920",
+   "eng": "22L/27BM/1kV",
+   "grade": "VALUE",
+   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108113307915653120/img/MYOYI-DzIZgRfisC.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
    "id": "2107918489587507606",
    "file": "2026-10-07-0xDepressionn-2107918489587507606.md",
    "kind": "curated",
@@ -82,20 +99,6 @@
    "transcript": false
   },
   {
-   "id": "2108113354178932920",
-   "file": "2026-10-08-traqscales-2108113354178932920.md",
-   "kind": "curated",
-   "author": "traqscales",
-   "date": "2026-10-08",
-   "url": "https://x.com/traqscales/status/2108113354178932920",
-   "eng": "0L/0BM/0V",
-   "grade": "VALUE",
-   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
-   "thumb": "",
-   "media": [],
-   "transcript": true
-  },
-  {
    "id": "2092368368968049118",
    "file": "2026-08-25-ai_cult1-2092368368968049118.md",
    "kind": "cited",
@@ -109,6 +112,20 @@
    "media": [
     "video"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2056472046192951468",
+   "file": "0000-00-00-rathikrishnav-2056472046192951468.md",
+   "kind": "cited",
+   "author": "rathikrishnav",
+   "date": "",
+   "url": "https://x.com/rathikrishnav/status/2056472046192951468",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (multiple operator lists; contested for scripted versions) · hype risk: Low-Med · cost $0-300 (phone, lav mic, optional host) · half day = 10-20 cuts
 
 ## What it is
@@ -107,6 +110,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 Pick the angle that is truest: **Hero's Journey** (problem → solution, WelleCo), **Mission-Driven Origin** (why you started, Palmonas), **Underdog** (Panic Panties), **Expert Authority** (ARMRA). Phone + lapel mic + natural light; open with the problem; CTA only after the emotional payoff. Jewelry "meet the maker" ads also work as retargeting for PDP visitors (Mejuri). Sources: [https://www.gethookd.ai/learn/founder-story-ads-examples-how-to-create-them/](https://www.gethookd.ai/learn/founder-story-ads-examples-how-to-create-them/), [https://www.gethookd.ai/learn/7-best-instagram-jewelry-ads-examples-for-2026/](https://www.gethookd.ai/learn/7-best-instagram-jewelry-ads-examples-for-2026/).
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Rachel's Tea: Co-founder spouse explains the new product line, 481 days live. A trust update from a real person reads like a customer email, not an ad, and pre-empts the 'why did my product change?' objection for returning buyers.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

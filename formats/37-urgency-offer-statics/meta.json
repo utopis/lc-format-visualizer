@@ -5,7 +5,7 @@
  "title": "37 · Urgency/offer statics: low stock, back in stock, limited-time offer, BFCM",
  "n_examples": 16,
  "n_curated": 7,
- "n_candidates": 8,
+ "n_candidates": 7,
  "stages": [
   {
    "stage": "Find",
@@ -154,6 +154,22 @@
    "transcript": false
   },
   {
+   "id": "2106885699374829636",
+   "file": "2026-10-04-johntech778-2106885699374829636.md",
+   "kind": "cited",
+   "author": "johntech778",
+   "date": "2026-10-04",
+   "url": "https://x.com/johntech778/status/2106885699374829636",
+   "eng": "39L/10BM/1kV",
+   "grade": "",
+   "gist": "\"Buy 2 Get 1 Free\" is a stronger offer than \"33% off.\" Same discount. Better conversion. Here's why and how I structured a Pawfect product page around it 👇 9 conversion decisions m",
+   "thumb": "https://pbs.twimg.com/media/HT0pX8pW0AAix_m.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2102704237805547557",
    "file": "2026-09-23-hey_ankita-2102704237805547557.md",
    "kind": "candidate",
@@ -166,22 +182,6 @@
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102704191785545728/img/DjbrfDKE0tQXeT53.jpg",
    "media": [
     "video"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2106885699374829636",
-   "file": "2026-10-04-johntech778-2106885699374829636.md",
-   "kind": "candidate",
-   "author": "johntech778",
-   "date": "2026-10-04",
-   "url": "https://x.com/johntech778/status/2106885699374829636",
-   "eng": "39L/10BM/1kV",
-   "grade": "",
-   "gist": "\"Buy 2 Get 1 Free\" is a stronger offer than \"33% off.\" Same discount. Better conversion. Here's why and how I structured a Pawfect product page around it 👇 9 conversion decisions m",
-   "thumb": "https://pbs.twimg.com/media/HT0pX8pW0AAix_m.jpg",
-   "media": [
-    "photo"
    ],
    "transcript": false
   },

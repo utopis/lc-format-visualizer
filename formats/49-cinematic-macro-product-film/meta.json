@@ -3,7 +3,7 @@
  "slug": "49-cinematic-macro-product-film",
  "name": "Cinematic macro product film (15s, no dialogue)",
  "title": "49 · Cinematic macro product film (15s, no dialogue)",
- "n_examples": 9,
+ "n_examples": 10,
  "n_curated": 5,
  "n_candidates": 4,
  "stages": [
@@ -117,6 +117,20 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2108225912957186085",
+   "file": "0000-00-00-prompthanem-2108225912957186085.md",
+   "kind": "cited",
+   "author": "prompthanem",
+   "date": "",
+   "url": "https://x.com/prompthanem/status/2108225912957186085",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2080581505441480774",

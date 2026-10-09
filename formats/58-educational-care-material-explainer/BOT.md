@@ -89,8 +89,8 @@ Using only {{PDP_FACTS}} and generally accepted jewelry-care facts, write 6 educ
 
 See [examples/README.md](examples/README.md) (7 posts). Top 5:
 
-- @Halosznn_ (91L/38BM/16kV): Marek Health is hiring ‼️ 🎨 Graphic Designer 📍 Remote | Part-Time • Design static social media assets • Turn campaigns, educational content, promotions, into st — https://x.com/Halosznn_/status/2093427975350005795
 - @lorenzo_pravata (36L/37BM/3kV): There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. The produc — https://x.com/lorenzo_pravata/status/2095136884666052819
+- @Halosznn_ (91L/38BM/16kV): Marek Health is hiring ‼️ 🎨 Graphic Designer 📍 Remote | Part-Time • Design static social media assets • Turn campaigns, educational content, promotions, into st — https://x.com/Halosznn_/status/2093427975350005795
 - @Bogzabs96 (17L/15BM/1kV): There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. The produc — https://x.com/Bogzabs96/status/2096280202103927187
 - @taye_afola19505 (20L/6BM/908V): Built a premium advertorial experience for @KYOM combining emotional storytelling, educational content, social proof, and conversion-focused design to transform — https://x.com/taye_afola19505/status/2077796327887450475
 - @chioma_mmeje (14L/3BM/4kV): Depends on the smm and the brand’s persona -A cheeky, witty response IF you’re a witty smm and brand, and conditions are perfect. -Educational content, if their — https://x.com/chioma_mmeje/status/2082397955588301252

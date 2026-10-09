@@ -3,13 +3,13 @@
  "slug": "55-emotional-moment-hidden-mechanism-story",
  "name": "Emotional life-moment story with the product as the hidden mechanism (crying-bride 'we gave every guest a camera')",
  "title": "55 · Emotional life-moment story with the product as the hidden mechanism (crying-bride \"we gave every guest a camera\")",
- "n_examples": 4,
+ "n_examples": 5,
  "n_curated": 3,
  "n_candidates": 1,
  "stages": [
   {
    "stage": "Find",
-   "status": "in progress"
+   "status": "done"
   },
   {
    "stage": "Deep research",
@@ -37,6 +37,23 @@
   }
  ],
  "examples": [
+  {
+   "id": "2108113354178932920",
+   "file": "2026-10-08-traqscales-2108113354178932920.md",
+   "kind": "curated",
+   "author": "traqscales",
+   "date": "2026-10-08",
+   "url": "https://x.com/traqscales/status/2108113354178932920",
+   "eng": "22L/27BM/1kV",
+   "grade": "VALUE",
+   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108113307915653120/img/MYOYI-DzIZgRfisC.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
   {
    "id": "2100293137709269251",
    "file": "2026-09-16-stat_biz-2100293137709269251.md",
@@ -70,18 +87,21 @@
    "transcript": true
   },
   {
-   "id": "2108113354178932920",
-   "file": "2026-10-08-traqscales-2108113354178932920.md",
-   "kind": "curated",
-   "author": "traqscales",
-   "date": "2026-10-08",
-   "url": "https://x.com/traqscales/status/2108113354178932920",
-   "eng": "0L/0BM/0V",
-   "grade": "VALUE",
-   "gist": "Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, \"we gave every guest a camera instead of hiring more photographers\" → QR → app as the mechanism.",
-   "thumb": "",
-   "media": [],
-   "transcript": true
+   "id": "2080991187133943894",
+   "file": "2026-07-25-sammgrowth-2080991187133943894.md",
+   "kind": "cited",
+   "author": "sammgrowth",
+   "date": "2026-07-25",
+   "url": "https://x.com/sammgrowth/status/2080991187133943894",
+   "eng": "173L/231BM/22kV",
+   "grade": "",
+   "gist": "i should never be sharing this but fuck it a wedding app is running the craziest ai ugc play of 2026 and nobody has clocked it 11.8M views on one tiktok. the account has 2,516 foll",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2080991146335936512/img/YnL_eDoczYqjKhzL.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
   },
   {
    "id": "2107182816706335130",

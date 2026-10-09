@@ -39,13 +39,13 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (3)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@DTC_Quizbuilder](example/more/2107516274142285842.jpg)](https://x.com/DTC_Quizbuilder/status/2107516274142285842)<br>**@DTC_Quizbuilder** · image · 643 views<br>Noverly's copy is built around one idea: ED isn't age or testosterone, it's a clogged pipe They sell it through a doctor-bylined listicle The buyer th | [![@benradack](example/more/2078473442714616149.jpg)](https://x.com/benradack/status/2078473442714616149)<br>**@benradack** · image · 2K views<br>I consolidated our whitelisting ads into one ad set with our brand videos. My CBO performs better with fewer ad sets running. So instead of keeping wh |   |
+| [![@vincenzo_micale](example/more/2105349586717950002.jpg)](https://x.com/vincenzo_micale/status/2105349586717950002)<br>**@vincenzo_micale** · images · 4K views<br>Menopause bracelet brand: 1,592 active Meta ads, 107 days, 59% US — saturation-level creative volume in wearable/jewelry. | [![@benradack](example/more/2078473442714616149.jpg)](https://x.com/benradack/status/2078473442714616149)<br>**@benradack** · image · 2K views<br>I consolidated our whitelisting ads into one ad set with our brand videos. My CBO performs better with fewer ad sets running. So instead of keeping wh | [![@DTC_Quizbuilder](example/more/2107516274142285842.jpg)](https://x.com/DTC_Quizbuilder/status/2107516274142285842)<br>**@DTC_Quizbuilder** · image · 643 views<br>Noverly's copy is built around one idea: ED isn't age or testosterone, it's a clogged pipe They sell it through a doctor-bylined listicle The buyer th |
 
 ## How to make one like it
 
@@ -172,7 +172,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: Resilia's 12 authority-persona Pages (do not copy)](README.md)
+Newer observations live in the playbook: [Wave 2d update: Resilia's 12 authority-persona Pages (do not copy)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

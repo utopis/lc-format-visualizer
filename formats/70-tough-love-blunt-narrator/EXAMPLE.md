@@ -71,13 +71,13 @@ The storyboard above samples the video every 0:19. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (1)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@0xROAS](example/more/2107188290264740348.jpg)](https://x.com/0xROAS/status/2107188290264740348)<br>**@0xROAS** · 0:25 video · 9K views<br>100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here’s how to make sure your dramas hit: - start with a very aggressive h | [![@LinoLeighton](example/more/2108195005126869080.jpg)](https://x.com/LinoLeighton/status/2108195005126869080)<br>**@LinoLeighton** · 0:26 video · 848 views<br>Drama Ads ripping rn… 100% AI drama ad made with Seedance 2.5 Here’s how to make your drama ads actually hit: Go to agent on arcads Start with an aggr |   |
+| [![@LinoLeighton](example/more/2108195005126869080.jpg)](https://x.com/LinoLeighton/status/2108195005126869080)<br>**@LinoLeighton** · 0:26 video · 848 views<br>Drama Ads ripping rn… 100% AI drama ad made with Seedance 2.5 Here’s how to make your drama ads actually hit: Go to agent on arcads Start with an aggr |   |   |
 
 ## How to make one like it
 

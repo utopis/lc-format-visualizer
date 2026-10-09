@@ -85,7 +85,8 @@ Write a 3-episode fiction serial for LC (each ≤1,200 characters, ending on a c
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (2 posts). Top 5:
+See [examples/README.md](examples/README.md) (3 posts). Top 5:
 
 - @FedotOff90 (210L/592BM/83kV): Pocket FM storytelling drama ads — 199 longest-running; serial episode logic. — https://x.com/FedotOff90/status/2101445743412138341
+- @adriamatz (0L/0BM/0V):  — https://x.com/adriamatz/status/2108190619449372721
 - @zackpaid (9L/20BM/2kV): 11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-d — https://x.com/zackpaid/status/2085621175292670183

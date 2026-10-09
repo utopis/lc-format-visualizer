@@ -5,7 +5,7 @@
  "title": "78 · Comedy sketch with a full direct-response pitch hidden inside the joke",
  "n_examples": 5,
  "n_curated": 1,
- "n_candidates": 4,
+ "n_candidates": 3,
  "stages": [
   {
    "stage": "Find",
@@ -52,6 +52,22 @@
    "transcript": false
   },
   {
+   "id": "2107749101823574297",
+   "file": "2026-10-07-Daniloecom-2107749101823574297.md",
+   "kind": "cited",
+   "author": "Daniloecom",
+   "date": "2026-10-07",
+   "url": "https://x.com/Daniloecom/status/2107749101823574297",
+   "eng": "4L/1BM/117V",
+   "grade": "",
+   "gist": "What if an anti-snoring ad felt more like a ridiculous comedy sketch than an ad? So I made one. Claymation characters, absurd escalation, deadpan VO, and a fake brand called QuietS",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107748983938404352/img/_nYHFL7C6lbd91kP.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2091907704734257203",
    "file": "2026-08-24-imranullah-2091907704734257203.md",
    "kind": "candidate",
@@ -94,22 +110,6 @@
    "thumb": "https://pbs.twimg.com/media/HOBrAtkXsAAF8W9.jpg",
    "media": [
     "photo"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2107749101823574297",
-   "file": "2026-10-07-Daniloecom-2107749101823574297.md",
-   "kind": "candidate",
-   "author": "Daniloecom",
-   "date": "2026-10-07",
-   "url": "https://x.com/Daniloecom/status/2107749101823574297",
-   "eng": "4L/1BM/117V",
-   "grade": "",
-   "gist": "What if an anti-snoring ad felt more like a ridiculous comedy sketch than an ad? So I made one. Claymation characters, absurd escalation, deadpan VO, and a fake brand called QuietS",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107748983938404352/img/_nYHFL7C6lbd91kP.jpg",
-   "media": [
-    "video"
    ],
    "transcript": false
   }

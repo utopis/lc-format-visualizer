@@ -3,7 +3,7 @@
  "slug": "50-mini-documentary-how-its-made",
  "name": "Mini-documentary / founder mini-VSL ('how it's made', mission)",
  "title": "50 · Mini-documentary / founder mini-VSL (\"how it's made\", mission)",
- "n_examples": 11,
+ "n_examples": 12,
  "n_curated": 4,
  "n_candidates": 6,
  "stages": [
@@ -107,6 +107,20 @@
    "eng": "36L/36BM/3kV",
    "grade": "VALUE",
    "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2103386592136376620",
+   "file": "0000-00-00-IND__Sweety-2103386592136376620.md",
+   "kind": "cited",
+   "author": "IND__Sweety",
+   "date": "",
+   "url": "https://x.com/IND__Sweety/status/2103386592136376620",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

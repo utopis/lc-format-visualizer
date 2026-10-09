@@ -1,0 +1,108 @@
+{
+ "id": "F106",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Ecombos_Ai/status/2108240933435400432",
+ "author": "Ecombos_Ai",
+ "type": "video",
+ "duration": 15,
+ "mp4": "https://video.twimg.com/amplify_video/2108240889856610304/vid/avc1/320x568/wgO2mE4ORkj5ElKQ.mp4?tag=16",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 147,
+ "views": 7577,
+ "seen": "An AI drama clip, 15 seconds. An elderly father leans on the banister, and his daughter walks in with a cane visible by the door. \"Dad, why didn't you call me?\" \"Because you'd look at me like that.\" \"The wedding's in six weeks, Dad.\" \"I'm not using the cane. Not there.\" \"Then who's walking me down the aisle?\" It cuts on his face with no resolution. That cut is the cliffhanger that makes people watch Part 2 or click through. A second clip in the post uses the same system.",
+ "match": "close",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "Dad, why didn't you call me?",
+   "ocr": ""
+  },
+  {
+   "t": "0:02",
+   "said": "Dad, why didn't you call me? Because you'd look at me like that.",
+   "ocr": ""
+  },
+  {
+   "t": "0:04",
+   "said": "Dad, why didn't you call me? Because you'd look at me like that.",
+   "ocr": ""
+  },
+  {
+   "t": "0:06",
+   "said": "Because you'd look at me like that. The wedding's in six weeks, Dad.",
+   "ocr": ""
+  },
+  {
+   "t": "0:08",
+   "said": "The wedding's in six weeks, Dad. I'm not using the cane. Not there.",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "The wedding's in six weeks, Dad. I'm not using the cane. Not there. Then who's walking me down the aisle?",
+   "ocr": ""
+  },
+  {
+   "t": "0:12",
+   "said": "I'm not using the cane. Not there. Then who's walking me down the aisle?",
+   "ocr": ""
+  },
+  {
+   "t": "0:14",
+   "said": "Then who's walking me down the aisle?",
+   "ocr": "ray yt As AN"
+  }
+ ],
+ "more": [
+  {
+   "id": "2103922292640149628",
+   "author": "Olumide_gbenro",
+   "url": "https://x.com/Olumide_gbenro/status/2103922292640149628",
+   "thumb": "example/more/2103922292640149628.jpg",
+   "kind": "image",
+   "cap": "We just got 2.3M views on an AI drama in 24 hours. Here\u2019s the secret to how we did it. \u2192 Find viral winners. Remix them your way. I found a similar st",
+   "views": 193
+  },
+  {
+   "id": "2105707431368269892",
+   "author": "AmyBasirStudio",
+   "url": "https://x.com/AmyBasirStudio/status/2105707431368269892",
+   "thumb": "example/more/2105707431368269892.jpg",
+   "kind": "1:02 video",
+   "cap": "DRAGON BRIDE \u2014 Episode 1 Bound by an ancient royal pact, a princess is sent to a remote mountaintop altar to marry a mysterious creature. What awaits ",
+   "views": 87
+  },
+  {
+   "id": "2108191928923881782",
+   "author": "AdamKPx",
+   "url": "https://x.com/AdamKPx/status/2108191928923881782",
+   "thumb": "example/more/2108191928923881782.jpg",
+   "kind": "0:30 video",
+   "cap": "AI Drama Ads are crushing it right now. And Arcads makes them ridiculously easy to create. People don\u2019t want to watch ads. They want stories. Characte",
+   "views": 280
+  },
+  {
+   "id": "2107808445508321597",
+   "author": "TheIvanKreimer",
+   "url": "https://x.com/TheIvanKreimer/status/2107808445508321597",
+   "thumb": "example/more/2107808445508321597.jpg",
+   "kind": "2:57 video",
+   "cap": "Smooche AI melodrama: ID-photo clerk scene, product at 1:54; retention: 90-95% drop before product. Try only if short DR saturated.",
+   "views": 63
+  },
+  {
+   "id": "2087810501686481034",
+   "author": "SmartEye_ADSpy",
+   "url": "https://x.com/SmartEye_ADSpy/status/2087810501686481034",
+   "thumb": "example/more/2087810501686481034.jpg",
+   "kind": "image",
+   "cap": "Top 3 Contribute Over 40% of Market Revenue | Maiya's NetShort Cracks the Top 3 In H1 2026, the Top 20 Chinese micro drama apps in global markets gene",
+   "views": 137
+  }
+ ]
+}

@@ -96,10 +96,10 @@ Context: {{LC_CONTEXT_PACK}}. Here are scraped videos with views and each creato
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (23 posts). Top 5:
+See [examples/README.md](examples/README.md) (24 posts). Top 5:
 
 - @jakecastilloooo (984L/3090BM/290kV): Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test ta — https://x.com/jakecastilloooo/status/2107873317369581751
+- @traqscales (22L/27BM/1kV): Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, "we gave every guest a camera instead of hiring more photogr — https://x.com/traqscales/status/2108113354178932920
 - @0xDepressionn (18L/14BM/2kV): Summary of Jake Castillo's workflow: AI videos as cheap organic tests, then ad money behind winners. — https://x.com/0xDepressionn/status/2107918489587507606
 - @carlynorthmedia (0L/0BM/69V): Know when to stop iterating a winner: reusing the same hook causes audience + algorithm fatigue. — https://x.com/carlynorthmedia/status/2107565970197782530
-- @traqscales (0L/0BM/0V): Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, "we gave every guest a camera instead of hiring more photogr — https://x.com/traqscales/status/2108113354178932920
 - @ai_cult1 (0L/0BM/49V): Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months). — https://x.com/ai_cult1/status/2092368368968049118

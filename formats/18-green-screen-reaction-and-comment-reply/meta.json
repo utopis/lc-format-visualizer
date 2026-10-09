@@ -3,7 +3,7 @@
  "slug": "18-green-screen-reaction-and-comment-reply",
  "name": "Green-screen reaction over a proven winner + reply-to-comment overlay",
  "title": "18 · Green-screen reaction & comment reply",
- "n_examples": 10,
+ "n_examples": 11,
  "n_curated": 5,
  "n_candidates": 5,
  "stages": [
@@ -103,6 +103,20 @@
    "eng": "12L/14BM/967V",
    "grade": "VALUE",
    "gist": "15 formats to repackage winners into (scaled to $30k/day on 3-4 angles): founder, yapper, AI animation, voiceless overlay, carousel, reply ad, text wall, review static, camouflage.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2098103517680402637",
+   "file": "0000-00-00-claireonvideo-2098103517680402637.md",
+   "kind": "cited",
+   "author": "claireonvideo",
+   "date": "",
+   "url": "https://x.com/claireonvideo/status/2098103517680402637",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

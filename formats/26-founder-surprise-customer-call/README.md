@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (4.80 ROAS first-party; 3 sources) · hype risk: Low · cost $0-50 (phone + recording consent) · 1-2 h per call, 3-5 cuts per call
 
 ## What it is
@@ -105,6 +108,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [40-testimonial-mashup](../40-testimonial-mashup/README.md), [48-the-dm-i-get-every-day](../48-the-dm-i-get-every-day/README.md), [13-podcast-style-ad](../13-podcast-style-ad/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Rachel's Tea: Co-founder spouse explains the new product line, 481 days live. A trust update from a real person reads like a customer email, not an ad, and pre-empts the 'why did my product change?' objection for returning buyers.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

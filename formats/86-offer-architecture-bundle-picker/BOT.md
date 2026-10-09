@@ -87,10 +87,10 @@ Write 5 offer-architecture ads for LC: picker screen-record script, mystery box 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (6 posts). Top 5:
+See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
 - @FedotOff90 (238L/632BM/20kV): 7,500+ winning Meta ads sorted by format across public boards (top-50 DTC, beauty, natives, listicles, shock & gross, BOFU). — https://x.com/FedotOff90/status/2093350155751924213
 - @FedotOff90 (175L/385BM/47kV): 6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) — 53-format lander database. — https://x.com/FedotOff90/status/2094854572623675832
 - @FedotOff90 (145L/318BM/11kV): 24 landing page formats with live ad→lander pairs (breaking news, investigation, as-seen-on-TV, doctor warning…). — https://x.com/FedotOff90/status/2092382176738202057
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
-- @FedotOff90 (35L/42BM/7kV): 335 of top BOFU ads in ONE swipe file here: https://t.co/39G7hAlLer https://t.co/rsZzZSpMFd https://t.co/CJ695Dqbfc — https://x.com/FedotOff90/status/2091884660871585977
+- @tryatria_AI (63L/103BM/6kV): Resilia: 4,790 of 5,449 ads to same page; 2nd bag $20 + free jar (offer architecture). — https://x.com/tryatria_AI/status/2107919598917923125

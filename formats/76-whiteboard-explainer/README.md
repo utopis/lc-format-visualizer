@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0-50 · 30 min
 
 ## What it is
@@ -86,6 +89,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [58-educational-care-material-explainer](../58-educational-care-material-explainer/README.md), [35-diagram-statics-venn-report-card](../35-diagram-statics-venn-report-card/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Rachel's Tea: Animated numbered-benefit product spec video, 424 days live. Silent, readable in 3 s, cheap to version; for a returning-customer base the spec IS the message.
+- Pinch Magic Fiber: Presenter explainer with 'this is what 30 g of fiber looks like', 288 days live. The 'what X looks like' visual turns an abstract number into a pile of food the viewer can't eat daily, so the product becomes the shortcut; comparison table handles 'all fiber is the same'.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

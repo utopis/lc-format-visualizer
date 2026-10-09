@@ -87,10 +87,10 @@ Write 6 deadline-urgency videos (≤15 s) for LC's real deadline {{DEADLINE}}: 2
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (7 posts). Top 5:
+See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
 - @ErJithin (0L/0BM/0V): Story-song ads losing top impression rank to BOF statics in Koriderm/Resilia libraries. — https://x.com/ErJithin/status/2107419279872360910
 - @MaximilianMoj (0L/0BM/0V): Resilia "$36M/month" (unverified) top 5 ads via Playhead teardowns: candida, aged garlic 4-week arteries, GLP-1, urgency (8 at once), animated explainer. — https://x.com/MaximilianMoj/status/2101002307160731848
 - @jackolivieri_ (0L/0BM/0V): Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share). — https://x.com/jackolivieri_/status/2097798592010547583
+- @Counterprint (0L/0BM/0V):  — https://x.com/Counterprint/status/2107894146140631180
 - @CityOfStonks (61L/1BM/3kV): LAST CHANCE TO GRAB SOME KEYS!!! @ccmweb3 has a GIVEAWAY for FIVE keys This is the creative agency that built City of Stonks, my personal media brand - show som — https://x.com/CityOfStonks/status/2093225775755657483
-- @lukasenECOM (58L/2BM/3kV): Road to 1M with ecom - Day 133 Revenue: $197 Ad Spend: $218 ROAS: 0.90 better than yesterday but still not profitable looks like doubling the budget might’ve sh — https://x.com/lukasenECOM/status/2101211512975003830

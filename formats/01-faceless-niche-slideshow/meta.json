@@ -3,7 +3,7 @@
  "slug": "01-faceless-niche-slideshow",
  "name": "Faceless niche slideshow (content-first, product as one tip)",
  "title": "01 · Faceless niche slideshow",
- "n_examples": 28,
+ "n_examples": 32,
  "n_curated": 24,
  "n_candidates": 4,
  "stages": [
@@ -186,7 +186,7 @@
    "author": "eglitisX",
    "date": "2026-10-07",
    "url": "https://x.com/eglitisX/status/2107885511855706387",
-   "eng": "172L/186BM/11kV",
+   "eng": "173L/190BM/11kV",
    "grade": "SOME",
    "gist": "TikTok slideshows vs Instagram Trial Reels comparison: 3x MRR in <30 days.",
    "thumb": "https://pbs.twimg.com/media/HUC2svGaAAAJaHv.jpg",
@@ -446,6 +446,72 @@
    "thumb": "",
    "media": [],
    "transcript": false
+  },
+  {
+   "id": "2108259483902513153",
+   "file": "2026-10-08-rsalimx-2108259483902513153.md",
+   "kind": "cited",
+   "author": "rsalimx",
+   "date": "2026-10-08",
+   "url": "https://x.com/rsalimx/status/2108259483902513153",
+   "eng": "149L/213BM/9kV",
+   "grade": "VALUE",
+   "gist": "Recipe slideshows (one meal per slide) hit 40M views; app = 'all of this in your pocket'. Save-bait listicle.",
+   "thumb": "https://pbs.twimg.com/media/HUIKxtVWcAA_hiw.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2106779894785188006",
+   "file": "2026-10-04-PerezHatesAI-2106779894785188006.md",
+   "kind": "cited",
+   "author": "PerezHatesAI",
+   "date": "2026-10-04",
+   "url": "https://x.com/PerezHatesAI/status/2106779894785188006",
+   "eng": "48L/68BM/2kV",
+   "grade": "",
+   "gist": "This is wild 😭 4.3M views. 250K saves. On a \"weird habits\" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that \"actually work\". And somewhere in the m",
+   "thumb": "https://pbs.twimg.com/media/HTzJJGha4AAhypR.jpg",
+   "media": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2103913493829156865",
+   "file": "2026-09-26-_Rina__Lee-2103913493829156865.md",
+   "kind": "cited",
+   "author": "_Rina__Lee",
+   "date": "2026-09-26",
+   "url": "https://x.com/_Rina__Lee/status/2103913493829156865",
+   "eng": "2L/0BM/330V",
+   "grade": "",
+   "gist": "HOW TO PRINT WITH TIKTOK SLIDESHOWS &gt;start a KOREAN SKINCARE account &gt;3 accounts. same products, different angles. \"under $15,\" \"for oily skin,\" \"for acne\" &gt;target divorce",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108191952047153611",
+   "file": "2026-10-08-themariaines-2108191952047153611.md",
+   "kind": "cited",
+   "author": "themariaines",
+   "date": "2026-10-08",
+   "url": "https://x.com/themariaines/status/2108191952047153611",
+   "eng": "0L/0BM/0V",
+   "grade": "VALUE",
+   "gist": "Same hook, same format, different app: Albo 891.8K views, $70K/mo — \"been shopping at Aldi for 10 years and NOW I FIND THIS\" + silent demo.",
+   "thumb": "",
+   "media": [],
+   "transcript": true
   },
   {
    "id": "2096288782517457130",

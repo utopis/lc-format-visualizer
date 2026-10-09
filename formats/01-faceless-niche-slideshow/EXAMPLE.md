@@ -24,8 +24,8 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 
 | | | |
 |---|---|---|
-| [![@rsalimx](example/more/2107517609960702306.jpg)](https://x.com/rsalimx/status/2107517609960702306)<br>**@rsalimx** · images · 6K views<br>Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it). | [![@ChadAppDev](example/more/2098786343836860487.jpg)](https://x.com/ChadAppDev/status/2098786343836860487)<br>**@ChadAppDev** · image · 18K views<br>Before building: make niche TikTok page, find most viral slideshow formats, copy with own flavor, 1/day. | [![@ChadAppDev](example/more/2107186633871114374.jpg)](https://x.com/ChadAppDev/status/2107186633871114374)<br>**@ChadAppDev** · image · 5K views<br>Repost of ChadAppDev niche slideshow method. |
-| [![@leonclipping](example/more/2106833379823894702.jpg)](https://x.com/leonclipping/status/2106833379823894702)<br>**@leonclipping** · 0:16 video · 8K views<br>GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip. | [![@Dkevs_](example/more/2100425887636472312.jpg)](https://x.com/Dkevs_/status/2100425887636472312)<br>**@Dkevs_** · 0:05 video · 4K views<br>$200K MRR app via TikTok slideshows; don't overcomplicate with clippers. | [![@mufvza](example/more/2082847934841049519.jpg)](https://x.com/mufvza/status/2082847934841049519)<br>**@mufvza** · 0:18 video · 44K views<br>Analysis of 1,000 app slideshows: most-viewed != most installs; track saves/profile clicks per slideshow. |
+| [![@PerezHatesAI](example/more/2106779894785188006.jpg)](https://x.com/PerezHatesAI/status/2106779894785188006)<br>**@PerezHatesAI** · images · 2K views<br>This is wild 😭 4.3M views. 250K saves. On a "weird habits" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that "actually | [![@rsalimx](example/more/2108259483902513153.jpg)](https://x.com/rsalimx/status/2108259483902513153)<br>**@rsalimx** · images · 6K views<br>nah this is actually insane 😭 the account has posts sitting at 40m views and the app is doing ~$10k mrr off it recipes are the most natural slideshow | [![@rsalimx](example/more/2107517609960702306.jpg)](https://x.com/rsalimx/status/2107517609960702306)<br>**@rsalimx** · images · 6K views<br>Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it). |
+| [![@ChadAppDev](example/more/2098786343836860487.jpg)](https://x.com/ChadAppDev/status/2098786343836860487)<br>**@ChadAppDev** · image · 18K views<br>Before building: make niche TikTok page, find most viral slideshow formats, copy with own flavor, 1/day. | [![@ChadAppDev](example/more/2107186633871114374.jpg)](https://x.com/ChadAppDev/status/2107186633871114374)<br>**@ChadAppDev** · image · 5K views<br>Repost of ChadAppDev niche slideshow method. | [![@leonclipping](example/more/2106833379823894702.jpg)](https://x.com/leonclipping/status/2106833379823894702)<br>**@leonclipping** · 0:16 video · 8K views<br>GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip. |
 
 ## How to make one like it
 
@@ -131,7 +131,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: slideshow volume via account farms (yurahulei), with caution](README.md)
+Newer observations live in the playbook: [Wave 2c update: slideshow volume via account farms (yurahulei), with caution](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

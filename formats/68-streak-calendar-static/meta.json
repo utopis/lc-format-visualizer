@@ -3,7 +3,7 @@
  "slug": "68-streak-calendar-static",
  "name": "Streak calendar static (a habit grid filled with ✓ days)",
  "title": "68 · Streak calendar static (a habit grid filled with ✓ days)",
- "n_examples": 2,
+ "n_examples": 3,
  "n_curated": 0,
  "n_candidates": 1,
  "stages": [
@@ -51,6 +51,20 @@
    "media": [
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "1833960761489813736",
+   "file": "0000-00-00-iwo_cybulski-1833960761489813736.md",
+   "kind": "cited",
+   "author": "iwo_cybulski",
+   "date": "",
+   "url": "https://x.com/iwo_cybulski/status/1833960761489813736",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

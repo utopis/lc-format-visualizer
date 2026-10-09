@@ -59,7 +59,7 @@ Angles from real reviews (Claude: cluster LC reviews into motivators: shower-pro
 See [examples/README.md](examples/README.md) (37 posts). Top 5:
 
 - @jakecastilloooo (984L/3090BM/290kV): Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test ta — https://x.com/jakecastilloooo/status/2107873317369581751
-- @kristian_jennin (1123L/3024BM/231kV): AI UGC looks fake because of a missing step (realism workflow video). — https://x.com/kristian_jennin/status/2101352217089282066
+- @kristian_jennin (1124L/3024BM/231kV): AI UGC looks fake because of a missing step (realism workflow video). — https://x.com/kristian_jennin/status/2101352217089282066
 - @eliasrrecom (266L/548BM/54kV): Realistic AI UGC ads tutorial. — https://x.com/eliasrrecom/status/2092612451623694388
-- @zedmadeit (347L/472BM/20kV): Intentional AI ad system starting from brand/product/customer, visuals matched to script. — https://x.com/zedmadeit/status/2107552798842003488
+- @zedmadeit (348L/473BM/20kV): Intentional AI ad system starting from brand/product/customer, visuals matched to script. — https://x.com/zedmadeit/status/2107552798842003488
 - @adamtaylorl (266L/426BM/22kV): Hike Footwear ad 100% AI. — https://x.com/adamtaylorl/status/2089713928511345017

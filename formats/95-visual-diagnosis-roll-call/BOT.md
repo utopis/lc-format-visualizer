@@ -90,9 +90,10 @@ Write 3 visual-diagnosis roll-call hooks for LC: 5 one-second jewelry "symptoms"
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (4 posts). Top 5:
+See [examples/README.md](examples/README.md) (5 posts). Top 5:
 
 - @lorenzo_pravata (0L/0BM/0V): Resilia 6,000 ads, parasite cause-relocation angle, "That's parasites" roll-call, carvacrol gate; 10+ subpages to avoid bans. — https://x.com/lorenzo_pravata/status/2065407167515984348
+- @thousif_maker (0L/0BM/0V):  — https://x.com/thousif_maker/status/2107161552377819648
 - @Network_UCG (70L/9BM/5kV): ☀️ Summer UGC Creator Roll Call! ☀️ Want more brands to discover your portfolio? Drop your link in the comments, follow other creators, and RT to help everyone  — https://x.com/Network_UCG/status/2079759701244338486
 - @JenUGCGenX (39L/1BM/1kV): Am I the only one who feels like Gen X creators are still a small part of the UGC community? I see so many younger creators everywhere, but not as many Gen X cr — https://x.com/JenUGCGenX/status/2087962642568860039
 - @rollcall (2L/0BM/2kV): The Democratic Congressional Campaign Committee is marking 100 days until the midterm elections with a new digital ad shared first with CQ Roll Call. https://t. — https://x.com/rollcall/status/2080621569739518408

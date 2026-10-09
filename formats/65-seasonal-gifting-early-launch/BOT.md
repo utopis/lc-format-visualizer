@@ -86,10 +86,10 @@ Build a 4-week seasonal plan for {{SEASON}} with weekly creative types, 3 hooks 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (7 posts). Top 5:
+See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
+- @PowerbyMomBlog (0L/0BM/0V):  — https://x.com/PowerbyMomBlog/status/1733284392045543691
 - @herrmanndigital (160L/150BM/12kV): My Black Friday strategy on Meta is just leave on the ads you’ve had on all year. Then a second campaign on lifetime budgets with the sale ads. On Applovin, tak — https://x.com/herrmanndigital/status/2098058544654450850
 - @chasebfisher (27L/12BM/795V): for Black Friday, swap your landing page and keep your winning creative running. a lot of brands do the opposite. they pause the ads that worked all year and la — https://x.com/chasebfisher/status/2107114066741231664
 - @chasebfisher (20L/11BM/615V): build a separate batch of creative just for the week after Black Friday. a lot of brands pour everything into Black Friday and Cyber Monday, then pull way back  — https://x.com/chasebfisher/status/2105334969371447475
 - @M__Operators (11L/6BM/747V): We are 87 days away from Black Friday. @codyplof, @couuor + @connorrolain open up their Q4 playbooks. Reuse top creative from 2025 Scale-up tests before BFCM La — https://x.com/M__Operators/status/2094809174907535497
-- @umzrs (7L/6BM/1kV): How to add 30,000-50,000 new Email contacts to your list before BFCM 👇 Right now in September, ad costs are still baseline By mid-November, everyone and their m — https://x.com/umzrs/status/2103513124632449171

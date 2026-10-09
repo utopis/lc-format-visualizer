@@ -21,6 +21,9 @@ related_strategies: [36-owned-winner-video-remix, 11-social-proof-credibility-en
 
 
 
+
+
+
 ## Looks like
 Creator in front of a green-screen background showing **LC's own winning ad/post** (or a screenshot of a viral comment), reacting/explaining. Comment-reply: TikTok/IG comment bubble sticker ("does this actually survive the ocean??") + answer video.
 

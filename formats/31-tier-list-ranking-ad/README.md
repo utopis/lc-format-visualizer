@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (operator: top spender across accounts) · hype risk: Low · cost $0-150 · 1-2 h
 
 ## What it is
@@ -100,6 +103,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [35-diagram-statics-venn-report-card](../35-diagram-statics-venn-report-card/README.md), [39-x-reasons-why](../39-x-reasons-why/README.md), [51-quiz-guess-game](../51-quiz-guess-game/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Symmetry (AI body-scan gym app): 150K downloads/month and ~$25K MRR from one slideshow format, no ads: slide 1 "Top 5 gym apps (worst to best)", slides 2-5 four other apps with their problems, slide 6 a 10/10 for Symmetry with features ([@adamtwtz](https://x.com/adamtwtz/status/2097925109155549689)).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

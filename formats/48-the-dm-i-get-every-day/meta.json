@@ -3,7 +3,7 @@
  "slug": "48-the-dm-i-get-every-day",
  "name": "'The DM / question I get every day' answer video",
  "title": "48 · \"The DM / question I get every day\" answer video",
- "n_examples": 3,
+ "n_examples": 4,
  "n_curated": 1,
  "n_candidates": 0,
  "stages": [
@@ -77,6 +77,20 @@
    "eng": "36L/36BM/3kV",
    "grade": "VALUE",
    "gist": "Dead in 2026: polished studio, \"hey guys\" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks, us-vs-them statics.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "1775569173747228909",
+   "file": "0000-00-00-MaGeAuNaturel-1775569173747228909.md",
+   "kind": "cited",
+   "author": "MaGeAuNaturel",
+   "date": "",
+   "url": "https://x.com/MaGeAuNaturel/status/1775569173747228909",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

@@ -12,8 +12,8 @@
  "w": null,
  "h": null,
  "via_quote": false,
- "likes": 103,
- "views": 5578,
+ "likes": 149,
+ "views": 8637,
  "seen": "Two screenshots: a recipe app's App Store page (Daily Bite, \"Save Any Recipe Anywhere\") and the TikTok profile that drives it (\"Success Fitness\"), a grid of one-meal-per-slide recipe carousels, many past 1M views. The carousel is the content; the app is the save-it-for-later tool.",
  "match": "exact",
  "beats": [],
@@ -26,6 +26,15 @@
    "kind": "images",
    "cap": "Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it).",
    "views": 6312
+  },
+  {
+   "id": "2106779894785188006",
+   "author": "PerezHatesAI",
+   "url": "https://x.com/PerezHatesAI/status/2106779894785188006",
+   "thumb": "example/more/2106779894785188006.jpg",
+   "kind": "images",
+   "cap": "This is wild \ud83d\ude2d 4.3M views. 250K saves. On a \"weird habits\" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that \"actually",
+   "views": 1912
   },
   {
    "id": "2095194062756413781",
@@ -53,15 +62,6 @@
    "kind": "image",
    "cap": "ChatGPT Ads update -&gt; ChatGPT is testing a multi-product carousel format for product feed campaigns \"We\u2019ve started testing a carousel format for pr",
    "views": 2435
-  },
-  {
-   "id": "2085392121830515010",
-   "author": "kajiiaura",
-   "url": "https://x.com/kajiiaura/status/2085392121830515010",
-   "thumb": "example/more/2085392121830515010.jpg",
-   "kind": "0:06 video",
-   "cap": "bruh the carousel format ruined this https://t.co/RhNKJbSkOJ",
-   "views": 737
   }
  ]
 }

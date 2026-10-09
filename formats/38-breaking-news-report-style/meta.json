@@ -5,7 +5,7 @@
  "title": "38 · Breaking-news / news-report style ad",
  "n_examples": 11,
  "n_curated": 5,
- "n_candidates": 5,
+ "n_candidates": 4,
  "stages": [
   {
    "stage": "Find",
@@ -112,6 +112,22 @@
    "transcript": false
   },
   {
+   "id": "2089745258796261415",
+   "file": "2026-08-18-ladprofit-2089745258796261415.md",
+   "kind": "cited",
+   "author": "ladprofit",
+   "date": "2026-08-18",
+   "url": "https://x.com/ladprofit/status/2089745258796261415",
+   "eng": "58L/111BM/90kV",
+   "grade": "",
+   "gist": "built a BREAKING NEWS style ad with AI and it's terrifying how convincing it is synthetic spokesperson, invented product, \"doctor\" with credentials I generated, and the only thing ",
+   "thumb": "https://pbs.twimg.com/media/HQBEBznaEAArD23.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2083288607062732816",
    "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
    "kind": "cited",
@@ -123,22 +139,6 @@
    "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2089745258796261415",
-   "file": "2026-08-18-ladprofit-2089745258796261415.md",
-   "kind": "candidate",
-   "author": "ladprofit",
-   "date": "2026-08-18",
-   "url": "https://x.com/ladprofit/status/2089745258796261415",
-   "eng": "58L/111BM/90kV",
-   "grade": "",
-   "gist": "built a BREAKING NEWS style ad with AI and it's terrifying how convincing it is synthetic spokesperson, invented product, \"doctor\" with credentials I generated, and the only thing ",
-   "thumb": "https://pbs.twimg.com/media/HQBEBznaEAArD23.jpg",
-   "media": [
-    "video"
-   ],
    "transcript": false
   },
   {

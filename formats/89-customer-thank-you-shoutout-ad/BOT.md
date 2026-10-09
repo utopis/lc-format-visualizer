@@ -83,7 +83,8 @@ Write 3 customer thank-you ads for LC (card text ≤50 words + 20s founder VO) f
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (2 posts). Top 5:
+See [examples/README.md](examples/README.md) (3 posts). Top 5:
 
+- @LorelDiamonds (0L/0BM/0V):  — https://x.com/LorelDiamonds/status/2099906094990508266
 - @Nate_Google_ (211L/267BM/23kV): this is a PRIME EXAMPLE of why native style creative wins 600k views on this article post in 5 hours nobody scrolls past a handwritten note on a cup. everybody  — https://x.com/Nate_Google_/status/2090789562121359452
 - @envyofyibo (44L/3BM/2kV): Lanqin Lozenges Weibo "Lanqin Lozenges's Monkey Lily suddenly disappeared last night!! We found a handwritten note on his workstation. 🔍 It said he was going to — https://x.com/envyofyibo/status/2095707442294448570

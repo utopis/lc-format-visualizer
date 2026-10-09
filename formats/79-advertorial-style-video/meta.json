@@ -3,7 +3,7 @@
  "slug": "79-advertorial-style-video",
  "name": "Advertorial-style video ('5 reasons ___ are ditching ___')",
  "title": "79 · Advertorial-style video (\"5 reasons ___ are ditching ___\")",
- "n_examples": 6,
+ "n_examples": 7,
  "n_curated": 3,
  "n_candidates": 3,
  "stages": [
@@ -75,6 +75,20 @@
    "eng": "0L/0BM/0V",
    "grade": "VALUE",
    "gist": "Resilia: 12 persona Pages → one 7-min advertorial (30-50% of traffic), 3-4 copy templates × hundreds of creatives, 544 new ads/30d, OTO flow $30→$83.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "1815524880361914630",
+   "file": "0000-00-00-AaronOrendorff-1815524880361914630.md",
+   "kind": "cited",
+   "author": "AaronOrendorff",
+   "date": "",
+   "url": "https://x.com/AaronOrendorff/status/1815524880361914630",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

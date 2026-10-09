@@ -22,6 +22,9 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 31-founder-daily-posti
 
 
 
+
+
+
 ## Looks like
 Creator in a parked car (or walking), phone propped, talking fast and personal: "I couldn't even wait to go inside to tell you." One continuous story, light jump cuts, captions. Why it works ([@jennamediaco](https://x.com/jennamediaco/status/2106209597526540312)): car looks organic, a story the whole time, feels private and unscripted.
 
@@ -43,6 +46,9 @@ Brief 10 creators via Trybe/creator network (strategy 28) with 3 story prompts; 
 - **LC test add-on:** 10 yapper creators × 3 stories → Partnership ads; scale any ad that holds >35% hook rate and CPA ≤ target (benchmarks above).
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- "Yapper girl in car" AI UGC is reported as the format behind $200K days for an ecom brand, beating every studio shot ([@CEO_Vlad](https://x.com/CEO_Vlad/status/2082092962348167273)). Seed, Grüns, Arrae and Primal Queen all run yapper ads: one person, voice-memo style, almost no cuts, no music, product at ~75% ([@philhippoflynn](https://x.com/philhippoflynn/status/2081808221426397302)).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

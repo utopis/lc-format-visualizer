@@ -5,7 +5,7 @@
  "title": "22 · Split-screen two versions",
  "n_examples": 9,
  "n_curated": 1,
- "n_candidates": 8,
+ "n_candidates": 6,
  "stages": [
   {
    "stage": "Find",
@@ -52,6 +52,36 @@
    "transcript": false
   },
   {
+   "id": "2093386984349700402",
+   "file": "2026-08-28-thankyouecom-2093386984349700402.md",
+   "kind": "cited",
+   "author": "thankyouecom",
+   "date": "2026-08-28",
+   "url": "https://x.com/thankyouecom/status/2093386984349700402",
+   "eng": "78L/133BM/6kV",
+   "grade": "",
+   "gist": "Almost every winner in our scaling CBO this month is AI debate Here’s our method for generating these bangers 1. Not an interview Debate formats are arguments and it feels more lik",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2081629763882430905",
+   "file": "2026-07-27-Charconsults-2081629763882430905.md",
+   "kind": "cited",
+   "author": "Charconsults",
+   "date": "2026-07-27",
+   "url": "https://x.com/Charconsults/status/2081629763882430905",
+   "eng": "3L/0BM/172V",
+   "grade": "",
+   "gist": "Day 7/14 This one is an oldie, brief show the product in use and the pay off for using. This ad was very visual use before after/split screen pacing and brolls. Hello@charlottecons",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2081629688942768128/img/hY-hdBeIApFT5xTY.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2096979805346673029",
    "file": "2026-09-07-DailyYTNiches-2096979805346673029.md",
    "kind": "candidate",
@@ -65,20 +95,6 @@
    "media": [
     "photo"
    ],
-   "transcript": false
-  },
-  {
-   "id": "2093386984349700402",
-   "file": "2026-08-28-thankyouecom-2093386984349700402.md",
-   "kind": "candidate",
-   "author": "thankyouecom",
-   "date": "2026-08-28",
-   "url": "https://x.com/thankyouecom/status/2093386984349700402",
-   "eng": "78L/133BM/6kV",
-   "grade": "",
-   "gist": "Almost every winner in our scaling CBO this month is AI debate Here’s our method for generating these bangers 1. Not an interview Debate formats are arguments and it feels more lik",
-   "thumb": "",
-   "media": [],
    "transcript": false
   },
   {
@@ -155,22 +171,6 @@
    "gist": "YouTube have adopted a new ad format that shows ads mid stream without affecting the stream using a split screen. Not bad.",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2081629763882430905",
-   "file": "2026-07-27-Charconsults-2081629763882430905.md",
-   "kind": "candidate",
-   "author": "Charconsults",
-   "date": "2026-07-27",
-   "url": "https://x.com/Charconsults/status/2081629763882430905",
-   "eng": "3L/0BM/172V",
-   "grade": "",
-   "gist": "Day 7/14 This one is an oldie, brief show the product in use and the pay off for using. This ad was very visual use before after/split screen pacing and brolls. Hello@charlottecons",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2081629688942768128/img/hY-hdBeIApFT5xTY.jpg",
-   "media": [
-    "video"
-   ],
    "transcript": false
   }
  ]

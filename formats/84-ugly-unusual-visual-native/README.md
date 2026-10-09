@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (boards) · hype risk: Low · cost $0 · 20 min
 
 ## What it is
@@ -85,6 +88,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [09-native-story-static-to-advertorial](../09-native-story-static-to-advertorial/README.md), [10-shock-headline-text-static](../10-shock-headline-text-static/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- WebMD: Editorial flat-lay food static (WebMD 'Polyphenols'), 253 days live. Looks like editorial content, not an ad; curiosity click to an article.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

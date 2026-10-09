@@ -89,8 +89,9 @@ Audit this catalog feed sample {{FEED}}: rewrite titles/descriptions for search 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (3 posts). Top 5:
+See [examples/README.md](examples/README.md) (4 posts). Top 5:
 
+- @danpantelo (0L/0BM/0V):  — https://x.com/danpantelo/status/1640330448818544640
 - @torovictorioso (17L/2BM/4kV): $SNAP today introduces the .. The "Commerce Power Pack" Bundle: Packaging some existing e-commerce performance tools together into a dedicated, end-to-end perfo — https://x.com/torovictorioso/status/2098135439458877901
 - @_reachsumit (9L/6BM/388V): SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads Snap routes users between keyword BM25 retargeting and LLM-driven prospecting queries, cutting LLM — https://x.com/_reachsumit/status/2081996559710130535
 - @wearetheselect (4L/1BM/1kV): most y'all just run all products dpa ads don't forget to test into new product sets: best sellers, new drops, shirts, bottoms, hats, socks, etc you can go super — https://x.com/wearetheselect/status/2076807089280668077

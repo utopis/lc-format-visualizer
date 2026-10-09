@@ -3,7 +3,7 @@
  "slug": "20-ai-model-lookbook-on-body",
  "name": "AI model lookbook / on-body try-on (from real product photos)",
  "title": "20 · AI model lookbook / on-body try-on",
- "n_examples": 8,
+ "n_examples": 9,
  "n_curated": 3,
  "n_candidates": 5,
  "stages": [
@@ -87,6 +87,20 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2099477629078307041",
+   "file": "0000-00-00-KarinaRed123-2099477629078307041.md",
+   "kind": "cited",
+   "author": "KarinaRed123",
+   "date": "",
+   "url": "https://x.com/KarinaRed123/status/2099477629078307041",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2077765449371025600",

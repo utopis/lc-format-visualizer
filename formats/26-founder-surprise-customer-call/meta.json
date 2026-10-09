@@ -3,7 +3,7 @@
  "slug": "26-founder-surprise-customer-call",
  "name": "Founder surprise customer call (+ customer-service call variant)",
  "title": "26 · Founder surprise customer call (+ customer-service call variant)",
- "n_examples": 12,
+ "n_examples": 13,
  "n_curated": 6,
  "n_candidates": 5,
  "stages": [
@@ -139,6 +139,20 @@
    "eng": "55L/105BM/7kV",
    "grade": "VALUE",
    "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2064683771484320042",
+   "file": "0000-00-00-houseoffelsteve-2064683771484320042.md",
+   "kind": "cited",
+   "author": "houseoffelsteve",
+   "date": "",
+   "url": "https://x.com/houseoffelsteve/status/2064683771484320042",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

@@ -49,10 +49,10 @@ Screen recording of an iPhone scrolling marketplace listings of look-alike produ
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (8 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @Nate_Google_ (258L/461BM/23kV): Us-vs-copycat ads: iPhone scrolling fake Amazon listings explaining the difference - high CVR MOF. — https://x.com/Nate_Google_/status/2104963469548085713
 - @adamtaylorl (36L/36BM/3kV): Dead in 2026: polished studio, "hey guys" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks,  — https://x.com/adamtaylorl/status/2086814826177679660
 - @antonioventre_ (39L/23BM/3kV): 99% of comparison ads send click to PDP; send to dedicated comparison page instead. — https://x.com/antonioventre_/status/2084404696840569332
 - @alexpagepilot (11L/19BM/1kV): Top 5 dropship formats: UGC problem/solution, "TikTok made me buy it", us vs them split, founder talking head (retargets 2-3x), text-overlay slideshow. — https://x.com/alexpagepilot/status/2099438014456045990
-- @EiyanDickerson (180L/248BM/9kV): 4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYhthrj2t — https://x.com/EiyanDickerson/status/2088266872194023737
+- @piyush_jn (8L/0BM/722V): @abdushodmonov @chuckiegregory scaled Primal Queen subscription revenue from $2M to $100M+ in under 2 years. Female-focused beef organ supplements. Now in Targe — https://x.com/piyush_jn/status/2077070874084315386

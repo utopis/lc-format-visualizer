@@ -21,6 +21,9 @@ related_strategies: [11-social-proof-credibility-engine, 33-animated-brand-chara
 
 
 
+
+
+
 ## Structure
 0-3s provocative question hook ("what happens if you only poop twice a week?") → Week 1 / Week 2 / Week 3 / Week 4 each one beat of result → offer. ([@tryatria_AI](https://x.com/tryatria_AI/status/2106069700950294836)). Also "Day 1 skeptical… Day 7 automatic… Day 30…" (FedotOff90 example transcript).
 

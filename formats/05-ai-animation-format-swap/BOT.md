@@ -76,8 +76,8 @@ Claude skill pipeline (as built by @AlessandroLavis / @eliasrrecom): competitor 
 
 See [examples/README.md](examples/README.md) (29 posts). Top 5:
 
-- @spwfeijen (908L/2121BM/73kV): Chalkboard Explainer AI ad format: native look, step-by-step drawing retention, myths/listicles. — https://x.com/spwfeijen/status/2107023055532810720
+- @spwfeijen (908L/2121BM/74kV): Chalkboard Explainer AI ad format: native look, step-by-step drawing retention, myths/listicles. — https://x.com/spwfeijen/status/2107023055532810720
 - @CEO_Vlad (894L/1279BM/49kV): 7 AI UGC animation styles and what each is good for (article). — https://x.com/CEO_Vlad/status/2107328605995077699
-- @ArmandasPuckus (903L/602BM/44kV): 'Selling to menopausal women with AI animations IS the method'. — https://x.com/ArmandasPuckus/status/2107781382533472512
+- @ArmandasPuckus (917L/605BM/45kV): 'Selling to menopausal women with AI animations IS the method'. — https://x.com/ArmandasPuckus/status/2107781382533472512
 - @FynCas (348L/705BM/21kV): Same Chalkboard Explainer post (copied by FynCas). — https://x.com/FynCas/status/2107818540522737913
 - @AlessandroLavis (397L/579BM/27kV): Claude skill for cartoon ads from one prompt (research->script->scenes->VO->animation). — https://x.com/AlessandroLavis/status/2104186859689836822

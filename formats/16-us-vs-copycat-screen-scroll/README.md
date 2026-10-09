@@ -21,6 +21,9 @@ related_strategies: [08-ad-library-transparency-targeting-intel, 41-von-restorff
 
 
 
+
+
+
 ## Looks like
 Screen recording of an iPhone scrolling marketplace listings of look-alike products while a VO explains how to tell the difference (materials, plating, reviews mentioning tarnish), then cuts to the real product. ([@Nate_Google_](https://x.com/Nate_Google_/status/2104963469548085713)).
 
@@ -39,6 +42,9 @@ Retargeting + broad; CVR, Omni new vs returning.
 [_COMPLIANCE.md](../_COMPLIANCE.md). Don't name or show identifiable competitor brands/sellers; comparison claims must be substantiated (test records kept).
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Primal Queen (women's beef-organ supplement, reported $10M+/mo, ~1,600 active Meta ads, Target + TikTok Shop) leans on Us-vs-Them as a signature angle ([@zarastrategy](https://x.com/zarastrategy/status/2090820261574529478)); subscription revenue $2M → $100M+ in under 2 years ([@piyush_jn](https://x.com/piyush_jn/status/2077070874084315386)).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

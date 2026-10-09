@@ -86,10 +86,10 @@ Write 10 two-option poll prompts for LC (style/metal/occasion debates) and a 6-q
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (14 posts). Top 5:
+See [examples/README.md](examples/README.md) (15 posts). Top 5:
 
+- @f3dericobartoli (0L/0BM/0V):  — https://x.com/f3dericobartoli/status/2039638255537201662
 - @IgorWoorts (110L/147BM/6kV): There is NO single landing page that works best for all your ads. It all depends on the awareness stage. Unaware → listicle / quiz funnel (educate around the pr — https://x.com/IgorWoorts/status/2084623022649188607
 - @codyschneider (67L/92BM/7kV): an AI agent is running facebook ads for a local business it just got the 2170 ebook downloads in august 16% of people who download the ebook turn into a future  — https://x.com/codyschneider/status/2093098436069568758
 - @lorenzo_pravata (28L/21BM/3kV): We scaled an app from $0 to $50M in 10 months on Meta. The peak month did $3M, counting first purchases only. Subscription LTV came on top of that. And here's t — https://x.com/lorenzo_pravata/status/2079684588620664861
 - @JamesEbringer (8L/13BM/2kV): Facebook CPCs in Africa are $0.05 right now Five cents a click Go inside TAP and look for the Africa Ads Method Set up a Facebook ad account Point a simple ad a — https://x.com/JamesEbringer/status/2081462841052151919
-- @kailodee (7L/13BM/1kV): Ran ads for a client. 20 calls on the calendar in 3 days. 88% of leads qualified through the quiz funnel. We're already running out of calendar space and lookin — https://x.com/kailodee/status/2095617829051498810

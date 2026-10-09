@@ -81,6 +81,8 @@ Write 5 Display Card / gesture concepts for LC TikTok ads with on-card copy ≤8
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (1 posts). Top 5:
+See [examples/README.md](examples/README.md) (3 posts). Top 5:
 
+- @SOCIALFUELio (1L/0BM/12V): ana luisa are running 22 ads. this one has held for 47 days. Using an iOS crop-menu overlay visually programs the exact user behavior needed to claim the in-sto — https://x.com/SOCIALFUELio/status/2092930152133243178
+- @ChrisHarihar (0L/0BM/0V):  — https://x.com/ChrisHarihar/status/1703108334218297531
 - @_deepakss_ (10L/0BM/201V): Building "Tiktok for games" Arcadeo for this year's Shipaton. My main aim is to have a non frustrating experience when viewing an ad. This means user can skip t — https://x.com/_deepakss_/status/2087895969157246985

@@ -5,7 +5,7 @@
  "title": "96 · Result reveal → expert stitch (\"Y'all, this is my dad… after listening to this man. Just listen.\")",
  "n_examples": 4,
  "n_curated": 0,
- "n_candidates": 4,
+ "n_candidates": 3,
  "stages": [
   {
    "stage": "Find",
@@ -37,6 +37,23 @@
   }
  ],
  "examples": [
+  {
+   "id": "2083448214431351004",
+   "file": "2026-08-01-CalixAVelarde-2083448214431351004.md",
+   "kind": "cited",
+   "author": "CalixAVelarde",
+   "date": "2026-08-01",
+   "url": "https://x.com/CalixAVelarde/status/2083448214431351004",
+   "eng": "4L/1BM/461V",
+   "grade": "",
+   "gist": "this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back talking, in the car, ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083448093736091648/img/j3Nq0lakz5u6yLrn.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": false
+  },
   {
    "id": "2079614879309185498",
    "file": "2026-07-21-valentinszabadi-2079614879309185498.md",
@@ -79,23 +96,6 @@
    "gist": "Begging every brand owner to stop this mistake: Sitting on 50 pieces of B-roll footage… And launching zero variations of it. Do THIS instead: ⦁ Find one hook → stitch one voiceover",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2083448214431351004",
-   "file": "2026-08-01-CalixAVelarde-2083448214431351004.md",
-   "kind": "candidate",
-   "author": "CalixAVelarde",
-   "date": "2026-08-01",
-   "url": "https://x.com/CalixAVelarde/status/2083448214431351004",
-   "eng": "4L/1BM/461V",
-   "grade": "",
-   "gist": "this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back talking, in the car, ",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2083448093736091648/img/j3Nq0lakz5u6yLrn.jpg",
-   "media": [
-    "video",
-    "video"
-   ],
    "transcript": false
   }
  ]

@@ -81,8 +81,9 @@ From {{INBOX_EXPORT}}, rank the 10 most frequent pre-purchase questions and writ
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (3 posts). Top 5:
+See [examples/README.md](examples/README.md) (4 posts). Top 5:
 
 - @antonioventre_ (12L/13BM/995V): Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask. — https://x.com/antonioventre_/status/2091592059517837677
 - @raph_guilhem (55L/105BM/7kV): 30 Meta ad formats folder tree (hooks, founder content, etc.). — https://x.com/raph_guilhem/status/2083288607062732816
 - @adamtaylorl (36L/36BM/3kV): Dead in 2026: polished studio, "hey guys" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks,  — https://x.com/adamtaylorl/status/2086814826177679660
+- @MaGeAuNaturel (0L/0BM/0V):  — https://x.com/MaGeAuNaturel/status/1775569173747228909

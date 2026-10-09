@@ -23,6 +23,9 @@ related_strategies: [01-viral-slideshow-recreation, 06-keyword-named-products-so
 
 
 
+
+
+
 ## What it looks like
 Cover slide with a big, warm "for you" headline over a hero image ("High protein dinner ideas FOR YOU", "5 weeknight dinners for your lazy ass", "dinners to make for your husband this week") then **one item per slide**, each a beautiful photo + 1-line label. Product/app line sits in bio ("Get our app with all 500+ recipes") or on the last slide ("all of this, in your pocket"). Example account: @success.fitness — 1.4M followers, 25.4M likes, posts at 16-42M views ([@rsalimx](https://x.com/rsalimx/status/2108259483902513153)).
 
@@ -50,6 +53,10 @@ C. "Fall outfit + jewelry pairings for your 9-5 week" — Mon-Fri outfit photos 
 Eight paid carousel types: step-by-step tutorial, before/after, feature breakdown, social-proof stack, problem-solution, comparison, FAQ, UGC. Each card has one job (hook → proof → CTA); 1080×1350 (4:5); 8-10 words per card. For jewelry styling carousels see [57](../57-styling-carousel-how-to-wear/README.md). Source: [https://www.gethookd.ai/learn/8-effective-instagram-carousel-ad-examples-tips-for-2026/](https://www.gethookd.ai/learn/8-effective-instagram-carousel-ad-examples-tips-for-2026/).
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Put the product in the middle of the list, not the end where people drop off: Albo habit #4-5 ([@PerezHatesAI](https://x.com/PerezHatesAI/status/2106779894785188006)); running page slide 4/5 ([@rsalimx](https://x.com/rsalimx/status/2107517609960702306)).
+- Save test: write the list first without LC; only post it if you'd save it yourself.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

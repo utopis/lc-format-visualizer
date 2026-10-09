@@ -85,10 +85,10 @@ Design a 30-day LC challenge: name, rules, check-in prompts for days 1/7/14/30, 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (8 posts). Top 5:
+See [examples/README.md](examples/README.md) (9 posts). Top 5:
 
+- @0xShahzaib_ (0L/0BM/0V):  — https://x.com/0xShahzaib_/status/2104901293190119594
 - @KimRaceRod (9L/0BM/107V): Day 15 of the Creator Quest 30 day challenge!!! I did a reach out with my comment banner and it does look more professional!!! #cqchallenge #ugc @UGCbyBrandon h — https://x.com/KimRaceRod/status/2094998935949427016
 - @KimRaceRod (8L/0BM/139V): Day 9 of the Creator Quest UGC 30 day challenge. Working on sharpening and adding to my Fiverr, thumbnails to look more professional and mock videos to add to m — https://x.com/KimRaceRod/status/2093064218568233104
 - @KimRaceRod (7L/0BM/79V): Day 30 of the Creator Quest UGC 30 day challenge 🙌🏼 We made and I learned so much!!! It's just the beginning 🙌🏼 #cqchallenge #ugc @UGCbyBrandon https://t.co/YxZ — https://x.com/KimRaceRod/status/2100366661324779651
 - @KimRaceRod (6L/0BM/125V): Day 21 of Creator Quest UGC 30 day challenge!!! I can't count and did two 19s🤦🏻‍♀️ Heading it to the last week and learning a ton🙌🏼 #cqchallenge #ugc @UGCbyBran — https://x.com/KimRaceRod/status/2097084996548726860
-- @KimRaceRod (5L/0BM/123V): Day 18 of the Creator Quest UGC 30 day challenge!! I can't wait to land some gigs☺️ #cqchallenge #ugc @UGCbyBrandon https://t.co/wgkLXo5eXM — https://x.com/KimRaceRod/status/2096026203589095690

@@ -49,7 +49,7 @@ Creator in front of a green-screen background showing **LC's own winning ad/post
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (10 posts). Top 5:
+See [examples/README.md](examples/README.md) (11 posts). Top 5:
 
 - @adamtaylorl (139L/203BM/13kV): Tier list of ecom formats: F = AI UGC, street interviews, read scripts; B = founder, testimonial compilations, listicle statics... — https://x.com/adamtaylorl/status/2097641383355879452
 - @CEO_Vlad (88L/169BM/5kV): AI UGC formats tiered: S = podcast, talking head, in-car... — https://x.com/CEO_Vlad/status/2096569603761827953

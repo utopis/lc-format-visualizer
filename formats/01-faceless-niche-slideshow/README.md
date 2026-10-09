@@ -23,6 +23,9 @@ related_strategies: [01-viral-slideshow-recreation, 20-niche-persona-pages, 24-n
 
 
 
+
+
+
 ## What it looks like
 A 4-6 slide photo carousel that reads like genuinely useful niche content (tips, rules, lists, diary). The product appears **once**, framed as one of the tips — typically slide N-1 ("right before the last tip so you can't get the full list without seeing it", @rsalimx).
 
@@ -78,6 +81,13 @@ See [_COMPLIANCE.md](../_COMPLIANCE.md). Specific: several source accounts run 3
 - **LC position:** take the caption-template idea (**F85**) on a few disclosed LC accounts with owned or licensed images. Do **not** run rented-device account farms or scraped Pinterest images (TikTok inauthentic-behavior rules, copyright).
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Tip-buried app plug: Albo (organisation app, ~$70K/mo) went 4.3M views / 250K saves on a "weird habits that actually work" slideshow where the app is habit #4-5, not the hero ([@PerezHatesAI](https://x.com/PerezHatesAI/status/2106779894785188006), [@themariaines](https://x.com/themariaines/status/2108191952047153611)). Rule: if people would save the tips without the app, the format works.
+- Running-girl page: the app sits on slide 4 of 5, right before the last tip, so you can't get the full list without seeing where it came from ([@rsalimx](https://x.com/rsalimx/status/2107517609960702306)); fitness-girl page 4.8M views on one slideshow ([@rsalimx](https://x.com/rsalimx/status/2107549240868422131)).
+- Recipe page: one meal per slide, saved on instinct; the app is "all of this, in your pocket"; 40M-view posts, ~$10K MRR ([@rsalimx](https://x.com/rsalimx/status/2108259483902513153)).
+- K-skincare TikTok Shop slideshows: 3 accounts, same products, different angles ("under $15", "for oily skin", "for acne"), aimed at divorced women 35-45 doing the post-breakup glow-up, 6-slide carousels with the product tagged on every one ([@_Rina__Lee](https://x.com/_Rina__Lee/status/2103913493829156865)).
+- LC: "5 things I stopped doing at 30" with "stopped taking my necklace off to shower" as tip #4 (not the last slide).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

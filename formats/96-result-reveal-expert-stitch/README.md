@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: Medium (live long-runners) · hype risk: Medium · cost $0-150 · 2-3 h
 
 ## What it is
@@ -90,6 +93,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [18-green-screen-reaction-and-comment-reply](../18-green-screen-reaction-and-comment-reply/README.md), [28-reaction-hook-plus-demo](../28-reaction-hook-plus-demo/README.md), [40-testimonial-mashup](../40-testimonial-mashup/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Smriti Kochar: Nutritionist 3-product stack explainer (Hinglish), 301 days live. An expert-recommended routine sells a bundle, not a single SKU; mixing local language keeps it native for the market.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

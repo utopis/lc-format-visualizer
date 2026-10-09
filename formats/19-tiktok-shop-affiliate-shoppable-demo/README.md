@@ -21,6 +21,9 @@ related_strategies: [09-influencer-rev-share, 28-ugc-creator-network-per-video-p
 
 
 
+
+
+
 ## Looks like
 15-40s creator video with orange shopping cart: unboxing → put on → water test → "linked below / tap the cart". One hook per video pulled from real reviews (@maverickecom). Seed widely: 1,000 free samples/month (@NotZainAgain playbook); creators doing 4+ ads get their own ad set (@zachlduncan Trybe structure); use Trybe as a **performance** platform, not gifting (@httpsean_ca).
 

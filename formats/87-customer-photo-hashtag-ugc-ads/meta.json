@@ -3,13 +3,13 @@
  "slug": "87-customer-photo-hashtag-ugc-ads",
  "name": "Customer-photo hashtag UGC turned into Story & retargeting ads",
  "title": "87 · Customer-photo hashtag UGC turned into Story & retargeting ads",
- "n_examples": 4,
+ "n_examples": 5,
  "n_curated": 0,
  "n_candidates": 4,
  "stages": [
   {
    "stage": "Find",
-   "status": "in progress"
+   "status": "done"
   },
   {
    "stage": "Deep research",
@@ -37,6 +37,20 @@
   }
  ],
  "examples": [
+  {
+   "id": "2099792841115386168",
+   "file": "0000-00-00-huejewellers-2099792841115386168.md",
+   "kind": "cited",
+   "author": "huejewellers",
+   "date": "",
+   "url": "https://x.com/huejewellers/status/2099792841115386168",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
   {
    "id": "2082463906694648266",
    "file": "2026-07-29-NahFlo2n-2082463906694648266.md",

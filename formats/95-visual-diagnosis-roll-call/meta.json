@@ -3,13 +3,13 @@
  "slug": "95-visual-diagnosis-roll-call",
  "name": "Visual-diagnosis roll-call ('This is X. This is X. That's X.' symptom montage → hidden cause)",
  "title": "95 · Visual-diagnosis roll-call (\"This is X. This is X. That's X.\" symptom montage → hidden cause)",
- "n_examples": 4,
+ "n_examples": 5,
  "n_curated": 1,
  "n_candidates": 3,
  "stages": [
   {
    "stage": "Find",
-   "status": "in progress"
+   "status": "done"
   },
   {
    "stage": "Deep research",
@@ -47,6 +47,20 @@
    "eng": "0L/0BM/0V",
    "grade": "VALUE",
    "gist": "Resilia 6,000 ads, parasite cause-relocation angle, \"That's parasites\" roll-call, carvacrol gate; 10+ subpages to avoid bans.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107161552377819648",
+   "file": "0000-00-00-thousif_maker-2107161552377819648.md",
+   "kind": "cited",
+   "author": "thousif_maker",
+   "date": "",
+   "url": "https://x.com/thousif_maker/status/2107161552377819648",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

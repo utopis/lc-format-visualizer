@@ -5,7 +5,7 @@
  "title": "76 · Whiteboard explainer (marker diagram of the mechanism, static or video)",
  "n_examples": 6,
  "n_curated": 0,
- "n_candidates": 5,
+ "n_candidates": 4,
  "stages": [
   {
    "stage": "Find",
@@ -54,6 +54,22 @@
    "transcript": false
   },
   {
+   "id": "2100249277029126306",
+   "file": "2026-09-16-artfully_amberr-2100249277029126306.md",
+   "kind": "cited",
+   "author": "artfully_amberr",
+   "date": "2026-09-16",
+   "url": "https://x.com/artfully_amberr/status/2100249277029126306",
+   "eng": "9L/0BM/252V",
+   "grade": "",
+   "gist": "Here's a #UGCexample I made for Stasis. This whiteboard explainer concept has generated revenue for the client. For this creative, I leaned into my background as a nurse and filmed",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100249175392727040/img/XyuynQ0jrw_3ka2q.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2094086530973229173",
    "file": "2026-08-30-0xROAS-2094086530973229173.md",
    "kind": "candidate",
@@ -95,22 +111,6 @@
    "gist": "10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/after, whiteboard.",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2100249277029126306",
-   "file": "2026-09-16-artfully_amberr-2100249277029126306.md",
-   "kind": "candidate",
-   "author": "artfully_amberr",
-   "date": "2026-09-16",
-   "url": "https://x.com/artfully_amberr/status/2100249277029126306",
-   "eng": "9L/0BM/252V",
-   "grade": "",
-   "gist": "Here's a #UGCexample I made for Stasis. This whiteboard explainer concept has generated revenue for the client. For this creative, I leaned into my background as a nurse and filmed",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2100249175392727040/img/XyuynQ0jrw_3ka2q.jpg",
-   "media": [
-    "video"
-   ],
    "transcript": false
   },
   {

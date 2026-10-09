@@ -59,14 +59,14 @@ The storyboard above samples the video every 0:11. Lines are the transcript for 
 
 </details>
 
-## More real examples (4)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@ai_cult1](example/more/2092368368968049118.jpg)](https://x.com/ai_cult1/status/2092368368968049118)<br>**@ai_cult1** · 47:51 video · 49 views<br>Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months). | [![@pixclipper](example/more/2084739019187847201.jpg)](https://x.com/pixclipper/status/2084739019187847201)<br>**@pixclipper** · 0:40 video · 26K views<br>Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, | [![@BoraMutluoglu](example/more/2051293081920758018.jpg)](https://x.com/BoraMutluoglu/status/2051293081920758018)<br>**@BoraMutluoglu** · image · 500 views<br>Hudson Method from Comfrt founder masterminds: thousands of samples/mo, $5k+ bonuses for 100+ videos/mo, run creator content on Meta/Snap/YT, keep pay |
-| [![@joshelizetxe](example/more/2107504952977317898.jpg)](https://x.com/joshelizetxe/status/2107504952977317898)<br>**@joshelizetxe** · image · 503 views<br>I paid a celebrity $250,000 for a holiday post that generated under $35,000 in sales. Our blended customer acquisition cost spiked to over $300 on a $ |   |   |
+| [![@hectorserrranoo](example/more/2106136430556672384.jpg)](https://x.com/hectorserrranoo/status/2106136430556672384)<br>**@hectorserrranoo** · 0:56 video · 8K views<br>Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue). | [![@ai_cult1](example/more/2092368368968049118.jpg)](https://x.com/ai_cult1/status/2092368368968049118)<br>**@ai_cult1** · 47:51 video · 49 views<br>Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months). | [![@pixclipper](example/more/2084739019187847201.jpg)](https://x.com/pixclipper/status/2084739019187847201)<br>**@pixclipper** · 0:40 video · 26K views<br>Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, |
+| [![@BoraMutluoglu](example/more/2051293081920758018.jpg)](https://x.com/BoraMutluoglu/status/2051293081920758018)<br>**@BoraMutluoglu** · image · 500 views<br>Hudson Method from Comfrt founder masterminds: thousands of samples/mo, $5k+ bonuses for 100+ videos/mo, run creator content on Meta/Snap/YT, keep pay | [![@joshelizetxe](example/more/2107504952977317898.jpg)](https://x.com/joshelizetxe/status/2107504952977317898)<br>**@joshelizetxe** · image · 503 views<br>I paid a celebrity $250,000 for a holiday post that generated under $35,000 in sales. Our blended customer acquisition cost spiked to over $300 on a $ |   |
 
 ## How to make one like it
 
@@ -184,6 +184,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - FTC Endorsement Guides: every paid/gifted creator must disclose (#ad / Paid partnership label); brief must say so. - Creators may only make PDP claims; no fake "I bought this" if gifted. - Contracts: usage rights for whitelisting, duration, payment terms; no spoofed or bulk accounts.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

@@ -3,9 +3,9 @@
  "slug": "80-persona-page-native-system",
  "name": "Persona pages: ads run from named narrator pages (catalog of the pattern + LC-safe version)",
  "title": "80 · Persona pages: ads run from named narrator pages (catalog of the pattern + LC-safe version)",
- "n_examples": 19,
+ "n_examples": 20,
  "n_curated": 2,
- "n_candidates": 16,
+ "n_candidates": 15,
  "stages": [
   {
    "stage": "Find",
@@ -84,7 +84,7 @@
   {
    "id": "2094988024211812654",
    "file": "2026-09-02-Seanfrank-2094988024211812654.md",
-   "kind": "candidate",
+   "kind": "cited",
    "author": "Seanfrank",
    "date": "2026-09-02",
    "url": "https://x.com/Seanfrank/status/2094988024211812654",
@@ -94,6 +94,23 @@
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2094987997385228288/img/Yhw9dtrQnZ93FDUF.jpg",
    "media": [
     "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2105349586717950002",
+   "file": "2026-09-30-vincenzo_micale-2105349586717950002.md",
+   "kind": "cited",
+   "author": "vincenzo_micale",
+   "date": "2026-09-30",
+   "url": "https://x.com/vincenzo_micale/status/2105349586717950002",
+   "eng": "50L/69BM/4kV",
+   "grade": "SOME",
+   "gist": "Menopause bracelet brand: 1,592 active Meta ads, 107 days, 59% US — saturation-level creative volume in wearable/jewelry.",
+   "thumb": "https://pbs.twimg.com/media/HTe0SZWWUAEiXqt.jpg",
+   "media": [
+    "photo",
+    "photo"
    ],
    "transcript": false
   },

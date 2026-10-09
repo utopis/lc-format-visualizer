@@ -3,9 +3,9 @@
  "slug": "91-ai-melodrama-mini-movie",
  "name": "AI melodrama mini-movie (2-10 min soap opera, humiliation → mentor → vindication, product after the midpoint)",
  "title": "91 · AI melodrama mini-movie (2-10 min soap opera, humiliation → mentor → vindication, product after the midpoint)",
- "n_examples": 26,
+ "n_examples": 27,
  "n_curated": 7,
- "n_candidates": 18,
+ "n_candidates": 17,
  "stages": [
   {
    "stage": "Find",
@@ -144,7 +144,7 @@
    "author": "EcomSapo",
    "date": "2026-09-30",
    "url": "https://x.com/EcomSapo/status/2105288429873528875",
-   "eng": "157L/218BM/24kV",
+   "eng": "157L/220BM/24kV",
    "grade": "VALUE",
    "gist": "Smooche ($22M/mo skincare) uses singing ads as acquisition weapon.",
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105288291746721792/img/M9AR-aiOVL1oayeJ.jpg",
@@ -153,6 +153,39 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2102176819709673703",
+   "file": "2026-09-21-zedmadeit-2102176819709673703.md",
+   "kind": "cited",
+   "author": "zedmadeit",
+   "date": "2026-09-21",
+   "url": "https://x.com/zedmadeit/status/2102176819709673703",
+   "eng": "27L/61BM/3kV",
+   "grade": "",
+   "gist": "heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that actually converts into sales its",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102176626054213632/img/UTzZpPT-zzjABq3a.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108255353016406383",
+   "file": "2026-10-08-ViralOps_-2108255353016406383.md",
+   "kind": "cited",
+   "author": "ViralOps_",
+   "date": "2026-10-08",
+   "url": "https://x.com/ViralOps_/status/2108255353016406383",
+   "eng": "4L/5BM/579V",
+   "grade": "",
+   "gist": "Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could be one of the BIGGEST advertis",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108201045163913216/img/zQXGBRxH9Inir7N1.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
   },
   {
    "id": "2104599048493666326",
@@ -335,23 +368,6 @@
    "gist": "What the Q3 Mix actually lets you build: 🏷️ Ads: lip-synced testimonials + 15s one-take brand films + consistent mascots 🎬 AI Drama: episode-length content + locked cast + real per",
    "thumb": "https://pbs.twimg.com/media/HRByzRVbgAADDah.jpg",
    "media": [
-    "photo"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2108255353016406383",
-   "file": "2026-10-08-ViralOps_-2108255353016406383.md",
-   "kind": "candidate",
-   "author": "ViralOps_",
-   "date": "2026-10-08",
-   "url": "https://x.com/ViralOps_/status/2108255353016406383",
-   "eng": "4L/5BM/579V",
-   "grade": "",
-   "gist": "Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could be one of the BIGGEST advertis",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108201045163913216/img/zQXGBRxH9Inir7N1.jpg",
-   "media": [
-    "video",
     "photo"
    ],
    "transcript": false

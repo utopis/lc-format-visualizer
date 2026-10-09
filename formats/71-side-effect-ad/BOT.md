@@ -85,10 +85,10 @@ Write 8 "side effects may include…" statics for LC with 3-5 side effects each,
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (7 posts). Top 5:
+See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
+- @pmaymin (0L/0BM/0V):  — https://x.com/pmaymin/status/2105059737343492311
 - @SharylAttkisson (1358L/52BM/21kV): I see the pharmaceutical industry is still using the FDA loophole-- with FDA approval-- that lets them avoid the intended side effect warnings that are supposed — https://x.com/SharylAttkisson/status/2106877084337373536
 - @tryatria_AI (19L/55BM/10kV): This AI-generated supplement ad is basically a mini documentary. It starts with a provocative hook, then tells a founder story around low testosterone, TRT, sid — https://x.com/tryatria_AI/status/2086829970228142494
 - @feral_feed (28L/1BM/982V): Ads that would get a modern brand cancelled built Abercrombie’s most valuable era. Mike Jeffries didn’t hide the strategy. 2006, Salon interview: the retailer d — https://x.com/feral_feed/status/2103282293091848204
-- @danisdriven (23L/0BM/2kV): YOUR CPM SHOULD NOT REQUIRE A PRESCRIPTION. If your brand is suffering from Chronic High CPM, low views, weak distribution and sudden unexplained drops in atten — https://x.com/danisdriven/status/2098523718595342565

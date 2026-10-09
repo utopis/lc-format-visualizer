@@ -61,10 +61,10 @@ Photos: LC product photography + customer UGC (with permission) + AI-styled on-b
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (12 posts). Top 5:
+See [examples/README.md](examples/README.md) (13 posts). Top 5:
 
-- @MaxHirsch13 (75L/224BM/3kV): Exact agent prompt for 6-slide carousel: candid wide photo + '5 ways to get [result]' hook, slides 2-6 one tip each. — https://x.com/MaxHirsch13/status/2108340891601748034
+- @MaxHirsch13 (144L/398BM/6kV): Exact agent prompt for 6-slide carousel: candid wide photo + '5 ways to get [result]' hook, slides 2-6 one tip each. — https://x.com/MaxHirsch13/status/2108340891601748034
+- @rsalimx (149L/213BM/9kV): Recipe slideshows (one meal per slide) hit 40M views; app = 'all of this in your pocket'. Save-bait listicle. — https://x.com/rsalimx/status/2108259483902513153
 - @rsalimx (120L/200BM/6kV): Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it). — https://x.com/rsalimx/status/2107517609960702306
-- @rsalimx (103L/146BM/6kV): Recipe slideshows (one meal per slide) hit 40M views; app = 'all of this in your pocket'. Save-bait listicle. — https://x.com/rsalimx/status/2108259483902513153
+- @PerezHatesAI (48L/68BM/2kV): This is wild 😭 4.3M views. 250K saves. On a "weird habits" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that "actually work". An — https://x.com/PerezHatesAI/status/2106779894785188006
 - @_afterblossom_ (3932L/391BM/35kV): Throwing back this piece to see in the new carousel format https://t.co/rOPT5RDzKO — https://x.com/_afterblossom_/status/2095194062756413781
-- @rustybrick (17L/13BM/5kV): ChatGPT Ads Product Updates including multi-product carousel format for product feed campaigns https://t.co/TWMRyCOCy2 — https://x.com/rustybrick/status/2085121962976661782

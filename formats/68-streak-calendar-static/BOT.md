@@ -85,7 +85,8 @@ Design 4 streak-calendar statics for LC from a real wear test {{TEST_LOG}}: head
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (2 posts). Top 5:
+See [examples/README.md](examples/README.md) (3 posts). Top 5:
 
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
+- @iwo_cybulski (0L/0BM/0V):  — https://x.com/iwo_cybulski/status/1833960761489813736
 - @monavb04 (3L/0BM/236V): Continuing to build out our open-source shadcn dashboard This time: 💬 Chat 📅 Calendar We wanted these to feel like actual apps rather than just static dashboard — https://x.com/monavb04/status/2089682216209330375

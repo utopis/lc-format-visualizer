@@ -85,9 +85,10 @@ From {{REVIEWS}}, list the fixes customers tried before LC (polish, removing jew
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (4 posts). Top 5:
+See [examples/README.md](examples/README.md) (5 posts). Top 5:
 
 - @FedotOff90 (17L/18BM/3kV): Rebuilt the formats list with proof: 30-day survival column = "this works" bar; copy the structure, not the words. — https://x.com/FedotOff90/status/2100948331136782532
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
+- @aashishilla170 (1L/0BM/35V): Breaking down an ad a day. Day 1 3 things that work, 3 that don't, how I'd fix it. What's working: &gt;Strikethrough sells freedom, not price, which is the real — https://x.com/aashishilla170/status/2105999366104444944
 - @antonioventre_ (7L/6BM/790V): Three static concepts from one angle (energy), none of them showing the product: 1. The calendar. A week view with "gym", "dinner with friends", "hike" all cros — https://x.com/antonioventre_/status/2085397746660278559
 - @principles0618 (4L/1BM/2kV): GTM, ADS, Web traffic tracking - It all starts to merge and you better build your stack in one big monorepo to give your clankers full access to the context. To — https://x.com/principles0618/status/2105476261619339387

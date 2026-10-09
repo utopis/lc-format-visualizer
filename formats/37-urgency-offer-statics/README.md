@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: High (S-tier LTO; BOF map) · hype risk: Low · cost $0 · 15 min
 
 ## What it is
@@ -98,6 +101,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - LC: only real numbers ("312 orders since 9am" if true). Video version: **F99**.
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Phantom Athletics: Catalog DCO grid with big % badge (German), 445 days live. Meta's DCO tests the image/headline combos; the % badge + rating does all the selling for an impulse category.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

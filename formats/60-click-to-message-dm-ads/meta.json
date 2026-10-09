@@ -3,7 +3,7 @@
  "slug": "60-click-to-message-dm-ads",
  "name": "Click-to-message ads (Messenger / IG DM / TikTok Instant Messaging) — 'stylist in your DMs'",
  "title": "60 · Click-to-message ads (Messenger / IG DM / TikTok Instant Messaging) — \"stylist in your DMs\"",
- "n_examples": 0,
+ "n_examples": 1,
  "n_curated": 0,
  "n_candidates": 0,
  "stages": [
@@ -36,5 +36,20 @@
    "status": "not started"
   }
  ],
- "examples": []
+ "examples": [
+  {
+   "id": "1982632501110812979",
+   "file": "0000-00-00-aura_alloy-1982632501110812979.md",
+   "kind": "cited",
+   "author": "aura_alloy",
+   "date": "",
+   "url": "https://x.com/aura_alloy/status/1982632501110812979",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
 }

@@ -52,7 +52,7 @@ Left: version A of a person's day; right: version B (with product), synced timel
 See [examples/README.md](examples/README.md) (9 posts). Top 5:
 
 - @CEO_Vlad (88L/169BM/5kV): AI UGC formats tiered: S = podcast, talking head, in-car... — https://x.com/CEO_Vlad/status/2096569603761827953
-- @DailyYTNiches (158L/96BM/7kV): This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format > Split s — https://x.com/DailyYTNiches/status/2096979805346673029
 - @thankyouecom (78L/133BM/6kV): Almost every winner in our scaling CBO this month is AI debate Here’s our method for generating these bangers 1. Not an interview Debate formats are arguments a — https://x.com/thankyouecom/status/2093386984349700402
+- @Charconsults (3L/0BM/172V): Day 7/14 This one is an oldie, brief show the product in use and the pay off for using. This ad was very visual use before after/split screen pacing and brolls. — https://x.com/Charconsults/status/2081629763882430905
+- @DailyYTNiches (158L/96BM/7kV): This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format > Split s — https://x.com/DailyYTNiches/status/2096979805346673029
 - @YouTubeAut3538 (20L/5BM/633V): This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split screen thu — https://x.com/YouTubeAut3538/status/2097064734474256890
-- @ytaeliteacademy (11L/6BM/428V): This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format &gt; Spli — https://x.com/ytaeliteacademy/status/2096998590971269290

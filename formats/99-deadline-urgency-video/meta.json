@@ -3,7 +3,7 @@
  "slug": "99-deadline-urgency-video",
  "name": "Deadline-urgency video (two-line sale-ends skit, 'don't say I didn't warn you', hands-only deal clip)",
  "title": "99 · Deadline-urgency video (two-line sale-ends skit, \"don't say I didn't warn you\", hands-only deal clip)",
- "n_examples": 7,
+ "n_examples": 8,
  "n_curated": 3,
  "n_candidates": 4,
  "stages": [
@@ -75,6 +75,20 @@
    "eng": "0L/0BM/0V",
    "grade": "SOME",
    "gist": "Smooche static \"847 Orders in Last Hour, Almost Gone\" / \"LIVE UPDATE\" stock copy (GetHookd share).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107894146140631180",
+   "file": "0000-00-00-Counterprint-2107894146140631180.md",
+   "kind": "cited",
+   "author": "Counterprint",
+   "date": "",
+   "url": "https://x.com/Counterprint/status/2107894146140631180",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

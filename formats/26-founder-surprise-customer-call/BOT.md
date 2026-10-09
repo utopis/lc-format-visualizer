@@ -98,7 +98,7 @@ You are an LC ad editor. Here is the transcript of a recorded founder→customer
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (12 posts). Top 5:
+See [examples/README.md](examples/README.md) (13 posts). Top 5:
 
 - @williamkast_ (38L/46BM/3kV): Turn 1 winning ad into 5: same message, different frameworks (DITL, 3 reasons, old me/new me, phone call). — https://x.com/williamkast_/status/2086835243474985414
 - @antonioventre_ (37L/34BM/2kV): Surprise founder→customer call ad: customer doesn't know the call is coming; ad-manager screenshot shows it as top ROAS (4.80 on $20.9k) in a $112k set. — https://x.com/antonioventre_/status/2084767090116837682

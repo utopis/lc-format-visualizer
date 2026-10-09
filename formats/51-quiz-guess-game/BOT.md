@@ -81,9 +81,10 @@ Write 8 quiz scripts for LC; reveals must be factual.
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (4 posts). Top 5:
+See [examples/README.md](examples/README.md) (5 posts). Top 5:
 
 - @nicktheriot_ (219L/348BM/12kV): 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder st — https://x.com/nicktheriot_/status/2108173638033871013
 - @MethodByVid (37L/67BM/4kV): 12 no-edit video formats: text story over gameplay, would-you-rather, guess-the-X quizzes, rankings, restoration, recipes from above. — https://x.com/MethodByVid/status/2087570057262256130
 - @masterhooks_ (12L/13BM/1kV): 10 organic formats from a creator agency: storytelling, talking head, reaction, ranking, tier list, object lesson, play/pause reaction, AMA, comparison, before/ — https://x.com/masterhooks_/status/2100071930074390796
 - @0xJeyx (15L/3BM/889V): Generate the same product as every format at once (street quiz, review, GRWM, DITL) and let the feed pick — example: "$50 street quiz" video. — https://x.com/0xJeyx/status/2063387846803673406
+- @LewisSylvi3994 (0L/0BM/0V):  — https://x.com/LewisSylvi3994/status/2105450856086917518

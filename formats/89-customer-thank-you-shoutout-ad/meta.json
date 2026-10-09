@@ -3,7 +3,7 @@
  "slug": "89-customer-thank-you-shoutout-ad",
  "name": "Customer thank-you / shout-out turned into an ad",
  "title": "89 · Customer thank-you / shout-out turned into an ad",
- "n_examples": 2,
+ "n_examples": 3,
  "n_curated": 0,
  "n_candidates": 2,
  "stages": [
@@ -37,6 +37,20 @@
   }
  ],
  "examples": [
+  {
+   "id": "2099906094990508266",
+   "file": "0000-00-00-LorelDiamonds-2099906094990508266.md",
+   "kind": "cited",
+   "author": "LorelDiamonds",
+   "date": "",
+   "url": "https://x.com/LorelDiamonds/status/2099906094990508266",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
   {
    "id": "2090789562121359452",
    "file": "2026-08-21-Nate_Google_-2090789562121359452.md",

@@ -95,7 +95,7 @@ Write 5 tier-list ad scripts for Louise Carter. Topics: materials (plated, fille
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (11 posts). Top 5:
+See [examples/README.md](examples/README.md) (13 posts). Top 5:
 
 - @ads4apps (412L/930BM/27kV): 39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breakin — https://x.com/ads4apps/status/2081785032679518490
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831

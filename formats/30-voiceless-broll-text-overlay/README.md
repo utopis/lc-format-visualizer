@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P1** · evidence: Med-High (operator lists + outliers; contested) · hype risk: Low · cost $0-50 (existing footage) · 20-40 min per ad
 
 ## What it is

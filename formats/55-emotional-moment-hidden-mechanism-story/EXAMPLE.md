@@ -33,14 +33,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
-## More real examples (4)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
 | [![@ByMorola](example/more/1752970187198865515.jpg)](https://x.com/ByMorola/status/1752970187198865515)<br>**@ByMorola** · images · 474 views<br>We love reviews. We customized a bracelet for a client and frame 1 was her reaction. Customized bracelet- N11000 Adjustable customized bracelets for w | [![@Strawaubreyyy](example/more/2006263964175622457.jpg)](https://x.com/Strawaubreyyy/status/2006263964175622457)<br>**@Strawaubreyyy** · 0:27 video · 129 views<br>Napaiyak ko sya nung Shady brunch 🥹 I gave her a locket necklace na may picture ng mom nya so she can carry it with her everywhere she goes🥹 & I told | [![@eva_jiang47397](example/more/1824386160946274779.jpg)](https://x.com/eva_jiang47397/status/1824386160946274779)<br>**@eva_jiang47397** · 0:11 video · 10 views<br>I bought my American mother-in-law a Chinese bracelet on Independence Day, and she was shocked.but she liked the necklace I gave her very much and hop |
-| [![@Pavol_Repisky](example/more/2078415656895082582.jpg)](https://x.com/Pavol_Repisky/status/2078415656895082582)<br>**@Pavol_Repisky** · 0:24 video · 130 views<br>Disposable-camera app $20K/mo in 83 days; best TikTok 10M views/900K likes = AI bride crying at "her" wedding. |   |   |
+| [![@sammgrowth](example/more/2080991187133943894.jpg)](https://x.com/sammgrowth/status/2080991187133943894)<br>**@sammgrowth** · 0:24 video · 22K views<br>i should never be sharing this but fuck it a wedding app is running the craziest ai ugc play of 2026 and nobody has clocked it 11.8M views on one tikt | [![@Pavol_Repisky](example/more/2078415656895082582.jpg)](https://x.com/Pavol_Repisky/status/2078415656895082582)<br>**@Pavol_Repisky** · 0:24 video · 130 views<br>Disposable-camera app $20K/mo in 83 days; best TikTok 10M views/900K likes = AI bride crying at "her" wedding. |   |
 
 ## How to make one like it
 
@@ -168,6 +168,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Do NOT replicate the AI-bride tactic as if real: an AI person presented as a real bride/customer is a deceptive endorsement (FTC) and violates platform AI-labelling rules. Real footage with consent, or clearly labelled AI. - Guests/minors in footage need consent; blur where needed.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

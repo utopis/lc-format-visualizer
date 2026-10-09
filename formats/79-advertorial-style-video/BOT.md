@@ -86,10 +86,10 @@ Write a 75s advertorial-style video script for LC: title card, 5 numbered reason
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (6 posts). Top 5:
+See [examples/README.md](examples/README.md) (7 posts). Top 5:
 
 - @FedotOff90 (175L/385BM/47kV): 6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) — 53-format lander database. — https://x.com/FedotOff90/status/2094854572623675832
 - @FedotOff90 (145L/318BM/11kV): 24 landing page formats with live ad→lander pairs (breaking news, investigation, as-seen-on-TV, doctor warning…). — https://x.com/FedotOff90/status/2092382176738202057
 - @funneloftheweek (0L/0BM/0V): Resilia: 12 persona Pages → one 7-min advertorial (30-50% of traffic), 3-4 copy templates × hundreds of creatives, 544 new ads/30d, OTO flow $30→$83. — https://x.com/funneloftheweek/status/2044464896104857850
+- @AaronOrendorff (0L/0BM/0V):  — https://x.com/AaronOrendorff/status/1815524880361914630
 - @phemeinfluence (224L/41BM/15kV): 🐶 PET UGC OPPORTUNITY 35+ (cats or dogs moms) BRAND: Chewy PAY: $2000 + Product Pet brand hiring UGC creators to film a 90s advertorial video featuring you + yo — https://x.com/phemeinfluence/status/2078934717462888585
-- @k4komaaaal (16L/7BM/655V): 10 reasons why brands are ditching polished ads for founder faces on camera: 1. sushiswap, gymshark all started founder led content before ads 2. face on camera — https://x.com/k4komaaaal/status/2084289721703010738

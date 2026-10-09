@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P2** · evidence: High (multiple live long-runners; retention caveat) · hype risk: Medium · cost $150-600 per finished ad (AI video + edit) or a real-actor shoot · 1-3 days
 
 ## What it is
@@ -101,6 +104,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [08-drama-show-micro-series](../08-drama-show-micro-series/README.md), [04-ai-song-ad](../04-ai-song-ad/README.md), [50-mini-documentary-how-its-made](../50-mini-documentary-how-its-made/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Koriderm (skincare) is running mini-movie drama ads; recipe: never show the product in the first 3 s, build the story around the problem, make it worse, then reveal (90-second prompt included) ([@ViralOps_](https://x.com/ViralOps_/status/2108255353016406383)).
+- Hook rule: the problem causes an immediate failure at the worst possible moment when something personal is at stake ([@zedmadeit](https://x.com/zedmadeit/status/2102176819709673703)). Shorter cousins now have their own files: F105 (25-60 s revenge drama) and F106 (cliffhanger cut).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

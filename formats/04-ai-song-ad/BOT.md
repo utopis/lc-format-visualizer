@@ -77,6 +77,6 @@ See [examples/README.md](examples/README.md) (31 posts). Top 5:
 
 - @LachezarVoynov (396L/1453BM/88kV): 29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...). — https://x.com/LachezarVoynov/status/2086842038457098499
 - @adamtaylorl (357L/463BM/29kV): Smooche creative to study. — https://x.com/adamtaylorl/status/2107425650478829611
-- @LachezarVoynov (119L/339BM/10kV): 7 Suno song ad examples selling to women 45+ (links). — https://x.com/LachezarVoynov/status/2100612763487740236
-- @EcomSapo (157L/218BM/24kV): Smooche ($22M/mo skincare) uses singing ads as acquisition weapon. — https://x.com/EcomSapo/status/2105288429873528875
+- @LachezarVoynov (119L/340BM/10kV): 7 Suno song ad examples selling to women 45+ (links). — https://x.com/LachezarVoynov/status/2100612763487740236
+- @EcomSapo (157L/220BM/24kV): Smooche ($22M/mo skincare) uses singing ads as acquisition weapon. — https://x.com/EcomSapo/status/2105288429873528875
 - @rayjbjang (155L/207BM/21kV): 9-fig founder group chats sharing singing animation ads - format printing. — https://x.com/rayjbjang/status/2085447071990251986

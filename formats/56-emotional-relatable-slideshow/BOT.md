@@ -90,10 +90,10 @@ From these real customer stories {{REVIEWS}}, write 8 emotional 6-slide slidesho
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (12 posts). Top 5:
+See [examples/README.md](examples/README.md) (15 posts). Top 5:
 
 - @consumerxai (12L/18BM/1kV): 30 most-SAVED app TikTok hooks in 6 types (POV moment, name the viewer, disbelief, signs/lists, result first, pattern interrupt); save rate > views as signal. — https://x.com/consumerxai/status/2107471216126906682
 - @g_buildz_apps (7L/5BM/390V): "Post emotional slideshows on TikTok" — one slideshow: 13.3K views, 2,881 likes, 802 shares, 313 saves (TikTok Studio screenshot). — https://x.com/g_buildz_apps/status/2108234459241935255
 - @g_buildz_apps (0L/1BM/172V): Emotional slideshows do better every time and convert better (claim). — https://x.com/g_buildz_apps/status/2094812455847309758
-- @brainextends (265L/497BM/16kV): 2-slide slideshow, AI visuals + phone-notification copy -> 1M views, app $1k->$5k/mo. — https://x.com/brainextends/status/2099496707209994736
-- @rsalimx (76L/122BM/8kV): Claim slideshows convert harder than videos; it's about finding the right format. — https://x.com/rsalimx/status/2090094780864713021
+- @simonecanciello (47L/77BM/15kV): this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching for “long d — https://x.com/simonecanciello/status/2092704268734099547
+- @consumerxai (7L/11BM/1kV): Outlier: silent travel-footage slideshow with long-distance text hook → widget demo, 585K views/28K shares. — https://x.com/consumerxai/status/2092629155036987751

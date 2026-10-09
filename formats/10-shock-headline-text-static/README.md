@@ -22,6 +22,9 @@ related_strategies: [41-von-restorff-static-copy-prompt, 32-drama-show-ads-hidde
 
 
 
+
+
+
 ## What it looks like
 White background, huge condensed black headline that is a story line, 3 short lines of body continuing the story with a twist, product pack-shot bottom right, brand + 2-line benefit + "SHOP NOW →". Example: "MY SISTER SLEPT WITH MY HUSBAND. / Eight months later, she's the one everyone calls beautiful at family dinners. / Because she drains parasites. / And I didn't even know I had them." ([@tryatria_AI](https://x.com/tryatria_AI/status/2105745816828940336)).
 
@@ -46,6 +49,10 @@ C. "MY EX KEPT THE RING. / I kept the glow. / Waterproof stacks from $[lowest li
 [_COMPLIANCE.md](../_COMPLIANCE.md). Keep humorous, not degrading; prices/claims verified.
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)
+- Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop'), 258 days live. A blunt first-person result headline + 3 benefit labels is readable in one glance.
+- Stills, transcripts and LC remakes: [adlibrary/](adlibrary/README.md).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

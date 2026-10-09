@@ -26,6 +26,9 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
+
 > **LC priority P0** · evidence: High (multiple operators + first-party data) · hype risk: Med · cost $100-400 per creator/month + product + commission · ongoing program (VA + 5-10 h/week)
 
 ## What it is
@@ -105,6 +108,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [19-tiktok-shop-affiliate-shoppable-demo](../19-tiktok-shop-affiliate-shoppable-demo/README.md), [14-in-car-yapper-confession](../14-in-car-yapper-confession/README.md), [47-grwm-stack-with-me](../47-grwm-stack-with-me/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 3 update: brands & apps crushing it (Oct 2026)
+- Halara: 10,000 creator affiliates; product seeding instead of retainers, 5-20% commission, top 1% whitelisted into Spark Ads; TikTok Shop virality spilled into Amazon and DTC ([@joshelizetxe](https://x.com/joshelizetxe/status/2103449355701080399)).
+- A $50K studio Black Friday commercial ($82 CAC) lost to a mom filming in her car ($14 CAC); 500 seeded products → 1,200 raw videos → $1.8M BFCM sales ([@joshelizetxe](https://x.com/joshelizetxe/status/2107089957995037179)).
+- Power law: Comfrt's top 10 creators drive a huge share of revenue; Zach Yadegari's best ads came from one creator in his first 20; Haus's top 20 creators drive 85% of sales ([@hectorserrranoo](https://x.com/hectorserrranoo/status/2106136430556672384)). Build community around the few, not 2,000 identical talking heads.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

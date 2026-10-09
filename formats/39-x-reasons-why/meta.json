@@ -5,7 +5,7 @@
  "title": "39 · \"3 reasons why\" / X reasons listicle ad",
  "n_examples": 20,
  "n_curated": 10,
- "n_candidates": 10,
+ "n_candidates": 9,
  "stages": [
   {
    "stage": "Find",
@@ -186,6 +186,22 @@
    "transcript": false
   },
   {
+   "id": "2090384597737508973",
+   "file": "2026-08-20-lorenzo_pravata-2090384597737508973.md",
+   "kind": "cited",
+   "author": "lorenzo_pravata",
+   "date": "2026-08-20",
+   "url": "https://x.com/lorenzo_pravata/status/2090384597737508973",
+   "eng": "70L/121BM/5kV",
+   "grade": "",
+   "gist": "This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad account 3. Our B-roll generation ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090376266335580160/img/wh04oScRUQlNf--u.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2077818070580548013",
    "file": "2026-07-16-williamkast_-2077818070580548013.md",
    "kind": "candidate",
@@ -197,22 +213,6 @@
    "gist": "Best creative formats on Meta for each funnel stage: TOF: - Founders Ad - UGC - AI Animation - Yapper Ad - Native Statics - Long form VS - Podcasts - 3 reasons why - Voiceless text",
    "thumb": "",
    "media": [],
-   "transcript": false
-  },
-  {
-   "id": "2090384597737508973",
-   "file": "2026-08-20-lorenzo_pravata-2090384597737508973.md",
-   "kind": "candidate",
-   "author": "lorenzo_pravata",
-   "date": "2026-08-20",
-   "url": "https://x.com/lorenzo_pravata/status/2090384597737508973",
-   "eng": "70L/121BM/5kV",
-   "grade": "",
-   "gist": "This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad account 3. Our B-roll generation ",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090376266335580160/img/wh04oScRUQlNf--u.jpg",
-   "media": [
-    "video"
-   ],
    "transcript": false
   },
   {

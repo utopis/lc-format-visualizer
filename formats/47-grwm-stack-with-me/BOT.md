@@ -84,10 +84,10 @@ Write 6 GRWM/stack-with-me scripts (25s) for occasions {{OCCASIONS}}; each build
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (6 posts). Top 5:
+See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
 - @Ecombos_Ai (28L/26BM/2kV): 10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/afte — https://x.com/Ecombos_Ai/status/2103180929057407425
 - @rirahcreates (12L/17BM/1kV): 20 UGC types: talking head, review, unboxing, testimonial, demo, problem/solution, before/after, GRWM, DITL, voiceover, routine, how-to, FAQ, 3 reasons why, POV — https://x.com/rirahcreates/status/2089827933561016787
 - @ugcAshleyRJ (13L/5BM/534V): The 0.5x ultra-wide POV filming technique for demos, GRWM and day-in-the-life — immersive, native. — https://x.com/ugcAshleyRJ/status/2067636022251290725
 - @0xJeyx (15L/3BM/889V): Generate the same product as every format at once (street quiz, review, GRWM, DITL) and let the feed pick — example: "$50 street quiz" video. — https://x.com/0xJeyx/status/2063387846803673406
-- @BRAZOyMARTILLO (82L/1BM/1kV): Just thinking about how the Bvlgari ad with Hudson Williams was a de facto “get ready with me” video for his Serpenti Infinito afterparty look. So cunty to have — https://x.com/BRAZOyMARTILLO/status/2098427836142854483
+- @wayne_forge (2L/1BM/118V): TWO AI TWINS "GET READY" IN THE SAME CLOSET — AND THE PAGE BEHIND THEM CLEARS $11,400 A MONTH. Same face, same hair, same dressing room. One in a pink textured  — https://x.com/wayne_forge/status/2087161700298473607

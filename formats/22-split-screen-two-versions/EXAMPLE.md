@@ -127,6 +127,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md).
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 3 update: AI debate split-screen (Oct 2026)](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).

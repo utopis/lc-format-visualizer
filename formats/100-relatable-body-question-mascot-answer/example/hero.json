@@ -1,0 +1,80 @@
+{
+ "id": "F100",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/jasonugc/status/2108273335314641352",
+ "author": "jasonugc",
+ "type": "video",
+ "duration": 9,
+ "mp4": "https://video.twimg.com/amplify_video/2107829033807314944/vid/avc1/320x568/Dam8csY7llfHwt8E.mp4?tag=29",
+ "w": 1080,
+ "h": 1920,
+ "via_quote": false,
+ "likes": 12,
+ "views": 652,
+ "seen": "A creator walking outside at sunset. The on-screen text says \"Be honest.. is your September period late??\" and she gives the camera a knowing look (0:00-0:03). At 0:05 it hard-cuts to the app: a cute white dragon mascot (\"Earth Realm\"), \"Day 33 | 5 days longer than your usual cycle, Period delayed\". Under it is a Luteal-phase card: \"Women's health fact they don't teach you in school: if your period is late, it's actually your ovulation that's late. Stress and poor sleep can delay it.\" The caption \"how stressful\" sits over the dragon. The video is 8 seconds with no voiceover. The question is the hook, the app gives the answer, and the mascot makes it shareable.",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": "Rear ce cA. il honest.. is your, September period late?"
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "hi mm is your September period late??"
+  },
+  {
+   "t": "0:03",
+   "said": "",
+   "ocr": "Say Be honest.. is your, September period late??"
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": "a ou Period delayed phase Women's health fact they don\u2019t teach you in school: If your period is fate, it\u2019s actually your"
+  },
+  {
+   "t": "0:06",
+   "said": "",
+   "ocr": "mf Period delayed phase Women\u2019s health fact they don\u2019t teach you in school: If your period is late, it\u2019s actually your t"
+  },
+  {
+   "t": "0:08",
+   "said": "",
+   "ocr": "a, Da Period delayed phase Women\u2019s health fact they don\u2019t teach you in school: If your period is late, it\u2019s actually you"
+  }
+ ],
+ "more": [
+  {
+   "id": "2107903429490135362",
+   "author": "leonclipping",
+   "url": "https://x.com/leonclipping/status/2107903429490135362",
+   "thumb": "example/more/2107903429490135362.jpg",
+   "kind": "images",
+   "cap": "this app spams ONE format and pulled 522M views with organic UGC a 4 sec shocked reaction to a period fact nobody told you, then the dragon in the app",
+   "views": 2688
+  },
+  {
+   "id": "2107834606368293123",
+   "author": "consumerxai",
+   "url": "https://x.com/consumerxai/status/2107834606368293123",
+   "thumb": "example/more/2107834606368293123.jpg",
+   "kind": "0:08 video",
+   "cap": "121M views lost to 9.6M on the number that matters more for engagement saves -> a save means \"i'm going to do this later\" and has high intent -> calor",
+   "views": 293
+  },
+  {
+   "id": "2075221274591101354",
+   "author": "guillemcraft",
+   "url": "https://x.com/guillemcraft/status/2075221274591101354",
+   "thumb": "example/more/2075221274591101354.jpg",
+   "kind": "0:07 video",
+   "cap": "50k+ views on insta in just ONE HOUR i posted a video while waiting for my flight to Menorca and went viral i found a format that works and i just rep",
+   "views": 10777
+  }
+ ]
+}

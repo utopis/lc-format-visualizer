@@ -3,7 +3,7 @@
  "slug": "69-zero-stars-rating-flip",
  "name": "Zero Stars rating flip ('5 stars from you / zero stars from them')",
  "title": "69 · Zero Stars rating flip (\"5 stars from you / zero stars from them\")",
- "n_examples": 2,
+ "n_examples": 3,
  "n_curated": 0,
  "n_candidates": 1,
  "stages": [
@@ -51,6 +51,20 @@
    "media": [
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2103883993603031429",
+   "file": "0000-00-00-cortex_adbrain-2103883993603031429.md",
+   "kind": "cited",
+   "author": "cortex_adbrain",
+   "date": "",
+   "url": "https://x.com/cortex_adbrain/status/2103883993603031429",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

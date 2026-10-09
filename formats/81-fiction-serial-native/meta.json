@@ -3,7 +3,7 @@
  "slug": "81-fiction-serial-native",
  "name": "Fiction serial native (an episodic short story told across a run of ads)",
  "title": "81 · Fiction serial native (an episodic short story told across a run of ads)",
- "n_examples": 2,
+ "n_examples": 3,
  "n_curated": 1,
  "n_candidates": 1,
  "stages": [
@@ -47,6 +47,20 @@
    "eng": "210L/592BM/83kV",
    "grade": "SOME",
    "gist": "Pocket FM storytelling drama ads — 199 longest-running; serial episode logic.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108190619449372721",
+   "file": "0000-00-00-adriamatz-2108190619449372721.md",
+   "kind": "cited",
+   "author": "adriamatz",
+   "date": "",
+   "url": "https://x.com/adriamatz/status/2108190619449372721",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

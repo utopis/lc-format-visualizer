@@ -195,7 +195,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: AI listicle angles (Fedotoff Vol. 04)](README.md)
+Newer observations live in the playbook: [Wave 2c update: AI listicle angles (Fedotoff Vol. 04)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
 
 ## More examples
 

@@ -85,14 +85,14 @@ The storyboard above samples the video every 0:12. Lines are the transcript for 
 
 </details>
 
-## More real examples (4)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@HenryCrochemore](example/more/2089291503919087933.jpg)](https://x.com/HenryCrochemore/status/2089291503919087933)<br>**@HenryCrochemore** · 1:11 video · 4K views<br>ai podcast ads might be one of the easiest ways to make ugc feel native again instead of generating another creator holding a product put them behind | [![@CEO_Vlad](example/more/2081473127985582384.jpg)](https://x.com/CEO_Vlad/status/2081473127985582384)<br>**@CEO_Vlad** · image · 4K views<br>take AI podcast ads like this and go run them in latin america... barely anyone is running the podcast format in spanish, so the feed there hasn't see | [![@itsLORDROY](example/more/2079061186008760542.jpg)](https://x.com/itsLORDROY/status/2079061186008760542)<br>**@itsLORDROY** · 0:15 video · 3K views<br>Podcast ads are entering a new era. The most impressive part isn't that this is AI generated. It's that this entire podcast ad was made inside Claude |
-| [![@adreads_ai](example/more/2083709698059206725.jpg)](https://x.com/adreads_ai/status/2083709698059206725)<br>**@adreads_ai** · image · 17 views<br>Podcast ads data for August 1 320 new podcast ad reads across 183 sponsors and 56 shows 187 announcer read, 123 host read Most active sponsors: @Shane |   |   |
+| [![@HenryCrochemore](example/more/2089291503919087933.jpg)](https://x.com/HenryCrochemore/status/2089291503919087933)<br>**@HenryCrochemore** · 1:11 video · 4K views<br>ai podcast ads might be one of the easiest ways to make ugc feel native again instead of generating another creator holding a product put them behind | [![@sixugc](example/more/2088316130070790246.jpg)](https://x.com/sixugc/status/2088316130070790246)<br>**@sixugc** · 0:10 video · 233 views<br>genuinely confused why apps still don't get it they need to scale with content not ads found one tiktok account posting podcast style talking head cli | [![@CEO_Vlad](example/more/2081473127985582384.jpg)](https://x.com/CEO_Vlad/status/2081473127985582384)<br>**@CEO_Vlad** · image · 4K views<br>take AI podcast ads like this and go run them in latin america... barely anyone is running the podcast format in spanish, so the feed there hasn't see |
+| [![@itsLORDROY](example/more/2079061186008760542.jpg)](https://x.com/itsLORDROY/status/2079061186008760542)<br>**@itsLORDROY** · 0:15 video · 3K views<br>Podcast ads are entering a new era. The most impressive part isn't that this is AI generated. It's that this entire podcast ad was made inside Claude | [![@adreads_ai](example/more/2083709698059206725.jpg)](https://x.com/adreads_ai/status/2083709698059206725)<br>**@adreads_ai** · image · 17 views<br>Podcast ads data for August 1 320 new podcast ad reads across 183 sponsors and 56 shows 187 announcer read, 123 host read Most active sponsors: @Shane |   |
 
 ## How to make one like it
 
@@ -188,7 +188,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: the 5 podcast "seats" (Fedotoff AI Podcast Ads Vol. 03)](README.md) · [Wave 2d update: doctor-style podcast in supplement accounts](README.md)
+Newer observations live in the playbook: [Wave 2c update: the 5 podcast "seats" (Fedotoff AI Podcast Ads Vol. 03)](README.md) · [Wave 2d update: doctor-style podcast in supplement accounts](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

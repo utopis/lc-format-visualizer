@@ -32,7 +32,7 @@ const q=new URLSearchParams(location.search).get('f')||'formats/README.md';
 const ok=/^formats\/[A-Za-z0-9_.\-\/]+\.md$/.test(q)&&!q.includes('..');
 const doc=document.getElementById('doc');
 const dir=q.slice(0,q.lastIndexOf('/')+1);
-const m=q.match(/^formats\/(\d\d-[a-z0-9-]+)\//);
+const m=q.match(/^formats\/(\d{2,3}-[a-z0-9-]+)\//);
 if(m){const base='formats/'+m[1]+'/';const T=[['See it + make it','EXAMPLE.md'],['Playbook','README.md'],['Bot brief','BOT.md'],['Examples','examples/README.md'],['Stages','STAGES.md'],['Louise Carter','brands/louise-carter.md']];
   document.getElementById('tabs').insertAdjacentHTML('beforeend',T.map(([l,p])=>`<a class="t ${q===base+p?'on':''}" href="brief.html?f=${encodeURIComponent(base+p)}">${l}</a>`).join('')+`<a class="t" href="https://github.com/utopis/lc-format-visualizer/tree/main/${base}" target="_blank" rel="noopener">GitHub</a>`);
   document.getElementById('crumb').innerHTML=`<a href="brief.html?f=formats%2FFOLDERS.md">All folders</a> / ${m[1]}${q!==base+'README.md'?' / '+q.slice(base.length):''}`}

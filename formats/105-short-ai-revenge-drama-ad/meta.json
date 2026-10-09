@@ -1,0 +1,123 @@
+{
+ "id": "F105",
+ "slug": "105-short-ai-revenge-drama-ad",
+ "name": "Short AI revenge-drama ad (25-60 s: betrayal open, fast cuts, twist, product is how she gets even)",
+ "title": "105 · Short AI revenge-drama ad (25-60 s: betrayal open, fast cuts, twist, product is how she gets even)",
+ "n_examples": 5,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2106833649970684195",
+   "file": "2026-10-04-frankyecom-2106833649970684195.md",
+   "kind": "cited",
+   "author": "frankyecom",
+   "date": "2026-10-04",
+   "url": "https://x.com/frankyecom/status/2106833649970684195",
+   "eng": "282L/437BM/67kV",
+   "grade": "VALUE",
+   "gist": "Women want shows: characters, drama, payoff; build entertainment first, slot product in.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106833208167780353/img/CAgEEzmLQ-O0lfuP.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2107188290264740348",
+   "file": "2026-10-05-0xROAS-2107188290264740348.md",
+   "kind": "cited",
+   "author": "0xROAS",
+   "date": "2026-10-05",
+   "url": "https://x.com/0xROAS/status/2107188290264740348",
+   "eng": "104L/139BM/9kV",
+   "grade": "",
+   "gist": "100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here’s how to make sure your dramas hit: - start with a very aggressive hook - make a plot twist - add ",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107188258639642624/img/ePsp33GYPcvEqtkD.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2102176819709673703",
+   "file": "2026-09-21-zedmadeit-2102176819709673703.md",
+   "kind": "cited",
+   "author": "zedmadeit",
+   "date": "2026-09-21",
+   "url": "https://x.com/zedmadeit/status/2102176819709673703",
+   "eng": "27L/61BM/3kV",
+   "grade": "",
+   "gist": "heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that actually converts into sales its",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2102176626054213632/img/UTzZpPT-zzjABq3a.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108195582607081720",
+   "file": "2026-10-08-david_attisaas-2108195582607081720.md",
+   "kind": "cited",
+   "author": "david_attisaas",
+   "date": "2026-10-08",
+   "url": "https://x.com/david_attisaas/status/2108195582607081720",
+   "eng": "4L/6BM/708V",
+   "grade": "",
+   "gist": "I'm running short drama ads for a few apps right now, and every one of them started as a copy of something a dropshipper ran first. I went looking after the talking-head ugc one of",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108195050865790976/img/rHyBcZFBVj5BMAkE.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108255353016406383",
+   "file": "2026-10-08-ViralOps_-2108255353016406383.md",
+   "kind": "cited",
+   "author": "ViralOps_",
+   "date": "2026-10-08",
+   "url": "https://x.com/ViralOps_/status/2108255353016406383",
+   "eng": "4L/5BM/579V",
+   "grade": "",
+   "gist": "Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could be one of the BIGGEST advertis",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108201045163913216/img/zQXGBRxH9Inir7N1.jpg",
+   "media": [
+    "video",
+    "photo"
+   ],
+   "transcript": false
+  }
+ ]
+}

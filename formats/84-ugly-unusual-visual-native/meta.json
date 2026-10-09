@@ -5,7 +5,7 @@
  "title": "84 · \"Ugly ad\": an unusual or weird visual + long copy (native image)",
  "n_examples": 8,
  "n_curated": 2,
- "n_candidates": 6,
+ "n_candidates": 5,
  "stages": [
   {
    "stage": "Find",
@@ -66,6 +66,22 @@
    "transcript": false
   },
   {
+   "id": "2092657905002529270",
+   "file": "2026-08-26-alexgoughcooper-2092657905002529270.md",
+   "kind": "cited",
+   "author": "alexgoughcooper",
+   "date": "2026-08-26",
+   "url": "https://x.com/alexgoughcooper/status/2092657905002529270",
+   "eng": "61L/60BM/9kV",
+   "grade": "",
+   "gist": "This video did 32M views and is a masterclass in ugly ads. Why? Because it’s authentic. You keep trying to make ‘UGC’ or ‘ugly ads’ that are fully scripted. But the best creators d",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092653139442708480/img/JXwenyGlOCiHXjcG.jpg",
+   "media": [
+    "video"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2089448804676239424",
    "file": "2026-08-17-Simon__Rob-2089448804676239424.md",
    "kind": "candidate",
@@ -76,22 +92,6 @@
    "grade": "",
    "gist": "this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats convince warm traffic - offer ad",
    "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2089448627156484096/pu/img/gxQdEhVpZimXOfqi.jpg",
-   "media": [
-    "video"
-   ],
-   "transcript": false
-  },
-  {
-   "id": "2092657905002529270",
-   "file": "2026-08-26-alexgoughcooper-2092657905002529270.md",
-   "kind": "candidate",
-   "author": "alexgoughcooper",
-   "date": "2026-08-26",
-   "url": "https://x.com/alexgoughcooper/status/2092657905002529270",
-   "eng": "61L/60BM/9kV",
-   "grade": "",
-   "gist": "This video did 32M views and is a masterclass in ugly ads. Why? Because it’s authentic. You keep trying to make ‘UGC’ or ‘ugly ads’ that are fully scripted. But the best creators d",
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092653139442708480/img/JXwenyGlOCiHXjcG.jpg",
    "media": [
     "video"
    ],

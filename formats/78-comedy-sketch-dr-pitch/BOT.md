@@ -89,7 +89,7 @@ Write 3 comedy sketches (60s) for LC where each joke carries one selling point: 
 See [examples/README.md](examples/README.md) (5 posts). Top 5:
 
 - @briannjho (138L/338BM/10kV): Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear "this is what happ — https://x.com/briannjho/status/2094662259746480410
+- @Daniloecom (4L/1BM/117V): What if an anti-snoring ad felt more like a ridiculous comedy sketch than an ad? So I made one. Claymation characters, absurd escalation, deadpan VO, and a fake — https://x.com/Daniloecom/status/2107749101823574297
 - @imranullah (5L/1BM/12kV): The sad part is that this brand thought this was going to be a funny ad. I have pulled the calaway woods from my bag. #calawaygolf #goodgood https://t.co/aMWwQU — https://x.com/imranullah/status/2091907704734257203
 - @Teavetua1971 (7L/0BM/10kV): QT With Your Funny Ad (Inspired by an old ad for a famous brand 😁😁) #digitalart #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ https://t.co/WstSXVN5d — https://x.com/Teavetua1971/status/2104205130413273395
 - @nedfulmer (3L/0BM/6kV): “Is influencer marketing dead?" While hiking through a medieval castle (lol, I know), I recently had a conversation with a founder who had shifted nearly all of — https://x.com/nedfulmer/status/2080780729852526953
-- @Daniloecom (4L/1BM/117V): What if an anti-snoring ad felt more like a ridiculous comedy sketch than an ad? So I made one. Claymation characters, absurd escalation, deadpan VO, and a fake — https://x.com/Daniloecom/status/2107749101823574297

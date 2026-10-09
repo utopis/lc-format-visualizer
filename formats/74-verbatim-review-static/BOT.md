@@ -84,10 +84,10 @@ From {{REVIEWS}}, pick the 10 most specific reviews (time worn, situation, emoti
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (5 posts). Top 5:
+See [examples/README.md](examples/README.md) (7 posts). Top 5:
 
 - @FedotOff90 (17L/18BM/3kV): Rebuilt the formats list with proof: 30-day survival column = "this works" bar; copy the structure, not the words. — https://x.com/FedotOff90/status/2100948331136782532
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
+- @FedotOff90 (18L/22BM/1kV): Complete breakdown of 420 gut health ads winning on Meta (save this). Gut health is one of the biggest money printers on Meta right now. Bloating, digestion, pr — https://x.com/FedotOff90/status/2108212319113412929
+- @CreatorSaad (0L/0BM/0V):  — https://x.com/CreatorSaad/status/2107818233302528335
 - @williamkast_ (252L/400BM/13kV): Formats by funnel: TOF founder/yapper/AI animation/natives/3 reasons/voiceless overlay; MOF comment reply/testimonial mashup/text wall; BOF urgency statics. — https://x.com/williamkast_/status/2103910235005935644
-- @williamkast_ (214L/374BM/13kV): Best creative formats on Meta for each funnel stage: TOF: - Founders Ad - UGC - AI Animation - Yapper Ad - Native Statics - Long form VS - Podcasts - 3 reasons  — https://x.com/williamkast_/status/2077818070580548013
-- @Ecombos_Ai (46L/80BM/9kV): Winning ad formats before AI: - Real UGC testimonials - Product demos - Before/after transformations - Carousels - Static benefit/review ads Winning ad formats  — https://x.com/Ecombos_Ai/status/2099559565721206890

@@ -1,0 +1,74 @@
+{
+ "id": "F103",
+ "slug": "103-dm-screenshot-story-slideshow",
+ "name": "DM-screenshot story slideshow (a chat people binge, the app/product on the slide that changes what happens next)",
+ "title": "103 · DM-screenshot story slideshow (a chat people binge, the app/product on the slide that changes what happens next)",
+ "n_examples": 2,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2104660939069170110",
+   "file": "2026-09-28-leonclipping-2104660939069170110.md",
+   "kind": "cited",
+   "author": "leonclipping",
+   "date": "2026-09-28",
+   "url": "https://x.com/leonclipping/status/2104660939069170110",
+   "eng": "449L/765BM/37kV",
+   "grade": "VALUE",
+   "gist": "Faceless relationship page: same couple photo every post, 'rules we made after a fight' slides, app plug as bonus tip; 1.7M top post.",
+   "thumb": "https://pbs.twimg.com/media/HTVB4onXIAEaZrT.jpg",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2103184083467837553",
+   "file": "2026-09-24-rsalimx-2103184083467837553.md",
+   "kind": "cited",
+   "author": "rsalimx",
+   "date": "2026-09-24",
+   "url": "https://x.com/rsalimx/status/2103184083467837553",
+   "eng": "40L/52BM/3kV",
+   "grade": "",
+   "gist": "Nah bro, this is genuinely crazy 😭 this ai rizz app is doing $100k/mo off tiktoks that look like memes every post is just his dms with girls, and one slide in the middle shows the ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

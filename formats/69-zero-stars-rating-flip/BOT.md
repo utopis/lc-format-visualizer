@@ -84,7 +84,8 @@ Write 10 "5 stars from you / zero stars from ___" statics for LC: enemy, photo i
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (2 posts). Top 5:
+See [examples/README.md](examples/README.md) (3 posts). Top 5:
 
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
+- @cortex_adbrain (0L/0BM/0V):  — https://x.com/cortex_adbrain/status/2103883993603031429
 - @Yannlce (3L/2BM/1kV): Same 40-format list (adds claymation, AI podcast). — https://x.com/Yannlce/status/2085017654364958737
