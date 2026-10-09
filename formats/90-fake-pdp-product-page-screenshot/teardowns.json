@@ -1,0 +1,37 @@
+[
+  {
+    "example_file": "2026-09-29-FedotOff90-2104949773539442831.md",
+    "product": "commentary — no product",
+    "hook": "\"There are 37 ad formats printing right now.\"",
+    "body": "A ranked list of 37 ad formats printing right now (AI podcast, report card, iPhone Notes, text on skin, Reddit style, cross-out, fake PDP, tier list, myth vs fact, zero stars…), anchored by a 280-day AI podcast ad. Payload: a Notion doc with live ad + days active + brand ad count per format, plus a 132-ad board.",
+    "cta": "Notion doc + board links; no comment/follow gate.",
+    "idea": "Days-active ranked across 37 formats is the honest creative scoreboard; the fake PDP sits among the winners.",
+    "sequencing": [
+      "Hook: 37 formats printing.",
+      "Teaser: the top 10 list.",
+      "Receipt: AI podcast at 280 days, longest-running.",
+      "Payload: full doc (live ad, days active, brand counts) + 132-ad board.",
+      "Method note: found with GetHookd MCP."
+    ],
+    "formatting": "Numbered top-10 teaser + photo + doc links. Curator voice.",
+    "why_it_works": "The 280-day anchor makes the list feel researched rather than opinionated, and the ungated doc trades funnel for authority.",
+    "what_to_steal": "The scoreboard habit: rank LC's own formats by days-active and keep the fake-PDP/bundle-picker in the rotation — if it prints for others, it deserves a test cell."
+  },
+  {
+    "example_file": "2026-10-02-FedotOff90-2106046297434374289.md",
+    "product": "commentary — no product",
+    "hook": "\"The statics printing hardest right now don't look like ads at all:\"",
+    "body": "The core thesis post: the statics printing hardest don't look like ads at all — iPhone Notes, iMessage chat, Reddit post, tweet screenshot, email screenshot, app settings screen, breaking news, fake product page. \"People scroll past ads. They stop for screenshots.\" Payload: a 200-ad board + a \"Native Statics Machine\" doc for making 50 image ads/day.",
+    "cta": "Board link + doc link; no comment/follow gate.",
+    "idea": "The screenshot is the thumb-stop: native-UI mimicry (notes, chats, PDPs) earns the stop that polished statics can't.",
+    "sequencing": [
+      "Hook: the hardest-printing statics don't look like ads.",
+      "The 8 formats: Notes, iMessage, Reddit, tweet, email, settings, breaking news, fake product page.",
+      "Thesis: people scroll past ads; they stop for screenshots.",
+      "Payload: 200-ad board + the 50-ads-a-day system doc."
+    ],
+    "formatting": "Numbered 8-format list + one-line thesis. Minimal, quotable.",
+    "why_it_works": "One quotable line (\"They stop for screenshots\") compresses the whole format into a rule, and the production-system doc answers the immediate \"how\" objection.",
+    "what_to_steal": "The fake-PDP itself for LC: a screenshot-style static of LC's own product page (reviews, price, \"waterproof\" badge) run as the ad — plus the 50-statics-a-day production system as the volume target."
+  }
+]

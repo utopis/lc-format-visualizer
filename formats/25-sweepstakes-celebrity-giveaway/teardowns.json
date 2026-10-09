@@ -1,0 +1,77 @@
+[
+  {
+    "example_file": "2026-07-11-EcomVictor-2075924232333058211.md",
+    "product": "commentary — no product",
+    "hook": "\"If you're not offer-stacking and valuemaxxing in 2026 as an ecom brand, scaling profitably will be MUCH harder for you.\"",
+    "body": "EcomVictor argues that 2026 scaling requires offer-stacking: Grüns is pushing discount + free gifts + giveaway entry across most of its ads, landing pages, and emails, and Mars Men does exactly the same. The post is trend commentary with an 87s video attachment, not an ad creative.",
+    "cta": "none visible",
+    "idea": "Giveaway entry stacked onto discount + free gifts turns a plain promo into an offer stack that scales profitably.",
+    "sequencing": [
+      "State the economic thesis: brands not offer-stacking will struggle to scale profitably in 2026.",
+      "Name a proof brand (Grüns) running the stack.",
+      "Enumerate the stack: discount + free gifts + giveaway entry.",
+      "Show the stack repeated across surfaces: ads, landing pages, emails.",
+      "Name a second proof brand (Mars Men) doing exactly the same.",
+      "Implied takeaway: copy the stack or fall behind."
+    ],
+    "formatting": "X text post with an 87s video attachment (amplify thumbnail); text-led commentary, not the ad creative itself.",
+    "why_it_works": "The giveaway entry adds a lottery-ticket emotional layer on top of a rational discount at near-zero marginal cost — perceived value compounds without COGS compounding.",
+    "what_to_steal": "The stack structure: for Louise Carter, pair any discount with free gifts + giveaway entry so the promo reads as a prize event, not a markdown."
+  },
+  {
+    "example_file": "2026-07-24-Seanfrank-2080703453853282629.md",
+    "product": "commentary — no product",
+    "hook": "\"Me and Tony Hawk want to give you a Lamborghini:\"",
+    "body": "Seanfrank describes Ridge's annual sweepstakes ritual: it evolved from tiny little campaigns to gold-plated cyber trucks to 'the McDonalds Monopoly of Ecom', and this year's edition is the most intense, highest-lift one yet.",
+    "cta": "none visible",
+    "idea": "An annual, escalating sweepstakes becomes a brand ritual customers anticipate — the prizes get bigger every year and the event itself becomes the brand.",
+    "sequencing": [
+      "Lead with celebrity + prize in one line: Tony Hawk + a Lamborghini.",
+      "Establish the ritual: every year, Ridge does a sweepstakes.",
+      "Show the escalation arc: tiny campaigns → gold-plated cyber trucks → the 'McDonalds Monopoly of Ecom'.",
+      "Raise the stakes: this year is the most intense, most difficult, highest-lift one.",
+      "Photo attachment as proof of scale."
+    ],
+    "formatting": "Single-photo X post, text-led; the hook is a one-line celebrity-plus-prize promise.",
+    "why_it_works": "Escalation creates lore: each year's bigger prize turns the sweepstakes into a media property, and a celebrity partner lends cultural credibility that pure discounts can't buy.",
+    "what_to_steal": "The ritual structure: an annual LC giveaway that gets bigger every year (a yearly 'vault' drop with a dream prize), seeded with a known face."
+  },
+  {
+    "example_file": "2026-08-30-gleamapp-2094054316361269314.md",
+    "product": "Gleam (giveaway platform / SaaS)",
+    "hook": "\"Spending money on ads and wondering if a giveaway could get you leads for less?\"",
+    "body": "Gleam announces its new Giveaway vs Paid Ads Cost Per Lead Calculator, which compares real CPL side by side including ad spend, prize cost, time, non-winner revenue, and viral share uplift.",
+    "cta": "\"Try it\" plus a link to the calculator.",
+    "idea": "Sell giveaways to advertisers by handing them a calculator that proves giveaways beat paid ads on cost per lead.",
+    "sequencing": [
+      "Frame the announcement: 'NEW from Gleam.'",
+      "Agitate the pain: spending money on ads, wondering if giveaways get leads cheaper.",
+      "Introduce the calculator as the answer to that question.",
+      "List exactly what it compares: ad spend, prize cost, time, non-winner revenue, viral share uplift.",
+      "Close with a low-friction CTA: 'Try it.'"
+    ],
+    "formatting": "2-second video post on X; short punchy B2B SaaS text with a tool link.",
+    "why_it_works": "The calculator reframes the objection (giveaways = vanity) into the buyer's own metric (CPL) — and 'non-winner revenue' quietly admits giveaways monetize the losers too.",
+    "what_to_steal": "The 'non-winner revenue' concept: every LC giveaway funnel should monetize entrants who don't win, e.g. a discount code for all entrants."
+  },
+  {
+    "example_file": "2026-09-11-couuor-2098515153654562908.md",
+    "product": "commentary — no product",
+    "hook": "\"Sweepstakes is one of our fastest growing campaigns at Ridge.\"",
+    "body": "Ridge's CMO breaks down the Tony Hawk sweepstakes ($500k+ in prizes): ~50% YoY revenue growth at a better MER, the first multi-8-figure sweeps campaign. Channel shifts: TV scaled +71% YoY (unlocked by the celebrity), Meta share 40%→47% at 14% better ROAS, TikTok 4.1%→9.1% via GMV Max, 2,200+ ads launched (+50% YoY) with ~40% of Meta spend through partner/affiliate pages vs ~3% last year, 5,269 creator videos on TikTok. Snapchat and X budgets cut.",
+    "cta": "none visible",
+    "idea": "A celebrity-fronted sweepstakes can be a brand's fastest-growing revenue campaign when creative diversity — partnership and affiliate ads — carries it across channels.",
+    "sequencing": [
+      "Headline claim: fastest-growing campaign, ~50% YoY revenue growth at better MER.",
+      "Name the two ingredients: celebrity endorsement (Tony Hawk) + over half a million in prizes.",
+      "Channel shift 1: TV scaled +71% YoY, unlocked by the celebrity, at roughly half last year's in-platform CPA.",
+      "Channel shift 2: Meta gained budget share (40%→47%) with 35% more spend at 14% better ROAS.",
+      "Name the real driver: creative diversity — 2,200 ads launched, ~40% of Meta spend through partner/affiliate pages vs ~3% last year.",
+      "Channel shift 3: TikTok doubled share (4.1%→9.1%) on GMV Max with 5,269 creator videos, quality over raw volume.",
+      "The trims: Snapchat down ~75%, X basically to zero — performance sets the budget."
+    ],
+    "formatting": "Long X thread with budget-breakdown screenshots; numbered analysis beats; quotes an earlier Q1 thread for context.",
+    "why_it_works": "The sweepstakes is an attention event, not a discount: it earns media (TV), creator volume (5k TikTok videos), and partner distribution, so every channel gets fresh creative instead of the same tired offer.",
+    "what_to_steal": "The channel-shift lesson: a big LC giveaway should run ~40%+ of spend through creator/partner pages with an army of affiliate creatives, not just the brand account."
+  }
+]

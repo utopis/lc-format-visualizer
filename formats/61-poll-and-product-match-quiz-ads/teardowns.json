@@ -1,0 +1,254 @@
+[
+  {
+    "example_file": "2026-07-30-zakburgers-2082826379863707993.md",
+    "product": "commentary — no product",
+    "hook": "\"working with the biggest peptide players gave me huge experience in the segmentation game for emails\" — authority by client name-drop.",
+    "body": "Quiz answers power email segmentation: 10 different angle flows per brand, built from quiz responses, so each segment gets its own avatar-targeted angles and flows — \"the advanced way to run emails.\"",
+    "cta": "none visible (thought-leadership post).",
+    "idea": "The quiz is the segmentation engine — quiz answers should drive not just the result page but every downstream email angle and flow.",
+    "sequencing": [
+      "Credibility (biggest peptide players)",
+      "The mechanism: 10 angle flows mapped to quiz answers",
+      "The payoff: personalization lifts conversion",
+      "Transfer: applies to ecom email, unlocks avatars + angles",
+      "The principle: frontend must match backend — DR ads need segmented emails, not general blasts"
+    ],
+    "formatting": "Text-only post; agency-style playbook reasoning.",
+    "why_it_works": "Self-recognition — when the follow-up email references your own quiz answers, it reads as personal attention rather than a blast, which raises open and click rates.",
+    "what_to_steal": "Map LC quiz answers (metal, style, occasion) to email/SMS flows: \"you picked gold → here's your gold stack.\""
+  },
+  {
+    "example_file": "2026-08-04-IgorWoorts-2084623022649188607.md",
+    "product": "commentary — no product",
+    "hook": "\"There is NO single landing page that works best for all your ads. It all depends on the awareness stage.\" — contrarian universal claim.",
+    "body": "Awareness-stage ↔ landing-page map: Unaware → listicle/quiz; Problem-aware → advertorial/quiz; Solution-aware → quiz/listicle/comparison; Product-aware → PDP; Most-aware → offer page. Warns brands against sending unaware traffic straight to a PDP.",
+    "cta": "none visible.",
+    "idea": "Match the landing experience to awareness stage — quizzes are the right destination for unaware and problem-aware traffic, not product pages.",
+    "sequencing": [
+      "The rule: no single LP works for all ads",
+      "The 5-stage map, one line each (unaware → most aware)",
+      "The common mistake: unaware traffic → PDP",
+      "The principle: different awareness = different LP types + goals",
+      "Closer: \"It's that simple.\""
+    ],
+    "formatting": "Text-only post; clean taxonomy list, built to be screenshotted as a reference.",
+    "why_it_works": "Gives media buyers a decision rule instead of an opinion — stage-matched LPs feel obvious once named, so the post reads as durable wisdom worth saving (147 bookmarks).",
+    "what_to_steal": "The stage map for LC's funnel: cold unaware traffic → quiz (\"find your stack\"); warm → PDP/collection; hot → offer page."
+  },
+  {
+    "example_file": "2026-08-17-AdrianChivu6-2089480893157294160.md",
+    "product": "commentary — no product",
+    "hook": "\"Here's how you chadscale your way past $10k/day on cold traffic using quiz funnels.\" — scale promise with meme slang.",
+    "body": "Deep quiz-funnel architecture thread for CPG/consumables: quiz funnels convert cold at 3–8%; the first question is the hard segmenter routing 80% of the experience; middle questions build micro-commitments; the results page is a personalized recommendation with same-situation social proof; every completion is first-party data for email, segmentation, retargeting, and creative briefs.",
+    "cta": "none visible.",
+    "idea": "Quiz architecture in three layers — hard-segmenter first question, micro-commitment middle questions, personalized result with proof — turns cold traffic into first-party data.",
+    "sequencing": [
+      "Scale hook ($10k/day on cold)",
+      "The claim: highest-converting destination for ecom right now",
+      "The proof points (3–8% cold conversion, \"wild\")",
+      "Why it works: personalization = the whole game (customer buys a solution to THEIR problem)",
+      "The architecture: hard-segmenter first question → micro-commitment middles → personalized result page",
+      "The insight: best pre-sell landers are already 80% of a quiz funnel",
+      "The data payoff: every completion feeds email/segmentation/retargeting/briefs"
+    ],
+    "formatting": "Long-form thread with photo; teaches like a course module.",
+    "why_it_works": "Micro-commitment + self-revelation: each answered question invests the user in the outcome (sunk effort), and the result page reflecting them back feels earned, which converts better than a generic PDP.",
+    "what_to_steal": "The 3-layer architecture for LC's quiz: hard segmenter first (\"gold or silver?\"), 3–4 lifestyle questions, result = named stack + reviews from same-persona buyers."
+  },
+  {
+    "example_file": "2026-08-27-codyschneider-2093096255786234158.md",
+    "product": "commentary — no product",
+    "hook": "\"an AI agent is running this local business facebook ads\" — novelty + automation intrigue.",
+    "body": "Case study of an AI media-buying agent for a healthcare business: 2,170 ebook downloads, 16% become patients (347 new customers), $2,500 LTV; funnel = Facebook ads → ebook download → quiz funnel → email nurture; the agent researches pain points, makes creatives, uploads via API, and doubles down on winners.",
+    "cta": "\"if you want this for your local business get it below\" (agency pitch).",
+    "idea": "The quiz sits mid-funnel — ads buy cheap leads, the quiz qualifies and segments them, email nurtures them to high-LTV conversion.",
+    "sequencing": [
+      "Agent hook (AI runs the ads)",
+      "Result stack: downloads → conversion % → customer count → LTV",
+      "The math tease (\"$5600 in ad spend turned into... you do the math\")",
+      "The funnel revealed: ads → ebook → quiz → email",
+      "How the agent works (bullet loop: research → creative → buy → learn → iterate)",
+      "Pitch CTA"
+    ],
+    "formatting": "Number-stack text post with photo; reads like a case-study slide.",
+    "why_it_works": "The quiz as qualifier filters intent before expensive human touch — it front-loads segmentation so downstream spend only hits qualified prospects.",
+    "what_to_steal": "Quiz-as-qualifier positioning for LC's quiz: \"answer 5 questions, get your stack\" filters browsers from buyers before retargeting spend."
+  },
+  {
+    "example_file": "2026-08-27-codyschneider-2093098436069568758.md",
+    "product": "commentary — no product",
+    "hook": "\"an AI agent is running facebook ads for a local business\" — same AI-agent hook as the companion post.",
+    "body": "Near-duplicate of the earlier post (same 2,170 ebook downloads, 16% conversion, 347 patients, $2,500 LTV, ads → ebook → quiz → email funnel, same agent loop), reframed slightly (\"in august\" added).",
+    "cta": "\"if you want this for your local business get it below\" (agency pitch).",
+    "idea": "Agency case-study content is repeatable — the same funnel story can be reposted with minor reframing to keep pipeline fed.",
+    "sequencing": [
+      "Agent hook",
+      "Result stack (downloads → patients → LTV)",
+      "Agent loop bullets",
+      "Pitch CTA",
+      "Repetition with slight variation (\"in august\" added)"
+    ],
+    "formatting": "Text post with the same photo as the companion post.",
+    "why_it_works": "Repetition with slight variation keeps the same proof in front of new audience segments without creating new material — each repost harvests a fresh slice of the feed.",
+    "what_to_steal": "The quiz-mid-funnel placement (ads → lead magnet → quiz → nurture) for LC's email-capture flow."
+  },
+  {
+    "example_file": "2026-08-30-lennardeth-2094145176629342553.md",
+    "product": "commentary — no product",
+    "hook": "\"Running ads for my B2C (apartment search) product. Is it smarter to redirect to landing page or directly into the quiz funnel?\" — a genuine operator question.",
+    "body": "The poster is deciding between an LP and a direct-to-quiz entry for an apartment-search product, with a funnel of a few questions about location plus pain-covering questions.",
+    "cta": "none (asking the community for advice).",
+    "idea": "Even simple utility products now treat the quiz as a first-class landing destination — the LP-vs-quiz question has replaced the LP-vs-PDP one.",
+    "sequencing": [
+      "The product context (B2C apartment search)",
+      "The dilemma: landing page vs direct quiz",
+      "The funnel sketch (location + pain questions)",
+      "The open question (which route converts better)"
+    ],
+    "formatting": "Short text-only question post.",
+    "why_it_works": "Reveals where the format sits in 2026 operator thinking: the quiz is no longer a novelty — it's the default alternative to a landing page.",
+    "what_to_steal": "The confidence signal — if apartment search can go quiz-first, LC's \"find your stack\" quiz-first cold traffic is squarely mainstream."
+  },
+  {
+    "example_file": "2026-08-31-DTC_Quizbuilder-2094347461058052541.md",
+    "product": "commentary — no product (a quiz-platform vendor pitch, not an ad example)",
+    "hook": "\"Running a quiz funnel on Heyflow?\" — calls out the incumbent by name.",
+    "body": "A free-switch pitch: DTC-native quiz platform, 1:1 URL clone so ads don't change, pitch points are Heyflow pricing, easy split testing, native Shopify/Klaviyo integrations, MCP soon.",
+    "cta": "\"DM me\"",
+    "idea": "Quiz infrastructure is commoditizing — vendors compete on price, split-testing, and native DTC integrations, and win by making migration zero-risk (same URL).",
+    "sequencing": [
+      "Call-out question (Heyflow users)",
+      "The offer: free switch, 1:1 clone",
+      "Objection killers: same URL, no ad changes",
+      "Three reasons (pricing, split testing, DTC integrations)",
+      "Tease (MCP soon) + DM CTA"
+    ],
+    "formatting": "Short text post; vendor pitch format.",
+    "why_it_works": "The \"same URL, don't even change your ads\" line removes the switching cost — the entire pitch is risk-reversal, which is what actually moves tool buyers.",
+    "what_to_steal": "The risk-reversal framing for LC's own quiz launch: \"take the quiz, your answers build your stack — no email required.\""
+  },
+  {
+    "example_file": "2026-09-03-kailodee-2095617829051498810.md",
+    "product": "commentary — no product",
+    "hook": "\"Ran ads for a client. 20 calls on the calendar in 3 days.\" — results-first, no setup.",
+    "body": "Claims 88% of leads were qualified through the quiz funnel; calendar filled so fast they're hiring a second closer.",
+    "cta": "none visible (\"Here's what's under the hood\" implies a thread/reply, truncated in file).",
+    "idea": "The quiz is a lead QUALIFIER, not just a converter — 88% qualification rate is the headline metric, not conversion rate.",
+    "sequencing": [
+      "Result: 20 calls in 3 days",
+      "The qualifier metric: 88% qualified via quiz",
+      "The consequence: calendar full, hiring a second closer",
+      "The dangling thread ('Here's what's under the hood' — truncated, the mechanic never lands)"
+    ],
+    "formatting": "Short text-only flex post; screenshot-bait numbers.",
+    "why_it_works": "Leading with the outcome (calendar full) and making the quiz the hero metric reframes the quiz from \"landing page\" to \"sales-team filter,\" which is a higher-value story.",
+    "what_to_steal": "Lead with qualification stats in LC's quiz pitch: \"87% of quiz-takers find their perfect stack\" — make the quiz the hero, not the page."
+  },
+  {
+    "example_file": "2026-09-08-TheEhsanMaaz-2097123754036072890.md",
+    "product": "commentary — no product",
+    "hook": "\"people genuinely don't understand the opportunity that is unfolding in front of them right now for ecom brands\" — insider-knowledge framing.",
+    "body": "The poster's team built 10 landers (6 quiz funnels, 3 listicles, 1 news-story) plus comparison pages and 5 AI-native ads per lander — all in under 30 minutes — with YT Shorts ads running ads → pre-lander → lander funnels.",
+    "cta": "none visible.",
+    "idea": "Production cost for quiz landers and their paired creatives has gone to near-zero, so the winning move is volume: many landers × many native ads.",
+    "sequencing": [
+      "The opportunity claim (costs → zero)",
+      "The build list: 10 landers broken down by type",
+      "The pairing: comparison pages + 5 AI native ads per lander",
+      "The funnel: YT Shorts → pre-lander → lander",
+      "The punchline: all built in <30 minutes"
+    ],
+    "formatting": "Text-only post; speed-build flex.",
+    "why_it_works": "\"10 landers in 30 minutes\" reframes creative production from a bottleneck into a volume game — it makes NOT testing 10 variants feel like leaving money on the table.",
+    "what_to_steal": "The volume playbook for LC: 3–4 quiz angles (stack quiz, gifting quiz, style quiz) × 5 native ads each, built fast, winners scaled."
+  },
+  {
+    "example_file": "2026-09-13-TheEhsanMaaz-2098927136803578041.md",
+    "product": "commentary — no product",
+    "hook": "\"i wish brand owners understood this. no AI ads are not 'slop'\" — contrarian defense of AI creative.",
+    "body": "AI ads let you position your USP into a visual concept; pair them with a strong pre-lander (advertorial, listicle, quiz funnel); the poster is \"printing with youtube short ads for all our clients\" — the best ecom opportunity since 2018 FB ads.",
+    "cta": "none visible.",
+    "idea": "The creative matters less than the pre-lander pairing — an AI visual concept + a quiz/advertorial pre-lander is the combo that prints.",
+    "sequencing": [
+      "The contrarian take (AI ads aren't slop)",
+      "The mechanism: USP → visual concept",
+      "The combo: banger pre-lander (quiz/listicle/advertorial)",
+      "The claim: printing on YT Shorts for all clients",
+      "The historical frame (best since 2018 FB ads)"
+    ],
+    "formatting": "Text-only post.",
+    "why_it_works": "Defends the exact tool skeptics attack (AI creative) by moving the argument to the funnel — the pre-lander does the persuasion, so the ad only needs the visual hook.",
+    "what_to_steal": "Pair LC's AI-generated ad concepts with a quiz pre-lander rather than sending to PDP — let the quiz do the selling."
+  },
+  {
+    "example_file": "2026-09-21-danielborodin_-2102118399476482186.md",
+    "product": "commentary — no product",
+    "hook": "\"Just launched Whop Ads for my new SaaS\" — build-in-public launch note.",
+    "body": "Minimal test setup: $50/day, 2 image ads + 2 video ads, all pointing at a quiz funnel; \"Hope it will be profitable 👀 Will share how it goes!\"",
+    "cta": "none (implicit: follow along for results).",
+    "idea": "The minimum viable quiz test is 4 creatives (2 image + 2 video) at $50/day — small enough to run as a public experiment.",
+    "sequencing": [
+      "Launch announcement",
+      "The test parameters ($50/day, 2 image + 2 video, quiz funnel)",
+      "Open loop (\"Will share how it goes!\")",
+      "The accountability loop (public results promised — followers as witnesses)"
+    ],
+    "formatting": "Short text post; build-in-public style.",
+    "why_it_works": "Reveals the format's testability — a quiz funnel can be validated with pocket money and 4 creatives, which lowers the adoption barrier to near zero.",
+    "what_to_steal": "The 2-image + 2-video minimum test for LC's quiz: cheap, fast, kills the \"big quiz project\" framing."
+  },
+  {
+    "example_file": "2026-09-25-therahulissar-2103485927528009820.md",
+    "product": "commentary — no product",
+    "hook": "\"We're seeing a tonne of trends on different visual formats outside of just AI.\" — trend-roundup promise.",
+    "body": "Three trends: (1) greenscreen personal-story videos with no product until late — organic feel, high intent when the brand finally appears; (2) native-style ads driven to a quiz funnel instead of PDP/listicle, because natives get CTR but low on-site action and the quiz rebuilds purchase intent; (3) founder calling customers, repeatable beyond one-offs.",
+    "cta": "none visible.",
+    "idea": "Native-feeling ads have a conversion gap (clicks but no action) that a quiz funnel closes by rebuilding intent step by step.",
+    "sequencing": [
+      "Trend-roundup frame",
+      "Trend 1: greenscreen personal story, product held until late",
+      "Trend 2: natives → quiz funnel (the intent-rebuilding argument)",
+      "Trend 3: founder calling customers"
+    ],
+    "formatting": "Numbered text post (1/ 2/ 3/); tagged creative-trends in the gist.",
+    "why_it_works": "Names the exact failure mode of native ads (high CTR, low action rate) and positions the quiz as the bridge — it gives media buyers a diagnosis, not just a tactic.",
+    "what_to_steal": "Route LC's best-performing native/UGC scripts to the quiz instead of PDP — the quiz converts the curiosity click the native generated."
+  },
+  {
+    "example_file": "2026-07-21-lorenzo_pravata-2079684588620664861.md",
+    "product": "commentary — no product",
+    "hook": "\"We scaled an app from $0 to $50M in 10 months on Meta.\" — big-number credibility claim up front.",
+    "body": "Free 6-page playbook pitch covering the LTV math floor, one quiz funnel per persona, the 4-lever framework (offer, quiz funnel, upsell stack, creatives), and 6 working app ad formats with image prompts.",
+    "cta": "\"Like + Comment \\\"Playbook\\\" and I'll send it over ASAP (Must be following).\"",
+    "idea": "One quiz funnel per persona — each persona is run as its own business with its own funnel, offers, and creatives.",
+    "sequencing": [
+      "Big result claim ($0→$50M, peak month $3M) establishes authority",
+      "Scope expansion (manages $1M–$50M accounts on the same system)",
+      "Insight: apps are psychology + funnel architecture, not product",
+      "Playbook contents listed as bullets (LTV math, quiz per persona, 4-lever framework, formats, prompts)",
+      "Comment-to-DM lead magnet CTA"
+    ],
+    "formatting": "Long-form text post with a single attached photo (lead-magnet graphic); lead-magnet growth format, not an ad.",
+    "why_it_works": "The quiz-per-persona framing turns one brand into multiple personalized storefronts, which raises perceived relevance and lifts conversion vs a one-size funnel.",
+    "what_to_steal": "\"One quiz funnel per persona\" — LC can run separate quiz paths (gold vs silver, dainty vs chunky) and retarget each with matching creative."
+  },
+  {
+    "example_file": "2026-07-26-JamesEbringer-2081462841052151919.md",
+    "product": "commentary — no product",
+    "hook": "\"Facebook CPCs in Africa are $0.05 right now\" — cheap-traffic arbitrage claim.",
+    "body": "Step-by-step math walk: $10/day → 200 clicks → 2% conversion → 4 conversions → $28 commission = $18 profit/day ($540/month); \"The quiz does all the selling — you just send the traffic.\"",
+    "cta": "\"The Africa Ads Method is live inside TAP right now\" (soft pitch for his program).",
+    "idea": "A quiz funnel lets you profit from dirt-cheap CPCs because the quiz — not the ad — does the selling.",
+    "sequencing": [
+      "Arbitrage hook ($0.05 CPCs)",
+      "Simple setup steps (ad account → simple ad → quiz funnel)",
+      "The math ladder, one line per step",
+      "Monthly extrapolation ($540)",
+      "Urgency (\"These CPCs will not stay this low forever\")",
+      "Program pitch (TAP)"
+    ],
+    "formatting": "Short-line vertical text post with two photos; punchy one-line-per-beat rhythm built for screenshots.",
+    "why_it_works": "The math ladder makes the funnel feel inevitable — each micro-claim is small enough to accept, and the compound ends at profit.",
+    "what_to_steal": "The one-line math ladder rhythm (“X clicks → Y conversions → Z profit”) for LC quiz-result pages or email copy (“30 seconds → your stack → free shipping”)."
+  }
+]

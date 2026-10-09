@@ -1,0 +1,44 @@
+[
+ {
+  "example_file": "2026-07-17-ayomikunszn-2078116608069800131.md",
+  "product": "Weekender Bag (DTC travel bag)",
+  "hook": "\"Created these Weekender Bag ad concepts after studying what's working for leading DTC travel brands on Meta.\"",
+  "body": "not in file",
+  "cta": "none explicit — portfolio showcase (links cut).",
+  "idea": "Four ad concepts, four conversion angles (problem-solution, lifestyle, benefits, social proof) — one angle per creative, because good ads don't try to say everything.",
+  "sequencing": [
+   "Hook: concepts from studying winning DTC travel brands.",
+   "The structure: 4 creatives, 4 angles.",
+   "Angle 1: problem-solution.",
+   "Angle 2: lifestyle.",
+   "Angle 3: product benefits.",
+   "Angle 4: social proof.",
+   "The rule: good ads don't say everything.",
+   "Photo."
+  ],
+  "formatting": "Portfolio post: the research note → the 4-angle structure → the one-idea rule. Photo.",
+  "why_it_works": "'Studying what's working' borrows the winners' authority. The one-idea rule is the discipline most advertisers lack — naming it is the value.",
+  "what_to_steal": "The one-angle-per-creative rule for LC: each dupe carries exactly one conversion angle — problem-solution gets its own cut, never mixed with lifestyle. The 4-angle set is LC's creative matrix."
+ },
+ {
+  "example_file": "2026-09-14-alexpagepilot-2099438014456045990.md",
+  "product": "commentary — no product",
+  "hook": "\"the 5 ad creative formats that convert highest in dropshipping right now ranked by performance:\"",
+  "body": "The ranked 5: (1) UGC problem/solution — real/AI person describes the problem, shows product, shows result; 30-45s, phone feel; 'I was waking up every night with back pain… first night I slept through'; converts highest, looks like a friend. (2) 'TikTok made me buy it' — fast cuts, trending audio, <15s demo; impulse <$40. (3) Us vs them split — 15-20s, visual conflict, highest CTR. (4) Founder talking head — 'I designed this because I was tired of [problem]'; retargets 2-3x, face = familiarity. (5) Text-overlay slideshow — 5-7 images, 'problem → solution → proof → offer'; 70-80% of video performance at 5% effort. Common thread: native, not ads — the moment it looks produced, the brain scrolls.",
+  "cta": "none explicit — the ranking is the content.",
+  "idea": "UGC problem/solution ranks #1 in dropshipping: problem → product → result in 30-45s with a phone-recorded feel — it converts highest because it looks like a friend recommending, not an ad.",
+  "sequencing": [
+   "Hook: 5 formats ranked by performance.",
+   "#1: UGC problem/solution — the structure + example line.",
+   "#2: TikTok-made-me-buy-it.",
+   "#3: us vs them split.",
+   "#4: founder talking head.",
+   "#5: text-overlay slideshow.",
+   "The common thread: native, not produced.",
+   "The rule: best ad doesn't look like an ad."
+  ],
+  "formatting": "Ranked playbook: 5 formats with runtime, mechanics, and example lines; the common-thread close.",
+  "why_it_works": "Ranking by performance (not opinion) + a concrete example line per format makes it immediately usable. 'Looks like a friend, not an ad' is the whole UGC thesis in one line.",
+  "what_to_steal": "The #1 format as LC's workhorse: 'I was [tarnish problem]… my friend told me about this… first [result]' — 30-45s, phone feel, problem → product → result. The slideshow stat (70-80% of video at 5% effort) justifies LC's slideshow lane economics."
+ }
+]

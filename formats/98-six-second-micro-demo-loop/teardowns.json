@@ -1,0 +1,137 @@
+[
+  {
+    "example_file": "2026-07-24-vladdubchak_x-2080614240386240932.md",
+    "product": "Static-to-6s-stop-motion skill (vladdubchak_x's tool)",
+    "hook": "\"Your best static ads have a ceiling.\"",
+    "body": "A tool/skill pitch: drop in your best static ad and get back a 6-second stop-motion version as video. The argument: statics have a ceiling (no video slots, no autoplay), and the creative already validated the concept — this just removes the distribution ceiling. 6s demo video attached.",
+    "cta": "\"Sauce in the article below\" — link to the method.",
+    "idea": "Animate the winner: a validated static becomes a 6-second stop-motion video, unlocking video placements without new creative risk.",
+    "sequencing": [
+      "Problem: best statics have a ceiling (no video slots/autoplay).",
+      "Solution: the skill — static in, 6s stop-motion video out.",
+      "Logic: the creative already did the hard part and validated the concept.",
+      "Job now: distribution, not ideation.",
+      "CTA: the article with the method."
+    ],
+    "formatting": "Short text + 6s demo video. Tool-pitch voice.",
+    "why_it_works": "\"The creative did the hard part already\" reframes the tool as risk-free leverage on a proven winner rather than another thing to test.",
+    "what_to_steal": "The pipeline step for LC: every winning static auto-generates a 6s stop-motion version on the same day — double the placements, zero new concepts, and the concept risk is already retired."
+  },
+  {
+    "example_file": "2026-08-12-lifemaximised-2087623547288207463.md",
+    "product": "commentary — no product (YouTube Shorts playbook; Higgsfield MCP)",
+    "hook": "\"YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there\"",
+    "body": "A YouTube Shorts arbitrage playbook: Shorts is the most underpriced Google inventory; the blocker (\"we don't have video\") dies via Higgsfield MCP in Claude (Seedance 2.0, Kling 3.0, Veo 3.1). The 6-second play: unskippable bumpers — no skip button, full message seen, penny CPVs. Includes the exact prompt for turning a product image into a 6s vertical bumper and a 15s Shorts ad structure (hook frame → product reveal → social proof → CTA).",
+    "cta": "DM \"SHORTS\" for a brand-specific setup walkthrough.",
+    "idea": "Repurpose winning Meta statics into 6-second unskippable Shorts bumpers via AI video — the cheapest new-customer channel nobody's bidding on.",
+    "sequencing": [
+      "Arbitrage: Shorts = most underpriced Google inventory.",
+      "Blocker: \"we don't have video creative.\"",
+      "Unlock: Higgsfield MCP in Claude, 60-second setup.",
+      "The 6s play: unskippable bumpers — full message, penny views.",
+      "Prompts: product image → 6s bumper; lifestyle image generation for CTR.",
+      "Structure: 15s Shorts ad (hook → reveal → proof → CTA).",
+      "Targeting: custom intent from category searches.",
+      "CTA: DM \"SHORTS.\""
+    ],
+    "formatting": "Long playbook thread with copy-paste prompts; one photo. Step-by-step.",
+    "why_it_works": "\"Unskippable\" + \"pennies\" + \"90% aren't there\" is a three-part arbitrage pitch, and the copy-paste prompts remove the execution excuse.",
+    "what_to_steal": "The 6s bumper prompt as LC's YouTube line: winning jewelry statics → 6s unskippable bumpers (water beading, stack reveal) aimed at custom-intent \"waterproof jewelry\" searchers — a channel LC likely isn't bidding."
+  },
+  {
+    "example_file": "2026-08-12-pranavclickks-2087497730042081339.md",
+    "product": "commentary — no product (HookMaster AI MCP demo on a Brezza S-CNG ad)",
+    "hook": "\"OMG! Claude can finally watch and analyze video ads.\"",
+    "body": "A product demo of HookMaster AI inside Claude: it watched a 20-second Brezza S-CNG ad (starring Kartik Aaryan) frame by frame and found the entire sale happens in 3 seconds — celebrity opening earns attention, product appears in the first 5s, underbody S-CNG positioning answers a real buyer concern. It flagged the 0:13 driving montage as the weakest moment and recommended a 6-second cutdown for skippable placements.",
+    "cta": "\"What ad should I make Claude analyze next?\" (reply bait) + full analysis in the reply.",
+    "idea": "Frame-by-frame AI critique finds the 3 seconds that sell and the montage that wastes — then prescribes the 6-second cutdown.",
+    "sequencing": [
+      "Hook: Claude can watch video ads now.",
+      "Setup: HookMaster MCP + 20s Brezza ad with Kartik Aaryan.",
+      "Finding: the entire sale happens in 3 seconds.",
+      "Why it works: celebrity open → product in 5s → positioning answers a concern.",
+      "Weakness: generic montage at 0:13.",
+      "Prescription: 6-second cutdown for skippable.",
+      "CTA: what ad next?"
+    ],
+    "formatting": "Demo post + 35s video + analysis photo. AI-capability flex.",
+    "why_it_works": "A celebrity ad getting a ruthless AI grade is inherently watchable, and the \"3 seconds\" finding gives every reader a new lens for their own creatives.",
+    "what_to_steal": "The 3-second-sale audit for LC: run every jewelry creative through the \"where does the sale happen\" test — if the waterproof proof isn't inside 5 seconds, cut the montage and ship the 6s version."
+  },
+  {
+    "example_file": "2026-08-17-kristiana_ugc-2089447226598666597.md",
+    "product": "commentary — no product (UGC agency formula)",
+    "hook": "\"this client went viral with our brolls\"",
+    "body": "A UGC agency's viral formula: viral hook in your niche + 4-6 second shocked reaction vid + a demo of your app/website (\"the demo format in the video is going viral rn\") = done. Claims a client went viral with their B-rolls.",
+    "cta": "\"try it out ;)\" + link.",
+    "idea": "The 3-part viral micro-structure: niche hook + 4-6s shocked reaction + product demo — that's the whole ad.",
+    "sequencing": [
+      "Proof: client went viral with our B-rolls.",
+      "Part 1: viral hook in your niche.",
+      "Part 2: 4-6 second shocked reaction vid.",
+      "Part 3: demo of your app/website.",
+      "Close: \"its that easy, try it out.\""
+    ],
+    "formatting": "Ultra-short text post + link. Casual.",
+    "why_it_works": "\"Its that easy\" plus a 3-part recipe makes virality feel like assembly, which is exactly what a time-starved operator wants to believe.",
+    "what_to_steal": "The micro-structure for LC's shortest creatives: hook (\"my $12 necklace turned my neck green\") + 4-6s shocked reaction + 6s waterproof demo — the entire ad in under 15 seconds."
+  },
+  {
+    "example_file": "2026-09-15-hasantoxr-2099897310654378092.md",
+    "product": "commentary — no product (OpenArt Arena rankings)",
+    "hook": "\"Every lab claims 'we're the best model' and the phrase means nothing the moment you actually make something.\"",
+    "body": "A model-ranking argument: \"best model\" is meaningless — best at cinematic film look ≠ best at 6-second ads ≠ lipsync ≠ cleanup. OpenArt Arena ranks models by the actual jobs creatives do, judged blind by working people. The useful question is \"best at what.\" 13s video attached.",
+    "cta": "Rankings link.",
+    "idea": "Judge AI models by job (6-second ads, lipsync, cleanup), blind, by working creatives — not by demo reels.",
+    "sequencing": [
+      "Problem: \"best model\" claims collapse in production.",
+      "Truth: different jobs need different models.",
+      "Solution: OpenArt Arena, blind judging by working people.",
+      "The question: never \"best\" — \"best at what.\"",
+      "CTA: the rankings."
+    ],
+    "formatting": "Short text + 13s video + link. Contrarian take.",
+    "why_it_works": "\"Best at what\" is a portable mental tool that flatters the reader's sophistication while demolishing lazy vendor claims.",
+    "what_to_steal": "The procurement rule for LC's AI pipeline: benchmark video models on the 6-second jewelry demo job specifically (water realism, metal reflections) — never buy on cinematic demo reels."
+  },
+  {
+    "example_file": "2026-09-23-ecomrudolfs-2102762930886336763.md",
+    "product": "Smooche color-changing foundation (ad described, not the poster's product)",
+    "hook": "\"One ad that has 12 duplicates and has been running for 225 days. And it is not 2 mins long. Nop. I think it is 6 seconds long\"",
+    "body": "A competitor teardown of Smooche's shortest winner: a ~6-second foundation clip with 12 duplicates running 225 days. The whole ad is one readable headline over product-in-use footage: \"omg I think I finally found a foundation that looks like second skin.\" The thesis: fried audiences won't watch 2 minutes without a story, so short product-in-use clips win. Includes the ad link and lander (smooche.com/products/color-changing-foundation).",
+    "cta": "The ad's implied CTA: the product page link.",
+    "idea": "The 6-second product-in-use clip with one readable headline can outlive every long-form ad in the account — 225 days, 12 duplicates.",
+    "sequencing": [
+      "Brand: Smooche scaling hard into Q4.",
+      "Funnel note: cross-sells, bundles, add-ons capture max per visitor.",
+      "The specimen: 6s clip, 12 duplicates, 225 days.",
+      "The headline: \"omg I think I finally found a foundation that looks like second skin.\"",
+      "Thesis: fried brains won't watch 2 minutes without a story.",
+      "Mechanism: short product-in-use clips.",
+      "Proof links: the ad + the lander.",
+      "Aside: their Shopify payments rant."
+    ],
+    "formatting": "Long casual teardown post with ad + lander links. Conversational, profane.",
+    "why_it_works": "225 days × 12 duplicates is an undeniable receipt, and the \"fried brain\" thesis gives media buyers permission to stop overproducing.",
+    "what_to_steal": "The exact LC adaptation: a 6-second clip of water beading off a necklace (or a stack going into the pool) with one headline — \"omg I think I finally found jewelry that survives the pool\" — run as the evergreen micro-demo for 200+ days."
+  },
+  {
+    "example_file": "2026-09-24-akari_w0r1d-2102937109405311256.md",
+    "product": "Adobe Firefly (sponsored demo)",
+    "hook": "\"I created this cozy 6-second lo-fi loop animation entirely within @adobefirefly\"",
+    "body": "A sponsored Adobe demo (#Ad, #AdobeFireflyAmbassadors): a cozy 6-second lo-fi loop animation made entirely in Adobe Firefly — illustration + animation + AI-generated music matched to mood/style/tempo, layered in one workflow.",
+    "cta": "\"Try @AdobeFirefly for yourself\" + link.",
+    "idea": "One tool, one workflow: illustration, animation, and mood-matched AI music for a seamless 6-second loop.",
+    "sequencing": [
+      "The make: 6s lo-fi loop, entirely in Firefly.",
+      "Step 1: illustration + animation.",
+      "Step 2: AI music matched to mood/style/tempo.",
+      "Step 3: layer music over animation.",
+      "Love: visuals + music in one workflow.",
+      "CTA: try Firefly."
+    ],
+    "formatting": "Short sponsored text + 21s video. Warm, process-sharing tone.",
+    "why_it_works": "\"Entirely within\" one tool is the pitch — no pipeline, no handoffs — and the cozy loop is engineered for the rewatch metric the algo loves.",
+    "what_to_steal": "The loop + mood-matched music combo for LC's ambient placements (stories, reels backgrounds): a 6s jewelry loop (chain swaying, water rippling) with matched audio — cheap, hypnotic, infinitely rewatchable."
+  }
+]

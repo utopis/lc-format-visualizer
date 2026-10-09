@@ -1,0 +1,142 @@
+[
+  {
+    "example_file": "2026-07-16-girlincrypto007-2077765449371025600.md",
+    "product": "commentary — no product. An AI model stack for tasks (mismatched to this folder; auto-matched candidate).",
+    "hook": "\"You need the right AI model for every task so you don't burn through your limits too fast 👀\"",
+    "body": "A personal AI stack: Claude Fable (sites), ChatGPT Images 2.0 (logos/product photos), Sonnet 4.6 (writing), ElevenLabs (voice cloning), Cursor (apps), Opus 4.8 (decisions), Haiku (translations), ChatGPT 5.6 (research). Asks followers for their stacks. 62s video attached.",
+    "cta": "\"Which models do you guys use for particular tasks?\" (engagement).",
+    "idea": "Match the AI model to the task to avoid burning limits.",
+    "sequencing": [
+      "\"The right AI model for every task.\"",
+      "The stack: Fable, Images 2.0, Sonnet 4.6, ElevenLabs, Cursor, Opus 4.8, Haiku, ChatGPT 5.6.",
+      "Goal: don't burn through limits.",
+      "\"Which models do you guys use?\""
+    ],
+    "formatting": "62s video.",
+    "why_it_works": "Stack posts invite comparison — everyone has opinions on tools.",
+    "what_to_steal": "Nothing for the lookbook format — flag as folder mismatch; the stack-sharing mechanic is the only portable bit."
+  },
+  {
+    "example_file": "2026-07-23-MimiTheDesigner-2080184317771227394.md",
+    "product": "commentary — no product. Showcases fully AI-generated fashion models/dresses; pitches learning how.",
+    "hook": "\"Think these models are real? Think again.\"",
+    "body": "Every dress and every model in the video is AI-generated — framed as one of the biggest advertising shifts of 2026. For clothing, boutiques, shoes, bags, jewelry, beauty: no more expensive photoshoots or model hires; AI makes campaign images, product ads, and promo videos in minutes — faster, cheaper, unlimited creative possibilities. CTA: link in comments to learn. 35s video attached; transcript has no speech.",
+    "cta": "\"Click the link in my comment section to learn.\"",
+    "idea": "The reveal (\"think again\") sells the AI-model service — if you couldn't tell, the tech is ready.",
+    "sequencing": [
+      "The reveal hook.",
+      "The claim (biggest 2026 shift).",
+      "The audience list (incl. jewelry).",
+      "The benefits (faster, cheaper, unlimited).",
+      "Learn-more CTA."
+    ],
+    "formatting": "35s vertical video (1080x1920); AI fashion film.",
+    "why_it_works": "The Turing-test moment — \"you couldn't tell\" is the entire pitch.",
+    "what_to_steal": "The reveal structure for LC: \"think this model is real?\" → AI lookbook of LC jewelry on AI models — no shoot needed."
+  },
+  {
+    "example_file": "2026-08-04-beginnersblog1-2084730957035454832.md",
+    "product": "commentary — no product. Twenty-three ways to earn with GPT IMG 2.0 (make-money list).",
+    "hook": "\"🚨Breaking: 23 ways to earn using GPT IMG 2.0 in 2026.\"",
+    "body": "Twenty-three monetizable services: rebuild winning ads, refresh creative libraries, infographics, thumbnails, virtual try-on photos, posters, Amazon photos, AI avatars, upscaling, quote cards, mascots, before/afters, storyboards, magazine portraits, seasonal packs, identity kits, local ads, UGC-style product shots, Pinterest packs, fusion portraits, Etsy bundles, multi-language creatives, brand avatars. Photo attached. (Truncated.)",
+    "cta": "none visible.",
+    "idea": "AI image generation is a 23-service freelance business.",
+    "sequencing": [
+      "\"23 ways to earn using GPT IMG 2.0.\"",
+      "Services 1–8: rebuild ads, refresh libraries, infographics, thumbnails, try-on, posters, Amazon photos, avatars.",
+      "Services 9–16: upscaling, quote cards, mascots, before/afters, storyboards, portraits, seasonal packs, identity kits.",
+      "Services 17–23: local ads, UGC shots, Pinterest packs, fusion portraits, Etsy bundles, multi-language, brand avatars."
+    ],
+    "formatting": "Photo attached.",
+    "why_it_works": "Numbered money lists promise a business in a post.",
+    "what_to_steal": "Items 5, 12, 18, 23 for LC: virtual try-on, before/afters, UGC-style product shots, consistent brand avatars."
+  },
+  {
+    "example_file": "2026-08-07-MirrAIHQ-2085708930588557789.md",
+    "product": "MirrAI Studio — AI on-model try-on generated from flat product photos.",
+    "hook": "\"Every fashion brand has a folder of flat product photos.\"",
+    "body": "Run a whole catalog through MirrAI Studio → on-model try-ons for every item. No photoshoot, no models, no studio — just an upload. 20s video demo attached.",
+    "cta": "Implied (watch the demo / try the tool).",
+    "idea": "Flat product photos in, on-model try-ons out — the catalog becomes the shoot.",
+    "sequencing": [
+      "\"Every fashion brand has a folder of flat product photos.\"",
+      "Run the whole catalog through MirrAI Studio.",
+      "On-model try-ons for every item.",
+      "No photoshoot, no models, no studio — just an upload."
+    ],
+    "formatting": "20s video demo.",
+    "why_it_works": "Every brand already owns the input (flat photos) — the tool just unlocks it.",
+    "what_to_steal": "Run LC's entire catalog through on-model AI try-on — every SKU gets a model shot with zero shoot days."
+  },
+  {
+    "example_file": "2026-08-22-ilands_ai-2091158748370718799.md",
+    "product": "iLands — AI model platform; Sloane Val, an AI model with a consistent face who \"invoiced\" a website client.",
+    "hook": "\"An AI model just invoiced her first client. Not for a shoot. For a website.\"",
+    "body": "Sloane Val, an AI model on iLands known for one consistent face across editorial/brand work. Her human found a small handmade business needing a website, handed Sloane the brand materials, and she returned logos, palette, homepage, galleries, about, ordering flows, and site files — approved, paid in full; she was paid 3,600 iLands credits. Three more businesses followed. Closes: what happens when AI stops doing the work and starts building a client list? 63s video attached.",
+    "cta": "none visible.",
+    "idea": "A consistent-face AI model as a creative freelancer — the character is the business.",
+    "sequencing": [
+      "The invoice hook.",
+      "Sloane Val intro.",
+      "The website job.",
+      "Delivery + payment.",
+      "Three more clients.",
+      "The philosophical close."
+    ],
+    "formatting": "63s video.",
+    "why_it_works": "\"Invoiced her first client\" personifies the AI — the novelty carries the story.",
+    "what_to_steal": "The consistent-face principle for LC: one locked AI model face across every LC lookbook frame builds recognition."
+  },
+  {
+    "example_file": "2026-08-27-shealshakya-2092938675394883839.md",
+    "product": "commentary — no product. \"$2000/month\" freelancer pitch with the same 23-service list (duplicate of the 08-04 post).",
+    "hook": "\"You can make $2000/month.\"",
+    "body": "Same 23 AI-image services list (rebuild winning ads, virtual try-on, UGC-style shots, etc.); requirements: smartphone, internet, 4 hours/day. Photo attached.",
+    "cta": "none visible.",
+    "idea": "Duplicate of the 08-04 money-list post.",
+    "sequencing": [
+      "\"You can make $2000/month.\"",
+      "Requirements: smartphone, internet, 4 hours a day.",
+      "The same 23 AI-image services list.",
+      "Duplicate of the 08-04 post."
+    ],
+    "formatting": "Photo attached.",
+    "why_it_works": "Low-barrier money claims travel.",
+    "what_to_steal": "Same as the 08-04 post — items 5, 12, 18, 23 for LC."
+  },
+  {
+    "example_file": "2026-09-02-Arina_hoqe-2095071815483986241.md",
+    "product": "commentary — no product. A full copy-paste prompt for a 15s photoreal AI UGC watch ad (\"Running Late\").",
+    "hook": "\"Running Late — The Watch That Completes the Look.\"",
+    "body": "A complete generation recipe: open Gemini/Grok/GPT Image 2.0, upload your photo, copy the prompt, generate. The prompt specifies: premium fashion wristwatch, exactly 15s, photorealistic smartphone-footage UGC style, identity preservation (face/features/hair/skin/body), exact watch reference preservation, wardrobe (cream blazer, black top, tailored trousers, minimal jewelry), and a timeline opening with a strong hook — she rushes out, stops, checks her wrist with a surprised smile (truncated). 15s video attached; transcript: \"This is perfect. Look at this. So clean.\"",
+    "cta": "none visible (prompt share).",
+    "idea": "Identity-locked plus product-locked prompting turns your own photo into a photoreal product ad.",
+    "sequencing": [
+      "Open the tool.",
+      "Upload photo.",
+      "Copy prompt.",
+      "Generate.",
+      "The prompt spec (identity, product, wardrobe, timeline)."
+    ],
+    "formatting": "15s video (640x640).",
+    "why_it_works": "Dual reference-locking (identity + product) solves AI's two failure modes — wrong face, wrong product.",
+    "what_to_steal": "The dual-lock prompt structure for LC: lock the model's identity + lock the exact LC piece → photoreal on-body jewelry ads from one photo."
+  },
+  {
+    "example_file": "2026-10-02-rirahcreates-2106081343566381455.md",
+    "product": "commentary — no product. AI fashion content creation as a niche/business (16 content types listed).",
+    "hook": "\"📌 NICHE #6: AI FASHION CONTENT CREATION.\"",
+    "body": "Fashion brands constantly need content — campaign images, lookbooks, product videos, model shoots, launches, social. AI creates it all without physical shoots. Sixteen content types listed, including jewelry campaigns; specialization encouraged (truncated). Attached 10s video: \"Five looks, 10 seconds… Workwear, reimagined.\"",
+    "cta": "none visible.",
+    "idea": "AI fashion content as a service niche — lookbooks without shoots.",
+    "sequencing": [
+      "The niche claim.",
+      "The brand need.",
+      "The 16 content types.",
+      "Specialize further (truncated)."
+    ],
+    "formatting": "10s video (720x1280).",
+    "why_it_works": "\"Without organizing a full physical shoot\" is the cost unlock every brand understands.",
+    "what_to_steal": "The content-type list as LC's AI lookbook menu: jewelry campaigns, lookbooks, \"one outfit five locations,\" bridal campaigns."
+  }
+]

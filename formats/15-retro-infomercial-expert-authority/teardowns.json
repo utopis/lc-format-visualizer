@@ -1,0 +1,90 @@
+[
+  {
+    "example_file": "2026-08-06-TomReichertWA-2085467482224247014.md",
+    "product": "Coca-Cola — a fan-made Grok-generated retro ad (not an official ad).",
+    "hook": "not in file (fan post).",
+    "body": "A fan used Grok to generate a retro-style Coca-Cola ad in about a minute, then dubbed in music via TikTok — pitched as a demo of users making ads for brands. 20s video attached; @CocaCola, @nikitabier, and @elonmusk tagged.",
+    "cta": "none visible.",
+    "idea": "AI lets anyone make a retro brand ad in a minute — fans become the creative department.",
+    "sequencing": [
+      "Grok-generated retro clip.",
+      "Music dubbed via TikTok.",
+      "\"Made you a retro ad in a minute.\"",
+      "Tagged @CocaCola, @nikitabier, @elonmusk."
+    ],
+    "formatting": "20s video.",
+    "why_it_works": "Retro aesthetics are instantly recognizable and cheap for AI to mimic.",
+    "what_to_steal": "The speed — LC retro infomercials can be generated in minutes, not produced in weeks."
+  },
+  {
+    "example_file": "2026-08-15-CEO_Vlad-2088597593949692087.md",
+    "product": "commentary — no product. The AI pharmacist authority-figure ad format ($5, 4 minutes).",
+    "hook": "\"ai pharmacists are the most underrated ad format right now.\"",
+    "body": "Generate an AI pharmacist, write the script, paste it in — 30-second video out the other side for $5 in about 4 minutes; jokes a real pharmacist wouldn't do it for $5,000. 26s video attached (transcript is a fragment: \"take the zero sugar goly best seller trio\").",
+    "cta": "none visible.",
+    "idea": "AI authority figures collapse expert-endorsement production to $5 and 4 minutes.",
+    "sequencing": [
+      "Generate the pharmacist.",
+      "Write the script.",
+      "Paste it in.",
+      "30s video out."
+    ],
+    "formatting": "26s vertical video (720x1280).",
+    "why_it_works": "White-coat authority transfers trust instantly; AI removes the cost and compliance friction of real experts.",
+    "what_to_steal": "The $5/4-minute authority production model for LC — an AI \"jewelry expert\" explaining plating vs PVD."
+  },
+  {
+    "example_file": "2026-08-25-HenryCrochemore-2092191032645431595.md",
+    "product": "Poo-Pourri — retro-styled static ad (the post is commentary on their creative).",
+    "hook": "\"this static is weird enough to make you stop.\"",
+    "body": "Poo-Pourri wrapped an awkward product (toilet spray) in a polished retro ad; the contrast is the mechanism: classy visual, awkward problem, simple promise, memorable brand. Photo attached. (Post truncated.)",
+    "cta": "none visible.",
+    "idea": "Classy retro visuals plus an awkward problem equals memorable contrast.",
+    "sequencing": [
+      "Weird-enough-to-stop visual.",
+      "Polished retro wrapper.",
+      "Awkward problem inside.",
+      "Simple promise.",
+      "Memorable brand."
+    ],
+    "formatting": "Photo attached; polished retro static.",
+    "why_it_works": "Contrast — the visual promises class, the problem delivers awkwardness; the tension is memorable.",
+    "what_to_steal": "The contrast formula for LC: classy retro visual + the awkward problem (green neck, faded jewelry) + simple promise (never fades)."
+  },
+  {
+    "example_file": "2026-09-30-tryatria_AI-2105329322496016777.md",
+    "product": "BESK — botanical oil for aging skin (7 botanicals; 550,000+ women; for women 40+); the post is commentary on the retro format with the ad video attached.",
+    "hook": "\"15 years as a dermatologist\" plus the 1987 daytime-TV aesthetic.",
+    "body": "A dermatologist in a pink blazer delivers a daytime-TV-style recommendation: most moisturizers are 70% water that evaporates by noon; aging skin needs botanical oils that absorb beneath the surface; BESK's 7 botanicals visibly improve skin over time; 550,000+ women; direct close (\"what are you waiting for?\").",
+    "cta": "\"So, what are you waiting for?\" (implied shop CTA).",
+    "idea": "Un-polished 1987 daytime-TV authority — the retro format itself is the scroll-stopper.",
+    "sequencing": [
+      "Authority credential (15 years dermatologist).",
+      "Problem agitation (crepiness, thinning, dryness).",
+      "Mechanism (lotions are 70% water).",
+      "Solution (botanical oils, BESK, 7 botanicals).",
+      "Social proof (550,000+ women).",
+      "Direct close."
+    ],
+    "formatting": "48s vertical video (720x1280); retro daytime-TV aesthetic, pink blazer.",
+    "why_it_works": "The retro format is so out of place in a polished DTC feed that it stops the scroll; then classic authority plus mechanism plus proof closes.",
+    "what_to_steal": "The full skeleton for LC: \"20 years as a jeweler\" + retro TV aesthetic + mechanism (plating vs PVD) + proof + direct close."
+  },
+  {
+    "example_file": "2026-10-08-antonioventre_-2108228200421576872.md",
+    "product": "An unnamed US supplement brand — 3.17x ROAS creative/account breakdown ($34k spend → $108k revenue, 28 days).",
+    "hook": "\"Supplement brand, US market only. Last 28 days: $34,126 spent, $108,242 back, 3.17x average across the account.\"",
+    "body": "Account structure: 1 CBO per product, 1 ad set per persona. Working creatives: Suno AI ads, professor interviews, FaceTime calls, native ads, WhatsApp conversations, AI short movies. Two photos attached.",
+    "cta": "none visible.",
+    "idea": "Simple account structure (CBO × product, ad set × persona) plus format-diverse creative equals 3.17x.",
+    "sequencing": [
+      "$34,126 spent → $108,242 back: 3.17x over 28 days.",
+      "Structure: 1 CBO per product.",
+      "1 ad set per persona.",
+      "Creatives: Suno AI, prof interviews, FaceTime calls, native ads, WhatsApp conversations, AI short movies."
+    ],
+    "formatting": "Two photos attached.",
+    "why_it_works": "Persona-level ad sets let each creative speak to one buyer; professor interviews supply authority cheaply.",
+    "what_to_steal": "\"Professor interviews\" as LC's expert-authority creative — interview a materials/jewelry expert on camera."
+  }
+]

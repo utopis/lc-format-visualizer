@@ -1,0 +1,38 @@
+[
+  {
+    "example_file": "2026-08-07-zackpaid-2085621175292670183.md",
+    "product": "commentary — no product",
+    "hook": "\"11 winning AI creative formats I abused to print $12M+ on Meta ads (and the psychology behind why each one prints)\"",
+    "body": "A catalog of 11 formats: native UGC (3-4x CTR vs polished), founder talking head (parasocial familiarity), claymation (2-3x thumb-stop), Pixar-style 3D (halo effect → higher perceived value), musical/jingle (96% higher recall), screen-recording walkthrough (proof-by-demonstration), before/after (visual comparison), testimonial compilation (smallest-first escalation), cinematic demo (Apple-keynote halo), mini-documentary (narrative transportation drops resistance 50%+), meme/native (lowest CPMs).",
+    "cta": "DM me \"META\" if you want us to deploy this creative system for your specific offer.",
+    "idea": "Authority thread packaging 11 AI creative formats with the psychology behind each, as a lead magnet for the author's agency.",
+    "sequencing": [
+      "Hook: $12M+ claim + \"psychology behind why each one prints\" promise.",
+      "Context beat: 2026 Meta = creative is the only variable; format matters more than copy.",
+      "Formats 1-11, each with a named psychological mechanism (categorization, parasocial familiarity, novelty, halo effect, jingle recall, proof-by-demonstration, visual comparison, compounding social proof, premium halo, narrative transportation, trojan-horse native).",
+      "Production cheat code: 3 tools (Seedance 2.0 via Higgsfield MCP, ChatGPT Images 2.0, Opus 5) → near-zero cost, 50-100+ variations/month.",
+      "Operating doctrine: run 3-4 formats simultaneously, kill losers in 72h, scale winners with 80% budget.",
+      "CTA: DM \"META\" for the creative system on your offer."
+    ],
+    "formatting": "Long-form text post (numbered list, ~500 words); no media in the pulled copy. Written as an agency pitch thread aimed at marketers.",
+    "why_it_works": "Value density + specificity ($12M, 3-4x CTR, 96% recall) earns the bookmark, and the taxonomy gives readers a mental filing system that makes the author the authority on AI creative.",
+    "what_to_steal": "The mechanism-per-format framing: attach a named psychological principle to each format so the team knows WHEN to use it, and the \"run 3-4 formats, kill losers in 72h\" operating doctrine — directly portable to a jewelry creative-testing matrix."
+  },
+  {
+    "example_file": "2026-09-19-FedotOff90-2101445743412138341.md",
+    "product": "commentary — no product",
+    "hook": "\"INSANE fucking growth. Storytelling Drama ads is the main format. Here's 199 of these bangers from Pocket FM.\"",
+    "body": "Points to 199 Pocket FM storytelling drama ads as the model set. The post reveals the format's signature traits: serialized cliffhanger storytelling borrowed from audio-drama apps, long-running episodes, and direct adaptability to ecom products.",
+    "cta": "Link to the gethookd board of 199 Pocket FM storytelling drama ads.",
+    "idea": "Pocket FM's serial-episode drama ads are the reference implementation of fiction-serial-native creative; collect and model them.",
+    "sequencing": [
+      "Hook: \"INSANE fucking growth\" + authority claim (storytelling drama = the main format).",
+      "Proof anchor: 199 examples from one brand (Pocket FM).",
+      "Directive: \"Model and adapt for your Ecom products.\"",
+      "Payload: gethookd board link."
+    ],
+    "formatting": "Two-line hype post + link-out to an external swipe board (app.gethookd.ai). No breakdown of a single ad; the value is the collection.",
+    "why_it_works": "Curation as content: one mega-number (199) plus a single exemplar brand does the convincing; the reader borrows the strategist's homework instead of doing it.",
+    "what_to_steal": "The directive itself: mine Pocket FM's 199-ad set for cliffhanger structures (\"tune in tomorrow\") and port episode logic to a jewelry storyline (e.g., a serial where each episode ends on a jewelry reveal)."
+  }
+]

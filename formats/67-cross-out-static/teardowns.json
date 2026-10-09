@@ -1,0 +1,78 @@
+[
+  {
+    "example_file": "2026-08-06-antonioventre_-2085397746660278559.md",
+    "product": "commentary — no product (a creative director describing static concepts, not a live ad)",
+    "hook": "\"Three static concepts from one angle (energy), none of them showing the product\" — concept-pack framing.",
+    "body": "Concept 1, \"The calendar\": a week view with \"gym,\" \"dinner with friends,\" \"hike\" all crossed out; headline \"this is what 'I'm just tired' is actually costing you.\" Concept 2, \"The text thread\": \"Sorry, can't make it...\" (post truncated, third concept not in file).",
+    "cta": "none visible.",
+    "idea": "The cross-out visual doesn't have to list failed products — crossing out the LIFE the problem costs you (gym, friends, hike) makes the pain concrete and personal.",
+    "sequencing": [
+      "The frame (three concepts, one angle, no product shown)",
+      "Concept 1: crossed-out calendar + cost-of-tiredness headline",
+      "Concept 2: cancelled-plans text thread (truncated)",
+      "The missing third concept (not in file — truncated)"
+    ],
+    "formatting": "Text-only concept description; truncated mid-post.",
+    "why_it_works": "Crossing out calendar events weaponizes loss aversion — the viewer sees their own cancelled plans, which is a more visceral pain than a list of failed products.",
+    "what_to_steal": "LC's \"cost of tarnish\" calendar: crossed-out \"beach day,\" \"pool party,\" \"gym\" with the headline \"this is what cheap jewelry is costing you\" — then the waterproof piece as the fix."
+  },
+  {
+    "example_file": "2026-09-18-FedotOff90-2100948331136782532.md",
+    "product": "commentary — no product (a format-catalog methodology post)",
+    "hook": "\"The first version of this list was 40 screenshots from the ad library. Half of them were dead by the time I went back to check.\" — methodology drama.",
+    "body": "Rebuilt a 37-format list with proof: one live ad per format, days running + brand's active ad count next to each; the 30-day survival column is the \"this works\" bar — anything under is still a test. Links to a Notion doc and a GetHookd board (132 ads).",
+    "cta": "\"One doc. You can sort it by days running. No comment or follow needed\" (doc links).",
+    "idea": "Format validation should be survival-based, not screenshot-based — an ad that survived 30 days of real spend is proven; everything else is a test.",
+    "sequencing": [
+      "The failure of v1 (40 screenshots, half dead)",
+      "The rebuild (37 formats with proof)",
+      "The proof columns (live ad, days running, brand ad count)",
+      "The bar (30-day survival = works)",
+      "The rule (copy the structure, not the words)",
+      "The doc links"
+    ],
+    "formatting": "Text post; hand-graded VALUE status, 18 bookmarks.",
+    "why_it_works": "The 30-day survival bar is a simple, falsifiable quality filter — it turns \"formats that work\" from opinion into a sortable column.",
+    "what_to_steal": "The survival-bar discipline for LC's format testing: a format earns \"proven\" status only after 30 days of live spend — everything else stays in test."
+  },
+  {
+    "example_file": "2026-09-29-FedotOff90-2104949773539442831.md",
+    "product": "commentary — no product (a format-list post; cross-out is #6 of 37)",
+    "hook": "\"There are 37 ad formats printing right now.\" — authority list promise.",
+    "body": "Lists 10 of the 37 formats (AI podcast, report card, iPhone Notes, text on skin, Reddit style, the cross-out, fake PDP, tier list, myth vs fact, zero stars); notes the longest-running was an AI podcast ad at 280 days; links the full doc with live ad + days active + brand ad count per format.",
+    "cta": "Doc links (\"No comment or follow needed\").",
+    "idea": "\"The cross-out\" is one of 37 verified money-making formats — its inclusion in a survival-filtered list is itself the proof of the format.",
+    "sequencing": [
+      "The claim (37 formats printing)",
+      "The 10-format sample (cross-out at #6)",
+      "The proof (AI podcast 280 days)",
+      "The doc pitch (live ad + days + count per format)",
+      "The sourcing note (GetHookd MCP)"
+    ],
+    "formatting": "Text post + photo; 110 likes, 208 bookmarks — the most-bookmarked format post in the slice.",
+    "why_it_works": "The numbered-list format is inherently skimmable and saveable, and the days-active proof column gives each format a credibility anchor most \"format\" posts lack.",
+    "what_to_steal": "Cross-out's verified-format status justifies LC prioritizing it (the folder README already rates it P1) — and the \"copy the structure, not the words\" rule for LC's version."
+  },
+  {
+    "example_file": "2026-10-01-principles0618-2105476261619339387.md",
+    "product": "commentary — no product (a computer-vision research post over 4,617 static ads)",
+    "hook": "\"I analyzed 4,617 top-performing static ads with AI vision. Here is the unfiltered data on what actually converts in 2026\" — dataset-scale authority.",
+    "body": "Multimodal pipeline (SigLIP embeddings, HDBSCAN clustering, OCR, Gemini layout deconstruction) over 4,617 paid-social statics; macro findings (54.1% product-only/zero faces, 53% pain-point-first hooks, only 13% show price, 11.3% discount codes); 5 debunked myths; 8 layout archetypes; 7 proof devices; the native-disguise phenomenon (12.4%); 4 emerging hacks — including #4 \"The Strikethrough Price Anchor\" ($120 ➢ $49 crossed-out MSRP); plus a 2026 static blueprint and publish checklist.",
+    "cta": "\"Bookmark this post if you're building creative for Meta, TikTok, or LinkedIn this quarter.\"",
+    "idea": "Strikethrough is a proven micro-tactic at dataset scale — when prices appear, winners show a crossed-out anchor MSRP, not just the final price; and 53% of winners lead with pain-point resolution, which is the cross-out static's native territory.",
+    "sequencing": [
+      "The dataset (4,617 ads, methodology)",
+      "Macro findings (faces, hooks, price, discounts, native UI)",
+      "Myth 1 (discount codes) → sell relief, not price",
+      "Myth 2 (pretty models) → cropped hands/POV",
+      "The 8 layout archetypes",
+      "The 7 proof devices",
+      "The native-disguise phenomenon",
+      "The 4 emerging hacks (strikethrough price anchor = #4)",
+      "The 2026 blueprint + checklist"
+    ],
+    "formatting": "Very long text post + 4 photos; research-report structure with data tables.",
+    "why_it_works": "Dataset scale (4,617 ads, named methods) makes every claim feel empirical rather than opinionated — it reads as the closest thing to ground truth the feed offers.",
+    "what_to_steal": "Two cross-out-relevant findings: (a) always show the crossed-out anchor price ($120 ➢ $49) on LC sale statics; (b) 53% pain-first hooks validates LC's cross-out angle (cross out the failed fixes, lead with the frustration)."
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "example_file": "0000-00-00-orbit_media_-2066967439095771257.md",
+    "product": "not in file",
+    "hook": "not in file",
+    "body": "not in file — the post text was not captured (\"text not captured\"), no media, no engagement. Cited in the playbook but empty.",
+    "cta": "not in file",
+    "idea": "not in file",
+    "sequencing": [
+      "not in file"
+    ],
+    "formatting": "not in file",
+    "why_it_works": "not in file",
+    "what_to_steal": "Nothing — empty record; flag for re-pull or removal from the library."
+  },
+  {
+    "example_file": "2026-08-25-FedotOff90-2092303494250135860.md",
+    "product": "commentary — no product (competitor teardown of Ryze Superfoods)",
+    "hook": "\"Ryze Superfoods is doing multiple 9 figs with 1 product and crazy creative strategy.\"",
+    "body": "A full-funnel teardown of Ryze Superfoods: 5,324 active ads collapsing to just 6 headlines and 2 body copies — a pure creative-testing engine with locked copy. Format mix: 39% product-shot statics, 24% UGC talking head, 17% AI-animated 3D/Pixar storytelling, plus lifestyle/text-on-screen/meme/demo. 65% female-fronted; ~38% of avatar ads are synthetic 3D humans. TOF/MOF/BOF evenly split; BOF is graphic tiles (Labor Day bundles, \"$27 from $45\", \"$0.90/cup\"). Gaps: zero founder content, no podcast/interview, no before/after, no iPhone-notes.",
+    "cta": "none visible (analysis post).",
+    "idea": "Massive creative × tiny copy: lock 2 body copies and iterate thousands of visual variants — the creative does the stopping, the copy does the qualifying.",
+    "sequencing": [
+      "Scale proof: 5,324 ads, multiple 9 figs, 1 product.",
+      "The insight: 5,324 ads = 6 headlines × 2 body copies.",
+      "Format mix: statics 39%, UGC 24%, AI-animated 3D 17%.",
+      "Avatar mix: 65% female-fronted, 38% synthetic.",
+      "Funnel mix: TOF/MOF/BOF thirds; BOF = graphic tiles.",
+      "Copy angles: the two locked bodies + hook-angle variety.",
+      "8 takeaways (creative engine, AI animation edge, single-mechanic angles, advertorial-first LPs, demo testing via animation).",
+      "Gaps left on the table."
+    ],
+    "formatting": "Very long data post: format mix, avatar mix, funnel mix, copy angles, lander destinations, 8 takeaways, gaps. One 38s video.",
+    "why_it_works": "The collapse (5,324 → 6 headlines) is a stunning compression that reframes creative strategy from \"write more\" to \"vary more,\" which is the actionable insight.",
+    "what_to_steal": "The \"2 body copies × thousands of creatives\" operating model for LC: lock the waterproof/tarnish-proof copy, then generate endless visual variants — and the gap analysis (no founder, no podcast, no before/after) as LC's whitespace checklist."
+  },
+  {
+    "example_file": "2026-09-03-IMJustinBrooke-2095535789836824724.md",
+    "product": "commentary — no product",
+    "hook": "\"Passing on my best wisdom, pt 8\"",
+    "body": "Part 8 of a \"passing on my best wisdom\" countdown series (leading to the author deleting his profile): 21 years of hook-writing advice in under 600 words. Core law: \"When you increase relevance, you increase conversion.\" The template: Location + Gender + Mechanism + Objection-killer + Deep pain (\"Tennessee Woman Discovers Superfood That Melts Stubborn 'Flappy' Arm Fat\"), with away-from-pain vs towards-pleasure variants, plus an instruction to train an AI hook-writer skill on the post.",
+    "cta": "Follow @IMJustinBrooke so you don't miss the series.",
+    "idea": "Relevance is the conversion lever: a 5-slot hook template (location, gender, mechanism, objection killer, deep pain) manufactures it on demand.",
+    "sequencing": [
+      "Frame: wisdom series, pt 8, profile deletion countdown.",
+      "The law: relevance ↑ = conversion ↑.",
+      "Demo ladder: \"Lose weight\" → \"Lose 30lbs\" → \"Lose 30lbs this summer.\"",
+      "Persona variants: hot-girl body vs flappy arms.",
+      "Geo variant: Tennessee woman + superfood.",
+      "Template decode: the 5 slots.",
+      "Pain vs pleasure markets.",
+      "The AI skill instruction: train your AI on this post."
+    ],
+    "formatting": "Long text-lesson post with worked examples and a template breakdown. Thread-style.",
+    "why_it_works": "The worked examples let the reader watch the template think, and the profile-deletion countdown manufactures scarcity around free wisdom.",
+    "what_to_steal": "The 5-slot hook template for LC's ad headlines (location + persona + mechanism + objection killer + deep pain → e.g., \"Texas mom discovers the waterproof stack that survives pool, sweat, and toddlers\") and the countdown-to-deletion urgency frame for a content series."
+  },
+  {
+    "example_file": "2026-09-16-father_rmv-2100219781668356485.md",
+    "product": "commentary — no product",
+    "hook": "\"Saint Thascius Caecilius Cyprianus, commonly known as Saint Cyprian of Carthage, stands as one of the most influential figures in early Christianity...\"",
+    "body": "A full biography of Saint Thascius Caecilius Cyprianus (Saint Cyprian of Carthage): birth ~200-210 AD, conversion ~246 AD, bishop by 248-249, the Decian and Valerian persecutions, martyrdom September 14, 258 AD, 80+ letters and a dozen treatises. Religious history content; no ad, no format relevance (auto-match noise).",
+    "cta": "none visible.",
+    "idea": "none — saint's biography; not a format example.",
+    "sequencing": [
+      "Birth and elite pagan Roman upbringing.",
+      "Conversion and ascetic turn.",
+      "Bishopric amid persecutions.",
+      "Theological legacy (On the Unity of the Church).",
+      "Martyrdom and sainthood."
+    ],
+    "formatting": "Very long text post + photo. Hagiography.",
+    "why_it_works": "n/a — not a format example.",
+    "what_to_steal": "Nothing for the format library — auto-match noise; candidate for removal from this folder."
+  },
+  {
+    "example_file": "2026-09-16-ladprofit-2100156940483760583.md",
+    "product": "commentary — no product",
+    "hook": "\"if your AI ads are not getting called out by the state department, are you even trying?\"",
+    "body": "A two-line jab: if the State Department isn't calling out your AI ads, you're not trying — citing Resilia as the brand to learn from. (Same post as the 92-foreign-insider-secret-story copy; gist: US Under Secretary flagged scam ads using \"hidden knowledge\" ethnic secrets + romantic-betrayal drama.)",
+    "cta": "none visible.",
+    "idea": "Resilia's \"hidden knowledge\" ethnic-secret + betrayal-drama formula is the aggressive ceiling of elder/fronted AI ads.",
+    "sequencing": [
+      "Provocation: state-department callouts as a success metric.",
+      "Lesson: learn from Resilia.",
+      "Context: ethnic hidden-knowledge + betrayal-drama pattern.",
+      "Boundary: LC borrows a materials secret, never a cultural one."
+    ],
+    "formatting": "Two-line shitpost. No media.",
+    "why_it_works": "Absurdist metric (government outrage = winning) makes the intel memorable.",
+    "what_to_steal": "The cautionary boundary: LC can borrow \"hidden knowledge\" structure (a materials secret) without ethnic framing or scam-adjacent claims."
+  },
+  {
+    "example_file": "2026-09-19-ZedNilm1-2101280447154036917.md",
+    "product": "Resilia aged garlic softgels (\"Rosilia\" in transcript)",
+    "hook": "\"Hi, how old is your grandson? … That's my grandson's grandson. … 102 years old.\"",
+    "body": "A teardown of Resilia's AI street-interview ads starring 90+ year olds — \"weirdly believable conversations\" with \"almost zero ad feeling,\" except none of it is real; the people are AI. The full transcript (video.twimg.com, 140s) is the ad itself: a 102-year-old interviewed on the street — \"I am 102 years old and I live without doctors because of these three foods.\" The three: olive oil + turmeric rubbed into joints; raw onion with every meal (\"the old Jews didn't have fancy medicines\"); and aged garlic — \"fermented in darkness for 20 months,\" creating S-Allyl Cysteine, triggering nitric oxide that \"relaxes the blood vessels and helps dissolve the buildup clogging your arteries.\" The gate: \"most aged garlic on the market is fake… The only one I trust is called Rosilia. Aged the full clinical dose… Two soft gels every morning.\" Closes: \"They have a limited sale running right now.\"",
+    "cta": "\"I left the link below\" + \"limited sale running right now.\"",
+    "idea": "Age-based authority marketing without the talent: AI-generated 102-year-olds deliver folk-wisdom countdowns that feel like documentaries, not ads.",
+    "sequencing": [
+      "Street hook: the age reveal (\"That's my grandson's grandson\").",
+      "Authority frame: 102, no doctors, three foods; \"save this video.\"",
+      "Foods 1-2: olive oil + turmeric for joints; raw onion for blood flow — with pill/blood-thinner objection kills.",
+      "The gap: onion doesn't clear calcium/cholesterol already stuck.",
+      "Food 3: aged garlic — 20-month ferment, nitric oxide, dissolves buildup.",
+      "Lineage proof: grandfather 96, father 89, no heart attacks.",
+      "The gate: most aged garlic is fake; only \"Rosilia,\" two soft gels daily.",
+      "CTA: link below, limited sale; blessing close."
+    ],
+    "formatting": "140s vertical AI street interview (video.twimg.com): handheld realism, timestamped dialogue, rapid cuts between interviewer and the 102-year-old. Transcript in file.",
+    "why_it_works": "Extreme age is unarguable authority — a 102-year-old doesn't need credentials — and the countdown format turns a pitch into advice, which is why it registers as \"almost zero ad feeling.\"",
+    "what_to_steal": "The entire interview-countdown architecture for LC: an AI elder (or real grandmother) counting down \"3 jewelry rules\" — the folk-wisdom listicle, the objection kills, the lineage proof, the single-product gate, the blessing close. LC's gate: \"most 'waterproof' jewelry is flash-plated; only 14K PVD over steel passes.\""
+  }
+]

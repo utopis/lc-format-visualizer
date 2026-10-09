@@ -1,0 +1,198 @@
+[
+ {
+  "example_file": "2026-06-06-0xJeyx-2063387846803673406.md",
+  "product": "commentary — no product",
+  "hook": "\"Picking the right ad format used to be a bet you only got to place once.\" — past-constraint framing; DITL named among the once-expensive formats.",
+  "body": "not in file",
+  "cta": "\"The full ad agency I automated is in the article below.\" — article link.",
+  "idea": "AI generation (Claude Cowork) killed the one-format bet: ship the same product as every format at once (street quiz, review, GRWM, day-in-the-life) for a few dollars each, let the feed pick the winner, then pour into it.",
+  "sequencing": [
+   "Past constraint: each format its own shoot, real money per bet.",
+   "Old workflow: study the feed, pick one format, hope.",
+   "The unlock: generate every format at once for a few dollars each.",
+   "The method: run the batch, the feed votes, pour into the winner — revealed, not called.",
+   "The payoff: format found in a weekend, for the price of lunch.",
+   "CTA: the automated-agency article.",
+   "The example: 27s $50 street-quiz video + transcript."
+  ],
+  "formatting": "Thesis post + 27s example video with transcript (a $50 street quiz: 'Are you an average American? … Five questions… $50'). Past-constraint vs new-constraint structure.",
+  "why_it_works": "'Used to be a bet you only got to place once' names a pain every marketer remembers, then deletes it. The feed-as-judge reframe turns format selection from guessing into measurement.",
+  "what_to_steal": "The core LC doctrine: never bet on one format — generate DITL + GRWM + quiz + review variants of the same jewelry message in one weekend and let the feed vote. 'Find your format in a weekend instead of a quarter' is the dupe machine's speed promise."
+ },
+ {
+  "example_file": "2026-06-18-ugcAshleyRJ-2067636022251290725.md",
+  "product": "commentary — no product",
+  "hook": "\"Here's a filming technique my clients are obsessed with 👀\" — social proof ('clients obsessed') + curiosity.",
+  "body": "not in file",
+  "cta": "none explicit — technique share with UGC hashtags.",
+  "idea": "The 0.5x ultra-wide phone lens is the secret to scroll-stopping UGC: it's immersive, makes movement look bigger and more real, and feels native — ideal for demos, GRWM, and day-in-the-life.",
+  "sequencing": [
+   "Hook: clients obsessed with this technique.",
+   "The reveal: the 0.5 POV (ultra-wide lens).",
+   "Reason 1: immersive — pulls viewer into the moment.",
+   "Reason 2: dynamic — movement looks bigger, more real.",
+   "Reason 3: native — feels like content, not an ad.",
+   "Use cases: demos, GRWM, day-in-the-life.",
+   "17s demo video.",
+   "UGC hashtags."
+  ],
+  "formatting": "Technique tip post: names the trick ('The 0.5 POV'), three bullet reasons (immersive/dynamic/native), use-case list, 17s demo video (no speech).",
+  "why_it_works": "A named technique ('0.5 POV') turns a camera setting into insider knowledge. 'Clients are obsessed' borrows social proof without a case study.",
+  "what_to_steal": "Add '0.5x ultra-wide POV' to LC's creator briefs and AI image prompts for DITL/GRWM content — the immersive hand-held look is the authenticity signal. The three-reason structure (immersive/dynamic/native) is a reusable briefing shorthand."
+ },
+ {
+  "example_file": "2026-07-31-raph_guilhem-2083288607062732816.md",
+  "product": "commentary — no product",
+  "hook": "\"📁 30 scroll-stopping Meta ads formats worth stealing right now\" — 'stealing' gives permission; the tree visual is distinctive.",
+  "body": "not in file",
+  "cta": "none visible (reference tree).",
+  "idea": "30 stealable Meta ad formats organized in a folder tree — DITL-adjacent entries include founder journey→result, walking/car monologue, POV, and challenge formats.",
+  "sequencing": [
+   "Hook: 30 formats worth stealing.",
+   "Hooks bucket: 6 hook types.",
+   "Founder content: intro, journey→result, walking/car monologue, whiteboard.",
+   "Social proof: testimonial, customer call, comment reply, DM, street interview.",
+   "Educational: knowledge drop, ingredient, before/after, authority.",
+   "Entertainment: POV, duo, AI podcast, challenge, faceless b-roll.",
+   "Creative: green screen, collage, 'months later', skit.",
+   "Bonus: unboxing, fake podcast, AI avatar, text convo, news."
+  ],
+  "formatting": "ASCII folder-tree taxonomy: 30 formats in 7 buckets (hooks, founder content, social proof, educational, entertainment, creative, bonus). 105 bookmarks.",
+  "why_it_works": "The ASCII tree looks like a leaked internal file — 'steal these' energy. Bucketing converts a list into a navigable system.",
+  "what_to_steal": "The folder-tree visual as LC's creative-library organization — file every LC dupe under these buckets. The founder-content bucket (journey→result, walking monologue) is Jay's personal content lane."
+ },
+ {
+  "example_file": "2026-08-04-williamkast_-2084659151578202574.md",
+  "product": "commentary — no product",
+  "hook": "\"There are 2 types of creative diversity.\" — taxonomy reframe.",
+  "body": "not in file",
+  "cta": "none visible (concept post with matrix image).",
+  "idea": "Creative diversity = production format × creative framework; a day-in-the-life ad is one framework that can ride any production format — one message becomes 25 concepts.",
+  "sequencing": [
+   "Taxonomy hook: 2 types of diversity.",
+   "Production format defined.",
+   "Creative framework defined (DITL listed first).",
+   "The matrix: combine any with any.",
+   "Payoff: infinite winning ads from 1 message.",
+   "Matrix image."
+  ],
+  "formatting": "Text thread + matrix image. Concept-first: production format × creative framework.",
+  "why_it_works": "Matrix thinking turns one asset into a system. Listing DITL first primes it as the default framework.",
+  "what_to_steal": "DITL as a framework (not a production style) for LC: the same 'day in my life wearing waterproof jewelry' message shot as UGC, AI avatar, and macro B-roll. DITL-first in the example list signals it's a top framework pick."
+ },
+ {
+  "example_file": "2026-08-10-williamkast_-2086835243474985414.md",
+  "product": "commentary — no product",
+  "hook": "\"We've been turning 1 winning ad into 5 with this framework.\" — the 1→5 multiplier.",
+  "body": "not in file",
+  "cta": "none visible (playbook post).",
+  "idea": "Repackage one winning message into five frameworks — day-in-the-life first among them — because framework variation (not just format switching) is true creative diversity.",
+  "sequencing": [
+   "Hook: 1 winning ad → 5.",
+   "Thesis: repackage winners for sub-audiences.",
+   "Correction: format-switching ≠ diversity.",
+   "Two-type taxonomy; DITL as framework example #1.",
+   "The matrix payoff.",
+   "Matrix image."
+  ],
+  "formatting": "Text playbook + matrix image. 'We've been turning 1 winning ad into 5' practitioner voice.",
+  "why_it_works": "The multiplier makes the abstract concrete; the 'you're doing it wrong' correction creates the insight gap.",
+  "what_to_steal": "The 1→5 repackaging SOP for LC: every winner gets a DITL cut among its five. DITL's first-position listing confirms it as a default framework for LC winners."
+ },
+ {
+  "example_file": "2026-08-18-rirahcreates-2089827933561016787.md",
+  "product": "commentary — no product",
+  "hook": "\"There are MANY types of UGC. Here are some of the major formats you should know:\"",
+  "body": "not in file",
+  "cta": "none visible (educational list).",
+  "idea": "UGC is 20 distinct formats — day-in-the-life UGC is one of them, each producible in multiple ways.",
+  "sequencing": [
+   "Setup: UGC has many types.",
+   "The 20-type list incl. day-in-the-life UGC.",
+   "Note: each type can be created differently.",
+   "Thread context: '3/' — mid-thread in a longer UGC series."
+  ],
+  "formatting": "Emoji-pin (📌) list of 20 UGC types, mid-thread ('3/').",
+  "why_it_works": "Taxonomy posts organize a fuzzy domain into a choosable menu.",
+  "what_to_steal": "The 20-type menu as LC's creator-briefing checklist; 'day-in-the-life UGC' briefed as 'day in my life wearing the same waterproof stack from gym to dinner.'"
+ },
+ {
+  "example_file": "2026-09-01-jaclynforero-2094773552398389539.md",
+  "product": "Jaclyn Forero (UGC creator-for-hire services)",
+  "hook": "\"📓 a little peek into my UGC + creative strategy life lately\" — intimate BTS framing.",
+  "body": "The pitch: a peek into her week as a UGC creator + creative strategist — filming client content, batching hooks, DTC ad-conversion rabbit holes, coffee, concepts, life moments. Positions her as strategy-led (not just pretty footage) for brands. 13s video.",
+  "cta": "\"If you're a brand looking for UGC that's actually built on strategy (not just pretty footage) — my inbox is always open. Link in bio 💌\" — direct client CTA.",
+  "idea": "A UGC creator's day-in-the-life behind-the-scenes doubles as her client pitch: strategy-led UGC (hooks, conversion thinking) beats pretty footage.",
+  "sequencing": [
+   "Hook: peek into my UGC + strategy life.",
+   "The work: filming client content, batching hooks.",
+   "The depth: 'what actually makes a DTC ad convert' rabbit holes.",
+   "The texture: coffee, concepts, life moments.",
+   "The reframe: building a content business, not just a pretty grid.",
+   "CTA: brands wanting strategy-led UGC — inbox open, link in bio.",
+   "13s video + hashtag stack."
+  ],
+  "formatting": "BTS/DITL caption + 13s video, heavy hashtag stack (#ugccreatorforhire, #dtcbrands, #dayinmylife). Creator portfolio-pitch format.",
+  "why_it_works": "BTS collapses the distance between creator and client — you see the work, not just the reel. 'Not just pretty footage' differentiates in a crowded creator market.",
+  "what_to_steal": "The BTS-DITL as a trust format for LC's own channels: 'day in the life of LC's content team' / founder BTS builds the brand behind the jewelry. Also the positioning line — LC should brief creators on strategy (hooks, conversion), not just footage."
+ },
+ {
+  "example_file": "2026-09-24-Ecombos_Ai-2103180929057407425.md",
+  "product": "EcomBos (AI ad-creative testing platform)",
+  "hook": "\"10 winning AI UGC styles you can test on your brand right now:\" — 'right now' + testable.",
+  "body": "not in file",
+  "cta": "\"http://ecombos.ai/?utm_source=twitter…\" — platform signup link.",
+  "idea": "10 AI UGC styles with production recipes — Day-in-the-Life/GRWM = product woven into a morning/skincare routine, multiple scenes, no hard sell until the last seconds — all testable on EcomBos.",
+  "sequencing": [
+   "Hook: 10 winning AI UGC styles to test now.",
+   "Testimonial + product-in-hand: selfie framing, product visible throughout.",
+   "First-try reaction + fake podcast: face sells, skeptic convinced.",
+   "Street interview + comment reply: question-as-hook, TikTok-reply energy.",
+   "Unboxing + DITL/GRWM: unwrap beats; routine-woven, multi-scene, soft sell.",
+   "Before/after + whiteboard: product as bridge; teach the mechanism.",
+   "CTA: test them on EcomBos."
+  ],
+  "formatting": "Folder-tree style list: 10 AI UGC styles, each with 3 sub-bullets (framing/setting/script cue). Ends in EcomBos plug.",
+  "why_it_works": "Each style gets a production recipe (framing/setting/line), not just a name — the reader can execute immediately. The tree visual makes 10 styles scannable.",
+  "what_to_steal": "The DITL/GRWM recipe verbatim for LC: 'product woven into a morning routine, multiple scenes, same creator, not a hard sell until the last few seconds' — that's LC's 'day in my waterproof jewelry' brief. The 3-sub-bullet recipe format is LC's AI-generation prompt structure."
+ },
+ {
+  "example_file": "2026-10-05-paula_bearr-2107067561619693949.md",
+  "product": "commentary — no product",
+  "hook": "\"If you ever run out of things to post on Instagram, save this.\" — pain ('run out of things') + save CTA up front.",
+  "body": "not in file",
+  "cta": "none explicit — 'save this' is the engagement ask.",
+  "idea": "A universal content idea bank (reels, carousels, statics, stories) where BTS and day-in-the-life appear across formats — plus the repurposing rule: one idea becomes a reel, carousel, static, story, LinkedIn post, X post, and email.",
+  "sequencing": [
+   "Hook: save this for when you run out of ideas.",
+   "Reels bank: 30+ ideas incl. BTS, day in the life, 'come with me'.",
+   "Note: most can be faceless.",
+   "Carousels bank: guides, myths, testimonials, breakdowns.",
+   "Single-image bank: opinions, milestones, BTS photos.",
+   "Stories bank: polls, BTS, WIP, DITL, unboxings.",
+   "The series trick: one format × many industries.",
+   "The repurposing rule: one idea → 7 formats."
+  ],
+  "formatting": "Mega idea-bank: 4 sections (reels/carousels/statics/stories) with dozens of one-line ideas, plus a repurposing framework. 125 bookmarks — save-bait.",
+  "why_it_works": "'Save this' up front optimizes for the bookmark action directly. Exhaustive completeness (4 sections, 100+ ideas) makes it the definitive reference — you save it because you'll never finish reading it.",
+  "what_to_steal": "The idea bank as LC's content-calendar seed list — BTS and DITL are LC's always-on organic pillars. The repurposing rule ('one idea → 7 formats') is LC's dupe doctrine in one line. 'Most of these can be faceless' validates LC's faceless jewelry content."
+ },
+ {
+  "example_file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+  "product": "commentary — no product",
+  "hook": "\"My Facebook Ad Creative Styles Tier List (2026)\"",
+  "body": "not in file",
+  "cta": "none visible (tier-list image post; link to full list).",
+  "idea": "DITL ranks C-tier and BTS ranks A-tier in 2026 — day-in-the-life is a weak paid format but behind-the-scenes still earns A-tier placement.",
+  "sequencing": [
+   "Hook: 2026 tier list.",
+   "S-tier: long text + organic image, LTO, UGC, VSL, reaction, news.",
+   "A-tier: includes BTS (behind-the-scenes).",
+   "C-tier: unboxing, DITL.",
+   "Link to full list."
+  ],
+  "formatting": "Tier-list image + one-line caption + link. S/A/C ranking of 2026 FB creative styles.",
+  "why_it_works": "Tier lists invite debate while delivering a ranked opinion. The DITL-C-tier placement is a useful contrarian check on the format's paid efficiency.",
+  "what_to_steal": "The calibration: run DITL as organic/community content (not paid), but keep BTS in the paid mix at A-tier — LC's 'how the jewelry is made' BTS can carry paid spend while DITL builds organic trust."
+ }
+]

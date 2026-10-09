@@ -1,0 +1,74 @@
+[
+  {
+    "example_file": "2026-07-21-valentinszabadi-2079614879309185498.md",
+    "product": "commentary — no product",
+    "hook": "\"How to iterate a winning creative as a strategist? Easy.\"",
+    "body": "A strategist's iteration checklist: when a creative wins, change the talent, change the format (UGC, VSL, stitch, street interview, podcast, AI slop, Pixar, claymation, Lego), narrow the hook inside the angle, or change the angle. Short and prescriptive.",
+    "cta": "none visible.",
+    "idea": "Iteration is a menu, not a mystery: talent, format, hook-narrowing, or angle — pick one variable and change it.",
+    "sequencing": [
+      "Question: how to iterate a winner.",
+      "Answer: easy — four levers.",
+      "Lever 1: change the talent.",
+      "Lever 2: change the format (9-format menu).",
+      "Lever 3: narrow the hook inside the angle.",
+      "Lever 4: change the angle."
+    ],
+    "formatting": "Short bullet post. Checklist style.",
+    "why_it_works": "\"Easy\" + a finite menu removes the mystique of iteration and gives junior strategists a checklist instead of a blank page.",
+    "what_to_steal": "The 4-lever iteration menu as LC's creative SOP: every winning jewelry creative gets talent-swapped, format-swapped, hook-narrowed, and angle-changed before it's ever declared fatigued."
+  },
+  {
+    "example_file": "2026-07-29-EvoBradley-2082416231353590174.md",
+    "product": "commentary — no product",
+    "hook": "\"The #1 most viral format in entire ugc industry.\"",
+    "body": "A format thesis with examples: the stitch is \"the #1 most viral format in the entire UGC industry\" because it inherits trust and reaction from someone else's video — the pitch lands as validated discovery, not a sales claim. High-value promise teased via link; photo attached.",
+    "cta": "none visible (link to example).",
+    "idea": "The stitch borrows trust: reacting to someone else's video makes your pitch feel like validated discovery instead of a claim.",
+    "sequencing": [
+      "Claim: stitch = #1 viral format in UGC.",
+      "Mechanism: inherits trust + reaction from the source video.",
+      "Effect: pitch lands as validated discovery, not sales claim.",
+      "Tease: high-value promise (link).",
+      "Proof: recent hits (photo)."
+    ],
+    "formatting": "Short thesis post + photo. \"Let me break it down\" framing.",
+    "why_it_works": "Trust transference is the whole game: the viewer already believes the original video, so the stitcher starts the pitch at belief instead of zero.",
+    "what_to_steal": "The stitch mechanic for LC: stitch customer unboxings, tarnish-test videos, and competitor-fail clips with an expert reaction (\"here's why hers survived the pool and theirs didn't\") — borrowed trust, LC's mechanism."
+  },
+  {
+    "example_file": "2026-08-01-CalixAVelarde-2083448214431351004.md",
+    "product": "commentary — no product",
+    "hook": "\"this girl-in-car ai ugc format is actually insane\"",
+    "body": "A format flex: the \"girl-in-car AI UGC\" format — an entire clip generated in ONE take (script in, talking head in a car out), no stitching. The author claims to have \"run this format to death for ecom brands\" and cracked the exact setup. Two videos (58s + 27s).",
+    "cta": "none visible (link, truncated).",
+    "idea": "One-prompt AI UGC: a full talking-head ad (car setting, natural delivery) from a single generation — the format IS the production shortcut.",
+    "sequencing": [
+      "Hook: the format is insane.",
+      "Proof: this entire clip is ONE generation.",
+      "Method: dropped the script in, got talking-in-car out.",
+      "Credential: run to death for ecom brands.",
+      "Tease: cracked the exact setup (link)."
+    ],
+    "formatting": "Short text + two videos. Behind-the-scenes flex.",
+    "why_it_works": "\"ONE generation\" collapses the production story into a magic trick, and the car setting is the native-UGC shibboleth that makes AI output pass as real.",
+    "what_to_steal": "The one-generation talking head as LC's cheapest testimonial engine: script in → \"customer\" in car/bedroom/bathroom delivering the waterproof story, captioned natively. Perfect for hook-volume testing."
+  },
+  {
+    "example_file": "2026-08-07-nicktheriot_-2085544771150352632.md",
+    "product": "commentary — no product",
+    "hook": "\"Begging every brand owner to stop this mistake:\"",
+    "body": "A creative-director rant: brands sit on 50 pieces of B-roll and launch zero variations. The fix: find one hook → stitch one voiceover ad; one benefit → stitch one; one objection → stitch one. B-roll + stitched voiceover = infinite variations.",
+    "cta": "none visible.",
+    "idea": "B-roll is dead inventory until you stitch voiceovers to it — one hook/benefit/objection per stitch = a variation machine.",
+    "sequencing": [
+      "The sin: 50 B-roll clips, zero variations launched.",
+      "Fix 1: one hook → stitch one voiceover ad.",
+      "Fix 2: one benefit → stitch one.",
+      "Fix 3: one objection → stitch one."
+    ],
+    "formatting": "Short rant post with bullet commands. Urgent tone.",
+    "why_it_works": "The \"begging\" frame + the sin/confession structure makes the reader audit their own drive, and the fix is three copy-paste commands.",
+    "what_to_steal": "The literal LC playbook: take existing jewelry B-roll (macro shots, water tests, stacking hands) and stitch one voiceover per hook/benefit/objection — 50 clips × 3 stitches = 150 creatives from footage already owned."
+  }
+]

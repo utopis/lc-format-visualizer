@@ -1,0 +1,159 @@
+[
+  {
+    "example_file": "2026-07-28-shhotsAI-2082182718704775496.md",
+    "product": "commentary — no product (a Shhots AI MCP launch post)",
+    "hook": "\"Today we're launching Shhots AI MCP\" — launch announcement.",
+    "body": "Shhots now runs inside ChatGPT & Claude: chat to create campaigns (\"Create a UGC ad for my protein powder,\" \"Generate 10 hooks for my skincare brand\"); product context pre-loaded; covers AI UGC ads, cinematic product ads, AI photoshoots, image ads.",
+    "cta": "\"Get started\" link.",
+    "idea": "Hook generation as a chat command — \"generate 10 hooks\" becomes a conversational primitive inside the tools teams already use, collapsing the hook-swap workflow into a prompt.",
+    "sequencing": [
+      "The launch",
+      "The interface (chat inside ChatGPT/Claude)",
+      "The example prompts (UGC ad, Apple-style, 10 hooks)",
+      "The context advantage (product context pre-loaded)",
+      "The coverage (UGC, cinematic, photoshoots, image ads)",
+      "The link"
+    ],
+    "formatting": "Text post + photo; product launch.",
+    "why_it_works": "\"Your product context is already there\" removes the setup tax — the pitch is that hook-swapping starts instantly, not after a briefing.",
+    "what_to_steal": "The chat-native hook workflow for LC: pre-load LC's brand context (waterproof, PVD, warranty) once, then \"generate 10 hooks\" on demand for every remix cycle."
+  },
+  {
+    "example_file": "2026-08-17-HenryCrochemore-2089291503919087933.md",
+    "product": "commentary — no product (an AI-podcast-ad workflow promo)",
+    "hook": "\"ai podcast ads might be one of the easiest ways to make ugc feel native again\" — format claim.",
+    "body": "Instead of another creator-holding-product, put them behind a microphone — the format reads as content, not an ad; testable variants: solo clips, 2-person conversations, expert explanations, controversial opinions, story-based mentions, reaction/interview; the advantage is iteration — one script becomes 10+ podcast creatives (new creators, hooks, settings, opening lines) without reshooting.",
+    "cta": "\"rt + comment 'podcast' and i'll send it (follow for dm)\" (workflow lead magnet).",
+    "idea": "The podcast frame is a hook-swap multiplier — one script × new creators × new hooks × new settings = 10+ native-feeling creatives with zero reshoots.",
+    "sequencing": [
+      "The claim (podcast = native UGC)",
+      "The swap (product-in-hand → behind a mic)",
+      "The why (feels like content)",
+      "The variant menu (6 formats)",
+      "The iteration advantage (1 script → 10+ creatives)",
+      "The workflow CTA"
+    ],
+    "formatting": "Text post + 71s video; 44 likes, 55 bookmarks, 54 replies — high reply rate.",
+    "why_it_works": "\"Without reshooting anything\" is the unlock — it reframes creative volume from a production problem into a remixing problem.",
+    "what_to_steal": "LC's podcast-clip remix lane: take winning UGC scripts, re-deliver as 2-person podcast clips with swapped hooks — 10 variants per script, no reshoot."
+  },
+  {
+    "example_file": "2026-08-19-blvckledge-2089880028440133945.md",
+    "product": "commentary — no product (a Demand Gen creative-iteration playbook)",
+    "hook": "\"for anyone looking to crack cold traffic on demand gen\" — practitioner-to-practitioner.",
+    "body": "The iteration framework behind $10–20K/day brand spend: swap the hook (keep the 30–90s body identical, write 5+ new hooks); new lead structures (story, listicle, hype, problem/benefit, misconception, information leads); cut/extend agitation; test video lengths; change closings (proof, guarantee, CTA, urgency, offers); new visuals (split-screen, B-rolls, styles); adapt winning scripts into new formats (UGC, AI animation, podcast, mini VSL, founder story); image angle → video and vice versa; testing structure (1-1-1 for high spend, up to 5 creatives per ad group otherwise; 0.4x–1x target CPA per test per day); then test audiences, markets, offers, funnels, placements on winners.",
+    "cta": "none visible.",
+    "idea": "Creative iteration is a layered system with the hook swap at the top — hook → lead structure → length → closing → visuals → format — each layer cheaper than rebuilding the ad.",
+    "sequencing": [
+      "The credibility ($10–20K/day)",
+      "Layer 1: swap the hook (5+ new hooks, same body)",
+      "Layer 2: new lead structures (6 types)",
+      "Layer 3: lengths + closings",
+      "Layer 4: visuals",
+      "Layer 5: format adaptation",
+      "The testing structure (1-1-1, budgets)",
+      "The winner expansion (audiences, markets, offers)"
+    ],
+    "formatting": "Long text post; 57 bookmarks — the folder's playbook post.",
+    "why_it_works": "Ordering the layers by leverage (hook first, rebuild last) gives teams a decision tree instead of a tip list — it answers \"what do I change first\" definitively.",
+    "what_to_steal": "The full layer order for LC's iteration SOP: every dying LC winner gets hook-swap first (5+ hooks, same body), then lead-structure, then the deeper layers — never a from-scratch rebuild."
+  },
+  {
+    "example_file": "2026-08-19-francis_nayan-2090055433645928642.md",
+    "product": "commentary — no product (a copywriter's 3 lessons post)",
+    "hook": "\"3 things I've learned writing and strategizing ads for 8-figure brands\" — experience claim.",
+    "body": "Lesson 1: infinite winning ads — segments (personas, symptoms, situations, desires) × awareness levels × ways to write (hooks, angles, stories, vibes, tones, voices) × creative styles (UGC, VSLs, pixar, claymation, rankings, tiktok love letter) = never run out of ideas. Lesson 2: think like a scroller, not a copywriter — UGC creators out-script copywriters because they know what stops the scroll; write for attention, not to impress writers. Lesson 3: copy is one part — strategists also brief designers, recommend hook visuals, own vibe and tone.",
+    "cta": "none visible.",
+    "idea": "The idea matrix (segments × awareness × writing modes × creative styles) makes \"infinite winning ads\" a combinatorics problem, not a creativity problem.",
+    "sequencing": [
+      "The experience frame",
+      "Lesson 1: the infinite-ads matrix",
+      "Lesson 2: think like a scroller",
+      "Lesson 3: copy is one part (brief, visuals, vibe)",
+      "The closer (building a winner you directed end-to-end)"
+    ],
+    "formatting": "Text post + photo; numbered lessons.",
+    "why_it_works": "The matrix turns creative ideation from inspiration into multiplication — anyone can generate combinations, which democratizes the \"infinite ideas\" claim.",
+    "what_to_steal": "LC's idea matrix: jewelry personas × awareness × hooks/angles × formats — run the combinatorics instead of waiting for inspiration; and the \"think like a scroller\" bar for every hook."
+  },
+  {
+    "example_file": "2026-09-01-OriSilver-2094742070468730903.md",
+    "product": "commentary — no product (an AI ad-factory system map; vendor-adjacent)",
+    "hook": "\"THE AI AD FACTORY\" — system flex in a folder tree.",
+    "body": "ASCII folder tree of an AI ad pipeline: Research (audience, pain points, failed solutions, objections, VoC, competitor libraries, viral mining) → Avatars (personas, awareness, language, outcomes) → Script Writing (5 awareness levels, 5-beat structure, hook bank) → Format (UGC, 3D, claymation, podcast/street/ZackD) → Generation (MaxFusion AI, MCP, format skills) → Editing (CapCut/Premiere, captions, SFX, music, watch-it-back test) → Iteration (Ad Mutator, Hook Swap, Angle Swap, Format Swap).",
+    "cta": "none visible.",
+    "idea": "Iteration is a pipeline stage with three named mutators — Hook Swap, Angle Swap, Format Swap — sitting at the end of a research-to-generation factory.",
+    "sequencing": [
+      "Research folder",
+      "Avatars folder",
+      "Script Writing folder (hook bank)",
+      "Format folder",
+      "Generation folder",
+      "Editing folder",
+      "Iteration folder (the three swaps)"
+    ],
+    "formatting": "ASCII folder-tree text post + photo; 34 likes, 44 bookmarks.",
+    "why_it_works": "The factory metaphor makes AI ad production feel industrial and repeatable — and naming the three swaps as pipeline stages normalizes remixing as production, not rescue.",
+    "what_to_steal": "The Iteration-stage naming for LC's pipeline: every LC ad ships with its Hook Swap / Angle Swap / Format Swap variants as a matter of process."
+  },
+  {
+    "example_file": "2026-09-10-mrfeldmanSEM-2098133759514001812.md",
+    "product": "commentary — no product (a YouTube creative-testing playbook)",
+    "hook": "\"How I split test creatives on YouTube without wasting budget:\" — efficiency promise.",
+    "body": "The testing rules: separate hooks from bodies BEFORE shooting (hook = first 5s, body = everything after); test hooks against each other on the same body — 10 hooks × 2 bodies = 20 combos from one shoot; launch 3–5 creatives per ad group (not 10); wait 14 days before cutting (week-1 data is noise); cut on spend-vs-CPA (2–3x target CPA with zero conversions = done); check hook retention before conversions (high 5s skip = fix the hook, not the offer); never touch a winner until fatigue signals (rising CPA, falling retention/CTR); produce in batches so 3–5 new hooks are ready when fatigue hits.",
+    "cta": "none visible.",
+    "idea": "Hook/body separation before the shoot is the efficiency unlock — 20 testable combos from one shoot, judged on hook retention first and spend-vs-CPA second.",
+    "sequencing": [
+      "The separation rule (hooks vs bodies, pre-shoot)",
+      "The combo math (10 × 2 = 20)",
+      "The launch size (3–5 per ad group)",
+      "The patience rule (14 days)",
+      "The cut rule (spend vs CPA)",
+      "The diagnosis order (hook retention first)",
+      "The winner rule (don't touch until fatigue)",
+      "The batch rule (pipeline never dry)"
+    ],
+    "formatting": "Long text post; arrow-led checklist.",
+    "why_it_works": "\"Separate hooks from bodies before shooting anything\" reframes testing from a filming problem into a planning problem — the combo math (20 from 1 shoot) makes the efficiency visceral.",
+    "what_to_steal": "LC's shoot planning: every LC video shoot produces hooks and bodies as separable assets (10 hooks × 2 bodies); judge on 5-second retention before ROAS."
+  },
+  {
+    "example_file": "2026-09-23-sleepclip-2102703772354875719.md",
+    "product": "commentary — no product (breaks down an unnamed app's AI-video scale play)",
+    "hook": "\"no F*CKING way this app scaled from $1k to $500k off ai videos\" — disbelief at the numbers.",
+    "body": "An app scaled $1K → $500K on AI videos of animals/characters doing millions of views; the format: the character performs on camera, the app appears only in captions (\"not trying to sell hard\"); the remix engine: \"swap the hook, swap the character, swap the caption\" → 50 tests in an afternoon, no camera touched; most die quietly (expected); you're fishing for the 2–3 that convert; once found, the bottleneck is manpower — creator campaigns solve distribution.",
+    "cta": "none visible.",
+    "idea": "The swap-everything remix engine: hook × character × caption = 50 afternoon tests; the job isn't finding 1,000 formats, it's fishing for the 2–3 converters.",
+    "sequencing": [
+      "The disbelief (numbers)",
+      "The format (character performs, app in captions)",
+      "The remix engine (swap hook/character/caption → 50 tests)",
+      "The bottleneck (manpower → creator campaigns)"
+    ],
+    "formatting": "Text post + 10s video + photo; hype-casual.",
+    "why_it_works": "\"50 tests in an afternoon\" + \"most die quietly\" gives permission to fail fast — it reframes the 47 dead tests as the cost of finding the 3 winners, not as waste.",
+    "what_to_steal": "LC's AI-character remix lane: swap hook × avatar × caption across LC jewelry concepts; expect most to die, fish for the 2–3 converters."
+  },
+  {
+    "example_file": "2026-09-25-adamtaylorl-2103439375787003983.md",
+    "product": "commentary — no product (the 3-layer remix system post)",
+    "hook": "\"Most brands have a winning ad they haven't made yet and the footage is already sitting on a hard drive.\" — reframe opener.",
+    "body": "The 3-layer model: Angle (emotional reason to buy) / Format (UGC, static, podcast, meme) / Execution (creator, hook, script, pacing); when an ad dies it's almost never the angle — it's execution (stale hook, overexposed creator); the rebuild playbook, cheapest first: (1) remix the winning ad — same script new creator, green-screen reaction, swap the hook (\"highest leverage move\"), franken-cut two winners; (2) same angle, new format — claim becomes bold-text static, podcast clip, B-roll + AI voiceover; (3) winning format, new angle — same energy pointed at a new person, angle pulled from reviews/tickets/surveys; two system rules: set a trigger (frequency >2.5 + declining CTR = iterate now) and never run one variant alone (rotate 4–6 live iterations per winner); the diagnostic question: \"which layer is tired?\"",
+    "cta": "none visible.",
+    "idea": "\"Which layer is tired?\" — diagnose the dead ad by layer (angle/format/execution) and rebuild only the cheap tired layer, keeping the proven expensive one.",
+    "sequencing": [
+      "The reframe (winner already on the hard drive)",
+      "The 3 layers (angle / format / execution)",
+      "The diagnosis (it's execution, not angle)",
+      "The rebuild ladder, cheapest first (remix → new format → new angle)",
+      "The 4 remix moves (new creator, green-screen, hook swap, franken-cut)",
+      "The format swaps (static, podcast, B-roll + AI VO)",
+      "The angle sourcing (reviews, tickets, surveys)",
+      "The 2 system rules (trigger, never solo)",
+      "The diagnostic question"
+    ],
+    "formatting": "Long text post; the folder's deepest playbook.",
+    "why_it_works": "\"Which layer is tired?\" turns ad death from a mystery into a triage question — and \"rebuild the cheap layer, keep the expensive one\" is the most capital-efficient creative doctrine in the folder.",
+    "what_to_steal": "LC's full remix SOP: every LC winner gets the 3-layer diagnosis on death; hook-swap first (highest leverage), 4–6 live iterations rotating, trigger at frequency >2.5 + declining CTR."
+  }
+]

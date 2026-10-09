@@ -1,0 +1,77 @@
+[
+ {
+  "example_file": "2026-06-06-0xJeyx-2063387846803673406.md",
+  "product": "commentary — no product",
+  "hook": "\"Picking the right ad format used to be a bet you only got to place once.\"",
+  "body": "not in file",
+  "cta": "Article link — the automated agency.",
+  "idea": "AI generation killed the one-format bet — the street quiz is one of the batch formats: 'Are you an average American? $50, five questions, get three right' — ship quiz + review + GRWM + DITL together and let the feed vote.",
+  "sequencing": [
+   "Past constraint: one format, one expensive bet.",
+   "The unlock: generate all formats at once.",
+   "The example: $50 street quiz video + transcript.",
+   "The method: run batch, feed picks winner.",
+   "Payoff: format in a weekend, price of lunch.",
+   "CTA: article."
+  ],
+  "formatting": "Thesis post + 27s street-quiz video with full transcript ('Are you an average American? … $50. Five questions…').",
+  "why_it_works": "The transcript shows the quiz mechanics: stakes ($50), simple rules (3 of 5), escalating questions, lifeline ('phone a friend') — participation hooks that hold to the last frame.",
+  "what_to_steal": "The street-quiz transcript as LC's quiz template: 'Are you a jewelry expert? $50, five questions' — filmed (or AI-generated) street quizzes where the prize is LC credit. The quiz format belongs in every LC format batch."
+ },
+ {
+  "example_file": "2026-08-12-MethodByVid-2087570057262256130.md",
+  "product": "commentary — no product",
+  "hook": "\"You do not need to know how to edit. Here are 12 video formats that have built $10,000 months for people who cannot cut a video\"",
+  "body": "not in file",
+  "cta": "Telegram link in bio — free production template.",
+  "idea": "Quiz formats (#3: guess the country/logo/age) hold viewers to the last frame because they want to be right — ranked in the fastest-to-monetize tier alongside would-you-rather and rankings.",
+  "sequencing": [
+   "Hook: no editing needed, $10K months.",
+   "Fastest tier: text story, would-you-rather, guess-the-X quizzes, rankings, fact lists.",
+   "The quiz insight: holds to last frame — viewers want to be right.",
+   "Mid tier: restoration, industrial, lyrics, recipes, timelines.",
+   "Highest tier: money explainers, gear breakdowns.",
+   "The 60-second picker: match goal to tier.",
+   "The template rule: free app, one voice, captions, screen change every 2-3s.",
+   "CTA: telegram template."
+  ],
+  "formatting": "Tiered how-to: 12 formats grouped FASTEST/MID/HIGHEST pay, each one line + the 'pick in 60 seconds' decision tree.",
+  "why_it_works": "'They want to be right' names the exact retention mechanism of quizzes — self-testing. The tiered picker turns a list into a decision tool.",
+  "what_to_steal": "The quiz-retention insight for LC: 'guess the price' / 'real vs fake' jewelry quizzes hold viewers to the last frame — LC's 'guess which one is waterproof' quiz is a retention machine. The production rule (captions on every word, screen change every 2-3s) is LC's editing spec."
+ },
+ {
+  "example_file": "2026-09-16-masterhooks_-2100071930074390796.md",
+  "product": "commentary — no product",
+  "hook": "\"10 content formats that ACTUALLY work (proven by our own creators):\"",
+  "body": "not in file",
+  "cta": "none explicit — agency proof list.",
+  "idea": "Ten agency-proven organic formats — ranking and tier list among them — the quiz/guess-adjacent formats that drive participation.",
+  "sequencing": [
+   "Hook: 10 formats that ACTUALLY work.",
+   "The list: storytelling through before/after.",
+   "The proof claim: proven by our own creators — agency-cred framing.",
+   "Implicit close: the list is the deliverable."
+  ],
+  "formatting": "10-item proven-format list, one per line. Terse agency-cred format.",
+  "why_it_works": "'ACTUALLY work (proven by our own creators)' is anti-guru positioning — proof over theory.",
+  "what_to_steal": "Ranking/tier-list as LC's quiz-adjacent organic formats: 'ranking my jewelry collection' / 'jewelry tier list' — participation + debate in one."
+ },
+ {
+  "example_file": "2026-10-08-nicktheriot_-2108173638033871013.md",
+  "product": "commentary — no product",
+  "hook": "\"My Facebook Ad Creative Styles Tier List (2026)\"",
+  "body": "not in file",
+  "cta": "none visible (tier-list image + link).",
+  "idea": "2026 paid-format tiers: reaction lands S-tier — the closest quiz/guess relative — while the list omits pure quiz formats, suggesting they're organic-first.",
+  "sequencing": [
+   "Hook: tier list.",
+   "S-tier incl. reaction.",
+   "A-tier list.",
+   "C-tier: unboxing, DITL.",
+   "Link."
+  ],
+  "formatting": "Tier-list image + one-line caption + link.",
+  "why_it_works": "Tier lists drive debate; the S-tier reaction slot is the actionable prior.",
+  "what_to_steal": "Reaction at S-tier validates LC's reaction-style quiz content ('watch her guess the price') for paid; pure quizzes stay organic."
+ }
+]

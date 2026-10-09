@@ -1,0 +1,202 @@
+[
+  {
+    "example_file": "2026-07-23-zakburgers-2080407812891455789.md",
+    "product": "commentary — no product",
+    "hook": "\"I find it kinda crazy when I onboard brands that are doing 7 figs a month and they don't have email flows\" — disbelief at a basic gap.",
+    "body": "Math walk: 5 sales, 25–30% COGS — 4 from Meta at 20% margin, 1 recovered from an abandoned-cart email at 75% margin (no ad spend, \"basically a free sale\"); blended margin jumps to 31% from one email sale; flows raise CVR and margin at once.",
+    "cta": "none visible.",
+    "idea": "One recovered cart email out of five sales can lift blended margin from 20% to 31% — retention revenue is the highest-margin revenue there is.",
+    "sequencing": [
+      "The disbelief hook (7-fig brands with no flows)",
+      "The math setup (5 sales, COGS 25–30%)",
+      "The Meta sales (4 at 20% margin)",
+      "The email sale (1 at 75% margin, free)",
+      "The payoff (blended 31%)",
+      "The principle (more sales from same traffic → CVR + margin up together)"
+    ],
+    "formatting": "Text post with photo; repeated/duplicated copy in the file (post appears twice).",
+    "why_it_works": "The margin math makes flows feel like found money — \"free sale\" reframes retention from a nice-to-have into the single highest-ROI line in the P&L.",
+    "what_to_steal": "Run LC's own version of this math: 30–50K monthly transactions with flows vs without — use it to justify flow investment internally."
+  },
+  {
+    "example_file": "2026-07-24-aakashkapil01-2080679066693492819.md",
+    "product": "commentary — no product",
+    "hook": "\"You're not losing money because your ads suck. You're losing money because people who were ready to buy... leave.\" — reframes the problem from ads to leakage.",
+    "body": "Teases an abandoned-cart sequence for 6-figure health brands that recovers sales \"without spending another $1 on ads\" (full thread linked, not in file).",
+    "cta": "Thread link (https://t.co/NMTA7Xonvr).",
+    "idea": "The leak, not the ads, is the money problem — ready-to-buy visitors who leave are the cheapest revenue to recover.",
+    "sequencing": [
+      "Reframe: it's not the ads",
+      "The real loss: ready buyers leave",
+      "The scope: most 6-fig health brands never get them back",
+      "The tease: the sequence I'd use (thread)"
+    ],
+    "formatting": "Short text post with photo; thread-tease format.",
+    "why_it_works": "\"Ready to buy... leave\" creates a vivid, painful image of money walking out the door — loss aversion aimed at the exact audience (health brands) most likely to feel it.",
+    "what_to_steal": "The reframe for LC's cart-abandonment creative: \"your stack is still in your cart\" — target the leavers, not new buyers."
+  },
+  {
+    "example_file": "2026-07-25-bogdan_ai-2080955204304769061.md",
+    "product": "commentary — no product",
+    "hook": "\"$15K revenue in the last 30 days. $1.7K MRR. not flexing. just sharing what I learned so you can skip my mistakes.\" — anti-flex numbers post.",
+    "body": "Playbook rundown: sell the outcome not the software; multiple landing pages, let data pick the winner; real funnel with upsells/downsells/order bumps (1 visitor = 3x value); email sequences for every situation (abandoned cart, new user, old user — \"money was just sitting there\"); new creatives 3x/week; 10 versions of winners; +20% budget after 3 ROAS-positive days.",
+    "cta": "\"Save this. It took me a year to learn.\"",
+    "idea": "Email sequences for every situation are \"money just sitting there\" — abandoned cart, new user, old user flows are the easiest revenue in the stack.",
+    "sequencing": [
+      "Anti-flex numbers hook",
+      "Sell the outcome, not the product",
+      "Multiple LPs, data picks winner",
+      "Funnel: upsells/downsells/order bumps",
+      "Email sequences for every situation",
+      "Creative cadence (3x/week, 10 versions of winners)",
+      "Budget scaling rule (+20% after 3 ROAS days)",
+      "Save CTA"
+    ],
+    "formatting": "Text post with photo; checklist playbook, one lesson per line (826 likes, 1,735 bookmarks — highest engagement in the folder).",
+    "why_it_works": "\"Money was just sitting there\" reframes flows as found revenue with zero marginal cost — the whole post is a checklist the reader can steal, which is why it got bookmarked 1,735 times.",
+    "what_to_steal": "The \"email sequences for every situation\" checklist for LC: abandoned cart, browse abandon, new subscriber, post-purchase, winback — each is a line item of found money."
+  },
+  {
+    "example_file": "2026-08-01-GlennNieuwenh-2083556717552456090.md",
+    "product": "commentary — no product",
+    "hook": "\"The 5 main things I check when a brand tells me they're stuck\" — diagnostic checklist promise.",
+    "body": "Five-point audit: (1) where traffic lands — cold to PDP is the ceiling, warm with advertorial/listicle/quiz; (2) creative diversity — 30 same-angle ads = 1 test, Meta groups lookalikes; (3) the offer — named bonuses, bundles, guarantees lift everything; (4) post-first-purchase — email flows (welcome, abandoned cart, post-purchase second order); \"a customer who breaks even on order one and buys twice more is wildly profitable\"; (5) real research — Reddit, reviews, 1-star complaints in the customer's own words.",
+    "cta": "none visible.",
+    "idea": "Stuck brands almost never have an ads problem — they have a landing, offer, post-purchase flow, or research problem; fix leaks in order of cost.",
+    "sequencing": [
+      "The 5-check frame",
+      "Check 1: landing (cold → PDP = ceiling)",
+      "Check 2: creative diversity (30 same angles = 1 test)",
+      "Check 3: the offer (bonuses, bundles, guarantee)",
+      "Check 4: post-purchase (flows = hidden money)",
+      "Check 5: research (customer's own words)",
+      "Closer: fix leaks one at a time, in cost order"
+    ],
+    "formatting": "Long text post; numbered diagnostic, consultant-audit style.",
+    "why_it_works": "The \"30 same-angle ads = 1 test\" line and the Andromeda grouping insight make the audit feel current and expert — it diagnoses with specifics, not vibes.",
+    "what_to_steal": "The post-purchase flow check for LC: welcome → abandoned cart → second-order push; and the \"one change at a time\" discipline for LC's own testing."
+  },
+  {
+    "example_file": "2026-08-15-travis_mcewan-2088656209180242228.md",
+    "product": "commentary — no product",
+    "hook": "\"You can't retarget abandoned carts if Meta can't see the carts being abandoned.\" — obvious-but-missed truth.",
+    "body": "Bottom-funnel retargeting (abandoned cart, checkout abandonment, DPA, product-view) only works if tracking is clean: pixel installed properly, catalog connected, events passed back (views, ATCs, checkout starts, purchases); a fresh pixel needs time + event volume before pools are meaningful; weak performance may be a tracking problem, not a strategy problem.",
+    "cta": "none visible.",
+    "idea": "Retargeting starts with tracking, not creative — if Meta can't see the events, the campaigns can't be built or trusted.",
+    "sequencing": [
+      "The obvious truth (can't retarget what Meta can't see)",
+      "The campaigns that depend on it (cart, checkout, DPA, product-view)",
+      "The failure modes (bad pixel, disconnected catalog, broken events)",
+      "The principle: tracking before campaign complexity",
+      "The reframe: weak performance may be a data problem",
+      "The unglamorous truth (pixel events, catalog sync, attribution)"
+    ],
+    "formatting": "Text-only post; methodical, no-media explainer.",
+    "why_it_works": "Gives underperforming advertisers a blameless diagnosis — \"it's not your strategy, it's your data\" — which is more actionable than another creative tip.",
+    "what_to_steal": "The tracking-first audit for LC before any retargeting push: verify pixel events, catalog sync, and audience pool sizes before judging creative."
+  },
+  {
+    "example_file": "2026-08-20-eCom_Amin-2090476920882561212.md",
+    "product": "commentary — no product",
+    "hook": "\"discovery ads are the closest thing to meta prospecting that exists inside google's ecosystem\" — cross-platform arbitrage framing.",
+    "body": "Deep dive on Google Discovery/Demand Gen ads: native-feeling ads in the Discover feed targeted on Google's intent graph (search, YouTube, browse history); the TOF play (warm traffic at scale into advertorials → remarketing pools); the Meta amplification loop (Discovery-educated viewers convert better on Meta retargeting 3–10 days later); creative rules (single lifestyle image showing the outcome, problem-first headline, curiosity description); targeting layers (in-market, custom intent, remarketing) with awareness-matched creative.",
+    "cta": "\"DM me if you want us to set up discovery campaigns for your brand\" (agency pitch).",
+    "idea": "Discovery ads are the bridge between Meta-style prospecting and Google-style intent — cold reach with warm conversion rates, feeding both Google remarketing and Meta retargeting pools.",
+    "sequencing": [
+      "The positioning (Meta prospecting inside Google)",
+      "The surface (Discover feed = content environment)",
+      "The targeting edge (behavioral intent vs interest signals)",
+      "The native perception (brain classifies it as content)",
+      "The TOF economics (warm traffic → advertorial → remarketing)",
+      "The Meta amplification loop (educated viewers → better retargeting)",
+      "The creative rules (outcome image, problem headline, curiosity description)",
+      "The targeting layers (in-market, custom intent, remarketing)",
+      "The payoff claim (beats Meta prospecting 9/10 accounts)",
+      "DM CTA"
+    ],
+    "formatting": "Very long text post; mini-guide structure with subheads.",
+    "why_it_works": "The \"Meta amplification loop\" is the novel insight — most brands silo platforms, but showing that Google touchpoints pre-educate Meta retargeting reframes cross-platform spend as one funnel.",
+    "what_to_steal": "The cross-platform loop for LC: run Discovery/Demand Gen to jewelry-intent audiences → advertorial/quiz → Meta retargeting does the closing; and the creative rule (show the outcome — the stack worn — not the product)."
+  },
+  {
+    "example_file": "2026-08-28-GlennNieuwenh-2093369535248154778.md",
+    "product": "commentary — no product",
+    "hook": "\"If I took over a struggling store tomorrow... I wouldn't open the ads manager on day one: I'd start with the numbers.\" — contrarian operator take.",
+    "body": "Six-step turnaround audit: (1) real P&L — some stores have a profitability problem, not a traffic problem; (2) cash position (reserves, inventory, supplier terms); (3) the offer — cheapest fix, lifts every ad (named bonuses, bundles, real guarantee); (4) where traffic lands — cold straight to PDP is the ceiling; (5) creative diversity — 30 same-angle ads = 1 test; (6) post-purchase flows. Fix leaks in cost order, one change at a time.",
+    "cta": "none visible.",
+    "idea": "Turnarounds start with the P&L and the offer, not the ads manager — the product is fine; the pricing, offer, page, or funnel is losing the sale.",
+    "sequencing": [
+      "The contrarian frame (not the ads manager)",
+      "Step 1: real P&L",
+      "Step 2: cash position",
+      "Step 3: the offer",
+      "Step 4: landing",
+      "Step 5: creative diversity",
+      "Step 6: post-purchase flows",
+      "The principle: product last, fix leaks in cost order, one change at a time"
+    ],
+    "formatting": "Long text post; numbered turnaround playbook.",
+    "why_it_works": "\"The product comes last, and that surprises people\" — the inversion of the expected audit order makes the whole framework memorable and quotable.",
+    "what_to_steal": "The offer-first and flow-second checks for LC's Q4: named bonuses, bundles, guarantee strength, then welcome/cart/second-order flows before touching creative."
+  },
+  {
+    "example_file": "2026-09-01-michael_upstack-2094779812087025670.md",
+    "product": "commentary — no product (an identity-resolution vendor pitch)",
+    "hook": "\"This 'multi-browser tax' is wasting 30-50% of your ad spend\" — names an invisible cost.",
+    "body": "The multi-browser identity problem: a shopper clicks an IG ad (in-app browser), enters email for 10% off; a week later buys in Safari; Klaviyo never connects the two, so the abandoned-cart email never sends and Meta/Google can't learn the conversion. Fixing identity typically boosts abandoned-cart revenue 40% and cuts CAC 10–15%.",
+    "cta": "\"Reach out if you'd like to see a demo\" (Upstack pitch).",
+    "idea": "Cross-browser identity breaks are silently killing cart-recovery flows — the same person looks like two people, so the reminder sequence never fires.",
+    "sequencing": [
+      "The named cost (\"multi-browser tax,\" 30–50% waste)",
+      "The scenario (IG in-app browser → email capture → Safari purchase)",
+      "The break (no identity link → no cart email, no platform learning)",
+      "The general rule (browser switches, cookie clears, 30+ day gaps)",
+      "The payoff (cart revenue +40%, CAC −10–15%)",
+      "The demo CTA"
+    ],
+    "formatting": "Text-only post; scenario-driven vendor pitch.",
+    "why_it_works": "Naming the problem (\"multi-browser tax\") makes an invisible leak feel real and measurable — and the concrete scenario lets any brand owner check whether it applies to them.",
+    "what_to_steal": "Audit LC's own identity continuity: does the cart email fire when a shopper moves from IG in-app browser to Safari? If not, this is found revenue."
+  },
+  {
+    "example_file": "2026-09-07-RealJustinWoll-2096955098035265691.md",
+    "product": "commentary — no product",
+    "hook": "\"The most underrated asset in your eCom business is probably sitting completely unused right now: Your email list.\" — asset reframe.",
+    "body": "The one-pipe vulnerability: stores built on paid traffic collapse when CPA spikes or accounts get restricted; the email list is owned distribution; math walk (50 orders/day × $55 AOV × 90 days = 4,500 customers; one promo at 2% = $4,950 with no ad spend); the flow stack (welcome, abandoned cart, post-purchase, winback, launches, flash sales, bundles); ads acquire, email infrastructure raises LTV.",
+    "cta": "none (signed \"- Justin Woll\").",
+    "idea": "Ads acquire the customer; email infrastructure increases what that customer is worth — long-term winners own the ecosystem, not just the acquisition pipe.",
+    "sequencing": [
+      "The underrated asset (email list)",
+      "The one-pipe vulnerability (paid-only stores)",
+      "The ownership contrast (Facebook owns reach; you own the list)",
+      "The math (4,500 customers → one send = $4,950)",
+      "The flow stack (welcome, cart, post-purchase, winback, launches)",
+      "The reframe (ads = engine, email = ecosystem)",
+      "The test (if ads shut off and revenue → zero, you lack infrastructure)",
+      "The closer (build the list, build the flows, let it compound)"
+    ],
+    "formatting": "Long text post; manifesto style with bullet flow stack.",
+    "why_it_works": "The \"if your ads shut off tomorrow\" test is a gut-check every paid-dependent brand fails — it converts abstract list-building advice into an existential question.",
+    "what_to_steal": "LC's version of the math: 300K SMS subscribers + email list → one send at 2% = the revenue line; and the flow stack as the Q4 checklist."
+  },
+  {
+    "example_file": "2026-09-14-wizofecom-2099554762995708353.md",
+    "product": "commentary — no product (an Omnisend partner pitch)",
+    "hook": "\"Let me guess — You built your abandoned cart flow when the store was doing 200 sessions a day. And nobody's touched it since.\" — painfully specific call-out.",
+    "body": "The stale-flow problem: timing written for a smaller store, discount logic from different margins, send caps built for fraction of traffic; Q4's 10x volume through the same sequence produces more revenue, which hides that the flow never scaled; flows are the one system scaled without testing; now Omnisend runs inside Claude/ChatGPT (Connector Directory since July 30) so you can ask which automations are BFCM-ready, message by message.",
+    "cta": "\"Fix that before you build anything new for November. Check the next tweet for more info.\"",
+    "idea": "Email flows are the one system that gets 10x'd without anyone checking whether it holds — audit message-level performance before BFCM, not after.",
+    "sequencing": [
+      "The call-out (flow built at 200 sessions/day, untouched since)",
+      "The three staleness symptoms (timing, discount logic, send caps)",
+      "The hiding mechanism (more traffic → more revenue → looks fine)",
+      "The principle (wouldn't 10x ad spend without testing creative)",
+      "The new capability (Omnisend in Claude/ChatGPT, one question)",
+      "The message-level audit promise",
+      "The CTA (fix before November)"
+    ],
+    "formatting": "Text-only post; partner-pitch with a diagnostic frame.",
+    "why_it_works": "\"That growth is what hides everything\" — the insight that rising revenue masks a decaying flow is the kind of counter-intuitive truth that earns the bookmark and the audit.",
+    "what_to_steal": "LC's pre-Q4 flow audit: check every automation's timing, discount logic, and send caps against current volume — message by message, before November."
+  }
+]
