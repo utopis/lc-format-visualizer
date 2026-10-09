@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Format brief · Louise Carter Format Library</title>
+<style>
+:root{--bg:#000;--card:#1c1c1e;--txt:#f5f5f7;--mut:#a1a1a6;--gold:#d4ae62;--line:rgba(255,255,255,.12)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:17px/1.6 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Arial,sans-serif;-webkit-font-smoothing:antialiased}
+nav{position:sticky;top:0;z-index:5;backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);background:rgba(0,0,0,.72);border-bottom:1px solid var(--line)}
+nav .in{max-width:900px;margin:auto;padding:12px 22px;display:flex;justify-content:space-between;align-items:center;font-size:14px}
+a{color:var(--gold);text-decoration:none}a:hover{text-decoration:underline}
+main{max-width:900px;margin:auto;padding:40px 22px 120px}
+h1{font-size:40px;line-height:1.1;letter-spacing:-.02em;margin:0 0 24px}h2{font-size:26px;margin:48px 0 12px;letter-spacing:-.01em;border-top:1px solid var(--line);padding-top:28px}h3{font-size:20px;margin:28px 0 8px}
+p,li{color:#e8e8ed}blockquote{margin:16px 0;padding:12px 18px;border-left:3px solid var(--gold);background:var(--card);border-radius:0 12px 12px 0;color:var(--mut)}
+code{font:14px ui-monospace,SFMono-Regular,Menlo,monospace;background:#2c2c2e;padding:2px 6px;border-radius:6px}
+pre{background:var(--card);padding:18px;border-radius:14px;overflow:auto;border:1px solid var(--line)}pre code{background:none;padding:0;white-space:pre-wrap}
+table{border-collapse:collapse;width:100%;font-size:14px;display:block;overflow-x:auto}th,td{border-bottom:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}th{color:var(--mut);font-weight:600}
+.meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin:0 0 28px}.meta div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;font-size:14px;color:#e8e8ed}.meta span{display:block;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);margin-bottom:4px}
+.err{color:#ff453a}
+</style></head><body>
+<nav><div class="in"><a href="./">← Format Library</a><a id="raw" href="#" target="_blank" rel="noopener">View source</a></div></nav>
+<main id="doc">Loading…</main>
+<script src="assets/marked.min.js"></script>
+<script>
+const q=new URLSearchParams(location.search).get('f')||'formats/README.md';
+const ok=/^formats\/[A-Za-z0-9_.-]+\.(md)$/.test(q);
+const doc=document.getElementById('doc');
+document.getElementById('raw').href='https://github.com/utopis/lc-format-visualizer/blob/main/'+q;
+if(!ok){doc.innerHTML='<p class="err">Unknown brief.</p>'}else fetch(q).then(r=>{if(!r.ok)throw 0;return r.text()}).then(md=>{
+  let meta='';const fm=md.match(/^---\n([\s\S]*?)\n---\n/);
+  if(fm){md=md.slice(fm[0].length);const rows=fm[1].split('\n').map(l=>l.match(/^([a-z_]+):\s*(.*)$/)).filter(Boolean);
+    const e=t=>t.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+    meta='<div class="meta">'+rows.filter(r=>!['id','name'].includes(r[1])).map(r=>'<div><span>'+e(r[1].replace(/_/g,' '))+'</span>'+e(r[2].replace(/^\[|\]$|^"|"$/g,''))+'</div>').join('')+'</div>'}
+  doc.innerHTML=marked.parse(md);const h1=doc.querySelector('h1');if(meta){h1?h1.insertAdjacentHTML('afterend',meta):doc.insertAdjacentHTML('afterbegin',meta)}
+  doc.querySelectorAll('script,iframe,object,embed').forEach(e=>e.remove());
+  doc.querySelectorAll('a[href]').forEach(a=>{const h=a.getAttribute('href');
+    if(/^https?:/.test(h)){a.target='_blank';a.rel='noopener'}
+    else if(/^[A-Za-z0-9_.-]+\.md(#.*)?$/.test(h)){a.href='brief.html?f='+encodeURIComponent('formats/'+h.split('#')[0])}
+    else if(/\.json$/.test(h)){a.href='formats/'+h}});
+  document.title=(h1?h1.textContent:q)+' · LC Format Library';
+}).catch(()=>{doc.innerHTML='<p class="err">Could not load '+q.replace(/</g,'&lt;')+'.</p>'});
+</script></body></html>
