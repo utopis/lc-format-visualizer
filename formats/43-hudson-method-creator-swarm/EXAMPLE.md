@@ -187,7 +187,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
+Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 5 update: Matt Gittleson / HardLaunch UGC system (Oct 2026)](README.md)
 
 ## More examples
 

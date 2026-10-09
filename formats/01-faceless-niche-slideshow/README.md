@@ -29,6 +29,7 @@ related_strategies: [01-viral-slideshow-recreation, 20-niche-persona-pages, 24-n
 
 
 
+
 ## What it looks like
 A 4-6 slide photo carousel that reads like genuinely useful niche content (tips, rules, lists, diary). The product appears **once**, framed as one of the tips — typically slide N-1 ("right before the last tip so you can't get the full list without seeing it", @rsalimx).
 
@@ -90,6 +91,11 @@ See [_COMPLIANCE.md](../_COMPLIANCE.md). Specific: several source accounts run 3
 - Recipe page: one meal per slide, saved on instinct; the app is "all of this, in your pocket"; 40M-view posts, ~$10K MRR ([@rsalimx](https://x.com/rsalimx/status/2108259483902513153)).
 - K-skincare TikTok Shop slideshows: 3 accounts, same products, different angles ("under $15", "for oily skin", "for acne"), aimed at divorced women 35-45 doing the post-breakup glow-up, 6-slide carousels with the product tagged on every one ([@_Rina__Lee](https://x.com/_Rina__Lee/status/2103913493829156865)).
 - LC: "5 things I stopped doing at 30" with "stopped taking my necklace off to shower" as tip #4 (not the last slide).
+
+## Wave 5 update: persona mirror-selfie and agent-run slideshows (Oct 2026)
+- @mayaviefit (TikTok fitness account, 130.2K followers, 4.3M likes, no product in the bio): almost every post is the **same gym mirror selfie** with one line of white text ("easy high protein recipe:", "pre workout snack ideas", "8am", "Glute Day for bbl accusations"). Covers run 400K-11M views; @rsalimx guesses 20M+ views a month, unmonetised ([post](https://x.com/rsalimx/status/2108629140480168133)). Takeaways: one repeatable cover photo, one save-worthy promise per post, and a profile split into two playlists ("workouts", "high protein recipes"). It's an open slot for an app or brand on slide 4 of 5.
+- Agent-run slideshows: a couples app's slideshows are written by an AI model from a reference sheet and posted by Claude via the Post Bridge MCP, with a top post of 31.7K views ([@jackfriks](https://x.com/jackfriks/status/2108536144896163993); see F110). Replies say TikTok auto-adds random trending audio to API-posted slideshows, and warn that a week from one sheet converges on two hooks.
+- LC: one recurring cover (the same mirror selfie with a stack on the wrist), one save-worthy line per post ("3 stacks I wear to the gym that don't tarnish"), LC on slide 4.
 
 ## Evidence from X discovery (auto-generated)
 

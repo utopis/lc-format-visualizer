@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium (playbook + live examples) · hype risk: Low · cost $20-100 per VO set · 1 h
 
 ## What it is
@@ -91,6 +92,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [30-voiceless-broll-text-overlay](../30-voiceless-broll-text-overlay/README.md), [53-ai-ugc-outlier-remake-lab](../53-ai-ugc-outlier-remake-lab/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 5 update: iterate additively (Oct 2026)
+- Matt Gittleson's propagation rule: change **one variable at a time** (hook text, opening line, visual wrapper, end twist), keep the core viral mechanism intact, and require the winner to repeat across different accounts and faces before calling it a format win. Don't flood every account at once: it kills a format in a fortnight instead of three months ([article](https://x.com/mattgittleson/status/2107530746923823444)).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

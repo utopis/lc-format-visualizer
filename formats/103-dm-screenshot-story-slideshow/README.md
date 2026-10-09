@@ -26,6 +26,7 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
 > **LC priority P2** · evidence: Medium-High (one $100K/mo app; known slideshow engine) · hype risk: Medium · cost $0 · 20-40 min
 
 ## What it is

@@ -27,6 +27,7 @@ related_strategies: [05-offer-page-engineering, 41-von-restorff-static-copy-prom
 
 
 
+
 ## The handwritten sign
 Phone photo of a hand-written paper sign ("WellnessBaby CYBER MONDAY 60% OFF TODAY!") propped next to the product in a real home with holiday lights ([@adamtaylorl](https://x.com/adamtaylorl/status/2106021392567198020)).
 

@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High (multiple operators; $750k winner) · hype risk: Low · cost $100-400 per creator video · 1 day turnaround per creator
 
 ## What it is

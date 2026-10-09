@@ -137,7 +137,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md) · [Wave 5 update: hook = product (Oct 2026)](README.md)
 
 ## More examples
 

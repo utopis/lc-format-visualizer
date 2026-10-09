@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium (vendor jewelry study) · hype risk: Low · cost $0-500 · 1-2 days per season
 
 ## What it is

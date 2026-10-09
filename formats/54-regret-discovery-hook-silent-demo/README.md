@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P0** · evidence: High (multiple apps, 30M+ views, revenue claims) · hype risk: Low · cost $0-100 (creator) / near-zero to re-shoot · 30-60 min
 
 ## What it is
@@ -113,6 +114,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Muscle Mat: Dog-test visual hook (Muscle Mat, 859 days), 859 days live (Hook Frameworks That Stop the Scroll board). The visual hook (an animal test) and the copy hook (the comfort question) run together: Fedotoff's "every hook is 2 hooks".
 - Muscle Mat: "FREE" baby-on-topper static (Muscle Mat), 533 days live (Hook Frameworks That Stop the Scroll board). A cute visual plus a giveaway word.
 - Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 5 update: hook = product (Oct 2026)
+- Removal test from Matt Gittleson's 1.4B-view guide: remove the product. If the video still makes sense, the product was decoration ([article](https://x.com/mattgittleson/status/2107530746923823444)). The regret/discovery hook passes only if the discovered thing *is* the product.
 
 ## Evidence from X discovery (auto-generated)
 

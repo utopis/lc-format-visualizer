@@ -1,6 +1,6 @@
 # Content & ad FORMATS — ranked library
 
-**109 formats** (F108-F109 wave 4 from Alex Fedotoff's Oct 2026 swipe boards; F100-F107 wave 3 from saved X posts: the women-focused brands and apps crushing it, plus AI short-drama ad formats; F01-F25 wave 1; F26-F53 wave-2 deep-dive; F54-F66 wave 2b from queued X posts + the GetHookd library; F67-F90 wave 2c from Alex Fedotoff's free GetHookd library (37 verified formats, 20 ad types, 130 shared ads, 35 boards) + @yurahulei; F91-F99 wave 2d from the Resilia / Smooche deep-dive (revenue claims unverified). See ../sources/fedotoff-gethookd-library.md, ../sources/resilia-smooche.md and ../TOOLS_AND_RESOURCES.md (internal doc); new ones marked 🆕). Each file = one distinct, reusable content/ad format seen working in Jay's X network (2026-07-10 → 2026-10-08), with structure, hooks, production recipe, 3 LC jewelry scripts, test plan + Omni metric, compliance, and an auto-generated evidence table linking back to `../discovery/`. Read [_COMPLIANCE.md](_COMPLIANCE.md) first — it applies to every format.
+**110 formats** (F110 wave 5 from queued posts; F108-F109 wave 4 from Alex Fedotoff's Oct 2026 swipe boards; F100-F107 wave 3 from saved X posts: the women-focused brands and apps crushing it, plus AI short-drama ad formats; F01-F25 wave 1; F26-F53 wave-2 deep-dive; F54-F66 wave 2b from queued X posts + the GetHookd library; F67-F90 wave 2c from Alex Fedotoff's free GetHookd library (37 verified formats, 20 ad types, 130 shared ads, 35 boards) + @yurahulei; F91-F99 wave 2d from the Resilia / Smooche deep-dive (revenue claims unverified). See ../sources/fedotoff-gethookd-library.md, ../sources/resilia-smooche.md and ../TOOLS_AND_RESOURCES.md (internal doc); new ones marked 🆕). Each file = one distinct, reusable content/ad format seen working in our X network (2026-07-10 → 2026-10-08), with structure, hooks, production recipe, 3 LC jewelry scripts, test plan + Omni metric, compliance, and an auto-generated evidence table linking back to `../discovery/`. Read [_COMPLIANCE.md](_COMPLIANCE.md) first — it applies to every format.
 
 **Ranking logic.** *Evidence* = independent operators reporting spend/revenue or brand-scale usage (ad-library counts, first-party screenshots) vs. single tool-seller claims. *Hype risk* = share of sources selling the tool/course or describing bulk-account schemes. *LC priority* = evidence × fit for waterproof 14K PVD jewelry (women 25-55, gifting + self-purchase) × cost to test. Machine-readable version: [`formats.json`](formats.json).
 
@@ -54,67 +54,68 @@
 | 46 | [101 In-store scan → score → reaction](101-in-store-scan-score-reaction/README.md) | organic → paid | Medium (skincare scanner app) 🆕 | Low | P2 | 13, 27, 10 |
 | 47 | [102 Pinterest-pic recreation reveal](102-pinterest-pic-recreation-reveal/README.md) | organic → paid | Medium-High (Retake ~$2M MRR) 🆕 | Medium | P2 | 13, 01, 11 |
 | 48 | [103 DM-screenshot story slideshow](103-dm-screenshot-story-slideshow/README.md) | organic | Medium-High (AI rizz app ~$100K/mo) 🆕 | Medium | P2 | 22, 23, 01 |
-| 49 | [106 Cliffhanger-cut drama ad](106-cliffhanger-cut-drama-ad/README.md) | paid + organic | Medium (drama-app mechanic) 🆕 | Medium-High | P2 | 32, 22, 35 |
-| 50 | [107 Product placement inside short-drama channels](107-drama-app-sponsored-placement/README.md) | paid (placement) | Medium (drama app ~$9M/mo sells placements) 🆕 | Medium | P2 | 32, 09, 39 |
-| 51 | [108 AI doctor avatar explainer](108-ai-doctor-avatar-explainer/README.md) | paid | High (one of 5 AI formats scaling; 283-ad board) 🆕 | Medium (authority claims) | P2 | 37, 10, 36 |
-| 52 | [109 Attraction-proof partner reaction](109-attraction-proof-partner-reaction/README.md) | paid | Medium-High (Penrose 100-ad board; men's-desire post) 🆕 | Medium | P2 | 10, 13, 34 |
-| 53 | [19 TikTok Shop affiliate shoppable demo](19-tiktok-shop-affiliate-shoppable-demo/README.md) | affiliate | High for channel; AI-army claims = hype | High (AI armies) | P1 | 09, 28, 39 |
-| 54 | [25 Sweepstakes / celebrity giveaway](25-sweepstakes-celebrity-giveaway/README.md) | paid+list | High (Ridge first-party, ~50% YoY at better MER) | Low | P1 (Q4/Mother's Day) | 12, 14, 16 |
-| 55 | [17 Lo-fi promo statics (handwritten sign + 25 BFCM)](17-lofi-handwritten-sign-promo-static/README.md) | paid | Med-High | Low | P1 (BFCM now) | 05, 41, 16 |
-| 56 | [16 Us-vs-copycat screen scroll](16-us-vs-copycat-screen-scroll/README.md) | paid MOF | Med-High | Low | P1 | 08, 41 |
-| 57 | [27 Founder walk-and-talk story](27-founder-walk-and-talk-story-ad/README.md) | paid+organic | High (multiple operator lists; contested for scripted versions) 🆕 | Low-Med | P1 | 31, 10 |
-| 58 | [29 Green-screen personal story, brand late](29-greenscreen-personal-story-brand-late/README.md) | paid | High (multiple operators; $750k winner) 🆕 | Low | P1 | 10, 31 |
-| 59 | [33 Text-on-skin static](33-text-on-skin-static/README.md) | paid | Med-High (in 4 independent format lists) 🆕 | Low | P1 | 41, 13 |
-| 60 | [36 Backhanded "bad review" ad](36-backhanded-zero-star-review/README.md) | paid+organic | Medium (tier lists) 🆕 | Low | P1 | 11, 17 |
-| 61 | [38 Breaking-news style](38-breaking-news-report-style/README.md) | paid+organic | High (S-tier "news") 🆕 | Medium | P1 | 43, 35 |
-| 62 | [40 Testimonial mashup](40-testimonial-mashup/README.md) | paid | Medium-High 🆕 | Low | P1 | 11, 17 |
-| 63 | [45 Day in the life / BTS](45-day-in-the-life-behind-the-scenes/README.md) | organic+paid | Medium 🆕 | Low | P1 | 31 |
-| 64 | [47 GRWM / stack with me](47-grwm-stack-with-me/README.md) | organic+paid | Medium 🆕 | Low | P1 | 28, 10 |
-| 65 | [49 Cinematic macro product film](49-cinematic-macro-product-film/README.md) | paid | Medium 🆕 | Med | P1 | 37, 40 |
-| 66 | [07 Street interview / overheard question](07-street-interview-overheard-question/README.md) | paid+organic | Med-High but contested ("never saw a winner in 150 accounts") | Med | P2 (test overheard variant) | 10, 11 |
-| 67 | [12 Week-by-week timeline](12-week-by-week-results-timeline/README.md) | paid | Med-High | Low | P2 | 11, 33 |
-| 68 | [10 Shock-headline typographic static](10-shock-headline-text-static/README.md) | paid | Med-High (Resilia) | Low | P2 | 41, 32 |
-| 69 | [06 AI UGC talking head](06-ai-ugc-talking-head/README.md) | paid test | Mixed (big claims vs F-tier rankings) | High | P2 (angle testing only) | 29, 34, 37 |
-| 70 | [20 AI model lookbook / on-body](20-ai-model-lookbook-on-body/README.md) | organic+catalog | Medium | Med | P2 | 37, 06 |
-| 71 | [24 Skit + Beginner/Intermediate/Expert](24-skit-beginner-intermediate-expert/README.md) | paid+organic | Medium | Low | P2 | 10, 43 |
-| 72 | [35 Diagram statics (Venn / report card)](35-diagram-statics-venn-report-card/README.md) | paid | Medium (format lists) 🆕 | Low | P2 | 41, 08 |
-| 73 | [41 Talking product](41-talking-product-ad/README.md) | paid | Medium (183-day live) 🆕 | Med | P2 | 33, 37 |
-| 74 | [44 Clipping campaign](44-clipping-campaign/README.md) | organic | Medium (outlier case studies; mostly agency pitches) 🆕 | Med | P2 | 39, 26 |
-| 75 | [46 Unboxing / packing orders](46-unboxing-packing-orders/README.md) | organic+paid | Medium 🆕 | Low | P2 | 27, 31 |
-| 76 | [48 "The DM I get every day"](48-the-dm-i-get-every-day/README.md) | organic+paid | Medium 🆕 | Low | P2 | 11, 17 |
-| 77 | [50 Mini-documentary / founder mini-VSL](50-mini-documentary-how-its-made/README.md) | paid+organic | Medium (one teardown; contested) 🆕 | Med | P2 | 31 |
-| 78 | [51 Quiz / guess the price](51-quiz-guess-game/README.md) | organic+paid | Low-Med 🆕 | Low | P2 | 04, 15 |
-| 79 | [52 Meme page + product card](52-meme-page-product-card/README.md) | organic | Low-Med (one outlier) 🆕 | Med | P2 | 20, 24, 13 |
-| 80 | [56 Emotional relatable slideshow](56-emotional-relatable-slideshow/README.md) | organic | Low-Med (small-account data + saved-hook study) 🆕 | Low | P2 | 01, 22, 13 |
-| 81 | [58 Educational care / material explainer](58-educational-care-material-explainer/README.md) | organic+paid | Medium (vendor library) 🆕 | Low | P2 | 19, 11 |
-| 82 | [60 Click-to-message / DM ads](60-click-to-message-dm-ads/README.md) | paid | Medium (platform case studies via vendor) 🆕 | Med | P2 | 14, 15 |
-| 83 | [61 Poll & product-match quiz ads](61-poll-and-product-match-quiz-ads/README.md) | paid | Medium (vendor + brand case studies) 🆕 | Low | P2 | 04, 16 |
-| 84 | [68 Streak-calendar static](68-streak-calendar-static/README.md) | paid + organic | Medium (live ad) 🆕 | Low | P2 | 16, 41 |
-| 85 | [69 Zero-stars rating flip](69-zero-stars-rating-flip/README.md) | paid | Medium (live ad, big tester brand) 🆕 | Low | P2 | 41, 11 |
-| 86 | [70 Tough-love blunt narrator](70-tough-love-blunt-narrator/README.md) | paid | Medium (live ad) 🆕 | Low | P2 | 10, 20 |
-| 87 | [72 VSL long-form / text sales letter](72-vsl-long-form-and-text-sales-letter/README.md) | paid | High (multi-year live ads, large boards) 🆕 | Medium | P2 | 35, 31 |
-| 88 | [78 Comedy sketch with DR pitch](78-comedy-sketch-dr-pitch/README.md) | paid + organic | Medium (live example + playbook) 🆕 | Medium | P2 | 10, 32 |
-| 89 | [82 Hyperreal CGI mechanism x-ray](82-hyperreal-cgi-mechanism-xray/README.md) | paid | Medium (boards + playbook) 🆕 | Medium | P2 | 33, 37 |
-| 90 | [83 Shock / gross visual](83-shock-gross-visual/README.md) | paid | Medium (board + trend doc) 🆕 | Low | P2 | 10, 41 |
-| 91 | [84 Ugly / unusual visual native](84-ugly-unusual-visual-native/README.md) | paid | Medium (boards) 🆕 | Low | P2 | 41, 03 |
-| 92 | [85 Persona aesthetic slideshow caption template](85-persona-aesthetic-slideshow-caption-template/README.md) | organic | Medium (screenshots; vendor post) 🆕 | High | P2 | 01, 24 |
-| 93 | [88 Challenge ad](88-challenge-ad/README.md) | paid + organic | Low-medium (case studies) 🆕 | Medium | P2 | 16, 28 |
-| 94 | [89 Customer thank-you shoutout ad](89-customer-thank-you-shoutout-ad/README.md) | paid + organic | Low-medium 🆕 | Low | P2 | 11, 17 |
-| 95 | [91 AI melodrama mini-movie](91-ai-melodrama-mini-movie/README.md) | paid | High (multiple live long-runners; retention caveat) 🆕 | Medium | P2 | 32, 35 |
-| 96 | [92 Foreign-insider secret story](92-foreign-insider-secret-story/README.md) | paid | High (one $1M/mo ad + a brand-wide pattern) 🆕 | Medium | P2 | 32, 11 |
-| 97 | [96 Result reveal → expert stitch](96-result-reveal-expert-stitch/README.md) | paid + organic | Medium (live long-runners) 🆕 | Medium | P2 | 11, 36 |
-| 98 | [15 Retro infomercial / authority](15-retro-infomercial-expert-authority/README.md) | paid | Medium | Med (fake experts) | P3 | 11 |
-| 99 | [03 Notification / lock-screen slides](03-notification-lockscreen-slides/README.md) | organic | Medium (case inflated) | Med-High | P3 | 23, 22 |
-| 100 | [21 Recurring AI character](21-recurring-ai-character-mascot/README.md) | organic | Medium | Med-High | P3 | 24, 33 |
-| 101 | [23 First-person POV hyper-real](23-first-person-pov-hyperreal/README.md) | paid+organic | Low-Med | Low | P3 | 27 |
-| 102 | [22 Split-screen two versions](22-split-screen-two-versions/README.md) | paid+organic | Low-Med | Low | P3 | 10 |
-| 103 | [42 AI object-head micro-drama](42-ai-object-head-micro-drama/README.md) | organic | Low-Med (claims from tool promos) 🆕 | High | P3 | 32, 24 |
-| 104 | [63 Live shopping ads](63-live-shopping-ads/README.md) | paid+live | Medium (platform case studies) 🆕 | Med | P3 | 39, 28 |
-| 105 | [66 Interactive gesture add-on ads](66-interactive-gesture-addon-ads/README.md) | paid | Low-Med (platform case studies) 🆕 | Low | P3 | 05 |
-| 106 | [80 Persona-page native system](80-persona-page-native-system/README.md) | paid | High (many large advertisers) 🆕 | High | P3 | 20, 34 |
-| 107 | [81 Fiction serial native](81-fiction-serial-native/README.md) | paid | Low-medium 🆕 | Medium | P3 | 32, 22 |
-| 108 | [93 Elder-wisdom interview countdown](93-elder-wisdom-interview-countdown/README.md) | paid + organic | Medium-High (live ads; ethics risk) 🆕 | Medium | P3 | 10, 11 |
-| 109 | [104 Retail receipt rebate offer](104-retail-receipt-rebate-offer/README.md) | paid (BOF) | Medium (Primal Queen at Target) 🆕 | Low | P3 | 05, 16, 21 |
+| 49 | [110 Couples prompt slideshow with a mascot duo](110-couples-prompt-mascot-slideshow/README.md) | organic | Medium (couples app, 31.7K; agent-run) 🆕 | Medium | P1 | 01, 22, 38 |
+| 50 | [106 Cliffhanger-cut drama ad](106-cliffhanger-cut-drama-ad/README.md) | paid + organic | Medium (drama-app mechanic) 🆕 | Medium-High | P2 | 32, 22, 35 |
+| 51 | [107 Product placement inside short-drama channels](107-drama-app-sponsored-placement/README.md) | paid (placement) | Medium (drama app ~$9M/mo sells placements) 🆕 | Medium | P2 | 32, 09, 39 |
+| 52 | [108 AI doctor avatar explainer](108-ai-doctor-avatar-explainer/README.md) | paid | High (one of 5 AI formats scaling; 283-ad board) 🆕 | Medium (authority claims) | P2 | 37, 10, 36 |
+| 53 | [109 Attraction-proof partner reaction](109-attraction-proof-partner-reaction/README.md) | paid | Medium-High (Penrose 100-ad board; men's-desire post) 🆕 | Medium | P2 | 10, 13, 34 |
+| 54 | [19 TikTok Shop affiliate shoppable demo](19-tiktok-shop-affiliate-shoppable-demo/README.md) | affiliate | High for channel; AI-army claims = hype | High (AI armies) | P1 | 09, 28, 39 |
+| 55 | [25 Sweepstakes / celebrity giveaway](25-sweepstakes-celebrity-giveaway/README.md) | paid+list | High (Ridge first-party, ~50% YoY at better MER) | Low | P1 (Q4/Mother's Day) | 12, 14, 16 |
+| 56 | [17 Lo-fi promo statics (handwritten sign + 25 BFCM)](17-lofi-handwritten-sign-promo-static/README.md) | paid | Med-High | Low | P1 (BFCM now) | 05, 41, 16 |
+| 57 | [16 Us-vs-copycat screen scroll](16-us-vs-copycat-screen-scroll/README.md) | paid MOF | Med-High | Low | P1 | 08, 41 |
+| 58 | [27 Founder walk-and-talk story](27-founder-walk-and-talk-story-ad/README.md) | paid+organic | High (multiple operator lists; contested for scripted versions) 🆕 | Low-Med | P1 | 31, 10 |
+| 59 | [29 Green-screen personal story, brand late](29-greenscreen-personal-story-brand-late/README.md) | paid | High (multiple operators; $750k winner) 🆕 | Low | P1 | 10, 31 |
+| 60 | [33 Text-on-skin static](33-text-on-skin-static/README.md) | paid | Med-High (in 4 independent format lists) 🆕 | Low | P1 | 41, 13 |
+| 61 | [36 Backhanded "bad review" ad](36-backhanded-zero-star-review/README.md) | paid+organic | Medium (tier lists) 🆕 | Low | P1 | 11, 17 |
+| 62 | [38 Breaking-news style](38-breaking-news-report-style/README.md) | paid+organic | High (S-tier "news") 🆕 | Medium | P1 | 43, 35 |
+| 63 | [40 Testimonial mashup](40-testimonial-mashup/README.md) | paid | Medium-High 🆕 | Low | P1 | 11, 17 |
+| 64 | [45 Day in the life / BTS](45-day-in-the-life-behind-the-scenes/README.md) | organic+paid | Medium 🆕 | Low | P1 | 31 |
+| 65 | [47 GRWM / stack with me](47-grwm-stack-with-me/README.md) | organic+paid | Medium 🆕 | Low | P1 | 28, 10 |
+| 66 | [49 Cinematic macro product film](49-cinematic-macro-product-film/README.md) | paid | Medium 🆕 | Med | P1 | 37, 40 |
+| 67 | [07 Street interview / overheard question](07-street-interview-overheard-question/README.md) | paid+organic | Med-High but contested ("never saw a winner in 150 accounts") | Med | P2 (test overheard variant) | 10, 11 |
+| 68 | [12 Week-by-week timeline](12-week-by-week-results-timeline/README.md) | paid | Med-High | Low | P2 | 11, 33 |
+| 69 | [10 Shock-headline typographic static](10-shock-headline-text-static/README.md) | paid | Med-High (Resilia) | Low | P2 | 41, 32 |
+| 70 | [06 AI UGC talking head](06-ai-ugc-talking-head/README.md) | paid test | Mixed (big claims vs F-tier rankings) | High | P2 (angle testing only) | 29, 34, 37 |
+| 71 | [20 AI model lookbook / on-body](20-ai-model-lookbook-on-body/README.md) | organic+catalog | Medium | Med | P2 | 37, 06 |
+| 72 | [24 Skit + Beginner/Intermediate/Expert](24-skit-beginner-intermediate-expert/README.md) | paid+organic | Medium | Low | P2 | 10, 43 |
+| 73 | [35 Diagram statics (Venn / report card)](35-diagram-statics-venn-report-card/README.md) | paid | Medium (format lists) 🆕 | Low | P2 | 41, 08 |
+| 74 | [41 Talking product](41-talking-product-ad/README.md) | paid | Medium (183-day live) 🆕 | Med | P2 | 33, 37 |
+| 75 | [44 Clipping campaign](44-clipping-campaign/README.md) | organic | Medium (outlier case studies; mostly agency pitches) 🆕 | Med | P2 | 39, 26 |
+| 76 | [46 Unboxing / packing orders](46-unboxing-packing-orders/README.md) | organic+paid | Medium 🆕 | Low | P2 | 27, 31 |
+| 77 | [48 "The DM I get every day"](48-the-dm-i-get-every-day/README.md) | organic+paid | Medium 🆕 | Low | P2 | 11, 17 |
+| 78 | [50 Mini-documentary / founder mini-VSL](50-mini-documentary-how-its-made/README.md) | paid+organic | Medium (one teardown; contested) 🆕 | Med | P2 | 31 |
+| 79 | [51 Quiz / guess the price](51-quiz-guess-game/README.md) | organic+paid | Low-Med 🆕 | Low | P2 | 04, 15 |
+| 80 | [52 Meme page + product card](52-meme-page-product-card/README.md) | organic | Low-Med (one outlier) 🆕 | Med | P2 | 20, 24, 13 |
+| 81 | [56 Emotional relatable slideshow](56-emotional-relatable-slideshow/README.md) | organic | Low-Med (small-account data + saved-hook study) 🆕 | Low | P2 | 01, 22, 13 |
+| 82 | [58 Educational care / material explainer](58-educational-care-material-explainer/README.md) | organic+paid | Medium (vendor library) 🆕 | Low | P2 | 19, 11 |
+| 83 | [60 Click-to-message / DM ads](60-click-to-message-dm-ads/README.md) | paid | Medium (platform case studies via vendor) 🆕 | Med | P2 | 14, 15 |
+| 84 | [61 Poll & product-match quiz ads](61-poll-and-product-match-quiz-ads/README.md) | paid | Medium (vendor + brand case studies) 🆕 | Low | P2 | 04, 16 |
+| 85 | [68 Streak-calendar static](68-streak-calendar-static/README.md) | paid + organic | Medium (live ad) 🆕 | Low | P2 | 16, 41 |
+| 86 | [69 Zero-stars rating flip](69-zero-stars-rating-flip/README.md) | paid | Medium (live ad, big tester brand) 🆕 | Low | P2 | 41, 11 |
+| 87 | [70 Tough-love blunt narrator](70-tough-love-blunt-narrator/README.md) | paid | Medium (live ad) 🆕 | Low | P2 | 10, 20 |
+| 88 | [72 VSL long-form / text sales letter](72-vsl-long-form-and-text-sales-letter/README.md) | paid | High (multi-year live ads, large boards) 🆕 | Medium | P2 | 35, 31 |
+| 89 | [78 Comedy sketch with DR pitch](78-comedy-sketch-dr-pitch/README.md) | paid + organic | Medium (live example + playbook) 🆕 | Medium | P2 | 10, 32 |
+| 90 | [82 Hyperreal CGI mechanism x-ray](82-hyperreal-cgi-mechanism-xray/README.md) | paid | Medium (boards + playbook) 🆕 | Medium | P2 | 33, 37 |
+| 91 | [83 Shock / gross visual](83-shock-gross-visual/README.md) | paid | Medium (board + trend doc) 🆕 | Low | P2 | 10, 41 |
+| 92 | [84 Ugly / unusual visual native](84-ugly-unusual-visual-native/README.md) | paid | Medium (boards) 🆕 | Low | P2 | 41, 03 |
+| 93 | [85 Persona aesthetic slideshow caption template](85-persona-aesthetic-slideshow-caption-template/README.md) | organic | Medium (screenshots; vendor post) 🆕 | High | P2 | 01, 24 |
+| 94 | [88 Challenge ad](88-challenge-ad/README.md) | paid + organic | Low-medium (case studies) 🆕 | Medium | P2 | 16, 28 |
+| 95 | [89 Customer thank-you shoutout ad](89-customer-thank-you-shoutout-ad/README.md) | paid + organic | Low-medium 🆕 | Low | P2 | 11, 17 |
+| 96 | [91 AI melodrama mini-movie](91-ai-melodrama-mini-movie/README.md) | paid | High (multiple live long-runners; retention caveat) 🆕 | Medium | P2 | 32, 35 |
+| 97 | [92 Foreign-insider secret story](92-foreign-insider-secret-story/README.md) | paid | High (one $1M/mo ad + a brand-wide pattern) 🆕 | Medium | P2 | 32, 11 |
+| 98 | [96 Result reveal → expert stitch](96-result-reveal-expert-stitch/README.md) | paid + organic | Medium (live long-runners) 🆕 | Medium | P2 | 11, 36 |
+| 99 | [15 Retro infomercial / authority](15-retro-infomercial-expert-authority/README.md) | paid | Medium | Med (fake experts) | P3 | 11 |
+| 100 | [03 Notification / lock-screen slides](03-notification-lockscreen-slides/README.md) | organic | Medium (case inflated) | Med-High | P3 | 23, 22 |
+| 101 | [21 Recurring AI character](21-recurring-ai-character-mascot/README.md) | organic | Medium | Med-High | P3 | 24, 33 |
+| 102 | [23 First-person POV hyper-real](23-first-person-pov-hyperreal/README.md) | paid+organic | Low-Med | Low | P3 | 27 |
+| 103 | [22 Split-screen two versions](22-split-screen-two-versions/README.md) | paid+organic | Low-Med | Low | P3 | 10 |
+| 104 | [42 AI object-head micro-drama](42-ai-object-head-micro-drama/README.md) | organic | Low-Med (claims from tool promos) 🆕 | High | P3 | 32, 24 |
+| 105 | [63 Live shopping ads](63-live-shopping-ads/README.md) | paid+live | Medium (platform case studies) 🆕 | Med | P3 | 39, 28 |
+| 106 | [66 Interactive gesture add-on ads](66-interactive-gesture-addon-ads/README.md) | paid | Low-Med (platform case studies) 🆕 | Low | P3 | 05 |
+| 107 | [80 Persona-page native system](80-persona-page-native-system/README.md) | paid | High (many large advertisers) 🆕 | High | P3 | 20, 34 |
+| 108 | [81 Fiction serial native](81-fiction-serial-native/README.md) | paid | Low-medium 🆕 | Medium | P3 | 32, 22 |
+| 109 | [93 Elder-wisdom interview countdown](93-elder-wisdom-interview-countdown/README.md) | paid + organic | Medium-High (live ads; ethics risk) 🆕 | Medium | P3 | 10, 11 |
+| 110 | [104 Retail receipt rebate offer](104-retail-receipt-rebate-offer/README.md) | paid (BOF) | Medium (Primal Queen at Target) 🆕 | Low | P3 | 05, 16, 21 |
 
 Strategy numbers refer to the internal strategy playbooks (not published here).
 
@@ -124,7 +125,7 @@ Strategy numbers refer to the internal strategy playbooks (not published here).
 3. **Diagnose before producing**: if the top 5 spenders are 90+ days old, the account needs new reasons-to-buy (angles), not more variants (@adamtaylorl).
 4. **Measure in Omni**: every asset `utm_content=<format-file-number>-<concept>-<variant>`; weekly roll-up of new-customer revenue by format.
 5. **Creator engine**: run F43 (Hudson Method swarm) as the supply of real-creator assets; use F53 (AI UGC outlier-remake lab) to find angles cheaply on organic first, then brief winners to real creators.
-6. **Quick map by funnel**: TOF = 04, 05, 08, 14, 26, 28, 29, 30, 31, 38, 39, 43, 54, 55, 56, 100, 102, 103, 105, 106, 109; MOF = 09, 11, 108, 16, 32, 34, 35, 36, 40, 48, 57, 58, 59, 61; BOF/retargeting = 17, 37, 25, 60, 62, 64, 75, 86, 87, 89, 90; seasonal = 65. Wave 2c: statics 67, 68, 69, 73, 74, 84; TOF video 70, 71, 76, 77, 78, 82, 83, 88; cold-to-sale long form 72, 79; native/persona 80, 81, 85. Wave 2d: long story 91, 92; hooks/systems 93, 95, 96, 97; product-aware 94; BOF 98, 99.
+6. **Quick map by funnel**: TOF = 04, 05, 08, 14, 26, 28, 29, 30, 31, 38, 39, 43, 54, 55, 56, 100, 102, 103, 105, 106, 109, 110; MOF = 09, 11, 108, 16, 32, 34, 35, 36, 40, 48, 57, 58, 59, 61; BOF/retargeting = 17, 37, 25, 60, 62, 64, 75, 86, 87, 89, 90; seasonal = 65. Wave 2c: statics 67, 68, 69, 73, 74, 84; TOF video 70, 71, 76, 77, 78, 82, 83, 88; cold-to-sale long form 72, 79; native/persona 80, 81, 85. Wave 2d: long story 91, 92; hooks/systems 93, 95, 96, 97; product-aware 94; BOF 98, 99.
 
 ## Formats seen but not given their own file (yet)
 VSL now has its own file (72) · multi-scene demo · tiny-characters-on-body animation (folded into 05) · stitched ads · editorial "what to look for when buying X" ads · lifestyle b-roll VO (C-tier) · ChatGPT image-gen ads (OpenAI testing, not buyable yet) · gift-reaction video (folded into 43 briefs / 28) · persona page with talking product (folded into 41) · "TikTok made me buy it" (19/28) · old me / new me (framework → 11/39) · carpool ad (14) · flat lay (C-tier) · authority/expert (15) · how-to (02/39) · financing "starting at $X/month" (GetHookd jewelry; low fit at $85) · TikTok TopView/Pulse/branded mission/playable (placements, not formats) · hook bank: 8 GetHookd hook types + 6 most-saved TikTok hook types (@consumerxai) — apply across formats.

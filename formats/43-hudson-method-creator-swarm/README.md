@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P0** · evidence: High (multiple operators + first-party data) · hype risk: Med · cost $100-400 per creator/month + product + commission · ongoing program (VA + 5-10 h/week)
 
 ## What it is
@@ -115,6 +116,17 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Halara: 10,000 creator affiliates; product seeding instead of retainers, 5-20% commission, top 1% whitelisted into Spark Ads; TikTok Shop virality spilled into Amazon and DTC ([@joshelizetxe](https://x.com/joshelizetxe/status/2103449355701080399)).
 - A $50K studio Black Friday commercial ($82 CAC) lost to a mom filming in her car ($14 CAC); 500 seeded products → 1,200 raw videos → $1.8M BFCM sales ([@joshelizetxe](https://x.com/joshelizetxe/status/2107089957995037179)).
 - Power law: Comfrt's top 10 creators drive a huge share of revenue; Zach Yadegari's best ads came from one creator in his first 20; Haus's top 20 creators drive 85% of sales ([@hectorserrranoo](https://x.com/hectorserrranoo/status/2106136430556672384)). Build community around the few, not 2,000 identical talking heads.
+
+## Wave 5 update: Matt Gittleson / HardLaunch UGC system (Oct 2026)
+- Claim (third-party tracked, unverified by us): 1.4B views in 90 days, a client past $1M MRR (Jenni AI), $0 paid, 7¢ CPI and under $0.30 CPM, across dedicated creator-run accounts ([article](https://x.com/mattgittleson/status/2107530746923823444)).
+- **Dedicated accounts:** a creator runs an account just for your product; it looks and posts like an organic user, and the product is in every video. Run one yourself first: you can't brief a format you've never made.
+- **Warm-up protocol:** days 1-4, use the app like a human for 15-30 min a day (watch time in the niche matters; at Jenni, 40 followers before any promo). Days 4-7, three non-promo warm-up posts that are quick and high-viral-potential. Diagnosis: zero or single-digit views = account problem (cold, flagged, shadowbanned); a few hundred = content problem. One new account's first 2 promo videos did 7.5M+ after the warm-ups.
+- **Hire for the ICP, not the niche:** creators who look like your user (real students at 1am, moms), or a credible recommender (a teacher, another mom). A mismatched face gets scrolled and trusted less.
+- **Prescribe format and hooks; let creators own execution.** Creators drift to whatever is easiest to film and gets the most views.
+- **Propagation numbers:** one 60M-view format produced, within 30 days, 2 more videos above 20M, 9 above 5M and 34 above 1M. The follow-ups did 100M+, more than the original.
+- **Portfolio:** 50% proven formats / 25% one-variable iterations / 25% moonshots. No single account should carry most of the views (one shadowban ends the month); rotate out underperformers.
+- **Team split:** 20% front (format, principles), 75% middle (briefing, filming, editing, scheduling, all delegated), 5% end (a taste pass on every post).
+- LC: 3 dedicated persona accounts (beach girl, nurse on a 12h shift, gym girl); each warmed for 7 days; every video prescribed from the LC format bank; the founder does the 5% taste pass.
 
 ## Evidence from X discovery (auto-generated)
 

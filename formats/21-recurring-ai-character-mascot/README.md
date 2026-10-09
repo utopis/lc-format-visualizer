@@ -27,6 +27,7 @@ related_strategies: [24-niche-character-account-network, 33-animated-brand-chara
 
 
 
+
 ## Looks like
 One distinctive character (odd, recognisable — accent, look, catchphrase) in short repeatable bits; motion borrowed from trending formats; same character every post builds a following ([@sairahul1](https://x.com/sairahul1/status/2107172215586513360)).
 
@@ -40,6 +41,9 @@ Follower growth, avg watch time; Omni bio link.
 [_COMPLIANCE.md](../_COMPLIANCE.md). AI label; character clearly LC's; don't base on real people.
 
 <!-- EVIDENCE:START -->
+## Wave 5 update: mascot duo for couples content (Oct 2026)
+- A couples app uses a recurring pig + cat duo as 'him' and 'her' on every slideshow cover ([@jackfriks](https://x.com/jackfriks/status/2108536144896163993)). A mascot pair (not a single character) lets every post be relationship content without showing real faces. Full format in F110.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

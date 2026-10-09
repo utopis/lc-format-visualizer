@@ -117,5 +117,6 @@ To add a new format: copy any folder, rename to the next `NN-slug`, rewrite READ
 | [107-drama-app-sponsored-placement](107-drama-app-sponsored-placement/README.md) | [example + how-to](107-drama-app-sponsored-placement/EXAMPLE.md) | [4](107-drama-app-sponsored-placement/examples/README.md) |
 | [108-ai-doctor-avatar-explainer](108-ai-doctor-avatar-explainer/README.md) | [example + how-to](108-ai-doctor-avatar-explainer/EXAMPLE.md) | [1](108-ai-doctor-avatar-explainer/examples/README.md) |
 | [109-attraction-proof-partner-reaction](109-attraction-proof-partner-reaction/README.md) | [example + how-to](109-attraction-proof-partner-reaction/EXAMPLE.md) | [1](109-attraction-proof-partner-reaction/examples/README.md) |
+| [110-couples-prompt-mascot-slideshow](110-couples-prompt-mascot-slideshow/README.md) | [example + how-to](110-couples-prompt-mascot-slideshow/EXAMPLE.md) | [1](110-couples-prompt-mascot-slideshow/examples/README.md) |
 
-**Total example posts: 1091** across 109 formats.
+**Total example posts: 1092** across 110 formats.

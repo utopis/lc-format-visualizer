@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium (tier lists) · hype risk: Low · cost $0 · 15 min
 
 ## What it is

@@ -12,7 +12,7 @@ Every format in this library, placed on the funnel. Use it to audit Louise Carte
 
 | Stage | What it does | Formats | Exact real example | Thin evidence (<5 examples) | LC produced or tested |
 |---|---|---|---|---|---|
-| **Reach: organic** | Accounts and posts that earn attention without paying: slideshows, memes, pages, day-in-the-life. | 18 | 16 | 3 | 0 |
+| **Reach: organic** | Accounts and posts that earn attention without paying: slideshows, memes, pages, day-in-the-life. | 19 | 17 | 4 | 0 |
 | **Reach: paid cold** | Scroll-stopping ads to people who have never heard of Louise Carter. | 35 | 32 | 4 | 0 |
 | **Consider: proof and education** | Gives a warm viewer a reason to believe: demos, comparisons, reviews, explainers, advertorials. | 32 | 28 | 3 | 0 |
 | **Convert: offer and retargeting** | Turns intent into an order: offers, urgency, catalog, retargeting, DMs, live shopping. | 13 | 8 | 3 | 0 |
@@ -21,12 +21,12 @@ Every format in this library, placed on the funnel. Use it to audit Louise Carte
 
 ## Gaps to check first
 
-- **Nothing in this library has reached Production yet.** All 109 formats are at research or drafted concepts, so every stage below is still untested for LC.
+- **Nothing in this library has reached Production yet.** All 110 formats are at research or drafted concepts, so every stage below is still untested for LC.
 - **Fewest formats:** Keep: customers and community. These stages have the fewest options to test.
 - **No exact real example yet:** [60](60-click-to-message-dm-ads/EXAMPLE.md), [68](68-streak-calendar-static/EXAMPLE.md), [90](90-fake-pdp-product-page-screenshot/EXAMPLE.md), [102](102-pinterest-pic-recreation-reveal/EXAMPLE.md). Treat these as untested ideas.
-- **Thin evidence (<5 real examples):** [10](10-shock-headline-text-static/EXAMPLE.md), [25](25-sweepstakes-celebrity-giveaway/EXAMPLE.md), [60](60-click-to-message-dm-ads/EXAMPLE.md), [68](68-streak-calendar-static/EXAMPLE.md), [81](81-fiction-serial-native/EXAMPLE.md), [89](89-customer-thank-you-shoutout-ad/EXAMPLE.md), [90](90-fake-pdp-product-page-screenshot/EXAMPLE.md), [100](100-relatable-body-question-mascot-answer/EXAMPLE.md), [101](101-in-store-scan-score-reaction/EXAMPLE.md), [102](102-pinterest-pic-recreation-reveal/EXAMPLE.md), [103](103-dm-screenshot-story-slideshow/EXAMPLE.md), [104](104-retail-receipt-rebate-offer/EXAMPLE.md), [108](108-ai-doctor-avatar-explainer/EXAMPLE.md), [109](109-attraction-proof-partner-reaction/EXAMPLE.md).
+- **Thin evidence (<5 real examples):** [10](10-shock-headline-text-static/EXAMPLE.md), [25](25-sweepstakes-celebrity-giveaway/EXAMPLE.md), [60](60-click-to-message-dm-ads/EXAMPLE.md), [68](68-streak-calendar-static/EXAMPLE.md), [81](81-fiction-serial-native/EXAMPLE.md), [89](89-customer-thank-you-shoutout-ad/EXAMPLE.md), [90](90-fake-pdp-product-page-screenshot/EXAMPLE.md), [100](100-relatable-body-question-mascot-answer/EXAMPLE.md), [101](101-in-store-scan-score-reaction/EXAMPLE.md), [102](102-pinterest-pic-recreation-reveal/EXAMPLE.md), [103](103-dm-screenshot-story-slideshow/EXAMPLE.md), [104](104-retail-receipt-rebate-offer/EXAMPLE.md), [108](108-ai-doctor-avatar-explainer/EXAMPLE.md), [109](109-attraction-proof-partner-reaction/EXAMPLE.md), [110](110-couples-prompt-mascot-slideshow/EXAMPLE.md).
 
-## Reach: organic (18)
+## Reach: organic (19)
 
 Accounts and posts that earn attention without paying: slideshows, memes, pages, day-in-the-life.
 
@@ -46,10 +46,11 @@ Accounts and posts that earn attention without paying: slideshows, memes, pages,
 | 51 | [Quiz / guess-the-price / street quiz game](51-quiz-guess-game/EXAMPLE.md) | exact | 8 | Concepts: drafted (LC) |
 | 52 | [Owned meme / niche page with product card ('bro vs me')](52-meme-page-product-card/EXAMPLE.md) | exact | 8 | Concepts: drafted (LC) |
 | 56 | [Emotional + relatable TikTok slideshow (share-bait story slides)](56-emotional-relatable-slideshow/EXAMPLE.md) | exact | 15 | Concepts: drafted (LC) |
-| 85 | [Persona aesthetic slideshow account with one recurring caption template](85-persona-aesthetic-slideshow-caption-template/EXAMPLE.md) | exact | 8 | Concepts: drafted (LC) |
+| 85 | [Persona aesthetic slideshow account with one recurring caption template](85-persona-aesthetic-slideshow-caption-template/EXAMPLE.md) | exact | 9 | Concepts: drafted (LC) |
 | 100 | [Relatable body question + in-app answer (\"at what age did you find out…\" reaction, mascot explains)](100-relatable-body-question-mascot-answer/EXAMPLE.md) | exact | 4 | Concepts: drafted (LC) |
 | 102 | [Pinterest-pic recreation reveal (\"I recreated this Pinterest photo with me in it\")](102-pinterest-pic-recreation-reveal/EXAMPLE.md) | proxy | 3 | Concepts: drafted (LC) |
 | 103 | [DM-screenshot story slideshow (a chat people binge, the app/product on the slide that changes what happens next)](103-dm-screenshot-story-slideshow/EXAMPLE.md) | close | 2 | Concepts: drafted (LC) |
+| 110 | [Couples prompt slideshow with a mascot duo (\"5 slightly uncomfortable questions to ask your boyfriend\", \"this or that\", \"pick who's guilty, comment 1A 2B\")](110-couples-prompt-mascot-slideshow/EXAMPLE.md) | exact | 1 | Concepts: drafted (LC) |
 
 ## Reach: paid cold (35)
 

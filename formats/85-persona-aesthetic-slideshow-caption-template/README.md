@@ -30,6 +30,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (screenshots; vendor post) · hype risk: High · cost $0 · 10 min/post
 
 ## What it is
@@ -91,6 +92,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [01-faceless-niche-slideshow](../01-faceless-niche-slideshow/README.md), [56-emotional-relatable-slideshow](../56-emotional-relatable-slideshow/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 5 update: @mayaviefit same-selfie system (Oct 2026)
+- This is the purest version of F85: an identical mirror-selfie aesthetic on every cover and a one-line caption template, at 400K-11M views per post on a 130K-follower account with nothing in the bio ([@rsalimx](https://x.com/rsalimx/status/2108629140480168133)). The consistency is the brand; the caption line changes the promise.
+- LC remake: a 'jewelry girl' persona account. Same bathroom-mirror selfie in every post (hand on the collarbone, LC stack visible) with a caption template like "jewelry that survives: <gym / beach / shower / 12h shift>". Slides 2-5 are tips, slide 4 is the LC product.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

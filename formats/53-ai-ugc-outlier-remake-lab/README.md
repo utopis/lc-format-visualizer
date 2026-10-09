@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Med-High (ex-Cal AI operator, detailed method) · hype risk: Med · cost $2-10 per AI test video + tooling · pipeline setup 1-2 days; then ~20 min/video
 
 ## What it is
@@ -108,6 +109,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Formats: [06-ai-ugc-talking-head](../06-ai-ugc-talking-head/README.md), [43-hudson-method-creator-swarm](../43-hudson-method-creator-swarm/README.md), [01-faceless-niche-slideshow](../01-faceless-niche-slideshow/README.md)
 
 <!-- EVIDENCE:START -->
+## Wave 5 update: formats from non-selling content (Oct 2026)
+- Matt Gittleson's format-source ranking, best first: (1) content that isn't selling anything (a relationship format adapted to an unrelated client product, first video 60M+); (2) other niches (dropshippers, course sellers, ecom brands that already cracked the scroll-stop on worse economics); (3) direct competitors (a red ocean). Do 30 min a day of doomscrolling inside the niche and 30 min outside it, and scroll TikTok, not Reels: Reels runs about 2 weeks behind ([article](https://x.com/mattgittleson/status/2107530746923823444)).
+- Format checklist: viral right now; makes 50 variations; has survived a fatigue cycle (hit, dipped, came back); can carry the product on screen (a full demo or at least the name or logo).
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High reach (22.5M views) / AI-persona caveat · hype risk: Med · cost $0-500 · 2-4 h
 
 ## What it is
@@ -110,6 +111,9 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Pure Rhythm: Menopause reframe podcast (hair / energy), 326 days live (Podcast-Style Ads board). Identity and defiance ("not going to waste away") for women 50+.
 - Aucier: AI story ad: sister's autistic son's meltdowns (sensory product), 447 days live (AI & CGI Ads That Actually Convert board). A high-emotion family story, and the product is the turning point.
 - Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 5 update: Once wedding app, 15M+ (Oct 2026)
+- Matt Gittleson's "try naming the app" example: a creator in front of wedding footage (green-screen style) explains the Once disposable-camera event app: QR sign at the table, guests take 24 photos each, everything uploads to one gallery, App Store page at the end. 15M+ views, and the product is the purpose of the video ([article](https://x.com/mattgittleson/status/2107530746923823444)).
 
 ## Evidence from X discovery (auto-generated)
 

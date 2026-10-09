@@ -1,0 +1,55 @@
+{
+ "id": "F110",
+ "slug": "110-couples-prompt-mascot-slideshow",
+ "name": "Couples prompt slideshow with a mascot duo (\\\"5 slightly uncomfortable questions to ask your boyfriend\\\", \\\"this or that\\\", \\\"pick who's guilty, comment 1A 2B\\\")",
+ "title": "110 · Couples prompt slideshow with a mascot duo",
+ "n_examples": 1,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "in progress"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108536144896163993",
+   "file": "0000-00-00-jackfriks-2108536144896163993.md",
+   "kind": "cited",
+   "author": "jackfriks",
+   "date": "",
+   "url": "https://x.com/jackfriks/status/2108536144896163993",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

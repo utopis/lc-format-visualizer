@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P0** · evidence: Very high (522M-view case, 4.7M example, multiple app operators) · hype risk: Low-Med · cost $15-60 per creator video (or in-house) · 15-30 min per video once the template exists
 
 ## What it is

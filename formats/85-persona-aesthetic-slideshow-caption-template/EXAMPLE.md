@@ -20,14 +20,14 @@ Three TikTok profiles of AI persona pages, each a consistent aesthetic girl (bea
 | 2 | bee Fan 30 Following 2900 Followers 1.3M Likes Turn your iPhone into a vibe factory Search on Al Generated Edited Content uw mt Videos Liked Pinned a She edits her photos too much ee Wa ey, Nh sl os ct ts 51.9K She edits hi |
 | 3 | a Mia Ford 51 Following 2038 Followers 403.9K Likes Follow Nee Magic happens to your photos here Search on Mt uw Videos Liked ot edits her too much a ee Ya es ll he Db 17M Ore her photos too og mu inf |
 
-## More real examples (4)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@onlinedopamine](example/more/2082813772373098530.jpg)](https://x.com/onlinedopamine/status/2082813772373098530)<br>**@onlinedopamine** · images · 3K views<br>these are the types of outsized organic views you get on new accounts when you nail &gt; understanding of your target audience (= pinterest aesthetic | [![@g_buildz_apps](example/more/2096288782517457130.jpg)](https://x.com/g_buildz_apps/status/2096288782517457130)<br>**@g_buildz_apps** · image · 1K views<br>I started this account last month Over 1M+ views just on slideshows This brought me 10,000 downloads btw One slideshow account. https://t.co/plkjEqnwZ | [![@yassratti](example/more/2100554319070212573.jpg)](https://x.com/yassratti/status/2100554319070212573)<br>**@yassratti** · image · 5K views<br>bro is doing $9k a month with a single tiktok slideshow account 😭 that's wild as fuck and it's your wake up call build an app that fits a format explo |
-| [![@onlinedopamine](example/more/2077706055656558799.jpg)](https://x.com/onlinedopamine/status/2077706055656558799)<br>**@onlinedopamine** · 0:31 video · 5K views<br>this slideshow account is literally leaving money on the table, it's almost infuriating the account owner is going viral on basically every second pos |   |   |
+| [![@rsalimx](example/more/2108629140480168133.jpg)](https://x.com/rsalimx/status/2108629140480168133)<br>**@rsalimx** · images · 2K views<br>nah bro 😭 this is a fitness account with nothing in the bio 😭💔 every post is the exact same mirror selfie she’s prolly pulling 20m+ views a month and | [![@onlinedopamine](example/more/2082813772373098530.jpg)](https://x.com/onlinedopamine/status/2082813772373098530)<br>**@onlinedopamine** · images · 3K views<br>these are the types of outsized organic views you get on new accounts when you nail &gt; understanding of your target audience (= pinterest aesthetic | [![@g_buildz_apps](example/more/2096288782517457130.jpg)](https://x.com/g_buildz_apps/status/2096288782517457130)<br>**@g_buildz_apps** · image · 1K views<br>I started this account last month Over 1M+ views just on slideshows This brought me 10,000 downloads btw One slideshow account. https://t.co/plkjEqnwZ |
+| [![@yassratti](example/more/2100554319070212573.jpg)](https://x.com/yassratti/status/2100554319070212573)<br>**@yassratti** · image · 5K views<br>bro is doing $9k a month with a single tiktok slideshow account 😭 that's wild as fuck and it's your wake up call build an app that fits a format explo | [![@onlinedopamine](example/more/2077706055656558799.jpg)](https://x.com/onlinedopamine/status/2077706055656558799)<br>**@onlinedopamine** · 0:31 video · 5K views<br>this slideshow account is literally leaving money on the table, it's almost infuriating the account owner is going viral on basically every second pos |   |
 
 ## How to make one like it
 
@@ -133,6 +133,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - No reason to save: give a list, a checklist or a reference people come back to.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - No multi-account farms, rented-device networks, or fake personas (TikTok rules on inauthentic behavior). Image rights required. Disclose brand affiliation in the bio.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 5 update: @mayaviefit same-selfie system (Oct 2026)](README.md)
 
 ## More examples
 

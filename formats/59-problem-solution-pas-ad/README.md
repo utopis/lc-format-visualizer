@@ -32,6 +32,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium (framework, multi-source) · hype risk: Low · cost $0-150 · 1 h
 
 ## What it is
@@ -101,6 +102,10 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Deborah Hayes: "Spa treatments for belly fat don't work" two-layer explainer, 286 days live (AI & CGI Ads That Actually Convert board). A "what you tried doesn't work, here's the layer it misses" reframe, the same skeleton as F108's "3 layers".
 - BioRoot Labs: "Relief like ibuprofen without the stomach pain" ingredient static, 179 days live (AI Storytelling Ads: 13 Brands x 50 Longest-Running board). "Like X without the side effect": the known drug as an anchor, the side effect as the enemy.
 - Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
+
+## Wave 5 update: hook = product (Oct 2026)
+- Matt Gittleson: "The hook and the product have to be the same idea." Construction: **problem → promised relief → your product is the mechanism**. Examples: "STOP deleting your horizontal pics" and "here's how I FINALLY made my IG pics look aesthetic": the answer is the app, so the product is the payoff, not an interruption. **Removal test:** if the video still makes sense with the product removed, it will convert at zero. A storytelling video that slips the app in at second 67 works as content and fails as marketing ([article](https://x.com/mattgittleson/status/2107530746923823444)).
+- LC: "STOP taking your necklace off before the shower" → the relief is a necklace you never take off → LC waterproof gold is the mechanism.
 
 ## Evidence from X discovery (auto-generated)
 

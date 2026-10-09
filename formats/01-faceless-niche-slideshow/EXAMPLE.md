@@ -131,7 +131,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: slideshow volume via account farms (yurahulei), with caution](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
+Newer observations live in the playbook: [Wave 2c update: slideshow volume via account farms (yurahulei), with caution](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 5 update: persona mirror-selfie and agent-run slideshows (Oct 2026)](README.md)
 
 ## More examples
 

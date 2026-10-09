@@ -9,7 +9,7 @@ From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public
 - **What happens:** Plain kitchen talking head: "Hi, this is Mike. Rachel has asked me to explain why she has a new product line." No hook graphics, no music; he explains that the brand now has its own manufactured line and why the labels changed. Cut-ins of the product row on the counter.
 - **Why it lasts:** 481 days live, the longest in the preview. A trust update from a real person reads like a customer email, not an ad, and pre-empts the 'why did my product change?' objection for returning buyers.
 - **How to make one:** iPhone on a tripod at eye level, window light, kitchen counter with 5-6 products lined up behind; 60-75 s one take; captions only; no music.
-- **LC remake:** Jay/Qirra to camera: "Why our new pieces look a little different" (PVD upgrade, new clasp) → shows old vs new → 'same shower-proof promise'. Use for retention + warm audiences.
+- **LC remake:** Founder to camera: "Why our new pieces look a little different" (PVD upgrade, new clasp) → shows old vs new → 'same shower-proof promise'. Use for retention + warm audiences.
 
 <details><summary>Transcript</summary>
 

@@ -23,6 +23,7 @@ added: 2026-10-09 (wave 4: Fedotoff swipe boards)
 
 
 
+
 > **LC priority P2** · evidence: Medium-High (Fedotoff's men's-desire post + Penrose and testosterone boards) · hype risk: Medium (implied effects) · cost $0-300 · 1-3 h
 
 ## What it is

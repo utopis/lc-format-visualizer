@@ -27,6 +27,7 @@ related_strategies: [36-owned-winner-video-remix, 11-social-proof-credibility-en
 
 
 
+
 ## Looks like
 Creator in front of a green-screen background showing **LC's own winning ad/post** (or a screenshot of a viral comment), reacting/explaining. Comment-reply: TikTok/IG comment bubble sticker ("does this actually survive the ocean??") + answer video.
 
@@ -42,6 +43,10 @@ Overlay 3 comment-reply variants on the current top 2 winners (new Entity IDs). 
 [_COMPLIANCE.md](../_COMPLIANCE.md). Only react to LC's own assets or public comments (no other brands' videos); real comments only.
 
 <!-- EVIDENCE:START -->
+## Wave 5 update: comment section is half the job (Oct 2026)
+- Matt Gittleson: the first thing a viewer does after a good video is open the comments, so the top comment works as hard as the CTA. Watch from 10-20K views; reply fast to "what app is this?" (the highest-intent comment on the internet); remove flat negativity but keep healthy argument ([article](https://x.com/mattgittleson/status/2107530746923823444)).
+- Compliance: answering real questions from the brand account is fine. Seeding undisclosed comments from personal or fake accounts is astroturfing (FTC Endorsement Guides / platform rules), so LC doesn't do it.
+
 ## Evidence from X discovery (auto-generated)
 
 | Date | Author | Post | Engagement | Grade | Gist |

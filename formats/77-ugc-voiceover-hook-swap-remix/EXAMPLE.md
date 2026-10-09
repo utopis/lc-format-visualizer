@@ -165,6 +165,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Creator license must allow edits/VO; AI voices disclosed per platform rules; claims PDP-exact.
 
+## Field notes
+
+Newer observations live in the playbook: [Wave 5 update: iterate additively (Oct 2026)](README.md)
+
 ## More examples
 
 Every post we found for this format, with transcripts: [examples/](examples/README.md). Playbook: [README.md](README.md). Agent brief: [BOT.md](BOT.md).
