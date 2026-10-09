@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 61 · Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer)
 
 <!-- HERO:START -->
-[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+[![Featured example: @f3dericobartoli](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)**
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/f3dericobartoli/status/2039638255537201662)
 <!-- HERO:END -->
+
+
 
 
 

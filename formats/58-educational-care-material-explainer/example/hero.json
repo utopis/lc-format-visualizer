@@ -15,6 +15,7 @@
  "likes": 36,
  "views": 2554,
  "seen": "A vet or expert talking to camera with red caption labels, intercut with dogs (a golden retriever, a scruffy dog, a husky, a dog with a toy). It is an educational explainer about care, with the product as the solution.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -55,6 +56,44 @@
    "t": "0:19",
    "said": "It's their vitals, the breathing, the heart rate, sleep, how much they drink. That shifts way before your eyes catch a thing.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2077796327887450475",
+   "author": "taye_afola19505",
+   "url": "https://x.com/taye_afola19505/status/2077796327887450475",
+   "thumb": "example/more/2077796327887450475.jpg",
+   "kind": "0:44 video",
+   "cap": "Built a premium advertorial experience for @KYOM combining emotional storytelling, educational content, social proof, and conversion-focused design to",
+   "views": 908
+  },
+  {
+   "id": "2096280202103927187",
+   "author": "Bogzabs96",
+   "url": "https://x.com/Bogzabs96/status/2096280202103927187",
+   "thumb": "example/more/2096280202103927187.jpg",
+   "kind": "0:21 video",
+   "cap": "There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. ",
+   "views": 1379
+  },
+  {
+   "id": "2088172069703852134",
+   "author": "didicoding",
+   "url": "https://x.com/didicoding/status/2088172069703852134",
+   "thumb": "example/more/2088172069703852134.jpg",
+   "kind": "0:10 video",
+   "cap": "Most business owners are using AI to write captions. But AI can now help you create: - Product videos - Promotional videos - Ads - Brand stories - Edu",
+   "views": 121
+  },
+  {
+   "id": "2075809251919110498",
+   "author": "framesbysalman",
+   "url": "https://x.com/framesbysalman/status/2075809251919110498",
+   "thumb": "example/more/2075809251919110498.jpg",
+   "kind": "16:15 video",
+   "cap": "From founders and creators to brand owners, everyone is building their personal brand through: Educational content Vlogs Entertaining videos Launch co",
+   "views": 339
   }
  ]
 }

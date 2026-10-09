@@ -20,6 +20,8 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 31-founder-daily-posti
 
 
 
+
+
 ## Looks like
 Creator in a parked car (or walking), phone propped, talking fast and personal: "I couldn't even wait to go inside to tell you." One continuous story, light jump cuts, captions. Why it works ([@jennamediaco](https://x.com/jennamediaco/status/2106209597526540312)): car looks organic, a story the whole time, feels private and unscripted.
 

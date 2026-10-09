@@ -15,6 +15,7 @@
  "likes": 118,
  "views": 7889,
  "seen": "A retro late-80s TV infomercial: a big-haired presenter in a pink suit, a \"70% WATER\" starburst, a dermatology close-up, the product bottle (Magic serum) on a set, and a collage of archive-looking footage. The lo-fi era styling is the hook.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:03",
@@ -55,6 +56,35 @@
    "t": "0:45",
    "said": "550,000 plus women already love this. So, what are you waiting for?",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2088597593949692087",
+   "author": "CEO_Vlad",
+   "url": "https://x.com/CEO_Vlad/status/2088597593949692087",
+   "thumb": "example/more/2088597593949692087.jpg",
+   "kind": "0:26 video",
+   "cap": "AI pharmacist ad format: $5, 4 minutes (authority-figure risk).",
+   "views": 6885
+  },
+  {
+   "id": "2085467482224247014",
+   "author": "TomReichertWA",
+   "url": "https://x.com/TomReichertWA/status/2085467482224247014",
+   "thumb": "example/more/2085467482224247014.jpg",
+   "kind": "0:20 video",
+   "cap": "@CocaCola Quick jump to tick tock to dub in music to my Grok made clip now I made you a retro ad in a minute \ud83d\ude0e @nikitabier @X @elonmusk Hot weather gr",
+   "views": 90
+  },
+  {
+   "id": "2092191032645431595",
+   "author": "HenryCrochemore",
+   "url": "https://x.com/HenryCrochemore/status/2092191032645431595",
+   "thumb": "example/more/2092191032645431595.jpg",
+   "kind": "image",
+   "cap": "this static is weird enough to make you stop poo-pourri took a product nobody wants to think about and wrapped it in a polished retro ad the contrast ",
+   "views": 394
   }
  ]
 }

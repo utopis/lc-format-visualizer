@@ -33,6 +33,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@gauravsbuilding](example/more/2086540833717895480.jpg)](https://x.com/gauravsbuilding/status/2086540833717895480)<br>**@gauravsbuilding** · image · 5K views<br>Attention all founders who don't know how to market your app, it's fr this easy. Create IG + TikTok pages for: 1. Your Brand 2. AI Influencer 3. Theme | [![@shadcnblocks](example/more/2103741617194578191.jpg)](https://x.com/shadcnblocks/status/2103741617194578191)<br>**@shadcnblocks** · image · 309 views<br>Copy DESIGN.md from any theme Open Alpine, Vercel, or any theme page → Brand guidelines → Copy DESIGN.md. Then install tokens with the shadcn CLI. Age |   |
+
 ## How to make one like it
 
 **The format in one line:** A brand-owned (disclosed) niche meme page posting relatable memes where the product appears as a small card/sticker in the image — distribution via shares, not ads.
@@ -58,13 +66,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Meme video or image, platform native
+**Target length / size:** Static memes or 5-10s clips, daily, from an owned meme page
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Meme | Niche meme ("bro vs me", POV jokes) in the page's usual style | The joke |
-| 2 | Product card | The product pasted in as part of the joke (a product card, a screenshot) | One line |
-| 3 | Page | An owned meme page that posts daily | - |
+| 1 | Meme | Two-panel "bro vs me" or "them vs me" meme | "Them: takes jewellery off to shower. Me:" |
+| 2 | Product card | Small product card in the second panel | - |
+| 3 | Caption | - | "if you know you know" |
+| 4 | Cadence | Daily posting from the page; product in 1 of 4 posts | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -89,7 +98,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Meme bank (Claude)**
 
 ```text
-Give me 30 meme ideas for a page about [niche] where [product] is the punchline in 5 of them.
+Write 30 two-panel meme captions for [niche] where panel two shows the product as the obvious answer; no punching down.
+```
+
+**Tools**
+
+```text
+Canva meme templates or Imgflip; keep the page's look consistent.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -131,8 +146,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Owned pages must disclose the brand connection.
-- Only meme templates you can use; no copyrighted clips.
+- Use meme formats you have rights to; avoid copyrighted stills for paid ads.
+- Product in at most one in four posts.
+- Label the page as brand-owned in the bio.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

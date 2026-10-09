@@ -24,6 +24,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P0** · evidence: High (multiple operators + first-party data) · hype risk: Med · cost $100-400 per creator/month + product + commission · ongoing program (VA + 5-10 h/week)
 
 ## What it is

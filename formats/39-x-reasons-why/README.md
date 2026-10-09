@@ -24,6 +24,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: High (framework in multiple systems) · hype risk: Low · cost $0-50 · 20-40 min
 
 ## What it is

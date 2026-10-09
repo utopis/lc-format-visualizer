@@ -45,6 +45,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@FedotOff90](example/more/2107184145541853536.jpg)](https://x.com/FedotOff90/status/2107184145541853536)<br>**@FedotOff90** · image · 5K views<br>"The ugly ads print" — weird visuals stop the scroll, long copy sells; 122-ad Native Unusual Visuals board. | [![@Simon__Rob](example/more/2089448804676239424.jpg)](https://x.com/Simon__Rob/status/2089448804676239424)<br>**@Simon__Rob** · 1:27 video · 5K views<br>this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats co |   |
+
 ## How to make one like it
 
 **The format in one line:** A deliberately odd, low-polish photo (product in a weird place, strange crop, unexpected object) paired with long, story-driven primary text. Steal the visual idea and keep your own copy.
@@ -70,12 +78,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 odd image + long story copy
+**Target length / size:** 1 odd image (1080x1350) + 250-500 word primary text
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Image | A deliberately odd photo: the necklace on a lemon, in a fish tank, on a dog toy | - |
-| 2 | Copy | A long, story-driven primary text that explains the weird photo | "Why is our necklace in a fish tank? Because..." |
+| 1 | Image | A deliberately strange but relevant photo: the necklace in a fish tank, on a lemon, coiled in a cereal bowl. Phone-shot, slightly off-centre, no text on image | - |
+| 2 | Copy line 1 | - | Explains the weirdness: "Yes, that's our necklace in my son's fish tank. It's been in there 3 weeks." |
+| 3 | Copy body | - | The story: why it's there (a dare / a test), what happened, what it proves (waterproof) |
+| 4 | Copy close | - | Offer + a P.S. that callbacks the image: "P.S. The fish are fine." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -96,10 +106,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Idea bank**
+**Idea bank (Claude)**
 
 ```text
-List 20 weird-but-relevant places to photograph [product] that each prove a benefit (water, durability, giftability).
+List 20 weird-but-true places to photograph [product] that each prove one benefit (water, sweat, durability, giftability). For each, a first line that explains the photo in under 15 words.
+```
+
+**Shoot**
+
+```text
+iPhone, daylight, no styling; the image should look like a friend sent it.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -144,7 +160,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Weird, not misleading.
+- Weird, not misleading: the photo must show something that really happened.
+- If the image needs explaining, line 1 of the copy must explain it.
+- Don't test more than one weird image per ad set; you won't know which one worked.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

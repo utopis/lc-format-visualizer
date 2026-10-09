@@ -2,6 +2,8 @@
 
 Each format is a folder: `EXAMPLE.md` (see a real example, then how to make it) · `README.md` (playbook) · `BOT.md` (plug-in generator brief) · `STAGES.md` + `stages/` · `brands/louise-carter.md` · `examples/` (every X post we hold) · `meta.json`.
 
+**Funnel coverage:** [COVERAGE.md](COVERAGE.md) places every format on the funnel and shows where the evidence is thin.
+
 To add a new format: copy any folder, rename to the next `NN-slug`, rewrite README.md, then run `python3 _tools/folderize_formats.py` and `python3 _tools/build_visualizer.py`.
 
 | Format | See it | Examples |

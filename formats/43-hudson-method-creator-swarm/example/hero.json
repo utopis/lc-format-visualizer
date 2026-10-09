@@ -15,6 +15,7 @@
  "likes": 16,
  "views": 2491,
  "seen": "A TikTok Shop creator explaining the \"Hudson method\" to camera (in a hoodie), with screenshots of analytics (14.4M views, GMV), then a grid of many creator accounts all posting the same product.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:05",
@@ -55,6 +56,44 @@
    "t": "1:23",
    "said": "All you need to do is plug in with affiliate pages and social media pages that are already viral in your niche. If you're an Ecom brand and ",
    "ocr": "en months Ls: us ba a 499 re Za we Or it 413 Ps, ae commerce brand and you wanna steal a this method, Sw a"
+  }
+ ],
+ "more": [
+  {
+   "id": "2092368368968049118",
+   "author": "ai_cult1",
+   "url": "https://x.com/ai_cult1/status/2092368368968049118",
+   "thumb": "example/more/2092368368968049118.jpg",
+   "kind": "47:51 video",
+   "cap": "Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months).",
+   "views": 49
+  },
+  {
+   "id": "2084739019187847201",
+   "author": "pixclipper",
+   "url": "https://x.com/pixclipper/status/2084739019187847201",
+   "thumb": "example/more/2084739019187847201.jpg",
+   "kind": "0:40 video",
+   "cap": "Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, ",
+   "views": 26301
+  },
+  {
+   "id": "2051293081920758018",
+   "author": "BoraMutluoglu",
+   "url": "https://x.com/BoraMutluoglu/status/2051293081920758018",
+   "thumb": "example/more/2051293081920758018.jpg",
+   "kind": "image",
+   "cap": "Hudson Method from Comfrt founder masterminds: thousands of samples/mo, $5k+ bonuses for 100+ videos/mo, run creator content on Meta/Snap/YT, keep pay",
+   "views": 500
+  },
+  {
+   "id": "2107504952977317898",
+   "author": "joshelizetxe",
+   "url": "https://x.com/joshelizetxe/status/2107504952977317898",
+   "thumb": "example/more/2107504952977317898.jpg",
+   "kind": "image",
+   "cap": "I paid a celebrity $250,000 for a holiday post that generated under $35,000 in sales. Our blended customer acquisition cost spiked to over $300 on a $",
+   "views": 503
   }
  ]
 }

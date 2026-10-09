@@ -52,6 +52,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@richardbrien](example/more/2103478126928138309.jpg)](https://x.com/richardbrien/status/2103478126928138309)<br>**@richardbrien** · images · 91 views<br>"Breaking News" style ad creative crushes harder than any other format across long periods of time. https://t.co/5XAPPNoLf7 |   |   |
+
 ## How to make one like it
 
 **The format in one line:** The ad borrows news grammar: "BREAKING" lower-third, anchor-style delivery or a news-article screenshot announcing something genuinely new (launch, milestone, restock, real press). Video = creator as reporter on green screen; static = headline card.

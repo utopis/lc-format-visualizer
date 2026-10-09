@@ -15,6 +15,7 @@
  "likes": 5,
  "views": 310,
  "seen": "A creator filming herself in the driver's seat with the sunroof open, talking fast and casually to the phone, with sunglasses on for the sign-off. It is one continuous car-talk monologue with captions.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,62 @@
    "t": "0:34",
    "said": "lathees. If you're tired of your card declining, download Bri today.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2107526350605070475",
+   "author": "hectorserrranoo",
+   "url": "https://x.com/hectorserrranoo/status/2107526350605070475",
+   "thumb": "example/more/2107526350605070475.jpg",
+   "kind": "2:06 video",
+   "cap": "Wispr Flow paid UGC program: what companies get wrong.",
+   "views": 15168
+  },
+  {
+   "id": "2106136430556672384",
+   "author": "hectorserrranoo",
+   "url": "https://x.com/hectorserrranoo/status/2106136430556672384",
+   "thumb": "example/more/2106136430556672384.jpg",
+   "kind": "0:56 video",
+   "cap": "Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue).",
+   "views": 7595
+  },
+  {
+   "id": "2106209597526540312",
+   "author": "jennamediaco",
+   "url": "https://x.com/jennamediaco/status/2106209597526540312",
+   "thumb": "example/more/2106209597526540312.jpg",
+   "kind": "image",
+   "cap": "Simple in-car talking head ad scaling: car = organic, story throughout.",
+   "views": 1351
+  },
+  {
+   "id": "2097636391798854069",
+   "author": "tiffanyxugc",
+   "url": "https://x.com/tiffanyxugc/status/2097636391798854069",
+   "thumb": "example/more/2097636391798854069.jpg",
+   "kind": "0:42 video",
+   "cap": "#ugcexample of a yapper style script read in the car, edited by their team \ud83c\udf6c I had creative freedom to take this script &amp; make it my own which mak",
+   "views": 159
+  },
+  {
+   "id": "2087571793452118181",
+   "author": "houseofjenUGC",
+   "url": "https://x.com/houseofjenUGC/status/2087571793452118181",
+   "thumb": "example/more/2087571793452118181.jpg",
+   "kind": "0:54 video",
+   "cap": "Talking head in the car example! Yapping UGC as a mom ugc creator Hello@houseofjenugc.com https://t.co/4hlMiWlhlS",
+   "views": 145
+  },
+  {
+   "id": "2106794963006861535",
+   "author": "harrydelmege_",
+   "url": "https://x.com/harrydelmege_/status/2106794963006861535",
+   "thumb": "example/more/2106794963006861535.jpg",
+   "kind": "image",
+   "cap": "RolyPoly yapper ads: $154.5k spend in a single day across 1,635 ads; single ads at $45.1k and $33.1k; hook rates 44-62%, hold 31-48% (Ads Manager scre",
+   "views": 19262
   }
  ]
 }

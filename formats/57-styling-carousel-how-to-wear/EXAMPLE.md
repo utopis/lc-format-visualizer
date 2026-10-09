@@ -41,6 +41,15 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 </details>
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@JREMERALD](example/more/1923138423730082122.jpg)](https://x.com/JREMERALD/status/1923138423730082122)<br>**@JREMERALD** · 0:44 video · 81 views<br>How to Stack Green Emerald & Diamond Jewelry Like a Pro 💚 Rings, Bracelets, Earrings & Necklaces #diamondnecklace #emeraldnecklace #diamondring #emera | [![@AprilNJennywang](example/more/1639052220145750016.jpg)](https://x.com/AprilNJennywang/status/1639052220145750016)<br>**@AprilNJennywang** · 0:28 video · 10 views<br>How to stack rings like a pro!#jewelry #fashion #jewellery #handmade #earrings #accessories #necklace #gold #handmadejewelry #love #style #jewelrydesi | [![@RoyElevate](example/more/1662465795333701632.jpg)](https://x.com/RoyElevate/status/1662465795333701632)<br>**@RoyElevate** · 0:15 video · 11 views<br>How to Layer Delicate Necklaces; Check more at http://royelevate.com #reels #trending #jewelry #necklace #foryou #royelevate |
+| [![@Atelier12Bis](example/more/1629002990211444737.jpg)](https://x.com/Atelier12Bis/status/1629002990211444737)<br>**@Atelier12Bis** · images · 498 views<br>New wrap necklaces ! So many ways to wear them !!! #necklace #beads #handmade #wrapnecklace #beadedjewelry #collana #handmadeaccessory #ネクレス #ビーズ #col | [![@happy_place247](example/more/2087866038750736389.jpg)](https://x.com/happy_place247/status/2087866038750736389)<br>**@happy_place247** · 0:27 video · 1K views<br>As a fashion vendor, you could simply put your outfits on a mannequin, or you could show potential customers what those same pieces actually look like |   |
+
 ## How to make one like it
 
 **The format in one line:** A 5-8 card carousel that answers "how will I actually wear this?": one piece styled 5 ways, or how several pieces build one look. Each card evolves the story (hook → looks → proof → CTA) instead of repeating one message.
@@ -66,13 +75,16 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 6-10 slides or 15-30s outfit-change video
+**Target length / size:** 5-8 slide carousel, 1080x1350
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Cover | The full stack worn | "5 ways to wear one necklace" |
-| 2 | Slides 2-6 | One styling per slide (layered, single, with a turtleneck, beach, office) | Short caption each |
-| 3 | Last | All pieces flat lay | Names + prices |
+| 1 | Slide 1 | Neck close-up with a 3-layer stack | "How to stack necklaces without them tangling" |
+| 2 | Slide 2 | Base layer: short chain | "1. Start short: 40cm" |
+| 3 | Slide 3 | Second layer: pendant | "2. Add a pendant at 45cm" |
+| 4 | Slide 4 | Third layer: long chain | "3. Finish long: 50cm+" |
+| 5 | Slide 5 | Mixed textures | "4. Mix textures: paperclip + snake" |
+| 6 | Slide 6 | Full stack, product names | "Shop the stack: any 7 for $85" |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -103,7 +115,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Shoot**
 
 ```text
-Same model, same light, turntable or same mirror spot, change one variable per look.
+Same model, same light, neckline visible, plain top; shoot each layer added.
+```
+
+**Claude**
+
+```text
+Write 10 styling carousels (necklace stacks, ring stacks, ear stacks) with exact lengths and piece names from [catalogue].
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -147,8 +165,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Consistency of framing makes it look editorial.
-- Show close-ups too; full-body shots make jewelry invisible.
+- Lengths must be accurate to the products.
+- Name the pieces so people can buy them.
+- One idea per slide.
 - A weak first slide: nobody swipes past a boring cover.
 - No reason to save: give a list, a checklist or a reference people come back to.
 

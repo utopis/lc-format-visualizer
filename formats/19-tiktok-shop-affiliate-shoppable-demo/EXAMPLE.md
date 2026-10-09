@@ -40,6 +40,15 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 </details>
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@maverickecom](example/more/2079593540380684296.jpg)](https://x.com/maverickecom/status/2079593540380684296)<br>**@maverickecom** · 0:40 video · 10K views<br>550 AI videos/day via AI affiliate army (bulk-account; not compliant). | [![@maverickecom](example/more/2107470108515782720.jpg)](https://x.com/maverickecom/status/2107470108515782720)<br>**@maverickecom** · image · 11K views<br>Repurpose winning TTS content across hundreds of creator-style accounts (bulk-account; not compliant). | [![@maverickecom](example/more/2103191756153962752.jpg)](https://x.com/maverickecom/status/2103191756153962752)<br>**@maverickecom** · 0:43 video · 17K views<br>Hormozi loves affiliate marketing. In ecom the proper method for affiliate marketing is scaling an affiliate army. Here’s what that actually means — a |
+| [![@maverickecom](example/more/2103878538851950958.jpg)](https://x.com/maverickecom/status/2103878538851950958)<br>**@maverickecom** · image · 2K views<br>GPT Astra + Fastmoss + Manus + Omni Flow = AI Content Factory We built a fully automated system that repurposes, localizes, and launches winning TikTo | [![@maverickecom](example/more/2078105645757178124.jpg)](https://x.com/maverickecom/status/2078105645757178124)<br>**@maverickecom** · images · 2K views<br>4 years and over $1M GMV into TikTok Shop, here's what I've been surprised to learn. 1. Products must be new, in season, or niche. Videos must be inte |   |
+
 ## How to make one like it
 
 **The format in one line:** 15-40s creator video with orange shopping cart: unboxing → put on → water test → "linked below / tap the cart". One hook per video pulled from real reviews (@maverickecom). Seed widely: 1,000 free samples/month (@NotZainAgain playbook); creators doing 4+ ads get their own ad set (@zachlduncan Trybe structure); use Trybe as a **performance** platform, not gifting (@httpsean_ca).

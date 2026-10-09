@@ -15,6 +15,7 @@
  "likes": 344,
  "views": 53762,
  "seen": "A run of AI-made and real beauty talking heads: a TV-shopping set (\"LIVE MASCARA DEMO\"), tight face close-ups that read like UGC, a before/after face and a mannequin head. The speaker talks straight to camera with captions.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:08",
@@ -55,6 +56,62 @@
    "t": "2:11",
    "said": "That was just two passes on each eyelash. It really is a total game changer. If you're a woman at home watching over 40, you need to see it ",
    "ocr": "BEAUTY il LIVES HERE ah LOC cD a a Ps"
+  }
+ ],
+ "more": [
+  {
+   "id": "2101352217089282066",
+   "author": "kristian_jennin",
+   "url": "https://x.com/kristian_jennin/status/2101352217089282066",
+   "thumb": "example/more/2101352217089282066.jpg",
+   "kind": "31:13 video",
+   "cap": "AI UGC looks fake because of a missing step (realism workflow video).",
+   "views": 231150
+  },
+  {
+   "id": "2107552798842003488",
+   "author": "zedmadeit",
+   "url": "https://x.com/zedmadeit/status/2107552798842003488",
+   "thumb": "example/more/2107552798842003488.jpg",
+   "kind": "1:58 video",
+   "cap": "Intentional AI ad system starting from brand/product/customer, visuals matched to script.",
+   "views": 20282
+  },
+  {
+   "id": "2092612451623694388",
+   "author": "eliasrrecom",
+   "url": "https://x.com/eliasrrecom/status/2092612451623694388",
+   "thumb": "example/more/2092612451623694388.jpg",
+   "kind": "1:26 video",
+   "cap": "Realistic AI UGC ads tutorial.",
+   "views": 54138
+  },
+  {
+   "id": "2100960479577362499",
+   "author": "ladprofit",
+   "url": "https://x.com/ladprofit/status/2100960479577362499",
+   "thumb": "example/more/2100960479577362499.jpg",
+   "kind": "0:12 video",
+   "cap": "Seedance AI UGC page for Veterans Day: same B-roll, new hook each post, trending audio, comment-keyword link (comment-gated teardown).",
+   "views": 2485
+  },
+  {
+   "id": "2089713928511345017",
+   "author": "adamtaylorl",
+   "url": "https://x.com/adamtaylorl/status/2089713928511345017",
+   "thumb": "example/more/2089713928511345017.jpg",
+   "kind": "images",
+   "cap": "Hike Footwear ad 100% AI.",
+   "views": 21733
+  },
+  {
+   "id": "2108405736245952955",
+   "author": "CEO_Vlad",
+   "url": "https://x.com/CEO_Vlad/status/2108405736245952955",
+   "thumb": "example/more/2108405736245952955.jpg",
+   "kind": "0:20 video",
+   "cap": "Audio is what makes AI UGC feel real; one robotic sentence kills it.",
+   "views": 21
   }
  ]
 }

@@ -15,6 +15,7 @@
  "likes": 0,
  "views": 63,
  "seen": "A creator in front of a green screen of news articles (Hollywood box office, Warner Bros) reacting and explaining, then the green screen switches to the product (the \"Dailies\" newsletter signup page). It is UGC commentary with the background as the visual.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:03",
@@ -55,6 +56,26 @@
    "t": "0:55",
    "said": "Honestly, at this point, it's not even about trying it. It's about what you're missing if you're not reading it. It's completely free, so it",
    "ocr": "5-minute newsletter that keeps film tv professionals in the loop, every Monday, Wednesday. and Friday. 23 ,000 readers P"
+  }
+ ],
+ "more": [
+  {
+   "id": "2092620077946614206",
+   "author": "TheJeremyHaynes",
+   "url": "https://x.com/TheJeremyHaynes/status/2092620077946614206",
+   "thumb": "example/more/2092620077946614206.jpg",
+   "kind": "18:23 video",
+   "cap": "Ranking every ad creative format worst->best (video).",
+   "views": 15903
+  },
+  {
+   "id": "2078944255465439652",
+   "author": "sincerelydawnUG",
+   "url": "https://x.com/sincerelydawnUG/status/2078944255465439652",
+   "thumb": "example/more/2078944255465439652.jpg",
+   "kind": "0:14 video",
+   "cap": "Here\u2019s a recent ad where the brand requested green screen ads while the product ships! Portfolio: https://t.co/8dOkKM0Yrz Email: sincerelydawn.ugc@gma",
+   "views": 233
   }
  ]
 }

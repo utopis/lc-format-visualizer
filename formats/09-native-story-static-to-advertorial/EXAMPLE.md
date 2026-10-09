@@ -18,6 +18,15 @@ A Facebook-native illustrated comic. The caption opens with a story hook ("Mom l
 |---|---|
 | 1 | 40 ads: Mom left for a business trip, leaving me See more alone with my stepfather Johan for the... Pos as eC |
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@antonioventre_](example/more/2078512377616589256.jpg)](https://x.com/antonioventre_/status/2078512377616589256)<br>**@antonioventre_** · image · 5K views<br>Before/after photos are best native ad image: change creates curiosity; long copy tells story. | [![@blvckledge](example/more/2083175922048647671.jpg)](https://x.com/blvckledge/status/2083175922048647671)<br>**@blvckledge** · image · 7K views<br>Advertorials outperform PDP for Google Shopping traffic. | [![@EcomTable](example/more/2100980324633063694.jpg)](https://x.com/EcomTable/status/2100980324633063694)<br>**@EcomTable** · image · 21K views<br>Ad-spy filters: top 10-25%, image, active, 14+ day run, 2,500+ char copy -> find long-copy native winners. |
+| [![@antonioventre_](example/more/2107899522353381868.jpg)](https://x.com/antonioventre_/status/2107899522353381868)<br>**@antonioventre_** · image · 20K views<br>Story ad >1M reach: wife/work-wife anniversary drama, no product in first 40 words, revenge payoff. | [![@tryatria_AI](example/more/2105745816828940336.jpg)](https://x.com/tryatria_AI/status/2105745816828940336)<br>**@tryatria_AI** · image · 4K views<br>Static hook 'My sister slept with my husband' vs generic benefit lines. | [![@antonioventre_](example/more/2106778634006442013.jpg)](https://x.com/antonioventre_/status/2106778634006442013)<br>**@antonioventre_** · image · 2K views<br>The structure I use for story ads, in video and in long primary text: 1 - Hook: the problem, not the product 2 - Problem: make it specific enough that |
+
 ## How to make one like it
 
 **The format in one line:** Looks like a friend's Facebook post, not an ad: a person's name as page ("Claire Parker · Sponsored"), first line is a story ("My husband's 'work wife' came to Barbados with us. Our anniversary. His idea. 'Don't make this weird,' he said…"), a candid phone photo, **nothing about the product in the first 40 words**, then a long story (300-2,500 chars) where the product lands as the thing she used (

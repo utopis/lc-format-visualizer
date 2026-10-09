@@ -34,6 +34,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@stephenfung_dev](example/more/2089528727445062001.jpg)](https://x.com/stephenfung_dev/status/2089528727445062001)<br>**@stephenfung_dev** · image · 5K views<br>Results of buying this ad spot: 358 downloads (+29% week over week) $121.67 in revenue (+114% week over week) $62 in MMR (+75% week over week) 1 - 1 s |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A review-card or creator reading a "1-star review" whose complaint is actually a benefit ("1 star: I can't find a reason to take it off"), or a brand "we're sorry" apology for a positive problem ("we're sorry the herringbone sold out again"). Must use real reviews or be clearly the brand's own joke.
@@ -59,14 +67,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Review card static or 15-30s video
+**Target length / size:** 1 static 1080x1350 or a 10-15s video
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-2s | A 1-star review card, big | "★☆☆☆☆ I can't find a reason to take it off." |
-| 2 | 2-10s | Creator or brand reads it, deadpan | "Fair." |
-| 3 | 10-20s | Proof that the complaint is the benefit | Shower, sea, sleep footage |
-| 4 | End | Product | Offer |
+| 1 | Main | A 1-star review card, real-looking, with the "complaint" | "1/5: My husband keeps asking where my necklace is from and I'm tired of answering." |
+| 2 | Product | The necklace on the reviewer's neck, or on its own | - |
+| 3 | Video version | Creator reads the "complaint" deadpan | "Worst purchase. I can't take it off. Literally, I don't need to." |
+| 4 | End | Offer | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -91,10 +99,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Copy**
+**Claude**
 
 ```text
-Write 20 fake-complaint lines that are clearly jokes and secretly benefits. Label them as a joke ("a review we wish we got") unless they are real reviews.
+Write 15 backhanded "complaints" about [product] where the complaint is really a benefit (too many compliments, never wears out). Keep them short and dry.
+```
+
+**Figma**
+
+```text
+Review card with stars, name, "Verified buyer" tag; make it obviously a playful creative.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -139,7 +153,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- A made-up review presented as real is a fake testimonial; frame it as a joke or use a real one.
+- If you present it as a real review, it must be a real review.
+- Otherwise make the joke obvious so nobody is misled.
+- Keep the benefit inside the joke concrete.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

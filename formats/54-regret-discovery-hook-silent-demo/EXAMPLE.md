@@ -33,6 +33,15 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@themariaines](example/more/2108191952047153611.jpg)](https://x.com/themariaines/status/2108191952047153611)<br>**@themariaines** · 0:14 video · 2K views<br>Same hook, same format, different app: Albo 891.8K views, $70K/mo — "been shopping at Aldi for 10 years and NOW I FIND THIS" + silent demo. | [![@themariaines](example/more/2086845144230416463.jpg)](https://x.com/themariaines/status/2086845144230416463)<br>**@themariaines** · 0:43 video · 18K views<br>miso: $100K MRR and 100K downloads 5 weeks after launch with the regret-discovery hook; one video 8.0M views, 200K shares. | [![@PerezHatesAI](example/more/2107132379123077221.jpg)](https://x.com/PerezHatesAI/status/2107132379123077221)<br>**@PerezHatesAI** · 0:42 video · 3K views<br>I need to sit down 😭 29.3M views. 376K saves. 121K shares. For a meal planning app. The hook isn't the app. It's this line: "been shopping at Aldi lit |
+| [![@danclipping](example/more/2075946162235011466.jpg)](https://x.com/danclipping/status/2075946162235011466)<br>**@danclipping** · 0:15 video · 25K views<br>$976K/month is crazy This is a study/homework helper AI app with 350 million users Just from UGC creators They run formats like "I just found this app | [![@ColinMaddenUGC](example/more/2097280776421126601.jpg)](https://x.com/ColinMaddenUGC/status/2097280776421126601)<br>**@ColinMaddenUGC** · image · 8K views<br>Our 1.8k-follower UGC creator pulled 12.2M views while some 400k-follower ones can’t even hit 10k… We’ve seen this happen across 100s of brands and th | [![@pixclipper](example/more/2090016988223430845.jpg)](https://x.com/pixclipper/status/2090016988223430845)<br>**@pixclipper** · 0:26 video · 14K views<br>this app crossed $100K revenue and 100K downloads in under 50 days 🤯 their whole strategy is one ugc format on repeat: - shocked face reaction - a sna |
+
 ## How to make one like it
 
 **The format in one line:** A 2-4 second selfie of genuine exasperation/disbelief (hand on forehead, near-tears, "no way") with a caption that names a long habit + a specific place/brand the viewer shares — "been shopping at ALDI for 8 years and NOW I FIND THIS ???" — then a silent, hands-only demo of the product doing the thing. Almost no words, so any creator in any country can re-shoot it.
@@ -58,13 +67,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 15-45s, 1080x1920
+**Target length / size:** 15-30s, 1080x1920, silent demo
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Selfie reaction, exasperated | Text: "been buying gold-plated for 10 years and NOW I find this??" |
-| 2 | 3-40s | Silent demo: hands only, product under the tap, rubbing, the clasp | No voice; text hook stays on screen |
-| 3 | End | Product | Optional caption CTA |
+| 1 | 0-3s | Text on screen over a hand holding the necklace | "Been buying gold jewellery for 15 years and NOW I find this???" |
+| 2 | 3-10s | Silent demo: shower water over the chain | - |
+| 3 | 10-18s | Sea dip, then the chain still bright | - |
+| 4 | 18-24s | Close-up of the stack | "14K PVD. Waterproof." |
+| 5 | End | Offer | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -92,10 +103,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Edit**
+**Hook bank (Claude)**
 
 ```text
-Keep the hook text pinned for the whole video, white text on a black box, top third.
+Write 15 variations of "Been doing X for N years and NOW I find this???" for [audience], each with a specific number and habit.
+```
+
+**Shoot**
+
+```text
+Macro clips, no voice, trending sound low.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -144,8 +161,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- The featured example ran the same wordless video across 18 accounts; account-farm tactics must follow platform rules.
-- The demo must be real.
+- The number of years must be plausible for the person shown.
+- The demo has to prove the hook.
+- Keep text on screen to the hook and one benefit.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

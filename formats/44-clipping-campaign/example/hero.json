@@ -15,6 +15,7 @@
  "likes": 44,
  "views": 2687,
  "seen": "A 4-second shocked-reaction hook (a woman covering her face and reading the fact on screen), then the app screen (a purple mascot with a body fact). It is one tiny format repeated across many clipping accounts.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:00",
@@ -45,6 +46,62 @@
    "t": "0:07",
    "said": "",
    "ocr": "Cycle day of 28 ee my dragon taught me!! phase Itch levels are at an all-time high. Hormonal chaos is in full swing, and"
+  }
+ ],
+ "more": [
+  {
+   "id": "2092441815739670637",
+   "author": "alexzgirbu",
+   "url": "https://x.com/alexzgirbu/status/2092441815739670637",
+   "thumb": "example/more/2092441815739670637.jpg",
+   "kind": "images",
+   "cap": "Clipper earns ~$3k per 1M views cutting streams/vlogs into short clips submitted to Content Rewards/Clipping Net/Clipster campaigns.",
+   "views": 2297
+  },
+  {
+   "id": "2107495566225834123",
+   "author": "natiakourdadze",
+   "url": "https://x.com/natiakourdadze/status/2107495566225834123",
+   "thumb": "example/more/2107495566225834123.jpg",
+   "kind": "image",
+   "cap": "The easiest way to get banned on Clip Brand? A bot score of 99. Don't submit videos with fake views. Content Rewards detects bots, and we can see it r",
+   "views": 1331
+  },
+  {
+   "id": "2077533819905744955",
+   "author": "LinoLeighton",
+   "url": "https://x.com/LinoLeighton/status/2077533819905744955",
+   "thumb": "example/more/2077533819905744955.jpg",
+   "kind": "images",
+   "cap": "Currently at 60 clippers now for side app. I\u2019ve only spent $430 on this faceless clipping campaign so far and it\u2019s currently on around 10X return. Ove",
+   "views": 31668
+  },
+  {
+   "id": "2085667455062389146",
+   "author": "alexxgrowth",
+   "url": "https://x.com/alexxgrowth/status/2085667455062389146",
+   "thumb": "example/more/2085667455062389146.jpg",
+   "kind": "images",
+   "cap": "doordash did $13.7 BILLION in revenue last year they have one of the best marketing teams on the planet and they just launched something called Cringe",
+   "views": 10019
+  },
+  {
+   "id": "2082914407567462902",
+   "author": "savixbt",
+   "url": "https://x.com/savixbt/status/2082914407567462902",
+   "thumb": "example/more/2082914407567462902.jpg",
+   "kind": "image",
+   "cap": "clippers in the house, @blknoiz06 just drop a clipping campaign for clippers there\u2019s $10,000 in $ANSEM reward every month for clippers. requirements: ",
+   "views": 1017
+  },
+  {
+   "id": "2103032078514246093",
+   "author": "Dkevs_",
+   "url": "https://x.com/Dkevs_/status/2103032078514246093",
+   "thumb": "example/more/2103032078514246093.jpg",
+   "kind": "image",
+   "cap": "if you\u2019re a founder and you haven\u2019t launched your own clipping campaign yet just start. it\u2019s one of the cheapest ways to distribute your content at sc",
+   "views": 896
   }
  ]
 }

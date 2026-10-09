@@ -1,8 +1,40 @@
 # 73 · 'The Cheat Code' / life-hack static (the product as the shortcut): see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @bluestone_com's post](example/storyboard.jpg)](https://x.com/bluestone_com/status/1748311425330622859)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@bluestone_com on X](https://x.com/bluestone_com/status/1748311425330622859) · 0:13 video · 4 likes, 135 views
+
+**Watch it:** [open the post on X](https://x.com/bluestone_com/status/1748311425330622859) · [play the video file](https://video.twimg.com/ext_tw_video/1748311361606553600/pu/vid/avc1/540x540/gz4SAH0dplrEQ5qb.mp4?tag=12)
+
+> Keep that proposal ring closer to your heart with this clever jewellery hack! 💍 🔗Shop The Bonny Ring: https://bitly.ws/3afgv #JewelleryHack #Style #FineJewellery #ProposalRing #hack #FridayFun #BlueStone
+
+## What you are seeing
+
+A 12-second jewellery 'hack' from Indian jeweller BlueStone: on-screen title "Pro tip: Wear your ring as a necklace". Hands thread a ring onto a fine chain and fasten it around the neck, ending on the BlueStone logo. The product is the trick.
+
+## Beat by beat
+
+The storyboard above samples the video every 0:01. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+
+| Frame | Time | On screen | Said / sung |
+|---|---|---|---|
+| 1 | 0:00–0:01 | Pro Tip: Wear your ring as ha, | · |
+| 2 | 0:01–0:03 | · | · |
+| 3 | 0:03–0:05 | fy my tre ae ee a | · |
+| 4 | 0:05–0:06 | · | · |
+| 5 | 0:06–0:08 | · | · |
+| 6 | 0:08–0:10 | · | · |
+| 7 | 0:10–0:11 | · | · |
+| 8 | 0:11–0:13 | · | · |
+
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@TheLittStore](example/more/1759496322753741209.jpg)](https://x.com/TheLittStore/status/1759496322753741209)<br>**@TheLittStore** · 0:09 video · 2K views<br>Our favourite jewellery hack for rings that we swear by and you’ll never regret is ✨Adjustable Rings✨ The most important thing about adjustable rings | [![@vincent_alonzi](example/more/2088876642840277159.jpg)](https://x.com/vincent_alonzi/status/2088876642840277159)<br>**@vincent_alonzi** · 0:55 video · 2K views<br>Trendtrack is a cheat code guys Meta, TikTok, Google, Emails Ads rank, EU ad spend, LPs... In one click, you have the entire e-com funnel of any shop | [![@SEOKeval](example/more/2080403580260110750.jpg)](https://x.com/SEOKeval/status/2080403580260110750)<br>**@SEOKeval** · image · 13K views<br>Investing in Google Ads is the ultimate SEO cheat code. It literally gives you data on what keywords convert into sales. All you have to do is rank fo |
+| [![@PerezHatesAI](example/more/2106779894785188006.jpg)](https://x.com/PerezHatesAI/status/2106779894785188006)<br>**@PerezHatesAI** · images · 2K views<br>This is wild 😭 4.3M views. 250K saves. On a "weird habits" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that "actually | [![@doublenickk](example/more/2093709535231840277.jpg)](https://x.com/doublenickk/status/2093709535231840277)<br>**@doublenickk** · 0:47 video · 6K views<br>This is a f**king cheat code Someone just published a skill pack with the skills used at Anthropic, Google, OpenAI and others ComposioHQ/awesome-claud | [![@natiakourdadze](example/more/2105285236091228373.jpg)](https://x.com/natiakourdadze/status/2105285236091228373)<br>**@natiakourdadze** · 1:06 video · 2K views<br>AI singing ads are killing it on Tiktok right now. And Arcads lets you turn any script into a singing ad in 1 click 👇 Singing ads cheat code: → Pick a |
 
 ## How to make one like it
 
@@ -14,7 +46,18 @@
 
 ### 1. Copy the structure
 
-The skeleton every version follows: **hook → problem or tension → turn (the product shows up) → proof → one clear ask.** The shot-by-shot below fills it in.
+Use the example's timing as your beat sheet. Keep the beat, change the words and the product.
+
+| Beat | Time | In the example | Your version |
+|---|---|---|---|
+| 1 | 0:00 | on screen: Pro Tip: Wear your ring as ha, | … |
+| 2 | 0:02 | (visual beat, see frame 2) | … |
+| 3 | 0:04 | on screen: fy my tre ae ee a | … |
+| 4 | 0:06 | (visual beat, see frame 4) | … |
+| 5 | 0:07 | (visual beat, see frame 5) | … |
+| 6 | 0:09 | (visual beat, see frame 6) | … |
+| 7 | 0:11 | (visual beat, see frame 7) | … |
+| 8 | 0:12 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake
 

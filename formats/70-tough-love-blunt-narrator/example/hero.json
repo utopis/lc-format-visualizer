@@ -15,6 +15,7 @@
  "likes": 3,
  "views": 655,
  "seen": "A blunt, tough-love narrator over gross-out medical visuals (\"YOU HAVE PARASITES\", a gut close-up, a CGI man in a bathroom), then a man in scrubs and a mask talking frankly to camera. It is meant to look like it took 10 minutes to make.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:09",
@@ -55,6 +56,26 @@
    "t": "2:27",
    "said": "Over 500,000 people have cleared theirs with this formula, 60 day money back guarantee if you do not feel the difference you get every penny",
    "ocr": "eC. because small batches"
+  }
+ ],
+ "more": [
+  {
+   "id": "2107188290264740348",
+   "author": "0xROAS",
+   "url": "https://x.com/0xROAS/status/2107188290264740348",
+   "thumb": "example/more/2107188290264740348.jpg",
+   "kind": "0:25 video",
+   "cap": "100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here\u2019s how to make sure your dramas hit: - start with a very aggressive h",
+   "views": 8849
+  },
+  {
+   "id": "2108195005126869080",
+   "author": "LinoLeighton",
+   "url": "https://x.com/LinoLeighton/status/2108195005126869080",
+   "thumb": "example/more/2108195005126869080.jpg",
+   "kind": "0:26 video",
+   "cap": "Drama Ads ripping rn\u2026 100% AI drama ad made with Seedance 2.5 Here\u2019s how to make your drama ads actually hit: Go to agent on arcads Start with an aggr",
+   "views": 848
   }
  ]
 }

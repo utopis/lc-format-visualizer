@@ -138,6 +138,14 @@ The storyboard above samples the video every 0:29. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@strikerecom](example/more/2106092593511837880.jpg)](https://x.com/strikerecom/status/2106092593511837880)<br>**@strikerecom** · image · 2K views<br>the amount of directions u can take a native is STUPIDDD if a video concept already works just turn that shit into a native founder ads have been crus | [![@ecom_cork](example/more/2098433621077983648.jpg)](https://x.com/ecom_cork/status/2098433621077983648)<br>**@ecom_cork** · image · 6K views<br>Few million more founder ads https://t.co/IKeYhoxbMc |   |
+
 ## How to make one like it
 
 **The format in one line:** The founder walks (street, studio, warehouse) and talks to camera — or is interviewed by a handheld-mic host — about ONE thing: why the product exists, the problem she hated, or the mechanism. Unscripted, raw, one idea per ad. Long version = founder-story mini-VSL (personal open loop → problem → failed solutions → mechanism → product → mission → payoff).

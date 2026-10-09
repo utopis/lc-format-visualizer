@@ -19,6 +19,14 @@ Two images: a mirror-selfie before/after side by side with a caption, and a whit
 | 1 | (mostly visual) |
 | 2 | es ae, owl oS Hi COLLAGEN COLLAGEN skin, hair, fuller, nails glowing Lose the Weight. Keep the Try it risk-free 90 days. RN |
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@antonioventre_](example/more/2078512377616589256.jpg)](https://x.com/antonioventre_/status/2078512377616589256)<br>**@antonioventre_** · image · 5K views<br>Before/after photos are best native ad image: change creates curiosity; long copy tells story. |   |   |
+
 ## How to make one like it
 
 **The format in one line:** Split image or 2-slide: left/first "before" (problem state), right/second "after" (result), with a date or condition label; video version = jump-cut transition. "People stop because they see a real change, not a product… then long primary text tells the story" ([@antonioventre_](https://x.com/antonioventre_/status/2078512377616589256)).

@@ -15,6 +15,7 @@
  "likes": 221,
  "views": 18205,
  "seen": "A Pixar-style girl character in a timeline story about 75 seconds long. A provocative opening, then week-by-week scenes (bloating, a swirling gut visual, ingredients on a table), ending on the product pouch (Ankhwa). Captions mark each week.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:04",
@@ -55,6 +56,26 @@
    "t": "1:09",
    "said": "Over 200,000 women use it. 60 day money back guarantee, and right now, buy 2, get 1 free. Links below.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2100679695973134683",
+   "author": "skytookie",
+   "url": "https://x.com/skytookie/status/2100679695973134683",
+   "thumb": "example/more/2100679695973134683.jpg",
+   "kind": "image",
+   "cap": "hey chat! as you may have seen, I've played in a few creator tournaments recently, and one thing I noticed is... there's ALWAYS a radiant or immortal ",
+   "views": 16079
+  },
+  {
+   "id": "2078167446196777289",
+   "author": "Kolskithenerd",
+   "url": "https://x.com/Kolskithenerd/status/2078167446196777289",
+   "thumb": "example/more/2078167446196777289.jpg",
+   "kind": "image",
+   "cap": "Most healthcare ads lead with fear. I wanted to see what happens if you don't. Spec project: a full ad copy system for @AskAwaDoc , a WhatsApp-based A",
+   "views": 69
   }
  ]
 }

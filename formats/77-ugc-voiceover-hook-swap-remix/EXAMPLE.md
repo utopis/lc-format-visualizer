@@ -39,6 +39,15 @@ The storyboard above samples the video every 0:12. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@HenryCrochemore](example/more/2089291503919087933.jpg)](https://x.com/HenryCrochemore/status/2089291503919087933)<br>**@HenryCrochemore** · 1:11 video · 4K views<br>ai podcast ads might be one of the easiest ways to make ugc feel native again instead of generating another creator holding a product put them behind | [![@sleepclip](example/more/2102703772354875719.jpg)](https://x.com/sleepclip/status/2102703772354875719)<br>**@sleepclip** · 0:10 video · 2K views<br>no F*CKING way this app scaled from $1k to $500k off ai videos all it took was ai videos of different animals and characters that crossed millions of | [![@shhotsAI](example/more/2082182718704775496.jpg)](https://x.com/shhotsAI/status/2082182718704775496)<br>**@shhotsAI** · image · 126 views<br>Today we're launching Shhots AI MCP 🎉 Shhots now runs inside @ChatGPT & @claudeai Connect once and just chat to create your marketing campaigns: - "Cr |
+| [![@francis_nayan](example/more/2090055433645928642.jpg)](https://x.com/francis_nayan/status/2090055433645928642)<br>**@francis_nayan** · image · 527 views<br>3 things I've learned writing and strategizing ads for 8-figure brands: 1 - There's an infinite amount of WINNING ads to write Most brands pick 5-6 pe |   |   |
+
 ## How to make one like it
 
 **The format in one line:** Take one winning UGC or B-roll clip and lay a professional or AI voiceover on top, swapping only the first 3-5 seconds to test many hooks. The VO controls the claims (compliance-friendly), and footage costs nothing extra.

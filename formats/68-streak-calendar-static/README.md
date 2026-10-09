@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 68 · Streak calendar static (a habit grid filled with ✓ days)
 
 <!-- HERO:START -->
-[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+[![Featured example: @iwo_cybulski](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)**
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/iwo_cybulski/status/1833960761489813736)
 <!-- HERO:END -->
+
+
 
 
 

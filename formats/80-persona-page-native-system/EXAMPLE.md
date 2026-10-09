@@ -39,6 +39,14 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@DTC_Quizbuilder](example/more/2107516274142285842.jpg)](https://x.com/DTC_Quizbuilder/status/2107516274142285842)<br>**@DTC_Quizbuilder** · image · 643 views<br>Noverly's copy is built around one idea: ED isn't age or testosterone, it's a clogged pipe They sell it through a doctor-bylined listicle The buyer th | [![@benradack](example/more/2078473442714616149.jpg)](https://x.com/benradack/status/2078473442714616149)<br>**@benradack** · image · 2K views<br>I consolidated our whitelisting ads into one ad set with our brand videos. My CBO performs better with fewer ad sets running. So instead of keeping wh |   |
+
 ## How to make one like it
 
 **The format in one line:** Big direct-response brands run hundreds of ads from pages named after a narrator ("Sarah Bennett", "Your Health Journal", "Dr. Lisa Downing") instead of the brand page. Each persona has an age, situation and voice and writes first-person natives. LC-safe version: real people (founder, CS lead, real customers with consent) as named narrators, clearly connected to LC, never invented people presented
@@ -64,13 +72,16 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** System: narrator pages that run ads
+**Target length / size:** System: 2-4 narrator Pages, each running 3-6 native story ads (image + 150-400 word post) to a matching advertorial
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Page | A page with a narrator name and a clear "content by [brand]" line in the bio | - |
-| 2 | Ads | Native story ads from that page | First-person posts |
-| 3 | Landing | An advertorial that matches the page voice | - |
+| 1 | Page setup (day 0) | A Facebook/IG Page with a narrator name ("Dana on Jewelry"), a real face (founder, staff or a consenting creator), a cover photo of her jewellery box, and a bio that says "Content by Louise Carter" | Bio: "Ex-stylist. I test jewellery in the sea so you don't have to. Partnered with Louise Carter." |
+| 2 | Organic seed (week 1) | 6-10 ordinary posts so the Page looks lived in: outfit photos, a "what I packed" carousel, a reply to a follower | Plain first-person captions, no links |
+| 3 | Ad 1: story post | Phone photo of her hand on a beach towel wearing the stack, slight grain, no logo | Opening line: "I've ruined 4 necklaces in the sea. This one's on month 9." 200-word story, link at the end |
+| 4 | Ad 2: listicle post | Flat-lay of 5 pieces on a white bedsheet | "5 pieces I never take off (and the one I stopped wearing)" |
+| 5 | Ad 3: reply post | Screenshot of a real comment she got, then her answer | "Someone asked if gold-plated really survives showers. Honest answer:" |
+| 6 | Landing | Advertorial written in the same narrator voice, with a "This post is sponsored by Louise Carter" line at the top | Ends in the any-7 offer with a single CTA |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -93,10 +104,22 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Setup**
+**Claude (narrator bible)**
 
 ```text
-Create the page, add it to Business Manager, disclose the brand in the bio and in the advertorial, run ads from it with the same pixel.
+Create a narrator for [brand]: name, age, job, why she wears the product, 3 phrases she always uses, 3 things she would never say. Then write 6 organic posts and 3 native story ads (150-300 words each) in her voice. Every claim must come from this product page: [paste]. Disclose the brand partnership in each ad.
+```
+
+**Meta setup**
+
+```text
+Add the Page to Business Manager; run ads from the narrator Page with the brand as paid-partnership label where possible; same pixel and UTM pattern utm_campaign=F80-<narrator>.
+```
+
+**Image (real, not AI)**
+
+```text
+Shoot on iPhone, natural light, slightly imperfect framing; no studio lighting, no logo overlays.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -138,8 +161,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Pages must not impersonate a real person or a doctor; disclose the brand relationship.
-- Meta may treat undisclosed persona pages as inauthentic behaviour.
+- Never invent a credentialed persona (doctor, dermatologist) or a fake real-person identity; Meta treats undisclosed persona pages as inauthentic behaviour.
+- The narrator must be a real person who agreed to it, or clearly a brand character.
+- One narrator per angle; do not run the same story from three narrators.
+- If the Page gets comments asking "is this an ad?", answer honestly and pin the answer.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

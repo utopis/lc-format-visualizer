@@ -15,6 +15,7 @@
  "likes": 49,
  "views": 8095,
  "seen": "A long-form VSL of about 4 to 5 minutes: a woman telling her story to camera (\"Over 40\"), with cutaways to an orange being peeled, a woman in bed, a red-light device on skin and close-ups of skin. It is slow, story-led and sells late.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:16",
@@ -55,6 +56,17 @@
    "t": "4:08",
    "said": "and has already helped thousands of menopausal women stop feeling ashamed about their hormonal facial hair. Elena Morales wants every woman ",
    "ocr": "iV wh If you don't see smoother"
+  }
+ ],
+ "more": [
+  {
+   "id": "2087245595249721445",
+   "author": "FedotOff90",
+   "url": "https://x.com/FedotOff90/status/2087245595249721445",
+   "thumb": "example/more/2087245595249721445.jpg",
+   "kind": "3:03 video",
+   "cap": "97-day VSL; VSLs spent millions profitably; full VSL Machine SOP.",
+   "views": 17456
   }
  ]
 }

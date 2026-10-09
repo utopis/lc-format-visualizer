@@ -40,6 +40,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@CEO_Vlad](example/more/2088597593949692087.jpg)](https://x.com/CEO_Vlad/status/2088597593949692087)<br>**@CEO_Vlad** · 0:26 video · 7K views<br>AI pharmacist ad format: $5, 4 minutes (authority-figure risk). | [![@TomReichertWA](example/more/2085467482224247014.jpg)](https://x.com/TomReichertWA/status/2085467482224247014)<br>**@TomReichertWA** · 0:20 video · 90 views<br>@CocaCola Quick jump to tick tock to dub in music to my Grok made clip now I made you a retro ad in a minute 😎 @nikitabier @X @elonmusk Hot weather gr | [![@HenryCrochemore](example/more/2092191032645431595.jpg)](https://x.com/HenryCrochemore/status/2092191032645431595)<br>**@HenryCrochemore** · image · 394 views<br>this static is weird enough to make you stop poo-pourri took a product nobody wants to think about and wrapped it in a polished retro ad the contrast |
+
 ## How to make one like it
 
 **The format in one line:** VHS grain, 4:3 framing, serious host in a pink blazer, studio set, big claims overlay ("550,000+ women"), phone number style lower-third. "It doesn't look like a polished DTC ad" ([@tryatria_AI](https://x.com/tryatria_AI/status/2105329322496016777)).

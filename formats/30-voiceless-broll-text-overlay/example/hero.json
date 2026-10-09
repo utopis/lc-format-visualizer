@@ -15,6 +15,7 @@
  "likes": 7,
  "views": 1149,
  "seen": "Silent travel and food B-roll (beach, plates, a caf\u00e9 table) with a long on-screen text story about a long-distance relationship, ending on a phone screen. There is no voice: the text overlay is the whole message.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:00",
@@ -55,6 +56,53 @@
    "t": "0:13",
    "said": "",
    "ocr": "silent travel-footage to app pairing intimate dinner clips with a long-distance before demonstrating a shared couples dr"
+  }
+ ],
+ "more": [
+  {
+   "id": "2104952871691117052",
+   "author": "williamkast_",
+   "url": "https://x.com/williamkast_/status/2104952871691117052",
+   "thumb": "example/more/2104952871691117052.jpg",
+   "kind": "image",
+   "cap": "One message \u2192 podcast, street interview, no-cut native talk, UGC, mute text overlay, statics; 3 hooks each.",
+   "views": 766
+  },
+  {
+   "id": "2080756837272687087",
+   "author": "annieqyang",
+   "url": "https://x.com/annieqyang/status/2080756837272687087",
+   "thumb": "example/more/2080756837272687087.jpg",
+   "kind": "0:10 video",
+   "cap": "This reel format got 800k views and 1M views for Gamma, a $1B AI powerpoint company It's simple - a 7-8 second UGC clip with text overlay, spinning a ",
+   "views": 605
+  },
+  {
+   "id": "2085409836641198327",
+   "author": "consumerxai",
+   "url": "https://x.com/consumerxai/status/2085409836641198327",
+   "thumb": "example/more/2085409836641198327.jpg",
+   "kind": "0:17 video",
+   "cap": "\u203c\ufe0fTiktok Outlier Alert \u203c\ufe0f \ud83d\udcc9 20M Views, 203K Likes, 271 Comments, 1.9K Shares, 5.9K Saves \ud83e\uddd0What this is: A counter-intuitive lifestyle hook you can use",
+   "views": 999
+  },
+  {
+   "id": "2087623547288207463",
+   "author": "lifemaximised",
+   "url": "https://x.com/lifemaximised/status/2087623547288207463",
+   "thumb": "example/more/2087623547288207463.jpg",
+   "kind": "image",
+   "cap": "YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al",
+   "views": 929
+  },
+  {
+   "id": "2106572097933767012",
+   "author": "ForZeOussama1",
+   "url": "https://x.com/ForZeOussama1/status/2106572097933767012",
+   "thumb": "example/more/2106572097933767012.jpg",
+   "kind": "image",
+   "cap": "Meta can treat your 20 ads as one ad. Same footage. Same hook. Different text overlay. That's not testing. That's variation. Real creative diversity l",
+   "views": 172
   }
  ]
 }

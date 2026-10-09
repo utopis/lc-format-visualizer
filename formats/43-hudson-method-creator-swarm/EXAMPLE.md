@@ -59,6 +59,15 @@ The storyboard above samples the video every 0:11. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@ai_cult1](example/more/2092368368968049118.jpg)](https://x.com/ai_cult1/status/2092368368968049118)<br>**@ai_cult1** · 47:51 video · 49 views<br>Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months). | [![@pixclipper](example/more/2084739019187847201.jpg)](https://x.com/pixclipper/status/2084739019187847201)<br>**@pixclipper** · 0:40 video · 26K views<br>Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, | [![@BoraMutluoglu](example/more/2051293081920758018.jpg)](https://x.com/BoraMutluoglu/status/2051293081920758018)<br>**@BoraMutluoglu** · image · 500 views<br>Hudson Method from Comfrt founder masterminds: thousands of samples/mo, $5k+ bonuses for 100+ videos/mo, run creator content on Meta/Snap/YT, keep pay |
+| [![@joshelizetxe](example/more/2107504952977317898.jpg)](https://x.com/joshelizetxe/status/2107504952977317898)<br>**@joshelizetxe** · image · 503 views<br>I paid a celebrity $250,000 for a holiday post that generated under $35,000 in sales. Our blended customer acquisition cost spiked to over $300 on a $ |   |   |
+
 ## How to make one like it
 
 **The format in one line:** Instead of a few polished influencers, recruit hundreds of small creators (1k-50k followers) who each post many videos/month for a base fee + commission + volume bonuses; contests drive output; every creator video is whitelisted and loaded into Meta Partnership ads, Snap and YouTube — the creator swarm becomes the ad-creative engine.

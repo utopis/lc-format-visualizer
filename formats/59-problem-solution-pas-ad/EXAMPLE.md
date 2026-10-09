@@ -18,6 +18,15 @@ A 4-image static concept for a weekender bag: the product on its own with featur
 |---|---|
 | 1 | BUILT FOR WEEKENDS pw GO ca FURTHER Kk kkk The perfect Stylish, spacious and super durable. ROOM FOR EVERYTHING |
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@Jordan_Created](example/more/2017403665741742102.jpg)](https://x.com/Jordan_Created/status/2017403665741742102)<br>**@Jordan_Created** · 0:52 video · 33 views<br>Here is a UGC Example breaking down the PAS framework. To take this 1 step further: - Hook - Problem - Agitate - Solution - CTA Adding in "Agitate" he | [![@alice_ercolani](example/more/2048553690215444873.jpg)](https://x.com/alice_ercolani/status/2048553690215444873)<br>**@alice_ercolani** · 0:32 video · 12 views<br>Sleepway's ads use a classic marketing formula: Problem → Agitate → Solution. This ad starts with a doctor and a stark warning: "DON'T SLEEP THIS WAY! | [![@rayyanmru](example/more/1930403658061000934.jpg)](https://x.com/rayyanmru/status/1930403658061000934)<br>**@rayyanmru** · images · 279 views<br>🚨 Ad Breakdown: Pet Lab Co’s UGC that prints money This ad preys on a hidden fear every dog owner has and it works like crazy. Bad breath? Tartar? Tha |
+| [![@TobyWalleruk](example/more/1734535147591012689.jpg)](https://x.com/TobyWalleruk/status/1734535147591012689)<br>**@TobyWalleruk** · 0:46 video · 713 views<br>Why this ad works ✅ Has an intriguing HOOK ✅ Handles objections & answers FAQ’s ✅ Transitions throughout every 2 seconds ✅ Uses the Problem-Agitate-So |   |   |
+
 ## How to make one like it
 
 **The format in one line:** The classic direct-response structure: name one specific pain so the right person thinks "that's me", agitate it (consequences, failed fixes), introduce the product as THE fix for that pain, close with specific proof and one CTA. One problem per ad — five benefits = five ads.
@@ -32,15 +41,15 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Static 1080x1350 (4-panel) or 20-40s video
+**Target length / size:** 20-40s video or a 4-panel static
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Problem | The pain, named precisely | "Your favourite necklace left a green line again." |
-| 2 | Agitate | Consequences / failed fixes | "Clear nail polish. Taking it off. Buying more." |
-| 3 | Solution | Product as the answer | "14K PVD bonded gold, waterproof." |
-| 4 | Proof | Review / stars | Real review |
-| 5 | CTA | - | Offer |
+| 1 | Problem (0-5s) | Green mark on a finger | "Your gold ring turned your finger green." |
+| 2 | Agitation (5-12s) | Money down the drain: a drawer of tarnished pieces | "Again. That's the fourth one this year." |
+| 3 | Solution (12-22s) | PVD ring under a tap | "14K PVD over stainless steel doesn't wear off." |
+| 4 | Proof (22-32s) | Review screenshots, 9-month-old piece | "4.8 stars from 4,812 reviews." |
+| 5 | End | Offer | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -68,7 +77,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Claude**
 
 ```text
-Write 10 PAS ads for [product]: one sentence each for problem, agitation, solution, proof (from these reviews [paste]) and CTA.
+Write 5 PAS scripts for [product]: one line each for problem, agitation, solution, proof, CTA. Proof must be real.
+```
+
+**Static version**
+
+```text
+4 panels in a 2x2 grid, one word header each: PROBLEM / WHY / FIX / PROOF.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -112,8 +127,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Agitate the problem, not the person.
-- Proof must be real.
+- Don't over-agitate; it reads as fear-mongering.
+- Proof must be specific and real.
+- Keep each beat to one line.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

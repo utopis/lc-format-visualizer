@@ -54,6 +54,15 @@ The storyboard above samples the video every 0:13. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@frankyecom](example/more/2106833649970684195.jpg)](https://x.com/frankyecom/status/2106833649970684195)<br>**@frankyecom** · 7:00 video · 66K views<br>Women want shows: characters, drama, payoff; build entertainment first, slot product in. | [![@frankyecom](example/more/2108308896813326775.jpg)](https://x.com/frankyecom/status/2108308896813326775)<br>**@frankyecom** · 1:24 video · 11K views<br>Best drama ads let viewer see the version of herself she wants to become. | [![@adamtaylorl](example/more/2099815494434099379.jpg)](https://x.com/adamtaylorl/status/2099815494434099379)<br>**@adamtaylorl** · images · 77K views<br>Resilia mastered storytelling ads -> $100M/yr. |
+| [![@frankyecom](example/more/2105732607208026318.jpg)](https://x.com/frankyecom/status/2105732607208026318)<br>**@frankyecom** · 1:01 video · 22K views<br>Cinematic realistic AI ads in scrutinized categories (GLP). | [![@SGradon](example/more/2101705439565979947.jpg)](https://x.com/SGradon/status/2101705439565979947)<br>**@SGradon** · 0:40 video · 2K views<br>In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here' | [![@spect3ral](example/more/2107534573773136189.jpg)](https://x.com/spect3ral/status/2107534573773136189)<br>**@spect3ral** · image · 535 views<br>This ad doesn't show the product for 90 seconds. That's exactly why it sells. These Drama ads are PRINTING. Here's the whole thing. 0:00 — A conferenc |
+
 ## How to make one like it
 
 **The format in one line:** A 45-120s mini-episode with characters, conflict, tension and payoff; product enters late as the thing that changes the scene. "Women wanna watch shows… They don't wanna get 8 seconds into their scroll and suddenly feel ambushed by an ad. So give them the show" ([@frankyecom](https://x.com/frankyecom/status/2106833649970684195)). Best drama ads let the viewer "experience a version of themselves th

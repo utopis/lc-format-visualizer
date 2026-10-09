@@ -18,6 +18,14 @@ A handwritten paper sign taped above a product on a Christmas tree: "WellnessBab
 |---|---|
 | 1 | hy Nola ed CYBER MONDAY 007. OFF TODAY WH My I NS I aN gm |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@tryatria_AI](example/more/2098414761578811635.jpg)](https://x.com/tryatria_AI/status/2098414761578811635)<br>**@tryatria_AI** · images · 3K views<br>HANDWRITTEN ADS SHOULDN’T WORK THIS WELL. BUT THEY DO. 👀 Handwritten notes. Whiteboards. Crude drawings. Marker scribbles. They look almost too simple | [![@stnkvcs](example/more/2077403948370067675.jpg)](https://x.com/stnkvcs/status/2077403948370067675)<br>**@stnkvcs** · images · 3K views<br>I've been ranting a lot about native ads lately. I love 'em. But while they do tickle the algo (and my fancy) in just the right way, "native" is just | [![@Simon__Rob](example/more/2089448804676239424.jpg)](https://x.com/Simon__Rob/status/2089448804676239424)<br>**@Simon__Rob** · 1:27 video · 5K views<br>this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats co |
+
 ## How to make one like it
 
 **Contents:** [1. Structure](#1-copy-the-structure) · [2. Shot by shot](#2-shot-by-shot-remake) · [3. Script and hooks](#3-write-the-script) · [4. Prompts](#4-prompts) · [5. Tools and settings](#5-tools-and-settings) · [6. Louise Carter remake](#6-louise-carter-remake) · [7. Variants and test](#7-variants-and-test-plan) · [8. Pitfalls](#8-pitfalls)

@@ -1,6 +1,58 @@
 {
  "id": "F32",
  "kind": "static",
- "mock": true,
- "poster": "example/mock.png"
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/liv_unltd/status/1774923299136716885",
+ "author": "liv_unltd",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 1,
+ "views": 94,
+ "seen": "A real Gopuff ad shown in the Instagram feed, built to look like an iPhone Notes page: a 'Notes' header, a bold line \"40% off alcohol?!?\" and a few casual sentences about getting drinks delivered in minutes with a promo code. Under it sits the normal app-install card (logo, stars, Install). It reads like a note someone typed, not like an ad.",
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "1922749862262489528",
+   "author": "growthquesthq",
+   "url": "https://x.com/growthquesthq/status/1922749862262489528",
+   "thumb": "example/more/1922749862262489528.jpg",
+   "kind": "image",
+   "cap": "1\u20e3 Notes App Ad This one has cut client CPLs by 75%+",
+   "views": 13
+  },
+  {
+   "id": "1674091921508007944",
+   "author": "pearmill_agency",
+   "url": "https://x.com/pearmill_agency/status/1674091921508007944",
+   "thumb": "example/more/1674091921508007944.jpg",
+   "kind": "image",
+   "cap": "2/7 The Notes App Static \ud83d\udcd2 - Open the Notes app on an iPhone - Create copy that reads like a note to self - think natural and human - Screenshot and p",
+   "views": 27
+  },
+  {
+   "id": "1678803289243041793",
+   "author": "daniel_eckler",
+   "url": "https://x.com/daniel_eckler/status/1678803289243041793",
+   "thumb": "example/more/1678803289243041793.jpg",
+   "kind": "image",
+   "cap": "Literal iMessage Ad \ud83d\udc40",
+   "views": 2663
+  },
+  {
+   "id": "1621504769079517184",
+   "author": "gregmfitz",
+   "url": "https://x.com/gregmfitz/status/1621504769079517184",
+   "thumb": "example/more/1621504769079517184.jpg",
+   "kind": "image",
+   "cap": "Whatever agency or consultant is recommending this notes app ad creative style must be stopped",
+   "views": 366
+  }
+ ]
 }

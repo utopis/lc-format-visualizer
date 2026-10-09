@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 60 · Click-to-message ads (Messenger / IG DM / TikTok Instant Messaging) — "stylist in your DMs"
 
 <!-- HERO:START -->
-[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+[![Featured example: @aura_alloy](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)**
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/aura_alloy/status/1982632501110812979)
 <!-- HERO:END -->
+
+
 
 
 

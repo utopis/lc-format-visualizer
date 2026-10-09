@@ -15,5 +15,62 @@
  "likes": 131,
  "views": 17576,
  "seen": "A Facebook-native illustrated comic. The caption opens with a story hook (\"Mom left for a business trip, leaving me alone with my stepfather Johan...\" then See more) over two cartoon panels. It reads like a story post; the long primary text leads to an advertorial.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2078512377616589256",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2078512377616589256",
+   "thumb": "example/more/2078512377616589256.jpg",
+   "kind": "image",
+   "cap": "Before/after photos are best native ad image: change creates curiosity; long copy tells story.",
+   "views": 4616
+  },
+  {
+   "id": "2083175922048647671",
+   "author": "blvckledge",
+   "url": "https://x.com/blvckledge/status/2083175922048647671",
+   "thumb": "example/more/2083175922048647671.jpg",
+   "kind": "image",
+   "cap": "Advertorials outperform PDP for Google Shopping traffic.",
+   "views": 6569
+  },
+  {
+   "id": "2100980324633063694",
+   "author": "EcomTable",
+   "url": "https://x.com/EcomTable/status/2100980324633063694",
+   "thumb": "example/more/2100980324633063694.jpg",
+   "kind": "image",
+   "cap": "Ad-spy filters: top 10-25%, image, active, 14+ day run, 2,500+ char copy -> find long-copy native winners.",
+   "views": 21281
+  },
+  {
+   "id": "2107899522353381868",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2107899522353381868",
+   "thumb": "example/more/2107899522353381868.jpg",
+   "kind": "image",
+   "cap": "Story ad >1M reach: wife/work-wife anniversary drama, no product in first 40 words, revenge payoff.",
+   "views": 19785
+  },
+  {
+   "id": "2105745816828940336",
+   "author": "tryatria_AI",
+   "url": "https://x.com/tryatria_AI/status/2105745816828940336",
+   "thumb": "example/more/2105745816828940336.jpg",
+   "kind": "image",
+   "cap": "Static hook 'My sister slept with my husband' vs generic benefit lines.",
+   "views": 4206
+  },
+  {
+   "id": "2106778634006442013",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2106778634006442013",
+   "thumb": "example/more/2106778634006442013.jpg",
+   "kind": "image",
+   "cap": "The structure I use for story ads, in video and in long primary text: 1 - Hook: the problem, not the product 2 - Problem: make it specific enough that",
+   "views": 1734
+  }
+ ]
 }

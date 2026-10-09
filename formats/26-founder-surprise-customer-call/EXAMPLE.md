@@ -1,31 +1,47 @@
 # 26 · Founder surprise customer call (+ customer-service call variant): see it, then make it
 
-[![The example: storyboard of @ecomchasedimond's post](example/storyboard.jpg)](https://x.com/ecomchasedimond/status/2108225940962914650)
+[![The example: storyboard of @houseoffelsteve's post](example/storyboard.jpg)](https://x.com/houseoffelsteve/status/2064683771484320042)
 
-**The example:** [@ecomchasedimond on X](https://x.com/ecomchasedimond/status/2108225940962914650) · 0:43 video · 43 likes, 18K views
+**The example:** [@houseoffelsteve on X](https://x.com/houseoffelsteve/status/2064683771484320042) · 0:10 video · 3 likes, 121 views
 
-**Watch it:** [open the post on X](https://x.com/ecomchasedimond/status/2108225940962914650) · [play the video file](https://video.twimg.com/amplify_video/2108224664569016320/vid/avc1/640x360/appPkUklrKcf6Hmb.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/houseoffelsteve/status/2064683771484320042) · [play the video file](https://video.twimg.com/amplify_video/2064683635219824640/vid/avc1/320x568/ijGyWSjVzpEWFUIx.mp4?tag=27)
 
-> Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of those signals live in different places. Now imagine giving an agent this job: “Every morning, go through our customer calls in Granola, see what’s trending on TikTok, check what our competitors are running on Meta, then give me 5 new creative ideas based on what you find…
+> **How close is this example?** Close: a playful 'we call our customers' shop clip. The gallery below has more examples.
+
+> Calling our customers isn’t just about business, it’s about showing them why House of Felsteve is worth the visit. Premium bespoke shoes. Quality outfits. Exceptional service. Your next favorite outfit is waiting.
 
 ## What you are seeing
 
-A screen recording that walks through a real customer call used as an ad: chat and messages UI, video thumbnails, then the call itself. The point is that the ad is a real, unscripted conversation with a customer.
+A 9-second clip from a bespoke shoe shop: caption "POV: calling our customers to convince them why House of Felsteve is worth a visit" over quick shots of shoe walls, racks and shelves. It plays the 'we phone our customers' idea for laughs and as a shop tour.
 
 ## Beat by beat
 
-The storyboard above samples the video every 0:05. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+The storyboard above samples the video every 0:01. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:05 | Read, draft, and send email from your Inbox Email Meta Connected Read and Run Facebook and Instagram ads: campaigns, budgets, insights, and leads. Data Ads Mark | · |
-| 2 | 0:05–0:10 | Meta is connected. Bright Ridge spent $4,210 last month. Here's what do for your en | · |
-| 3 | 0:10–0:16 | · | · |
-| 4 | 0:16–0:21 | · | · |
-| 5 | 0:21–0:27 | · | · |
-| 6 | 0:27–0:32 | · | · |
-| 7 | 0:32–0:38 | · | · |
-| 8 | 0:38–0:43 | · | · |
+| 1 | 0:00–0:01 | rf WHY HOUSE OF IS WORTH VISIT. ant ie sl Za a fo a $4 Ke 2! a of Ay a | · |
+| 2 | 0:01–0:03 | · | I just want the best for you, and I think that you deserve the world. |
+| 3 | 0:03–0:05 | · | · |
+| 4 | 0:05–0:06 | · | · |
+| 5 | 0:06–0:08 | a! ae bn ee Za ig be VS aA | Thank you, so that's really all I want. |
+| 6 | 0:08–0:10 | ae gg See ay ie | · |
+
+<details><summary>Full transcript (timestamped)</summary>
+
+- `0:00` I just want the best for you, and I think that you deserve the world.
+- `0:05` Thank you, so that's really all I want.
+
+</details>
+
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@QueenCarlo11](example/more/2057819667067015529.jpg)](https://x.com/QueenCarlo11/status/2057819667067015529)<br>**@QueenCarlo11** · 1:56 video · 95 views<br>Another day to get exciting news from @airtelmoneyug . Today our host Nichole was in studio calling our customers that received UGX 300,000 straight t | [![@antonioventre_](example/more/2091592059517837677.jpg)](https://x.com/antonioventre_/status/2091592059517837677)<br>**@antonioventre_** · image · 995 views<br>Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask. | [![@ecomchasedimond](example/more/2108225940962914650.jpg)](https://x.com/ecomchasedimond/status/2108225940962914650)<br>**@ecomchasedimond** · 0:44 video · 19K views<br>Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of t |
+| [![@antonioventre_](example/more/2107597529130873250.jpg)](https://x.com/antonioventre_/status/2107597529130873250)<br>**@antonioventre_** · image · 11K views<br>Customer service call ads are scaling like crazy for us right now If you haven't tried them yet, please do it https://t.co/laU2bgRZht | [![@antonioventre_](example/more/2079573874883104926.jpg)](https://x.com/antonioventre_/status/2079573874883104926)<br>**@antonioventre_** · image · 7K views<br>Call ads are quietly becoming their own category on Meta. Every variation of a recorded conversation is working for us right now: - FaceTime call ads, |   |
 
 ## How to make one like it
 
@@ -41,14 +57,12 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:02 | on screen: Read, draft, and send email from your Inbox Email Meta Connected Read and Run Facebook and Instagram ads: campaigns, bud | … |
-| 2 | 0:08 | on screen: Meta is connected. Bright Ridge spent $4,210 last month. Here's what do for your en | … |
-| 3 | 0:13 | (visual beat, see frame 3) | … |
-| 4 | 0:19 | (visual beat, see frame 4) | … |
-| 5 | 0:24 | (visual beat, see frame 5) | … |
-| 6 | 0:30 | (visual beat, see frame 6) | … |
-| 7 | 0:35 | (visual beat, see frame 7) | … |
-| 8 | 0:41 | (visual beat, see frame 8) | … |
+| 1 | 0:00 | I just want the best for you, and I think that you deserve the world. | … |
+| 2 | 0:02 | I just want the best for you, and I think that you deserve the world. | … |
+| 3 | 0:04 | I just want the best for you, and I think that you deserve the world. | … |
+| 4 | 0:06 | Thank you, so that's really all I want. | … |
+| 5 | 0:07 | Thank you, so that's really all I want. | … |
+| 6 | 0:09 | Thank you, so that's really all I want. | … |
 
 ### 2. Shot-by-shot remake
 

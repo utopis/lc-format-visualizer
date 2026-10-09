@@ -15,5 +15,44 @@
  "likes": null,
  "views": null,
  "seen": "Three TikTok profiles of AI persona pages, each a consistent aesthetic girl (beach, sunset, bikini photos) posting templated captioned slideshows at scale.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2082813772373098530",
+   "author": "onlinedopamine",
+   "url": "https://x.com/onlinedopamine/status/2082813772373098530",
+   "thumb": "example/more/2082813772373098530.jpg",
+   "kind": "images",
+   "cap": "these are the types of outsized organic views you get on new accounts when you nail &gt; understanding of your target audience (= pinterest aesthetic ",
+   "views": 2792
+  },
+  {
+   "id": "2096288782517457130",
+   "author": "g_buildz_apps",
+   "url": "https://x.com/g_buildz_apps/status/2096288782517457130",
+   "thumb": "example/more/2096288782517457130.jpg",
+   "kind": "image",
+   "cap": "I started this account last month Over 1M+ views just on slideshows This brought me 10,000 downloads btw One slideshow account. https://t.co/plkjEqnwZ",
+   "views": 1287
+  },
+  {
+   "id": "2100554319070212573",
+   "author": "yassratti",
+   "url": "https://x.com/yassratti/status/2100554319070212573",
+   "thumb": "example/more/2100554319070212573.jpg",
+   "kind": "image",
+   "cap": "bro is doing $9k a month with a single tiktok slideshow account \ud83d\ude2d that's wild as fuck and it's your wake up call build an app that fits a format explo",
+   "views": 4831
+  },
+  {
+   "id": "2077706055656558799",
+   "author": "onlinedopamine",
+   "url": "https://x.com/onlinedopamine/status/2077706055656558799",
+   "thumb": "example/more/2077706055656558799.jpg",
+   "kind": "0:31 video",
+   "cap": "this slideshow account is literally leaving money on the table, it's almost infuriating the account owner is going viral on basically every second pos",
+   "views": 4518
+  }
+ ]
 }

@@ -27,6 +27,14 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 | 7 | 0:25–0:29 | ok. CREATIVE BLOCK by Pass through Tr | · |
 | 8 | 0:29–0:34 | ey a oO SS a NS es World Football ae nt sae Po a Oy rah 7s se 499 ae Te | · |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@jackolivieri_](example/more/2097798592010547583.jpg)](https://x.com/jackolivieri_/status/2097798592010547583)<br>**@jackolivieri_** · images · 117 views<br>Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share). | [![@ItsDuntee](example/more/2102309812109193718.jpg)](https://x.com/ItsDuntee/status/2102309812109193718)<br>**@ItsDuntee** · image · 261 views<br>🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 Sept | [![@kabiwinter](example/more/2095851837312122988.jpg)](https://x.com/kabiwinter/status/2095851837312122988)<br>**@kabiwinter** · image · 75 views<br>#AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from s |
+
 ## How to make one like it
 
 **The format in one line:** Short (10-30 s) bottom-of-funnel videos whose only job is the deadline: a two-person micro-skit ("Wait, the sale ends today?"), a hands-only product clip with "THIS DEAL WON'T LAST" text, or a blunt to-camera warning. They sit under the long-form story ads and close the people those ads warmed up.
@@ -52,13 +60,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 10-30s
+**Target length / size:** 10-25s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Two-person micro-skit | "Wait, the sale ends TODAY?" |
-| 2 | 3-15s | Product clip with big deadline text | "THIS DEAL ENDS MIDNIGHT" |
-| 3 | End | - | CTA |
+| 1 | 0-3s | Two friends on a sofa, one scrolling | "Wait, the sale ends TODAY?" |
+| 2 | 3-6s | Other friend grabs the phone | "Don't say I didn't warn you." |
+| 3 | 6-14s | Hands-only clip: picking 7 pieces into a box, big deadline text | "ANY 7 FOR $85 · ENDS MIDNIGHT" |
+| 4 | 14-18s | Stack on wrist, close-up | "Last day." |
+| 5 | End | Offer card with the real end time and timezone | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -85,7 +95,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Edit**
 
 ```text
-Big date/time text, 2-3 cuts, end on the offer.
+Big date/time text (120px, high contrast), 2-3 cuts, end on the offer; make a version for each of the last 3 days ("2 days left", "tomorrow", "today").
+```
+
+**Copy**
+
+```text
+Primary text: "Ends [day] at midnight [timezone]. After that it's back to full price."
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -130,7 +146,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Real deadlines only.
+- Real deadlines only; turn the ads off when the sale ends.
+- State the timezone.
+- Don't run "last day" creative for more than one day.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

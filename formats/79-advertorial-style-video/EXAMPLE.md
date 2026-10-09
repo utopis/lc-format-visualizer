@@ -1,94 +1,42 @@
 # 79 · Advertorial-style video ('5 reasons ___ are ditching ___'): see it, then make it
 
-[![The example: storyboard of @k4komaaaal's post](example/storyboard.jpg)](https://x.com/k4komaaaal/status/2084289721703010738)
+[![The example: storyboard of @AaronOrendorff's post](example/storyboard.jpg)](https://x.com/AaronOrendorff/status/1815524880361914630)
 
-**The example:** [@k4komaaaal on X](https://x.com/k4komaaaal/status/2084289721703010738) · 15:11 video · 16 likes, 655 views
+**The example:** [@AaronOrendorff on X](https://x.com/AaronOrendorff/status/1815524880361914630) · 0:19 video · 4 likes, 213 views
 
-**Watch it:** [open the post on X](https://x.com/k4komaaaal/status/2084289721703010738) · [play the video file](https://video.twimg.com/amplify_video/2083963265550303232/vid/avc1/640x360/tV0NnUMrmDkJn9G4.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/AaronOrendorff/status/1815524880361914630) · [play the video file](https://video.twimg.com/ext_tw_video/1815524397463248896/pu/vid/avc1/540x540/EZK7UW1Ffxs6lNEQ.mp4?tag=12)
 
-> 10 reasons why brands are ditching polished ads for founder faces on camera: 1. sushiswap, gymshark all started founder led content before ads 2. face on camera builds trust 3. cheaper to produce 4. algorithms favor raw content over anything that looks like an ad 5. founders answering & showing their ‘builder thoughts’ builds loyalty a support team can’t 6. humanizes pricing & product decisions 7. works across every …
+> **How close is this example?** Close: a breakdown of a real advertorial funnel. The gallery below has more examples.
+
+> 3️⃣ Advertorial: “Reasons Why” As an experiment, this advertorial opens with the same video as the ad itself Headline + content reflects the creative — “5 Reasons Why I’m Obsessed With” Two buy boxes allow shoppers to select their color + style and add directly to cart UGC photos from social media as well as reviews appear throughout the landing page Countdown timer used to emphasize urgency during the summer sale fr…
 
 ## What you are seeing
 
-A long founder-style talking video (about 15 minutes) filmed casually in a car and around town. It is cited for why brands are dropping polished ads for raw founder storytelling.
+A breakdown of a 'Reasons Why' advertorial for a leather tote: the landing page opens with the same video as the ad, the headline mirrors it ("5 Reasons Why I'm Obsessed With..."), then come numbered reasons, UGC photos, reviews, two buy boxes and a countdown timer. The yellow notes beside each screen explain the part.
 
 ## Beat by beat
 
-The storyboard above samples the video every 1:53. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+The storyboard above samples the video every 0:02. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–1:53 | candy ae sin Ch, | We got to knock the meeting out, and then we got to get back to Spain because we have our Robin Hood product launch happening in the next 24 hours. We're going to come back to Madrid and then we got to get the Robin Hood product, the end of Sunday. So we're leaving it's Saturday morning right now. K |
-| 2 | 1:53–3:47 | Toby: Why ist so important for Sushi so fast launch? | Nice little run, sunny day in Cannes, super nice day out. My favorite time to run is when it's super sunny, super hot. I feel like a good sweat in, get a little bit of a tan in the process. So if you're spending all day inside like me, it's like a good change of pace. Let's see where the f**k Toby i |
-| 3 | 3:47–5:41 | · | or you want to create maybe you want to generate some yield, right? You want to stake some Bitcoin or some ETH in a lending market and you want to generate a little bit of APR. Just the things that everybody wants to do with their assets and with their trading journey, we want to be able to facilita |
-| 4 | 5:41–7:35 | · | · |
-| 5 | 7:35–9:29 | ee NY St Ad | · |
-| 6 | 9:29–11:23 | ey et ol ul ay ye mf iF | · |
-| 7 | 11:23–13:17 | al types of things right are kind ofthe focus, and so. | · |
-| 8 | 13:17–15:11 | · | · |
+| 1 | 0:00–0:02 | Portland Leather Goods Tote That ALL The experiment, this opens with the so CH same video as the ad itself op Headline reflects the video is Reasons Why I'm Obs | · |
+| 2 | 0:02–0:04 | SAVE AN EXTRA 25% WITH COOK HE 14:17:19 As an experiment, this opens with the same video as the ad itself WW Headline reflects the video a Reasons Why I'm Obses | · |
+| 3 | 0:04–0:07 | Here are five hype-deserving reasons why you get the Mini Tote. As an experiment, this opens with the same video as the ad itself Headline reflects the video Re | · |
+| 4 | 0:07–0:09 | MINI TOTE eh As As an experiment, this $99 im 00 opens with the Then same video as the ad itself Tops th the Cl Headline reflects the video sep Ho Reasons Why I | · |
+| 5 | 0:09–0:12 | a experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed 3. Accessible Outside Pocket With so does the | · |
+| 6 | 0:12–0:14 | 5. Organized Interior with Canvas Purse experiment, this Organizer opens with the same video as the ad itself Headline reflects the video bel Reasons Why I'm Ob | · |
+| 7 | 0:14–0:17 | As an experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed With so does the content MINI v1 Two buy  | · |
+| 8 | 0:17–0:19 | SAVE 25% WITH COOK HER 14:17: 04 As an experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed With so  | · |
 
-<details><summary>Full transcript (timestamped)</summary>
+## More real examples (4)
 
-- `0:34` We got to knock the meeting out, and then we got to get back to Spain because we have our Robin Hood product launch happening in the next 24 hours.
-- `0:44` We're going to come back to Madrid and then we got to get the Robin Hood product, the end of Sunday.
-- `0:50` So we're leaving it's Saturday morning right now.
-- `0:53` Knock it out, Sunday, we're launching Robin Hood.
-- `0:57` The journey begins.
-- `1:00` I have about two hours to
-- `1:08` Basically the plan is to go to the hotel, get showing showered, maybe nap for like 20-20 minutes and then go.
-- `1:14` I didn't sleep on the plane at all. It was really rough for some reason, I wasn't able to.
-- `1:19` So it's all I got for you buddy.
-- `1:43` Quick run after the meeting and then we're flying back up to Spain and then we got to get ready for the Robin-Robin Hood chain launch.
-- `1:50` Nice little run, sunny day in Cannes, super nice day out.
-- `2:00` My favorite time to run is when it's super sunny, super hot.
-- `2:03` I feel like a good sweat in, get a little bit of a tan in the process.
-- `2:07` So if you're spending all day inside like me, it's like a good change of pace.
-- `2:12` Let's see where the f**k Toby is.
-- `2:14` Finally, there he is.
-- `2:16` There you are buddy.
-- `2:27` Went for a run. Now just some work done.
-- `2:30` I have a big launch coming up tomorrow.
-- `2:33` We're launching on Robin Hood chain.
-- `2:35` It's a blockchain. It's going to be, I guess, the on-chain trading hub of Robin Hood.
-- `2:43` I think it's going to be super interesting to see what they try to do from products,
-- `2:45` terms and how the chain evolves.
-- `2:48` But really excited to launch there.
-- `2:50` Why is it so important for Sushi to be so fast with the launch?
-- `2:53` Part of what, or what Sushi is, we're trying to be the most multi-chain dex.
-- `2:58` And so for Sushi, our motto is trade anything.
-- `3:02` So we want our users to be able to literally trade any token on any blockchain network,
-- `3:07` any type of asset, and be able to do that all within the Sushi.com experience.
-- `3:13` So we want people to be able to trade on Binance chain.
-- `3:16` We want people to be able to trade on base.
-- `3:18` We want people to trade on Robin Hood chain, on Ethereum, on Solana, right? Everywhere.
-- `3:22` The fragmentation of crypto is one of its biggest drawbacks.
-- `3:25` You have all these different networks. You have all these different apps.
-- `3:27` You have all these different products.
-- `3:29` You're having one super app where you can trade anything crypto.
-- `3:32` And then now with perps and with tokenized stocks and with all the other things that we're offering,
-- `3:37` we want to create this super app where essentially if you want to buy stocks
-- `3:42` or you want to speculate on a meme coin or you want to just hold some Ethereum
-- `3:46` or you want to create maybe you want to generate some yield, right?
-- `3:50` You want to stake some Bitcoin or some ETH in a lending market
-- `3:55` and you want to generate a little bit of APR.
-- `3:58` Just the things that everybody wants to do with their assets and with their trading journey,
-- `4:03` we want to be able to facilitate all of that within one application.
-- `4:07` That's our long-term vision. That's why we're launching the mobile app in the next few months.
-- `4:11` That's why we're super quick to launch on these new networks.
-- `4:14` Like within a week or two of the network launching, we want to get live.
-- `4:17` And so incredibly quick to market, improving our product to make it as retail-friendly
-- `4:22` and as user-friendly as possible, just being able to get every asset possible on the app
-- `4:27` so that people can access anything. That's the objective.
-- `4:34` Successful meeting here really was able to get a lot done in a short period of time.
-- `4:40` Now we got to go back to Madrid for the Robinhood chain launch.
-- `4:43` So Go Live is in eight hours. This is the countdown.
-- `4:46` We got to do some calls with the team.
-- `4:48` We have to make sure everything's in working order.
-- `4:50` We have to communicate with the Robinhood team because we have a bunch of announcement materials
-- `4:54` that we have to get out to them, get their approval prior to Go Live.
-- `4:58` So there's a lot to do.
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
-</details>
+| | | |
+|---|---|---|
+| [![@nachovanzini](example/more/1792567677103263901.jpg)](https://x.com/nachovanzini/status/1792567677103263901)<br>**@nachovanzini** · 2:53 video · 117 views<br>1/ Listicle They love to use listicle format ads It's a great way to send traffic to a advertorial landing page 3 reasons why XYZ | [![@FedotOff90](example/more/2094854572623675832.jpg)](https://x.com/FedotOff90/status/2094854572623675832)<br>**@FedotOff90** · image · 47K views<br>6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) — 53-format lander database. | [![@k4komaaaal](example/more/2084289721703010738.jpg)](https://x.com/k4komaaaal/status/2084289721703010738)<br>**@k4komaaaal** · 15:11 video · 655 views<br>10 reasons why brands are ditching polished ads for founder faces on camera: 1. sushiswap, gymshark all started founder led content before ads 2. face |
+| [![@phemeinfluence](example/more/2078934717462888585.jpg)](https://x.com/phemeinfluence/status/2078934717462888585)<br>**@phemeinfluence** · image · 15K views<br>🐶 PET UGC OPPORTUNITY 35+ (cats or dogs moms) BRAND: Chewy PAY: $2000 + Product Pet brand hiring UGC creators to film a 90s advertorial video featurin |   |   |
 
 ## How to make one like it
 
@@ -104,14 +52,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:57 | We got to knock the meeting out, and then we got to get back to Spain because we have our Robin Hood product launch happening in the next 24 | … |
-| 2 | 2:50 | Nice little run, sunny day in Cannes, super nice day out. My favorite time to run is when it's super sunny, super hot. I feel like a good sw | … |
-| 3 | 4:44 | or you want to create maybe you want to generate some yield, right? You want to stake some Bitcoin or some ETH in a lending market and you w | … |
-| 4 | 6:38 | (visual beat, see frame 4) | … |
-| 5 | 8:32 | on screen: ee NY St Ad | … |
-| 6 | 10:26 | on screen: ey et ol ul ay ye mf iF | … |
-| 7 | 12:20 | on screen: al types of things right are kind ofthe focus, and so. | … |
-| 8 | 14:14 | (visual beat, see frame 8) | … |
+| 1 | 0:01 | on screen: Portland Leather Goods Tote That ALL The experiment, this opens with the so CH same video as the ad itself op Headline r | … |
+| 2 | 0:03 | on screen: SAVE AN EXTRA 25% WITH COOK HE 14:17:19 As an experiment, this opens with the same video as the ad itself WW Headline re | … |
+| 3 | 0:06 | on screen: Here are five hype-deserving reasons why you get the Mini Tote. As an experiment, this opens with the same video as the | … |
+| 4 | 0:08 | on screen: MINI TOTE eh As As an experiment, this $99 im 00 opens with the Then same video as the ad itself Tops th the Cl Headline | … |
+| 5 | 0:11 | on screen: a experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed 3. Ac | … |
+| 6 | 0:13 | on screen: 5. Organized Interior with Canvas Purse experiment, this Organizer opens with the same video as the ad itself Headline r | … |
+| 7 | 0:16 | on screen: As an experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed W | … |
+| 8 | 0:18 | on screen: SAVE 25% WITH COOK HER 14:17: 04 As an experiment, this opens with the same video as the ad itself Headline reflects the | … |
 
 ### 2. Shot-by-shot remake
 

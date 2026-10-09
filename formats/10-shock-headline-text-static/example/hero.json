@@ -15,5 +15,26 @@
  "likes": 73,
  "views": 4206,
  "seen": "A plain white static from Resilia with a huge black headline: \"MY SISTER SLEPT WITH MY HUSBAND.\" Below: \"Eight months later, she's the one everyone calls beautiful at family dinners. Because she drains parasites. And I didn't even know I had them.\" Then the product pack and \"SHOP NOW\". All the work is done by the shock line.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "1946251552919814347",
+   "author": "iwo_cybulski",
+   "url": "https://x.com/iwo_cybulski/status/1946251552919814347",
+   "thumb": "example/more/1946251552919814347.jpg",
+   "kind": "image",
+   "cap": "Long text static ad for Vitaboost \ud83d\udd25 \u2192 Want high-converting static ads + media buying for your brand? DM me \"ads\" \u26a1",
+   "views": 1122
+  },
+  {
+   "id": "1989120076415705137",
+   "author": "Aidanb2b",
+   "url": "https://x.com/Aidanb2b/status/1989120076415705137",
+   "thumb": "example/more/1989120076415705137.jpg",
+   "kind": "image",
+   "cap": "Which one of you was behind this ad creative masterclass. Big headline Great offer Urgent CTA 10/10",
+   "views": 154
+  }
+ ]
 }

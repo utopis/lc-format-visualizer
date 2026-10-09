@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 79 · Advertorial-style video ("5 reasons ___ are ditching ___")
 
 <!-- HERO:START -->
-[![Featured example: @k4komaaaal](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @AaronOrendorff](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/k4komaaaal/status/2084289721703010738)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/AaronOrendorff/status/1815524880361914630)
 <!-- HERO:END -->
+
+
 
 
 

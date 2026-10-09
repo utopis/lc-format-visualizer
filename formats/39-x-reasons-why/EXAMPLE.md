@@ -70,6 +70,14 @@ The storyboard above samples the video every 0:15. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@Bogzabs96](example/more/2092929767993471081.jpg)](https://x.com/Bogzabs96/status/2092929767993471081)<br>**@Bogzabs96** · 2:06 video · 2K views<br>This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad acc | [![@SeanKim436](example/more/2102890739432566805.jpg)](https://x.com/SeanKim436/status/2102890739432566805)<br>**@SeanKim436** · image · 525 views<br>Here are 3 reasons why the biggest consumer tech startups are POURING money into Canvas UGC over traditional influencer marketing in 2026 1. More volu |   |
+
 ## How to make one like it
 
 **The format in one line:** A numbered listicle — "3 reasons I only wear 14K PVD", "5 reasons this is the best gift under $100" — delivered as talking head, voiceless overlay, carousel or static. Same message, packaged as a list.

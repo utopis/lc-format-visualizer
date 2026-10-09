@@ -34,6 +34,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@robertythoughts](example/more/2096885424656359566.jpg)](https://x.com/robertythoughts/status/2096885424656359566)<br>**@robertythoughts** · image · 745 views<br>I built a 7 figure ecom brand at 24... and most of the day it's just me, sitting by myself in my room. I feel like in ecom, it's one of the few busine |   |   |
+
 ## How to make one like it
 
 **The format in one line:** "Pack an order with me" (founder/team ASMR) or customer unboxing of the LC box — tactile, satisfying, shows packaging and gift readiness.
@@ -59,13 +67,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 20-60s, 1080x1920, ASMR audio
+**Target length / size:** 20-45s, 1080x1920, ASMR
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-2s | Top-down packing table, hands only | "pack an order with me" |
-| 2 | 2-40s | Tissue, box, card, ribbon, sticker; close mic sounds | Text: what the customer ordered ("any 7 for $85") |
-| 3 | 40-55s | Finished box | "to Sarah in Ohio" |
+| 1 | 0-3s | Top-down: hands open a gold-foiled box, crisp paper sound | Caption: "packing your order" |
+| 2 | 3-15s | Wrapping each piece in tissue, sticker, card | No voice; real sounds amplified |
+| 3 | 15-25s | Handwriting a note | "Wear it in the sea. — L" |
+| 4 | 25-35s | Box closed, tape, label (blurred) | - |
+| 5 | End | Text on screen | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -88,10 +98,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
+**Audio**
+
+```text
+Clip-on mic near the table, no music or very low; boost paper and tape sounds +6 dB.
+```
+
 **Shoot**
 
 ```text
-Overhead phone mount, soft daylight, a lav mic close to the table for crinkles, no music or very quiet music.
+Overhead arm, soft top light, 4K 30fps, clean neutral table.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -133,8 +149,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Blur customer names and addresses.
-- Do not fake order volume.
+- Blur names and addresses.
+- Keep hands and nails clean and consistent.
+- ASMR needs real sound; music ruins it.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

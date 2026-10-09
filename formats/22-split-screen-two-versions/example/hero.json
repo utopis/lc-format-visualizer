@@ -15,6 +15,7 @@
  "likes": 3,
  "views": 172,
  "seen": "Fast UGC cuts for an herb-keeper product: wilted herbs (\"HERBS SAY GOODBYE\"), the creator smiling with the product, adding water, fresh mint and rosemary in the tubes (\"THAT FITS PERFECTLY\"), a finished salad and \"STOP WASTING HERBS\". The before and after sit next to each other.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -55,6 +56,44 @@
    "t": "0:24",
    "said": "favorite herbs. Upgrade your kitchen now and order yours today and stop wasting herbs.",
    "ocr": "reg STOP NG HERBS a"
+  }
+ ],
+ "more": [
+  {
+   "id": "2099292610175361351",
+   "author": "creativesbycare",
+   "url": "https://x.com/creativesbycare/status/2099292610175361351",
+   "thumb": "example/more/2099292610175361351.jpg",
+   "kind": "0:55 video",
+   "cap": "If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 1/4) \u2b50\ufe0f READING REVIEWS \u2b50\ufe0f Social pro",
+   "views": 114
+  },
+  {
+   "id": "2096979805346673029",
+   "author": "DailyYTNiches",
+   "url": "https://x.com/DailyYTNiches/status/2096979805346673029",
+   "thumb": "example/more/2096979805346673029.jpg",
+   "kind": "image",
+   "cap": "This channel hasn't even had a single flop video \ud83d\udc40 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format",
+   "views": 7344
+  },
+  {
+   "id": "2097064734474256890",
+   "author": "YouTubeAut3538",
+   "url": "https://x.com/YouTubeAut3538/status/2097064734474256890",
+   "thumb": "example/more/2097064734474256890.jpg",
+   "kind": "image",
+   "cap": "This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split ",
+   "views": 633
+  },
+  {
+   "id": "2096998590971269290",
+   "author": "ytaeliteacademy",
+   "url": "https://x.com/ytaeliteacademy/status/2096998590971269290",
+   "thumb": "example/more/2096998590971269290.jpg",
+   "kind": "image",
+   "cap": "This channel hasn't even had a single flop video \ud83d\udc40 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format",
+   "views": 428
   }
  ]
 }

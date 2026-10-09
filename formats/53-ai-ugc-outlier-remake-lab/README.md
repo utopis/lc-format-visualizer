@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 53 · AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid)
 
 <!-- HERO:START -->
-[![Featured example: @0xDepressionn](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @rathikrishnav](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/0xDepressionn/status/2107918489587507606)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/rathikrishnav/status/2056472046192951468)
 <!-- HERO:END -->
+
+
 
 
 

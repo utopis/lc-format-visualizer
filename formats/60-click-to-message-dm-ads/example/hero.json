@@ -1,6 +1,81 @@
 {
  "id": "F60",
  "kind": "system",
- "mock": true,
- "poster": "example/mock.png"
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/aura_alloy/status/1982632501110812979",
+ "author": "aura_alloy",
+ "type": "video",
+ "duration": 30,
+ "mp4": "https://video.twimg.com/amplify_video/1982632245832638465/vid/avc1/320x512/0clZNE9lEFZOTUfw.mp4?tag=21",
+ "w": 528,
+ "h": 848,
+ "via_quote": false,
+ "likes": 4,
+ "views": 911,
+ "seen": "A small jewellery seller's post: a 30-second clip of a moissanite pendant necklace turning slowly on a black velvet display card, with three more clips of other pieces. The whole sales path is in the caption: what comes in the box, the price, and \"to place an order, send us a DM or message us on WhatsApp\". It shows the selling-in-DMs behaviour that click-to-message ads are built for; it is an organic post, not a paid click-to-message ad.",
+ "match": "proxy",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:13",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:16",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:20",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:24",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "0:28",
+   "said": "",
+   "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "1726896564520845767",
+   "author": "tajaccesories",
+   "url": "https://x.com/tajaccesories/status/1726896564520845767",
+   "thumb": "example/more/1726896564520845767.jpg",
+   "kind": "0:03 video",
+   "cap": "The \u201cCupid\u201d love necklace Price: N5,500 Please send us a DM to order Jewelry in Lagos. Delivery available Nationwide @HafeezAkanni_",
+   "views": 366
+  },
+  {
+   "id": "1968749907600105843",
+   "author": "3sixfivepro",
+   "url": "https://x.com/3sixfivepro/status/1968749907600105843",
+   "thumb": "example/more/1968749907600105843.jpg",
+   "kind": "0:26 video",
+   "cap": "Click-to-message ads on @WhatsApp are a simple way to move people from scrolling to starting a conversation. \u2705 Instead of sending them to a landing pa",
+   "views": 43
+  }
+ ]
 }

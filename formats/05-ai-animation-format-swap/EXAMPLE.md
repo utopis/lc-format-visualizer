@@ -37,6 +37,15 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@Diego_exits](example/more/2101991919920243015.jpg)](https://x.com/Diego_exits/status/2101991919920243015)<br>**@Diego_exits** · images · 4K views<br>PRIMALQUEEN $6M/mo, 1,019 active ads; normal cartoon ads. | [![@CEO_Vlad](example/more/2107328605995077699.jpg)](https://x.com/CEO_Vlad/status/2107328605995077699)<br>**@CEO_Vlad** · image · 49K views<br>7 AI UGC animation styles and what each is good for (article). | [![@ArmandasPuckus](example/more/2107781382533472512.jpg)](https://x.com/ArmandasPuckus/status/2107781382533472512)<br>**@ArmandasPuckus** · image · 44K views<br>'Selling to menopausal women with AI animations IS the method'. |
+| [![@LordofAds](example/more/2102132251706429937.jpg)](https://x.com/LordofAds/status/2102132251706429937)<br>**@LordofAds** · images · 5K views<br>'Money glitch': remake best 30-day ad in 6 animation styles (Pixar, anime, paper cutout, whiteboard, skeleton...). | [![@therahulissar](example/more/2099519666045776287.jpg)](https://x.com/therahulissar/status/2099519666045776287)<br>**@therahulissar** · images · 3K views<br>Break Meta audience cap with format change (same message, new display: AI video, static, lo-fi) and new personas. | [![@CEO_Vlad](example/more/2087333716334924071.jpg)](https://x.com/CEO_Vlad/status/2087333716334924071)<br>**@CEO_Vlad** · image · 10K views<br>Pixar-style AI ads helped $117k day. |
+
 ## How to make one like it
 
 **The format in one line:** Same script/angle as a proven ad, re-rendered in an animated style. Styles and their jobs (from @CEO_Vlad's 7-styles chart and tier list): | Style | Good for | Why | |---|---|---| | Claymation | everyday embarrassing problems | clay hides AI artifacts → highest usable rate | | Pixar-style 3D | emotional benefits (confidence, family) | faces carry emotion; stages what a camera can't | | "Zach Films

@@ -15,6 +15,7 @@
  "likes": 73,
  "views": 11965,
  "seen": "A styling video: the same woman on a turntable stand in a wood-panelled room, changing outfit every couple of seconds (white set, wide trousers, sun hat, blue dress, black, maroon). It shows many ways to wear and style one wardrobe.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -55,6 +56,53 @@
    "t": "0:25",
    "said": "Elegant, timeless, unforgettable.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "1923138423730082122",
+   "author": "JREMERALD",
+   "url": "https://x.com/JREMERALD/status/1923138423730082122",
+   "thumb": "example/more/1923138423730082122.jpg",
+   "kind": "0:44 video",
+   "cap": "How to Stack Green Emerald & Diamond Jewelry Like a Pro \ud83d\udc9a Rings, Bracelets, Earrings & Necklaces #diamondnecklace #emeraldnecklace #diamondring #emera",
+   "views": 81
+  },
+  {
+   "id": "1639052220145750016",
+   "author": "AprilNJennywang",
+   "url": "https://x.com/AprilNJennywang/status/1639052220145750016",
+   "thumb": "example/more/1639052220145750016.jpg",
+   "kind": "0:28 video",
+   "cap": "How to stack rings like a pro!#jewelry #fashion #jewellery #handmade #earrings #accessories #necklace #gold #handmadejewelry #love #style #jewelrydesi",
+   "views": 10
+  },
+  {
+   "id": "1662465795333701632",
+   "author": "RoyElevate",
+   "url": "https://x.com/RoyElevate/status/1662465795333701632",
+   "thumb": "example/more/1662465795333701632.jpg",
+   "kind": "0:15 video",
+   "cap": "How to Layer Delicate Necklaces; Check more at http://royelevate.com #reels #trending #jewelry #necklace #foryou #royelevate",
+   "views": 11
+  },
+  {
+   "id": "1629002990211444737",
+   "author": "Atelier12Bis",
+   "url": "https://x.com/Atelier12Bis/status/1629002990211444737",
+   "thumb": "example/more/1629002990211444737.jpg",
+   "kind": "images",
+   "cap": "New wrap necklaces ! So many ways to wear them !!! #necklace #beads #handmade #wrapnecklace #beadedjewelry #collana #handmadeaccessory #\u30cd\u30af\u30ec\u30b9 #\u30d3\u30fc\u30ba #col",
+   "views": 498
+  },
+  {
+   "id": "2087866038750736389",
+   "author": "happy_place247",
+   "url": "https://x.com/happy_place247/status/2087866038750736389",
+   "thumb": "example/more/2087866038750736389.jpg",
+   "kind": "0:27 video",
+   "cap": "As a fashion vendor, you could simply put your outfits on a mannequin, or you could show potential customers what those same pieces actually look like",
+   "views": 1325
   }
  ]
 }

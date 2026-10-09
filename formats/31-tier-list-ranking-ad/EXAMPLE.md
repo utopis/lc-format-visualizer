@@ -44,6 +44,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@adswithcami](example/more/2095208948764668068.jpg)](https://x.com/adswithcami/status/2095208948764668068)<br>**@adswithcami** · image · 2K views<br>I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best |   |   |
+
 ## How to make one like it
 
 **The format in one line:** The creator (or a static) ranks options in S/A/B/C/D/F tiers — e.g. "every type of gold jewelry ranked for people who never take it off" — explaining each placement; the product lands in S-tier with the reason. Works as video (talking over a tier-maker board) or static image.

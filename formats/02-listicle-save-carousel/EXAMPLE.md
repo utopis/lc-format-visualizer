@@ -19,6 +19,15 @@ Two screenshots: a recipe app's App Store page (Daily Bite, "Save Any Recipe Any
 | 1 | 19:42 19 App Stats 5k downloads $10k revenue last month Cancel Daily Bite: Save Recipes oS Meal Planner, Grocery List ep DEV LANG Years Food Drink Jasper En Save Any Recipe 500 High-protein Anywhere written for From Instagram, or any website of Daily Bite Meal pre for Daily Bite a 1. ws Sea es Apps  |
 | 2 | 20:09 iS 15 Success Fitness 55 1.4M 25.4M Following Followers Likes Follow Message Nutrition Coach Get our app with all 500 recipes Success board Subscription hy ty ie a wa Pr ad at ae TO! your. this YO! IF a fe ae 222M mom sl ow a ED INNER STi Fi Ig! YOU Pull WEEK! YOUR: Ss. sae ee ob 23. pe NS TIT |
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@rsalimx](example/more/2107517609960702306.jpg)](https://x.com/rsalimx/status/2107517609960702306)<br>**@rsalimx** · images · 6K views<br>Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it). | [![@_afterblossom_](example/more/2095194062756413781.jpg)](https://x.com/_afterblossom_/status/2095194062756413781)<br>**@_afterblossom_** · images · 35K views<br>Throwing back this piece to see in the new carousel format https://t.co/rOPT5RDzKO | [![@rustybrick](example/more/2085121962976661782.jpg)](https://x.com/rustybrick/status/2085121962976661782)<br>**@rustybrick** · image · 5K views<br>ChatGPT Ads Product Updates including multi-product carousel format for product feed campaigns https://t.co/TWMRyCOCy2 |
+| [![@glenngabe](example/more/2085345793343377737.jpg)](https://x.com/glenngabe/status/2085345793343377737)<br>**@glenngabe** · image · 2K views<br>ChatGPT Ads update -&gt; ChatGPT is testing a multi-product carousel format for product feed campaigns "We’ve started testing a carousel format for pr | [![@kajiiaura](example/more/2085392121830515010.jpg)](https://x.com/kajiiaura/status/2085392121830515010)<br>**@kajiiaura** · 0:06 video · 737 views<br>bruh the carousel format ruined this https://t.co/RhNKJbSkOJ |   |
+
 ## How to make one like it
 
 **The format in one line:** Cover slide with a big, warm "for you" headline over a hero image ("High protein dinner ideas FOR YOU", "5 weeknight dinners for your lazy ass", "dinners to make for your husband this week") then **one item per slide**, each a beautiful photo + 1-line label. Product/app line sits in bio ("Get our app with all 500+ recipes") or on the last slide ("all of this, in your pocket"). Example account: @su

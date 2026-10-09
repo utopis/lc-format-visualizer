@@ -15,6 +15,7 @@
  "likes": 265,
  "views": 16345,
  "seen": "An emotional relatable slideshow: \"I'm 24 years old and I'm moving back into my childhood bedroom after losing my job...\" over a photo of a young woman, with the story continuing across the slides.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:00",
@@ -45,6 +46,35 @@
    "t": "0:08",
    "said": "",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2108234459241935255",
+   "author": "g_buildz_apps",
+   "url": "https://x.com/g_buildz_apps/status/2108234459241935255",
+   "thumb": "example/more/2108234459241935255.jpg",
+   "kind": "image",
+   "cap": "\"Post emotional slideshows on TikTok\" \u2014 one slideshow: 13.3K views, 2,881 likes, 802 shares, 313 saves (TikTok Studio screenshot).",
+   "views": 390
+  },
+  {
+   "id": "2100425887636472312",
+   "author": "Dkevs_",
+   "url": "https://x.com/Dkevs_/status/2100425887636472312",
+   "thumb": "example/more/2100425887636472312.jpg",
+   "kind": "0:05 video",
+   "cap": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
+   "views": 4461
+  },
+  {
+   "id": "2095543004626890752",
+   "author": "BrunoF566",
+   "url": "https://x.com/BrunoF566/status/2095543004626890752",
+   "thumb": "example/more/2095543004626890752.jpg",
+   "kind": "image",
+   "cap": "TikTok slideshows are being used completely wrong. Most people treat them like a lottery ticket. Post the same recycled hooks, hope one goes viral, th",
+   "views": 3403
   }
  ]
 }

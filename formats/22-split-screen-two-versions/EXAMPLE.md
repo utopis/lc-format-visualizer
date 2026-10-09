@@ -39,6 +39,15 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@creativesbycare](example/more/2099292610175361351.jpg)](https://x.com/creativesbycare/status/2099292610175361351)<br>**@creativesbycare** · 0:55 video · 114 views<br>If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 1/4) ⭐️ READING REVIEWS ⭐️ Social pro | [![@DailyYTNiches](example/more/2096979805346673029.jpg)](https://x.com/DailyYTNiches/status/2096979805346673029)<br>**@DailyYTNiches** · image · 7K views<br>This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format | [![@YouTubeAut3538](example/more/2097064734474256890.jpg)](https://x.com/YouTubeAut3538/status/2097064734474256890)<br>**@YouTubeAut3538** · image · 633 views<br>This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split |
+| [![@ytaeliteacademy](example/more/2096998590971269290.jpg)](https://x.com/ytaeliteacademy/status/2096998590971269290)<br>**@ytaeliteacademy** · image · 428 views<br>This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format |   |   |
+
 ## How to make one like it
 
 **The format in one line:** Left: version A of a person's day; right: version B (with product), synced timelines, captions with times.

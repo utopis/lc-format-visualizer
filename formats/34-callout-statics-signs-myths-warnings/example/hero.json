@@ -15,5 +15,7 @@
  "likes": 17,
  "views": 2873,
  "seen": "A product callout static: the headline \"See Clearly. Drive Safely. Instantly.\" over the ClearVision box, four benefit callouts with icons (Instant Clarity, Anti-Fog Protection, Water Repellent, Long-Lasting Effect) and a review bar (\"4.8/5.0 based on 10,000+ reviews\").",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": []
 }

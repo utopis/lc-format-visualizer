@@ -151,6 +151,15 @@ The storyboard above samples the video every 1:19. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@AriaWeber59144](example/more/2011218867725746232.jpg)](https://x.com/AriaWeber59144/status/2011218867725746232)<br>**@AriaWeber59144** · 0:40 video · 14 views<br>Differences in Skin Care Between American and Korean Women #beauty #fyp #skincare #pretty #funny | [![@AriaWeber59144](example/more/2005818535054811329.jpg)](https://x.com/AriaWeber59144/status/2005818535054811329)<br>**@AriaWeber59144** · 0:30 video · 18 views<br>3 Beauty Habits Korean Women Always Follow #beauty #fyp #skincare #korea #funny | [![@Yonderfood](example/more/2022310049440219511.jpg)](https://x.com/Yonderfood/status/2022310049440219511)<br>**@Yonderfood** · 0:21 video · 14 views<br>Inside a French pharmacy 🇫🇷 Timeless skincare staples French women swear by. Save this for your next trip. http://Yonderfood.com |
+| [![@LifeForge_Well](example/more/2033997661599125785.jpg)](https://x.com/LifeForge_Well/status/2033997661599125785)<br>**@LifeForge_Well** · 0:42 video · 10 views<br>This is the most gatekeeper Korean skincare line that actually real Korean women use #tiktokshopcreatorpicks #koreanskincare #torridendivein #antiagin |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A first-person story where the narrator spent time inside another culture (Seoul office, Swiss clinic, Japanese pharmacy) and noticed that local women do one thing differently. A local colleague explains the mechanism over dinner, the narrator brings it home, and family members ask "did you get work done?" The authority comes from the place and the insider, not a doctor.
@@ -176,14 +185,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 60s-10 min
+**Target length / size:** 45-120s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-10s | First-person story hook over B-roll of the city | "I lived in Seoul for 2 years and noticed something about the women in my office." |
-| 2 | 10s-2m | What local women do differently | Specific, respectful details |
-| 3 | 2-3m | The product as the thing she brought home | - |
-| 4 | End | - | CTA |
+| 1 | 0-5s | Narrator to camera or over B-roll of a city street | "I lived in Seoul for two years and noticed something about the women in my office." |
+| 2 | 5-30s | B-roll: subway, office, cafés; specific observation | "Nobody took their jewellery off. Not for the gym, not for the sauna." |
+| 3 | 30-60s | Why: the material they wear (stainless + PVD) and the habit | One true, specific detail per line |
+| 4 | 60-80s | Narrator back home, putting on the same kind of stack | "So I found the closest thing here." |
+| 5 | End | Product + offer | "Louise Carter. Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -212,7 +222,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Claude**
 
 ```text
-Write a first-person insider story about [culture/place]; every cultural detail must be accurate and respectful; the product is what the narrator adopted.
+Write a first-person insider story about [place]. Every cultural detail must be accurate, specific and respectful; no stereotypes. The product is what the narrator adopted after living there. 90 seconds.
+```
+
+**B-roll**
+
+```text
+Use licensed stock or your own travel footage of the city; no AI-generated "local people" presented as real.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -259,7 +275,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- No stereotypes, no invented facts about a culture.
+- No stereotypes or invented facts about a culture.
+- The narrator must really have lived there, or present it as a character.
+- Don't claim the product is from that country if it isn't.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

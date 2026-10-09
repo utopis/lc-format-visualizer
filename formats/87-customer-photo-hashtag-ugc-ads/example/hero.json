@@ -15,5 +15,26 @@
  "likes": 1,
  "views": 20,
  "seen": "A customer-review static for a jewelry brand: \"Customer Review\" in a circle stamp, five gold stars and a WhatsApp-style chat (\"I love the ring. Got it a few months ago & it's not faded.\").",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "1769740220675633156",
+   "author": "RetunedJewelry",
+   "url": "https://x.com/RetunedJewelry/status/1769740220675633156",
+   "thumb": "example/more/1769740220675633156.jpg",
+   "kind": "image",
+   "cap": "1. Post a picture of yourself rocking your Retuned Jewelry on Facebook, Instagram or X. 2. Tag us, @retunedjewelry 3. Use the hashtag #RockYourRetuned",
+   "views": 82
+  },
+  {
+   "id": "1909192888975601983",
+   "author": "crosscampaign",
+   "url": "https://x.com/crosscampaign/status/1909192888975601983",
+   "thumb": "example/more/1909192888975601983.jpg",
+   "kind": "images",
+   "cap": "Be Part of the #ILoveTheCross Challenge - Rock your cross, whether it\u2019s a necklace, bracelet, or the placard shown above - Snap a photo that clearly s",
+   "views": 221
+  }
+ ]
 }

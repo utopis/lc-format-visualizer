@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 89 · Customer thank-you / shout-out turned into an ad
 
 <!-- HERO:START -->
-[![Featured example: @Zobo_Konect](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @LorelDiamonds](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Zobo_Konect/status/2100470193377923466)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/LorelDiamonds/status/2099906094990508266)
 <!-- HERO:END -->
+
+
 
 
 

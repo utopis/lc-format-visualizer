@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 62 · Catalog / collection / dynamic product ads (Advantage+ catalog, catalog video, collection + Instant Experience lookbook)
 
 <!-- HERO:START -->
-[![Featured example: @Vickyjr](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @danpantelo](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Vickyjr/status/2102260350263382341)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/danpantelo/status/1640330448818544640)
 <!-- HERO:END -->
+
+
 
 
 

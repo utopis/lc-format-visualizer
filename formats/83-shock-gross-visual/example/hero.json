@@ -15,6 +15,7 @@
  "likes": 3,
  "views": 1631,
  "seen": "A woman in a robe and headband doing a close-up demo of a gross-but-satisfying product, with captions, filmed in one take in her bathroom.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,44 @@
    "t": "0:33",
    "said": "using this product every single night for the rest of my life.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2100011962352513295",
+   "author": "jadorz",
+   "url": "https://x.com/jadorz/status/2100011962352513295",
+   "thumb": "example/more/2100011962352513295.jpg",
+   "kind": "0:07 video",
+   "cap": "tried $2 ring gimmick and it turned my finger green",
+   "views": 670
+  },
+  {
+   "id": "1919742776255635591",
+   "author": "Nerdspringbreak",
+   "url": "https://x.com/Nerdspringbreak/status/1919742776255635591",
+   "thumb": "example/more/1919742776255635591.jpg",
+   "kind": "image",
+   "cap": "Worst birthday is when my boyfriend bought me ring that turned my finger green and a man's size trench coat from Rt 18 flea market. I still miss the U",
+   "views": 942
+  },
+  {
+   "id": "1948169528703398314",
+   "author": "huntingbygones",
+   "url": "https://x.com/huntingbygones/status/1948169528703398314",
+   "thumb": "example/more/1948169528703398314.jpg",
+   "kind": "image",
+   "cap": "me at the doctor showing them how my cheap ring turned my finger green",
+   "views": 96
+  },
+  {
+   "id": "1819923093139165232",
+   "author": "drebabys",
+   "url": "https://x.com/drebabys/status/1819923093139165232",
+   "thumb": "example/more/1819923093139165232.jpg",
+   "kind": "video",
+   "cap": "my TikTok ring turned my finger green\u2026.",
+   "views": 64
   }
  ]
 }

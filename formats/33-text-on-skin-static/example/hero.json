@@ -1,6 +1,31 @@
 {
  "id": "F33",
  "kind": "static",
- "mock": true,
- "poster": "example/mock.png"
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/Outscaler/status/1919120416485855259",
+ "author": "Outscaler",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 6,
+ "views": 391,
+ "seen": "A collagen ad from Kollo Health (shared as an example of the 'text on skin' concept): a close-up of a woman's face with small paper-style stickers stuck on her skin \u2014 \"wrinkles?\" and \"Kollo\" \u2014 and the caption \"Visible results in as little as 28 days\". A second version does the same on a man's face (\"it's also for blokes!\"). The words sit right on the skin where the problem is.",
+ "match": "close",
+ "beats": [],
+ "more": [
+  {
+   "id": "1708930597014384941",
+   "author": "S1R3NH3AD",
+   "url": "https://x.com/S1R3NH3AD/status/1708930597014384941",
+   "thumb": "example/more/1708930597014384941.jpg",
+   "kind": "image",
+   "cap": "saw this ad and you will never believe what i thought she was writing on her arm",
+   "views": 19602
+  }
+ ]
 }

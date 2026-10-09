@@ -15,6 +15,7 @@
  "likes": 140,
  "views": 55242,
  "seen": "A creator talking to camera (\"This is Meta's answer to TikTok Shop\") with cutaways to persona-style pages: a woman holding a drink can, product screenshots, a \"where you can deliver\" card and a landing page. It explains how persona pages run ads natively.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -55,6 +56,26 @@
    "t": "0:25",
    "said": "and to make the order a no brainer? Like we're looking for no brainer offers.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2107516274142285842",
+   "author": "DTC_Quizbuilder",
+   "url": "https://x.com/DTC_Quizbuilder/status/2107516274142285842",
+   "thumb": "example/more/2107516274142285842.jpg",
+   "kind": "image",
+   "cap": "Noverly's copy is built around one idea: ED isn't age or testosterone, it's a clogged pipe They sell it through a doctor-bylined listicle The buyer th",
+   "views": 643
+  },
+  {
+   "id": "2078473442714616149",
+   "author": "benradack",
+   "url": "https://x.com/benradack/status/2078473442714616149",
+   "thumb": "example/more/2078473442714616149.jpg",
+   "kind": "image",
+   "cap": "I consolidated our whitelisting ads into one ad set with our brand videos. My CBO performs better with fewer ad sets running. So instead of keeping wh",
+   "views": 2042
   }
  ]
 }

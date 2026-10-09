@@ -1,8 +1,36 @@
 # 61 · Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer): see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @f3dericobartoli's post](example/storyboard.jpg)](https://x.com/f3dericobartoli/status/2039638255537201662)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@f3dericobartoli on X](https://x.com/f3dericobartoli/status/2039638255537201662) · 4 images · 19 likes, 2K views
+
+**Watch it:** [open the post on X](https://x.com/f3dericobartoli/status/2039638255537201662)
+
+> **How close is this example?** Close: quiz-funnel statics; no poll-sticker ad found. The gallery below has more examples.
+
+> Some statics we recently made for a quiz funnel >>> we figure out the untapped angles that we can test >>> we make the landing page first (in this case a personalized quiz) >>> then we create 20+ different concepts >>> each concept gets 3 to 5 different visual styles >>> each visual style gets paired with short, medium and long form Primary Ad Text >>> so that we easily create 200+ variations in 2/3 hours >>> when we…
+
+## What you are seeing
+
+Four statics a creative team made for a quiz funnel. One is an iMessage thread: "I finally looked into the hair thing. Took some quiz. Turns out it's not even about growth..." Another is an editorial 'New research' card. Each ad's job is to get people to start a quiz, which then matches them to a product.
+
+## Image by image
+
+| Image | Text on it (OCR, rough) |
+|---|---|
+| 1 | New Research Hair Loss Isn’t Genetic. It’s Structural. Clinical framework reveals the protein collapse behind male pattern thinning. ff Se Read the findings |
+| 2 | 11 5G GA Sarah finally looked into the hair thing. Took some quiz. Turns out it's not even about growth the anchor holding the hair is what breaks down. Everything tried before was only doing half the job. actually feel like understand it now. a |
+| 3 | Day How much could you recover in 90 days? Take the quiz |
+| 4 | (mostly visual) |
+
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@frugalfreebies](example/more/1801654197462479132.jpg)](https://x.com/frugalfreebies/status/1801654197462479132)<br>**@frugalfreebies** · image · 5 views<br>This or that? Which one would you pick for Father's Day? OneStopPlus Clearance Sale! - As low as $4.98! PLUS: Save 50% with code: KSESITEWIDE https:// | [![@ZeeNunewTikTok](example/more/1927734140985541103.jpg)](https://x.com/ZeeNunewTikTok/status/1927734140985541103)<br>**@ZeeNunewTikTok** · image · 624 views<br>Tag Booster ‼️ Lats play This or that Jewelry edition. Tell us your choices in the comments. Please remember to use the hashtag and keyword. KazzMag19 | [![@codyschneider](example/more/2093098436069568758.jpg)](https://x.com/codyschneider/status/2093098436069568758)<br>**@codyschneider** · image · 7K views<br>an AI agent is running facebook ads for a local business it just got the 2170 ebook downloads in august 16% of people who download the ebook turn into |
+| [![@zakburgers](example/more/2082826379863707993.jpg)](https://x.com/zakburgers/status/2082826379863707993)<br>**@zakburgers** · image · 1K views<br>working with the biggest peptide players gave me huge experience in the segmentation game for emails creating 10 different angle flows for these brand | [![@codyschneider](example/more/2093096255786234158.jpg)](https://x.com/codyschneider/status/2093096255786234158)<br>**@codyschneider** · image · 959 views<br>an AI agent is running this local business facebook ads it got the 2170 ebook downloads 16% of people who download the ebook turn into a future patien | [![@JamesEbringer](example/more/2081462841052151919.jpg)](https://x.com/JamesEbringer/status/2081462841052151919)<br>**@JamesEbringer** · images · 2K views<br>Facebook CPCs in Africa are $0.05 right now Five cents a click Go inside TAP and look for the Africa Ads Method Set up a Facebook ad account Point a s |
 
 ## How to make one like it
 
@@ -18,13 +46,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Story/Reel ad with poll + optional quiz
+**Target length / size:** Story ad with a poll sticker, or a quiz-funnel static
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Story ad | Two products side by side | Poll sticker: "Herringbone or paperclip?" |
-| 2 | Retarget | Show the chosen one to each voter | "You picked herringbone" |
-| 3 | Quiz variant | "Find your stack in 30s" landing quiz | 3-5 questions → recommendation |
+| 1 | Story frame 1 | Two necklaces side by side | Poll sticker: "Paperclip or snake chain?" |
+| 2 | Story frame 2 | Result reveal next day | "62% said paperclip. Here's how to style it." |
+| 3 | Quiz static | iMessage-style screenshot | "Took a 30-second quiz and it picked my stack." |
+| 4 | Retarget | Ads by answer: paperclip voters see paperclip stacks | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -51,7 +80,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Meta**
 
 ```text
-Add the poll sticker in Ads Manager (Stories/Reels placements), build custom audiences from poll answers, retarget each with the chosen product.
+Instagram Stories ad with the poll sticker (available in Ads Manager for Stories placements); build engaged audiences by answer.
+```
+
+**Quiz (Octane AI / Typeform)**
+
+```text
+5 questions (style, metal tone, budget, occasion, sea or city), result = a 7-piece stack with an add-all button.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -93,9 +128,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Polls work only on Stories/Reels placements.
-- Keep the quiz under 5 questions.
-- No clean public example; visual is a mock.
+- Polls only work in Stories placements.
+- The quiz result must be a real, buyable stack.
+- Keep quizzes under 6 questions.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

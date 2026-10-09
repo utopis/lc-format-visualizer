@@ -18,6 +18,14 @@ A spec static built from a single verbatim review: "Your customers already wrote
 |---|---|
 | 1 | How find ad ideas Your customers already wrote it. Most of the time you don't even know it's on. owner, 5-star review Ba Spec ad for |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@PhilKiel](example/more/1842707896443732362.jpg)](https://x.com/PhilKiel/status/1842707896443732362)<br>**@PhilKiel** · image · 22K views<br>Customer review static. Who thinks a customer actually wrote this? Stellar copywriting if they did 😂 | [![@ariesnotebook](example/more/1857792129004675247.jpg)](https://x.com/ariesnotebook/status/1857792129004675247)<br>**@ariesnotebook** · image · 5K views<br>Simple but effective testimonial static. Stats: 4.8M likes | [![@helloitsdrew_](example/more/2000557038682706000.jpg)](https://x.com/helloitsdrew_/status/2000557038682706000)<br>**@helloitsdrew_** · image · 893 views<br>Keys to an effective review/testimonial static: - Review that highlights a specific product benefit - Review shown in an authentic way (social media U |
+
 ## How to make one like it
 
 **The format in one line:** One unedited customer review, typos and all, set in large type (or as a screenshot of the review), with only a small logo and product photo. The brand steps back: "this review says it better than we could."

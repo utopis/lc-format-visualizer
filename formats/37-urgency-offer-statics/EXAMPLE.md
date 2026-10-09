@@ -18,6 +18,15 @@ A product page shot as an offer static: a dog holding a treat bag, a countdown t
 |---|---|
 | 1 | SUMMER SALE ve pp 59: 45 Rated 4.9 Excellent 100% Wholesome Treats for Happiness Delicious, al-natural dog treats made with real res peanut butter and banana, Perfect for training, rewarding, or just showing your pup some love. create ring my to United Time offer -Ends Happy Pup, a Single Pack $14.9 |
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@johntech778](example/more/2102744531489751066.jpg)](https://x.com/johntech778/status/2102744531489751066)<br>**@johntech778** · image · 369 views<br>"6,200+ Bottles Sold This Month" is the most under-used line on any product page. Here's how I structured a Goli Ashwagandha buy box around it 10 conv | [![@usmanstrategist](example/more/2087306011849965645.jpg)](https://x.com/usmanstrategist/status/2087306011849965645)<br>**@usmanstrategist** · image · 299 views<br>Here's a breakdown of the three funnel stages and the best creative formats for each, so you can drive more purchases and scale your brand more profit | [![@kylaugccreator](example/more/2096744141031981406.jpg)](https://x.com/kylaugccreator/status/2096744141031981406)<br>**@kylaugccreator** · 0:37 video · 228 views<br>Here’s an ugc example I created for Bucketlisters Nashville app The goal was to showcase a limited-time 90s throwback bar while positioning Bucketlist |
+| [![@hey_ankita](example/more/2102704237805547557.jpg)](https://x.com/hey_ankita/status/2102704237805547557)<br>**@hey_ankita** · 0:15 video · 45K views<br>90% OFF Seedance 2.5 on Pippit AI, now only $1.5/month for a limited time. Pippit AI is giving creators access to the official, native Seedance 2.5 mo | [![@johntech778](example/more/2101658718647521629.jpg)](https://x.com/johntech778/status/2101658718647521629)<br>**@johntech778** · image · 368 views<br>Buy 1 Get 1 Free" is the most under-used conversion lever in supplement DTC. Here's how I structured a product page around it. 8 conversion decisions | [![@jackolivieri_](example/more/2097798592010547583.jpg)](https://x.com/jackolivieri_/status/2097798592010547583)<br>**@jackolivieri_** · images · 117 views<br>Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share). |
+
 ## How to make one like it
 
 **The format in one line:** Bottom-of-funnel statics built around a real time/stock constraint: "back in stock", "only N left", "ends Sunday", "BFCM: any 7 for $85 + free gift". Clean product + offer + deadline. For retargeting and seasonal pushes.
@@ -32,14 +41,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static, 1080x1350
+**Target length / size:** 1 static 1080x1350 per offer type
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Top bar | Countdown or "BACK IN STOCK" bar | Real end date / real stock |
-| 2 | Hero | Product clean on a simple background | - |
-| 3 | Offer block | Bundle picker: single / buy 2 get 1 / any 7 for $85 | Highlight the best value |
-| 4 | Trust | Stars + review count + guarantee | - |
+| 1 | Low stock | Product photo + a live-looking stock bar | "Only 38 left of the Mae Necklace." |
+| 2 | Back in stock | Bold "BACK" headline over the product | "Back in stock. Sold out in 9 days last time." |
+| 3 | Limited-time offer | Offer in big type, end date | "Any 7 for $85 · Ends Sunday" |
+| 4 | BFCM | Black background, gold type | "Black Friday: the stack deal, once a year." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -67,7 +76,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Figma**
 
 ```text
-Offer box with 3 rows, the best one outlined in brand gold with a "Most popular" tag, prices 48px.
+Headline 110px, offer line 56px, product 50% of canvas; a version per offer, same layout so only the message changes.
+```
+
+**Inventory link**
+
+```text
+Pull the real stock number from Shopify on the day you post; update or pause the ad when it changes.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -111,8 +126,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Fake scarcity or fake countdowns break consumer law (FTC) and trust.
-- One offer per ad.
+- Low-stock and deadline claims must be true (consumer law).
+- Turn ads off when the offer ends.
+- Don't run urgency all year; it stops working.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

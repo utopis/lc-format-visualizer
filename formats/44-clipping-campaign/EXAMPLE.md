@@ -31,6 +31,15 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@alexzgirbu](example/more/2092441815739670637.jpg)](https://x.com/alexzgirbu/status/2092441815739670637)<br>**@alexzgirbu** · images · 2K views<br>Clipper earns ~$3k per 1M views cutting streams/vlogs into short clips submitted to Content Rewards/Clipping Net/Clipster campaigns. | [![@natiakourdadze](example/more/2107495566225834123.jpg)](https://x.com/natiakourdadze/status/2107495566225834123)<br>**@natiakourdadze** · image · 1K views<br>The easiest way to get banned on Clip Brand? A bot score of 99. Don't submit videos with fake views. Content Rewards detects bots, and we can see it r | [![@LinoLeighton](example/more/2077533819905744955.jpg)](https://x.com/LinoLeighton/status/2077533819905744955)<br>**@LinoLeighton** · images · 32K views<br>Currently at 60 clippers now for side app. I’ve only spent $430 on this faceless clipping campaign so far and it’s currently on around 10X return. Ove |
+| [![@alexxgrowth](example/more/2085667455062389146.jpg)](https://x.com/alexxgrowth/status/2085667455062389146)<br>**@alexxgrowth** · images · 10K views<br>doordash did $13.7 BILLION in revenue last year they have one of the best marketing teams on the planet and they just launched something called Cringe | [![@savixbt](example/more/2082914407567462902.jpg)](https://x.com/savixbt/status/2082914407567462902)<br>**@savixbt** · image · 1K views<br>clippers in the house, @blknoiz06 just drop a clipping campaign for clippers there’s $10,000 in $ANSEM reward every month for clippers. requirements: | [![@Dkevs_](example/more/2103032078514246093.jpg)](https://x.com/Dkevs_/status/2103032078514246093)<br>**@Dkevs_** · image · 896 views<br>if you’re a founder and you haven’t launched your own clipping campaign yet just start. it’s one of the cheapest ways to distribute your content at sc |
+
 ## How to make one like it
 
 **The format in one line:** Post a campaign on a clipping marketplace (Content Rewards, Whop clipping, Sideshift-type) paying a fixed rate per 1k views; dozens of clippers cut your long-form (founder podcast, lives, interviews) or a template format into shorts on their own accounts.
@@ -54,13 +63,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Campaign on a clipping marketplace; clips 15-60s
+**Target length / size:** System: a pool of clippers posting short clips from founder or podcast content, paid per 1,000 views
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Source | Long-form founder/podcast content | Hours of raw material |
-| 2 | Clips | Clippers cut 15-60s moments with captions | Strong first line |
-| 3 | Payout | Fixed $ per 1k views | Cap per clip |
+| 1 | Source | A long founder video or podcast episode (20-60 min) | - |
+| 2 | Brief | A shared folder with the source, the brand rules and 10 example clips | "Cut 15-45s moments; captions on; tag @louisecarter" |
+| 3 | Clips | Clippers post on their own TikTok/IG/YT accounts | Hooks pulled from the best lines |
+| 4 | Payout | Views tracked via platform (e.g. Whop/Clipping) and paid per 1,000 | - |
+| 5 | Recycle | Best clips become paid ads (with rights) | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -84,10 +95,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Campaign brief**
+**Brief (Claude)**
 
 ```text
-Rate $X per 1k views (cap $Y per clip), required: brand handle in caption, #ad, no reposting other creators. Provide 10 example clips.
+Write a clipper brief: what to cut, what never to say, caption style, required disclosure (#ad / paid partnership), payout rate and rules.
+```
+
+**Platform**
+
+```text
+Set up a campaign with a CPM cap, a view floor per clip, and manual approval of the first 20 clips.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -129,9 +146,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Clips need disclosure.
-- View fraud: pay only on platform-verified views.
-- The featured example is a 4-second reaction format repeated by many clip accounts.
+- Clippers must disclose the paid relationship.
+- Approve early clips; one bad clip can misquote the founder.
+- Cap spend per clip to avoid paying for botted views.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

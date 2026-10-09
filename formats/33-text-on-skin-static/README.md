@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 33 · Text-on-skin / text-on-palm static
 
 <!-- HERO:START -->
-[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+[![Featured example: @Outscaler](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)**
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/Outscaler/status/1919120416485855259)
 <!-- HERO:END -->
+
+
 
 
 

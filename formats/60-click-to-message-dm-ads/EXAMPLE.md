@@ -1,8 +1,41 @@
 # 60 · Click-to-message ads (Messenger / IG DM / TikTok Instant Messaging) — 'stylist in your DMs': see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @aura_alloy's post](example/storyboard.jpg)](https://x.com/aura_alloy/status/1982632501110812979)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@aura_alloy on X](https://x.com/aura_alloy/status/1982632501110812979) · 0:29 video · 4 likes, 911 views
+
+**Watch it:** [open the post on X](https://x.com/aura_alloy/status/1982632501110812979) · [play the video file](https://video.twimg.com/amplify_video/1982632245832638465/vid/avc1/320x512/0clZNE9lEFZOTUfw.mp4?tag=21)
+
+> **How close is this example?** Proxy: an organic 'DM us to order' jewellery post, not a paid click-to-message ad. The gallery below has more examples.
+
+> Now in stock: VVS VVS Moissanite Necklace💎 Comes with: • GRA Certificate • Moissanite Quality Report • Silver Polishing Cloth • Complimentary Diamond Tester TO PLACE AN ORDER: Send us a DM or message us on WhatsApp at +2349113398729
+
+## What you are seeing
+
+A small jewellery seller's post: a 30-second clip of a moissanite pendant necklace turning slowly on a black velvet display card, with three more clips of other pieces. The whole sales path is in the caption: what comes in the box, the price, and "to place an order, send us a DM or message us on WhatsApp". It shows the selling-in-DMs behaviour that click-to-message ads are built for; it is an organic post, not a paid click-to-message ad.
+
+## Beat by beat
+
+The storyboard above samples the video every 0:03. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+
+| Frame | Time | On screen | Said / sung |
+|---|---|---|---|
+| 1 | 0:00–0:03 | · | · |
+| 2 | 0:03–0:07 | · | · |
+| 3 | 0:07–0:11 | · | · |
+| 4 | 0:11–0:15 | · | · |
+| 5 | 0:15–0:18 | · | · |
+| 6 | 0:18–0:22 | · | · |
+| 7 | 0:22–0:26 | · | · |
+| 8 | 0:26–0:29 | · | · |
+
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@tajaccesories](example/more/1726896564520845767.jpg)](https://x.com/tajaccesories/status/1726896564520845767)<br>**@tajaccesories** · 0:03 video · 366 views<br>The “Cupid” love necklace Price: N5,500 Please send us a DM to order Jewelry in Lagos. Delivery available Nationwide @HafeezAkanni_ | [![@3sixfivepro](example/more/1968749907600105843.jpg)](https://x.com/3sixfivepro/status/1968749907600105843)<br>**@3sixfivepro** · 0:26 video · 43 views<br>Click-to-message ads on @WhatsApp are a simple way to move people from scrolling to starting a conversation. ✅ Instead of sending them to a landing pa |   |
 
 ## How to make one like it
 
@@ -14,7 +47,18 @@
 
 ### 1. Copy the structure
 
-The skeleton every version follows: **hook → problem or tension → turn (the product shows up) → proof → one clear ask.** The shot-by-shot below fills it in.
+Use the example's timing as your beat sheet. Keep the beat, change the words and the product.
+
+| Beat | Time | In the example | Your version |
+|---|---|---|---|
+| 1 | 0:01 | (visual beat, see frame 1) | … |
+| 2 | 0:05 | (visual beat, see frame 2) | … |
+| 3 | 0:09 | (visual beat, see frame 3) | … |
+| 4 | 0:13 | (visual beat, see frame 4) | … |
+| 5 | 0:16 | (visual beat, see frame 5) | … |
+| 6 | 0:20 | (visual beat, see frame 6) | … |
+| 7 | 0:24 | (visual beat, see frame 7) | … |
+| 8 | 0:28 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake
 

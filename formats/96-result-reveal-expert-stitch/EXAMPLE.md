@@ -60,6 +60,14 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@HoIyJosee](example/more/1668712653726859268.jpg)](https://x.com/HoIyJosee/status/1668712653726859268)<br>**@HoIyJosee** · 0:24 video · 917 views<br>This is my Mom after taking Lady Gaga’s advice and getting the Nurtec® ODT (rimegepant) 75 mg shot… what’s going on?!!’ @ladygaga @pfizer | [![@EvoBradley](example/more/2082416231353590174.jpg)](https://x.com/EvoBradley/status/2082416231353590174)<br>**@EvoBradley** · image · 1K views<br>The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits tr |   |
+
 ## How to make one like it
 
 **The format in one line:** Two layers in one vertical video: a relatable person shows a result on someone close (their dad, themselves on Day 1 vs Day 42) and credits "this woman/this man", then the video hands over to an expert clip that explains the mechanism. The personal result earns attention; the expert carries the explanation.
@@ -85,13 +93,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 30-60s
+**Target length / size:** 30-60s, 1080x1920 (TikTok Stitch or duet)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-10s | A result on someone close | "Y'all, this is my mom after 6 months of wearing it in the pool." |
-| 2 | 10-40s | Stitch to the source (your expert or founder) | - |
-| 3 | End | - | CTA |
+| 1 | 0-3s | A creator holds up her mum's hand wearing the ring | "Y'all, this is my mom's ring after six months of pool laps." |
+| 2 | 3-10s | Close-up of the ring, still bright | "She swims every day. Still gold." |
+| 3 | 10-35s | Stitch: the source clip (founder or care expert explaining PVD) | Founder: "PVD is a bonded layer, not a coat of paint..." |
+| 4 | 35-45s | Back to the creator | "So yeah. I got one too." |
+| 5 | End | Product + offer | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -115,10 +125,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**TikTok Stitch**
+**TikTok**
 
 ```text
-Stitch your own or licensed source clip; keep the reveal under 10s.
+Use Stitch on your own (or licensed) founder explainer; keep the reveal under 10s and the stitch under 25s.
+```
+
+**Brief to creator**
+
+```text
+Show a real person you know who has worn the product for 3+ months; no scripts beyond the first line.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -163,7 +179,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Results must be real.
+- Results must be real and on a real person, with consent.
+- The "expert" must be real and accurately described.
+- Don't stitch other people's videos without permission.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

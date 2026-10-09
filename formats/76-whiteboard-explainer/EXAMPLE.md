@@ -47,6 +47,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@0xROAS](example/more/2094086530973229173.jpg)](https://x.com/0xROAS/status/2094086530973229173)<br>**@0xROAS** · 0:46 video · 24K views<br>here's another BANGER ai ad style you can use in your ads it's called BRB Whiteboard Explainer style (my fav) there's infinite ways you can scale your | [![@atlas_cloud_ai](example/more/2087724906285060447.jpg)](https://x.com/atlas_cloud_ai/status/2087724906285060447)<br>**@atlas_cloud_ai** · 0:30 video · 998 views<br>30-second expert whiteboard ad. Perfect lip sync, natural handwriting, real skin texture — one single Seedance 2.5 generation. Generated on https://t. |   |
+
 ## How to make one like it
 
 **The format in one line:** A hand-drawn whiteboard diagram explaining why the usual fix fails and how the product works (layers, timelines, cost math). Shown as a photo of the whiteboard or a 30s marker-drawing video with a person addressing the viewer by name ("Hey Priya, you need this").

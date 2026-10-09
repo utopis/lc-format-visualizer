@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 73 · "The Cheat Code" / life-hack static (the product as the shortcut)
 
 <!-- HERO:START -->
-[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+[![Featured example: @bluestone_com](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)**
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/bluestone_com/status/1748311425330622859)
 <!-- HERO:END -->
+
+
 
 
 

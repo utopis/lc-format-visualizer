@@ -15,6 +15,7 @@
  "likes": 62,
  "views": 3289,
  "seen": "Podcast-studio cuts: men at mics delivering lines with big captions (\"I used to be you\", \"I couldn't\"), cutaways to the Heights supplement tub (\"I started taking\") and an ingredients card, then several different hosts. It looks like clipped podcast content, not an ad.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:06",
@@ -55,6 +56,44 @@
    "t": "1:30",
    "said": "to feeling your best. My energy has gone from spiking and crashing to being stable all day long. That tangible difference is really clear, a",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2089291503919087933",
+   "author": "HenryCrochemore",
+   "url": "https://x.com/HenryCrochemore/status/2089291503919087933",
+   "thumb": "example/more/2089291503919087933.jpg",
+   "kind": "1:11 video",
+   "cap": "ai podcast ads might be one of the easiest ways to make ugc feel native again instead of generating another creator holding a product put them behind ",
+   "views": 3672
+  },
+  {
+   "id": "2081473127985582384",
+   "author": "CEO_Vlad",
+   "url": "https://x.com/CEO_Vlad/status/2081473127985582384",
+   "thumb": "example/more/2081473127985582384.jpg",
+   "kind": "image",
+   "cap": "take AI podcast ads like this and go run them in latin america... barely anyone is running the podcast format in spanish, so the feed there hasn't see",
+   "views": 4329
+  },
+  {
+   "id": "2079061186008760542",
+   "author": "itsLORDROY",
+   "url": "https://x.com/itsLORDROY/status/2079061186008760542",
+   "thumb": "example/more/2079061186008760542.jpg",
+   "kind": "0:15 video",
+   "cap": "Podcast ads are entering a new era. The most impressive part isn't that this is AI generated. It's that this entire podcast ad was made inside Claude ",
+   "views": 3326
+  },
+  {
+   "id": "2083709698059206725",
+   "author": "adreads_ai",
+   "url": "https://x.com/adreads_ai/status/2083709698059206725",
+   "thumb": "example/more/2083709698059206725.jpg",
+   "kind": "image",
+   "cap": "Podcast ads data for August 1 320 new podcast ad reads across 183 sponsors and 56 shows 187 announcer read, 123 host read Most active sponsors: @Shane",
+   "views": 17
   }
  ]
 }

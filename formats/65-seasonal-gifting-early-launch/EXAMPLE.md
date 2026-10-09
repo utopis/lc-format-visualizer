@@ -1,41 +1,39 @@
 # 65 · Seasonal gifting campaign — launch 3-4 weeks early, urgency only in the final week: see it, then make it
 
-[![The example: storyboard of @M__Operators's post](example/storyboard.jpg)](https://x.com/M__Operators/status/2094809174907535497)
+[![The example: storyboard of @PowerbyMomBlog's post](example/storyboard.jpg)](https://x.com/PowerbyMomBlog/status/1733284392045543691)
 
-**The example:** [@M__Operators on X](https://x.com/M__Operators/status/2094809174907535497) · 1:24 video · 11 likes, 747 views
+**The example:** [@PowerbyMomBlog on X](https://x.com/PowerbyMomBlog/status/1733284392045543691) · 0:24 video · 0 likes, 309 views
 
-**Watch it:** [open the post on X](https://x.com/M__Operators/status/2094809174907535497) · [play the video file](https://video.twimg.com/amplify_video/2094809085598105600/vid/avc1/640x360/kH_jok9QKii4zEwc.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/PowerbyMomBlog/status/1733284392045543691) · [play the video file](https://video.twimg.com/ext_tw_video/1733283825269252096/pu/vid/avc1/320x568/vHxBV9HhHe7FDUsT.mp4?tag=12)
 
-> We are 87 days away from Black Friday. @codyplof, @couuor + @connorrolain open up their Q4 playbooks. Reuse top creative from 2025 Scale-up tests before BFCM Launch new products in Oct Pre-sales for non-hero SKUs Make decisions from aMER “It is so incredibly easy to not drive https://t.co/Nz5DY8IXK3
+> My daughter selected these photos for the sterling silver, diamond cut edge heart necklace from @PicturesOnGold1. The kitty was our 12-year-old Ollie whom we lost in July. It's a beautiful keepsake & it's on our Holiday Gift Guide! https://powered-by-mom.com/personalized-pendant-necklaces-engraved/ AD
 
 ## What you are seeing
 
-A podcast clip planning a Black Friday / holiday early launch: hosts at mics with green branded overlays and captions, 87 days out from Black Friday.
+A sponsored mom-blogger video (marked AD) for a personalised sterling silver heart locket: her daughter chose the photos, including their cat Ollie who died in July. Slow close-ups open the locket on a denim pouch next to purple flowers, and the post says it is on her Holiday Gift Guide. Emotional, gift-led and seasonal.
 
 ## Beat by beat
 
-The storyboard above samples the video every 0:10. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+The storyboard above samples the video every 0:03. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:10 | · | · |
-| 2 | 0:10–0:21 | St ey: ARE TAS ie | What should I be thinking about as I, |
-| 3 | 0:21–0:31 | es in youre 4- | · |
-| 4 | 0:31–0:42 | · | to not drive incremental results and be extremely happy with your outcome. You do like you do like you do like you do like you do like you do like you do like it's so easy to overspend 500 grand 700 grand we're just guilty of overspending if you're going to launch a presale |
-| 5 | 0:42–0:52 | · | · |
-| 6 | 0:52–1:03 | · | · |
-| 7 | 1:03–1:13 | · | · |
-| 8 | 1:13–1:24 | · | biggest sale so we just try to like |
+| 1 | 0:00–0:03 | 2. a Cal mt a 1. Oi 7, xp Mh Ss SS. Se eS SS Ss he we ae Se Ss Base ak AS oa a as: a. SEs aN ie ie | · |
+| 2 | 0:03–0:06 | Bare Tf es fy Se eS Sw a ee a aaa eT eS yo ea coe ae CON es ve oS SOS a SS So et. Br Sal ke | · |
+| 3 | 0:06–0:09 | as Le SS a, SS co ABs Yo ae WT SOS aA as CS SS ro cS M% a WO an tr a Tay el ab ae ee ee a me el | · |
+| 4 | 0:09–0:12 | ss ee ty ok ek AL BS Same I Ae BABA ras a SS Se Nat SS ra. aa My C3 A. ot en, SS SS SS eS Ss SD WS SS a SS SS mS ee 4. | · |
+| 5 | 0:12–0:15 | ve ay 49 a | · |
+| 6 | 0:15–0:18 | uk we ur a Bi gh AS land anil wit ty ww oy | · |
+| 7 | 0:18–0:21 | ae a a 4m he rr. ost nC INC af A, by ANY 7: | · |
+| 8 | 0:21–0:24 | yi ae ha a ed yee a. ay, a or ne are ay | · |
 
-<details><summary>Full transcript (timestamped)</summary>
+## More real examples (1)
 
-- `0:00` What should I be thinking about as I,
-- `0:29` to not drive incremental results and be extremely happy with your outcome.
-- `0:34` You do like you do like you do like you do like you do like you do like you do like it's so easy to
-- `0:39` overspend 500 grand 700 grand we're just guilty of overspending if you're going to launch a presale
-- `1:13` biggest sale so we just try to like
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
-</details>
+| | | |
+|---|---|---|
+| [![@sayuri_quietjp](example/more/1997519250903482686.jpg)](https://x.com/sayuri_quietjp/status/1997519250903482686)<br>**@sayuri_quietjp** · 0:30 video · 6K views<br>クリスマスの贈り物に、 アクセサリーを選んでもらいました🎁✨ たくさん並ぶ宝石の中から、 「これが似合うよ」って言われた瞬間が いちばん輝いていた気がします…💎 大切な人と、大切な時間を そっと胸にしまって。 A special Christmas gift — a beautiful piece |   |   |
 
 ## How to make one like it
 
@@ -51,24 +49,26 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:05 | (visual beat, see frame 1) | … |
-| 2 | 0:15 | What should I be thinking about as I, | … |
-| 3 | 0:26 | on screen: es in youre 4- | … |
-| 4 | 0:36 | to not drive incremental results and be extremely happy with your outcome. You do like you do like you do like you do like you do like you d | … |
-| 5 | 0:47 | (visual beat, see frame 5) | … |
-| 6 | 0:57 | (visual beat, see frame 6) | … |
-| 7 | 1:08 | (visual beat, see frame 7) | … |
-| 8 | 1:18 | biggest sale so we just try to like | … |
+| 1 | 0:01 | on screen: 2. a Cal mt a 1. Oi 7, xp Mh Ss SS. Se eS SS Ss he we ae Se Ss Base ak AS oa a as: a. SEs aN ie ie | … |
+| 2 | 0:04 | on screen: Bare Tf es fy Se eS Sw a ee a aaa eT eS yo ea coe ae CON es ve oS SOS a SS So et. Br Sal ke | … |
+| 3 | 0:07 | on screen: as Le SS a, SS co ABs Yo ae WT SOS aA as CS SS ro cS M% a WO an tr a Tay el ab ae ee ee a me el | … |
+| 4 | 0:10 | on screen: ss ee ty ok ek AL BS Same I Ae BABA ras a SS Se Nat SS ra. aa My C3 A. ot en, SS SS SS eS Ss SD WS SS a SS SS mS ee 4. | … |
+| 5 | 0:13 | on screen: ve ay 49 a | … |
+| 6 | 0:16 | on screen: uk we ur a Bi gh AS land anil wit ty ww oy | … |
+| 7 | 0:19 | on screen: ae a a 4m he rr. ost nC INC af A, by ANY 7: | … |
+| 8 | 0:22 | on screen: yi ae ha a ed yee a. ay, a or ne are ay | … |
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Season arc, weeks -4 to 0
+**Target length / size:** Campaign: 3-4 week gifting runway (statics, videos, gift guide)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Weeks -4 to -2 | Gift-problem creatives | "for the mom who never takes jewelry off" |
-| 2 | Week -1 | Urgency | Shipping cut-off dates |
-| 3 | Last days | Digital gift card / in-store pickup | - |
+| 1 | Week -4 to -3 | Gift-problem creative: "What do you get the friend who has everything?" | Gift guide carousel |
+| 2 | Week -3 to -2 | Emotional gift moments (real customers) | "My mum hasn't taken it off since Christmas." |
+| 3 | Week -2 to -1 | Bundle + gift box | "7 pieces, wrapped, $85." |
+| 4 | Final week | Shipping-deadline urgency | "Order by Dec 18 for Christmas delivery." |
+| 5 | Post-holiday | Gift-card and self-gifting | "You got cash? Treat yourself." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -96,7 +96,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Calendar**
 
 ```text
-List the shipping cut-off per carrier, build creatives for each week in advance, schedule the urgency switch.
+Map the 4 weeks, assign creatives to each, set real shipping cut-offs by region.
+```
+
+**Claude**
+
+```text
+Write a gift guide carousel: 6 recipients, one stack each, with price and a one-line reason.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -137,8 +143,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Launching urgency too early wastes it.
-- Shipping promises must be met.
+- Shipping deadlines must be real per region.
+- Urgency only in the final week.
+- Plan stock for the bundle you push.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

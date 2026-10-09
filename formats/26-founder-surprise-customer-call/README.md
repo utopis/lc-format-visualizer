@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 26 · Founder surprise customer call (+ customer-service call variant)
 
 <!-- HERO:START -->
-[![Featured example: @ecomchasedimond](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @houseoffelsteve](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ecomchasedimond/status/2108225940962914650)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/houseoffelsteve/status/2064683771484320042)
 <!-- HERO:END -->
+
+
 
 
 

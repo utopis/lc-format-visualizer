@@ -4,57 +4,96 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/k4komaaaal/status/2084289721703010738",
- "author": "k4komaaaal",
+ "url": "https://x.com/AaronOrendorff/status/1815524880361914630",
+ "author": "AaronOrendorff",
  "type": "video",
- "duration": 911,
- "mp4": "https://video.twimg.com/amplify_video/2083963265550303232/vid/avc1/640x360/tV0NnUMrmDkJn9G4.mp4?tag=29",
- "w": 3840,
- "h": 2160,
+ "duration": 20,
+ "mp4": "https://video.twimg.com/ext_tw_video/1815524397463248896/pu/vid/avc1/540x540/EZK7UW1Ffxs6lNEQ.mp4?tag=12",
+ "w": 1080,
+ "h": 1080,
  "via_quote": false,
- "likes": 16,
- "views": 655,
- "seen": "A long founder-style talking video (about 15 minutes) filmed casually in a car and around town. It is cited for why brands are dropping polished ads for raw founder storytelling.",
+ "likes": 4,
+ "views": 213,
+ "seen": "A breakdown of a 'Reasons Why' advertorial for a leather tote: the landing page opens with the same video as the ad, the headline mirrors it (\"5 Reasons Why I'm Obsessed With...\"), then come numbered reasons, UGC photos, reviews, two buy boxes and a countdown timer. The yellow notes beside each screen explain the part.",
+ "match": "close",
  "beats": [
   {
-   "t": "0:57",
-   "said": "We got to knock the meeting out, and then we got to get back to Spain because we have our Robin Hood product launch happening in the next 24",
-   "ocr": "candy ae sin Ch,"
-  },
-  {
-   "t": "2:50",
-   "said": "Nice little run, sunny day in Cannes, super nice day out. My favorite time to run is when it's super sunny, super hot. I feel like a good sw",
-   "ocr": "Toby: Why ist so important for Sushi so fast launch?"
-  },
-  {
-   "t": "4:44",
-   "said": "or you want to create maybe you want to generate some yield, right? You want to stake some Bitcoin or some ETH in a lending market and you w",
-   "ocr": ""
-  },
-  {
-   "t": "6:38",
+   "t": "0:01",
    "said": "",
-   "ocr": ""
+   "ocr": "Portland Leather Goods Tote That ALL The experiment, this opens with the so CH same video as the ad itself op Headline r"
   },
   {
-   "t": "8:32",
+   "t": "0:03",
    "said": "",
-   "ocr": "ee NY St Ad"
+   "ocr": "SAVE AN EXTRA 25% WITH COOK HE 14:17:19 As an experiment, this opens with the same video as the ad itself WW Headline re"
   },
   {
-   "t": "10:26",
+   "t": "0:06",
    "said": "",
-   "ocr": "ey et ol ul ay ye mf iF"
+   "ocr": "Here are five hype-deserving reasons why you get the Mini Tote. As an experiment, this opens with the same video as the "
   },
   {
-   "t": "12:20",
+   "t": "0:08",
    "said": "",
-   "ocr": "al types of things right are kind ofthe focus, and so."
+   "ocr": "MINI TOTE eh As As an experiment, this $99 im 00 opens with the Then same video as the ad itself Tops th the Cl Headline"
   },
   {
-   "t": "14:14",
+   "t": "0:11",
    "said": "",
-   "ocr": ""
+   "ocr": "a experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed 3. Ac"
+  },
+  {
+   "t": "0:13",
+   "said": "",
+   "ocr": "5. Organized Interior with Canvas Purse experiment, this Organizer opens with the same video as the ad itself Headline r"
+  },
+  {
+   "t": "0:16",
+   "said": "",
+   "ocr": "As an experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed W"
+  },
+  {
+   "t": "0:18",
+   "said": "",
+   "ocr": "SAVE 25% WITH COOK HER 14:17: 04 As an experiment, this opens with the same video as the ad itself Headline reflects the"
+  }
+ ],
+ "more": [
+  {
+   "id": "1792567677103263901",
+   "author": "nachovanzini",
+   "url": "https://x.com/nachovanzini/status/1792567677103263901",
+   "thumb": "example/more/1792567677103263901.jpg",
+   "kind": "2:53 video",
+   "cap": "1/ Listicle They love to use listicle format ads It's a great way to send traffic to a advertorial landing page 3 reasons why XYZ",
+   "views": 117
+  },
+  {
+   "id": "2094854572623675832",
+   "author": "FedotOff90",
+   "url": "https://x.com/FedotOff90/status/2094854572623675832",
+   "thumb": "example/more/2094854572623675832.jpg",
+   "kind": "image",
+   "cap": "6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) \u2014 53-format lander database.",
+   "views": 47112
+  },
+  {
+   "id": "2084289721703010738",
+   "author": "k4komaaaal",
+   "url": "https://x.com/k4komaaaal/status/2084289721703010738",
+   "thumb": "example/more/2084289721703010738.jpg",
+   "kind": "15:11 video",
+   "cap": "10 reasons why brands are ditching polished ads for founder faces on camera: 1. sushiswap, gymshark all started founder led content before ads 2. face",
+   "views": 655
+  },
+  {
+   "id": "2078934717462888585",
+   "author": "phemeinfluence",
+   "url": "https://x.com/phemeinfluence/status/2078934717462888585",
+   "thumb": "example/more/2078934717462888585.jpg",
+   "kind": "image",
+   "cap": "\ud83d\udc36 PET UGC OPPORTUNITY 35+ (cats or dogs moms) BRAND: Chewy PAY: $2000 + Product Pet brand hiring UGC creators to film a 90s advertorial video featurin",
+   "views": 14649
   }
  ]
 }

@@ -25,6 +25,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 5 | 0:06–0:08 | 11:06 00:08 ron a 253.7% 233.7K ws 480.1K mind Pa ans Aha cB rE hem, tin ae nt: ME BON ca me fo ks with ne pure: by no every looks 134.9K 1,964 Ge an NT raul rd | · |
 | 6 | 0:08–0:09 | · | · |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@g_buildz_apps](example/more/2108234459241935255.jpg)](https://x.com/g_buildz_apps/status/2108234459241935255)<br>**@g_buildz_apps** · image · 390 views<br>"Post emotional slideshows on TikTok" — one slideshow: 13.3K views, 2,881 likes, 802 shares, 313 saves (TikTok Studio screenshot). | [![@Dkevs_](example/more/2100425887636472312.jpg)](https://x.com/Dkevs_/status/2100425887636472312)<br>**@Dkevs_** · 0:05 video · 4K views<br>$200K MRR app via TikTok slideshows; don't overcomplicate with clippers. | [![@BrunoF566](example/more/2095543004626890752.jpg)](https://x.com/BrunoF566/status/2095543004626890752)<br>**@BrunoF566** · image · 3K views<br>TikTok slideshows are being used completely wrong. Most people treat them like a lottery ticket. Post the same recycled hooks, hope one goes viral, th |
+
 ## How to make one like it
 
 **The format in one line:** A 4-8 slide photo-mode story built around a relatable emotional moment (a mother, a breakup, a friend's birthday at 5am), told in short first-person lines over candid photos; the product appears naturally in one slide as part of the moment. Optimised for shares and saves rather than clicks.

@@ -21,6 +21,14 @@ Four diagram-style statics: a this-vs-that comparison with the product against a
 | 3 | NO WONDER EVERY STEP HURTS YOUR KID ae Targeted that absorbs Flat hard sole that creates impact with every step impact with every step Lack of support that puts control that extra strain on growing joints reduces strain on growing joints |
 | 4 | No spills. No stains. NO STRESS! CAS ORGANIC CASTOR OIL Cold Pressed Free Free Ve Oil everywhere No oil spills XX stains clothes sheets Leaves zero stains Hands left sticky Hands stay clean xX Hard to carry around Travel-friendly |
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@EiyanDickerson](example/more/2088266872194023737.jpg)](https://x.com/EiyanDickerson/status/2088266872194023737)<br>**@EiyanDickerson** · images · 9K views<br>4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYh | [![@ultimategrafiks](example/more/2090399839309738284.jpg)](https://x.com/ultimategrafiks/status/2090399839309738284)<br>**@ultimategrafiks** · image · 179 views<br>I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea |   |
+
 ## How to make one like it
 
 **The format in one line:** Information-graphic statics: a Venn diagram where LC sits in the overlap, a school report card grading LC vs "typical gold-plated", a check/cross comparison chart, or an us-vs-them split. Quick logical proof at a glance.
@@ -35,13 +43,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static, 1080x1350
+**Target length / size:** 1 static 1080x1350 per diagram
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Venn | Two circles: "waterproof" and "looks like real gold" | Product in the overlap |
-| 2 | Report card | School report card layout | Product vs "typical gold-plated": A+ vs D across 5 subjects |
-| 3 | Comparison grid | Check/cross table | Product vs category, 5 rows |
+| 1 | Venn | Two circles: "Looks like real gold" and "You can shower in it"; product in the overlap | - |
+| 2 | Report card | School report card layout grading cheap plated vs PVD | Water: F vs A · Sweat: D vs A · Price: B vs A |
+| 3 | Comparison chart | Three columns: plated, solid gold, PVD; rows: price, waterproof, lasts | Ticks and crosses |
+| 4 | Us vs them grid | Two-column table with photos at the top | "Them: $20, 3 weeks. Us: $12 a piece, years." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -68,7 +77,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Figma**
 
 ```text
-Grid 1080x1350, two columns, rows 120px, green check / grey cross icons, product photo in the header of its column.
+Grid 1080x1350, 2-3 columns, 5 rows max, bold row labels, gold ticks; product photo at the top of the winning column.
+```
+
+**Claude**
+
+```text
+Build a comparison table for [product] vs 2 alternatives using only facts from [paste sources]; mark anything unverified.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -111,8 +126,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Compare against categories, not named brands, unless every claim is verified.
-- Keep it to 5 rows.
+- Comparisons must be fair and provable; keep your sources.
+- Don't name competitors unless you can back every cell.
+- Five rows maximum or nobody reads it.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

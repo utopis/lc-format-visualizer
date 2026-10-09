@@ -18,6 +18,14 @@ A plain warning static: a red triangle and "IMPORTANT NOTICE: Please Check Befor
 |---|---|
 | 1 | IMPORTANT NOTICE Please Check Before Purchasing We've noticed a lot of replicas of our PRODUCT. If you purchase from any other shop than you are likely to end up with a low quality replica. It can be nearly impossible to tell the difference because they are using BRAND’s images and brand name. These |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@ultimategrafiks](example/more/2090399839309738284.jpg)](https://x.com/ultimategrafiks/status/2090399839309738284)<br>**@ultimategrafiks** · image · 179 views<br>I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea | [![@EiyanDickerson](example/more/2088266872194023737.jpg)](https://x.com/EiyanDickerson/status/2088266872194023737)<br>**@EiyanDickerson** · images · 9K views<br>4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYh | [![@Hashir_Shaikh_](example/more/2096337779412304217.jpg)](https://x.com/Hashir_Shaikh_/status/2096337779412304217)<br>**@Hashir_Shaikh_** · images · 5K views<br>We make 1,000+ statics every month. Around 10% are Us vs Them. Because showing the difference can be more powerful than simply talking about your prod |
+
 ## How to make one like it
 
 **The format in one line:** Screen recording of an iPhone scrolling marketplace listings of look-alike products while a VO explains how to tell the difference (materials, plating, reviews mentioning tarnish), then cuts to the real product. ([@Nate_Google_](https://x.com/Nate_Google_/status/2104963469548085713)).

@@ -57,6 +57,15 @@ The storyboard above samples the video every 0:22. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@0xROAS](example/more/2104589798208065796.jpg)](https://x.com/0xROAS/status/2104589798208065796)<br>**@0xROAS** · 2:23 video · 23K views<br>100% AI drama ad (Seedance): turn the winning ad into a 2-3 min story; Resilia hooks: cheating husband/wife, compared to another girl. | [![@SGradon](example/more/2101705439565979947.jpg)](https://x.com/SGradon/status/2101705439565979947)<br>**@SGradon** · 0:40 video · 2K views<br>In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here' | [![@tryatria_AI](example/more/2100612079891755286.jpg)](https://x.com/tryatria_AI/status/2100612079891755286)<br>**@tryatria_AI** · 2:59 video · 11K views<br>AI ANIMATED STORYTELLING ADS SHOULDN’T WORK THIS WELL. BUT THEY DO. 👀 Cartoon characters. Dramatic storylines. Pixar-style animation. Ridiculous plot |
+| [![@AdamKPx](example/more/2108191928923881782.jpg)](https://x.com/AdamKPx/status/2108191928923881782)<br>**@AdamKPx** · 0:30 video · 280 views<br>AI Drama Ads are crushing it right now. And Arcads makes them ridiculously easy to create. People don’t want to watch ads. They want stories. Characte | [![@0xROAS](example/more/2107188290264740348.jpg)](https://x.com/0xROAS/status/2107188290264740348)<br>**@0xROAS** · 0:25 video · 9K views<br>100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here’s how to make sure your dramas hit: - start with a very aggressive h | [![@whotanish](example/more/2100587035786715295.jpg)](https://x.com/whotanish/status/2100587035786715295)<br>**@whotanish** · 4:33 video · 2K views<br>All the big brands have already catching up too the AI drama ads . users have organically have been watching the micro dramas for really long It has b |
+
 ## How to make one like it
 
 **The format in one line:** A single, self-contained short film (not a series) told like a daytime soap: the hero is publicly humiliated (ex shows up with a younger partner, an ID clerk says "that's not you", husband mistaken for the caterer), tries everything, then a close, credible mentor hands over the product; the climax replays the opening scene with the roles reversed. The pitch is the last ~30-60 s. Resilia and Smooch
@@ -82,15 +91,16 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 2-10 min single film, 1080x1920
+**Target length / size:** 3-8 min film (9:16), plus a 60s cut-down
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0:00-0:30 | Humiliation: ID-photo clerk / ex with a new partner | "Ma'am, that's not you in this photo." |
-| 2 | 0:30-2:00 | Wound deepens: friends knew, failed fixes | Close-ups, quiet music |
-| 3 | 2:00-4:00 | Mentor: a friend with a real-sounding reason, gives the gift | Product appears as the gift |
-| 4 | 4:00-6:00 | Climb + vindication: the same person who humiliated her notices | Payoff line mirrors the opening |
-| 5 | Last minute | Pitch, offer, AI label | - |
+| 1 | 0:00-0:20 Humiliation | Office ID-photo counter; clerk looks at her photo then at her | Clerk: "Ma'am, that's not you in this photo." She touches her bare neck. |
+| 2 | 0:20-1:30 Wound | Close-ups at home; old jewellery in a box, green-tinged | Her sister on the phone: "Just buy something new." "I did. Three times." |
+| 3 | 1:30-2:30 Mentor | A friend at a café, unbothered, sea-swim hair | Friend: "I haven't taken mine off in a year." Slides a small box across the table. |
+| 4 | 2:30-4:00 Climb | Montage: shower, beach, a work presentation; the necklace catches light | Little or no dialogue; music builds |
+| 5 | 4:00-5:00 Vindication | Back at the same counter | Clerk: "...You look different." She smiles. |
+| 6 | Last 30s | Brand card, offer, AI-generated label | "Any 7 for $85. This film uses AI-generated actors." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -117,16 +127,22 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Veo 3**
+**Veo 3 (scene)**
 
 ```text
-live-action melodrama, a 55-year-old woman at an ID-photo counter, a clerk says "[line]", soft office light, 8s, 9:16
+live-action melodrama, a 55-year-old woman at an office ID-photo counter, a clerk says "Ma'am, that's not you in this photo", soft fluorescent light, handheld, 8s, 9:16
 ```
 
-**Claude**
+**Character consistency**
 
 ```text
-Write a 6-minute melodrama with the beats: humiliation, failed fixes, mentor, gift, doubt, climb, vindication, pitch. Product appears only at the gift beat.
+Generate a reference sheet for each character first, then use it as image input for every shot (Kling Elements / Veo ingredients).
+```
+
+**Claude (script)**
+
+```text
+Write a 5-minute melodrama: humiliation, failed fixes, mentor, gift, doubt, climb, vindication, pitch. Product appears only at the gift. Dialogue under 15 words per line.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -177,7 +193,8 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 - Label AI actors.
 - No fake credentials for the mentor.
-- Most viewers drop before the product; test shorter cuts.
+- Most viewers drop before the product appears; test 60s and 3-minute cuts.
+- Keep the humiliation light; cruelty reads badly for a gift brand.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

@@ -15,6 +15,7 @@
  "likes": 58,
  "views": 89514,
  "seen": "An AI-generated breaking-news broadcast: a male anchor at a news desk with a red \"BREAKING NEWS\" lower-third, then a female reporter holding up the product as if it were a news story.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,17 @@
    "t": "0:42",
    "said": "while you lose the fat. You don't have to lose muscle to lose weight. Ask about Myogard Pro.",
    "ocr": "ee a 1. Ez BREAKING NE WS"
+  }
+ ],
+ "more": [
+  {
+   "id": "2103478126928138309",
+   "author": "richardbrien",
+   "url": "https://x.com/richardbrien/status/2103478126928138309",
+   "thumb": "example/more/2103478126928138309.jpg",
+   "kind": "images",
+   "cap": "\"Breaking News\" style ad creative crushes harder than any other format across long periods of time. https://t.co/5XAPPNoLf7",
+   "views": 91
   }
  ]
 }

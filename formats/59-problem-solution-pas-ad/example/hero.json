@@ -15,5 +15,44 @@
  "likes": 26,
  "views": 1465,
  "seen": "A 4-image static concept for a weekender bag: the product on its own with feature icons, a man carrying it (\"GO FURTHER\"), the bag open (\"ROOM FOR EVERYTHING\") and a 5-star review card.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2017403665741742102",
+   "author": "Jordan_Created",
+   "url": "https://x.com/Jordan_Created/status/2017403665741742102",
+   "thumb": "example/more/2017403665741742102.jpg",
+   "kind": "0:52 video",
+   "cap": "Here is a UGC Example breaking down the PAS framework. To take this 1 step further: - Hook - Problem - Agitate - Solution - CTA Adding in \"Agitate\" he",
+   "views": 33
+  },
+  {
+   "id": "2048553690215444873",
+   "author": "alice_ercolani",
+   "url": "https://x.com/alice_ercolani/status/2048553690215444873",
+   "thumb": "example/more/2048553690215444873.jpg",
+   "kind": "0:32 video",
+   "cap": "Sleepway's ads use a classic marketing formula: Problem \u2192 Agitate \u2192 Solution. This ad starts with a doctor and a stark warning: \"DON'T SLEEP THIS WAY!",
+   "views": 12
+  },
+  {
+   "id": "1930403658061000934",
+   "author": "rayyanmru",
+   "url": "https://x.com/rayyanmru/status/1930403658061000934",
+   "thumb": "example/more/1930403658061000934.jpg",
+   "kind": "images",
+   "cap": "\ud83d\udea8 Ad Breakdown: Pet Lab Co\u2019s UGC that prints money This ad preys on a hidden fear every dog owner has and it works like crazy. Bad breath? Tartar? Tha",
+   "views": 279
+  },
+  {
+   "id": "1734535147591012689",
+   "author": "TobyWalleruk",
+   "url": "https://x.com/TobyWalleruk/status/1734535147591012689",
+   "thumb": "example/more/1734535147591012689.jpg",
+   "kind": "0:46 video",
+   "cap": "Why this ad works \u2705 Has an intriguing HOOK \u2705 Handles objections & answers FAQ\u2019s \u2705 Transitions throughout every 2 seconds \u2705 Uses the Problem-Agitate-So",
+   "views": 713
+  }
+ ]
 }

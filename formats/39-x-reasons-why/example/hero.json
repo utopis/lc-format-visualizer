@@ -15,6 +15,7 @@
  "likes": 70,
  "views": 4776,
  "seen": "A doctor in a white coat talking to camera, intercut with CGI of a bone breaking down and microscopic cells. Each \"reason why\" gets its own visual, then it cuts back to the doctor.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:07",
@@ -55,6 +56,26 @@
    "t": "1:58",
    "said": "Meanwhile, doctors keep prescribing calcium supplements. Bio-phosphate medications and tell you just to manage the bone loss. But calcium su",
    "ocr": "and tell you just to manage the bone loss yr fi"
+  }
+ ],
+ "more": [
+  {
+   "id": "2092929767993471081",
+   "author": "Bogzabs96",
+   "url": "https://x.com/Bogzabs96/status/2092929767993471081",
+   "thumb": "example/more/2092929767993471081.jpg",
+   "kind": "2:06 video",
+   "cap": "This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad acc",
+   "views": 2302
+  },
+  {
+   "id": "2102890739432566805",
+   "author": "SeanKim436",
+   "url": "https://x.com/SeanKim436/status/2102890739432566805",
+   "thumb": "example/more/2102890739432566805.jpg",
+   "kind": "image",
+   "cap": "Here are 3 reasons why the biggest consumer tech startups are POURING money into Canvas UGC over traditional influencer marketing in 2026 1. More volu",
+   "views": 525
   }
  ]
 }

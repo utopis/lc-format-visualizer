@@ -15,6 +15,7 @@
  "likes": 9,
  "views": 252,
  "seen": "A creator drawing on a whiteboard while explaining (\"that nobody talks about\", \"these dopamine levels\"), with a graph curve, then the product page and a woman relaxing. It is a teacher-style explainer with a marker.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:03",
@@ -55,6 +56,26 @@
    "t": "0:49",
    "said": "If you're looking for a better way to support your stimulant routine, not replace it, check out the link below to learn more about Stasis.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2094086530973229173",
+   "author": "0xROAS",
+   "url": "https://x.com/0xROAS/status/2094086530973229173",
+   "thumb": "example/more/2094086530973229173.jpg",
+   "kind": "0:46 video",
+   "cap": "here's another BANGER ai ad style you can use in your ads it's called BRB Whiteboard Explainer style (my fav) there's infinite ways you can scale your",
+   "views": 23941
+  },
+  {
+   "id": "2087724906285060447",
+   "author": "atlas_cloud_ai",
+   "url": "https://x.com/atlas_cloud_ai/status/2087724906285060447",
+   "thumb": "example/more/2087724906285060447.jpg",
+   "kind": "0:30 video",
+   "cap": "30-second expert whiteboard ad. Perfect lip sync, natural handwriting, real skin texture \u2014 one single Seedance 2.5 generation. Generated on https://t.",
+   "views": 998
   }
  ]
 }

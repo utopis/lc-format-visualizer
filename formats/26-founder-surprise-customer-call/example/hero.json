@@ -4,57 +4,95 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/ecomchasedimond/status/2108225940962914650",
- "author": "ecomchasedimond",
+ "url": "https://x.com/houseoffelsteve/status/2064683771484320042",
+ "author": "houseoffelsteve",
  "type": "video",
- "duration": 44,
- "mp4": "https://video.twimg.com/amplify_video/2108224664569016320/vid/avc1/640x360/appPkUklrKcf6Hmb.mp4?tag=29",
- "w": 1920,
- "h": 1080,
+ "duration": 10,
+ "mp4": "https://video.twimg.com/amplify_video/2064683635219824640/vid/avc1/320x568/ijGyWSjVzpEWFUIx.mp4?tag=27",
+ "w": 1080,
+ "h": 1920,
  "via_quote": false,
- "likes": 43,
- "views": 17800,
- "seen": "A screen recording that walks through a real customer call used as an ad: chat and messages UI, video thumbnails, then the call itself. The point is that the ad is a real, unscripted conversation with a customer.",
+ "likes": 3,
+ "views": 121,
+ "seen": "A 9-second clip from a bespoke shoe shop: caption \"POV: calling our customers to convince them why House of Felsteve is worth a visit\" over quick shots of shoe walls, racks and shelves. It plays the 'we phone our customers' idea for laughs and as a shop tour.",
+ "match": "close",
  "beats": [
   {
+   "t": "0:00",
+   "said": "I just want the best for you, and I think that you deserve the world.",
+   "ocr": "rf WHY HOUSE OF IS WORTH VISIT. ant ie sl Za a fo a $4 Ke 2! a of Ay a"
+  },
+  {
    "t": "0:02",
-   "said": "",
-   "ocr": "Read, draft, and send email from your Inbox Email Meta Connected Read and Run Facebook and Instagram ads: campaigns, bud"
-  },
-  {
-   "t": "0:08",
-   "said": "",
-   "ocr": "Meta is connected. Bright Ridge spent $4,210 last month. Here's what do for your en"
-  },
-  {
-   "t": "0:13",
-   "said": "",
+   "said": "I just want the best for you, and I think that you deserve the world.",
    "ocr": ""
   },
   {
-   "t": "0:19",
-   "said": "",
+   "t": "0:04",
+   "said": "I just want the best for you, and I think that you deserve the world.",
    "ocr": ""
   },
   {
-   "t": "0:24",
-   "said": "",
+   "t": "0:06",
+   "said": "Thank you, so that's really all I want.",
    "ocr": ""
   },
   {
-   "t": "0:30",
-   "said": "",
-   "ocr": ""
+   "t": "0:07",
+   "said": "Thank you, so that's really all I want.",
+   "ocr": "a! ae bn ee Za ig be VS aA"
   },
   {
-   "t": "0:35",
-   "said": "",
-   "ocr": ""
+   "t": "0:09",
+   "said": "Thank you, so that's really all I want.",
+   "ocr": "ae gg See ay ie"
+  }
+ ],
+ "more": [
+  {
+   "id": "2057819667067015529",
+   "author": "QueenCarlo11",
+   "url": "https://x.com/QueenCarlo11/status/2057819667067015529",
+   "thumb": "example/more/2057819667067015529.jpg",
+   "kind": "1:56 video",
+   "cap": "Another day to get exciting news from @airtelmoneyug . Today our host Nichole was in studio calling our customers that received UGX 300,000 straight t",
+   "views": 95
   },
   {
-   "t": "0:41",
-   "said": "",
-   "ocr": ""
+   "id": "2091592059517837677",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2091592059517837677",
+   "thumb": "example/more/2091592059517837677.jpg",
+   "kind": "image",
+   "cap": "Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask.",
+   "views": 995
+  },
+  {
+   "id": "2108225940962914650",
+   "author": "ecomchasedimond",
+   "url": "https://x.com/ecomchasedimond/status/2108225940962914650",
+   "thumb": "example/more/2108225940962914650.jpg",
+   "kind": "0:44 video",
+   "cap": "Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of t",
+   "views": 18931
+  },
+  {
+   "id": "2107597529130873250",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2107597529130873250",
+   "thumb": "example/more/2107597529130873250.jpg",
+   "kind": "image",
+   "cap": "Customer service call ads are scaling like crazy for us right now If you haven't tried them yet, please do it https://t.co/laU2bgRZht",
+   "views": 10934
+  },
+  {
+   "id": "2079573874883104926",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2079573874883104926",
+   "thumb": "example/more/2079573874883104926.jpg",
+   "kind": "image",
+   "cap": "Call ads are quietly becoming their own category on Meta. Every variation of a recorded conversation is working for us right now: - FaceTime call ads,",
+   "views": 7348
   }
  ]
 }

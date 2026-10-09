@@ -6,6 +6,8 @@
 
 **Watch it:** [open the post on X](https://x.com/OmologatoUK/status/2099497006158725545)
 
+> **How close is this example?** Close: a real back-in-stock notice, not the apology wording. The gallery below has more examples.
+
 > The TIFOSI x CAN-AM arrived back in stock last week and has already nearly sold out again - We have ONE LEFT! https://www.omologatowatches.com/tifeds
 
 ## What you are seeing
@@ -17,6 +19,15 @@ A back-in-stock / nearly-sold-out post: a watch on an orange strap laid on an ol
 | Image | Text on it (OCR, rough) |
 |---|---|
 | 1 | (mostly visual) |
+
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@Djigida_Central](example/more/1639635729130176512.jpg)](https://x.com/Djigida_Central/status/1639635729130176512)<br>**@Djigida_Central** · images · 630 views<br>Our stock gets sold-out so fast! We are sorry to have to tell you “sold out” that’s just the price we have to pay for being the best womens fashion st | [![@bikeshopwhse](example/more/1582101101343830016.jpg)](https://x.com/bikeshopwhse/status/1582101101343830016)<br>**@bikeshopwhse** · image<br>The Motobecane Fantom 29 Advent is now back in stock! We are sorry they keep selling out... https://bikeshopwarehouse.com/cgi-bin/BSW_STOR20.cgi... #b | [![@ChichiChachaha](example/more/2076303701426471059.jpg)](https://x.com/ChichiChachaha/status/2076303701426471059)<br>**@ChichiChachaha** · 0:04 video · 10K views<br>#Overdo sets a new pre-release advertising record. ~RMB 120M secured from ads &amp; sponsorships bef. its premiere date is even announced. 20+ brand p |
+| [![@notdailyavatar](example/more/2080320968178692301.jpg)](https://x.com/notdailyavatar/status/2080320968178692301)<br>**@notdailyavatar** · image · 314 views<br>Getting ads for the same brand as Johannes' boots... Are you mocking me? 😭😭 They're too expensive and also sold out https://t.co/6ZwGz09Zcq | [![@mikasafavx](example/more/2077807501211267281.jpg)](https://x.com/mikasafavx/status/2077807501211267281)<br>**@mikasafavx** · 1:00 video · 1K views<br>SKIMS after lisa’s ad: 22% revenue growth in APAC skims x nike set sold out $1B net sales projected at the end of the year GAP after trasheye: 7% reve |   |
 
 ## How to make one like it
 

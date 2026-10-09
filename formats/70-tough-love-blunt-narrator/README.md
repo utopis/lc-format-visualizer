@@ -24,6 +24,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (live ad) · hype risk: Low · cost $0-100 · 45 min
 
 ## What it is

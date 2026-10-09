@@ -15,6 +15,7 @@
  "likes": 94,
  "views": 9146,
  "seen": "An Arcads demo: one short scene re-rendered in several animation styles, shown side by side and sequenced (Pixar-3D kids in a room, then the same beat in other looks). It shows the core move of the format: keep the script, swap the visual style.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -55,6 +56,62 @@
    "t": "0:18",
    "said": "Ooh, that's the good kind of heavy.",
    "ocr": "2D Retro 3D Pixar od Ge oa Pt a pf a4 MN"
+  }
+ ],
+ "more": [
+  {
+   "id": "2101991919920243015",
+   "author": "Diego_exits",
+   "url": "https://x.com/Diego_exits/status/2101991919920243015",
+   "thumb": "example/more/2101991919920243015.jpg",
+   "kind": "images",
+   "cap": "PRIMALQUEEN $6M/mo, 1,019 active ads; normal cartoon ads.",
+   "views": 4311
+  },
+  {
+   "id": "2107328605995077699",
+   "author": "CEO_Vlad",
+   "url": "https://x.com/CEO_Vlad/status/2107328605995077699",
+   "thumb": "example/more/2107328605995077699.jpg",
+   "kind": "image",
+   "cap": "7 AI UGC animation styles and what each is good for (article).",
+   "views": 49068
+  },
+  {
+   "id": "2107781382533472512",
+   "author": "ArmandasPuckus",
+   "url": "https://x.com/ArmandasPuckus/status/2107781382533472512",
+   "thumb": "example/more/2107781382533472512.jpg",
+   "kind": "image",
+   "cap": "'Selling to menopausal women with AI animations IS the method'.",
+   "views": 44149
+  },
+  {
+   "id": "2102132251706429937",
+   "author": "LordofAds",
+   "url": "https://x.com/LordofAds/status/2102132251706429937",
+   "thumb": "example/more/2102132251706429937.jpg",
+   "kind": "images",
+   "cap": "'Money glitch': remake best 30-day ad in 6 animation styles (Pixar, anime, paper cutout, whiteboard, skeleton...).",
+   "views": 4848
+  },
+  {
+   "id": "2099519666045776287",
+   "author": "therahulissar",
+   "url": "https://x.com/therahulissar/status/2099519666045776287",
+   "thumb": "example/more/2099519666045776287.jpg",
+   "kind": "images",
+   "cap": "Break Meta audience cap with format change (same message, new display: AI video, static, lo-fi) and new personas.",
+   "views": 3314
+  },
+  {
+   "id": "2087333716334924071",
+   "author": "CEO_Vlad",
+   "url": "https://x.com/CEO_Vlad/status/2087333716334924071",
+   "thumb": "example/more/2087333716334924071.jpg",
+   "kind": "image",
+   "cap": "Pixar-style AI ads helped $117k day.",
+   "views": 9536
   }
  ]
 }

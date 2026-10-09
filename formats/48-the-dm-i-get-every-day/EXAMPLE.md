@@ -1,8 +1,49 @@
 # 48 · 'The DM / question I get every day' answer video: see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @MaGeAuNaturel's post](example/storyboard.jpg)](https://x.com/MaGeAuNaturel/status/1775569173747228909)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@MaGeAuNaturel on X](https://x.com/MaGeAuNaturel/status/1775569173747228909) · 0:27 video · 0 likes, 25 views
+
+**Watch it:** [open the post on X](https://x.com/MaGeAuNaturel/status/1775569173747228909) · [play the video file](https://video.twimg.com/ext_tw_video/1775569137927872512/pu/vid/avc1/320x568/QMkb4hiIpljOFFKc.mp4?tag=12)
+
+> This is a common question I get asked! Tune in for an in-depth explanation 🙌 LINK IN BIO | 100% natural, vegan, refillable & reusable skincare is all you need for happy, healthy skin 💛 #mageaunaturel #natural #vegan #frenchcosmetics #madeineurope #glowrecipe #skincare
+
+## What you are seeing
+
+A skincare founder films herself on a balcony, phone held at arm's length, answering a question she says she gets asked all the time. About 27 seconds, one take, natural light, a product held up to camera partway through. The post copy says "This is a common question I get asked!" and sends people to the link in bio.
+
+## Beat by beat
+
+The storyboard above samples the video every 0:03. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+
+| Frame | Time | On screen | Said / sung |
+|---|---|---|---|
+| 1 | 0:00–0:03 | ue aw I ly a know. our lip is vegan ee | As you know, a lead bone is vegan, but that what does that really mean? |
+| 2 | 0:03–0:06 | VA oY fi, a fs there is no derived animal product ft a SS aS Ps aa a | · |
+| 3 | 0:06–0:10 | mi ty Se Ki ee ty ae percent pla based a2 aa. aa a a. a a fe | It means that there is no derived animal products and that it's 100 percent base. |
+| 4 | 0:10–0:13 | a ae a LAS difference between vegan and cruelty free as as sf Ee sa Lm | · |
+| 5 | 0:13–0:17 | 2. ma means that cruelty free is not tested on animals Jai sai a ee. | The difference between vegan cruelty free is not tested on animal, which is |
+| 6 | 0:17–0:20 | 7, I. a mandatory in. Europe as fe ow a a ha ns | · |
+| 7 | 0:20–0:23 | aa we? a VW te a aS cad ay ty my are always cruelty ISO al pot if cS a, Fr a ae Ae a5 os 5! a. al ww wu | men that are in Europe. So all products are always cruelty free. |
+| 8 | 0:23–0:27 | a fi a, af a al howe. Nero lip is also. vegan a | However, a lead bone is also vegan. |
+
+<details><summary>Full transcript (timestamped)</summary>
+
+- `0:00` As you know, a lead bone is vegan, but that what does that really mean?
+- `0:04` It means that there is no derived animal products and that it's 100 percent base.
+- `0:10` The difference between vegan cruelty free is not tested on animal, which is
+- `0:18` men that are in Europe. So all products are always cruelty free.
+- `0:23` However, a lead bone is also vegan.
+
+</details>
+
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@Aeeshatuuuu](example/more/2100222367909724510.jpg)](https://x.com/Aeeshatuuuu/status/2100222367909724510)<br>**@Aeeshatuuuu** · 0:07 video · 340 views<br>DAY 13 One question I get asked frequently is, Do you deliver outside Kaduna? And the answer is YES,we deliver nationwide across Nigeria,and guess wha | [![@nikitaavermaa](example/more/2005526119584551309.jpg)](https://x.com/nikitaavermaa/status/2005526119584551309)<br>**@nikitaavermaa** · 1:12 video · 78 views<br>Address the most asked question head on - this is why going through comment sections and customer queries are so important! Great for weight loss/skin | [![@antonioventre_](example/more/2091592059517837677.jpg)](https://x.com/antonioventre_/status/2091592059517837677)<br>**@antonioventre_** · image · 995 views<br>Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask. |
 
 ## How to make one like it
 
@@ -14,17 +55,30 @@
 
 ### 1. Copy the structure
 
-The skeleton every version follows: **hook → problem or tension → turn (the product shows up) → proof → one clear ask.** The shot-by-shot below fills it in.
+Use the example's timing as your beat sheet. Keep the beat, change the words and the product.
+
+| Beat | Time | In the example | Your version |
+|---|---|---|---|
+| 1 | 0:01 | As you know, a lead bone is vegan, but that what does that really mean? | … |
+| 2 | 0:05 | As you know, a lead bone is vegan, but that what does that really mean? It means that there is no derived animal products and that it's 100 | … |
+| 3 | 0:08 | It means that there is no derived animal products and that it's 100 percent base. | … |
+| 4 | 0:11 | The difference between vegan cruelty free is not tested on animal, which is | … |
+| 5 | 0:15 | The difference between vegan cruelty free is not tested on animal, which is | … |
+| 6 | 0:18 | men that are in Europe. So all products are always cruelty free. | … |
+| 7 | 0:22 | men that are in Europe. So all products are always cruelty free. | … |
+| 8 | 0:25 | However, a lead bone is also vegan. | … |
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 20-45s, 1080x1920
+**Target length / size:** 20-45s, 1080x1920 (reply-to-comment overlay)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-2s | Screenshot of a real DM or comment, big | "Does it REALLY not tarnish in the shower??" |
-| 2 | 2-30s | Founder or creator answers to camera with proof B-roll | Honest answer with limits |
-| 3 | End | Product | Offer |
+| 1 | 0-2s | TikTok reply sticker with the real question | "Can you really shower in it??" |
+| 2 | 2-6s | Founder or stylist to camera | "I get this DM every single day, so here's the answer." |
+| 3 | 6-20s | Demo: wears it under the shower, then wipes dry | "14K PVD over stainless steel. It's bonded, so there's nothing to wash off." |
+| 4 | 20-30s | Shows a 9-month-old piece next to a new one | "This one is 9 months old." |
+| 5 | End | Offer | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -47,10 +101,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Collect**
+**Question mining**
 
 ```text
-Export real DMs/comments (with permission or anonymised), pick the 10 most repeated questions, one video per question.
+Export the last 200 DMs and comments; group by question; rank by frequency; film the top 5.
+```
+
+**Shoot**
+
+```text
+Front camera, one take, natural light; reply sticker added in-app.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -92,8 +152,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Use real questions only; blur the sender.
-- No clean public example was found; the visual is a mock.
+- Use real questions (screenshot them).
+- Answer the question in the first 10 seconds.
+- Don't over-claim in the answer.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

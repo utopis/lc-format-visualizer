@@ -15,5 +15,35 @@
  "likes": 57,
  "views": 6173,
  "seen": "A handwritten paper sign taped above a product on a Christmas tree: \"WellnessBaby CYBER MONDAY 60% OFF TODAY!\". It looks shot on a phone, lo-fi on purpose.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2098414761578811635",
+   "author": "tryatria_AI",
+   "url": "https://x.com/tryatria_AI/status/2098414761578811635",
+   "thumb": "example/more/2098414761578811635.jpg",
+   "kind": "images",
+   "cap": "HANDWRITTEN ADS SHOULDN\u2019T WORK THIS WELL. BUT THEY DO. \ud83d\udc40 Handwritten notes. Whiteboards. Crude drawings. Marker scribbles. They look almost too simple",
+   "views": 3303
+  },
+  {
+   "id": "2077403948370067675",
+   "author": "stnkvcs",
+   "url": "https://x.com/stnkvcs/status/2077403948370067675",
+   "thumb": "example/more/2077403948370067675.jpg",
+   "kind": "images",
+   "cap": "I've been ranting a lot about native ads lately. I love 'em. But while they do tickle the algo (and my fancy) in just the right way, \"native\" is just ",
+   "views": 3066
+  },
+  {
+   "id": "2089448804676239424",
+   "author": "Simon__Rob",
+   "url": "https://x.com/Simon__Rob/status/2089448804676239424",
+   "thumb": "example/more/2089448804676239424.jpg",
+   "kind": "1:27 video",
+   "cap": "this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats co",
+   "views": 4883
+  }
+ ]
 }

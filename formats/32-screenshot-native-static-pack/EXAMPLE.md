@@ -1,8 +1,31 @@
 # 32 · Screenshot-native static pack (iPhone Notes, text thread, Reddit, email, Google, IG story/DM, Trustpilot): see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @liv_unltd's post](example/storyboard.jpg)](https://x.com/liv_unltd/status/1774923299136716885)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@liv_unltd on X](https://x.com/liv_unltd/status/1774923299136716885) · 1 image · 1 likes, 94 views
+
+**Watch it:** [open the post on X](https://x.com/liv_unltd/status/1774923299136716885)
+
+> really loving the notes app ad format, i especially loved the one that was for a news publication. really imbues a sense of professionalism to the advertiser
+
+## What you are seeing
+
+A real Gopuff ad shown in the Instagram feed, built to look like an iPhone Notes page: a 'Notes' header, a bold line "40% off alcohol?!?" and a few casual sentences about getting drinks delivered in minutes with a promo code. Under it sits the normal app-install card (logo, stars, Install). It reads like a note someone typed, not like an ad.
+
+## Image by image
+
+| Image | Text on it (OCR, rough) |
+|---|---|
+| 1 | Ad a Skip the store, order alcohol on Notes February 28, 2024 at 40% off alcohol?!? is giving new customers 40% OFF their first alcohol order on the app!! Order now and get alcohol delivered to your door in as fast as 15 minutes 43 WV use code: at checkout. Food Drink Delivery kk kw kw 206K reviews  |
+
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@growthquesthq](example/more/1922749862262489528.jpg)](https://x.com/growthquesthq/status/1922749862262489528)<br>**@growthquesthq** · image · 13 views<br>1⃣ Notes App Ad This one has cut client CPLs by 75%+ | [![@pearmill_agency](example/more/1674091921508007944.jpg)](https://x.com/pearmill_agency/status/1674091921508007944)<br>**@pearmill_agency** · image · 27 views<br>2/7 The Notes App Static 📒 - Open the Notes app on an iPhone - Create copy that reads like a note to self - think natural and human - Screenshot and p | [![@daniel_eckler](example/more/1678803289243041793.jpg)](https://x.com/daniel_eckler/status/1678803289243041793)<br>**@daniel_eckler** · image · 3K views<br>Literal iMessage Ad 👀 |
+| [![@gregmfitz](example/more/1621504769079517184.jpg)](https://x.com/gregmfitz/status/1621504769079517184)<br>**@gregmfitz** · image · 366 views<br>Whatever agency or consultant is recommending this notes app ad creative style must be stopped |   |   |
 
 ## How to make one like it
 

@@ -40,6 +40,15 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@jadorz](example/more/2100011962352513295.jpg)](https://x.com/jadorz/status/2100011962352513295)<br>**@jadorz** · 0:07 video · 670 views<br>tried $2 ring gimmick and it turned my finger green | [![@Nerdspringbreak](example/more/1919742776255635591.jpg)](https://x.com/Nerdspringbreak/status/1919742776255635591)<br>**@Nerdspringbreak** · image · 942 views<br>Worst birthday is when my boyfriend bought me ring that turned my finger green and a man's size trench coat from Rt 18 flea market. I still miss the U | [![@huntingbygones](example/more/1948169528703398314.jpg)](https://x.com/huntingbygones/status/1948169528703398314)<br>**@huntingbygones** · image · 96 views<br>me at the doctor showing them how my cheap ring turned my finger green |
+| [![@drebabys](example/more/1819923093139165232.jpg)](https://x.com/drebabys/status/1819923093139165232)<br>**@drebabys** · video · 64 views<br>my TikTok ring turned my finger green…. |   |   |
+
 ## How to make one like it
 
 **The format in one line:** The opening image is the ugliest, most specific version of the problem: a green ring mark on a finger, black flakes of plating, a discoloured line on the neck. The shock stops the scroll; the solution follows.
@@ -65,13 +74,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Static or 10-15s video
+**Target length / size:** Static 1080x1350, or a 10-15s video
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-2s | The ugliest real close-up of the problem: green ring mark, flaking plating | "This is what $20 gold does." |
-| 2 | 2-8s | The fix: product on the same finger/neck | "This is 6 months of [brand]." |
-| 3 | End | - | CTA |
+| 1 | 0-2s (or main image) | Harsh macro of the problem: a green ring mark on a finger, a flaking chain on a neck. Shot with side light so the texture shows | Text: "This is what $20 'gold' does." |
+| 2 | 2-5s | Same finger, now wearing the PVD ring, clean skin, natural light | "This is 6 months of showers in Louise Carter." |
+| 3 | 5-9s | Quick proof: ring under the tap, then wiped dry, still bright | "14K PVD. Doesn't turn green." |
+| 4 | End | Offer card | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -97,7 +107,19 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Shoot**
 
 ```text
-Macro, harsh side light on the problem, natural light on the fix.
+Macro lens or iPhone macro mode, a single hard side light for the "before" (texture), soft window light for the "after". Same hand, same angle, same framing.
+```
+
+**Sourcing the problem shot**
+
+```text
+Use a real photo from a team member or customer (with permission); never fake the discolouration with makeup or editing.
+```
+
+**Copy (Claude)**
+
+```text
+Write 10 one-line captions that name the problem bluntly without insulting the viewer, max 8 words each.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -142,8 +164,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Only real problems; no faked or exaggerated damage.
-- Platforms limit "shocking" imagery; keep it ugly, not gory.
+- Only show real problems; faked damage breaks ad rules and trust.
+- Meta restricts "shocking" or body-focused imagery; keep it to jewellery and skin marks, never wounds.
+- Don't shame the viewer ("you're wearing junk"); shame the cheap product.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

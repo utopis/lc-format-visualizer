@@ -1,16 +1,18 @@
 # 66 · Interactive gesture add-on ads (TikTok tap-to-reveal, shake-to-reveal, Super Like): see it, then make it
 
-[![The example: storyboard of @_deepakss_'s post](example/storyboard.jpg)](https://x.com/_deepakss_/status/2087895969157246985)
+[![The example: storyboard of @ChrisHarihar's post](example/storyboard.jpg)](https://x.com/ChrisHarihar/status/1703108334218297531)
 
-**The example:** [@_deepakss_ on X](https://x.com/_deepakss_/status/2087895969157246985) · 0:15 video · 10 likes, 201 views
+**The example:** [@ChrisHarihar on X](https://x.com/ChrisHarihar/status/1703108334218297531) · 0:08 video · 7 likes, 1K views
 
-**Watch it:** [open the post on X](https://x.com/_deepakss_/status/2087895969157246985) · [play the video file](https://video.twimg.com/amplify_video/2087894468787675137/vid/avc1/320x568/OJey6kH1QrZRe7CY.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/ChrisHarihar/status/1703108334218297531) · [play the video file](https://video.twimg.com/amplify_video/1703108275909111808/vid/avc1/320x604/DOAr0frOlfwpmcxv.mp4?tag=14)
 
-> Building "Tiktok for games" Arcadeo for this year's Shipaton. My main aim is to have a non frustrating experience when viewing an ad. This means user can skip the ad in 5 seconds, it appears naturally when scrolling for games, and they aren't those stupid interactive ads but entertaining video ones. Biggest lesson: AdMob doesn't always have an ad for you and you need to manage all of this yourselfs. #buildinpublic
+> **How close is this example?** Close: a real shake-to-reveal ad from a film campaign, not a product brand. The gallery below has more examples.
+
+> This "shake to learn more" ad format on TikTok, which offers simple interactivity, is effective. So far, I've only seen it used for movies (TMNT and Barbie). Anyone seen other examples/use cases?
 
 ## What you are seeing
 
-An interactive game ad: phone screens showing a puzzle you tap to play, then a story scene, so the viewer plays a few seconds inside the ad before the app is shown.
+A TikTok in-feed ad using the 'shake to learn more' interactive add-on (from the Barbie movie campaign): a creator talks to camera, a prompt asks viewers to shake their phone, the screen bursts into a full-screen pink Barbie pattern, then a 'watch it' card with ticket links. The poster says the format works well and has mostly been used for films.
 
 ## Beat by beat
 
@@ -18,21 +20,26 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | 14:09 cw so wes as ae mes me a | · |
-| 2 | 0:01–0:03 | · | · |
-| 3 | 0:03–0:05 | a, oo SS io Bi a in mm Test mode: The Wisdom App a | · |
-| 4 | 0:05–0:07 | Ee Sr Oy ra! a My Ob Rj Test mode: The Wisdom App | from ancient minds |
-| 5 | 0:07–0:09 | · | to modern times |
-| 6 | 0:09–0:11 | · | · |
-| 7 | 0:11–0:13 | · | · |
-| 8 | 0:13–0:15 | · | · |
+| 1 | 0:00–0:01 | Shake to learn more 4730 ad 170 Bring home the biggest movie of the year! Own Barbie Now on Digital! Sponsored a | On the ground. |
+| 2 | 0:01–0:02 | STEM ma. Sha more 4730 170 Bring home the biggest movie of the year! 190 Own Barbie Now on Digital! Sponsored. Watchman | · |
+| 3 | 0:02–0:04 | Se C4 ct rv ae ls VW Ns BP ow | · |
+| 4 | 0:04–0:05 | ya Bo OD | · |
+| 5 | 0:05–0:07 | see Barbie Movies a mt App! prime video AN Ve cox Me BEST BUY | · |
+| 6 | 0:07–0:08 | Barbie Movies Theaters at Fulton Market Regal Battery Park 12:45 PM 330 PM WATCH IT Buy Rent Digital OB prime video Ss cox SS | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
-- `0:05` from ancient minds
-- `0:08` to modern times
+- `0:00` On the ground.
 
 </details>
+
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@crowizard_stef](example/more/1735569746349670808.jpg)](https://x.com/crowizard_stef/status/1735569746349670808)<br>**@crowizard_stef** · image · 2K views<br>Stores are using TikTok’s new interactive cards already! Don’t fall behind: ​1. Create a new campaign where you select Reach & Frequency as the Ad Buy | [![@coltonjetlee](example/more/1790930807764435387.jpg)](https://x.com/coltonjetlee/status/1790930807764435387)<br>**@coltonjetlee** · image · 164 views<br>For those running TikTok Shop ads... Do you guys turn on a "Interactive Add-on" like a Product Card? We've been using them as TikTok claims it boosts | [![@_deepakss_](example/more/2087895969157246985.jpg)](https://x.com/_deepakss_/status/2087895969157246985)<br>**@_deepakss_** · 0:15 video · 201 views<br>Building "Tiktok for games" Arcadeo for this year's Shipaton. My main aim is to have a non frustrating experience when viewing an ad. This means user |
 
 ## How to make one like it
 
@@ -48,24 +55,24 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:01 | on screen: 14:09 cw so wes as ae mes me a | … |
-| 2 | 0:02 | (visual beat, see frame 2) | … |
-| 3 | 0:04 | from ancient minds | … |
-| 4 | 0:06 | from ancient minds to modern times | … |
-| 5 | 0:08 | from ancient minds to modern times | … |
-| 6 | 0:10 | to modern times | … |
-| 7 | 0:12 | (visual beat, see frame 7) | … |
-| 8 | 0:14 | (visual beat, see frame 8) | … |
+| 1 | 0:00 | On the ground. | … |
+| 2 | 0:02 | On the ground. | … |
+| 3 | 0:03 | on screen: Se C4 ct rv ae ls VW Ns BP ow | … |
+| 4 | 0:05 | on screen: ya Bo OD | … |
+| 5 | 0:06 | on screen: see Barbie Movies a mt App! prime video AN Ve cox Me BEST BUY | … |
+| 6 | 0:07 | on screen: Barbie Movies Theaters at Fulton Market Regal Battery Park 12:45 PM 330 PM WATCH IT Buy Rent Digital OB prime video Ss c | … |
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Existing video ad + interactive add-on
+**Target length / size:** 15-30s TikTok in-feed ad with an interactive add-on
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Base | A proven 15-30s video | - |
-| 2 | Add-on | Display card / shake-to-reveal / gift code | Reveals an offer |
-| 3 | Measure | Engagement on the add-on | - |
+| 1 | 0-3s | Creator holds up a closed gift box | "Shake your phone to open it." |
+| 2 | Shake moment | Gesture add-on triggers a gold burst animation | - |
+| 3 | 3-10s | Box opens: 7-piece stack | "Any 7 for $85." |
+| 4 | 10-20s | Demo in the shower | "Waterproof." |
+| 5 | Card | Product card add-on with price | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -91,7 +98,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **TikTok Ads Manager**
 
 ```text
-Ad > Interactive add-ons > Display Card (or Gift Code), set the reveal at 3-5s, card text max 30 characters.
+Add the Gesture / Super Like / Countdown sticker interactive add-on when building the ad (check current availability in your region).
+```
+
+**Animation**
+
+```text
+After Effects or CapCut: 1s gold particle burst, brand colours.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -130,8 +143,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Add-ons sit on top of a good video; they do not fix a weak one.
-- No clean public example; visual is a mock.
+- Add-on availability varies by region and objective; check before you produce.
+- The video must work without the interaction too.
+- Don't make the gesture the only content.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

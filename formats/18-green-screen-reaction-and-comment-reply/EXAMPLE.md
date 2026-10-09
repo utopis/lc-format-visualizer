@@ -52,6 +52,14 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@TheJeremyHaynes](example/more/2092620077946614206.jpg)](https://x.com/TheJeremyHaynes/status/2092620077946614206)<br>**@TheJeremyHaynes** · 18:23 video · 16K views<br>Ranking every ad creative format worst->best (video). | [![@sincerelydawnUG](example/more/2078944255465439652.jpg)](https://x.com/sincerelydawnUG/status/2078944255465439652)<br>**@sincerelydawnUG** · 0:14 video · 233 views<br>Here’s a recent ad where the brand requested green screen ads while the product ships! Portfolio: https://t.co/8dOkKM0Yrz Email: sincerelydawn.ugc@gma |   |
+
 ## How to make one like it
 
 **The format in one line:** Creator in front of a green-screen background showing **LC's own winning ad/post** (or a screenshot of a viral comment), reacting/explaining. Comment-reply: TikTok/IG comment bubble sticker ("does this actually survive the ocean??") + answer video.

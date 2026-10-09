@@ -15,6 +15,7 @@
  "likes": 2,
  "views": 4081,
  "seen": "A how-it's-made clip: a jeweler's hands cutting a band, shaping a dome, setting a crystal and finishing the piece, shot in tight close-up. The opening caption asks \"WOULD YOU GIVE THIS AS A GIFT? DROP A COMMENT\".",
+ "match": "exact",
  "beats": [
   {
    "t": "0:03",
@@ -55,6 +56,53 @@
    "t": "0:53",
    "said": "",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2101018997508669891",
+   "author": "luisfelipebfr2",
+   "url": "https://x.com/luisfelipebfr2/status/2101018997508669891",
+   "thumb": "example/more/2101018997508669891.jpg",
+   "kind": "3:55 video",
+   "cap": "Eskiin founder mini-VSL breakdown: vision-board open loop \u2192 problem \u2192 failed solutions \u2192 mechanism \u2192 product \u2192 mission \u2192 retire mom.",
+   "views": 166
+  },
+  {
+   "id": "2086324982892605618",
+   "author": "rirahcreates",
+   "url": "https://x.com/rirahcreates/status/2086324982892605618",
+   "thumb": "example/more/2086324982892605618.jpg",
+   "kind": "0:10 video",
+   "cap": "AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum",
+   "views": 454
+  },
+  {
+   "id": "2079246318191403496",
+   "author": "lorenzo_pravata",
+   "url": "https://x.com/lorenzo_pravata/status/2079246318191403496",
+   "thumb": "example/more/2079246318191403496.jpg",
+   "kind": "1:58 video",
+   "cap": "Resilia ~8,000 ads, \"$10-15M/month\" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL.",
+   "views": 5237
+  },
+  {
+   "id": "2094146716417069510",
+   "author": "BobG_Ecom",
+   "url": "https://x.com/BobG_Ecom/status/2094146716417069510",
+   "thumb": "example/more/2094146716417069510.jpg",
+   "kind": "image",
+   "cap": "0 to 100k/mo profit with ecom - Day 9 Back in the green, but slowing down as we are experiencing supply chain issues. I\u2019ve been in the process making ",
+   "views": 201
+  },
+  {
+   "id": "2080054481853788591",
+   "author": "Haariz23",
+   "url": "https://x.com/Haariz23/status/2080054481853788591",
+   "thumb": "example/more/2080054481853788591.jpg",
+   "kind": "image",
+   "cap": "A Small Creative Strategy Update. Ecom Bros & Creative Strategists Listen up. A brand came to me with ads that weren't converting. Same creatives. Sam",
+   "views": 743
   }
  ]
 }

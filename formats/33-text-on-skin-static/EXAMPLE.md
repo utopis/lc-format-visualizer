@@ -1,8 +1,32 @@
 # 33 · Text-on-skin / text-on-palm static: see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @Outscaler's post](example/storyboard.jpg)](https://x.com/Outscaler/status/1919120416485855259)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@Outscaler on X](https://x.com/Outscaler/status/1919120416485855259) · 1 image · 6 likes, 391 views
+
+**Watch it:** [open the post on X](https://x.com/Outscaler/status/1919120416485855259)
+
+> **How close is this example?** Close: a real Kollo ad reposted in a breakdown. The gallery below has more examples.
+
+> Another ad concept I saw on twitter the other day I just posted on my discovery Text on skin. These guys did it as video format too (Sora'S AI?)
+
+## What you are seeing
+
+A collagen ad from Kollo Health (shared as an example of the 'text on skin' concept): a close-up of a woman's face with small paper-style stickers stuck on her skin — "wrinkles?" and "Kollo" — and the caption "Visible results in as little as 28 days". A second version does the same on a man's face ("it's also for blokes!"). The words sit right on the skin where the problem is.
+
+## Image by image
+
+| Image | Text on it (OCR, rough) |
+|---|---|
+| 1 | Health od Health od SS SS St Te las Thin about coll It isn't just Ko for the ladies Dh ee Collagen Supplement The UK's #1 Rated Visible results in as little as 28 days. also for blokes! its ae The UK’ Most Awarded 10,000 mg Liquid Collagen The UK's Most Awarded Collagen. Also For Men. ment! Uni powe |
+
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@S1R3NH3AD](example/more/1708930597014384941.jpg)](https://x.com/S1R3NH3AD/status/1708930597014384941)<br>**@S1R3NH3AD** · image · 20K views<br>saw this ad and you will never believe what i thought she was writing on her arm |   |   |
 
 ## How to make one like it
 
@@ -18,13 +42,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static, 1080x1350
+**Target length / size:** 1 static 1080x1350 (or a 6s video)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Frame | Close-up of a palm, inner wrist or collarbone with a short line written in pen/eyeliner | "6 months. never took it off." |
-| 2 | Product | The piece worn right next to the writing | - |
-| 3 | Primary text | - | The story behind the line |
+| 1 | Main | Close-up of a wrist or collarbone with a word written in eyeliner or skin-safe marker, the necklace or bracelet sitting right next to it | Word on skin: "waterproof." |
+| 2 | Variant A | Palm facing camera, the ring on a finger | On palm: "shower-proof" |
+| 3 | Variant B | Collarbone with a small sticker label (like Kollo's), pointing at the necklace | Sticker: "still gold after 9 months" |
+| 4 | Corner | Small logo + offer | "Any 7 for $85" |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -53,7 +78,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Shoot**
 
 ```text
-Write with a fine black eyeliner pencil, shoot in window light at 50mm, shallow depth, skin texture visible, no retouching.
+Natural window light, macro or 2x lens, skin in focus, writing in neat handwriting (not a font).
+```
+
+**Word bank (Claude)**
+
+```text
+List 20 one- to three-word benefits for [product] that would look good written on skin.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -98,9 +129,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- The writing must be real (not a font).
-- Keep the line under 7 words.
-- The example post found was an ad-manager screenshot, so the visual here is a mock.
+- The writing must be real handwriting; fonts look fake.
+- Keep it to 1-4 words; skin is a small canvas.
+- Use skin-safe products and say so if asked.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

@@ -15,5 +15,35 @@
  "likes": 0,
  "views": 14,
  "seen": "A spec static built from a single verbatim review: \"Your customers already wrote it.\" over the quoted line \"Most of the time you don't even know it's on.\" (a GEEKOM owner, 5-star review) with the mini PC on a desk.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "1842707896443732362",
+   "author": "PhilKiel",
+   "url": "https://x.com/PhilKiel/status/1842707896443732362",
+   "thumb": "example/more/1842707896443732362.jpg",
+   "kind": "image",
+   "cap": "Customer review static. Who thinks a customer actually wrote this? Stellar copywriting if they did \ud83d\ude02",
+   "views": 22384
+  },
+  {
+   "id": "1857792129004675247",
+   "author": "ariesnotebook",
+   "url": "https://x.com/ariesnotebook/status/1857792129004675247",
+   "thumb": "example/more/1857792129004675247.jpg",
+   "kind": "image",
+   "cap": "Simple but effective testimonial static. Stats: 4.8M likes",
+   "views": 4853
+  },
+  {
+   "id": "2000557038682706000",
+   "author": "helloitsdrew_",
+   "url": "https://x.com/helloitsdrew_/status/2000557038682706000",
+   "thumb": "example/more/2000557038682706000.jpg",
+   "kind": "image",
+   "cap": "Keys to an effective review/testimonial static: - Review that highlights a specific product benefit - Review shown in an authentic way (social media U",
+   "views": 893
+  }
+ ]
 }

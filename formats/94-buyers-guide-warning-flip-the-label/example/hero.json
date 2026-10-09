@@ -15,6 +15,7 @@
  "likes": 6,
  "views": 1103,
  "seen": "A grotesque, stretched-face claymation character at a podcast mic reading the label of a skincare product (\"WE JUST MOVED\", \"EVERY CREAM BEFORE\", \"HYDROLYZED HYALURONIC ACID\", \"61% OFF\"). It is a buyer's guide delivered by an unforgettable character.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:08",
@@ -55,6 +56,53 @@
    "t": "2:13",
    "said": "That's the worst part. She gets 60 days. If we don't shrink, she pays nothing, and it gets even worse. Right now there's a discount. Up to 6",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2038318041457741869",
+   "author": "SuurajN35299",
+   "url": "https://x.com/SuurajN35299/status/2038318041457741869",
+   "thumb": "example/more/2038318041457741869.jpg",
+   "kind": "0:39 video",
+   "cap": "Stop! \ud83d\uded1 Before you buy that gold chain, check the clasp for these 3 stamps: GP GEP HGE If you see them, you're buying plated jewelry, not solid gold. ",
+   "views": 11
+  },
+  {
+   "id": "2080124641826242894",
+   "author": "Amiragoldgroup",
+   "url": "https://x.com/Amiragoldgroup/status/2080124641826242894",
+   "thumb": "example/more/2080124641826242894.jpg",
+   "kind": "2:46 video",
+   "cap": "Thrift stores can hide incredible treasures\u2014but never assume every piece is real. Always verify, test, and inspect before you buy. A few minutes of ch",
+   "views": 95
+  },
+  {
+   "id": "2084213867505435020",
+   "author": "OrvanyaIndia",
+   "url": "https://x.com/OrvanyaIndia/status/2084213867505435020",
+   "thumb": "example/more/2084213867505435020.jpg",
+   "kind": "0:22 video",
+   "cap": "Before you buy gold as an investment or commodity/wearable next time, remember these 5 common mistakes and plan accordingly #gold #investment #jewelle",
+   "views": 25
+  },
+  {
+   "id": "2078344172885700790",
+   "author": "NatxtraSynthite",
+   "url": "https://x.com/NatxtraSynthite/status/2078344172885700790",
+   "thumb": "example/more/2078344172885700790.jpg",
+   "kind": "0:31 video",
+   "cap": "Don't buy a supplement without reading the label. The real story is in the ingredients, dosage, and hidden extras\u2014not the marketing. Read the label be",
+   "views": 5
+  },
+  {
+   "id": "2105130548155056153",
+   "author": "nicklaunches",
+   "url": "https://x.com/nicklaunches/status/2105130548155056153",
+   "thumb": "example/more/2105130548155056153.jpg",
+   "kind": "image",
+   "cap": "Before you buy ANY directory ad, ask these 4. &gt; who measures the traffic, them or a third party &gt; how many ads rotate through the same spot &gt;",
+   "views": 977
   }
  ]
 }

@@ -25,6 +25,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 5 | 0:06–0:08 | · | · |
 | 6 | 0:08–0:10 | · | · |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@LordofAds](example/more/1905654783823782374.jpg)](https://x.com/LordofAds/status/1905654783823782374)<br>**@LordofAds** · 0:42 video · 32 views<br>🛡️Creative #1: First Person POV Example An influencer takes the audience through her makeup routine using OGEE contour products. The ad-libs and comme | [![@DeQueenofSpaces](example/more/2100177884975612016.jpg)](https://x.com/DeQueenofSpaces/status/2100177884975612016)<br>**@DeQueenofSpaces** · 0:12 video · 2K views<br>First-person POV vs Third-person POV. Welcome back to this week's AI Creation Lab, where we're exploring Point of View. For this experiment, I created | [![@MarketingE80034](example/more/2101990359379099861.jpg)](https://x.com/MarketingE80034/status/2101990359379099861)<br>**@MarketingE80034** · 0:39 video · 13 views<br>One product photo. One prompt. A cinematic POV ad in seconds 🎬 No camera, no studio, no models. Here's the exact AI workflow 👇 #AIVideo #AIMarketing # |
+
 ## How to make one like it
 
 **The format in one line:** Camera = viewer's eyes; hands wearing the product doing real things; a narrative tension (will it survive?).

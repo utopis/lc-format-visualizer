@@ -15,6 +15,7 @@
  "likes": 38,
  "views": 3681,
  "seen": "A Pixar-style 3D story about 70 seconds long. A lonely pink character sits by a door under the caption \"2 YEARS AND NOBODY LOOKED AT THIS\" and narrates (\"I'm the one downstairs\", \"Then one winter\", \"And she decided I moved out\") while a couple lives their life upstairs. It ends with the character wrapped in a blanket: \"I'm COLD...\". Every line has big centred captions; the product is the quiet answer to the story.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:04",
@@ -55,6 +56,62 @@
    "t": "1:05",
    "said": "",
    "ocr": "Lad hs. a 1% So mn: Ss. SS ASS oY rm COLD... mS bl"
+  }
+ ],
+ "more": [
+  {
+   "id": "2100659903488819256",
+   "author": "lifemaximised",
+   "url": "https://x.com/lifemaximised/status/2100659903488819256",
+   "thumb": "example/more/2100659903488819256.jpg",
+   "kind": "4:54 video",
+   "cap": "RYZE ($25M+/mo) AI song ad library breakdown.",
+   "views": 5396
+  },
+  {
+   "id": "2102465180567543939",
+   "author": "therahulissar",
+   "url": "https://x.com/therahulissar/status/2102465180567543939",
+   "thumb": "example/more/2102465180567543939.jpg",
+   "kind": "image",
+   "cap": "4-min AI song video, product not revealed until minute 3 - winner.",
+   "views": 3309
+  },
+  {
+   "id": "2088293230450512089",
+   "author": "mkwizrd",
+   "url": "https://x.com/mkwizrd/status/2088293230450512089",
+   "thumb": "example/more/2088293230450512089.jpg",
+   "kind": "image",
+   "cap": "Brand reports AI song ad driving big order.",
+   "views": 5673
+  },
+  {
+   "id": "2102083500052795710",
+   "author": "manojbash",
+   "url": "https://x.com/manojbash/status/2102083500052795710",
+   "thumb": "example/more/2102083500052795710.jpg",
+   "kind": "image",
+   "cap": "Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a",
+   "views": 183426
+  },
+  {
+   "id": "2100215847427944464",
+   "author": "Diego_exits",
+   "url": "https://x.com/Diego_exits/status/2100215847427944464",
+   "thumb": "example/more/2100215847427944464.jpg",
+   "kind": "images",
+   "cap": "13k Active Meta ads and 17.000.000 MRR \ud83e\udd2f AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesn",
+   "views": 5465
+  },
+  {
+   "id": "2107923415650701515",
+   "author": "qwertyu_alex",
+   "url": "https://x.com/qwertyu_alex/status/2107923415650701515",
+   "thumb": "example/more/2107923415650701515.jpg",
+   "kind": "4:54 video",
+   "cap": "there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte",
+   "views": 670
   }
  ]
 }

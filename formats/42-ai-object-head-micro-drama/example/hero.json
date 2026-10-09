@@ -15,6 +15,7 @@
  "likes": 9,
  "views": 5508,
  "seen": "Talking-fruit micro-drama: a broccoli-head character and a tomato-head businessman in suits in a barbershop or office, then an apple and an eggplant character. It is a 1-minute soap plot acted out by food characters.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:04",
@@ -55,6 +56,53 @@
    "t": "1:03",
    "said": "Everyone deserves a second chance The greatest gift is not money. It is that you never lost your heart",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2103701345563812177",
+   "author": "bmx_ai13",
+   "url": "https://x.com/bmx_ai13/status/2103701345563812177",
+   "thumb": "example/more/2103701345563812177.jpg",
+   "kind": "1:20 video",
+   "cap": "AI micro-drama production skill (script \u2192 storyboard \u2192 consistent characters) \u2014 tool promo.",
+   "views": 1312
+  },
+  {
+   "id": "2096695495590568092",
+   "author": "CodewizzyX",
+   "url": "https://x.com/CodewizzyX/status/2096695495590568092",
+   "thumb": "example/more/2096695495590568092.jpg",
+   "kind": "0:50 video",
+   "cap": "THESE VIRAL \"FRUIT DRAMA\" AI VIDEOS AREN'T RANDOM - THERE'S AN ACTUAL FORMULA AND IT'S FREE TO COPY No camera, no writers room, no editing. Absurd fru",
+   "views": 2594
+  },
+  {
+   "id": "2082748308293071171",
+   "author": "SmartEye_ADSpy",
+   "url": "https://x.com/SmartEye_ADSpy/status/2082748308293071171",
+   "thumb": "example/more/2082748308293071171.jpg",
+   "kind": "images",
+   "cap": "\ud83d\udd25July 30 Global Micro Dramas & AI Micro Dramas: Multiple NetShort Horror Campus AI Dramas Secure Chart Rankings; Fruit-Themed AI Micro Drama Jumps to ",
+   "views": 242
+  },
+  {
+   "id": "2087111287184728470",
+   "author": "SmartEye_ADSpy",
+   "url": "https://x.com/SmartEye_ADSpy/status/2087111287184728470",
+   "thumb": "example/more/2087111287184728470.jpg",
+   "kind": "image",
+   "cap": "Top 3 Claim Over 40% of Global Market Revenue; Breakout AI Micro Drama App VibeShort Cracks the Chart Market Revenue Is Highly Concentrated: In H1 202",
+   "views": 158
+  },
+  {
+   "id": "2087810501686481034",
+   "author": "SmartEye_ADSpy",
+   "url": "https://x.com/SmartEye_ADSpy/status/2087810501686481034",
+   "thumb": "example/more/2087810501686481034.jpg",
+   "kind": "image",
+   "cap": "Top 3 Contribute Over 40% of Market Revenue | Maiya's NetShort Cracks the Top 3 In H1 2026, the Top 20 Chinese micro drama apps in global markets gene",
+   "views": 137
   }
  ]
 }

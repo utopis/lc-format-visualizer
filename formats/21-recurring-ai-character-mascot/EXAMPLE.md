@@ -31,6 +31,15 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@ErnestoSOFTWARE](example/more/2103534688048414959.jpg)](https://x.com/ErnestoSOFTWARE/status/2103534688048414959)<br>**@ErnestoSOFTWARE** · 0:44 video · 95K views<br>11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts. | [![@MuteeAutomation](example/more/2107022363313279044.jpg)](https://x.com/MuteeAutomation/status/2107022363313279044)<br>**@MuteeAutomation** · image · 3K views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The | [![@YouTubeAut3538](example/more/2107104155831546119.jpg)](https://x.com/YouTubeAut3538/status/2107104155831546119)<br>**@YouTubeAut3538** · image · 361 views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The |
+| [![@AdebayoYTA](example/more/2107147460443275590.jpg)](https://x.com/AdebayoYTA/status/2107147460443275590)<br>**@AdebayoYTA** · image · 110 views<br>Familiar news format. Satire on top. One recurring character. Same shape every upload. 60–90 seconds. Millions of views across the catalog. The videos | [![@Automation94453](example/more/2107048376558567547.jpg)](https://x.com/Automation94453/status/2107048376558567547)<br>**@Automation94453** · image · 55 views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The |   |
+
 ## How to make one like it
 
 **The format in one line:** One distinctive character (odd, recognisable — accent, look, catchphrase) in short repeatable bits; motion borrowed from trending formats; same character every post builds a following ([@sairahul1](https://x.com/sairahul1/status/2107172215586513360)).

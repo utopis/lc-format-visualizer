@@ -53,6 +53,14 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 
 </details>
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@Teavetua1971](example/more/2104205130413273395.jpg)](https://x.com/Teavetua1971/status/2104205130413273395)<br>**@Teavetua1971** · 0:10 video · 10K views<br>QT With Your Funny Ad (Inspired by an old ad for a famous brand 😁😁) #digitalart #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ https://t.co | [![@nedfulmer](example/more/2080780729852526953.jpg)](https://x.com/nedfulmer/status/2080780729852526953)<br>**@nedfulmer** · image · 6K views<br>“Is influencer marketing dead?" While hiking through a medieval castle (lol, I know), I recently had a conversation with a founder who had shifted nea | [![@imranullah](example/more/2091907704734257203.jpg)](https://x.com/imranullah/status/2091907704734257203)<br>**@imranullah** · 0:15 video · 12K views<br>The sad part is that this brand thought this was going to be a funny ad. I have pulled the calaway woods from my bag. #calawaygolf #goodgood https://t |
+
 ## How to make one like it
 
 **The format in one line:** A 30-90s scripted comedy sketch (heist, courtroom, interrogation, office) in which every joke delivers a selling point: the mechanism, social proof, the offer, and the CTA ("click the button below"). Funny is the costume; direct response is the body.

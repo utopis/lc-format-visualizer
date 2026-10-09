@@ -15,6 +15,7 @@
  "likes": 183,
  "views": 190509,
  "seen": "A fully animated product video: an Amazon logo, \"ONLY ONE CLICK\", a parcel dropping in, an object rising out of a box, then the Amazon logo again. The product animates itself with no presenter.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:00",
@@ -45,6 +46,35 @@
    "t": "0:05",
    "said": "",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2092163067073241239",
+   "author": "rirahcreates",
+   "url": "https://x.com/rirahcreates/status/2092163067073241239",
+   "thumb": "example/more/2092163067073241239.jpg",
+   "kind": "0:13 video",
+   "cap": "We're entering an era where your marketing doesn't have to look ordinary. With AI, your ideas can literally come to life. Join AI Content Lab and lear",
+   "views": 370
+  },
+  {
+   "id": "2105653073276207449",
+   "author": "DBackendBesties",
+   "url": "https://x.com/DBackendBesties/status/2105653073276207449",
+   "thumb": "example/more/2105653073276207449.jpg",
+   "kind": "0:26 video",
+   "cap": "Day 1/30 of creating AI-powered ads for brands. I created this 3D animated product ad for @oraimomate to show how AI can help e-commerce brands turn t",
+   "views": 125
+  },
+  {
+   "id": "2082224622255374394",
+   "author": "AgentOpusAI",
+   "url": "https://x.com/AgentOpusAI/status/2082224622255374394",
+   "thumb": "example/more/2082224622255374394.jpg",
+   "kind": "0:04 video",
+   "cap": "Making an animated product ad used to be a project. Making them at scale used to take a month. We took down both. Full tutorial \ud83d\udc47 https://t.co/6pMG6df",
+   "views": 6135
   }
  ]
 }

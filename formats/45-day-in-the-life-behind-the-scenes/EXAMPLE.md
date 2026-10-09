@@ -54,10 +54,11 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Wide 0.5x shot, POV walk-in to the day | "a day in my life running a jewelry brand" |
-| 2 | 3-40s | 8-12 quick clips: coffee, packing orders, QC, gym, shower, dinner | Short captions with times |
-| 3 | 40-55s | Product worn through every clip | Natural |
-| 4 | End | Night shot | Soft CTA |
+| 1 | 0-3s | Founder at 6am packing orders, phone propped on shelf | "A day running a jewellery brand from my spare room." |
+| 2 | 3-15s | Quick cuts: coffee, emails, quality-checking chains under a lamp | VO with time stamps on screen |
+| 3 | 15-30s | Testing a necklace in the sink, then a swim at lunch | "Every new piece goes in the sea before it goes on the site." |
+| 4 | 30-45s | Evening: packing the last box, handwritten note | "Order 412 today." |
+| 5 | End | Product | Soft CTA |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -86,7 +87,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Shoot**
 
 ```text
-iPhone 0.5x lens for wide POV moments, 1x for details, 1080p 30fps, film 2-4s per clip.
+Phone on a mini tripod, 15-20 clips of 2-4s, natural light; time stamps as captions.
+```
+
+**Script (Claude)**
+
+```text
+Turn this list of real tasks [paste] into a 45-second day-in-the-life with one surprising detail.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -130,8 +137,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Show the product in every scene so the "never take it off" message lands without words.
-- Avoid music you do not have rights to.
+- Show the real day, not a staged one.
+- One product moment, not five.
+- Don't show customer names or addresses on labels.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

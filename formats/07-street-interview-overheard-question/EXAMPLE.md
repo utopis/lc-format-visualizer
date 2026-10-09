@@ -52,6 +52,15 @@ The storyboard above samples the video every 0:13. Lines are the transcript for 
 
 </details>
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@tryatria_AI](example/more/2095860430099058905.jpg)](https://x.com/tryatria_AI/status/2095860430099058905)<br>**@tryatria_AI** · 0:45 video · 9K views<br>AI resort 'random interview' ('Are you really 56?') hook format. | [![@maxxmalist](example/more/2080007884406960319.jpg)](https://x.com/maxxmalist/status/2080007884406960319)<br>**@maxxmalist** · 0:35 video · 6K views<br>the new animation ads are crushing on fb here's an example created by my whop member you can literally do any format with AI: - podcasts - street inte | [![@0xROAS](example/more/2078901864498692155.jpg)](https://x.com/0xROAS/status/2078901864498692155)<br>**@0xROAS** · 0:55 video · 20K views<br>the new drama ADS are crushing on fb lol. you can literally do any format with AI: - podcasts - street interview - drama ads - doctor/authority figure |
+| [![@vicmediaco](example/more/2092248121581486114.jpg)](https://x.com/vicmediaco/status/2092248121581486114)<br>**@vicmediaco** · 0:19 video · 1K views<br>Made this street interview ad for a beauty brand … what do you think ? Need Video ads? …send a DM 📩 https://t.co/Km4XvI6oNF | [![@theisaacmed](example/more/2087181812103831724.jpg)](https://x.com/theisaacmed/status/2087181812103831724)<br>**@theisaacmed** · 0:06 video · 9K views<br>The ad frequency on my meta account for street interview agencies is at 100x. Every day I login to ig and am blasted by ads. https://t.co/UdeTr0VJDw |   |
+
 ## How to make one like it
 
 **The format in one line:** **Variant 1 — Interview**: handheld mic, stranger on the street/resort: "Are you really 56?" → "I lost 18 pounds in one month… it was cortisol" ([@tryatria_AI](https://x.com/tryatria_AI/status/2095860430099058905)). Question does the hooking; answer is social proof. **Variant 2 — Overheard question (stronger)**: the product is discovered by a third party asking. GroundingWell: hotel guests calling

@@ -18,6 +18,15 @@ A TikTok profile for a faceless relationship page (@notruthlove). Every post use
 |---|---|
 | 1 | 50% EN Ruth 524 343.8K Following Followers Likes Message 12 For everything you feel but can’t explain Follow to feel understood. wt my a the strict agreements we Micro-rules that completely made before signing a lease changed how we love each Rules we made after we together other almost broke up hd  |
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@rsalimx](example/more/2107517609960702306.jpg)](https://x.com/rsalimx/status/2107517609960702306)<br>**@rsalimx** · images · 6K views<br>Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it). | [![@ChadAppDev](example/more/2098786343836860487.jpg)](https://x.com/ChadAppDev/status/2098786343836860487)<br>**@ChadAppDev** · image · 18K views<br>Before building: make niche TikTok page, find most viral slideshow formats, copy with own flavor, 1/day. | [![@ChadAppDev](example/more/2107186633871114374.jpg)](https://x.com/ChadAppDev/status/2107186633871114374)<br>**@ChadAppDev** · image · 5K views<br>Repost of ChadAppDev niche slideshow method. |
+| [![@leonclipping](example/more/2106833379823894702.jpg)](https://x.com/leonclipping/status/2106833379823894702)<br>**@leonclipping** · 0:16 video · 8K views<br>GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip. | [![@Dkevs_](example/more/2100425887636472312.jpg)](https://x.com/Dkevs_/status/2100425887636472312)<br>**@Dkevs_** · 0:05 video · 4K views<br>$200K MRR app via TikTok slideshows; don't overcomplicate with clippers. | [![@mufvza](example/more/2082847934841049519.jpg)](https://x.com/mufvza/status/2082847934841049519)<br>**@mufvza** · 0:18 video · 44K views<br>Analysis of 1,000 app slideshows: most-viewed != most installs; track saves/profile clicks per slideshow. |
+
 ## How to make one like it
 
 **The format in one line:** A 4-6 slide photo carousel that reads like genuinely useful niche content (tips, rules, lists, diary). The product appears **once**, framed as one of the tips — typically slide N-1 ("right before the last tip so you can't get the full list without seeing it", @rsalimx).

@@ -48,6 +48,15 @@ The storyboard above samples the video every 0:08. Lines are the transcript for 
 
 </details>
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@bmx_ai13](example/more/2103701345563812177.jpg)](https://x.com/bmx_ai13/status/2103701345563812177)<br>**@bmx_ai13** · 1:20 video · 1K views<br>AI micro-drama production skill (script → storyboard → consistent characters) — tool promo. | [![@CodewizzyX](example/more/2096695495590568092.jpg)](https://x.com/CodewizzyX/status/2096695495590568092)<br>**@CodewizzyX** · 0:50 video · 3K views<br>THESE VIRAL "FRUIT DRAMA" AI VIDEOS AREN'T RANDOM - THERE'S AN ACTUAL FORMULA AND IT'S FREE TO COPY No camera, no writers room, no editing. Absurd fru | [![@SmartEye_ADSpy](example/more/2082748308293071171.jpg)](https://x.com/SmartEye_ADSpy/status/2082748308293071171)<br>**@SmartEye_ADSpy** · images · 242 views<br>🔥July 30 Global Micro Dramas & AI Micro Dramas: Multiple NetShort Horror Campus AI Dramas Secure Chart Rankings; Fruit-Themed AI Micro Drama Jumps to |
+| [![@SmartEye_ADSpy](example/more/2087111287184728470.jpg)](https://x.com/SmartEye_ADSpy/status/2087111287184728470)<br>**@SmartEye_ADSpy** · image · 158 views<br>Top 3 Claim Over 40% of Global Market Revenue; Breakout AI Micro Drama App VibeShort Cracks the Chart Market Revenue Is Highly Concentrated: In H1 202 | [![@SmartEye_ADSpy](example/more/2087810501686481034.jpg)](https://x.com/SmartEye_ADSpy/status/2087810501686481034)<br>**@SmartEye_ADSpy** · image · 137 views<br>Top 3 Contribute Over 40% of Market Revenue \| Maiya's NetShort Cracks the Top 3 In H1 2026, the Top 20 Chinese micro drama apps in global markets gene |   |
+
 ## How to make one like it
 
 **The format in one line:** Serialized 1-2 min AI soap operas where characters are objects/fruit heads on human bodies (love, betrayal, plot twist). Massive organic views category; product placement is the play for a brand.

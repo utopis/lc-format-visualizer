@@ -67,6 +67,14 @@ The storyboard above samples the video every 0:26. Lines are the transcript for 
 
 </details>
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@D_Only_Aji](example/more/2091972209178796230.jpg)](https://x.com/D_Only_Aji/status/2091972209178796230)<br>**@D_Only_Aji** · 0:25 video · 603 views<br>Just wrapped up this 3D animated performance ad for Rejuvenate, built from the ground up using an AI-assisted production workflow. From creative direc | [![@FedotOff90](example/more/2072477830861254686.jpg)](https://x.com/FedotOff90/status/2072477830861254686)<br>**@FedotOff90** · 0:52 video · 10K views<br>66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board. | [![@HikeMyTraffic](example/more/2082004242471268500.jpg)](https://x.com/HikeMyTraffic/status/2082004242471268500)<br>**@HikeMyTraffic** · 0:23 video · 65 views<br>Team HikeMyTraffic created this stunning Wilkinson Sword Hydro 5 razor commercial entirely with AI. 🎬AI Product Videos \| CGI Ads \| Social Creatives Hi |
+
 ## How to make one like it
 
 **The format in one line:** An AI/CGI shot goes where no camera can: inside the metal, the bonded layer, shower spray hitting the surface. Often paired with a villain monologue (Tarnish, Green Stain) failing to get in. Rotate styles (claymation → CGI → Pixar → diorama) so the feed never learns the pattern.
@@ -92,14 +100,16 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 15-30s, 1080x1920
+**Target length / size:** 15-25s, 1080x1920, CGI + real product end
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | CGI x-ray inside the metal: layers visible | Villain voice: "I'm Tarnish. I eat cheap plating." |
-| 2 | 3-15s | Shower spray hitting a plated chain vs a PVD chain | Mechanism in one line |
-| 3 | 15-22s | Villain gives up | "...not this one." |
-| 4 | End | Real product footage | CTA |
+| 1 | 0-2s | Extreme macro CGI: the camera dives into a chain link until the metal layers are visible like geological strata | Villain VO (gravelly): "I'm Tarnish. I live on cheap jewellery." |
+| 2 | 2-6s | Cutaway: a cheap plated chain under shower water; the thin top layer flakes off, grey metal shows through | "A little water. A little sweat. I eat the plating right off." |
+| 3 | 6-12s | Same water hits the PVD chain; droplets bead and roll off; a glowing bonded layer stays intact | Villain, confused: "Wait... why can't I get in?" |
+| 4 | 12-16s | Labelled cross-section: stainless steel core / bonded PVD gold layer | Narrator (warm): "14K PVD gold, bonded to stainless steel. Nothing to flake." |
+| 5 | 16-20s | Real product footage: a hand in the sea wearing the stack | Villain, defeated: "Fine. I'll go find a $9 necklace." |
+| 6 | End card | Product grid + offer | "Any 7 for $85. Waterproof." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -122,16 +132,22 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Veo 3 / Kling**
+**Veo 3 / Kling 2**
 
 ```text
-hyperreal CGI cross-section of a gold-coated stainless steel chain link, the bonded coating layer glowing, water droplets hitting it, macro, 5s
+hyperreal CGI macro, camera dives into a single gold chain link, cross-section reveals a stainless steel core with a thin glowing gold bonded layer, water droplets bead and roll off, cinematic lighting, 5s, 9:16
 ```
 
-**Villain voice (ElevenLabs)**
+**Contrast shot**
 
 ```text
-Gravelly, theatrical villain, slightly comic, stability 35.
+macro, cheap gold-plated chain under shower spray, plating flaking to reveal grey base metal, slow motion, 4s, 9:16
+```
+
+**ElevenLabs (villain)**
+
+```text
+Gravelly theatrical villain, slightly comic, stability 35, style 60. Narrator: warm female voice, stability 55.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -176,8 +192,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- The CGI must reflect the real material and process.
-- Finish on real product footage.
+- The CGI must match the real material and process; don't show layers or effects that don't exist.
+- Show the cheap plating failing in a way that is true; don't exaggerate it.
+- Finish on real product footage; ads that are all CGI read as fake.
+- Keep the villain under 4 lines; it is a device, not the star.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

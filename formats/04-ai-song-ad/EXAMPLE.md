@@ -38,6 +38,15 @@ The storyboard above samples the video every 0:08. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@lifemaximised](example/more/2100659903488819256.jpg)](https://x.com/lifemaximised/status/2100659903488819256)<br>**@lifemaximised** · 4:54 video · 5K views<br>RYZE ($25M+/mo) AI song ad library breakdown. | [![@therahulissar](example/more/2102465180567543939.jpg)](https://x.com/therahulissar/status/2102465180567543939)<br>**@therahulissar** · image · 3K views<br>4-min AI song video, product not revealed until minute 3 - winner. | [![@mkwizrd](example/more/2088293230450512089.jpg)](https://x.com/mkwizrd/status/2088293230450512089)<br>**@mkwizrd** · image · 6K views<br>Brand reports AI song ad driving big order. |
+| [![@manojbash](example/more/2102083500052795710.jpg)](https://x.com/manojbash/status/2102083500052795710)<br>**@manojbash** · image · 183K views<br>Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a | [![@Diego_exits](example/more/2100215847427944464.jpg)](https://x.com/Diego_exits/status/2100215847427944464)<br>**@Diego_exits** · images · 5K views<br>13k Active Meta ads and 17.000.000 MRR 🤯 AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesn | [![@qwertyu_alex](example/more/2107923415650701515.jpg)](https://x.com/qwertyu_alex/status/2107923415650701515)<br>**@qwertyu_alex** · 4:54 video · 670 views<br>there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte |
+
 ## How to make one like it
 
 **The format in one line:** A full original song (30s to **4 minutes**) whose lyrics tell a relatable story — usually a woman's emotional problem → turning point → product as the quiet hero. Visuals are AI-generated scenes (realistic, Pixar-3D, or animated) cut to the lyrics, captions on screen like a lyric video. Product often **not revealed until late** (minute 3 in @therahulissar's winner). Variants:

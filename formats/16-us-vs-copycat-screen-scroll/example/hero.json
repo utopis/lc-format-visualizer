@@ -15,5 +15,35 @@
  "likes": 258,
  "views": 23178,
  "seen": "A plain warning static: a red triangle and \"IMPORTANT NOTICE: Please Check Before Purchasing\", explaining that replicas use the brand's images and that you should only buy from the real site. It plays the copycat problem as a public-service notice.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2090399839309738284",
+   "author": "ultimategrafiks",
+   "url": "https://x.com/ultimategrafiks/status/2090399839309738284",
+   "thumb": "example/more/2090399839309738284.jpg",
+   "kind": "image",
+   "cap": "I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea",
+   "views": 179
+  },
+  {
+   "id": "2088266872194023737",
+   "author": "EiyanDickerson",
+   "url": "https://x.com/EiyanDickerson/status/2088266872194023737",
+   "thumb": "example/more/2088266872194023737.jpg",
+   "kind": "images",
+   "cap": "4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat\u2600\ufe0f https://t.co/jmYh",
+   "views": 9226
+  },
+  {
+   "id": "2096337779412304217",
+   "author": "Hashir_Shaikh_",
+   "url": "https://x.com/Hashir_Shaikh_/status/2096337779412304217",
+   "thumb": "example/more/2096337779412304217.jpg",
+   "kind": "images",
+   "cap": "We make 1,000+ statics every month. Around 10% are Us vs Them. Because showing the difference can be more powerful than simply talking about your prod",
+   "views": 4786
+  }
+ ]
 }

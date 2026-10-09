@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 95 · Visual-diagnosis roll-call ("This is X. This is X. That's X." symptom montage → hidden cause)
 
 <!-- HERO:START -->
-[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+[![Featured example: @thousif_maker](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)**
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/thousif_maker/status/2107161552377819648)
 <!-- HERO:END -->
+
+
 
 
 

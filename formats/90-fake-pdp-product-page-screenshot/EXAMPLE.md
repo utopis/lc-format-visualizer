@@ -6,6 +6,8 @@
 
 **Watch it:** [open the post on X](https://x.com/FedotOff90/status/2106046297434374289)
 
+> **How close is this example?** Weak: a breakdown post; no clean fake-PDP ad found. The gallery below has more examples.
+
 > The statics printing hardest right now don't look like ads at all: 1. iPhone Notes 2. iMessage chat 3. Reddit post 4. Tweet screenshot 5. Email screenshot 6. App settings screen 7. Breaking news 8. Fake product page People scroll past ads. They stop for screenshots. 200 of them on one board: https://app.gethookd.ai/share/board/316157?signature=6463fea37ec0ee501a9ba4ce646de753aedd78e3d96b396378d984e83644b146 And the s…
 
 ## What you are seeing
@@ -17,6 +19,14 @@ A native-looking warehouse photo: a hand holding the product (a grey neck pillow
 | Image | Text on it (OCR, rough) |
 |---|---|
 | 1 | (mostly visual) |
+
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@callmenirmal](example/more/1905160356810625284.jpg)](https://x.com/callmenirmal/status/1905160356810625284)<br>**@callmenirmal** · images · 650 views<br>4. Turn into ADS/Creatives. This part blew my mind 🤯 I literally just took a screenshot of the product page (PDP) and told GPT-4o: “Make an ad out of | [![@reemaabajaj](example/more/1869425787805262293.jpg)](https://x.com/reemaabajaj/status/1869425787805262293)<br>**@reemaabajaj** · images · 2K views<br>I love this ad by @TeaboxTea Typical Ugly Ad 2.0 Here's why👇 💚 Headline hook with a freebie offer They don’t just mention a freebie; they boost its pe |   |
 
 ## How to make one like it
 
@@ -32,12 +42,15 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static
+**Target length / size:** 1 static 1080x1350 (phone-screenshot look)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | UI | Phone screenshot of a product page: price, stars, bullets, add to cart | - |
-| 2 | Variant | iOS Settings toggles | "Take off before shower: OFF" |
+| 1 | Main image | A phone screenshot of the real product page: product photo, title, price, star rating with review count, 3 bullets, a gold "Add to bag" button | - |
+| 2 | Overlay | One handwritten-style circle or arrow around the reviews count | "4,812 reviews" |
+| 3 | Variant A | iOS Settings-style toggles | "Take off before shower: OFF · Turns green: OFF · Compliments: ON" |
+| 4 | Variant B | Trustpilot-style review card screenshot | One real 5-star review |
+| 5 | Primary text | - | "Screenshot this for later." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -63,7 +76,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Figma**
 
 ```text
-Recreate a PDP at 1080 wide with real price and review count.
+Recreate the PDP at 1170x2532 (iPhone), then crop to 1080x1350 keeping price + stars + button; use the real numbers.
+```
+
+**Settings variant**
+
+```text
+iOS Settings UI kit (Figma community), 4 toggles, SF Pro, a product photo as the profile image.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -105,7 +124,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Price, stars and reviews must be real.
+- Price, rating and review count must be real and current.
+- Don't imitate Amazon, Apple or Trustpilot logos; use their look, not their trademarks.
+- Update the ad when the price changes.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

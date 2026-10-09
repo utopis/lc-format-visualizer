@@ -19,6 +19,8 @@ related_strategies: [24-niche-character-account-network, 33-animated-brand-chara
 
 
 
+
+
 ## Looks like
 One distinctive character (odd, recognisable — accent, look, catchphrase) in short repeatable bits; motion borrowed from trending formats; same character every post builds a following ([@sairahul1](https://x.com/sairahul1/status/2107172215586513360)).
 

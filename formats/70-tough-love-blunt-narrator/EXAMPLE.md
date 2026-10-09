@@ -71,6 +71,14 @@ The storyboard above samples the video every 0:19. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@0xROAS](example/more/2107188290264740348.jpg)](https://x.com/0xROAS/status/2107188290264740348)<br>**@0xROAS** · 0:25 video · 9K views<br>100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here’s how to make sure your dramas hit: - start with a very aggressive h | [![@LinoLeighton](example/more/2108195005126869080.jpg)](https://x.com/LinoLeighton/status/2108195005126869080)<br>**@LinoLeighton** · 0:26 video · 848 views<br>Drama Ads ripping rn… 100% AI drama ad made with Seedance 2.5 Here’s how to make your drama ads actually hit: Go to agent on arcads Start with an aggr |   |
+
 ## How to make one like it
 
 **The format in one line:** A narrator who talks to the viewer like a blunt friend or older sister: "Stop buying jewelry you have to take off." The tone is affectionate scolding, followed by a practical fix. Works as a static with long copy or as a talking-head video.
@@ -96,14 +104,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 20-60s, 1080x1920
+**Target length / size:** 20-40s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Narrator to camera, blunt | "Stop buying jewelry you have to take off." |
-| 2 | 3-30s | Scolding list of habits, B-roll of each | Affectionate tone |
-| 3 | 30-45s | Practical fix | Product |
-| 4 | End | - | CTA |
+| 1 | 0-3s | Narrator to camera, arms crossed, blunt | "Stop buying $15 necklaces that last three weeks." |
+| 2 | 3-12s | Quick cuts of the habit being scolded | "You've done this six times. That's $90." |
+| 3 | 12-22s | The fix | "Buy once. 14K PVD. Shower in it." |
+| 4 | 22-30s | Softer close | "You deserve jewellery that lasts." |
+| 5 | End | Offer | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -127,10 +136,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Voice**
+**Claude**
 
 ```text
-Older-sister energy, dry, fast; ElevenLabs stability 30.
+Write 10 tough-love scripts for [audience]: scold the habit, never the person; end kind.
+```
+
+**Casting**
+
+```text
+A confident narrator (stylist, older sister energy); one take, direct to camera.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -175,7 +190,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Scold the habit, not the body or identity.
+- Scold the habit, not the viewer's body or worth.
+- Numbers must be realistic.
+- End with warmth or it reads as mean.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

@@ -15,6 +15,7 @@
  "likes": 57,
  "views": 5736,
  "seen": "A TikTok Shop affiliate explainer: the creator's profile and GMV dashboard ($100K+ in 30 days), then the creator talking to camera, then a grid of the many accounts posting the same shoppable product videos.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,53 @@
    "t": "0:36",
    "said": "in on this opportunity right now with AI and TikTok shop affiliate, comment the word train, I'll send you the invite for free to join.",
    "ocr": "a ears of and wine ie seen ay iN 7215 369 e3 eb, 2. Sy Mi 81.5K 247 of a mot thee ON YOUR FAT, uN. affiliate, comment th"
+  }
+ ],
+ "more": [
+  {
+   "id": "2079593540380684296",
+   "author": "maverickecom",
+   "url": "https://x.com/maverickecom/status/2079593540380684296",
+   "thumb": "example/more/2079593540380684296.jpg",
+   "kind": "0:40 video",
+   "cap": "550 AI videos/day via AI affiliate army (bulk-account; not compliant).",
+   "views": 10314
+  },
+  {
+   "id": "2107470108515782720",
+   "author": "maverickecom",
+   "url": "https://x.com/maverickecom/status/2107470108515782720",
+   "thumb": "example/more/2107470108515782720.jpg",
+   "kind": "image",
+   "cap": "Repurpose winning TTS content across hundreds of creator-style accounts (bulk-account; not compliant).",
+   "views": 11038
+  },
+  {
+   "id": "2103191756153962752",
+   "author": "maverickecom",
+   "url": "https://x.com/maverickecom/status/2103191756153962752",
+   "thumb": "example/more/2103191756153962752.jpg",
+   "kind": "0:43 video",
+   "cap": "Hormozi loves affiliate marketing. In ecom the proper method for affiliate marketing is scaling an affiliate army. Here\u2019s what that actually means \u2014 a",
+   "views": 16593
+  },
+  {
+   "id": "2103878538851950958",
+   "author": "maverickecom",
+   "url": "https://x.com/maverickecom/status/2103878538851950958",
+   "thumb": "example/more/2103878538851950958.jpg",
+   "kind": "image",
+   "cap": "GPT Astra + Fastmoss + Manus + Omni Flow = AI Content Factory We built a fully automated system that repurposes, localizes, and launches winning TikTo",
+   "views": 1943
+  },
+  {
+   "id": "2078105645757178124",
+   "author": "maverickecom",
+   "url": "https://x.com/maverickecom/status/2078105645757178124",
+   "thumb": "example/more/2078105645757178124.jpg",
+   "kind": "images",
+   "cap": "4 years and over $1M GMV into TikTok Shop, here's what I've been surprised to learn. 1. Products must be new, in season, or niche. Videos must be inte",
+   "views": 1745
   }
  ]
 }

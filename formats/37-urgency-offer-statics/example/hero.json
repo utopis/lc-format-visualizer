@@ -15,5 +15,62 @@
  "likes": 39,
  "views": 1345,
  "seen": "A product page shot as an offer static: a dog holding a treat bag, a countdown timer at the top, and a bundle picker (Single Pack, Buy 2 Get 1 Free and so on) with ratings and trust badges. The offer, not the product, is the hero.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2102744531489751066",
+   "author": "johntech778",
+   "url": "https://x.com/johntech778/status/2102744531489751066",
+   "thumb": "example/more/2102744531489751066.jpg",
+   "kind": "image",
+   "cap": "\"6,200+ Bottles Sold This Month\" is the most under-used line on any product page. Here's how I structured a Goli Ashwagandha buy box around it 10 conv",
+   "views": 369
+  },
+  {
+   "id": "2087306011849965645",
+   "author": "usmanstrategist",
+   "url": "https://x.com/usmanstrategist/status/2087306011849965645",
+   "thumb": "example/more/2087306011849965645.jpg",
+   "kind": "image",
+   "cap": "Here's a breakdown of the three funnel stages and the best creative formats for each, so you can drive more purchases and scale your brand more profit",
+   "views": 299
+  },
+  {
+   "id": "2096744141031981406",
+   "author": "kylaugccreator",
+   "url": "https://x.com/kylaugccreator/status/2096744141031981406",
+   "thumb": "example/more/2096744141031981406.jpg",
+   "kind": "0:37 video",
+   "cap": "Here\u2019s an ugc example I created for Bucketlisters Nashville app The goal was to showcase a limited-time 90s throwback bar while positioning Bucketlist",
+   "views": 228
+  },
+  {
+   "id": "2102704237805547557",
+   "author": "hey_ankita",
+   "url": "https://x.com/hey_ankita/status/2102704237805547557",
+   "thumb": "example/more/2102704237805547557.jpg",
+   "kind": "0:15 video",
+   "cap": "90% OFF Seedance 2.5 on Pippit AI, now only $1.5/month for a limited time. Pippit AI is giving creators access to the official, native Seedance 2.5 mo",
+   "views": 44786
+  },
+  {
+   "id": "2101658718647521629",
+   "author": "johntech778",
+   "url": "https://x.com/johntech778/status/2101658718647521629",
+   "thumb": "example/more/2101658718647521629.jpg",
+   "kind": "image",
+   "cap": "Buy 1 Get 1 Free\" is the most under-used conversion lever in supplement DTC. Here's how I structured a product page around it. 8 conversion decisions ",
+   "views": 368
+  },
+  {
+   "id": "2097798592010547583",
+   "author": "jackolivieri_",
+   "url": "https://x.com/jackolivieri_/status/2097798592010547583",
+   "thumb": "example/more/2097798592010547583.jpg",
+   "kind": "images",
+   "cap": "Smooche static \"847 Orders in Last Hour, Almost Gone\" / \"LIVE UPDATE\" stock copy (GetHookd share).",
+   "views": 117
+  }
+ ]
 }

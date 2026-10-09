@@ -101,6 +101,14 @@ The storyboard above samples the video every 0:33. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@FedotOff90](example/more/2087245595249721445.jpg)](https://x.com/FedotOff90/status/2087245595249721445)<br>**@FedotOff90** · 3:03 video · 17K views<br>97-day VSL; VSLs spent millions profitably; full VSL Machine SOP. |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A single video that takes cold viewers through problem → villain → mechanism → authority → proof → offer → guarantee. Lengths run from 2 minutes to 25 minutes, and "extra long" (double normal length) is a test in itself. The text sales letter (TSL) is the same skeleton as a long page with an order form at the bottom.

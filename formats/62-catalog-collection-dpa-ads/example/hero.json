@@ -4,16 +4,37 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/Vickyjr/status/2102260350263382341",
- "author": "Vickyjr",
+ "url": "https://x.com/danpantelo/status/1640330448818544640",
+ "author": "danpantelo",
  "type": "images",
  "duration": 0,
  "mp4": null,
  "w": null,
  "h": null,
  "via_quote": false,
- "likes": 12,
- "views": 470,
- "seen": "A simple illustration of how catalog ads work: a phone with product tiles (a jacket, a t-shirt, sneakers, jeans) flowing out into a carousel row.",
- "beats": []
+ "likes": 4,
+ "views": 2887,
+ "seen": "Two phone mock-ups of a catalog (dynamic product) ad for Native deodorant: on the left, the plain product-on-white tile a default catalog feed produces; on the right, the same catalog item wrapped in a custom branded template. It shows how much a designed catalog template changes the ad without making a new creative per product.",
+ "match": "close",
+ "beats": [],
+ "more": [
+  {
+   "id": "1762455167591649792",
+   "author": "goodAdsAI",
+   "url": "https://x.com/goodAdsAI/status/1762455167591649792",
+   "thumb": "example/more/1762455167591649792.jpg",
+   "kind": "image",
+   "cap": "#BrandedCatalog Spotlight Brand: @brodoNYC Category: Food & Beverage Template type: Product image with rotating celebrity reviews WHY IT WORKS: \ud83d\uddbc\ufe0fThe ",
+   "views": 102
+  },
+  {
+   "id": "2078583438018220351",
+   "author": "VisualLiftai",
+   "url": "https://x.com/VisualLiftai/status/2078583438018220351",
+   "thumb": "example/more/2078583438018220351.jpg",
+   "kind": "video",
+   "cap": "@MehtabKarta For Solawood, what do you use to run your DPA ads? Made you this with our new DPA template builder :)",
+   "views": 28
+  }
+ ]
 }

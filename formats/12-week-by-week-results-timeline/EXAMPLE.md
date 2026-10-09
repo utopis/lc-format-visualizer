@@ -59,6 +59,14 @@ The storyboard above samples the video every 0:09. Lines are the transcript for 
 
 </details>
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@skytookie](example/more/2100679695973134683.jpg)](https://x.com/skytookie/status/2100679695973134683)<br>**@skytookie** · image · 16K views<br>hey chat! as you may have seen, I've played in a few creator tournaments recently, and one thing I noticed is... there's ALWAYS a radiant or immortal | [![@Kolskithenerd](example/more/2078167446196777289.jpg)](https://x.com/Kolskithenerd/status/2078167446196777289)<br>**@Kolskithenerd** · image · 69 views<br>Most healthcare ads lead with fear. I wanted to see what happens if you don't. Spec project: a full ad copy system for @AskAwaDoc , a WhatsApp-based A |   |
+
 ## How to make one like it
 
 **Contents:** [1. Structure](#1-copy-the-structure) · [2. Shot by shot](#2-shot-by-shot-remake) · [3. Script and hooks](#3-write-the-script) · [4. Prompts](#4-prompts) · [5. Tools and settings](#5-tools-and-settings) · [6. Louise Carter remake](#6-louise-carter-remake) · [7. Variants and test](#7-variants-and-test-plan) · [8. Pitfalls](#8-pitfalls)

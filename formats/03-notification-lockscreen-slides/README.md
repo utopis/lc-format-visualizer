@@ -20,6 +20,8 @@ related_strategies: [23-product-voice-notification-slideshows, 22-serialized-cha
 
 
 
+
+
 ## What it looks like
 2 slides. Slide 1: aesthetic AI/lifestyle visual with an iPhone lock screen overlay showing 2-4 push notifications written in a witty/brutal brand voice ("Right now is another chance to become who you want to be"). Slide 2: the "app comes in naturally" — product/app screenshot or a single line. ([@brainextends](https://x.com/brainextends/status/2099496707209994736), [@enzoxmotion](https://x.com/enzoxmotion/status/2099622190970712321)).
 

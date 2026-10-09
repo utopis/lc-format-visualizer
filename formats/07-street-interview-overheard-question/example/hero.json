@@ -15,6 +15,7 @@
  "likes": 362,
  "views": 26261,
  "seen": "Phone-in-hand at a hotel front desk: the creator films herself asking staff what mattress the hotel uses (captions \"FRONT DESK THIS...\", \"NOTHING SPECIAL\", \"WE STARTED PUTTING\"), then cuts to a man sleeping badly, a woman unboxing the brand and the answer reveal. It looks like an overheard real conversation, not an ad.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:06",
@@ -55,6 +56,53 @@
    "t": "1:40",
    "said": "Sarah, I think you just saved me three grand. Half the calls I get now are about the sheets. I don't usually tell them. I'm ordering one ton",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2095860430099058905",
+   "author": "tryatria_AI",
+   "url": "https://x.com/tryatria_AI/status/2095860430099058905",
+   "thumb": "example/more/2095860430099058905.jpg",
+   "kind": "0:45 video",
+   "cap": "AI resort 'random interview' ('Are you really 56?') hook format.",
+   "views": 9200
+  },
+  {
+   "id": "2080007884406960319",
+   "author": "maxxmalist",
+   "url": "https://x.com/maxxmalist/status/2080007884406960319",
+   "thumb": "example/more/2080007884406960319.jpg",
+   "kind": "0:35 video",
+   "cap": "the new animation ads are crushing on fb here's an example created by my whop member you can literally do any format with AI: - podcasts - street inte",
+   "views": 5510
+  },
+  {
+   "id": "2078901864498692155",
+   "author": "0xROAS",
+   "url": "https://x.com/0xROAS/status/2078901864498692155",
+   "thumb": "example/more/2078901864498692155.jpg",
+   "kind": "0:55 video",
+   "cap": "the new drama ADS are crushing on fb lol. you can literally do any format with AI: - podcasts - street interview - drama ads - doctor/authority figure",
+   "views": 20055
+  },
+  {
+   "id": "2092248121581486114",
+   "author": "vicmediaco",
+   "url": "https://x.com/vicmediaco/status/2092248121581486114",
+   "thumb": "example/more/2092248121581486114.jpg",
+   "kind": "0:19 video",
+   "cap": "Made this street interview ad for a beauty brand \u2026 what do you think ? Need Video ads? \u2026send a DM \ud83d\udce9 https://t.co/Km4XvI6oNF",
+   "views": 1072
+  },
+  {
+   "id": "2087181812103831724",
+   "author": "theisaacmed",
+   "url": "https://x.com/theisaacmed/status/2087181812103831724",
+   "thumb": "example/more/2087181812103831724.jpg",
+   "kind": "0:06 video",
+   "cap": "The ad frequency on my meta account for street interview agencies is at 100x. Every day I login to ig and am blasted by ads. https://t.co/UdeTr0VJDw",
+   "views": 8681
   }
  ]
 }

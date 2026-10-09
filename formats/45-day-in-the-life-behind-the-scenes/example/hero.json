@@ -15,6 +15,7 @@
  "likes": 13,
  "views": 534,
  "seen": "A day-in-the-life POV filmed with an ultra-wide 0.5x lens: walking into an office (\"Be Empowered\" on the wall), working at a round table, a printed magazine spread, with captions explaining the 0.5x POV angle.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -51,5 +52,6 @@
    "said": "",
    "ocr": "Ci ISLE 9:"
   }
- ]
+ ],
+ "more": []
 }

@@ -1,6 +1,21 @@
 {
  "id": "F68",
  "kind": "static",
- "mock": true,
- "poster": "example/mock.png"
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/iwo_cybulski/status/1833960761489813736",
+ "author": "iwo_cybulski",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 3,
+ "views": 239,
+ "seen": "A static ad for a beef-tallow cooking fat: a split image labelled DAY 1 and DAY 30 \u2014 a frying pan on the left, a happy family at a dinner table on the right \u2014 with benefit pills under each side. It is the closest real example we found to a streak / progress-over-time static; there is no checkmark calendar grid.",
+ "match": "proxy",
+ "beats": [],
+ "more": []
 }

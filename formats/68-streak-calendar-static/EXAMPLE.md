@@ -1,8 +1,24 @@
 # 68 · Streak calendar static (a habit grid filled with ✓ days): see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @iwo_cybulski's post](example/storyboard.jpg)](https://x.com/iwo_cybulski/status/1833960761489813736)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@iwo_cybulski on X](https://x.com/iwo_cybulski/status/1833960761489813736) · 1 image · 3 likes, 239 views
+
+**Watch it:** [open the post on X](https://x.com/iwo_cybulski/status/1833960761489813736)
+
+> **How close is this example?** Proxy: a Day 1 / Day 30 static; no checkmark-calendar ad found. The gallery below has more examples.
+
+> #16 adaday for @fondbonebroth ⁕ Touching on the mother's desire to make healthy and tasty food for their kids so they grow big and strong ⁕ Day 1 vs Day 30 to show how using the product changes your everyday life ⁕ Used AI images to help visualize the process Want a FREE ad creative for your brand? DM me "ads" ⚡
+
+## What you are seeing
+
+A static ad for a beef-tallow cooking fat: a split image labelled DAY 1 and DAY 30 — a frying pan on the left, a happy family at a dinner table on the right — with benefit pills under each side. It is the closest real example we found to a streak / progress-over-time static; there is no checkmark calendar grid.
+
+## Image by image
+
+| Image | Text on it (OCR, rough) |
+|---|---|
+| 1 | aaa DAY DAY 30 be ft I is TAL! Gan a MEALS GE TIER MORE KIDS STOP BEING PICKY KIDS LOOK FEEL HEALTHIER BURNING FOOD SEEMS IMPOSSIBLE YOU START TO SLOWLY LOSE FAT |
 
 ## How to make one like it
 
@@ -18,12 +34,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static, 1080x1350
+**Target length / size:** 1 static 1080x1350
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Grid | Month calendar, each day ticked (✓) or with a tiny photo | "90 days. 0 times taken off." |
-| 2 | Product | Photo | - |
+| 1 | Main | A 30- or 90-day calendar grid, each day ticked in gold marker | "90 days. Never taken off." |
+| 2 | Detail | A few day boxes with tiny notes | "sea" "gym" "wedding" "shower" |
+| 3 | Product | The necklace laid across the bottom of the calendar | - |
+| 4 | Corner | Offer | "Any 7 for $85" |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -46,10 +64,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
+**Real version**
+
+```text
+Print a calendar, tick days for real as a team member wears it, photograph it at the end.
+```
+
 **Figma**
 
 ```text
-7-column grid, 72px cells, gold check marks, header in serif.
+Calendar grid 7x13, gold ticks, handwritten notes in 4-5 cells.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -92,8 +116,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Base it on a real streak (customer or team).
-- No clean public example; visual is a mock.
+- If you claim 90 days, someone should really have worn it 90 days.
+- Keep notes tiny; the grid is the visual.
+- No clean public example of this exact format was found; test it before scaling.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

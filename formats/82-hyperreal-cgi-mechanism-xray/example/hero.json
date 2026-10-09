@@ -15,6 +15,7 @@
  "likes": 103,
  "views": 7754,
  "seen": "A woman in a white coat with a stethoscope talking to camera, with a hook caption (\"Chronic bad breath has 3 layers!\") pinned on top for the whole video and cutaways to mouth CGI.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:13",
@@ -55,6 +56,35 @@
    "t": "3:15",
    "said": "starts clearing the white coating things within two to three weeks layer two is under control the sour morning taste fades and by week three",
    "ocr": "Chronic bad breath has cas met\u2019, iF it come"
+  }
+ ],
+ "more": [
+  {
+   "id": "2091972209178796230",
+   "author": "D_Only_Aji",
+   "url": "https://x.com/D_Only_Aji/status/2091972209178796230",
+   "thumb": "example/more/2091972209178796230.jpg",
+   "kind": "0:25 video",
+   "cap": "Just wrapped up this 3D animated performance ad for Rejuvenate, built from the ground up using an AI-assisted production workflow. From creative direc",
+   "views": 603
+  },
+  {
+   "id": "2072477830861254686",
+   "author": "FedotOff90",
+   "url": "https://x.com/FedotOff90/status/2072477830861254686",
+   "thumb": "example/more/2072477830861254686.jpg",
+   "kind": "0:52 video",
+   "cap": "66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board.",
+   "views": 9801
+  },
+  {
+   "id": "2082004242471268500",
+   "author": "HikeMyTraffic",
+   "url": "https://x.com/HikeMyTraffic/status/2082004242471268500",
+   "thumb": "example/more/2082004242471268500.jpg",
+   "kind": "0:23 video",
+   "cap": "Team HikeMyTraffic created this stunning Wilkinson Sword Hydro 5 razor commercial entirely with AI. \ud83c\udfacAI Product Videos | CGI Ads | Social Creatives Hi",
+   "views": 65
   }
  ]
 }

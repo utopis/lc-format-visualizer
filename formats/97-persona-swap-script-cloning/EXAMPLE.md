@@ -35,6 +35,15 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@mikefutia](example/more/2080734489529971056.jpg)](https://x.com/mikefutia/status/2080734489529971056)<br>**@mikefutia** · 0:10 video · 4K views<br>I just cracked the code on cloning UGC ads with AI 🤯 One ad that's already converting → 20 different creators delivering the exact same script. New fa | [![@lorenzo_pravata](example/more/2079246318191403496.jpg)](https://x.com/lorenzo_pravata/status/2079246318191403496)<br>**@lorenzo_pravata** · 1:58 video · 5K views<br>Resilia ~8,000 ads, "$10-15M/month" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL. | [![@edwardlavinel_](example/more/2082467046034702738.jpg)](https://x.com/edwardlavinel_/status/2082467046034702738)<br>**@edwardlavinel_** · 1:24 video · 127 views<br>Shit. Analyzed 800+ active ads from creatine gummy. one pattern doing all the work. want the beats? Here is the breakdown: - uses a magazine cutout ae |
+| [![@oliverxmedia](example/more/2075560773657694682.jpg)](https://x.com/oliverxmedia/status/2075560773657694682)<br>**@oliverxmedia** · 0:21 video · 2K views<br>I genuinely had to do a double take the first time I watched this. If nobody told me it was AI-generated, I would've assumed it was filmed by a real c | [![@wabilaura](example/more/2082918789470208150.jpg)](https://x.com/wabilaura/status/2082918789470208150)<br>**@wabilaura** · 4:29 video · 486 views<br>Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i | [![@wabilaura](example/more/2083215336971858040.jpg)](https://x.com/wabilaura/status/2083215336971858040)<br>**@wabilaura** · 4:29 video · 450 views<br>Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i |
+
 ## How to make one like it
 
 **The format in one line:** A production system rather than a single look: lock a winning script and its claims, then re-shoot it with many different narrators (age, ethnicity, setting, wardrobe) and visual treatments (to-camera, podcast, podium, animation), and launch each as a separate creative. Meta reads each persona/setting as a new creative, the script stays proven, and each audience segment sees someone like them.
@@ -60,13 +69,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** One script x 6-10 narrators
+**Target length / size:** One locked script x 6-10 narrators, 20-40s each
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Lock | A winning script and its claims | - |
-| 2 | Re-shoot | 6-10 narrators (age, ethnicity, setting, wardrobe) | Exactly the same words |
-| 3 | Test | All versions launched together | Naming F97-narratorNN |
+| 1 | Lock the script | Take a winning script (e.g. from F14 or F06) and freeze it word for word | - |
+| 2 | Narrator 1-3 | Real creators of different ages (20s, 40s, 60s), each in their own setting (car, kitchen, beach) | Exactly the same words |
+| 3 | Narrator 4-6 | Different ethnicities and styles; one man buying a gift | Same words, his own delivery |
+| 4 | Narrator 7-10 | AI avatars (labelled) to fill gaps fast | Same words |
+| 5 | Test | Launch all versions in one ad set with Dynamic Creative off | Naming F97-narratorNN |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -90,10 +101,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Arcads / real creators**
+**Arcads / HeyGen**
 
 ```text
-Upload the script, pick 8 diverse creators or avatars, export 9:16 and 4:5.
+Upload the locked script, pick 4 avatars that differ in age and setting, export 9:16 and 4:5, burn captions in the same style as the real versions.
+```
+
+**Creator brief**
+
+```text
+Say the script exactly; film in your own space; 3 takes; natural light; phone at eye level.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -141,7 +158,8 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 ### 8. Pitfalls
 
 - Label AI avatars.
-- Do not change the script while testing narrators.
+- Don't change the script while testing narrators, or you won't know what moved results.
+- Match caption style across versions so only the narrator differs.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

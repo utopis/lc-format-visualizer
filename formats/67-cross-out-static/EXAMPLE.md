@@ -18,6 +18,14 @@ A cross-out static for Eden: "12 months upfront", "6-month lock-in" and "quarter
 |---|---|
 | 1 | 72 month to month. Pay as you go. Cancel anytime. Compounded $99 |
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@thedennis](example/more/1777712624060317886.jpg)](https://x.com/thedennis/status/1777712624060317886)<br>**@thedennis** · image · 1K views<br>Inspiring your next static ad text The cross out headline. Something I've been seeing a lot of brands do lately and I know this creative we've made fo | [![@navneet_214](example/more/2061485424753689072.jpg)](https://x.com/navneet_214/status/2061485424753689072)<br>**@navneet_214** · image · 28 views<br>Static ad concept for WeEarth 🌱 Urgency without noise. Hard deadline. Crossed-out price. One discount code. That's the whole ad. Simple angles convert |   |
+
 ## How to make one like it
 
 **The format in one line:** A plain static listing the fixes the viewer has already tried, each one struck through, with the product as the last line, not crossed out. The primary text repeats the list ("Olive oil. Apple cider vinegar. Honey masks…") before naming the mechanism.
@@ -32,13 +40,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static, 1080x1350
+**Target length / size:** 1 static 1080x1350
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | List | The fixes they've tried, struck through | ~~clear nail polish~~ ~~taking it off~~ ~~buying cheaper~~ |
-| 2 | Last line | Product, not crossed out | "14K PVD. Done." |
-| 3 | Product | Photo | - |
+| 1 | Main | A list of failed fixes, each struck through in red marker | "~~Clear nail polish~~ ~~Taking it off to shower~~ ~~Buying a new one every month~~" |
+| 2 | Survivor line | The last line not crossed out, circled in gold | "14K PVD jewellery" |
+| 3 | Product | Necklace photo next to the list | - |
+| 4 | Corner | Offer | "Any 7 for $85" |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -64,7 +73,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Figma**
 
 ```text
-Text 64px, strikethrough 4px in brand red at 70% opacity, last line in bold gold.
+Notebook-paper texture, handwriting font only for the marker strikes (or real marker scanned), 5 lines max.
+```
+
+**Claude**
+
+```text
+List 10 things people try to stop jewellery tarnishing that don't really work.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -107,7 +122,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- The crossed-out items must be things people really try.
+- The failed fixes should be real things people try.
+- Don't cross out a named competitor.
+- Five lines maximum.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

@@ -33,6 +33,15 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@danisdriven](example/more/2098523718595342565.jpg)](https://x.com/danisdriven/status/2098523718595342565)<br>**@danisdriven** · 0:57 video · 2K views<br>YOUR CPM SHOULD NOT REQUIRE A PRESCRIPTION. If your brand is suffering from Chronic High CPM, low views, weak distribution and sudden unexplained drop | [![@xin_create](example/more/2099855975649787929.jpg)](https://x.com/xin_create/status/2099855975649787929)<br>**@xin_create** · 0:39 video · 206 views<br>#ugcexample I created for MyFitnessPal 📱🏃‍♀️ The core insight was simple: The GLP-1 experience can change day to day, so how can a feature help? What | [![@tryatria_AI](example/more/2086829970228142494.jpg)](https://x.com/tryatria_AI/status/2086829970228142494)<br>**@tryatria_AI** · 5:00 video · 10K views<br>This AI-generated supplement ad is basically a mini documentary. It starts with a provocative hook, then tells a founder story around low testosterone |
+| [![@feral_feed](example/more/2103282293091848204.jpg)](https://x.com/feral_feed/status/2103282293091848204)<br>**@feral_feed** · images · 982 views<br>Ads that would get a modern brand cancelled built Abercrombie’s most valuable era. Mike Jeffries didn’t hide the strategy. 2006, Salon interview: the |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A warning-label or "side effects may include…" framing for good outcomes: compliments, people asking where it's from, never taking it off, a friend stealing it. The form mimics a warning label; the content is a benefit.

@@ -44,6 +44,14 @@ The storyboard above samples the video every 0:17. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@father_rmv](example/more/2100219781668356485.jpg)](https://x.com/father_rmv/status/2100219781668356485)<br>**@father_rmv** · image · 2K views<br>Saint Thascius Caecilius Cyprianus, commonly known as Saint Cyprian of Carthage, stands as one of the most influential figures in early Christianity, |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A street-interview hook ("How old is your grandson?" "That's my grandson's grandson") reveals a startlingly old, healthy elder, who then counts down three habits. The first two are free, familiar tips (olive oil, onions); the third is the product. Age is the authority; the countdown hides the pitch until the end.
@@ -69,13 +77,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 45-90s
+**Target length / size:** 45-75s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-5s | Street interview: a very old, healthy elder | "How old is your grandson?" "That's my grandson's grandson." |
-| 2 | 5-50s | Countdown of 3 habits | Product is habit #1 |
-| 3 | End | - | CTA |
+| 1 | 0-5s | Street interview: a lively 80-year-old woman in gold jewellery, reporter holds a mic | Reporter: "What's your secret?" She laughs: "Three things." |
+| 2 | 5-20s | Thing #3 (save the product for #1) | "I walk every day, rain or not." |
+| 3 | 20-35s | Thing #2 | "I never let anyone tell me I'm too old for anything." |
+| 4 | 35-50s | Thing #1: she holds up her necklace | "And I wear what I love, every day. My granddaughter got me this. I swim in it." |
+| 5 | End | Product + offer | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -104,7 +114,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Veo 3**
 
 ```text
-street interview, an elderly man in a hat with a long beard answering a reporter, handheld mic, city street, 8s
+street interview, an elegant 80-year-old woman with silver hair and a thin gold necklace laughing, handheld mic, sunny European street, shallow depth of field, 8s, 9:16
+```
+
+**Real version**
+
+```text
+Interview a real older customer (with consent); film handheld with a lav mic.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -149,7 +165,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- AI people must be labelled; no health promises.
+- AI people must be labelled; never present an AI elder as a real customer.
+- No health or longevity promises; jewellery is a habit, not a cure.
+- Keep the elder dignified; she is the hero, not the punchline.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

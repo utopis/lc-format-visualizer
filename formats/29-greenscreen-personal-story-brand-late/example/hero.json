@@ -15,6 +15,7 @@
  "likes": 43,
  "views": 6418,
  "seen": "A creator talking to camera in her bedroom with captions (\"I'm going to make you fall in love with the girl who...\") that tells a personal manifestation story. The app (a mood or affirmation screen) only appears late, as part of her story.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,62 @@
    "t": "0:32",
    "said": "It is literally a Spotify of your dream self. Gate keep this.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2090446853565296658",
+   "author": "StefanGeorgi",
+   "url": "https://x.com/StefanGeorgi/status/2090446853565296658",
+   "thumb": "example/more/2090446853565296658.jpg",
+   "kind": "image",
+   "cap": "Stefan Georgi: yapper-style winner ~$750k spend in <3 weeks on an angle the brand said \"doesn't work\"; double 80/20 rule (80% proven formats).",
+   "views": 39363
+  },
+  {
+   "id": "2082130750204428404",
+   "author": "ginacostag_",
+   "url": "https://x.com/ginacostag_/status/2082130750204428404",
+   "thumb": "example/more/2082130750204428404.jpg",
+   "kind": "0:15 video",
+   "cap": "The next AI video advantage may not come from generating more clips. It may come from making the entire production workflow easier to control. Dreamin",
+   "views": 33935
+  },
+  {
+   "id": "2083984888127271189",
+   "author": "AvaGrace_AI",
+   "url": "https://x.com/AvaGrace_AI/status/2083984888127271189",
+   "thumb": "example/more/2083984888127271189.jpg",
+   "kind": "0:15 video",
+   "cap": "\ud83d\udea8 AI videos are getting easier to generate. The real challenge is controlling the final result. That's why Seedance 2.5 inside CapCut caught my attent",
+   "views": 27356
+  },
+  {
+   "id": "2102106541394399259",
+   "author": "Geoffreyhurth",
+   "url": "https://x.com/Geoffreyhurth/status/2102106541394399259",
+   "thumb": "example/more/2102106541394399259.jpg",
+   "kind": "image",
+   "cap": "\ud83d\udcb8 10 ad concepts quietly printing money on Meta right now: 1. Yapping: Raw, unscripted, straight to camera. Feels like a friend, not an ad. 2. Pixar A",
+   "views": 230
+  },
+  {
+   "id": "2105303432424767662",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2105303432424767662",
+   "thumb": "example/more/2105303432424767662.jpg",
+   "kind": "image",
+   "cap": "Native ads, end to end, for anyone who wants to build one The image - A normal looking photo, like something a friend posted - A bit weird on purpose,",
+   "views": 3913
+  },
+  {
+   "id": "2078849094311674138",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2078849094311674138",
+   "thumb": "example/more/2078849094311674138.jpg",
+   "kind": "image",
+   "cap": "Green screen reaction ads are working really well right now. Here is the setup. You have a main video, usually a creator or an AI creator telling a st",
+   "views": 2065
   }
  ]
 }

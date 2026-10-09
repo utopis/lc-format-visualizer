@@ -27,6 +27,15 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 | 7 | 0:15–0:18 | Daily Ranking OPTIC KL IVE tm VITA BTS Jj Ka Asa gate 5c ko az a! An ooo Le joined | · |
 | 8 | 0:18–0:20 | Daily Ranking Music or age OPTIC LIV est VITA NJ competition val a oh FREE OS Es writ AN ee, ee Ang 9000 daisy joined | · |
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@onlysweatequity](example/more/2099276927697551652.jpg)](https://x.com/onlysweatequity/status/2099276927697551652)<br>**@onlysweatequity** · 2:49 video · 284 views<br>TikTok live shopping is making QVC look like a rounding error:⁣ ⁣ "Pop Mart got 105,000,000 people to tune into their live streams. These people put u | [![@JVCocoDeals](example/more/2100085900692607088.jpg)](https://x.com/JVCocoDeals/status/2100085900692607088)<br>**@JVCocoDeals** · 0:04 video · 2K views<br>$600 in TikTok LIVE sales packed inside those boxes. Crazy, I know! Here’s how the night started vs. how it ended. The more I do LIVE selling, the les | [![@ShannonJean](example/more/2096268871288131727.jpg)](https://x.com/ShannonJean/status/2096268871288131727)<br>**@ShannonJean** · image · 6K views<br>JV @JVCocoDeals started reselling about six months ago after discovering me and The Koerner Office podcast. He started with books, moved into pallets, |
+| [![@gotchabellph](example/more/2097602786036949382.jpg)](https://x.com/gotchabellph/status/2097602786036949382)<br>**@gotchabellph** · image · 163 views<br>𝐓𝐢𝐤𝐓𝐨𝐤 𝐋𝐢𝐯𝐞 𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐆𝐨𝐭𝐜𝐡𝐚𝐛𝐞𝐥𝐥 🛒🛍️ A huge thank you to everyone who joined and supported the live selling last Sept. 8! 💕 📈 182.4K total views 👥 | [![@BraydenFlack](example/more/2087037515274547291.jpg)](https://x.com/BraydenFlack/status/2087037515274547291)<br>**@BraydenFlack** · image · 2K views<br>Just had my best night live selling This puts us at $20K in sales 10 days into the month. Pretty close to hitting our first $200K in revenue on TikTok |   |
+
 ## How to make one like it
 
 **The format in one line:** Scheduled live sessions (founder/host trying on stacks, water tests, Q&A, live-only bundle) promoted with Live Shopping Ads that drop viewers straight into the stream with a product bag.
@@ -52,14 +61,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Live sessions 30-90 min + live shopping ads
+**Target length / size:** 30-60 min live session + paid amplification
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Before | Teaser posts with the live time | "live at 7pm: water test + live-only bundle" |
-| 2 | Live | Host tries on stacks, water test, Q&A | Pinned product links |
-| 3 | Ads | Live shopping ads send people straight into the stream | - |
-| 4 | After | Clip the best moments | - |
+| 1 | Pre-live | Teaser posts and a reminder ad 24h before | "Live tomorrow 7pm: we test 7 pieces in a fish tank." |
+| 2 | Opening (0-5 min) | Host welcomes viewers, shows the offer | "Any 7 for $85, live-only gift with purchase." |
+| 3 | Demo blocks | Each piece tested: water, sweat, scratch | Pinned product card for each |
+| 4 | Q&A | Answer comments by name | - |
+| 5 | Close | Countdown on the live gift | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -83,10 +93,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Run of show**
+**TikTok LIVE / IG Live**
 
 ```text
-0-5 min welcome + offer · 5-20 try-ons · 20-30 water test · 30-45 Q&A · every 10 min repeat the offer.
+Run LIVE Shopping ads to the session; pin products; set a 2-person team (host + comment moderator).
+```
+
+**Run of show (Claude)**
+
+```text
+Write a 45-minute run of show with 6 demo blocks, 3 offer reminders and a Q&A.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -127,8 +143,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Consistency (same time weekly) builds the audience.
-- Live-only offers must be real and honoured.
+- Have a moderator for comments.
+- Live-only offers must be honoured.
+- Rehearse the demos; a failed test live hurts.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

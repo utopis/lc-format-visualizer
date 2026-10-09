@@ -15,6 +15,7 @@
  "likes": 0,
  "views": 5,
  "seen": "A guess-the-price game: a creator asks you to guess how much a necklace cost (\"Everyone assumes it's fine jewelry\"), shows the pieces close up, reveals \"It's under $70 from XN Jewelry\", then \"Stop overpaying\" and \"Tap the link in bio!\".",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -55,6 +56,35 @@
    "t": "0:21",
    "said": "Stop overpaying for jewelry that looks this good.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "1979373551137489020",
+   "author": "syinsyon",
+   "url": "https://x.com/syinsyon/status/1979373551137489020",
+   "thumb": "example/more/1979373551137489020.jpg",
+   "kind": "1:00 video",
+   "cap": "Can you guess how much this gold jewelry?",
+   "views": 1006841
+  },
+  {
+   "id": "2010785671498383613",
+   "author": "SophieElodie",
+   "url": "https://x.com/SophieElodie/status/2010785671498383613",
+   "thumb": "example/more/2010785671498383613.jpg",
+   "kind": "0:13 video",
+   "cap": "I just weighed the stainless steel jewelry I wear every day. Guess how much it weighs? \ud83d\ude0f\u26d3\ufe0f",
+   "views": 93112
+  },
+  {
+   "id": "1864240379110867128",
+   "author": "big_damola",
+   "url": "https://x.com/big_damola/status/1864240379110867128",
+   "thumb": "example/more/1864240379110867128.jpg",
+   "kind": "0:38 video",
+   "cap": "Guess the price of this jewelry \ud83c\udf1a",
+   "views": 1418
   }
  ]
 }

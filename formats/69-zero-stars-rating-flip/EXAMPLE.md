@@ -18,6 +18,14 @@ A 1-star rating flip static for an aluminium phone case (Arc Pulse): one star, t
 |---|---|
 | 1 | KW It's ridiculous, it basically doesn't cover the phone at all. Yep, thats the point. Protection where you need it, and nothing where you don't. Aerospace-grade aluminum, machine fitted to your phone for a case that protects, without covering up. Feel your phone, Arc Pulse |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@akhilbuilds](example/more/1808319058200387782.jpg)](https://x.com/akhilbuilds/status/1808319058200387782)<br>**@akhilbuilds** · image · 154 views<br>This humourous 1 star review static ad has performed very well for several brands that I designed it for. People love ads that create intrigue, adds h | [![@sandiegocausa](example/more/2079314429980925993.jpg)](https://x.com/sandiegocausa/status/2079314429980925993)<br>**@sandiegocausa** · image · 78 views<br>Saw this smart ad on my Facebook thread. The 1 star review catches attention, the negative review highlights how good the product is. The only thing I | [![@helloitsdrew_](example/more/1863574480045461667.jpg)](https://x.com/helloitsdrew_/status/1863574480045461667)<br>**@helloitsdrew_** · image · 882 views<br>Instead of the usual review/testimonial static, try out an ironic 'negative' one! It's attention grabbing, and potentially entertaining to viewers! |
+
 ## How to make one like it
 
 **The format in one line:** A two-line rating joke: you give it five stars, while an "enemy" (the shower, the pool, tarnish, the jealous friend) gives it zero. Social proof and a benefit packed into a meme-like card.
@@ -32,13 +40,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static
+**Target length / size:** 1 static 1080x1350
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Line 1 | Five stars | "★★★★★ from me" |
-| 2 | Line 2 | Zero stars | "☆☆☆☆☆ from my shower drain" |
-| 3 | Product | Photo | - |
+| 1 | Left | Review card: 5 stars from a customer | "5 stars from you." |
+| 2 | Right | Review card: 0 stars, from the "enemy" | "0 stars from the sea. (It tried.)" |
+| 3 | Product | Necklace between the two cards | - |
+| 4 | Corner | Offer | "Any 7 for $85" |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -60,10 +69,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Copy**
+**Claude**
 
 ```text
-Write 20 "zero stars from [enemy]" lines where the enemy is something the product beats (the shower, the pool, tarnish).
+Write 10 "zero stars from them" lines where "them" is the problem (the sea, your gym, tarnish, your sister who keeps borrowing it).
+```
+
+**Figma**
+
+```text
+Two review cards, left 5 gold stars, right 0 grey stars; product centred.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -106,7 +121,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Keep it obviously a joke.
+- The 5-star review must be real.
+- Make the "zero stars" joke obviously playful.
+- Don't aim it at a competitor.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 

@@ -55,6 +55,15 @@ The storyboard above samples the video every 0:12. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@TheModernElder](example/more/2093143918355357888.jpg)](https://x.com/TheModernElder/status/2093143918355357888)<br>**@TheModernElder** · 1:00 video · 167 views<br>DAY 10 OF UGC 30 DAY CHALLENGE Today video creation is officially running on repeat in my head. Reaching Day 10 has shifted my focus from making conte | [![@KimRaceRod](example/more/2097084996548726860.jpg)](https://x.com/KimRaceRod/status/2097084996548726860)<br>**@KimRaceRod** · 1:05 video · 125 views<br>Day 21 of Creator Quest UGC 30 day challenge!!! I can't count and did two 19s🤦🏻‍♀️ Heading it to the last week and learning a ton🙌🏼 #cqchallenge #ugc | [![@KimRaceRod](example/more/2096026203589095690.jpg)](https://x.com/KimRaceRod/status/2096026203589095690)<br>**@KimRaceRod** · 0:43 video · 123 views<br>Day 18 of the Creator Quest UGC 30 day challenge!! I can't wait to land some gigs☺️ #cqchallenge #ugc @UGCbyBrandon https://t.co/wgkLXo5eXM |
+| [![@KimRaceRod](example/more/2094998935949427016.jpg)](https://x.com/KimRaceRod/status/2094998935949427016)<br>**@KimRaceRod** · 0:59 video · 107 views<br>Day 15 of the Creator Quest 30 day challenge!!! I did a reach out with my comment banner and it does look more professional!!! #cqchallenge #ugc @UGCb | [![@KimRaceRod](example/more/2100366661324779651.jpg)](https://x.com/KimRaceRod/status/2100366661324779651)<br>**@KimRaceRod** · 0:53 video · 79 views<br>Day 30 of the Creator Quest UGC 30 day challenge 🙌🏼 We made and I learned so much!!! It's just the beginning 🙌🏼 #cqchallenge #ugc @UGCbyBrandon https: | [![@KimRaceRod](example/more/2093064218568233104.jpg)](https://x.com/KimRaceRod/status/2093064218568233104)<br>**@KimRaceRod** · 1:04 video · 139 views<br>Day 9 of the Creator Quest UGC 30 day challenge. Working on sharpening and adding to my Fiverr, thumbnails to look more professional and mock videos t |
+
 ## How to make one like it
 
 **The format in one line:** An ad that invites the viewer into a time-boxed challenge ("30 days, never take it off"), with a start date, rules and a reward (feature, gift card, entry). Participants post check-ins, which become new creative.
@@ -80,14 +89,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Launch ad (15-30s) + participant content
+**Target length / size:** Launch ad (20-30s, 1080x1920) + participant posts + a wrap-up ad
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Challenge announcement | "30 days. Never take it off." |
-| 2 | 3-15s | Rules: start date, how to join, reward | - |
-| 3 | Updates | Participant clips: shower, gym, sea | - |
-| 4 | Wrap-up | Winners and results | - |
+| 1 | 0-3s | Founder or creator to camera, holding up the necklace | "30 days. Never take it off. Not in the shower, not in the sea." |
+| 2 | 3-10s | The rules on screen while she talks | "Start Monday. Post day 1 and day 30 with #30DayLC. Best results win $500 of jewellery." |
+| 3 | 10-20s | Fast montage of her own first days: shower, gym, pool | "I'll go first." |
+| 4 | Updates (week 2-3) | Repost participant clips (with permission) as Stories and a weekly ad | "Day 14: still gold." |
+| 5 | Wrap-up ad | Grid of day-30 photos + winners announced | "312 of you did it. Here's what 30 days looks like." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -110,10 +120,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Rules**
+**Official rules (Claude)**
 
 ```text
-Write official rules: dates, eligibility, how to enter, prize, how winners are picked.
+Write official rules for a 30-day wear challenge: dates, eligibility by country, how to enter, judging criteria, prize, how winners are notified, no purchase necessary wording where required.
+```
+
+**Content plan**
+
+```text
+Post day 1, 7, 14, 21 and 30 updates; collect clips via a form with a rights checkbox.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -158,8 +174,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Prize rules must be clear and legal where you run it.
-- The featured example is a stress test (ring through a gym workout); combine both.
+- Prize promotions have legal rules per country (no-purchase-necessary, registration); check before launch.
+- Don't promise results; show what participants actually posted.
+- Plan for the quiet middle (days 8-20) with your own content.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

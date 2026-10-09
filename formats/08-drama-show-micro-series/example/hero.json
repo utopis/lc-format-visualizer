@@ -15,6 +15,7 @@
  "likes": 61,
  "views": 2321,
  "seen": "A short AI-made soap-opera scene for a handbag brand (Outlash): three women in a boutique, a tense confrontation, close-ups of the brown purse, then a cut to a living-room fallout. Shot and paced like an episode of a drama series, with the bag as a plot device.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:06",
@@ -55,6 +56,62 @@
    "t": "1:42",
    "said": "I even have a lot of bags from Outlash in the shop right now If you really want to step up your bag game as a Legos big girl Outlash is the ",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2106833649970684195",
+   "author": "frankyecom",
+   "url": "https://x.com/frankyecom/status/2106833649970684195",
+   "thumb": "example/more/2106833649970684195.jpg",
+   "kind": "7:00 video",
+   "cap": "Women want shows: characters, drama, payoff; build entertainment first, slot product in.",
+   "views": 66391
+  },
+  {
+   "id": "2108308896813326775",
+   "author": "frankyecom",
+   "url": "https://x.com/frankyecom/status/2108308896813326775",
+   "thumb": "example/more/2108308896813326775.jpg",
+   "kind": "1:24 video",
+   "cap": "Best drama ads let viewer see the version of herself she wants to become.",
+   "views": 10572
+  },
+  {
+   "id": "2099815494434099379",
+   "author": "adamtaylorl",
+   "url": "https://x.com/adamtaylorl/status/2099815494434099379",
+   "thumb": "example/more/2099815494434099379.jpg",
+   "kind": "images",
+   "cap": "Resilia mastered storytelling ads -> $100M/yr.",
+   "views": 77097
+  },
+  {
+   "id": "2105732607208026318",
+   "author": "frankyecom",
+   "url": "https://x.com/frankyecom/status/2105732607208026318",
+   "thumb": "example/more/2105732607208026318.jpg",
+   "kind": "1:01 video",
+   "cap": "Cinematic realistic AI ads in scrutinized categories (GLP).",
+   "views": 22114
+  },
+  {
+   "id": "2101705439565979947",
+   "author": "SGradon",
+   "url": "https://x.com/SGradon/status/2101705439565979947",
+   "thumb": "example/more/2101705439565979947.jpg",
+   "kind": "0:40 video",
+   "cap": "In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here'",
+   "views": 2133
+  },
+  {
+   "id": "2107534573773136189",
+   "author": "spect3ral",
+   "url": "https://x.com/spect3ral/status/2107534573773136189",
+   "thumb": "example/more/2107534573773136189.jpg",
+   "kind": "image",
+   "cap": "This ad doesn't show the product for 90 seconds. That's exactly why it sells. These Drama ads are PRINTING. Here's the whole thing. 0:00 \u2014 A conferenc",
+   "views": 535
   }
  ]
 }

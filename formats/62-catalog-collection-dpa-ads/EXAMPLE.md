@@ -1,22 +1,32 @@
 # 62 · Catalog / collection / dynamic product ads (Advantage+ catalog, catalog video, collection + Instant Experience lookbook): see it, then make it
 
-[![The example: storyboard of @Vickyjr's post](example/storyboard.jpg)](https://x.com/Vickyjr/status/2102260350263382341)
+[![The example: storyboard of @danpantelo's post](example/storyboard.jpg)](https://x.com/danpantelo/status/1640330448818544640)
 
-**The example:** [@Vickyjr on X](https://x.com/Vickyjr/status/2102260350263382341) · 1 image · 12 likes, 470 views
+**The example:** [@danpantelo on X](https://x.com/danpantelo/status/1640330448818544640) · 1 image · 4 likes, 3K views
 
-**Watch it:** [open the post on X](https://x.com/Vickyjr/status/2102260350263382341)
+**Watch it:** [open the post on X](https://x.com/danpantelo/status/1640330448818544640)
 
-> I've spent the last 30 days running catalog ads for Drip Emporium on X, Facebook, and TikTok. No agency, no course, just testing things and tracking what actually converts. Real numbers: Ksh 10,000+ made from Ksh 1,000 spent on ads. Going to start teaching this book, on link on comments.
+> **How close is this example?** Close: a catalog-ad mock-up by a practitioner, not a live ad. The gallery below has more examples.
+
+> @moizali Here on the left is a mockup of what Native's DPA would look like if they were running DPA. On the right is what it could look like if they enhanced their feed with a custom template.
 
 ## What you are seeing
 
-A simple illustration of how catalog ads work: a phone with product tiles (a jacket, a t-shirt, sneakers, jeans) flowing out into a carousel row.
+Two phone mock-ups of a catalog (dynamic product) ad for Native deodorant: on the left, the plain product-on-white tile a default catalog feed produces; on the right, the same catalog item wrapped in a custom branded template. It shows how much a designed catalog template changes the ad without making a new creative per product.
 
 ## Image by image
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | (mostly visual) |
+| 1 | a et 47 BEFORE AFTER |
+
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@goodAdsAI](example/more/1762455167591649792.jpg)](https://x.com/goodAdsAI/status/1762455167591649792)<br>**@goodAdsAI** · image · 102 views<br>#BrandedCatalog Spotlight Brand: @brodoNYC Category: Food & Beverage Template type: Product image with rotating celebrity reviews WHY IT WORKS: 🖼️The | [![@VisualLiftai](example/more/2078583438018220351.jpg)](https://x.com/VisualLiftai/status/2078583438018220351)<br>**@VisualLiftai** · video · 28 views<br>@MehtabKarta For Solawood, what do you use to run your DPA ads? Made you this with our new DPA template builder :) |   |
 
 ## How to make one like it
 

@@ -4,57 +4,77 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/_deepakss_/status/2087895969157246985",
- "author": "_deepakss_",
+ "url": "https://x.com/ChrisHarihar/status/1703108334218297531",
+ "author": "ChrisHarihar",
  "type": "video",
- "duration": 16,
- "mp4": "https://video.twimg.com/amplify_video/2087894468787675137/vid/avc1/320x568/OJey6kH1QrZRe7CY.mp4?tag=29",
- "w": 954,
- "h": 1696,
+ "duration": 9,
+ "mp4": "https://video.twimg.com/amplify_video/1703108275909111808/vid/avc1/320x604/DOAr0frOlfwpmcxv.mp4?tag=14",
+ "w": 886,
+ "h": 1674,
  "via_quote": false,
- "likes": 10,
- "views": 201,
- "seen": "An interactive game ad: phone screens showing a puzzle you tap to play, then a story scene, so the viewer plays a few seconds inside the ad before the app is shown.",
+ "likes": 7,
+ "views": 1169,
+ "seen": "A TikTok in-feed ad using the 'shake to learn more' interactive add-on (from the Barbie movie campaign): a creator talks to camera, a prompt asks viewers to shake their phone, the screen bursts into a full-screen pink Barbie pattern, then a 'watch it' card with ticket links. The poster says the format works well and has mostly been used for films.",
+ "match": "close",
  "beats": [
   {
-   "t": "0:01",
-   "said": "",
-   "ocr": "14:09 cw so wes as ae mes me a"
+   "t": "0:00",
+   "said": "On the ground.",
+   "ocr": "Shake to learn more 4730 ad 170 Bring home the biggest movie of the year! Own Barbie Now on Digital! Sponsored a"
   },
   {
    "t": "0:02",
-   "said": "",
-   "ocr": ""
+   "said": "On the ground.",
+   "ocr": "STEM ma. Sha more 4730 170 Bring home the biggest movie of the year! 190 Own Barbie Now on Digital! Sponsored. Watchman"
   },
   {
-   "t": "0:04",
-   "said": "from ancient minds",
-   "ocr": "a, oo SS io Bi a in mm Test mode: The Wisdom App a"
+   "t": "0:03",
+   "said": "",
+   "ocr": "Se C4 ct rv ae ls VW Ns BP ow"
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": "ya Bo OD"
   },
   {
    "t": "0:06",
-   "said": "from ancient minds to modern times",
-   "ocr": "Ee Sr Oy ra! a My Ob Rj Test mode: The Wisdom App"
-  },
-  {
-   "t": "0:08",
-   "said": "from ancient minds to modern times",
-   "ocr": ""
-  },
-  {
-   "t": "0:10",
-   "said": "to modern times",
-   "ocr": ""
-  },
-  {
-   "t": "0:12",
    "said": "",
-   "ocr": ""
+   "ocr": "see Barbie Movies a mt App! prime video AN Ve cox Me BEST BUY"
   },
   {
-   "t": "0:14",
+   "t": "0:07",
    "said": "",
-   "ocr": ""
+   "ocr": "Barbie Movies Theaters at Fulton Market Regal Battery Park 12:45 PM 330 PM WATCH IT Buy Rent Digital OB prime video Ss c"
+  }
+ ],
+ "more": [
+  {
+   "id": "1735569746349670808",
+   "author": "crowizard_stef",
+   "url": "https://x.com/crowizard_stef/status/1735569746349670808",
+   "thumb": "example/more/1735569746349670808.jpg",
+   "kind": "image",
+   "cap": "Stores are using TikTok\u2019s new interactive cards already! Don\u2019t fall behind: \u200b1. Create a new campaign where you select Reach & Frequency as the Ad Buy",
+   "views": 2222
+  },
+  {
+   "id": "1790930807764435387",
+   "author": "coltonjetlee",
+   "url": "https://x.com/coltonjetlee/status/1790930807764435387",
+   "thumb": "example/more/1790930807764435387.jpg",
+   "kind": "image",
+   "cap": "For those running TikTok Shop ads... Do you guys turn on a \"Interactive Add-on\" like a Product Card? We've been using them as TikTok claims it boosts ",
+   "views": 164
+  },
+  {
+   "id": "2087895969157246985",
+   "author": "_deepakss_",
+   "url": "https://x.com/_deepakss_/status/2087895969157246985",
+   "thumb": "example/more/2087895969157246985.jpg",
+   "kind": "0:15 video",
+   "cap": "Building \"Tiktok for games\" Arcadeo for this year's Shipaton. My main aim is to have a non frustrating experience when viewing an ad. This means user ",
+   "views": 201
   }
  ]
 }

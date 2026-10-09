@@ -15,5 +15,17 @@
  "likes": 107,
  "views": 6336,
  "seen": "Two images: a mirror-selfie before/after side by side with a caption, and a whiteboard diagram (\"lose the weight, keep the glow\") with a hand holding the pink product tub.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2078512377616589256",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2078512377616589256",
+   "thumb": "example/more/2078512377616589256.jpg",
+   "kind": "image",
+   "cap": "Before/after photos are best native ad image: change creates curiosity; long copy tells story.",
+   "views": 4616
+  }
+ ]
 }

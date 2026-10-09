@@ -20,6 +20,15 @@ Three TikTok profiles of AI persona pages, each a consistent aesthetic girl (bea
 | 2 | bee Fan 30 Following 2900 Followers 1.3M Likes Turn your iPhone into a vibe factory Search on Al Generated Edited Content uw mt Videos Liked Pinned a She edits her photos too much ee Wa ey, Nh sl os ct ts 51.9K She edits hi |
 | 3 | a Mia Ford 51 Following 2038 Followers 403.9K Likes Follow Nee Magic happens to your photos here Search on Mt uw Videos Liked ot edits her too much a ee Ya es ll he Db 17M Ore her photos too og mu inf |
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@onlinedopamine](example/more/2082813772373098530.jpg)](https://x.com/onlinedopamine/status/2082813772373098530)<br>**@onlinedopamine** · images · 3K views<br>these are the types of outsized organic views you get on new accounts when you nail &gt; understanding of your target audience (= pinterest aesthetic | [![@g_buildz_apps](example/more/2096288782517457130.jpg)](https://x.com/g_buildz_apps/status/2096288782517457130)<br>**@g_buildz_apps** · image · 1K views<br>I started this account last month Over 1M+ views just on slideshows This brought me 10,000 downloads btw One slideshow account. https://t.co/plkjEqnwZ | [![@yassratti](example/more/2100554319070212573.jpg)](https://x.com/yassratti/status/2100554319070212573)<br>**@yassratti** · image · 5K views<br>bro is doing $9k a month with a single tiktok slideshow account 😭 that's wild as fuck and it's your wake up call build an app that fits a format explo |
+| [![@onlinedopamine](example/more/2077706055656558799.jpg)](https://x.com/onlinedopamine/status/2077706055656558799)<br>**@onlinedopamine** · 0:31 video · 5K views<br>this slideshow account is literally leaving money on the table, it's almost infuriating the account owner is going viral on basically every second pos |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A themed "persona" account (e.g. an aesthetic travel girl) posts photo slideshows of aspirational moments with the same short meme caption on the cover every time. The bio carries the CTA. The repeated caption becomes a recognisable series; volume finds the outliers.
@@ -34,12 +43,14 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Daily slideshows from one persona account
+**Target length / size:** Daily 4-6 slide TikTok photo-mode slideshows from one aesthetic account
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Cover | Aesthetic photo in the persona's world | Same caption template every time |
-| 2 | Slides | 4-6 aspirational moments, the product worn in some | - |
+| 1 | Cover slide | Aesthetic photo in the persona's world (morning coffee, beach bag, mirror selfie with the stack) | Same caption template every post: "things that just make sense: ___" |
+| 2 | Slides 2-5 | One "thing that makes sense" per slide; the product is one of them, never the first | e.g. "a necklace you never take off" |
+| 3 | Last slide | A soft pointer | "my stack is in my bio" |
+| 4 | Audio | Trending soft sound at low volume | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -66,7 +77,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Caption template**
 
 ```text
-Pick one template (e.g. "things that just make sense: ___") and reuse it on every post.
+Pick ONE template ("things that just make sense", "soft life essentials", "signs you're the friend with good taste") and reuse it on every post for 30 days.
+```
+
+**Image sourcing**
+
+```text
+Shoot a library of 100 aesthetic photos in one day (same light, same palette), then mix and match; label any AI images as AI.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -109,8 +126,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- AI persona pages must be labelled as AI.
-- One template, many posts; do not change it weekly.
+- AI persona accounts must be labelled as AI.
+- One template, many posts; changing it weekly resets the account.
+- The product must be one tip among several; if every slide sells, it reads as an ad.
 - A weak first slide: nobody swipes past a boring cover.
 - No reason to save: give a list, a checklist or a reference people come back to.
 

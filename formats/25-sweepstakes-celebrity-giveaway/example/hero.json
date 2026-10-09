@@ -15,5 +15,26 @@
  "likes": 100,
  "views": 9245,
  "seen": "Ridge's \"2026 Summer Sweepstakes\" key visual: two men next to a lifted truck under the headline \"Prizes worthy of a pro\", with Shop Now and Learn More buttons. A celebrity-backed giveaway is the creative.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2094054316361269314",
+   "author": "gleamapp",
+   "url": "https://x.com/gleamapp/status/2094054316361269314",
+   "thumb": "example/more/2094054316361269314.jpg",
+   "kind": "0:02 video",
+   "cap": "NEW from Gleam. Spending money on ads and wondering if a giveaway could get you leads for less? Use the Giveaway vs Paid Ads Cost Per Lead Calculator.",
+   "views": 4053
+  },
+  {
+   "id": "2075924232333058211",
+   "author": "EcomVictor",
+   "url": "https://x.com/EcomVictor/status/2075924232333058211",
+   "thumb": "example/more/2075924232333058211.jpg",
+   "kind": "1:27 video",
+   "cap": "If you're not offer-stacking and valuemaxxing in 2026 as an ecom brand, scaling profitably will be MUCH harder for you. Gr\u00fcns is pushing a discount + ",
+   "views": 482
+  }
+ ]
 }

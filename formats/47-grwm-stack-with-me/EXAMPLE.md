@@ -26,6 +26,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 | 6 | 0:12–0:14 | · | · |
 | 7 | 0:14–0:16 | Ci ISLE 9: | · |
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@moneytokwitbuki](example/more/2084621955752145291.jpg)](https://x.com/moneytokwitbuki/status/2084621955752145291)<br>**@moneytokwitbuki** · images · 507 views<br>Brand Study: rhode rhode's primary target audience is Gen Z and Millennials. Before the official product launch, the founder built anticipation by con |   |   |
+
 ## How to make one like it
 
 **The format in one line:** Creator gets ready (outfit → makeup → jewelry) or builds a stack piece by piece while talking; the jewelry is the payoff of the routine.
@@ -54,9 +62,11 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-2s | Creator at a mirror, bare neck | "stack with me for a beach day" |
-| 2 | 2-40s | Adds piece by piece, close-ups of each | Names each piece |
-| 3 | 40-55s | Full look, walks into the sea/shower | "and I don't take them off" |
+| 1 | 0-3s | Creator at a mirror, bare neck and wrist | "Stack with me for a beach day." |
+| 2 | 3-20s | One piece at a time: chain, pendant, second chain, bracelets, ring | Name each piece as it goes on |
+| 3 | 20-35s | Turn to camera, full stack | "All waterproof, so I don't take it off for the sea." |
+| 4 | 35-45s | Quick beach clip wearing it | - |
+| 5 | End | Product list on screen | "7 pieces, $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -83,7 +93,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Shoot**
 
 ```text
-Ring light 45°, 1x lens for close-ups, 0.5x for the full look, 30fps.
+Mirror or front camera at chest height, ring light at 45°, one take per piece.
+```
+
+**Script**
+
+```text
+Write 5 "stack with me" themes (beach, wedding guest, office, gym, date) with 7 pieces each from the catalogue.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -127,8 +143,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Show the final stack for at least 3 seconds.
 - Name pieces so viewers can find them.
+- Show the full stack long enough to screenshot.
+- Keep it under 60s.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

@@ -15,6 +15,7 @@
  "likes": 0,
  "views": 166,
  "seen": "A founder mini-documentary of almost 4 minutes for Eskiin (shower filters): the founder walking the factory floor (\"showerhead company\"), a junk-filled showerhead, the filter cartridge, packing orders (\"every order\"), staff (\"Take care of family\") and a customer washing her hair (\"for a full refund\").",
+ "match": "exact",
  "beats": [
   {
    "t": "0:14",
@@ -55,6 +56,26 @@
    "t": "3:40",
    "said": "Thank you for helping us turn a promise,",
    "ocr": "ye AN a for a full refund"
+  }
+ ],
+ "more": [
+  {
+   "id": "2106092593511837880",
+   "author": "strikerecom",
+   "url": "https://x.com/strikerecom/status/2106092593511837880",
+   "thumb": "example/more/2106092593511837880.jpg",
+   "kind": "image",
+   "cap": "the amount of directions u can take a native is STUPIDDD if a video concept already works just turn that shit into a native founder ads have been crus",
+   "views": 1683
+  },
+  {
+   "id": "2098433621077983648",
+   "author": "ecom_cork",
+   "url": "https://x.com/ecom_cork/status/2098433621077983648",
+   "thumb": "example/more/2098433621077983648.jpg",
+   "kind": "image",
+   "cap": "Few million more founder ads https://t.co/IKeYhoxbMc",
+   "views": 5763
   }
  ]
 }

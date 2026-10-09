@@ -33,6 +33,15 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@ByMorola](example/more/1752970187198865515.jpg)](https://x.com/ByMorola/status/1752970187198865515)<br>**@ByMorola** · images · 474 views<br>We love reviews. We customized a bracelet for a client and frame 1 was her reaction. Customized bracelet- N11000 Adjustable customized bracelets for w | [![@Strawaubreyyy](example/more/2006263964175622457.jpg)](https://x.com/Strawaubreyyy/status/2006263964175622457)<br>**@Strawaubreyyy** · 0:27 video · 129 views<br>Napaiyak ko sya nung Shady brunch 🥹 I gave her a locket necklace na may picture ng mom nya so she can carry it with her everywhere she goes🥹 & I told | [![@eva_jiang47397](example/more/1824386160946274779.jpg)](https://x.com/eva_jiang47397/status/1824386160946274779)<br>**@eva_jiang47397** · 0:11 video · 10 views<br>I bought my American mother-in-law a Chinese bracelet on Independence Day, and she was shocked.but she liked the necklace I gave her very much and hop |
+| [![@Pavol_Repisky](example/more/2078415656895082582.jpg)](https://x.com/Pavol_Repisky/status/2078415656895082582)<br>**@Pavol_Repisky** · 0:24 video · 130 views<br>Disposable-camera app $20K/mo in 83 days; best TikTok 10M views/900K likes = AI bride crying at "her" wedding. |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A peak-emotion moment (bride in tears at her reception, mom at a birthday, best friend at a graduation) + an on-screen line that reveals an unusual choice — "We gave every guest a camera instead of hiring more photographers…" / "Everyone says no phones at weddings… but I did the opposite" — then the product is shown as the mechanism behind the moment (QR on the place card → app). The ad is the sto
@@ -58,13 +67,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 20-40s, 1080x1920
+**Target length / size:** 30-60s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-5s | A real emotional moment (a bride crying, a mom opening a gift) | Caption tells the moment |
-| 2 | 5-20s | The mechanism reveal: the product made the moment possible | "we gave every bridesmaid the same necklace" |
-| 3 | 20-30s | Product | Soft CTA |
+| 1 | 0-5s | Wedding morning, bride's mum crying quietly | Caption: "We gave her mum's old necklace a second life." |
+| 2 | 5-20s | Flashback photos of the mum wearing a necklace; it had turned green | Soft VO from the daughter |
+| 3 | 20-35s | Gift moment: a small box, the new necklace | "So she can wear it every day now. Even in the sea." |
+| 4 | 35-45s | Mum wearing it at the reception, dancing | - |
+| 5 | End | Brand card, soft offer | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -92,10 +103,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Collect**
+**Casting**
 
 ```text
-Ask customers for wedding/gift videos with consent; offer credit.
+Use a real customer story (with consent) or label it as a dramatisation.
+```
+
+**Shoot**
+
+```text
+Warm grade, handheld, natural sound; music swells only at the gift moment.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -142,8 +159,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Real moments only, with consent from everyone shown.
-- Don't force the product into the first 5 seconds.
+- Label dramatisations.
+- Don't exploit grief; keep it warm, not sad.
+- The product must be the hidden mechanism, not the hero of every shot.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

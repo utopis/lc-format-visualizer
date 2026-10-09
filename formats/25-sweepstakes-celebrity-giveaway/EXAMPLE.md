@@ -18,6 +18,14 @@ Ridge's "2026 Summer Sweepstakes" key visual: two men next to a lifted truck und
 |---|---|
 | 1 | bi pa AX 6. STi! ive ot TA eA a PRIZES OF APR The 6th Annual Sweepstakes goes pro by Tony Hawk himself LEARN MORE |
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@gleamapp](example/more/2094054316361269314.jpg)](https://x.com/gleamapp/status/2094054316361269314)<br>**@gleamapp** · 0:02 video · 4K views<br>NEW from Gleam. Spending money on ads and wondering if a giveaway could get you leads for less? Use the Giveaway vs Paid Ads Cost Per Lead Calculator. | [![@EcomVictor](example/more/2075924232333058211.jpg)](https://x.com/EcomVictor/status/2075924232333058211)<br>**@EcomVictor** · 1:27 video · 482 views<br>If you're not offer-stacking and valuemaxxing in 2026 as an ecom brand, scaling profitably will be MUCH harder for you. Grüns is pushing a discount + |   |
+
 ## How to make one like it
 
 **The format in one line:** Hero creative: celebrity/creator + big prize visual; entry = email/SMS (or purchase = bonus entries); countdown; recap winners. Ridge used Marden Kane / RTM Media for administration ([@couuor](https://x.com/couuor/status/2098515153654562908)). Their 2026 mix shifted toward Facebook (46.7%) and TikTok (9.1%, ROAS +361%).

@@ -108,6 +108,15 @@ The storyboard above samples the video every 0:17. Lines are the transcript for 
 
 </details>
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@SuurajN35299](example/more/2038318041457741869.jpg)](https://x.com/SuurajN35299/status/2038318041457741869)<br>**@SuurajN35299** · 0:39 video · 11 views<br>Stop! 🛑 Before you buy that gold chain, check the clasp for these 3 stamps: GP GEP HGE If you see them, you're buying plated jewelry, not solid gold. | [![@Amiragoldgroup](example/more/2080124641826242894.jpg)](https://x.com/Amiragoldgroup/status/2080124641826242894)<br>**@Amiragoldgroup** · 2:46 video · 95 views<br>Thrift stores can hide incredible treasures—but never assume every piece is real. Always verify, test, and inspect before you buy. A few minutes of ch | [![@OrvanyaIndia](example/more/2084213867505435020.jpg)](https://x.com/OrvanyaIndia/status/2084213867505435020)<br>**@OrvanyaIndia** · 0:22 video · 25 views<br>Before you buy gold as an investment or commodity/wearable next time, remember these 5 common mistakes and plan accordingly #gold #investment #jewelle |
+| [![@NatxtraSynthite](example/more/2078344172885700790.jpg)](https://x.com/NatxtraSynthite/status/2078344172885700790)<br>**@NatxtraSynthite** · 0:31 video · 5 views<br>Don't buy a supplement without reading the label. The real story is in the ingredients, dosage, and hidden extras—not the marketing. Read the label be | [![@nicklaunches](example/more/2105130548155056153.jpg)](https://x.com/nicklaunches/status/2105130548155056153)<br>**@nicklaunches** · image · 977 views<br>Before you buy ANY directory ad, ask these 4. &gt; who measures the traffic, them or a third party &gt; how many ads rotate through the same spot &gt; |   |
+
 ## How to make one like it
 
 **The format in one line:** An educational warning video aimed at people already shopping the category: "Before you buy X, watch this." The presenter picks up typical products, flips them over, reads the small print, and counts down 3 reasons (3, 2, 1) why only one option meets the standard. It is a buyer's guide where the standard is defined so only the brand passes.
@@ -133,14 +142,16 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 30-60s
+**Target length / size:** 30-50s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Presenter picks up 3 typical products | "Before you buy gold jewelry, flip the label." |
-| 2 | 3-30s | 3-2-1 countdown of label checks | "'Gold tone' means no gold. 'Plated' means it wears off." |
-| 3 | 30-45s | The product passes every check | - |
-| 4 | End | - | CTA |
+| 1 | 0-3s | Presenter at a table with 3 typical gold pieces (generic, unbranded packaging) | "Before you buy gold jewellery, flip the label." |
+| 2 | 3-12s | Check 3: picks up piece 1, label close-up | "'Gold tone' means there's no gold. Fails." |
+| 3 | 12-22s | Check 2: piece 2 | "'Gold plated' with no thickness listed means it wears off. Fails." |
+| 4 | 22-32s | Check 1: the PVD piece | "'14K PVD over stainless steel'. Bonded, waterproof. This one passes." |
+| 5 | 32-40s | Drops it in a glass of water, lifts it out | "That's the one I wear." |
+| 6 | End | Offer | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -166,10 +177,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Script**
+**Script (Claude)**
 
 ```text
-Write 3 label checks shoppers can do themselves, each one true and verifiable.
+Write 3 label checks shoppers can do themselves for [category], each one true and verifiable, from weakest to the product. Max 15 words per line.
+```
+
+**Shoot**
+
+```text
+Top-down + presenter angle, macro on labels, neutral packaging with competitor names removed.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -213,7 +230,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Do not name competitors falsely; show generic packaging.
+- Don't name or show competitor brands; use generic packaging.
+- Every label claim must be accurate (e.g. what "gold tone" legally means).
+- Show the product passing a test it really passes.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

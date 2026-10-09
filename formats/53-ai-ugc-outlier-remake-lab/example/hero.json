@@ -4,57 +4,114 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/0xDepressionn/status/2107918489587507606",
- "author": "0xDepressionn",
+ "url": "https://x.com/rathikrishnav/status/2056472046192951468",
+ "author": "rathikrishnav",
  "type": "video",
- "duration": 1873,
- "mp4": "https://video.twimg.com/amplify_video/2107905110638542848/vid/avc1/640x360/o2DfLCbNbZXHaZCY.mp4?tag=29",
- "w": 1920,
- "h": 1080,
+ "duration": 40,
+ "mp4": "https://video.twimg.com/amplify_video/2056471845210324992/vid/avc1/540x540/7hZuUF7kzlbQ9iKP.mp4?tag=14",
+ "w": 800,
+ "h": 800,
  "via_quote": false,
- "likes": 18,
- "views": 1966,
- "seen": "A long workflow video (about 29 minutes) of a creator walking through his AI-UGC remake process on screen: finding outlier videos, then remaking them with AI.",
+ "likes": 0,
+ "views": 49,
+ "seen": "A split-screen test: on the left the brand's real UGC ad ('REAL AD'), on the right an AI-generated remake ('OUR AI AD') with a different AI creator copying the same moves \u2014 holding the yellow skincare jar, applying it, reacting \u2014 beat for beat for about 40 seconds. The point: a winning ad can be cloned with AI to test new faces.",
+ "match": "exact",
  "beats": [
   {
-   "t": "1:57",
-   "said": "Okay, it's finally here. I'm gonna do the ARUGC video. I know a lot of you guys in Ecom Talent have been asking like how I managed to get my",
-   "ocr": "THERAPY cy a, YOU NEED TO WALK YOU THROUGH mm WEEK BY WEEK. PS ee"
+   "t": "0:02",
+   "said": "If your deodorant is not infused with skincare, throw it out. Look at what MediCube just came out with.",
+   "ocr": "REAL AD OUR Al AD Ss Coa a 7%"
   },
   {
-   "t": "5:51",
-   "said": "is we really slow down and take our time to like analyze other winners, analyze the ads that we're iterating off. If it's a new idea, then y",
-   "ocr": ""
+   "t": "0:07",
+   "said": "Look at what MediCube just came out with. They came out with the deodorant with skincare with Kojik Acid and Turmeric.",
+   "ocr": "REAL AD OUR Al AD el at an"
   },
   {
-   "t": "9:45",
-   "said": "",
-   "ocr": ""
+   "t": "0:12",
+   "said": "So if you have those dark underarms, which most of us do, this is going to help lighten and brighten.",
+   "ocr": "REAL AD OUR Al AD ol 1% a"
   },
   {
-   "t": "13:39",
-   "said": "",
-   "ocr": "ee ee ee Hy pete ns anne son seems a Il Il om Il HI Be Sm pe Lame mee nee aT"
+   "t": "0:17",
+   "said": "Please tell me why it took the girls 30 freaking years to figure out how to lighten their armpits. And no, it's not laser, okay?",
+   "ocr": "REAL AD OUR Al AD So Ii Ne if"
   },
   {
-   "t": "17:33",
-   "said": "",
-   "ocr": ""
+   "t": "0:22",
+   "said": "This is literally after using these Kojik Acid Turmeric toner pads for like two weeks. Like the glow is insane.",
+   "ocr": "REAL AD OUR AI AD wv ee Ny a ad"
   },
   {
-   "t": "21:27",
-   "said": "",
-   "ocr": "ann one Area sim ing MI ima teen ao tom moe ne ot ae out sue"
+   "t": "0:27",
+   "said": "The dark spots, the texture, everything started fading. Like this is what I've been using. It's literally pre-soaked. You just swipe it on a",
+   "ocr": "REAL AD OUR Al AD aa as AD"
   },
   {
-   "t": "25:21",
-   "said": "",
-   "ocr": ""
+   "t": "0:32",
+   "said": "You just swipe it on and you're done. And I swear this is the first thing that's actually worked without burning my skin off.",
+   "ocr": "REAL AD OUR Al AD a Ar fi Ms AD"
   },
   {
-   "t": "29:16",
-   "said": "",
-   "ocr": ""
+   "t": "0:37",
+   "said": "Like my underarms used to look so uneven and now they're literally smooth and bright. Like when I say glass skin for your bo-",
+   "ocr": "REAL AD OUR Al AD we AO ae"
+  }
+ ],
+ "more": [
+  {
+   "id": "2095453949805392267",
+   "author": "raph_guilhem",
+   "url": "https://x.com/raph_guilhem/status/2095453949805392267",
+   "thumb": "example/more/2095453949805392267.jpg",
+   "kind": "0:34 video",
+   "cap": "Seedance 2.5 is insane for AI UGC. I built a Claude skill that takes an ad that's already converting and puts a new person in it. This is perfect for ",
+   "views": 391
+  },
+  {
+   "id": "2034333069167984905",
+   "author": "SimScaler",
+   "url": "https://x.com/SimScaler/status/2034333069167984905",
+   "thumb": "example/more/2034333069167984905.jpg",
+   "kind": "0:08 video",
+   "cap": "You should be PRINTING with AI UGC right now You can reverse engineer any winning ad And recreate it in minutes with your own AI creator That's the ne",
+   "views": 1139
+  },
+  {
+   "id": "2107913083783987306",
+   "author": "angeldot_",
+   "url": "https://x.com/angeldot_/status/2107913083783987306",
+   "thumb": "example/more/2107913083783987306.jpg",
+   "kind": "0:18 video",
+   "cap": "Cal AI scaled to 15M downloads before being acquired by MyFitnessPal now its co-founder just open-sourced the AI UGC workflow he wishes he had while b",
+   "views": 18432
+  },
+  {
+   "id": "2092368368968049118",
+   "author": "ai_cult1",
+   "url": "https://x.com/ai_cult1/status/2092368368968049118",
+   "thumb": "example/more/2092368368968049118.jpg",
+   "kind": "47:51 video",
+   "cap": "Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months).",
+   "views": 49
+  },
+  {
+   "id": "2107887039513268301",
+   "author": "N01ennn",
+   "url": "https://x.com/N01ennn/status/2107887039513268301",
+   "thumb": "example/more/2107887039513268301.jpg",
+   "kind": "0:12 video",
+   "cap": "the person who ran UGC for Cal AI on its way to a $50M run rate just laid out how to run an AI UGC army for any app. this is pure f*cking treasure. so",
+   "views": 12084
+  },
+  {
+   "id": "2107878663488188775",
+   "author": "slash1sol",
+   "url": "https://x.com/slash1sol/status/2107878663488188775",
+   "thumb": "example/more/2107878663488188775.jpg",
+   "kind": "0:21 video",
+   "cap": "THE CO-FOUNDER WHO RAN GROWTH AT CAL AI JUST LEAKED THE ENTIRE AI UGC PIPELINE. ONE PERSON, ZERO CREATORS, THOUSANDS OF TEST VIDEOS Cal AI went to 15M",
+   "views": 8732
   }
  ]
 }

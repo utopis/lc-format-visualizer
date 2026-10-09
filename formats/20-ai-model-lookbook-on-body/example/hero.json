@@ -15,5 +15,35 @@
  "likes": 3,
  "views": 230,
  "seen": "A photoreal AI runway shot: a model in a velvet mini-dress and thigh-high boots on a lit catwalk with an audience. It is an AI \"photoshoot\" used as an on-body lookbook image.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2080184317771227394",
+   "author": "MimiTheDesigner",
+   "url": "https://x.com/MimiTheDesigner/status/2080184317771227394",
+   "thumb": "example/more/2080184317771227394.jpg",
+   "kind": "0:35 video",
+   "cap": "Fashion: every model/dress in video AI-generated; boutiques advertising this way.",
+   "views": 2210
+  },
+  {
+   "id": "2077765449371025600",
+   "author": "girlincrypto007",
+   "url": "https://x.com/girlincrypto007/status/2077765449371025600",
+   "thumb": "example/more/2077765449371025600.jpg",
+   "kind": "1:02 video",
+   "cap": "You need the right AI model for every task so you don\u2019t burn through your limits too fast \ud83d\udc40 My stack is simple: > @claudeai Fable - for building a por",
+   "views": 3639
+  },
+  {
+   "id": "2085708930588557789",
+   "author": "MirrAIHQ",
+   "url": "https://x.com/MirrAIHQ/status/2085708930588557789",
+   "thumb": "example/more/2085708930588557789.jpg",
+   "kind": "0:20 video",
+   "cap": "Every fashion brand has a folder of flat product photos. Watch what happens when you run a whole catalog through MirrAI Studio \ud83d\udc47 On-model try-ons for ",
+   "views": 221
+  }
+ ]
 }

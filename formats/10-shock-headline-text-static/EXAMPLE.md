@@ -18,6 +18,14 @@ A plain white static from Resilia with a huge black headline: "MY SISTER SLEPT W
 |---|---|
 | 1 | MY SISTER SLEPT WITH MY HUSBAND Eight months later, she's the at family dinners one everyone calls beautiful Because she drains parasites And didn't even had ei of DRAIN PARASITES GET YOUR GLOW BACK. SHOP NOW |
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@iwo_cybulski](example/more/1946251552919814347.jpg)](https://x.com/iwo_cybulski/status/1946251552919814347)<br>**@iwo_cybulski** · image · 1K views<br>Long text static ad for Vitaboost 🔥 → Want high-converting static ads + media buying for your brand? DM me "ads" ⚡ | [![@Aidanb2b](example/more/1989120076415705137.jpg)](https://x.com/Aidanb2b/status/1989120076415705137)<br>**@Aidanb2b** · image · 154 views<br>Which one of you was behind this ad creative masterclass. Big headline Great offer Urgent CTA 10/10 |   |
+
 ## How to make one like it
 
 **The format in one line:** White background, huge condensed black headline that is a story line, 3 short lines of body continuing the story with a twist, product pack-shot bottom right, brand + 2-line benefit + "SHOP NOW →". Example: "MY SISTER SLEPT WITH MY HUSBAND. / Eight months later, she's the one everyone calls beautiful at family dinners. / Because she drains parasites. / And I didn't even know I had them." ([@tryatr

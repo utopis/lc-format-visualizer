@@ -15,6 +15,7 @@
  "likes": 7,
  "views": 1029,
  "seen": "An Arcads demo of a short-drama ad: office scenes with actors, split with a script panel, styled like DramaBox micro-dramas but built around a product.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:03",
@@ -55,6 +56,17 @@
    "t": "0:49",
    "said": "It's called Lumo 100. Now, my refund.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2101445743412138341",
+   "author": "FedotOff90",
+   "url": "https://x.com/FedotOff90/status/2101445743412138341",
+   "thumb": "example/more/2101445743412138341.jpg",
+   "kind": "images",
+   "cap": "Pocket FM storytelling drama ads \u2014 199 longest-running; serial episode logic.",
+   "views": 82821
   }
  ]
 }

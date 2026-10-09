@@ -18,6 +18,14 @@ A customer-review static for a jewelry brand: "Customer Review" in a circle stam
 |---|---|
 | 1 | ER Hello, you? How do you like your ring? Hello, love the ring. Got it a few months ago it’s not faded |
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@RetunedJewelry](example/more/1769740220675633156.jpg)](https://x.com/RetunedJewelry/status/1769740220675633156)<br>**@RetunedJewelry** · image · 82 views<br>1. Post a picture of yourself rocking your Retuned Jewelry on Facebook, Instagram or X. 2. Tag us, @retunedjewelry 3. Use the hashtag #RockYourRetuned | [![@crosscampaign](example/more/1909192888975601983.jpg)](https://x.com/crosscampaign/status/1909192888975601983)<br>**@crosscampaign** · images · 221 views<br>Be Part of the #ILoveTheCross Challenge - Rock your cross, whether it’s a necklace, bracelet, or the placard shown above - Snap a photo that clearly s |   |
+
 ## How to make one like it
 
 **The format in one line:** Run a branded hashtag ("#LCinTheOcean"), collect customer photos with explicit rights, and turn them into Story ads and retargeting carousels, with the customer's handle shown. Real wearers in real places beat studio shots for warm audiences.
@@ -32,13 +40,15 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Story ads + retargeting carousels from customer photos
+**Target length / size:** Ongoing system: hashtag collection → Story ads (1080x1920) → retargeting carousels
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Collect | Branded hashtag (#LCinTheOcean) on packaging and in emails | - |
-| 2 | Ads | Customer photo, handle shown, short caption | "@maria wore hers in Lisbon" |
-| 3 | Retarget | Carousel of 5 customer photos | - |
+| 1 | Collect | Card in every parcel: "Wear it in the sea. Tag #LCinTheOcean". Same ask in the post-purchase email on day 10 | - |
+| 2 | Rights | Comment on the best posts asking for usage rights | "We love this! Can we feature it in our ads? Reply #yesLC to agree to our terms [link]." |
+| 3 | Story ad | Customer photo full-bleed, their @handle shown, one line of their own caption | "@maria wore hers in Lisbon" |
+| 4 | Retargeting carousel | 5 customer photos, one per card, each with the product name and price | "Real customers. Real sea." |
+| 5 | Monthly refresh | Swap the 5 oldest photos for new ones | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -60,10 +70,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Rights request**
+**Rights terms (template)**
 
 ```text
-Comment: "We love this! Can we feature it in our ads? Reply #yesLC to agree to our terms [link]."
+Write a short UGC rights agreement: brand may use the photo in paid ads on Meta and TikTok for 12 months, credit by handle, the creator can withdraw consent by email.
+```
+
+**Meta**
+
+```text
+Use Dynamic Creative with 10 customer images, the same copy, and retarget site visitors (30 days) who did not purchase.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -105,7 +121,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Get explicit rights for ad use, not just a repost.
+- A repost is not ad rights; get explicit consent for paid use.
+- Never edit a customer photo to make the product look better.
+- Keep a log of who agreed and when.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 32 · Screenshot-native static pack (iPhone Notes, text thread, Reddit, email, Google, IG story/DM, Trustpilot)
 
 <!-- HERO:START -->
-[![Illustrative mock (no clean public example yet)](example/mock.png)](EXAMPLE.md)
+[![Featured example: @liv_unltd](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)**
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/liv_unltd/status/1774923299136716885)
 <!-- HERO:END -->
+
+
 
 
 

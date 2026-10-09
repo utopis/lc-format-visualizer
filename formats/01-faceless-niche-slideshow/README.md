@@ -21,6 +21,8 @@ related_strategies: [01-viral-slideshow-recreation, 20-niche-persona-pages, 24-n
 
 
 
+
+
 ## What it looks like
 A 4-6 slide photo carousel that reads like genuinely useful niche content (tips, rules, lists, diary). The product appears **once**, framed as one of the tips — typically slide N-1 ("right before the last tip so you can't get the full list without seeing it", @rsalimx).
 

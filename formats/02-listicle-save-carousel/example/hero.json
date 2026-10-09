@@ -15,5 +15,53 @@
  "likes": 103,
  "views": 5578,
  "seen": "Two screenshots: a recipe app's App Store page (Daily Bite, \"Save Any Recipe Anywhere\") and the TikTok profile that drives it (\"Success Fitness\"), a grid of one-meal-per-slide recipe carousels, many past 1M views. The carousel is the content; the app is the save-it-for-later tool.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2107517609960702306",
+   "author": "rsalimx",
+   "url": "https://x.com/rsalimx/status/2107517609960702306",
+   "thumb": "example/more/2107517609960702306.jpg",
+   "kind": "images",
+   "cap": "Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it).",
+   "views": 6312
+  },
+  {
+   "id": "2095194062756413781",
+   "author": "_afterblossom_",
+   "url": "https://x.com/_afterblossom_/status/2095194062756413781",
+   "thumb": "example/more/2095194062756413781.jpg",
+   "kind": "images",
+   "cap": "Throwing back this piece to see in the new carousel format https://t.co/rOPT5RDzKO",
+   "views": 34846
+  },
+  {
+   "id": "2085121962976661782",
+   "author": "rustybrick",
+   "url": "https://x.com/rustybrick/status/2085121962976661782",
+   "thumb": "example/more/2085121962976661782.jpg",
+   "kind": "image",
+   "cap": "ChatGPT Ads Product Updates including multi-product carousel format for product feed campaigns https://t.co/TWMRyCOCy2",
+   "views": 5310
+  },
+  {
+   "id": "2085345793343377737",
+   "author": "glenngabe",
+   "url": "https://x.com/glenngabe/status/2085345793343377737",
+   "thumb": "example/more/2085345793343377737.jpg",
+   "kind": "image",
+   "cap": "ChatGPT Ads update -&gt; ChatGPT is testing a multi-product carousel format for product feed campaigns \"We\u2019ve started testing a carousel format for pr",
+   "views": 2435
+  },
+  {
+   "id": "2085392121830515010",
+   "author": "kajiiaura",
+   "url": "https://x.com/kajiiaura/status/2085392121830515010",
+   "thumb": "example/more/2085392121830515010.jpg",
+   "kind": "0:06 video",
+   "cap": "bruh the carousel format ruined this https://t.co/RhNKJbSkOJ",
+   "views": 737
+  }
+ ]
 }

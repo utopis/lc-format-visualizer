@@ -15,5 +15,53 @@
  "likes": 2,
  "views": 1750,
  "seen": "An infographic of an abandoned-cart flow: \"Abandoned Cart Flows\" with a phone showing a \"Forgot something?\" message and 4 timed steps (1 hour reminder, 24 hours social proof, 48 hours incentive, recovery).",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "1904794555633070330",
+   "author": "NickyFiorentino",
+   "url": "https://x.com/NickyFiorentino/status/1904794555633070330",
+   "thumb": "example/more/1904794555633070330.jpg",
+   "kind": "image",
+   "cap": "A clean, simple retargeting ad for the Carnivore Box.",
+   "views": 90
+  },
+  {
+   "id": "1837151672797216904",
+   "author": "FedotOff90",
+   "url": "https://x.com/FedotOff90/status/1837151672797216904",
+   "thumb": "example/more/1837151672797216904.jpg",
+   "kind": "image",
+   "cap": "Find out why this Manscaped retargeting ad generates $200k+/mo \ud83e\uddf5",
+   "views": 2636
+  },
+  {
+   "id": "2098111904082460674",
+   "author": "ZacGawn",
+   "url": "https://x.com/ZacGawn/status/2098111904082460674",
+   "thumb": "example/more/2098111904082460674.jpg",
+   "kind": "image",
+   "cap": "This morning's retargeting ad",
+   "views": 32
+  },
+  {
+   "id": "1717565246674743387",
+   "author": "marcobatt",
+   "url": "https://x.com/marcobatt/status/1717565246674743387",
+   "thumb": "example/more/1717565246674743387.jpg",
+   "kind": "0:15 video",
+   "cap": "3 reasons why I love this ad format # US vs THEM 1. It's the perfect retargeting creative (works 95% of the times) 2. You can communicate your USP 3. ",
+   "views": 432
+  },
+  {
+   "id": "2080407812891455789",
+   "author": "zakburgers",
+   "url": "https://x.com/zakburgers/status/2080407812891455789",
+   "thumb": "example/more/2080407812891455789.jpg",
+   "kind": "image",
+   "cap": "II find it kinda crazy when I onboard brands that are doing 7 figs a month and they don't have email flows Just imagine the math behind email sales Sa",
+   "views": 1326
+  }
+ ]
 }

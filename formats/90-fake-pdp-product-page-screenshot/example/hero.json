@@ -15,5 +15,26 @@
  "likes": 151,
  "views": 10977,
  "seen": "A native-looking warehouse photo: a hand holding the product (a grey neck pillow) in front of stacked shipping boxes with a pink \"SUMMER SALE IS LIVE! 55% OFF + Free shipping + Free gift\" banner. It looks like a store update, not a designed ad.",
- "beats": []
+ "match": "weak",
+ "beats": [],
+ "more": [
+  {
+   "id": "1905160356810625284",
+   "author": "callmenirmal",
+   "url": "https://x.com/callmenirmal/status/1905160356810625284",
+   "thumb": "example/more/1905160356810625284.jpg",
+   "kind": "images",
+   "cap": "4. Turn into ADS/Creatives. This part blew my mind \ud83e\udd2f I literally just took a screenshot of the product page (PDP) and told GPT-4o: \u201cMake an ad out of ",
+   "views": 650
+  },
+  {
+   "id": "1869425787805262293",
+   "author": "reemaabajaj",
+   "url": "https://x.com/reemaabajaj/status/1869425787805262293",
+   "thumb": "example/more/1869425787805262293.jpg",
+   "kind": "images",
+   "cap": "I love this ad by @TeaboxTea Typical Ugly Ad 2.0 Here's why\ud83d\udc47 \ud83d\udc9a Headline hook with a freebie offer They don\u2019t just mention a freebie; they boost its pe",
+   "views": 1771
+  }
+ ]
 }

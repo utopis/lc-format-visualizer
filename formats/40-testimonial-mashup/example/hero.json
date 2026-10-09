@@ -15,6 +15,7 @@
  "likes": 31,
  "views": 12220,
  "seen": "A mashup of raw customer testimonials: different people on Zoom-style calls, at desks and in kitchens, each saying one line, cut together fast and ending on the brand card (\"synthesis tutoring\").",
+ "match": "exact",
  "beats": [
   {
    "t": "0:05",
@@ -55,6 +56,35 @@
    "t": "1:27",
    "said": "",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "1714802268971655219",
+   "author": "hellonecole",
+   "url": "https://x.com/hellonecole/status/1714802268971655219",
+   "thumb": "example/more/1714802268971655219.jpg",
+   "kind": "0:33 video",
+   "cap": "I love a customer testimonial mashup! Meet the hormone support and period relief vitamin that's changing lives @MyHappyFlo Http://myhappyflo.co",
+   "views": 1431
+  },
+  {
+   "id": "1958891605307404424",
+   "author": "_ibbibhai",
+   "url": "https://x.com/_ibbibhai/status/1958891605307404424",
+   "thumb": "example/more/1958891605307404424.jpg",
+   "kind": "0:44 video",
+   "cap": "The \u201ctestimonial mashup\u201d ad is killing it for My DTC clients! #DTCbrands #UGCads #UGC #admanagement #ads #Winningads #MetaAds #SnapchatAds",
+   "views": 56
+  },
+  {
+   "id": "1949766307567620333",
+   "author": "domaco1968",
+   "url": "https://x.com/domaco1968/status/1949766307567620333",
+   "thumb": "example/more/1949766307567620333.jpg",
+   "kind": "0:14 video",
+   "cap": "If you\u2019re in a \u201csaturated\u201d niche and your ads are tanking, you\u2019ve gotta try this testimonial mashup format. So I planned this creative for a supplemen",
+   "views": 25
   }
  ]
 }

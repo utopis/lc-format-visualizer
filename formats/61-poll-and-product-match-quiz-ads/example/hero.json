@@ -1,6 +1,76 @@
 {
  "id": "F61",
  "kind": "system",
- "mock": true,
- "poster": "example/mock.png"
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/f3dericobartoli/status/2039638255537201662",
+ "author": "f3dericobartoli",
+ "type": "images",
+ "duration": 0,
+ "mp4": null,
+ "w": null,
+ "h": null,
+ "via_quote": false,
+ "likes": 19,
+ "views": 1586,
+ "seen": "Four statics a creative team made for a quiz funnel. One is an iMessage thread: \"I finally looked into the hair thing. Took some quiz. Turns out it's not even about growth...\" Another is an editorial 'New research' card. Each ad's job is to get people to start a quiz, which then matches them to a product.",
+ "match": "close",
+ "beats": [],
+ "more": [
+  {
+   "id": "1801654197462479132",
+   "author": "frugalfreebies",
+   "url": "https://x.com/frugalfreebies/status/1801654197462479132",
+   "thumb": "example/more/1801654197462479132.jpg",
+   "kind": "image",
+   "cap": "This or that? Which one would you pick for Father's Day? OneStopPlus Clearance Sale! - As low as $4.98! PLUS: Save 50% with code: KSESITEWIDE https://",
+   "views": 5
+  },
+  {
+   "id": "1927734140985541103",
+   "author": "ZeeNunewTikTok",
+   "url": "https://x.com/ZeeNunewTikTok/status/1927734140985541103",
+   "thumb": "example/more/1927734140985541103.jpg",
+   "kind": "image",
+   "cap": "Tag Booster \u203c\ufe0f Lats play This or that Jewelry edition. Tell us your choices in the comments. Please remember to use the hashtag and keyword. KazzMag19",
+   "views": 624
+  },
+  {
+   "id": "2093098436069568758",
+   "author": "codyschneider",
+   "url": "https://x.com/codyschneider/status/2093098436069568758",
+   "thumb": "example/more/2093098436069568758.jpg",
+   "kind": "image",
+   "cap": "an AI agent is running facebook ads for a local business it just got the 2170 ebook downloads in august 16% of people who download the ebook turn into",
+   "views": 6664
+  },
+  {
+   "id": "2082826379863707993",
+   "author": "zakburgers",
+   "url": "https://x.com/zakburgers/status/2082826379863707993",
+   "thumb": "example/more/2082826379863707993.jpg",
+   "kind": "image",
+   "cap": "working with the biggest peptide players gave me huge experience in the segmentation game for emails creating 10 different angle flows for these brand",
+   "views": 1117
+  },
+  {
+   "id": "2093096255786234158",
+   "author": "codyschneider",
+   "url": "https://x.com/codyschneider/status/2093096255786234158",
+   "thumb": "example/more/2093096255786234158.jpg",
+   "kind": "image",
+   "cap": "an AI agent is running this local business facebook ads it got the 2170 ebook downloads 16% of people who download the ebook turn into a future patien",
+   "views": 959
+  },
+  {
+   "id": "2081462841052151919",
+   "author": "JamesEbringer",
+   "url": "https://x.com/JamesEbringer/status/2081462841052151919",
+   "thumb": "example/more/2081462841052151919.jpg",
+   "kind": "images",
+   "cap": "Facebook CPCs in Africa are $0.05 right now Five cents a click Go inside TAP and look for the Africa Ads Method Set up a Facebook ad account Point a s",
+   "views": 1569
+  }
+ ]
 }

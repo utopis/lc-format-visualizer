@@ -48,6 +48,14 @@ The storyboard above samples the video every 0:11. Lines are the transcript for 
 
 </details>
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@hellonecole](example/more/1714802268971655219.jpg)](https://x.com/hellonecole/status/1714802268971655219)<br>**@hellonecole** · 0:33 video · 1K views<br>I love a customer testimonial mashup! Meet the hormone support and period relief vitamin that's changing lives @MyHappyFlo Http://myhappyflo.co | [![@_ibbibhai](example/more/1958891605307404424.jpg)](https://x.com/_ibbibhai/status/1958891605307404424)<br>**@_ibbibhai** · 0:44 video · 56 views<br>The “testimonial mashup” ad is killing it for My DTC clients! #DTCbrands #UGCads #UGC #admanagement #ads #Winningads #MetaAds #SnapchatAds | [![@domaco1968](example/more/1949766307567620333.jpg)](https://x.com/domaco1968/status/1949766307567620333)<br>**@domaco1968** · 0:14 video · 25 views<br>If you’re in a “saturated” niche and your ads are tanking, you’ve gotta try this testimonial mashup format. So I planned this creative for a supplemen |
+
 ## How to make one like it
 
 **The format in one line:** A fast montage of 6-12 real customers each saying one line (selfie video, review screenshot, unboxing) stitched into a 20-40s ad. Volume of real voices = proof.
@@ -77,9 +85,11 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Strongest single customer line | e.g. "I've worn it in the sea every day for a year" |
-| 2 | 3-30s | 6-12 real customers, 2-3s each (selfie clips, review screenshots, unboxings) | One line each, all different angles |
-| 3 | 30-40s | Product + review count | Offer |
+| 1 | 0-3s | Strongest single customer line, selfie video | "I've worn it in the sea every day for a year." |
+| 2 | 3-10s | Customers 2-4, 2s each: shower, gym, wedding | One line each: "Never taken it off." "Still gold." "My sister stole mine." |
+| 3 | 10-20s | Customers 5-8: review screenshots and unboxings | Short on-screen quotes |
+| 4 | 20-30s | Stack shot + review count | "4,812 reviews. 4.8 stars." |
+| 5 | End | Offer | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -105,7 +115,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Collect**
 
 ```text
-Ask customers for 10s selfie videos answering one question, with a signed release; offer store credit.
+Email recent buyers: "Send us a 10-second selfie video answering: what surprised you most? We'll send $20 store credit." Include a release form link.
+```
+
+**Edit**
+
+```text
+Cut each clip to its single best line; captions in the same style; order from strongest to weakest; music at -22 dB.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -150,8 +166,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Real customers only, with consent.
-- Order clips from strongest to weakest.
+- Real customers only, with signed consent.
+- Don't script customers; ask one question and use their words.
+- Review counts on screen must be current.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

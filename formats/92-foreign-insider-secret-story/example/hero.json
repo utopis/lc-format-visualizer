@@ -15,6 +15,7 @@
  "likes": 157,
  "views": 23585,
  "seen": "A Pixar-3D sung drama (Smooche) of about 10 minutes: a red-haired woman's story through a party, a bathroom shelf of skincare, a tearful close-up and a graduation crowd. The insider secret and the product arrive late in the song.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:39",
@@ -55,6 +56,44 @@
    "t": "9:56",
    "said": "",
    "ocr": "Nothing slides or cracks."
+  }
+ ],
+ "more": [
+  {
+   "id": "2011218867725746232",
+   "author": "AriaWeber59144",
+   "url": "https://x.com/AriaWeber59144/status/2011218867725746232",
+   "thumb": "example/more/2011218867725746232.jpg",
+   "kind": "0:40 video",
+   "cap": "Differences in Skin Care Between American and Korean Women #beauty #fyp #skincare #pretty #funny",
+   "views": 14
+  },
+  {
+   "id": "2005818535054811329",
+   "author": "AriaWeber59144",
+   "url": "https://x.com/AriaWeber59144/status/2005818535054811329",
+   "thumb": "example/more/2005818535054811329.jpg",
+   "kind": "0:30 video",
+   "cap": "3 Beauty Habits Korean Women Always Follow #beauty #fyp #skincare #korea #funny",
+   "views": 18
+  },
+  {
+   "id": "2022310049440219511",
+   "author": "Yonderfood",
+   "url": "https://x.com/Yonderfood/status/2022310049440219511",
+   "thumb": "example/more/2022310049440219511.jpg",
+   "kind": "0:21 video",
+   "cap": "Inside a French pharmacy \ud83c\uddeb\ud83c\uddf7 Timeless skincare staples French women swear by. Save this for your next trip. http://Yonderfood.com",
+   "views": 14
+  },
+  {
+   "id": "2033997661599125785",
+   "author": "LifeForge_Well",
+   "url": "https://x.com/LifeForge_Well/status/2033997661599125785",
+   "thumb": "example/more/2033997661599125785.jpg",
+   "kind": "0:42 video",
+   "cap": "This is the most gatekeeper Korean skincare line that actually real Korean women use #tiktokshopcreatorpicks #koreanskincare #torridendivein #antiagin",
+   "views": 10
   }
  ]
 }

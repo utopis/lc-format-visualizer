@@ -33,6 +33,15 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@consumerxai](example/more/2096916156389240853.jpg)](https://x.com/consumerxai/status/2096916156389240853)<br>**@consumerxai** · 0:08 video · 1K views<br>Outlier: aesthetic desk-setup hook + split-screen app demo, 558K views/4.4K saves. | [![@leonclipping](example/more/2107903429490135362.jpg)](https://x.com/leonclipping/status/2107903429490135362)<br>**@leonclipping** · images · 3K views<br>Musa app: ONE format (4-sec shocked reaction to a body fact → mascot explains) = 522M views, 930 videos >100K, 100+ creators. | [![@simonecanciello](example/more/2092704268734099547.jpg)](https://x.com/simonecanciello/status/2092704268734099547)<br>**@simonecanciello** · 0:08 video · 15K views<br>this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching f |
+| [![@nicholasnlawton](example/more/2104924114712469774.jpg)](https://x.com/nicholasnlawton/status/2104924114712469774)<br>**@nicholasnlawton** · 0:23 video · 3K views<br>Looking at the current state of tech UGC on TikTok today and remembering a time in early 2025 where you could lob up a hook and demo and drive 100k ne | [![@danclipping](example/more/2079987510680150282.jpg)](https://x.com/danclipping/status/2079987510680150282)<br>**@danclipping** · 0:18 video · 4K views<br>This app raked 7.1M views 387K like with the usual WTH reaction hook And they have hundreds of videos in this format with millions of views Works ever | [![@getnoise](example/more/2087608814551904327.jpg)](https://x.com/getnoise/status/2087608814551904327)<br>**@getnoise** · 0:16 video · 607 views<br>Viral Hook + Demo format from Cantina 📝 ”Use ChatGPT to make money online” - but actually, you’re using their service to do it. No one thinks twice ab |
+
 ## How to make one like it
 
 **The format in one line:** 1-4 second shocked/emotional reaction with a curiosity text hook ("3 years of X and I finally found this") → hard cut to a sped-up demo of the product doing the thing → on-screen text explains the steps → optional reaction-return. 7-15 seconds. The app-marketing workhorse behind Cal AI/Umax-style growth; for LC the "demo" is a physical reveal.

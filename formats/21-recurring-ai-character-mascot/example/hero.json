@@ -15,6 +15,7 @@
  "likes": 108,
  "views": 4356,
  "seen": "A recurring AI character (a duck-headed \"AI influencer\" in a leather jacket) walking through a store aisle and showing a drink to camera. The same character appears in every post, so the audience follows the character.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:00",
@@ -45,6 +46,53 @@
    "t": "0:09",
    "said": "This is my third dinner. Don't judge me",
    "ocr": "ty av Al INFLUENCE a ay Ne a Me ow SS"
+  }
+ ],
+ "more": [
+  {
+   "id": "2103534688048414959",
+   "author": "ErnestoSOFTWARE",
+   "url": "https://x.com/ErnestoSOFTWARE/status/2103534688048414959",
+   "thumb": "example/more/2103534688048414959.jpg",
+   "kind": "0:44 video",
+   "cap": "11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts.",
+   "views": 94950
+  },
+  {
+   "id": "2107022363313279044",
+   "author": "MuteeAutomation",
+   "url": "https://x.com/MuteeAutomation/status/2107022363313279044",
+   "thumb": "example/more/2107022363313279044.jpg",
+   "kind": "image",
+   "cap": "This channel found a crazy content loophole: Take a familiar news format \u2192 add satire \u2192 create a recurring character \u2192 keep the format consistent. The",
+   "views": 2509
+  },
+  {
+   "id": "2107104155831546119",
+   "author": "YouTubeAut3538",
+   "url": "https://x.com/YouTubeAut3538/status/2107104155831546119",
+   "thumb": "example/more/2107104155831546119.jpg",
+   "kind": "image",
+   "cap": "This channel found a crazy content loophole: Take a familiar news format \u2192 add satire \u2192 create a recurring character \u2192 keep the format consistent. The",
+   "views": 361
+  },
+  {
+   "id": "2107147460443275590",
+   "author": "AdebayoYTA",
+   "url": "https://x.com/AdebayoYTA/status/2107147460443275590",
+   "thumb": "example/more/2107147460443275590.jpg",
+   "kind": "image",
+   "cap": "Familiar news format. Satire on top. One recurring character. Same shape every upload. 60\u201390 seconds. Millions of views across the catalog. The videos",
+   "views": 110
+  },
+  {
+   "id": "2107048376558567547",
+   "author": "Automation94453",
+   "url": "https://x.com/Automation94453/status/2107048376558567547",
+   "thumb": "example/more/2107048376558567547.jpg",
+   "kind": "image",
+   "cap": "This channel found a crazy content loophole: Take a familiar news format \u2192 add satire \u2192 create a recurring character \u2192 keep the format consistent. The",
+   "views": 55
   }
  ]
 }

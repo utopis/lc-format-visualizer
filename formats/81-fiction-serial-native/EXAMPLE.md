@@ -38,6 +38,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@FedotOff90](example/more/2101445743412138341.jpg)](https://x.com/FedotOff90/status/2101445743412138341)<br>**@FedotOff90** · images · 83K views<br>Pocket FM storytelling drama ads — 199 longest-running; serial episode logic. |   |   |
+
 ## How to make one like it
 
 **The format in one line:** Long-copy image ads that each carry one episode of a story (clearly labelled fiction) with a recurring character. Each ends on a cliffhanger; the product is a quiet constant in every episode. Retarget each episode's readers with the next one.
@@ -63,13 +71,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Image ads with 300-600 words each, one episode per ad
+**Target length / size:** 6-episode serial: 6 image ads with 300-600 words each, sequenced 2-3 days apart
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Episode image | Same character, same illustration style each episode | "Episode 3" |
-| 2 | Copy | Labelled fiction, one episode, cliffhanger ending | "(A short story. Fiction.)" |
-| 3 | Constant | The product appears as a quiet constant in the character's life | - |
+| 1 | Episode 1 image | Illustration or moody phone photo: a woman at an airport gate touching her necklace. Same style every episode | Header text on image: "The Necklace · Episode 1" |
+| 2 | Ep 1 copy | Labelled "(A short story. Fiction.)" on line 1 | Sets up the character and her problem: her late grandmother's chain turned green the night before her sister's wedding. Ends on a cliffhanger. |
+| 3 | Ep 2-3 | Same character, new setting each time (sister's house, the beach) | The new necklace is just part of her routine: she showers, swims, forgets it's on. Never a pitch. |
+| 4 | Ep 4-5 | Tension: someone notices, asks where it's from | Dialogue between characters carries the product facts naturally |
+| 5 | Ep 6 (finale) | Wedding photo moment | Resolution + a soft line at the end: "The stack in this story is Louise Carter's. Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -92,10 +102,22 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Claude**
+**Claude (serial)**
 
 ```text
-Write a 6-episode fiction serial, 350 words each, about [character], labelled fiction, each ending on a cliffhanger; [product] is part of her routine, never pitched.
+Write a 6-episode fiction serial, 350-450 words per episode, about [character]. Episode 1 opens with a concrete problem; each ends on a cliffhanger; the product appears as a quiet constant (never pitched) until a 1-line note at the end of episode 6. Label each as fiction.
+```
+
+**Midjourney / illustration**
+
+```text
+editorial illustration, woman in her 30s at an airport gate touching a thin gold necklace, warm muted palette, gouache texture, consistent character --ar 4:5 --cref [ep1 image] --sref [ep1 image]
+```
+
+**Meta sequencing**
+
+```text
+Ep1 to a broad audience; Ep2 to people who engaged with Ep1 (post engagement 7d); and so on. Cap frequency at 2 per episode.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -140,8 +162,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Label fiction clearly in every ad.
-- Sequence ads so people see episode 1 first (sequential retargeting).
+- Label fiction clearly in every ad; never present it as a true story.
+- Sequencing needs engagement audiences; without them, people see episode 4 first and the story makes no sense.
+- Keep the character consistent (same face and style) or the serial breaks.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

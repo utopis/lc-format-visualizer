@@ -15,5 +15,62 @@
  "likes": 449,
  "views": 37184,
  "seen": "A TikTok profile for a faceless relationship page (@notruthlove). Every post uses the same photo of a couple by the sea. Only the title text changes (\"the strict agreements we made before signing a lease\", \"Rules we made after we almost broke up\"), and each post gets about 100K to 775K views. The page never shows a face, and the product is pushed inside the slides.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2107517609960702306",
+   "author": "rsalimx",
+   "url": "https://x.com/rsalimx/status/2107517609960702306",
+   "thumb": "example/more/2107517609960702306.jpg",
+   "kind": "images",
+   "cap": "Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it).",
+   "views": 6312
+  },
+  {
+   "id": "2098786343836860487",
+   "author": "ChadAppDev",
+   "url": "https://x.com/ChadAppDev/status/2098786343836860487",
+   "thumb": "example/more/2098786343836860487.jpg",
+   "kind": "image",
+   "cap": "Before building: make niche TikTok page, find most viral slideshow formats, copy with own flavor, 1/day.",
+   "views": 18186
+  },
+  {
+   "id": "2107186633871114374",
+   "author": "ChadAppDev",
+   "url": "https://x.com/ChadAppDev/status/2107186633871114374",
+   "thumb": "example/more/2107186633871114374.jpg",
+   "kind": "image",
+   "cap": "Repost of ChadAppDev niche slideshow method.",
+   "views": 4893
+  },
+  {
+   "id": "2106833379823894702",
+   "author": "leonclipping",
+   "url": "https://x.com/leonclipping/status/2106833379823894702",
+   "thumb": "example/more/2106833379823894702.jpg",
+   "kind": "0:16 video",
+   "cap": "GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip.",
+   "views": 7646
+  },
+  {
+   "id": "2100425887636472312",
+   "author": "Dkevs_",
+   "url": "https://x.com/Dkevs_/status/2100425887636472312",
+   "thumb": "example/more/2100425887636472312.jpg",
+   "kind": "0:05 video",
+   "cap": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
+   "views": 4461
+  },
+  {
+   "id": "2082847934841049519",
+   "author": "mufvza",
+   "url": "https://x.com/mufvza/status/2082847934841049519",
+   "thumb": "example/more/2082847934841049519.jpg",
+   "kind": "0:18 video",
+   "cap": "Analysis of 1,000 app slideshows: most-viewed != most installs; track saves/profile clicks per slideshow.",
+   "views": 44232
+  }
+ ]
 }

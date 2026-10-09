@@ -18,6 +18,14 @@ A photoreal AI runway shot: a model in a velvet mini-dress and thigh-high boots 
 |---|---|
 | 1 | mS ws ra |
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@MimiTheDesigner](example/more/2080184317771227394.jpg)](https://x.com/MimiTheDesigner/status/2080184317771227394)<br>**@MimiTheDesigner** · 0:35 video · 2K views<br>Fashion: every model/dress in video AI-generated; boutiques advertising this way. | [![@girlincrypto007](example/more/2077765449371025600.jpg)](https://x.com/girlincrypto007/status/2077765449371025600)<br>**@girlincrypto007** · 1:02 video · 4K views<br>You need the right AI model for every task so you don’t burn through your limits too fast 👀 My stack is simple: > @claudeai Fable - for building a por | [![@MirrAIHQ](example/more/2085708930588557789.jpg)](https://x.com/MirrAIHQ/status/2085708930588557789)<br>**@MirrAIHQ** · 0:20 video · 221 views<br>Every fashion brand has a folder of flat product photos. Watch what happens when you run a whole catalog through MirrAI Studio 👇 On-model try-ons for |
+
 ## How to make one like it
 
 **The format in one line:** Diverse models wearing the exact piece in lifestyle scenes (beach, office, wedding); or a 15s photoreal UGC try-on clip generated from the product photo (prompt structure from [@Arina_hoqe](https://x.com/Arina_hoqe/status/2095071815483986241): PRODUCT · DURATION exactly 15s · STYLE photorealistic UGC · scene beats · camera · audio).

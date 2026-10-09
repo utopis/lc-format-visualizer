@@ -1,29 +1,30 @@
 # 89 · Customer thank-you / shout-out turned into an ad: see it, then make it
 
-[![The example: storyboard of @Zobo_Konect's post](example/storyboard.jpg)](https://x.com/Zobo_Konect/status/2100470193377923466)
+[![The example: storyboard of @LorelDiamonds's post](example/storyboard.jpg)](https://x.com/LorelDiamonds/status/2099906094990508266)
 
-**The example:** [@Zobo_Konect on X](https://x.com/Zobo_Konect/status/2100470193377923466) · 0:04 video · 23 likes, 937 views
+**The example:** [@LorelDiamonds on X](https://x.com/LorelDiamonds/status/2099906094990508266) · 1 image · 0 likes, 2 views
 
-**Watch it:** [open the post on X](https://x.com/Zobo_Konect/status/2100470193377923466) · [play the video file](https://video.twimg.com/amplify_video/2100470158019944448/vid/avc1/320x568/dVH-hhCIZAYfLd0J.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/LorelDiamonds/status/2099906094990508266)
 
-> Day 17/30 Dear customer, 👀 You’ve been viewing my Zobo Konect, Coconut Garri & 4in1 Mix… 😂 My business is asking: “When are you placing that order?” 😅🛍️ Don’t just watch, support a small business today! ❤️ Send a DM and let’s do business! #GrowWithProsperians
+> The loveliest part of creating jewellery is hearing what it means to the person wearing it. 🤍 Thank you to our customer for sharing their experience. #LorelDiamonds #CustomerReview #FineJewellery
 
 ## What you are seeing
 
-A small food brand's playful "Dear customer" post: product pouches (4-in-1 mix) on a shelf with a cheeky message to customers who keep viewing but not buying.
+A fine-jewellery brand's thank-you post: a customer's hand wearing her ring next to flowers and the note she sent about what the piece means to her. The caption: "The loveliest part of creating jewellery is hearing what it means to the person wearing it. Thank you to our customer for sharing their experience."
 
-## Beat by beat
+## Image by image
 
-The storyboard above samples the video every 0:00. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+| Image | Text on it (OCR, rough) |
+|---|---|
+| 1 | ht a 3, carat ring for it was see! Dg ta eS fi and Tt was a hal if size too big was. simple but the ee ee both absolutely and love the a git, bale sae anti I, 72 |
 
-| Frame | Time | On screen | Said / sung |
-|---|---|---|---|
-| 1 | 0:00–0:00 | · | · |
-| 2 | 0:00–0:01 | · | · |
-| 3 | 0:01–0:02 | IM eR tt | · |
-| 4 | 0:02–0:03 | GLOBAL Taste OC IM SF. COG NUT, MiLK Ww eo ws Enterprise ae Estate. al Lagos Sta te fa | · |
-| 5 | 0:03–0:03 | · | · |
-| 6 | 0:03–0:04 | · | · |
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@E_S_Collectible](example/more/2082178074108637387.jpg)](https://x.com/E_S_Collectible/status/2082178074108637387)<br>**@E_S_Collectible** · 0:07 video · 3K views<br>Huge shoutout to our customer @GamecockCards for creating these two incredible custom 3D cards! The detail and depth look amazing in person. Please ch | [![@Nate_Google_](example/more/2090789562121359452.jpg)](https://x.com/Nate_Google_/status/2090789562121359452)<br>**@Nate_Google_** · image · 23K views<br>this is a PRIME EXAMPLE of why native style creative wins 600k views on this article post in 5 hours nobody scrolls past a handwritten note on a cup. | [![@envyofyibo](example/more/2095707442294448570.jpg)](https://x.com/envyofyibo/status/2095707442294448570)<br>**@envyofyibo** · image · 2K views<br>Lanqin Lozenges Weibo "Lanqin Lozenges's Monkey Lily suddenly disappeared last night!! We found a handwritten note on his workstation. 🔍 It said he wa |
 
 ## How to make one like it
 
@@ -35,26 +36,18 @@ The storyboard above samples the video every 0:00. Lines are the transcript for 
 
 ### 1. Copy the structure
 
-Use the example's timing as your beat sheet. Keep the beat, change the words and the product.
-
-| Beat | Time | In the example | Your version |
-|---|---|---|---|
-| 1 | 0:00 | (visual beat, see frame 1) | … |
-| 2 | 0:01 | (visual beat, see frame 2) | … |
-| 3 | 0:01 | on screen: IM eR tt | … |
-| 4 | 0:02 | on screen: GLOBAL Taste OC IM SF. COG NUT, MiLK Ww eo ws Enterprise ae Estate. al Lagos Sta te fa | … |
-| 5 | 0:03 | (visual beat, see frame 5) | … |
-| 6 | 0:04 | (visual beat, see frame 6) | … |
+The skeleton every version follows: **hook → problem or tension → turn (the product shows up) → proof → one clear ask.** The shot-by-shot below fills it in.
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Static or 15-30s video
+**Target length / size:** Static 1080x1350 or a 15-25s video
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Customer's own photo or video | "Thank you, Maria." |
-| 2 | 3-15s | What she did, in her words | "a whole summer of sea swims" |
-| 3 | End | Product | Soft CTA |
+| 1 | 0-3s / image | The customer's own photo or clip (wearing the piece), with permission | Text: "Thank you, Maria." |
+| 2 | 3-12s | Her words, quoted verbatim on screen or read by the founder | "I wore it every day of my mum's last summer. It's the one thing I never take off now." |
+| 3 | 12-18s | Founder to camera, a short genuine reply | "This is why we make it waterproof." |
+| 4 | End | Product in the photo + soft CTA | "The Mae Necklace. Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -76,10 +69,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Consent**
+**Consent ask**
 
 ```text
-Ask permission and her story in her words; offer credit.
+DM: "Your message made our week. Would you be OK with us sharing your photo and words in a thank-you post and ads? We'll credit you however you like."
+```
+
+**Copy (Claude)**
+
+```text
+Write a 40-word thank-you caption that quotes the customer verbatim and adds one sentence from the founder; no sales language until the last line.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -123,8 +122,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Consent from the customer is required.
-- The featured example is a cheeky "dear customer" post from a small brand.
+- Explicit consent from the customer is required for ads.
+- Never polish or rewrite her words.
+- Don't use grief or sensitive stories without the customer's clear OK.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

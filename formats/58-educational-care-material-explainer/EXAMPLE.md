@@ -38,6 +38,15 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@taye_afola19505](example/more/2077796327887450475.jpg)](https://x.com/taye_afola19505/status/2077796327887450475)<br>**@taye_afola19505** · 0:44 video · 908 views<br>Built a premium advertorial experience for @KYOM combining emotional storytelling, educational content, social proof, and conversion-focused design to | [![@Bogzabs96](example/more/2096280202103927187.jpg)](https://x.com/Bogzabs96/status/2096280202103927187)<br>**@Bogzabs96** · 0:21 video · 1K views<br>There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. | [![@didicoding](example/more/2088172069703852134.jpg)](https://x.com/didicoding/status/2088172069703852134)<br>**@didicoding** · 0:10 video · 121 views<br>Most business owners are using AI to write captions. But AI can now help you create: - Product videos - Promotional videos - Ads - Brand stories - Edu |
+| [![@framesbysalman](example/more/2075809251919110498.jpg)](https://x.com/framesbysalman/status/2075809251919110498)<br>**@framesbysalman** · 16:15 video · 339 views<br>From founders and creators to brand owners, everyone is building their personal brand through: Educational content Vlogs Entertaining videos Launch co |   |   |
+
 ## How to make one like it
 
 **The format in one line:** Teach a jewelry-care or materials lesson — how to clean gold at home, what "gold-plated vs vermeil vs PVD" means, which metals are safe for sensitive skin, how to store fine chains — with the LC piece as the example. Runs as Reels, carousels or Story tap-throughs; paid as MOF trust-builder.
@@ -63,13 +72,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** Carousel 6-8 slides or 30-60s video
+**Target length / size:** 5-7 slide carousel or a 30-45s video
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s / cover | Expert or creator | "Why your gold jewelry turns green (and how to stop it)" |
-| 2 | Middle | Diagram of plating vs PVD, care steps | Clear, factual |
-| 3 | End | Product as the low-effort option | CTA |
+| 1 | Slide 1 | Tarnished chain next to a bright one | "Why gold jewellery tarnishes (and how to stop it)" |
+| 2 | Slide 2 | Diagram: plating vs PVD layers | "Plating is a coat. PVD is bonded." |
+| 3 | Slide 3 | Care list | "Do: rinse and dry. Don't: bleach, chlorine for hours." |
+| 4 | Slide 4 | Metal guide | "Which metal for sensitive skin?" |
+| 5 | Slide 5 | Save prompt | "Save this for later." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -98,7 +109,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Claude**
 
 ```text
-Write a factual explainer about why plated jewelry tarnishes and how PVD bonding differs; cite general material facts only; 6 slides, max 25 words each.
+Write a care-guide carousel for [material], 5 slides, every claim checkable; include a short "what to avoid" list.
+```
+
+**Design**
+
+```text
+Clean educational layout, numbered slides, one diagram.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -143,8 +160,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Get the material facts right; this is education.
-- No health claims about metals unless substantiated.
+- Care advice must be accurate; don't say "never tarnishes".
+- Hypoallergenic claims need evidence.
+- Make it worth saving, not a disguised ad.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

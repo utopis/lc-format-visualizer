@@ -1,8 +1,39 @@
 # 95 · Visual-diagnosis roll-call ('This is X. This is X. That's X.' symptom montage → hidden cause): see it, then make it
 
-![Illustrative mock of the format](example/mock.png)
+[![The example: storyboard of @thousif_maker's post](example/storyboard.jpg)](https://x.com/thousif_maker/status/2107161552377819648)
 
-> **No clean public example yet.** This is an illustrative mock of the format, not a real ad. The closest real posts are in [examples/](examples/README.md); swap a real one in here when you find it.
+**The example:** [@thousif_maker on X](https://x.com/thousif_maker/status/2107161552377819648) · 0:57 video · 0 likes, 76 views
+
+**Watch it:** [open the post on X](https://x.com/thousif_maker/status/2107161552377819648) · [play the video file](https://video.twimg.com/ext_tw_video/2107161508329279488/pu/vid/avc1/320x568/_DMzPmGJ29q_yMOQ.mp4?tag=12)
+
+> JustFit ($300K+/month) launched this ad 10 days ago. It's trending. A trainer points at a woman's body: "this is stress belly." Then: the fix isn't the gym. It's a workout game you play in bed. Complete breakdown of their ads & acquisition tactic below 👇
+
+## What you are seeing
+
+A fitness-app ad that opens like a body diagnosis: a trainer stands behind a woman and points at her stomach, caption "All plus-size girls need to do this to get rid of belly fat". It then cuts to an app screen ('Lazy easy workout') with a short routine list while a woman does the moves on a bed. The format points at a visible sign, names its cause, then shows the fix.
+
+## Beat by beat
+
+The storyboard above samples the video every 0:07. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+
+| Frame | Time | On screen | Said / sung |
+|---|---|---|---|
+| 1 | 0:00–0:07 | · | This is hormone back and this is sitting all day legs and this is stress belly. The best way to fix them isn't go to the gym. |
+| 2 | 0:07–0:14 | · | All you need to do this workout game routine at home every single day. |
+| 3 | 0:14–0:21 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 50 PINCH ey a ea a eS FT La | · |
+| 4 | 0:21–0:28 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 110 VA ee. es af Di ee aT gp foe | · |
+| 5 | 0:28–0:36 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 180 OF nw CC ae Nt ae a a a a Ig | · |
+| 6 | 0:36–0:43 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: PR yo BI ve Fe er Ay as a cain ge a ae il aa ee  | · |
+| 7 | 0:43–0:50 | SUPER EASY WORKOUT Pelvic Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 840 ce oS ia les aa Wh Ca a on AF ae TI | · |
+| 8 | 0:50–0:57 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score SE 875 ce NW el Le Wi if Ws go sO a Sa Gk LF CP h | · |
+
+<details><summary>Full transcript (timestamped)</summary>
+
+- `0:00` This is hormone back and this is sitting all day legs and this is stress belly.
+- `0:05` The best way to fix them isn't go to the gym.
+- `0:07` All you need to do this workout game routine at home every single day.
+
+</details>
 
 ## How to make one like it
 
@@ -14,17 +45,31 @@
 
 ### 1. Copy the structure
 
-The skeleton every version follows: **hook → problem or tension → turn (the product shows up) → proof → one clear ask.** The shot-by-shot below fills it in.
+Use the example's timing as your beat sheet. Keep the beat, change the words and the product.
+
+| Beat | Time | In the example | Your version |
+|---|---|---|---|
+| 1 | 0:03 | This is hormone back and this is sitting all day legs and this is stress belly. The best way to fix them isn't go to the gym. | … |
+| 2 | 0:10 | All you need to do this workout game routine at home every single day. | … |
+| 3 | 0:18 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 50 PINCH | … |
+| 4 | 0:25 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 110 VA ee | … |
+| 5 | 0:32 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 180 OF n | … |
+| 6 | 0:39 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: PR yo BI | … |
+| 7 | 0:47 | on screen: SUPER EASY WORKOUT Pelvic Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 840 ce oS ia le | … |
+| 8 | 0:54 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score SE 875 ce | … |
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 15-30s
+**Target length / size:** 15-30s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-10s | Rapid montage of everyday annoyances, same caption each time | "This is cheap plating. This is cheap plating." |
-| 2 | 10-20s | The fix | Product |
-| 3 | End | - | CTA |
+| 1 | 0-2s | Close-up: a green mark on a finger | Big caption: "This is cheap plating." |
+| 2 | 2-4s | A flaking chain on a neck | "This is cheap plating." |
+| 3 | 4-6s | A dull, scratched bracelet | "That's cheap plating." |
+| 4 | 6-9s | Hard stop on a black frame | "It's not your skin. It's the metal." |
+| 5 | 9-18s | The fix: PVD stack in the shower, then in the sea | "14K PVD over stainless steel. Nothing to wear off." |
+| 6 | End | Offer | "Any 7 for $85." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -52,7 +97,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Edit**
 
 ```text
-Cut every 1.5s, identical caption style on each clip, then a hard stop before the fix.
+Cut every 1.5-2s, identical caption style and position on each "this is" clip, a beat of silence before the turn, then music in.
+```
+
+**Sourcing**
+
+```text
+Use real photos of real wear (team or customers with permission); no makeup-faked damage.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -99,8 +150,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- No medical-diagnosis framing.
-- No clean public example was found; the visual is an illustrative mock.
+- No medical diagnosis framing ("this is an allergy").
+- Use only real examples of wear.
+- Keep the montage short; three examples is enough.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

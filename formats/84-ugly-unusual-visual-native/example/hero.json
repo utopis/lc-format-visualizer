@@ -15,6 +15,7 @@
  "likes": 61,
  "views": 8537,
  "seen": "A man in a lab-like room holding a big water bottle with a goofy caption (\"Revealing my greatest invention\"), swinging it around, a cheap and odd look that stops the scroll, 32M views.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:03",
@@ -55,6 +56,26 @@
    "t": "0:52",
    "said": "You will be hydrated",
    "ocr": "EE AJ fi Ae"
+  }
+ ],
+ "more": [
+  {
+   "id": "2107184145541853536",
+   "author": "FedotOff90",
+   "url": "https://x.com/FedotOff90/status/2107184145541853536",
+   "thumb": "example/more/2107184145541853536.jpg",
+   "kind": "image",
+   "cap": "\"The ugly ads print\" \u2014 weird visuals stop the scroll, long copy sells; 122-ad Native Unusual Visuals board.",
+   "views": 4678
+  },
+  {
+   "id": "2089448804676239424",
+   "author": "Simon__Rob",
+   "url": "https://x.com/Simon__Rob/status/2089448804676239424",
+   "thumb": "example/more/2089448804676239424.jpg",
+   "kind": "1:27 video",
+   "cap": "this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats co",
+   "views": 4883
   }
  ]
 }

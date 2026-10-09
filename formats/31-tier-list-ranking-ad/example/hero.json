@@ -15,6 +15,7 @@
  "likes": 0,
  "views": 21,
  "seen": "A creator holding a printed tier list (S/A/B/C/D) and ranking popular side hustles one card at a time, with captions, ending on the product he places at the top (an Ecom Degree signup page).",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,17 @@
    "t": "0:43",
    "said": "how people are selling a Walmart step-by-step called eCom degree. So if you've been wanting to start a side hustle definitely check this one",
    "ocr": "Check out Degree today Degree ed The Simplest Way to Build Profitable Walmart Business in 2026 28K: month"
+  }
+ ],
+ "more": [
+  {
+   "id": "2095208948764668068",
+   "author": "adswithcami",
+   "url": "https://x.com/adswithcami/status/2095208948764668068",
+   "thumb": "example/more/2095208948764668068.jpg",
+   "kind": "image",
+   "cap": "I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best",
+   "views": 1884
   }
  ]
 }

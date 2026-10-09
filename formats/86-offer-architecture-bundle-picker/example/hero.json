@@ -4,16 +4,96 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/FedotOff90/status/2094854572623675832",
- "author": "FedotOff90",
- "type": "images",
- "duration": 0,
- "mp4": null,
- "w": null,
- "h": null,
+ "url": "https://x.com/mattepstein/status/1840692048787042431",
+ "author": "mattepstein",
+ "type": "video",
+ "duration": 29,
+ "mp4": "https://video.twimg.com/ext_tw_video/1840692007896850432/pu/vid/avc1/320x568/yqHoGtQqpViV5RfB.mp4?tag=12",
+ "w": 720,
+ "h": 1280,
  "via_quote": false,
- "likes": 175,
- "views": 47112,
- "seen": "An advertorial lander styled like an expert article: \"I Tested 5 Hair Loss Treatments. Only One Earned My Recommendation.\" by a doctor in a white coat, with a CTA button. It shows the page the offer stack sends traffic to.",
- "beats": []
+ "likes": 2,
+ "views": 709,
+ "seen": "A UGC ad that sends people straight to a build-your-own-bundle page: it opens on the store's 'massive BOGO sale' bundle page, then a creator shows the sunscreen products on her skin and around the house, ending on a stack of products and \"Click below to BOGO\".",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:01",
+   "said": "Carpe's having a massive buy one, get one sale. These products use skin safe ingredients,",
+   "ocr": "By Body Part Sweat Quiz Build Your Bundle Best Sellers is having a MASSIVE sale Instant Matte Setting Mist Setting Powde"
+  },
+  {
+   "t": "0:05",
+   "said": "These products use skin safe ingredients, a dermatologist tested and a viral on TikTok for a reason.",
+   "ocr": ""
+  },
+  {
+   "t": "0:09",
+   "said": "a dermatologist tested and a viral on TikTok for a reason. My hair is dry and I usually get soft and wet on the nights of fun.",
+   "ocr": ""
+  },
+  {
+   "t": "0:12",
+   "said": "My hair is dry and I usually get soft and wet on the nights of fun. I pay extra money to have this shipped to South Korea. You know why?",
+   "ocr": "money to have this ship to South Korea"
+  },
+  {
+   "t": "0:16",
+   "said": "I pay extra money to have this shipped to South Korea. You know why? Because it works. Everyone has been telling me to try Carpe.",
+   "ocr": "because it works"
+  },
+  {
+   "t": "0:19",
+   "said": "Everyone has been telling me to try Carpe. They've sold out before and they will sell out again. If you're still on the fence,",
+   "ocr": ""
+  },
+  {
+   "t": "0:23",
+   "said": "If you're still on the fence, they have a risk-free money-back guarantee. There is no better time to try Carpe.",
+   "ocr": "fi oo Pi: rg oy rh"
+  },
+  {
+   "t": "0:26",
+   "said": "There is no better time to try Carpe. Link the link below to get yours today.",
+   "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "1891876658027823589",
+   "author": "andrewdilullo",
+   "url": "https://x.com/andrewdilullo/status/1891876658027823589",
+   "thumb": "example/more/1891876658027823589.jpg",
+   "kind": "image",
+   "cap": "New offer \u2192 Build your own bundle. Instead of a single product, we introduced a \u201cBuy More, Save More\u201d option. Customers could mix and match flavors, c",
+   "views": 30
+  },
+  {
+   "id": "1870738559134581077",
+   "author": "CORSETDEAL",
+   "url": "https://x.com/CORSETDEAL/status/1870738559134581077",
+   "thumb": "example/more/1870738559134581077.jpg",
+   "kind": "0:25 video",
+   "cap": "\u2728 Big Savings Alert! \u2728 \ud83d\udd25 Bundle & Save: Pick any 3 for $99 \u2013 Style, comfort, and elegance in one irresistible offer! \ud83d\udd25 Flat 40% OFF: Treat yourself to",
+   "views": 15
+  },
+  {
+   "id": "2094854572623675832",
+   "author": "FedotOff90",
+   "url": "https://x.com/FedotOff90/status/2094854572623675832",
+   "thumb": "example/more/2094854572623675832.jpg",
+   "kind": "image",
+   "cap": "6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) \u2014 53-format lander database.",
+   "views": 47112
+  },
+  {
+   "id": "2098456656711467183",
+   "author": "ArijanJanes",
+   "url": "https://x.com/ArijanJanes/status/2098456656711467183",
+   "thumb": "example/more/2098456656711467183.jpg",
+   "kind": "image",
+   "cap": "We changed our offer and got a $20 better AOV with roughly the same CVR... All while sending LESS items to the customer. Version 1: - Highest AOV opti",
+   "views": 4071
+  }
+ ]
 }

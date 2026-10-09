@@ -15,5 +15,26 @@
  "likes": 127,
  "views": 4786,
  "seen": "Four diagram-style statics: a this-vs-that comparison with the product against a rival, a red X versus a green check table, and a \"NO WONDER EVERY STEP HURTS\" anatomy visual. Each one makes the argument with a simple chart instead of a lifestyle photo.",
- "beats": []
+ "match": "exact",
+ "beats": [],
+ "more": [
+  {
+   "id": "2088266872194023737",
+   "author": "EiyanDickerson",
+   "url": "https://x.com/EiyanDickerson/status/2088266872194023737",
+   "thumb": "example/more/2088266872194023737.jpg",
+   "kind": "images",
+   "cap": "4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat\u2600\ufe0f https://t.co/jmYh",
+   "views": 9226
+  },
+  {
+   "id": "2090399839309738284",
+   "author": "ultimategrafiks",
+   "url": "https://x.com/ultimategrafiks/status/2090399839309738284",
+   "thumb": "example/more/2090399839309738284.jpg",
+   "kind": "image",
+   "cap": "I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea",
+   "views": 179
+  }
+ ]
 }

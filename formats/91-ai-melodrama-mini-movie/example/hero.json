@@ -15,6 +15,7 @@
  "likes": 1,
  "views": 62,
  "seen": "An AI live-action melodrama (Smooche): a woman at an ID-photo desk being told she looks old (\"in this photo\", \"what did you do?\"), office scenes with colleagues, and the product only appearing around 1:54.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:11",
@@ -55,6 +56,62 @@
    "t": "2:45",
    "said": "That's how confident they are you ladies enjoy now. Thank you Smooch reverse time serum you may want to update your ID photo once you start ",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2104589798208065796",
+   "author": "0xROAS",
+   "url": "https://x.com/0xROAS/status/2104589798208065796",
+   "thumb": "example/more/2104589798208065796.jpg",
+   "kind": "2:23 video",
+   "cap": "100% AI drama ad (Seedance): turn the winning ad into a 2-3 min story; Resilia hooks: cheating husband/wife, compared to another girl.",
+   "views": 22578
+  },
+  {
+   "id": "2101705439565979947",
+   "author": "SGradon",
+   "url": "https://x.com/SGradon/status/2101705439565979947",
+   "thumb": "example/more/2101705439565979947.jpg",
+   "kind": "0:40 video",
+   "cap": "In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here'",
+   "views": 2133
+  },
+  {
+   "id": "2100612079891755286",
+   "author": "tryatria_AI",
+   "url": "https://x.com/tryatria_AI/status/2100612079891755286",
+   "thumb": "example/more/2100612079891755286.jpg",
+   "kind": "2:59 video",
+   "cap": "AI ANIMATED STORYTELLING ADS SHOULDN\u2019T WORK THIS WELL. BUT THEY DO. \ud83d\udc40 Cartoon characters. Dramatic storylines. Pixar-style animation. Ridiculous plot ",
+   "views": 10893
+  },
+  {
+   "id": "2108191928923881782",
+   "author": "AdamKPx",
+   "url": "https://x.com/AdamKPx/status/2108191928923881782",
+   "thumb": "example/more/2108191928923881782.jpg",
+   "kind": "0:30 video",
+   "cap": "AI Drama Ads are crushing it right now. And Arcads makes them ridiculously easy to create. People don\u2019t want to watch ads. They want stories. Characte",
+   "views": 280
+  },
+  {
+   "id": "2107188290264740348",
+   "author": "0xROAS",
+   "url": "https://x.com/0xROAS/status/2107188290264740348",
+   "thumb": "example/more/2107188290264740348.jpg",
+   "kind": "0:25 video",
+   "cap": "100% AI Drama Ad with Seedance 2.5... module is live inside ai ads community here\u2019s how to make sure your dramas hit: - start with a very aggressive h",
+   "views": 8849
+  },
+  {
+   "id": "2100587035786715295",
+   "author": "whotanish",
+   "url": "https://x.com/whotanish/status/2100587035786715295",
+   "thumb": "example/more/2100587035786715295.jpg",
+   "kind": "4:33 video",
+   "cap": "All the big brands have already catching up too the AI drama ads . users have organically have been watching the micro dramas for really long It has b",
+   "views": 2121
   }
  ]
 }

@@ -18,6 +18,15 @@ An infographic of an abandoned-cart flow: "Abandoned Cart Flows" with a phone sh
 |---|---|
 | 1 | E-COMMERCE AUTOMATION Simple 4-Step Flow That Works! Abandoned HOUR FIRST REMINDER gentle nudge about Cart Flows: their forgotten cart. nets on. oy 24 HOURS The right message. SOCIAL PROOF At the right time. Show benefits, reviews, Brings them and and build trust. revenue back. Forgot something? We  |
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@NickyFiorentino](example/more/1904794555633070330.jpg)](https://x.com/NickyFiorentino/status/1904794555633070330)<br>**@NickyFiorentino** · image · 90 views<br>A clean, simple retargeting ad for the Carnivore Box. | [![@FedotOff90](example/more/1837151672797216904.jpg)](https://x.com/FedotOff90/status/1837151672797216904)<br>**@FedotOff90** · image · 3K views<br>Find out why this Manscaped retargeting ad generates $200k+/mo 🧵 | [![@ZacGawn](example/more/2098111904082460674.jpg)](https://x.com/ZacGawn/status/2098111904082460674)<br>**@ZacGawn** · image · 32 views<br>This morning's retargeting ad |
+| [![@marcobatt](example/more/1717565246674743387.jpg)](https://x.com/marcobatt/status/1717565246674743387)<br>**@marcobatt** · 0:15 video · 432 views<br>3 reasons why I love this ad format # US vs THEM 1. It's the perfect retargeting creative (works 95% of the times) 2. You can communicate your USP 3. | [![@zakburgers](example/more/2080407812891455789.jpg)](https://x.com/zakburgers/status/2080407812891455789)<br>**@zakburgers** · image · 1K views<br>II find it kinda crazy when I onboard brands that are doing 7 figs a month and they don't have email flows Just imagine the math behind email sales Sa |   |
+
 ## How to make one like it
 
 **The format in one line:** A planned sequence of short reminder creatives for people who already showed intent, each matched to their moment: cart abandoners (the exact piece), bundle-incomplete ("you've picked 4 — 3 more for the same $85"), event countdowns (shipping cutoff), back-in-stock, post-purchase cross-sell (matching huggies).
@@ -32,15 +41,15 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 4-6 short creatives mapped to moments
+**Target length / size:** Sequence of 3-5 retargeting ads over 14 days
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 1 hour | The exact item left in cart | "Forgot something?" |
-| 2 | 24 hours | Social proof | Review |
-| 3 | 48 hours | Incentive (only if margin allows) | Free gift / shipping |
-| 4 | 7 days | New angle | Different hook |
-| 5 | Back in stock | Waitlist audience | "It's back" |
+| 1 | Day 1-3: reminder | Product the person viewed, plain | "Still thinking about the Mae Necklace?" |
+| 2 | Day 4-7: proof | Review card for that product | "4.8 stars. 'I never take it off.'" |
+| 3 | Day 8-10: objection | Water test clip | "Yes, you can shower in it." |
+| 4 | Day 11-14: offer | Bundle offer | "Make it 7 for $85." |
+| 5 | Back-in-stock | Separate audience: waitlist | "It's back." |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -70,7 +79,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Meta**
 
 ```text
-Advantage+ catalog for cart abandoners (dynamic), plus 3 static audiences by recency (1-3, 4-7, 8-30 days) with frequency caps.
+Audiences: viewed product 1-3d, 4-7d, 8-14d excluding purchasers; one ad per window; frequency cap 2/day.
+```
+
+**Catalog**
+
+```text
+Use dynamic product ads for the reminder step so the exact product shows.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -112,8 +127,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Too many discounts train people to abandon carts.
-- Cap frequency.
+- Exclude purchasers.
+- Don't chase people for months; 14-30 days is enough.
+- Match the product shown to what they viewed.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

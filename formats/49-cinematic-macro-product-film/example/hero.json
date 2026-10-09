@@ -15,6 +15,7 @@
  "likes": 0,
  "views": 1,
  "seen": "An AI-generated cinematic jewelry commercial: a macro of an emerald, a velvet box opening, white-gloved hands lifting the ring, a hand reveal, and the box closing for the final shot. No people, just light, texture and slow camera moves.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:00",
@@ -45,6 +46,53 @@
    "t": "0:09",
    "said": "",
    "ocr": "Comment RING I'll share the prompt with you."
+  }
+ ],
+ "more": [
+  {
+   "id": "2086324982892605618",
+   "author": "rirahcreates",
+   "url": "https://x.com/rirahcreates/status/2086324982892605618",
+   "thumb": "example/more/2086324982892605618.jpg",
+   "kind": "0:10 video",
+   "cap": "AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum",
+   "views": 454
+  },
+  {
+   "id": "2080581505441480774",
+   "author": "Balentin_J",
+   "url": "https://x.com/Balentin_J/status/2080581505441480774",
+   "thumb": "example/more/2080581505441480774.jpg",
+   "kind": "0:15 video",
+   "cap": "&gt; What if a familiar kitchen moment could become a product story? \ud83e\udd64 I explored that idea by reimagining the Vitamix A3500 as the centerpiece of a f",
+   "views": 2958
+  },
+  {
+   "id": "2104226192085987378",
+   "author": "alohaproxy",
+   "url": "https://x.com/alohaproxy/status/2104226192085987378",
+   "thumb": "example/more/2104226192085987378.jpg",
+   "kind": "1:04 video",
+   "cap": "Every founder wants to see their product here\ud83d\udc51 Ankon AI is currently at HOF on HopUp. I thought that deserved more than a leaderboard card......So I t",
+   "views": 781
+  },
+  {
+   "id": "2077709443165507626",
+   "author": "gptproto",
+   "url": "https://x.com/gptproto/status/2077709443165507626",
+   "thumb": "example/more/2077709443165507626.jpg",
+   "kind": "0:15 video",
+   "cap": "Can AI create luxury brand advertisements? This fragrance commercial was created with AI. Workflow: \ud83d\uddbc\ufe0f GPT Image 2 \u2192 storyboard &amp; visual concept \ud83c\udfac",
+   "views": 526
+  },
+  {
+   "id": "2088473026098774492",
+   "author": "Imagvio_AI",
+   "url": "https://x.com/Imagvio_AI/status/2088473026098774492",
+   "thumb": "example/more/2088473026098774492.jpg",
+   "kind": "0:21 video",
+   "cap": "Your weekend challenge starts now. \ud83c\udfac We created this entire cinematic product ad with Imagvio AI \u2014 from the luxury store to the product reveal, ingred",
+   "views": 195
   }
  ]
 }

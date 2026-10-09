@@ -16,10 +16,12 @@ added: 2026-10-08 (wave 2)
 # 66 · Interactive gesture add-on ads (TikTok tap-to-reveal, shake-to-reveal, Super Like)
 
 <!-- HERO:START -->
-[![Featured example: @_deepakss_](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @ChrisHarihar](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/_deepakss_/status/2087895969157246985)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/ChrisHarihar/status/1703108334218297531)
 <!-- HERO:END -->
+
+
 
 
 

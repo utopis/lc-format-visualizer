@@ -24,6 +24,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Medium · hype risk: Med · cost $0-500 (AI or studio) · 2-6 h
 
 ## What it is

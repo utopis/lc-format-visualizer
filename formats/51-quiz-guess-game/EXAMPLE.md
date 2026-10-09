@@ -37,6 +37,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@syinsyon](example/more/1979373551137489020.jpg)](https://x.com/syinsyon/status/1979373551137489020)<br>**@syinsyon** · 1:00 video · 1.0M views<br>Can you guess how much this gold jewelry? | [![@SophieElodie](example/more/2010785671498383613.jpg)](https://x.com/SophieElodie/status/2010785671498383613)<br>**@SophieElodie** · 0:13 video · 93K views<br>I just weighed the stainless steel jewelry I wear every day. Guess how much it weighs? 😏⛓️ | [![@big_damola](example/more/1864240379110867128.jpg)](https://x.com/big_damola/status/1864240379110867128)<br>**@big_damola** · 0:38 video · 1K views<br>Guess the price of this jewelry 🌚 |
+
 ## How to make one like it
 
 **The format in one line:** Viewer or passerby is quizzed: "solid gold or $12 a piece?", "guess the price of this 7-piece stack". Participation hook; answer reveal = offer.
@@ -62,14 +70,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 20-40s, 1080x1920
+**Target length / size:** 30-60s, 1080x1920
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Creator holds up the piece | "Guess how much this necklace was." |
-| 2 | 3-15s | Close-ups; on-screen guesses ("$300?") | Builds suspense |
-| 3 | 15-25s | Reveal | "It's under $70." + why |
-| 4 | End | CTA | "link in bio" |
+| 1 | 0-3s | Street: host stops a passer-by, holds up a stacked wrist | "Guess how much this whole stack cost." |
+| 2 | 3-15s | Guesses: "$400?" "$250?" | Reactions on camera |
+| 3 | 15-25s | Reveal | "Seven pieces. $85." |
+| 4 | 25-40s | Passer-by puts it on | "Wait, and it's waterproof?" |
+| 5 | End | Offer | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -92,10 +101,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Street version**
+**Shoot**
 
 ```text
-Ask 10 people on the street to guess the price; film reactions; release forms.
+Handheld mic with logo, two phones (wide + close), signed releases from everyone shown.
+```
+
+**Variant**
+
+```text
+Weight version: "guess how much the stainless jewellery I wear every day weighs" (SophieElodie-style).
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -137,8 +152,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- The price must be the real price.
-- Do not compare to a fake "value".
+- Get releases from everyone on camera.
+- The reveal price must be the real price.
+- Don't fake guesses with actors without saying so.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

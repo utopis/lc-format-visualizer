@@ -61,6 +61,15 @@ The storyboard above samples the video every 0:17. Lines are the transcript for 
 
 </details>
 
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@kristian_jennin](example/more/2101352217089282066.jpg)](https://x.com/kristian_jennin/status/2101352217089282066)<br>**@kristian_jennin** · 31:13 video · 231K views<br>AI UGC looks fake because of a missing step (realism workflow video). | [![@zedmadeit](example/more/2107552798842003488.jpg)](https://x.com/zedmadeit/status/2107552798842003488)<br>**@zedmadeit** · 1:58 video · 20K views<br>Intentional AI ad system starting from brand/product/customer, visuals matched to script. | [![@eliasrrecom](example/more/2092612451623694388.jpg)](https://x.com/eliasrrecom/status/2092612451623694388)<br>**@eliasrrecom** · 1:26 video · 54K views<br>Realistic AI UGC ads tutorial. |
+| [![@ladprofit](example/more/2100960479577362499.jpg)](https://x.com/ladprofit/status/2100960479577362499)<br>**@ladprofit** · 0:12 video · 2K views<br>Seedance AI UGC page for Veterans Day: same B-roll, new hook each post, trending audio, comment-keyword link (comment-gated teardown). | [![@adamtaylorl](example/more/2089713928511345017.jpg)](https://x.com/adamtaylorl/status/2089713928511345017)<br>**@adamtaylorl** · images · 22K views<br>Hike Footwear ad 100% AI. | [![@CEO_Vlad](example/more/2108405736245952955.jpg)](https://x.com/CEO_Vlad/status/2108405736245952955)<br>**@CEO_Vlad** · 0:20 video · 21 views<br>Audio is what makes AI UGC feel real; one robotic sentence kills it. |
+
 ## How to make one like it
 
 **The format in one line:** A phone-selfie video of a "creator" talking to camera — bedroom, bathroom, car, kitchen — holding/wearing the product, 15-45s, casual captions. Sub-formats ranked by @CEO_Vlad: **S** podcast ad, talking head ("cleanest test of whether your angle works"), in-car ("reads private, cheapest to render well"); **A** street interview, multi-scene demo; **B** reply-to-comment overlay, split-screen day. Ex

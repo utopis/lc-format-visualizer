@@ -24,6 +24,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P3** · evidence: High (many large advertisers) · hype risk: High · cost $0-200 · ongoing
 
 ## What it is

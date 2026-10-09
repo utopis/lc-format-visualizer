@@ -15,6 +15,7 @@
  "likes": 13,
  "views": 33,
  "seen": "An agency's animated ad built from a real 1-star review (\"They left us a 1-star review. We turned it into an ad\"): a review card pops up, a hand on a laptop, an \"ADS\" dashboard, then a logo end card.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:01",
@@ -55,6 +56,17 @@
    "t": "0:16",
    "said": "",
    "ocr": "SM DIGITAL SYSTEMS"
+  }
+ ],
+ "more": [
+  {
+   "id": "2089528727445062001",
+   "author": "stephenfung_dev",
+   "url": "https://x.com/stephenfung_dev/status/2089528727445062001",
+   "thumb": "example/more/2089528727445062001.jpg",
+   "kind": "image",
+   "cap": "Results of buying this ad spot: 358 downloads (+29% week over week) $121.67 in revenue (+114% week over week) $62 in MMR (+75% week over week) 1 - 1 s",
+   "views": 4585
   }
  ]
 }

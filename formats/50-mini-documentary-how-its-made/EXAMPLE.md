@@ -33,6 +33,15 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 
 </details>
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@luisfelipebfr2](example/more/2101018997508669891.jpg)](https://x.com/luisfelipebfr2/status/2101018997508669891)<br>**@luisfelipebfr2** · 3:55 video · 166 views<br>Eskiin founder mini-VSL breakdown: vision-board open loop → problem → failed solutions → mechanism → product → mission → retire mom. | [![@rirahcreates](example/more/2086324982892605618.jpg)](https://x.com/rirahcreates/status/2086324982892605618)<br>**@rirahcreates** · 0:10 video · 454 views<br>AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum | [![@lorenzo_pravata](example/more/2079246318191403496.jpg)](https://x.com/lorenzo_pravata/status/2079246318191403496)<br>**@lorenzo_pravata** · 1:58 video · 5K views<br>Resilia ~8,000 ads, "$10-15M/month" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL. |
+| [![@BobG_Ecom](example/more/2094146716417069510.jpg)](https://x.com/BobG_Ecom/status/2094146716417069510)<br>**@BobG_Ecom** · image · 201 views<br>0 to 100k/mo profit with ecom - Day 9 Back in the green, but slowing down as we are experiencing supply chain issues. I’ve been in the process making | [![@Haariz23](example/more/2080054481853788591.jpg)](https://x.com/Haariz23/status/2080054481853788591)<br>**@Haariz23** · image · 743 views<br>A Small Creative Strategy Update. Ecom Bros & Creative Strategists Listen up. A brand came to me with ads that weren't converting. Same creatives. Sam |   |
+
 ## How to make one like it
 
 **The format in one line:** A 60-180s documentary-style piece: open loop, problem, failed solutions, mechanism (PVD bonding process), product, mission. Longer form for warm audiences and YouTube.
@@ -58,14 +67,15 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 45s-3min, 1080x1920
+**Target length / size:** 60-180s, 1080x1920 and 16:9
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-3s | Hands working on the product in the workshop | Hook caption: "would you give this as a gift?" |
-| 2 | 3-60s | Process close-ups in order (cut, shape, plate/bond, polish, QC) | VO or captions explain each step |
-| 3 | 60-90s | Packing, the finished piece | Mission line |
-| 4 | End | Product | Offer |
+| 1 | 0-10s | Founder voice over workshop B-roll | "I started Louise Carter because my mum's necklace turned her neck green on my wedding day." |
+| 2 | 10-50s | How it's made: steel core, PVD chamber, polishing | Simple explanation of each step |
+| 3 | 50-90s | Testing: sea, shower, sweat | "Every design spends a week in the sea before it goes on sale." |
+| 4 | 90-120s | Customers wearing it, the mission | "Jewellery you never have to take off." |
+| 5 | End | Offer | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -93,7 +103,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Shoot**
 
 ```text
-Macro + 1x, steady hands-only shots, ambient workshop sound kept, captions per step.
+Gimbal or handheld 4K 24fps, macro on materials, founder interview with a lav mic, two cameras if possible.
+```
+
+**Claude**
+
+```text
+Turn this founder interview transcript [paste] into a 2-minute mini-doc script: origin, how it's made, proof, mission.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -135,8 +151,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Only show your real process (or the factory's, with permission).
-- Do not imply handmade if it is not.
+- Only show the real process and real suppliers (with permission).
+- Keep the founder story true.
+- Make a 30s cut for paid.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

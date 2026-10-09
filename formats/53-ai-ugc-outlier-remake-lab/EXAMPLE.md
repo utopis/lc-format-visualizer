@@ -1,104 +1,61 @@
 # 53 · AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid): see it, then make it
 
-[![The example: storyboard of @0xDepressionn's post](example/storyboard.jpg)](https://x.com/0xDepressionn/status/2107918489587507606)
+[![The example: storyboard of @rathikrishnav's post](example/storyboard.jpg)](https://x.com/rathikrishnav/status/2056472046192951468)
 
-**The example:** [@0xDepressionn on X](https://x.com/0xDepressionn/status/2107918489587507606) · 31:13 video · 18 likes, 2K views
+**The example:** [@rathikrishnav on X](https://x.com/rathikrishnav/status/2056472046192951468) · 0:39 video · 0 likes, 49 views
 
-**Watch it:** [open the post on X](https://x.com/0xDepressionn/status/2107918489587507606) · [play the video file](https://video.twimg.com/amplify_video/2107905110638542848/vid/avc1/640x360/o2DfLCbNbZXHaZCY.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/rathikrishnav/status/2056472046192951468) · [play the video file](https://video.twimg.com/amplify_video/2056471845210324992/vid/avc1/540x540/7hZuUF7kzlbQ9iKP.mp4?tag=14)
 
-> the guy who scaled Cal AI just gave away the whole playbook... jake castillo ran UGC and influencer marketing at cal ai. the app hit 15M downloads, a $50M run rate and got bought by myfitnesspal now he wrote down how he would do it today, with AI creators instead of real ones the stack: claude code, apify, higgsfield and postiz the workflow in short: -> research your users first. AI can almost never have too much con…
+> We've cracked hyper-realistic AI UGC. Left is a real video. Right is 100% AI. We can now replicate any winning ad on the internet with AI. We've officially crossed the uncanny valley, and there's no going back. I'm genuinely sorry for the people sleeping on this.
 
 ## What you are seeing
 
-A long workflow video (about 29 minutes) of a creator walking through his AI-UGC remake process on screen: finding outlier videos, then remaking them with AI.
+A split-screen test: on the left the brand's real UGC ad ('REAL AD'), on the right an AI-generated remake ('OUR AI AD') with a different AI creator copying the same moves — holding the yellow skincare jar, applying it, reacting — beat for beat for about 40 seconds. The point: a winning ad can be cloned with AI to test new faces.
 
 ## Beat by beat
 
-The storyboard above samples the video every 3:54. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+The storyboard above samples the video every 0:04. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–3:54 | THERAPY cy a, YOU NEED TO WALK YOU THROUGH mm WEEK BY WEEK. PS ee | Okay, it's finally here. I'm gonna do the ARUGC video. I know a lot of you guys in Ecom Talent have been asking like how I managed to get my ARUGC to look so realistic. This is gonna be hopefully a relatively quick video. I'm not gonna waffle on. I'm gonna try and keep it quite concise. Basically, t |
-| 2 | 3:54–7:48 | · | is we really slow down and take our time to like analyze other winners, analyze the ads that we're iterating off. If it's a new idea, then you've still got to go and find like references of what you want your ad to look like. So this ad here was actually an iteration of a breakthrough. So I analyzed |
-| 3 | 7:48–11:42 | · | · |
-| 4 | 11:42–15:36 | ee ee ee Hy pete ns anne son seems a Il Il om Il HI Be Sm pe Lame mee nee aT | · |
-| 5 | 15:36–19:30 | · | · |
-| 6 | 19:30–23:24 | ann one Area sim ing MI ima teen ao tom moe ne ot ae out sue | · |
-| 7 | 23:24–27:18 | · | · |
-| 8 | 27:18–31:13 | · | · |
+| 1 | 0:00–0:05 | REAL AD OUR Al AD Ss Coa a 7% | If your deodorant is not infused with skincare, throw it out. |
+| 2 | 0:05–0:09 | REAL AD OUR Al AD el at an | Look at what MediCube just came out with. They came out with the deodorant with skincare with Kojik Acid and Turmeric. |
+| 3 | 0:09–0:14 | REAL AD OUR Al AD ol 1% a | So if you have those dark underarms, which most of us do, this is going to help lighten and brighten. |
+| 4 | 0:14–0:19 | REAL AD OUR Al AD So Ii Ne if | Please tell me why it took the girls 30 freaking years to figure out how to lighten their armpits. And no, it's not laser, okay? |
+| 5 | 0:19–0:24 | REAL AD OUR AI AD wv ee Ny a ad | This is literally after using these Kojik Acid Turmeric toner pads for like two weeks. Like the glow is insane. |
+| 6 | 0:24–0:29 | REAL AD OUR Al AD aa as AD | The dark spots, the texture, everything started fading. Like this is what I've been using. It's literally pre-soaked. |
+| 7 | 0:29–0:34 | REAL AD OUR Al AD a Ar fi Ms AD | You just swipe it on and you're done. And I swear this is the first thing that's actually worked without burning my skin off. |
+| 8 | 0:34–0:39 | REAL AD OUR Al AD we AO ae | Like my underarms used to look so uneven and now they're literally smooth and bright. Like when I say glass skin for your bo- |
 
 <details><summary>Full transcript (timestamped)</summary>
 
-- `0:00` Okay, it's finally here. I'm gonna do the ARUGC video. I know a lot of you guys in
-- `0:03` Ecom Talent have been asking like how I managed to get my ARUGC to look so realistic.
-- `0:08` This is gonna be hopefully a relatively quick video. I'm not gonna waffle on.
-- `0:12` I'm gonna try and keep it quite concise. Basically, this is my own personal workflow
-- `0:15` that I've developed. This is how I'm making my ARUGC look so realistic.
-- `0:19` And I'm just gonna give away all of my workflow and like cheat sheets and
-- `0:21` everything so that you can do the same. Here's how, how it's gonna work.
-- `0:24` First, I'm gonna show you some clips from some of the ARUGC I've done,
-- `0:27` some of the avatars, so that you can see for yourself how realistic it is and like why you
-- `0:31` should actually want to do it like this. Then I want to go through setup quickly,
-- `0:34` which applies to any ads. I want to show you how I set up my ads, like my storyboarding process
-- `0:40` and like,. How I come up with the logic and the ideas, but like why my ads look the way that they
-- `0:44` do. And then we're gonna get into the meaty stuff. I'm gonna show you my personal ARUGC workflow.
-- `0:49` Now, my ARUGC process is a bit different to any that you've seen in the past.
-- `0:53` Most people only show two of the steps, but I've got a third bonus step that I do at the beginning
-- `0:58` and it just completely changes everything. So let's get into it. So I'm gonna play it from
-- `1:03` the beginning because this hook had a really high hook rate, but I want you to focus on how
-- `1:06` realistic these avatars actually look. There's a line you could draw across the world map for
-- `1:11` hair loss. On one side, men go bald earlier and harder than anywhere else. On the other,
-- `1:16` guys hitting 50 with full heads of hair like it's nothing. My best friend grew up on the
-- `1:20` other side of that line. So one day I finally asked him straight, how the fuck do you still have
-- `1:25` all your hair? He looked at me like it was obvious. It's not just genetics. He told me about
-- `1:29` deutasteride. So that's one example. Let's take a look. How the fuck does my brother have a full
-- `1:34` head of hair while I'm balding at 30? Lucky son of a bitch. So I asked him straight,
-- `1:39` what the hell are you doing that I'm not? Nothing. He goes, same as you. We both started
-- `1:43` thinning at 27. We both went to a hair clinic. We both took what they gave us every
-- `1:48` day, except he's in Tokyo. Okay, let's quickly look at a third one. Seven and a half weeks is a
-- `1:53` long time to manage your TRT alone. TRT starts at $49 with access to real clinicians who help you
-- `2:00` find stability. Weeks one and two, your body is figuring out what's happening. The initial dosage
-- `2:06` at this point will need to be adjusted later on. But if there isn't any clinician monitoring
-- `2:10` your levels from the treatment will be off from day one. And then I just want to
-- `2:14` show you one more because I realized the three that I've shown you have all been guys. So
-- `2:17` this one's a woman. I moved to Switzerland last year with my lab, Millie, and immediately saw how
-- `2:22` their whole culture treats dogs like royalty. And no, it's not the dog food or the types of walks
-- `2:27` they're taking their dogs on. That's exactly the same as in America. Their dogs are just so
-- `2:33` happy. I also just want to quickly show you the end of this ad just to show you an example.
-- `2:36` But I typically also do a scene change in my ARUGC. So this is the same avatar now in a
-- `2:41` new position. Didn't like it. We had 60 days to return it and get every dollar back.
-- `2:45` So let's look at actually setting up the ad. Now the first thing I want to talk about is the
-- `2:49` script. Now if you're a video editor like me, then you're just given a script by your creative
-- `2:53` strategist. But even if you're not and you're doing the creative strategy yourself, regardless,
-- `2:58` it is the creative strategy that is going to dictate whether or not your ad is a winner. You
-- `3:03` could make the best, most realistic, most polished ARUGC you've ever seen. Hell, you could even use
-- `3:07` real UGC, but it is ultimately the script and the message behind your ad, which is going to
-- `3:12` dictate how well it does. The format can't save a bad script. Okay, next up, I want to talk
-- `3:17` about storyboarding. So it doesn't matter if it's an ARUGC. It doesn't matter if it's
-- `3:21` AI animation, doesn't matter if it's just like a classic B roll AI voiceover ad. Like
-- `3:25` whatever the ad is, the first thing I do before I even open Premiere Pro is I always storyboard.
-- `3:31` So my storyboards aren't pretty, like no one else is going to see them. But this is basically
-- `3:35` what I do. The first thing I do is I actually give myself a set of rules for the ad. And this
-- `3:40` is one of the reasons that we're performing at like a world class level at the agency
-- `3:44` is so many editors, even creative strategists, they just kind of rush into whatever they're
-- `3:48` doing. Like, yeah, I got it. Let's go. But this is how we have such a high hit rate at the agency
-- `3:53` is we really slow down and take our time to like analyze other winners, analyze the ads that we're
-- `3:58` iterating off. If it's a new idea, then you've still got to go and find like references of what
-- `4:02` you want your ad to look like. So this ad here was actually an iteration of a breakthrough.
-- `4:07` So I analyzed the breakthrough and I realized just like how slow and how calm the breakthrough
-- `4:12` ad was. So I took a lot of those principles and I kind of like analyzed it and understood it
-- `4:16` before I even got into storyboarding it. I just want to highlight this as well as like,
-- `4:19` as these are just notes to myself, but show what he's saying, kiss, which means keep it simple,
-- `4:24` stupid. I've spoken about this a little bit before, but that the ads that perform the best
-- `4:28` are not the crazy editor, really, really brain rot hyper fast pacing, tick tocky style videos,
-- `4:34` although they can be the videos that perform the best just deliver the message clearly.
-- `4:38` And that is your aim as a DTC video editor. Now all I do is I then take the script and I
-- `4:43` put it into a left column here. So I've got my three different hooks and then it starts onto the
-- `4:46` hold and then I go through and I basically come up with what I want to be shown on screen as
-- `4:52` the character says the line. These don't need to be Polish notes. They need to just be something
-- `4:56` that makes sense to you. One thing I do is cause I constantly just go back to the
+- `0:00` If your deodorant is not infused with skincare, throw it out.
+- `0:03` Look at what MediCube just came out with.
+- `0:06` They came out with the deodorant with skincare with Kojik Acid and Turmeric.
+- `0:09` So if you have those dark underarms, which most of us do,
+- `0:12` this is going to help lighten and brighten.
+- `0:14` Please tell me why it took the girls 30 freaking years to figure out how to lighten their armpits.
+- `0:18` And no, it's not laser, okay?
+- `0:19` This is literally after using these Kojik Acid Turmeric toner pads for like two weeks.
+- `0:23` Like the glow is insane.
+- `0:24` The dark spots, the texture, everything started fading.
+- `0:26` Like this is what I've been using.
+- `0:28` It's literally pre-soaked.
+- `0:29` You just swipe it on and you're done.
+- `0:30` And I swear this is the first thing that's actually worked without burning my skin off.
+- `0:34` Like my underarms used to look so uneven and now they're literally smooth and bright.
+- `0:38` Like when I say glass skin for your bo-
 
 </details>
+
+## More real examples (6)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@raph_guilhem](example/more/2095453949805392267.jpg)](https://x.com/raph_guilhem/status/2095453949805392267)<br>**@raph_guilhem** · 0:34 video · 391 views<br>Seedance 2.5 is insane for AI UGC. I built a Claude skill that takes an ad that's already converting and puts a new person in it. This is perfect for | [![@SimScaler](example/more/2034333069167984905.jpg)](https://x.com/SimScaler/status/2034333069167984905)<br>**@SimScaler** · 0:08 video · 1K views<br>You should be PRINTING with AI UGC right now You can reverse engineer any winning ad And recreate it in minutes with your own AI creator That's the ne | [![@angeldot_](example/more/2107913083783987306.jpg)](https://x.com/angeldot_/status/2107913083783987306)<br>**@angeldot_** · 0:18 video · 18K views<br>Cal AI scaled to 15M downloads before being acquired by MyFitnessPal now its co-founder just open-sourced the AI UGC workflow he wishes he had while b |
+| [![@ai_cult1](example/more/2092368368968049118.jpg)](https://x.com/ai_cult1/status/2092368368968049118)<br>**@ai_cult1** · 47:51 video · 49 views<br>Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months). | [![@N01ennn](example/more/2107887039513268301.jpg)](https://x.com/N01ennn/status/2107887039513268301)<br>**@N01ennn** · 0:12 video · 12K views<br>the person who ran UGC for Cal AI on its way to a $50M run rate just laid out how to run an AI UGC army for any app. this is pure f*cking treasure. so | [![@slash1sol](example/more/2107878663488188775.jpg)](https://x.com/slash1sol/status/2107878663488188775)<br>**@slash1sol** · 0:21 video · 9K views<br>THE CO-FOUNDER WHO RAN GROWTH AT CAL AI JUST LEAKED THE ENTIRE AI UGC PIPELINE. ONE PERSON, ZERO CREATORS, THOUSANDS OF TEST VIDEOS Cal AI went to 15M |
 
 ## How to make one like it
 
@@ -114,25 +71,26 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 1:57 | Okay, it's finally here. I'm gonna do the ARUGC video. I know a lot of you guys in Ecom Talent have been asking like how I managed to get my | … |
-| 2 | 5:51 | is we really slow down and take our time to like analyze other winners, analyze the ads that we're iterating off. If it's a new idea, then y | … |
-| 3 | 9:45 | (visual beat, see frame 3) | … |
-| 4 | 13:39 | on screen: ee ee ee Hy pete ns anne son seems a Il Il om Il HI Be Sm pe Lame mee nee aT | … |
-| 5 | 17:33 | (visual beat, see frame 5) | … |
-| 6 | 21:27 | on screen: ann one Area sim ing MI ima teen ao tom moe ne ot ae out sue | … |
-| 7 | 25:21 | (visual beat, see frame 7) | … |
-| 8 | 29:16 | (visual beat, see frame 8) | … |
+| 1 | 0:02 | If your deodorant is not infused with skincare, throw it out. Look at what MediCube just came out with. | … |
+| 2 | 0:07 | Look at what MediCube just came out with. They came out with the deodorant with skincare with Kojik Acid and Turmeric. | … |
+| 3 | 0:12 | So if you have those dark underarms, which most of us do, this is going to help lighten and brighten. | … |
+| 4 | 0:17 | Please tell me why it took the girls 30 freaking years to figure out how to lighten their armpits. And no, it's not laser, okay? | … |
+| 5 | 0:22 | This is literally after using these Kojik Acid Turmeric toner pads for like two weeks. Like the glow is insane. | … |
+| 6 | 0:27 | The dark spots, the texture, everything started fading. Like this is what I've been using. It's literally pre-soaked. You just swipe it on a | … |
+| 7 | 0:32 | You just swipe it on and you're done. And I swear this is the first thing that's actually worked without burning my skin off. | … |
+| 8 | 0:37 | Like my underarms used to look so uneven and now they're literally smooth and bright. Like when I say glass skin for your bo- | … |
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** A weekly workflow, not one asset
+**Target length / size:** System: weekly loop (find outliers → AI test → real remake → paid)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Find | Scrape outlier videos in the niche (3-10x the account's average) | - |
-| 2 | Test cheap | Remake 10 with AI UGC on organic accounts | - |
-| 3 | Promote winners | Re-shoot winners with real creators | - |
-| 4 | Scale | Put real-creator versions into paid | - |
+| 1 | Find | Pull outlier organic posts in the niche (10x the account's median views) | Sheet: link, hook, structure, views |
+| 2 | AI test | Remake 5 outliers with AI UGC (labelled) and post organically | Same hook and beats as the outlier |
+| 3 | Pick | Keep the 1-2 that beat the account median | - |
+| 4 | Real remake | Brief real creators to film the winners | Exact beat sheet from the AI version |
+| 5 | Paid | Run the real versions as paid; retire after fatigue | - |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -161,10 +119,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Outlier filter**
+**Outlier search**
 
 ```text
-From this list of videos [views, account avg], keep those with views > 5x the account average in the last 30 days; summarise the hook, structure and length of each.
+TikTok Creative Center / Foreplay: filter by niche, last 30 days, sort by views; keep posts at 10x the account median.
+```
+
+**AI remake (Arcads / Seedance)**
+
+```text
+Split-screen check: put the original and the AI remake side by side and match every beat before posting.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -210,8 +174,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Copy structure, never footage or scripts word for word.
-- Label AI content.
+- Label AI UGC.
+- Remake the structure, never copy someone's footage or exact script.
+- Kill AI tests fast; they are only for picking.
 - Changing the template every week: the system only learns if it stays consistent for at least 30 days.
 - No tracking: without one naming and UTM pattern you cannot tell which piece of the system works.
 

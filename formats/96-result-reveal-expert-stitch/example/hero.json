@@ -15,6 +15,7 @@
  "likes": 4,
  "views": 461,
  "seen": "A girl in a car talking to camera with bold yellow word-by-word captions (\"EUROPE THIS SUMMER\", \"DOING HIP THRUST\"): a result-reveal story told AI-UGC style.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:03",
@@ -55,6 +56,26 @@
    "t": "0:54",
    "said": "I got a run I'm about to go into work but if you want the rest of the baddie method comment I'm a baddie and I'll send it over to y'all",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "1668712653726859268",
+   "author": "HoIyJosee",
+   "url": "https://x.com/HoIyJosee/status/1668712653726859268",
+   "thumb": "example/more/1668712653726859268.jpg",
+   "kind": "0:24 video",
+   "cap": "This is my Mom after taking Lady Gaga\u2019s advice and getting the Nurtec\u00ae ODT (rimegepant) 75 mg shot\u2026 what\u2019s going on?!!\u2019 @ladygaga @pfizer",
+   "views": 917
+  },
+  {
+   "id": "2082416231353590174",
+   "author": "EvoBradley",
+   "url": "https://x.com/EvoBradley/status/2082416231353590174",
+   "thumb": "example/more/2082416231353590174.jpg",
+   "kind": "image",
+   "cap": "The #1 most viral format in entire ugc industry. Here are a few hits from past few days\u2026 Let me break it down for you; &gt; Stitch format: inherits tr",
+   "views": 1469
   }
  ]
 }

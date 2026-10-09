@@ -4,57 +4,69 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/M__Operators/status/2094809174907535497",
- "author": "M__Operators",
+ "url": "https://x.com/PowerbyMomBlog/status/1733284392045543691",
+ "author": "PowerbyMomBlog",
  "type": "video",
- "duration": 84,
- "mp4": "https://video.twimg.com/amplify_video/2094809085598105600/vid/avc1/640x360/kH_jok9QKii4zEwc.mp4?tag=29",
- "w": 1920,
- "h": 1080,
+ "duration": 24,
+ "mp4": "https://video.twimg.com/ext_tw_video/1733283825269252096/pu/vid/avc1/320x568/vHxBV9HhHe7FDUsT.mp4?tag=12",
+ "w": 1080,
+ "h": 1920,
  "via_quote": false,
- "likes": 11,
- "views": 747,
- "seen": "A podcast clip planning a Black Friday / holiday early launch: hosts at mics with green branded overlays and captions, 87 days out from Black Friday.",
+ "likes": 0,
+ "views": 309,
+ "seen": "A sponsored mom-blogger video (marked AD) for a personalised sterling silver heart locket: her daughter chose the photos, including their cat Ollie who died in July. Slow close-ups open the locket on a denim pouch next to purple flowers, and the post says it is on her Holiday Gift Guide. Emotional, gift-led and seasonal.",
+ "match": "exact",
  "beats": [
   {
-   "t": "0:05",
+   "t": "0:01",
    "said": "",
-   "ocr": ""
+   "ocr": "2. a Cal mt a 1. Oi 7, xp Mh Ss SS. Se eS SS Ss he we ae Se Ss Base ak AS oa a as: a. SEs aN ie ie"
   },
   {
-   "t": "0:15",
-   "said": "What should I be thinking about as I,",
-   "ocr": "St ey: ARE TAS ie"
-  },
-  {
-   "t": "0:26",
+   "t": "0:04",
    "said": "",
-   "ocr": "es in youre 4-"
+   "ocr": "Bare Tf es fy Se eS Sw a ee a aaa eT eS yo ea coe ae CON es ve oS SOS a SS So et. Br Sal ke"
   },
   {
-   "t": "0:36",
-   "said": "to not drive incremental results and be extremely happy with your outcome. You do like you do like you do like you do like you do like you d",
-   "ocr": ""
-  },
-  {
-   "t": "0:47",
+   "t": "0:07",
    "said": "",
-   "ocr": ""
+   "ocr": "as Le SS a, SS co ABs Yo ae WT SOS aA as CS SS ro cS M% a WO an tr a Tay el ab ae ee ee a me el"
   },
   {
-   "t": "0:57",
+   "t": "0:10",
    "said": "",
-   "ocr": ""
+   "ocr": "ss ee ty ok ek AL BS Same I Ae BABA ras a SS Se Nat SS ra. aa My C3 A. ot en, SS SS SS eS Ss SD WS SS a SS SS mS ee 4."
   },
   {
-   "t": "1:08",
+   "t": "0:13",
    "said": "",
-   "ocr": ""
+   "ocr": "ve ay 49 a"
   },
   {
-   "t": "1:18",
-   "said": "biggest sale so we just try to like",
-   "ocr": ""
+   "t": "0:16",
+   "said": "",
+   "ocr": "uk we ur a Bi gh AS land anil wit ty ww oy"
+  },
+  {
+   "t": "0:19",
+   "said": "",
+   "ocr": "ae a a 4m he rr. ost nC INC af A, by ANY 7:"
+  },
+  {
+   "t": "0:22",
+   "said": "",
+   "ocr": "yi ae ha a ed yee a. ay, a or ne are ay"
+  }
+ ],
+ "more": [
+  {
+   "id": "1997519250903482686",
+   "author": "sayuri_quietjp",
+   "url": "https://x.com/sayuri_quietjp/status/1997519250903482686",
+   "thumb": "example/more/1997519250903482686.jpg",
+   "kind": "0:30 video",
+   "cap": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u8d08\u308a\u7269\u306b\u3001 \u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u3092\u9078\u3093\u3067\u3082\u3089\u3044\u307e\u3057\u305f\ud83c\udf81\u2728 \u305f\u304f\u3055\u3093\u4e26\u3076\u5b9d\u77f3\u306e\u4e2d\u304b\u3089\u3001 \u300c\u3053\u308c\u304c\u4f3c\u5408\u3046\u3088\u300d\u3063\u3066\u8a00\u308f\u308c\u305f\u77ac\u9593\u304c \u3044\u3061\u3070\u3093\u8f1d\u3044\u3066\u3044\u305f\u6c17\u304c\u3057\u307e\u3059\u2026\ud83d\udc8e \u5927\u5207\u306a\u4eba\u3068\u3001\u5927\u5207\u306a\u6642\u9593\u3092 \u305d\u3063\u3068\u80f8\u306b\u3057\u307e\u3063\u3066\u3002 A special Christmas gift \u2014 a beautiful piece ",
+   "views": 5642
   }
  ]
 }

@@ -1,6 +1,62 @@
 {
  "id": "F95",
  "kind": "video",
- "mock": true,
- "poster": "example/mock.png"
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/thousif_maker/status/2107161552377819648",
+ "author": "thousif_maker",
+ "type": "video",
+ "duration": 58,
+ "mp4": "https://video.twimg.com/ext_tw_video/2107161508329279488/pu/vid/avc1/320x568/_DMzPmGJ29q_yMOQ.mp4?tag=12",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 0,
+ "views": 76,
+ "seen": "A fitness-app ad that opens like a body diagnosis: a trainer stands behind a woman and points at her stomach, caption \"All plus-size girls need to do this to get rid of belly fat\". It then cuts to an app screen ('Lazy easy workout') with a short routine list while a woman does the moves on a bed. The format points at a visible sign, names its cause, then shows the fix.",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:03",
+   "said": "This is hormone back and this is sitting all day legs and this is stress belly. The best way to fix them isn't go to the gym.",
+   "ocr": ""
+  },
+  {
+   "t": "0:10",
+   "said": "All you need to do this workout game routine at home every single day.",
+   "ocr": ""
+  },
+  {
+   "t": "0:18",
+   "said": "",
+   "ocr": "SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 50 PINCH"
+  },
+  {
+   "t": "0:25",
+   "said": "",
+   "ocr": "SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 110 VA ee"
+  },
+  {
+   "t": "0:32",
+   "said": "",
+   "ocr": "SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 180 OF n"
+  },
+  {
+   "t": "0:39",
+   "said": "",
+   "ocr": "SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: PR yo BI"
+  },
+  {
+   "t": "0:47",
+   "said": "",
+   "ocr": "SUPER EASY WORKOUT Pelvic Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 840 ce oS ia le"
+  },
+  {
+   "t": "0:54",
+   "said": "",
+   "ocr": "SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score SE 875 ce"
+  }
+ ],
+ "more": []
 }

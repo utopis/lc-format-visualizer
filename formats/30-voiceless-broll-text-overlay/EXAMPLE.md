@@ -27,6 +27,15 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 7 | 0:10–0:12 | a a cent isla to lifestyle app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared a couples drawing Cal Me 866 Excellent | · |
 | 8 | 0:12–0:14 | silent travel-footage to app pairing intimate dinner clips with a long-distance before demonstrating a shared couples drawing Me 568. Excellent 50.0% weighted e | · |
 
+## More real examples (5)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@williamkast_](example/more/2104952871691117052.jpg)](https://x.com/williamkast_/status/2104952871691117052)<br>**@williamkast_** · image · 766 views<br>One message → podcast, street interview, no-cut native talk, UGC, mute text overlay, statics; 3 hooks each. | [![@annieqyang](example/more/2080756837272687087.jpg)](https://x.com/annieqyang/status/2080756837272687087)<br>**@annieqyang** · 0:10 video · 605 views<br>This reel format got 800k views and 1M views for Gamma, a $1B AI powerpoint company It's simple - a 7-8 second UGC clip with text overlay, spinning a | [![@consumerxai](example/more/2085409836641198327.jpg)](https://x.com/consumerxai/status/2085409836641198327)<br>**@consumerxai** · 0:17 video · 999 views<br>‼️Tiktok Outlier Alert ‼️ 📉 20M Views, 203K Likes, 271 Comments, 1.9K Shares, 5.9K Saves 🧐What this is: A counter-intuitive lifestyle hook you can use |
+| [![@lifemaximised](example/more/2087623547288207463.jpg)](https://x.com/lifemaximised/status/2087623547288207463)<br>**@lifemaximised** · image · 929 views<br>YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al | [![@ForZeOussama1](example/more/2106572097933767012.jpg)](https://x.com/ForZeOussama1/status/2106572097933767012)<br>**@ForZeOussama1** · image · 172 views<br>Meta can treat your 20 ads as one ad. Same footage. Same hook. Different text overlay. That's not testing. That's variation. Real creative diversity l |   |
+
 ## How to make one like it
 
 **The format in one line:** No one talks. Product and lifestyle B-roll (pool, shower, beach, stacking hands) with the script delivered as short on-screen text beats, one per shot, plus music. The "mute text overlay" version of a winning message — cheap to scale into dozens of variants.
@@ -52,14 +61,16 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 10-25s, 1080x1920, music only
+**Target length / size:** 12-25s, 1080x1920, no voice (works on mute)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | 0-2s | Most beautiful B-roll shot (wet necklace in sun) | Text beat 1: hook (max 8 words) |
-| 2 | 2-15s | 1 shot per text beat, 2-3s each: shower, pool, stacking hands, beach | One short line per shot |
-| 3 | 15-20s | Product close-up | Offer line |
-| 4 | Audio | Licensed or commercial-library track | No voice |
+| 1 | 0-2s | Hand drops a necklace into a glass of water, macro | Text (top third): "I stopped taking my jewellery off." |
+| 2 | 2-6s | Shower: water running over the chain on a neck | "Shower." |
+| 3 | 6-9s | Sea: hand lifting out of a wave | "Sea." |
+| 4 | 9-12s | Gym: wrist stack on a dumbbell | "Gym." |
+| 5 | 12-16s | Mirror check, still bright | "Still gold. 8 months." |
+| 6 | End | Product grid | "14K PVD · Any 7 for $85" |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -88,10 +99,16 @@ Then fill the beats from the table above. Pull the wording from real customer re
 
 ### 4. Prompts
 
-**Text styling**
+**Shoot**
 
 ```text
-Centered, white, 54-64px, black 30% shadow, one line per beat, appears on the cut.
+iPhone 4K 30fps, 1x lens, natural light; one action per clip, 2-4s each; keep the product in the centre third so captions never cover it.
+```
+
+**Captions**
+
+```text
+CapCut, 72px bold sans, white with 4px black stroke, placed in the top third; one caption per clip; trending sound at -18 dB.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -140,8 +157,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Too many words per beat; viewers read 6-8 words in 2s.
-- Use licensed music only for ads (TikTok Commercial Music Library).
+- If it needs a voice to make sense, it isn't this format; test it on mute.
+- Captions over the product kill the demo.
+- Don't speed-ramp water shots so much that they look fake.
 - Slow open: if the first 1.5 s does not show the hook visually, most people swipe.
 - Logo or brand intro at the start reads as an ad; put the brand at the end.
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.

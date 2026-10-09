@@ -15,6 +15,7 @@
  "likes": 134,
  "views": 26301,
  "seen": "A short selfie reaction (\"been shopping at Lidl for 8 years and NOW I find this??\"), then a long wordless screen demo of the app: tapping through store deals and recipes on a phone held over a counter. There is no voiceover; the text hook does the work.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,62 @@
    "t": "0:37",
    "said": "",
    "ocr": "been shopping at Lid! for and NOW HIS 222"
+  }
+ ],
+ "more": [
+  {
+   "id": "2108191952047153611",
+   "author": "themariaines",
+   "url": "https://x.com/themariaines/status/2108191952047153611",
+   "thumb": "example/more/2108191952047153611.jpg",
+   "kind": "0:14 video",
+   "cap": "Same hook, same format, different app: Albo 891.8K views, $70K/mo \u2014 \"been shopping at Aldi for 10 years and NOW I FIND THIS\" + silent demo.",
+   "views": 1745
+  },
+  {
+   "id": "2086845144230416463",
+   "author": "themariaines",
+   "url": "https://x.com/themariaines/status/2086845144230416463",
+   "thumb": "example/more/2086845144230416463.jpg",
+   "kind": "0:43 video",
+   "cap": "miso: $100K MRR and 100K downloads 5 weeks after launch with the regret-discovery hook; one video 8.0M views, 200K shares.",
+   "views": 18201
+  },
+  {
+   "id": "2107132379123077221",
+   "author": "PerezHatesAI",
+   "url": "https://x.com/PerezHatesAI/status/2107132379123077221",
+   "thumb": "example/more/2107132379123077221.jpg",
+   "kind": "0:42 video",
+   "cap": "I need to sit down \ud83d\ude2d 29.3M views. 376K saves. 121K shares. For a meal planning app. The hook isn't the app. It's this line: \"been shopping at Aldi lit",
+   "views": 2570
+  },
+  {
+   "id": "2075946162235011466",
+   "author": "danclipping",
+   "url": "https://x.com/danclipping/status/2075946162235011466",
+   "thumb": "example/more/2075946162235011466.jpg",
+   "kind": "0:15 video",
+   "cap": "$976K/month is crazy This is a study/homework helper AI app with 350 million users Just from UGC creators They run formats like \"I just found this app",
+   "views": 25105
+  },
+  {
+   "id": "2097280776421126601",
+   "author": "ColinMaddenUGC",
+   "url": "https://x.com/ColinMaddenUGC/status/2097280776421126601",
+   "thumb": "example/more/2097280776421126601.jpg",
+   "kind": "image",
+   "cap": "Our 1.8k-follower UGC creator pulled 12.2M views while some 400k-follower ones can\u2019t even hit 10k\u2026 We\u2019ve seen this happen across 100s of brands and th",
+   "views": 8083
+  },
+  {
+   "id": "2090016988223430845",
+   "author": "pixclipper",
+   "url": "https://x.com/pixclipper/status/2090016988223430845",
+   "thumb": "example/more/2090016988223430845.jpg",
+   "kind": "0:26 video",
+   "cap": "this app crossed $100K revenue and 100K downloads in under 50 days \ud83e\udd2f their whole strategy is one ugc format on repeat: - shocked face reaction - a sna",
+   "views": 13511
   }
  ]
 }

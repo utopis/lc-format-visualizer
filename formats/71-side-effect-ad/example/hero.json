@@ -15,6 +15,7 @@
  "likes": 2,
  "views": 240,
  "seen": "A spec ad for a fictional product that parodies drug-ad disclaimers (\"Side effects may include heartbreak\"): a classroom of students, dramatic reactions and a stylised product end card, made with AI video.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:02",
@@ -55,6 +56,44 @@
    "t": "0:35",
    "said": "",
    "ocr": "ny Actual love sold separately."
+  }
+ ],
+ "more": [
+  {
+   "id": "2098523718595342565",
+   "author": "danisdriven",
+   "url": "https://x.com/danisdriven/status/2098523718595342565",
+   "thumb": "example/more/2098523718595342565.jpg",
+   "kind": "0:57 video",
+   "cap": "YOUR CPM SHOULD NOT REQUIRE A PRESCRIPTION. If your brand is suffering from Chronic High CPM, low views, weak distribution and sudden unexplained drop",
+   "views": 1646
+  },
+  {
+   "id": "2099855975649787929",
+   "author": "xin_create",
+   "url": "https://x.com/xin_create/status/2099855975649787929",
+   "thumb": "example/more/2099855975649787929.jpg",
+   "kind": "0:39 video",
+   "cap": "#ugcexample I created for MyFitnessPal \ud83d\udcf1\ud83c\udfc3\u200d\u2640\ufe0f The core insight was simple: The GLP-1 experience can change day to day, so how can a feature help? What ",
+   "views": 206
+  },
+  {
+   "id": "2086829970228142494",
+   "author": "tryatria_AI",
+   "url": "https://x.com/tryatria_AI/status/2086829970228142494",
+   "thumb": "example/more/2086829970228142494.jpg",
+   "kind": "5:00 video",
+   "cap": "This AI-generated supplement ad is basically a mini documentary. It starts with a provocative hook, then tells a founder story around low testosterone",
+   "views": 10231
+  },
+  {
+   "id": "2103282293091848204",
+   "author": "feral_feed",
+   "url": "https://x.com/feral_feed/status/2103282293091848204",
+   "thumb": "example/more/2103282293091848204.jpg",
+   "kind": "images",
+   "cap": "Ads that would get a modern brand cancelled built Abercrombie\u2019s most valuable era. Mike Jeffries didn\u2019t hide the strategy. 2006, Salon interview: the ",
+   "views": 982
   }
  ]
 }

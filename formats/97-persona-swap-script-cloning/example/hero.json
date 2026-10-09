@@ -15,6 +15,7 @@
  "likes": 57,
  "views": 5109,
  "seen": "An AI-cloned UGC creator in an orange gym set talking excitedly to camera in a home gym. It is the same script performed by an AI persona instead of a real creator.",
+ "match": "exact",
  "beats": [
   {
    "t": "0:00",
@@ -55,6 +56,62 @@
    "t": "0:14",
    "said": "and not having to leave the house is the best part. You need this.",
    "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2080734489529971056",
+   "author": "mikefutia",
+   "url": "https://x.com/mikefutia/status/2080734489529971056",
+   "thumb": "example/more/2080734489529971056.jpg",
+   "kind": "0:10 video",
+   "cap": "I just cracked the code on cloning UGC ads with AI \ud83e\udd2f One ad that's already converting \u2192 20 different creators delivering the exact same script. New fa",
+   "views": 3821
+  },
+  {
+   "id": "2079246318191403496",
+   "author": "lorenzo_pravata",
+   "url": "https://x.com/lorenzo_pravata/status/2079246318191403496",
+   "thumb": "example/more/2079246318191403496.jpg",
+   "kind": "1:58 video",
+   "cap": "Resilia ~8,000 ads, \"$10-15M/month\" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL.",
+   "views": 5237
+  },
+  {
+   "id": "2082467046034702738",
+   "author": "edwardlavinel_",
+   "url": "https://x.com/edwardlavinel_/status/2082467046034702738",
+   "thumb": "example/more/2082467046034702738.jpg",
+   "kind": "1:24 video",
+   "cap": "Shit. Analyzed 800+ active ads from creatine gummy. one pattern doing all the work. want the beats? Here is the breakdown: - uses a magazine cutout ae",
+   "views": 127
+  },
+  {
+   "id": "2075560773657694682",
+   "author": "oliverxmedia",
+   "url": "https://x.com/oliverxmedia/status/2075560773657694682",
+   "thumb": "example/more/2075560773657694682.jpg",
+   "kind": "0:21 video",
+   "cap": "I genuinely had to do a double take the first time I watched this. If nobody told me it was AI-generated, I would've assumed it was filmed by a real c",
+   "views": 1909
+  },
+  {
+   "id": "2082918789470208150",
+   "author": "wabilaura",
+   "url": "https://x.com/wabilaura/status/2082918789470208150",
+   "thumb": "example/more/2082918789470208150.jpg",
+   "kind": "4:29 video",
+   "cap": "Ladies in the algo. Dr turner from f\u00e9line skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i",
+   "views": 486
+  },
+  {
+   "id": "2083215336971858040",
+   "author": "wabilaura",
+   "url": "https://x.com/wabilaura/status/2083215336971858040",
+   "thumb": "example/more/2083215336971858040.jpg",
+   "kind": "4:29 video",
+   "cap": "Ladies in the algo. Dr turner from f\u00e9line skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i",
+   "views": 450
   }
  ]
 }

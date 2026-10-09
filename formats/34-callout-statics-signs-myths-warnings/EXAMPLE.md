@@ -32,13 +32,15 @@ The skeleton every version follows: **hook → problem or tension → turn (the 
 
 ### 2. Shot-by-shot remake
 
-**Target length / size:** 1 static or a 15s text video
+**Target length / size:** 1 static 1080x1350 per variant (4 variants)
 
 | # | Time / slot | What we see (visual + camera) | Dialogue / on-screen text |
 |---|---|---|---|
-| 1 | Headline | Plain background, bold type | "3 signs your necklace won't survive summer" |
-| 2 | Body | Numbered list, 3 lines | 1. It leaves a green mark. 2. It says "gold tone". 3. It costs under $20. |
-| 3 | Answer | Product shot | "[Brand]: 14K PVD, none of the above." |
+| 1 | "3 signs" variant | Numbered list beside a close-up of a cheap chain | "3 signs your necklace is about to turn green: 1. It's light 2. It says 'gold tone' 3. It cost $9" |
+| 2 | Myth vs fact | Two-column card, red X / gold tick | Myth: "You can't shower in gold jewellery." Fact: "You can in 14K PVD." |
+| 3 | "Don't buy this" | Product photo with a sticker | "Don't buy this if you like taking your jewellery off." |
+| 4 | Warning | Yellow warning bar at the top | "Warning: may cause you to never take it off." |
+| 5 | Corner | Logo + offer | "Any 7 for $85" |
 
 <details><summary>Playbook shot list (Louise Carter version from the README)</summary>
 
@@ -68,7 +70,13 @@ Then fill the beats from the table above. Pull the wording from real customer re
 **Figma**
 
 ```text
-1080x1350, background off-white, headline 88px bold, list 44px with numbers in the brand gold, product bottom-right.
+Template: headline 88px, list items 44px with gold number badges, product photo 50% width on the right; export 1080x1350.
+```
+
+**Claude**
+
+```text
+Write 10 "3 signs" lists and 10 myth/fact pairs for [category], each true and checkable.
 ```
 
 **Full creative-agent prompt (from the playbook):**
@@ -114,8 +122,9 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 8. Pitfalls
 
-- Each "sign" must be accurate.
-- Avoid fear claims about health.
+- Every "sign" and "fact" must be true.
+- Don't attack a named competitor.
+- The warning variant must be clearly playful, not a real warning.
 - Too much text: if it cannot be read in 1 second at thumbnail size, cut it.
 - AI-generated product images: show the real product; AI is fine for backgrounds only.
 
