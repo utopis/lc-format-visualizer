@@ -18,12 +18,20 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | wi 71 1:06 ob an 46.3 ar 80.56 RE ul ee 2d ago 1,100 tells you the hardest part is actually walking in #24 Contains Al-generated media Add comment... | · |
-| 2 | 0:01–0:03 | 11:06 100%05 a it ir home, wha n't to do po 46. 3K ee ff in Photo 2d age nobody tells you the hardest part is actually Bi. walking in #24 Contains Al-generated  | · |
-| 3 | 0:03–0:04 | · | · |
-| 4 | 0:04–0:06 | 00:07 ali 719 11:06 Madison te 534 234.1K Message 24 los angeles mexican american fitness travel 24 lifestyle insta obsessed with my Your 20s streak vp re tree  | · |
-| 5 | 0:06–0:08 | 11:06 00:08 ron a 253.7% 233.7K ws 480.1K mind Pa ans Aha cB rE hem, tin ae nt: ME BON ca me fo ks with ne pure: by no every looks 134.9K 1,964 Ge an NT raul rd | · |
-| 6 | 0:08–0:09 | · | · |
+| 1 | 0:00–0:01 | ago 1,100 tells you the hardest part is actually walking in #24 … Contains Al-generated media Add comment... | · |
+| 2 | 0:01–0:03 | 11:06 100%05 a it … n't to do … age nobody tells you the hardest part is actually … walking in #24 | · |
+| 3 | 0:03–0:04 | 534 234.1K Message 24 los angeles mexican #8 american fitness travel 34 lifestyle insta … obsessed with my Your … and ion my … bedroom own at after … job. Then  | · |
+| 4 | 0:04–0:06 | 00:07 ali 719 11:06 Madison … Message 24 los angeles mexican american fitness travel 24 lifestyle insta … obsessed with my Your … Just watched wee … car taking  | · |
+| 5 | 0:06–0:08 | 11:06 00:08 ron a … no every looks … 2,510 2,580 3,490 a a … this popped up a said he … day in my Be at 23 then go! … 5,314 2,381 2,803 | · |
+| 6 | 0:08–0:09 | 0:1 we 719 11:06 a Madison … Message 24 los angeles mexican #8 american fitness travel 24 lifestyle insta … obsessed with my Your … sane an Stew can feat … an 2 | · |
+
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@simonecanciello](example/more/2035079759588163995.jpg)](https://x.com/simonecanciello/status/2035079759588163995)<br>**@simonecanciello** · 0:17 video · 56K views<br>brooo WHAT is this strategy? 3 pics slideshow, fake notification (curiosity = comments) and show your app. 1M views. $160k/month app. | [![@enzoxmotion](example/more/2099622190970712321.jpg)](https://x.com/enzoxmotion/status/2099622190970712321)<br>**@enzoxmotion** · 0:19 video · 13K views<br>this app went from $1k to FUCKING $10k mrr in a WEEK. all it took was one slideshow, two slides total, that ended up crossing a million views nothing | [![@marcospb_](example/more/2010412391037878286.jpg)](https://x.com/marcospb_/status/2010412391037878286)<br>**@marcospb_** · 0:04 video · 177 views<br>1M likes New TikTok slideshow banger found “Four years of a relationship and out of nowhere she sent me this.” Next slide: the breakup text. Right und |
 
 ## How to make one like it
 
@@ -39,12 +47,12 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:00 | on screen: wi 71 1:06 ob an 46.3 ar 80.56 RE ul ee 2d ago 1,100 tells you the hardest part is actually walking in #24 Contains Al-g | … |
-| 2 | 0:02 | on screen: 11:06 100%05 a it ir home, wha n't to do po 46. 3K ee ff in Photo 2d age nobody tells you the hardest part is actually B | … |
-| 3 | 0:04 | (visual beat, see frame 3) | … |
-| 4 | 0:05 | on screen: 00:07 ali 719 11:06 Madison te 534 234.1K Message 24 los angeles mexican american fitness travel 24 lifestyle insta obse | … |
-| 5 | 0:07 | on screen: 11:06 00:08 ron a 253.7% 233.7K ws 480.1K mind Pa ans Aha cB rE hem, tin ae nt: ME BON ca me fo ks with ne pure: by no e | … |
-| 6 | 0:08 | (visual beat, see frame 6) | … |
+| 1 | 0:00 | on screen: ago 1,100 tells you the hardest part is actually walking in #24 … Contains Al-generated media Add comment... | … |
+| 2 | 0:02 | on screen: 11:06 100%05 a it … n't to do … age nobody tells you the hardest part is actually … walking in #24 | … |
+| 3 | 0:04 | on screen: 534 234.1K Message 24 los angeles mexican #8 american fitness travel 34 lifestyle insta … obsessed with my Your … and io | … |
+| 4 | 0:05 | on screen: 00:07 ali 719 11:06 Madison … Message 24 los angeles mexican american fitness travel 24 lifestyle insta … obsessed with | … |
+| 5 | 0:07 | on screen: 11:06 00:08 ron a … no every looks … 2,510 2,580 3,490 a a … this popped up a said he … day in my Be at 23 then go! … 5, | … |
+| 6 | 0:08 | on screen: 0:1 we 719 11:06 a Madison … Message 24 los angeles mexican #8 american fitness travel 24 lifestyle insta … obsessed wit | … |
 
 ### 2. Shot-by-shot remake
 

@@ -16,7 +16,7 @@ Ridge's "2026 Summer Sweepstakes" key visual: two men next to a lifted truck und
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | bi pa AX 6. STi! ive ot TA eA a PRIZES OF APR The 6th Annual Sweepstakes goes pro by Tony Hawk himself LEARN MORE |
+| 1 | OF APR The 6th Annual … by Tony Hawk himself LEARN MORE |
 
 ## More real examples (2)
 

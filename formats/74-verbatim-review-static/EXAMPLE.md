@@ -16,7 +16,7 @@ A spec static built from a single verbatim review: "Your customers already wrote
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | How find ad ideas Your customers already wrote it. Most of the time you don't even know it's on. owner, 5-star review Ba Spec ad for |
+| 1 | ideas Your customers already wrote it. Most of the time you don't even know it's on. … owner, 5-star review |
 
 ## More real examples (4)
 

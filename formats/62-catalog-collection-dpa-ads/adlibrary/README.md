@@ -1,5 +1,35 @@
 # Meta ad-library examples for F62 (GetHookd board 155932, gut health)
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Smooche · Smooche: A catalog-template ad (111 days live)
+
+![Smooche 2068494240743500](w6_2068494240743500.jpg)
+
+- **Ad:** [Meta Ad Library #2068494240743500](https://www.facebook.com/ads/library/?id=2068494240743500) · static image · page “Smooche” · started 2026-06-19 · 1 copies · lands on `smooche.com/collections/the-hits/products/color-changing-fou`
+- **What happens:** A catalog-template ad (headline {{product.name}}) whose image is a designed "Amazon Prime Day SALE, 60% off" frame.
+- **Why it works:** Catalog-template ads ({{product.name}} / {{product.brand}} as the headline) with designed overlay frames are among the longest-running Smooche creatives (100-111 days). The catalog slot carries a branded promo frame rather than a plain packshot.
+- **How to make one:** In the Commerce Manager catalog, add a designed overlay frame (the sale badge, a "Prime Day" banner, or a full "We f*cked up" note) so the dynamic ad looks like a static creative and still auto-rotates SKUs.
+- **LC remake:** The LC catalog with an "Any 7 · $85" corner badge and a "survives the shower" ribbon on every product image.
+
+### Smooche · Smooche: The same catalog template (111 days live)
+
+![Smooche 1774500803516201](w6_1774500803516201.jpg)
+
+- **Ad:** [Meta Ad Library #1774500803516201](https://www.facebook.com/ads/library/?id=1774500803516201) · static image · page “Smooche” · started 2026-06-19 · 1 copies · lands on `smooche.com/collections/the-hits/products/color-changing-fou`
+- **What happens:** The same catalog template, with the bottle on a white conveyor and a "Prime day SALE EXTRA" badge.
+- **Why it works:** Catalog-template ads ({{product.name}} / {{product.brand}} as the headline) with designed overlay frames are among the longest-running Smooche creatives (100-111 days). The catalog slot carries a branded promo frame rather than a plain packshot.
+- **How to make one:** In the Commerce Manager catalog, add a designed overlay frame (the sale badge, a "Prime Day" banner, or a full "We f*cked up" note) so the dynamic ad looks like a static creative and still auto-rotates SKUs.
+- **LC remake:** The LC catalog with an "Any 7 · $85" corner badge and a "survives the shower" ribbon on every product image.
+<!-- /WAVE6 -->
+
+
+
+
+
 From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public board preview. Days live are as of 2026-10-09. Full board breakdown is in the internal sources folder.
 
 ## Phantom Athletics: Catalog DCO grid with big % badge (German) (445 days live)

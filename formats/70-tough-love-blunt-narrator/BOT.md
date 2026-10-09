@@ -2,6 +2,72 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 20-40s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@ZedNilm1](https://x.com/ZedNilm1/status/2098017463195553912) · A blunt, tough-love narrator over gross-out medical visuals ("YOU HAVE PARASITES", a gut close-up, a CGI man in a bathroom), then a man in scrubs and a mask talking frankly to camera. It is meant to look like it took 10 minutes to make.
+- Example: [@LinoLeighton](https://x.com/LinoLeighton/status/2108195005126869080) · Drama Ads ripping rn… 100% AI drama ad made with Seedance 2.5 Here’s how to make your drama ads actually hit: Go to agent on arcads Start with an aggr
+
+### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Pure Rhythm: Tough-love podcast rant ("women over 40 who still don't know this")** (324 days live): "I can't believe… woman over 40 who still doesn't know this… waking up wrecked, bloated, drained… I'm not angry. I'm just tired of watching people suffer because no one tells them the truth. Magnesium is the foundation…" 84 s.
+- **Resilia · Natural Defense Report: “If you smell yourself the week before your period, you're already at…”** (1 days live): Opens: “If you smell yourself the week before your period, you're already at stage one. There are five.”
+- **Resilia · Ancient Remedy Co: “And just one night and you do not meet a diet or a doctor for this…”**: Opens: “And just one night and you do not meet a diet or a doctor for this. This is what doctors won't tell you.”
+
+**Do not copy (seen in these live ads):** Medical stage claims here are unsupported.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Narrator to camera, arms crossed, blunt | "Stop buying $15 necklaces that last three weeks." |
+| 3-12s | Quick cuts of the habit being scolded | "You've done this six times. That's $90." |
+| 12-22s | The fix | "Buy once. 14K PVD. Shower in it." |
+| 22-30s | Softer close | "You deserve jewellery that lasts." |
+| End | Offer | - |
+
+### Prompts
+
+**Claude**
+
+```
+Write 10 tough-love scripts for [audience]: scold the habit, never the person; end kind.
+```
+
+**Casting**
+
+```
+A confident narrator (stylist, older sister energy); one take, direct to camera.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F70-<concept>-<variant>`; tracking tag `utm_content=F70-<concept>-<variant>`.
+- [ ] Avoid: Scold the habit, not the viewer's body or worth.
+- [ ] Avoid: Numbers must be realistic.
+- [ ] Avoid: End with warmth or it reads as mean.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

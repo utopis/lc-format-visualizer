@@ -1,0 +1,155 @@
+{
+ "id": "F09",
+ "slug": "09-native-story-static-to-advertorial",
+ "name": "Native story static → advertorial (long primary text, personal-post look, illustrated comic variant)",
+ "type": "paid (Meta feed)",
+ "platforms": "[Facebook feed, Instagram feed, Google Demand Gen (advertorial landing)]",
+ "cost_per_asset": "$0-20 + advertorial page build",
+ "time_per_asset": "",
+ "length": "1 image + 150-600 words of primary text",
+ "shots": [
+  {
+   "slot": "Image",
+   "visual": "Lo-fi illustration or real-looking phone photo of the story moment (two people, a table, a wedding)",
+   "audio_text": "No text on the image, or one short speech bubble"
+  },
+  {
+   "slot": "Primary text line 1",
+   "visual": "-",
+   "audio_text": "A story hook that gets the \"See more\" tap: \"My husband's 'work wife' came to Barbados with us...\""
+  },
+  {
+   "slot": "Primary text body",
+   "visual": "-",
+   "audio_text": "First-person story in short paragraphs, real details, the product enters as part of what happened"
+  },
+  {
+   "slot": "Close",
+   "visual": "-",
+   "audio_text": "Link to an advertorial that continues the story, not to the product page"
+  },
+  {
+   "slot": "Page name",
+   "visual": "-",
+   "audio_text": "A persona or editorial page, labelled as sponsored"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Illustration (Midjourney)",
+   "prompt": "simple flat comic illustration, two panels, a woman at a dinner table looking at her husband laughing with a coworker, muted colours, Facebook comic style --ar 4:5"
+  },
+  {
+   "tool": "Story (Claude)",
+   "prompt": "Write a 400-word first-person Facebook post from a 42-year-old woman. Hook in the first 12 words. Story: [situation]. [Product] appears naturally at the turning point. Short paragraphs, no hashtags, ends by pointing to the full story."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/antonioventre_/status/2083619527170871298",
+   "author": "antonioventre_",
+   "note": "A Facebook-native illustrated comic. The caption opens with a story hook (\"Mom left for a business trip, leaving me alone with my stepfather Johan...\" then See more) over two cartoon panels. It reads like a story post; the long primary text leads to an advertorial.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2078512377616589256",
+   "author": "antonioventre_",
+   "note": "Before/after photos are best native ad image: change creates curiosity; long copy tells story.",
+   "local": "example/more/2078512377616589256.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/blvckledge/status/2083175922048647671",
+   "author": "blvckledge",
+   "note": "Advertorials outperform PDP for Google Shopping traffic.",
+   "local": "example/more/2083175922048647671.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/EcomTable/status/2100980324633063694",
+   "author": "EcomTable",
+   "note": "Ad-spy filters: top 10-25%, image, active, 14+ day run, 2,500+ char copy -> find long-copy native winners.",
+   "local": "example/more/2100980324633063694.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2107899522353381868",
+   "author": "antonioventre_",
+   "note": "Story ad >1M reach: wife/work-wife anniversary drama, no product in first 40 words, revenge payoff.",
+   "local": "example/more/2107899522353381868.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/tryatria_AI/status/2105745816828940336",
+   "author": "tryatria_AI",
+   "note": "Static hook 'My sister slept with my husband' vs generic benefit lines.",
+   "local": "example/more/2105745816828940336.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2106778634006442013",
+   "author": "antonioventre_",
+   "note": "The structure I use for story ads, in video and in long primary text: 1 - Hook: the problem, not the product 2 - Problem: make it specific enough that",
+   "local": "example/more/2106778634006442013.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/HenryCrochemore/status/2081681278861021254",
+   "author": "HenryCrochemore",
+   "note": "spoke with an operator running paid social for a fast-growing skincare brand they connected gethookd api + mcp to turn one winning angle into hundreds",
+   "local": "example/more/2081681278861021254.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2078183710604591539",
+   "author": "antonioventre_",
+   "note": "The native ad funnel, start to finish. 1. The ad. A native image and a long story in the primary text. Built for an unaware or problem-aware person. 2",
+   "local": "example/more/2078183710604591539.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Smooche · Aging Queens Magazine: “Designed for women 60+ or you don't pay”",
+   "days": 6,
+   "image": "adlibrary/w6_2560331541128371.jpg",
+   "what": "\"Designed for women 60+ or you don't pay\": a 60%-off image from the \"Aging Queens Magazine\" page, under first-person copy \"I thought foundation was over for me at 52\".",
+   "how": "Write 250-600 words in the first person or as a narrated story. Use a phone-style photo with no logo, and name the product once in the second half.",
+   "dnc": "Fictional narrators posted from pages like \"Daily Wellness\" and \"Cosmetic Times\"."
+  },
+  {
+   "title": "Resilia · Daily Wellness: “Three Octobers, a small pouch arrived in her mailbox”",
+   "image": "adlibrary/w6_1018111660688286.jpg",
+   "what": "\"Three Octobers, a small pouch arrived in her mailbox…\": a ~600-word story (Sophie, a dental hygienist…) under a dim, phone-style kitchen photo.",
+   "how": "Write 250-600 words in the first person or as a narrated story. Use a phone-style photo with no logo, and name the product once in the second half.",
+   "dnc": "Fictional narrators posted from pages like \"Daily Wellness\" and \"Cosmetic Times\"."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F09-<concept>-<variant>`; tracking tag `utm_content=F09-<concept>-<variant>`.",
+  "Avoid: The first line decides everything; write 20 and test 5.",
+  "Avoid: Fiction must not be presented as a real customer testimonial; keep claims inside the advertorial truthful.",
+  "Avoid: Facebook flags sensational personal-attribute language (\"are you fat?\"); write about the character, not the reader."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

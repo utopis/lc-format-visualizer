@@ -2,6 +2,70 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 static 1080x1350), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@CreatorSaad](https://x.com/CreatorSaad/status/2107818233302528335) · A spec static built from a single verbatim review: "Your customers already wrote it." over the quoted line "Most of the time you don't even know it's on." (a GEEKOM owner, 5-star review) with the mini PC on a desk.
+- Example: [@PhilKiel](https://x.com/PhilKiel/status/1842707896443732362) · Customer review static. Who thinks a customer actually wrote this? Stellar copywriting if they did 😂
+- Example: [@ariesnotebook](https://x.com/ariesnotebook/status/1857792129004675247) · Simple but effective testimonial static. Stats: 4.8M likes
+- Example: [@helloitsdrew_](https://x.com/helloitsdrew_/status/2000557038682706000) · Keys to an effective review/testimonial static: - Review that highlights a specific product benefit - Review shown in an authentic way (social media U
+- Example: [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929) · Complete breakdown of 420 gut health ads winning on Meta (save this). Gut health is one of the biggest money printers on Meta right now. Bloating, dig
+
+### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **BioRoot Labs: "We don't trick you into taking turmeric" retention-claim static** (481 days live): A beige static: "We don't trick you into taking turmeric. Your body convinces you to keep going. After one bottle, most people don't cancel. They stock up." Bottle and capsules, "Trusted by thousands" with Trustpilot stars.
+- **Amy: Verified-buyer review card over car selfie (Amy, beef liver)** (382 days live): "GREAT ENERGY BOOSTER!" headline; a 5-star "Verified Buyer" review card floats over a man's car selfie holding the bottle; an arrow links the two.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Main | One real customer review, verbatim (typos kept), set very large | e.g. "Most of the time you don't even know it's on." |
+| Attribution | First name + "verified buyer" + stars | "Jess R., verified buyer ★★★★★" |
+| Corner | Small product photo + logo | - |
+| Primary text | - | "We didn't write this. Jess did." |
+
+### Prompts
+
+**Review mining (Claude)**
+
+```
+From these 200 reviews [paste], pick the 10 that read most like something a friend would text. Keep them verbatim, do not fix typos. Explain why each one sells.
+```
+
+**Figma**
+
+```
+Review 72-88px serif, oversized quote marks in brand gold, attribution 28px grey, product 220px bottom-right.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F74-<concept>-<variant>`; tracking tag `utm_content=F74-<concept>-<variant>`.
+- [ ] Avoid: Real reviews only, verbatim, with permission; never edit a review to make it stronger.
+- [ ] Avoid: The featured example is a spec ad built from a real review; the format works best when the review is specific.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

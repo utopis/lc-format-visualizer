@@ -20,27 +20,27 @@
   {
    "t": "0:02",
    "said": "We're following breaking news tonight on a growing concern for anyone taking a GLP-1 weight loss drug.",
-   "ocr": "Gee ee ee BREAKING NEWS"
+   "ocr": ""
   },
   {
    "t": "0:08",
    "said": "Joining us now, Dr. Sophia Marchetti. Doctor, what exactly is happening here?",
-   "ocr": "ay BREAKING NEWS"
+   "ocr": ""
   },
   {
    "t": "0:14",
    "said": "When you eat significantly less, your body can't always tell the difference between fat and muscle. It burns both.",
-   "ocr": "ll Se Th hd BREAKING NEWS"
+   "ocr": ""
   },
   {
    "t": "0:19",
    "said": "So people could be losing muscle without even realizing it? Exactly. That's why so many people",
-   "ocr": "al BREAKING NEWS"
+   "ocr": ""
   },
   {
    "t": "0:25",
    "said": "Exactly. That's why so many people feel weak and drained even as the number on the scale keeps dropping.",
-   "ocr": "ee we BREAKING NEWS"
+   "ocr": "we BREAKING NEWS"
   },
   {
    "t": "0:31",
@@ -50,23 +50,59 @@
   {
    "t": "0:36",
    "said": "Creatine, CAHMB, Zinc, Carnacine, 80-plus vitamins and minerals built to help you hold onto muscle",
-   "ocr": "ll a Th ky 1. a BREAKING"
+   "ocr": ""
   },
   {
    "t": "0:42",
    "said": "while you lose the fat. You don't have to lose muscle to lose weight. Ask about Myogard Pro.",
-   "ocr": "ee a 1. Ez BREAKING NE WS"
+   "ocr": ""
   }
  ],
  "more": [
+  {
+   "id": "2034948938789171441",
+   "author": "HenryCrochemore",
+   "url": "https://x.com/HenryCrochemore/status/2034948938789171441",
+   "thumb": "example/more/2034948938789171441.jpg",
+   "kind": "2:13 video",
+   "cap": "an AI news broadcast opens the video \u201cbreaking news\u201d a serious anchor at a desk city skyline behind him calm, authoritative voice it looks exactly lik",
+   "views": 7050
+  },
   {
    "id": "2103478126928138309",
    "author": "richardbrien",
    "url": "https://x.com/richardbrien/status/2103478126928138309",
    "thumb": "example/more/2103478126928138309.jpg",
    "kind": "images",
-   "cap": "\"Breaking News\" style ad creative crushes harder than any other format across long periods of time. https://t.co/5XAPPNoLf7",
+   "cap": "\"Breaking News\" style ad creative crushes harder than any other format across long periods of time.",
    "views": 91
+  },
+  {
+   "id": "2086977376286585184",
+   "author": "rogiergg",
+   "url": "https://x.com/rogiergg/status/2086977376286585184",
+   "thumb": "example/more/2086977376286585184.jpg",
+   "kind": "image",
+   "cap": "(BREAKING NEWS - CAUSE OF DEATH REVEALED) tbh that's just a creative on a $29.99 CO detector not a product headline a news format! the ad does not fee",
+   "views": 123
+  },
+  {
+   "id": "2048497164393791985",
+   "author": "Bsschiller",
+   "url": "https://x.com/Bsschiller/status/2048497164393791985",
+   "thumb": "example/more/2048497164393791985.jpg",
+   "kind": "0:46 video",
+   "cap": "We turned an @IShowSpeed stream into a \u201cnews report\u201d ad for a South Florida experience brand \u2014 and it was an overnight hit. 106x reach vs followers Hu",
+   "views": 335
+  },
+  {
+   "id": "2105302286490546274",
+   "author": "inceptly",
+   "url": "https://x.com/inceptly/status/2105302286490546274",
+   "thumb": "example/more/2105302286490546274.jpg",
+   "kind": "image",
+   "cap": "\ud83d\udea8 What if your next ad looked like breaking news? This week's Modular Creative System ad breakdown covers a Find Legal ad that opens on an AI-generate",
+   "views": 14
   }
  ]
 }

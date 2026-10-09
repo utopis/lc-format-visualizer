@@ -1,0 +1,129 @@
+{
+ "id": "F32",
+ "slug": "32-screenshot-native-static-pack",
+ "name": "Screenshot-native static pack (iPhone Notes, text thread, Reddit, email, Google, IG story/DM, Trustpilot)",
+ "type": "paid",
+ "platforms": "[Meta feed/stories, TikTok image ads, Pinterest]",
+ "cost_per_asset": "$0 (Figma/AI image)",
+ "time_per_asset": "15-30 min per static",
+ "length": "5-10 statics, 1080x1350/1080x1920",
+ "shots": [
+  {
+   "slot": "iPhone Notes",
+   "visual": "Notes app screenshot",
+   "audio_text": "\"things I stopped doing at 35: 1. taking my jewelry off to shower...\""
+  },
+  {
+   "slot": "iMessage thread",
+   "visual": "Two friends texting",
+   "audio_text": "\"where is your necklace from?? you wore it in the pool\""
+  },
+  {
+   "slot": "Reddit post",
+   "visual": "Reddit-style post in a relevant community",
+   "audio_text": "A question + top answer mentioning the product"
+  },
+  {
+   "slot": "Google results",
+   "visual": "Search bar \"jewelry you can shower in\"",
+   "audio_text": "Top result is the product"
+  },
+  {
+   "slot": "Trustpilot / review card",
+   "visual": "Review layout",
+   "audio_text": "A real review verbatim"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Build",
+   "prompt": "Recreate UIs in Figma with community UI kits (iOS 17 Notes/Messages, Reddit). Use generic names, no real usernames. Export at 1080 wide."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/liv_unltd/status/1774923299136716885",
+   "author": "liv_unltd",
+   "note": "A real Gopuff ad shown in the Instagram feed, built to look like an iPhone Notes page: a 'Notes' header, a bold line \"40% off alcohol?!?\" and a few casual sentences about getting drinks delivered in minutes with a promo code. Under it sits the normal app-install card (logo, stars, Install). It reads like a note someone typed, not like an ad.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/growthquesthq/status/1922749862262489528",
+   "author": "growthquesthq",
+   "note": "1⃣ Notes App Ad This one has cut client CPLs by 75%+",
+   "local": "example/more/1922749862262489528.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/pearmill_agency/status/1674091921508007944",
+   "author": "pearmill_agency",
+   "note": "2/7 The Notes App Static 📒 - Open the Notes app on an iPhone - Create copy that reads like a note to self - think natural and human - Screenshot and p",
+   "local": "example/more/1674091921508007944.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/daniel_eckler/status/1678803289243041793",
+   "author": "daniel_eckler",
+   "note": "Literal iMessage Ad 👀",
+   "local": "example/more/1678803289243041793.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/gregmfitz/status/1621504769079517184",
+   "author": "gregmfitz",
+   "note": "Whatever agency or consultant is recommending this notes app ad creative style must be stopped",
+   "local": "example/more/1621504769079517184.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Amy: Verified-buyer review card over car selfie (Amy, beef liver)",
+   "days": 382,
+   "image": "adlibrary/w4_105870793.jpg",
+   "what": "\"GREAT ENERGY BOOSTER!\" headline; a 5-star \"Verified Buyer\" review card floats over a man's car selfie holding the bottle; an arrow links the two.",
+   "how": "A real customer photo, a pasted review card (real review), a 3-word headline, an arrow."
+  },
+  {
+   "title": "British Supplements: Google-search UI static ('Which UK brand has no fillers?')",
+   "days": 331,
+   "image": "adlibrary/90119029.jpg",
+   "what": "A Google search bar with an autocomplete question 'Which UK brand has no fillers?', a cursor clicking it, then a featured-snippet style answer box with ticks and product photos.",
+   "how": "Figma: Google search bar 1080 wide, Roboto 40px, autocomplete row highlighted, answer card with 3 ticks; no Google logo misuse; 1080x1350."
+  },
+  {
+   "title": "Japanese Taste: iPhone Notes checklist static (Japanese Taste)",
+   "days": 238,
+   "image": "adlibrary/w4_88997142.jpg",
+   "what": "An iPhone Notes screen: \"Weekly Japanese Taste Checklist: Snacks for Friday night ✓, Matcha for Monday mornings ✓, J-Beauty for your nightly reset ✓\" with product photos.",
+   "how": "An iPhone Notes template, 3 checklist lines in lifestyle moments, product pics."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F32-<concept>-<variant>`; tracking tag `utm_content=F32-<concept>-<variant>`.",
+  "Avoid: Do not fabricate reviews or present a fake conversation as real; reviews must be real and attributed.",
+  "Avoid: Do not use other platforms' logos in a way that implies endorsement.",
+  "Avoid: No clean public example was found in this research pass; the visual is a mock."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

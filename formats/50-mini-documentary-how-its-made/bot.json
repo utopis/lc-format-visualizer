@@ -1,0 +1,118 @@
+{
+ "id": "F50",
+ "slug": "50-mini-documentary-how-its-made",
+ "name": "Mini-documentary / founder mini-VSL ('how it's made', mission)",
+ "type": "paid + organic",
+ "platforms": "[YouTube, Meta, TikTok]",
+ "cost_per_asset": "$0-1,000",
+ "time_per_asset": "1-3 days",
+ "length": "60-180s, 1080x1920 and 16:9",
+ "shots": [
+  {
+   "slot": "0-10s",
+   "visual": "Founder voice over workshop B-roll",
+   "audio_text": "\"I started Louise Carter because my mum's necklace turned her neck green on my wedding day.\""
+  },
+  {
+   "slot": "10-50s",
+   "visual": "How it's made: steel core, PVD chamber, polishing",
+   "audio_text": "Simple explanation of each step"
+  },
+  {
+   "slot": "50-90s",
+   "visual": "Testing: sea, shower, sweat",
+   "audio_text": "\"Every design spends a week in the sea before it goes on sale.\""
+  },
+  {
+   "slot": "90-120s",
+   "visual": "Customers wearing it, the mission",
+   "audio_text": "\"Jewellery you never have to take off.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Shoot",
+   "prompt": "Gimbal or handheld 4K 24fps, macro on materials, founder interview with a lav mic, two cameras if possible."
+  },
+  {
+   "tool": "Claude",
+   "prompt": "Turn this founder interview transcript [paste] into a 2-minute mini-doc script: origin, how it's made, proof, mission."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/IND__Sweety/status/2103386592136376620",
+   "author": "IND__Sweety",
+   "note": "A how-it's-made clip: a jeweler's hands cutting a band, shaping a dome, setting a crystal and finishing the piece, shot in tight close-up. The opening caption asks \"WOULD YOU GIVE THIS AS A GIFT? DROP A COMMENT\".",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/luisfelipebfr2/status/2101018997508669891",
+   "author": "luisfelipebfr2",
+   "note": "Eskiin founder mini-VSL breakdown: vision-board open loop → problem → failed solutions → mechanism → product → mission → retire mom.",
+   "local": "example/more/2101018997508669891.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/rirahcreates/status/2086324982892605618",
+   "author": "rirahcreates",
+   "note": "AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum",
+   "local": "example/more/2086324982892605618.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/lorenzo_pravata/status/2079246318191403496",
+   "author": "lorenzo_pravata",
+   "note": "Resilia ~8,000 ads, \"$10-15M/month\" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL.",
+   "local": "example/more/2079246318191403496.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/BobG_Ecom/status/2094146716417069510",
+   "author": "BobG_Ecom",
+   "note": "0 to 100k/mo profit with ecom - Day 9 Back in the green, but slowing down as we are experiencing supply chain issues. I’ve been in the process making ",
+   "local": "example/more/2094146716417069510.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Haariz23/status/2080054481853788591",
+   "author": "Haariz23",
+   "note": "A Small Creative Strategy Update. Ecom Bros & Creative Strategists Listen up. A brand came to me with ads that weren't converting. Same creatives. Sam",
+   "local": "example/more/2080054481853788591.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F50-<concept>-<variant>`; tracking tag `utm_content=F50-<concept>-<variant>`.",
+  "Avoid: Only show the real process and real suppliers (with permission).",
+  "Avoid: Keep the founder story true.",
+  "Avoid: Make a 30s cut for paid."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

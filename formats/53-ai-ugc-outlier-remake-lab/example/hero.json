@@ -20,42 +20,42 @@
   {
    "t": "0:02",
    "said": "If your deodorant is not infused with skincare, throw it out. Look at what MediCube just came out with.",
-   "ocr": "REAL AD OUR Al AD Ss Coa a 7%"
+   "ocr": ""
   },
   {
    "t": "0:07",
    "said": "Look at what MediCube just came out with. They came out with the deodorant with skincare with Kojik Acid and Turmeric.",
-   "ocr": "REAL AD OUR Al AD el at an"
+   "ocr": ""
   },
   {
    "t": "0:12",
    "said": "So if you have those dark underarms, which most of us do, this is going to help lighten and brighten.",
-   "ocr": "REAL AD OUR Al AD ol 1% a"
+   "ocr": ""
   },
   {
    "t": "0:17",
    "said": "Please tell me why it took the girls 30 freaking years to figure out how to lighten their armpits. And no, it's not laser, okay?",
-   "ocr": "REAL AD OUR Al AD So Ii Ne if"
+   "ocr": ""
   },
   {
    "t": "0:22",
    "said": "This is literally after using these Kojik Acid Turmeric toner pads for like two weeks. Like the glow is insane.",
-   "ocr": "REAL AD OUR AI AD wv ee Ny a ad"
+   "ocr": ""
   },
   {
    "t": "0:27",
    "said": "The dark spots, the texture, everything started fading. Like this is what I've been using. It's literally pre-soaked. You just swipe it on a",
-   "ocr": "REAL AD OUR Al AD aa as AD"
+   "ocr": ""
   },
   {
    "t": "0:32",
    "said": "You just swipe it on and you're done. And I swear this is the first thing that's actually worked without burning my skin off.",
-   "ocr": "REAL AD OUR Al AD a Ar fi Ms AD"
+   "ocr": ""
   },
   {
    "t": "0:37",
    "said": "Like my underarms used to look so uneven and now they're literally smooth and bright. Like when I say glass skin for your bo-",
-   "ocr": "REAL AD OUR Al AD we AO ae"
+   "ocr": ""
   }
  ],
  "more": [
@@ -112,6 +112,24 @@
    "kind": "0:21 video",
    "cap": "THE CO-FOUNDER WHO RAN GROWTH AT CAL AI JUST LEAKED THE ENTIRE AI UGC PIPELINE. ONE PERSON, ZERO CREATORS, THOUSANDS OF TEST VIDEOS Cal AI went to 15M",
    "views": 8732
+  },
+  {
+   "id": "2094873288040497282",
+   "author": "brainextends",
+   "url": "https://x.com/brainextends/status/2094873288040497282",
+   "thumb": "example/more/2094873288040497282.jpg",
+   "kind": "0:25 video",
+   "cap": "i made $36,863 this month using ai agents heres the 3 step process i use : -> i created an ai agent that scans 24/7 for new trends on tiktok once it s",
+   "views": 361
+  },
+  {
+   "id": "2107886078841729342",
+   "author": "defileo",
+   "url": "https://x.com/defileo/status/2107886078841729342",
+   "thumb": "example/more/2107886078841729342.jpg",
+   "kind": "0:12 video",
+   "cap": "This is the CRAZIEST f*ckn sonnet 5.5 automation setup... One Claude Code orchestrator runs a full AI UGC pipeline across Apify, Higgsfield and Postiz",
+   "views": 2355
   }
  ]
 }

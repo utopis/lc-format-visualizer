@@ -1,0 +1,78 @@
+{
+ "id": "F68",
+ "slug": "68-streak-calendar-static",
+ "name": "Streak calendar static (a habit grid filled with ✓ days)",
+ "type": "paid + organic",
+ "platforms": "[Meta feed, IG Stories, Pinterest]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "20 min",
+ "length": "1 static 1080x1350",
+ "shots": [
+  {
+   "slot": "Main",
+   "visual": "A 30- or 90-day calendar grid, each day ticked in gold marker",
+   "audio_text": "\"90 days. Never taken off.\""
+  },
+  {
+   "slot": "Detail",
+   "visual": "A few day boxes with tiny notes",
+   "audio_text": "\"sea\" \"gym\" \"wedding\" \"shower\""
+  },
+  {
+   "slot": "Product",
+   "visual": "The necklace laid across the bottom of the calendar",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Corner",
+   "visual": "Offer",
+   "audio_text": "\"Any 7 for $85\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Real version",
+   "prompt": "Print a calendar, tick days for real as a team member wears it, photograph it at the end."
+  },
+  {
+   "tool": "Figma",
+   "prompt": "Calendar grid 7x13, gold ticks, handwritten notes in 4-5 cells."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/iwo_cybulski/status/1833960761489813736",
+   "author": "iwo_cybulski",
+   "note": "A static ad for a beef-tallow cooking fat: a split image labelled DAY 1 and DAY 30 — a frying pan on the left, a happy family at a dinner table on the right — with benefit pills under each side. It is the closest real example we found to a streak / progress-over-time static; there is no checkmark calendar grid.",
+   "local": "example/poster.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F68-<concept>-<variant>`; tracking tag `utm_content=F68-<concept>-<variant>`.",
+  "Avoid: If you claim 90 days, someone should really have worn it 90 days.",
+  "Avoid: Keep notes tiny; the grid is the visual.",
+  "Avoid: No clean public example of this exact format was found; test it before scaling."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

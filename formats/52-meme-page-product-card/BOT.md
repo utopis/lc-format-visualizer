@@ -2,6 +2,69 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Static memes or 5-10s clips, daily, from an owned meme page), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@leonclipping](https://x.com/leonclipping/status/2107564115275501944) · A meme page format: a supercar "bro vs me" meme (two cars in a garage), then the app's speed card pasted in as the punchline. The page posts memes; the product rides inside them.
+- Example: [@iamjasonlevin](https://x.com/iamjasonlevin/status/2079193650450649327) · Nobody wants to follow your brand page. Your brand needs a "Finsta". A secondary account that lets you take risk you wouldn't normally on the main acc
+- Example: [@iamjasonlevin](https://x.com/iamjasonlevin/status/2075207111307563424) · Every brand should have a meme page If you are: - scared to post memes on main - run a SaaS or e-com - want to pull the funny marketing lever You shou
+- Example: [@iamjasonlevin](https://x.com/iamjasonlevin/status/2064716198843957258) · MEMECEPTION (n.) putting your product into memes In a sentence: “yo bro, memeception on big meme pages is the future of product placement”
+- Example: [@DimitriNakis](https://x.com/DimitriNakis/status/2034046029155258542) · Testing the Stake ad method for DoorList on frat meme pages. Might need to dial in the copy lol. Every app is a dating app
+- Example: [@jakewilliammo](https://x.com/jakewilliammo/status/1998076247331438778) · I found the “meme page arbitrage” opportunity of 2025 These videos AVERAGE millions of views And brands are completely sleeping on it It’s branded sor
+- Example: [@gauravsbuilding](https://x.com/gauravsbuilding/status/2086540833717895480) · Attention all founders who don't know how to market your app, it's fr this easy. Create IG + TikTok pages for: 1. Your Brand 2. AI Influencer 3. Theme
+- Example: [@shadcnblocks](https://x.com/shadcnblocks/status/2103741617194578191) · Copy DESIGN.md from any theme Open Alpine, Vercel, or any theme page → Brand guidelines → Copy DESIGN.md. Then install tokens with the shadcn CLI. Age
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Meme | Two-panel "bro vs me" or "them vs me" meme | "Them: takes jewellery off to shower. Me:" |
+| Product card | Small product card in the second panel | - |
+| Caption | - | "if you know you know" |
+| Cadence | Daily posting from the page; product in 1 of 4 posts | - |
+
+### Prompts
+
+**Meme bank (Claude)**
+
+```
+Write 30 two-panel meme captions for [niche] where panel two shows the product as the obvious answer; no punching down.
+```
+
+**Tools**
+
+```
+Canva meme templates or Imgflip; keep the page's look consistent.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F52-<concept>-<variant>`; tracking tag `utm_content=F52-<concept>-<variant>`.
+- [ ] Avoid: Use meme formats you have rights to; avoid copyrighted stills for paid ads.
+- [ ] Avoid: Product in at most one in four posts.
+- [ ] Avoid: Label the page as brand-owned in the bio.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

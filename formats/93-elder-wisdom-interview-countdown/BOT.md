@@ -2,6 +2,72 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 45-75s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@ZedNilm1](https://x.com/ZedNilm1/status/2101280447154036917) · An AI-generated street interview with a 90+ year-old man in a hat and long beard. The reporter asks him questions, he answers with captions ("MY GRANDFATHER LIVED"), then holds up the product ("MAKE A DIFFERENCE").
+- Example: [@father_rmv](https://x.com/father_rmv/status/2100219781668356485) · Saint Thascius Caecilius Cyprianus, commonly known as Saint Cyprian of Carthage, stands as one of the most influential figures in early Christianity, 
+
+### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Prime Prometics: Older-man talking head (Prime Prometics persona ad)** (331 days live): A white-haired man in a black shirt talks and laughs to camera, holding the product tube, with captions ("…called PrimeLash", "but I'm going to try", "My wife would", "The girls."). 153 s. Prime Prometics has 2,702 active ads.
+- **Resilia · Moshe Goldberg: “I'm 93 years old. I've never had high blood pressure. I've never had a…”** (1 days live): Opens: “I'm 93 years old. I've never had high blood pressure.”
+- **Resilia · Active Longevity Review: A monk holding the pouch** (1 days live): A monk holding the pouch: "2 soft gels a day keeps clogged arteries away. BUY 3 GET 2 FREE."
+
+**Do not copy (seen in these live ads):** The monks and elders appear AI-generated. Use real people.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-5s | Street interview: a lively 80-year-old woman in gold jewellery, reporter holds a mic | Reporter: "What's your secret?" She laughs: "Three things." |
+| 5-20s | Thing #3 (save the product for #1) | "I walk every day, rain or not." |
+| 20-35s | Thing #2 | "I never let anyone tell me I'm too old for anything." |
+| 35-50s | Thing #1: she holds up her necklace | "And I wear what I love, every day. My granddaughter got me this. I swim in it." |
+| End | Product + offer | "Any 7 for $85." |
+
+### Prompts
+
+**Veo 3**
+
+```
+street interview, an elegant 80-year-old woman with silver hair and a thin gold necklace laughing, handheld mic, sunny European street, shallow depth of field, 8s, 9:16
+```
+
+**Real version**
+
+```
+Interview a real older customer (with consent); film handheld with a lav mic.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F93-<concept>-<variant>`; tracking tag `utm_content=F93-<concept>-<variant>`.
+- [ ] Avoid: AI people must be labelled; never present an AI elder as a real customer.
+- [ ] Avoid: No health or longevity promises; jewellery is a habit, not a cure.
+- [ ] Avoid: Keep the elder dignified; she is the hero, not the punchline.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

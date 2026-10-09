@@ -2,6 +2,74 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 30-75s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@tryatria_AI](https://x.com/tryatria_AI/status/2106069700950294836) · A Pixar-style girl character in a timeline story about 75 seconds long. A provocative opening, then week-by-week scenes (bloating, a swirling gut visual, ingredients on a table), ending on the product pouch (Ankhwa). Captions mark each week.
+- Example: [@HenryCrochemore](https://x.com/HenryCrochemore/status/2014687698687062069) · $180k+ didn’t come from explaining beauty it came from warning most beauty ads soothe ingredients benefits “you’re fine, just glow more” this one didn
+- Example: [@ZedNilm1](https://x.com/ZedNilm1/status/2076276174754316716) · female beauty scare ads convert stupidly fast because they don’t educate they show the future your customer is afraid of not “get glowing skin” more l
+- Example: [@infovincentt](https://x.com/infovincentt/status/2094897333573918887) · yet another health and wellness brand pulling formats straight from organic health content except this one is using a few at once first it uses the cl
+- Example: [@TopDealsHq](https://x.com/TopDealsHq/status/2025474734440292568) · Day 1 vs Day 30… This Is What Changed “ad” (https://linktr.ee/ecohealthdaily) #FootCareRoutine #HealthyNailHabits #SelfCareOver35 #ToenailCareTips #UG
+- Example: [@skytookie](https://x.com/skytookie/status/2100679695973134683) · hey chat! as you may have seen, I've played in a few creator tournaments recently, and one thing I noticed is... there's ALWAYS a radiant or immortal 
+- Example: [@Kolskithenerd](https://x.com/Kolskithenerd/status/2078167446196777289) · Most healthcare ads lead with fear. I wanted to see what happens if you don't. Spec project: a full ad copy system for @AskAwaDoc , a WhatsApp-based A
+
+### Live paid ads in this format (6 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Feel Mighty: "Car chats" one-month update yapper (gifted, then hooked)** (341 days live): "Welcome to a new episode of car chats… I have been taking the mighty mushroom gummies for over a month now… initially these were sent to me as PR." 103 s.
+- **Resilia · Vascular Wellness Report: “A-Blood pressure took a lot of pressure on the blood pressure for two…”** (10 days live): Opens: “A-Blood pressure took a lot of pressure on the blood pressure for two months. Here's what happened, day one.”
+- **Resilia · Ancient Remedy Co: “Here's what happens to your belly pooch if you it wild oregano oil…”** (1 days live): Opens: “Here's what happens to your belly pooch if you it wild oregano oil every single day for eight weeks week one you don't feel a thing and you figure you got scammed another supplement that does nothing…”
+- **Resilia · Arterial Health Review: “What happens if you don if you don't clean out your arteries once they…”** (1 days live): Opens: “What happens if you don if you don't clean out your arteries once they start to clog? Day one, you feel completely normal, exactly like you have for years, but inside it has already begun.”
+- **Resilia · Arterial Health Review: “A black man with high blood pressure took aged garlic from Resilia for…”** (1 days live): Opens: “A black man with high blood pressure took aged garlic from Resilia for two months. Here's what happened.”
+- **Resilia · Arterial Health Review: “This is what happens When a 50 year old man Who struggles to get it up…”** (1 days live): Opens: “This is what happens When a 50 year old man Who struggles to get it up takes age garlic for 30 days A day one nothing dramatic He still can't please his wife He starts feelin' scammed Day seven He…”
+
+**Do not copy (seen in these live ads):** The health timelines include unsupported disease claims ("flushes calcium off artery walls"). Do not copy the claims.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Provocative hook over a character close-up (real or Pixar-style) | "What happens if you never take your necklace off for 30 days?" |
+| Week 1 | Small, believable change; caption "WEEK 1" | "Week 1: I forgot I was wearing it." |
+| Week 2 | Real situation (shower, gym) | "Week 2: shower, gym, sea. Still gold." |
+| Week 3 | Social proof moment | "Week 3: two people asked where it's from." |
+| Week 4 | Result + product | "Week 4: it looks like day one." + offer |
+
+### Prompts
+
+**Pixar-style frames (Midjourney)**
+
+```
+3D animated style woman, warm Pixar lighting, standing in a steamy bathroom touching her gold necklace, week 2 of a story, consistent character --cref [ref] --ar 9:16
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F12-<concept>-<variant>`; tracking tag `utm_content=F12-<concept>-<variant>`.
+- [ ] Avoid: Keep week 1 small; a huge week-1 result destroys believability.
+- [ ] Avoid: Every week claim must match what the product really does; no invented testimonials.
+- [ ] Avoid: Label AI visuals.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

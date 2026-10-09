@@ -1,5 +1,34 @@
 # Meta ad-library examples for F108
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Resilia · Blood Sugar Wellness: AI lab-coat “scientist” pitches cinnamon 1000 mg + berberine (1 day live)
+
+![Resilia 1097230673163542](w6_1097230673163542.jpg)
+
+![8-frame strip](w6_1097230673163542_strip.jpg)
+
+- **Ad:** [Meta Ad Library #1097230673163542](https://www.facebook.com/ads/library/?id=1097230673163542) · video 2:42 · page “Blood Sugar Wellness” · started 2026-10-07 · 1 copies · lands on `resilia.shop/products/resilia-ceylon-cinnamon`
+- **What happens:** Opens: “to-do-of to be on cinnamon.extract at 1000mg The same daily amount used in clinical studies Paired with 500mg of Burberry HCL I always recommend both pathways together”
+- **Why it works:** An AI scientist in a lab coat explains the mechanism in a factory setting ("insulin response… AMPK… combination… 70% of night"), posted from a "Nutritionist, PhD" persona page.
+- **How to make one:** If you use this format at all, use a real credentialed expert, on camera, disclosed.
+- **Do not copy:** An AI-generated "nutritionist PhD" persona making health claims is deceptive and likely violates platform policy. Do not copy.
+- **LC remake:** A real jeweller or metallurgist explains PVD bonding at the bench.
+
+<details><summary>Transcript (auto, first ~70 s)</summary>
+
+> to-do-of to be on cinnamon.extract at 1000mg The same daily amount used in clinical studies Paired with 500mg of Burberry HCL I always recommend both pathways together
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 <!-- WAVE4 -->
 ## Wave 4: Alex Fedotoff's October 2026 swipe boards (GetHookd public previews)
 

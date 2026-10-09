@@ -1,0 +1,125 @@
+{
+ "id": "F88",
+ "slug": "88-challenge-ad",
+ "name": "Challenge ad ('the 30-day never-take-it-off challenge')",
+ "type": "paid + organic",
+ "platforms": "[Meta, TikTok, IG]",
+ "cost_per_asset": "$0-200",
+ "time_per_asset": "1 h",
+ "length": "Launch ad (20-30s, 1080x1920) + participant posts + a wrap-up ad",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Founder or creator to camera, holding up the necklace",
+   "audio_text": "\"30 days. Never take it off. Not in the shower, not in the sea.\""
+  },
+  {
+   "slot": "3-10s",
+   "visual": "The rules on screen while she talks",
+   "audio_text": "\"Start Monday. Post day 1 and day 30 with #30DayLC. Best results win $500 of jewellery.\""
+  },
+  {
+   "slot": "10-20s",
+   "visual": "Fast montage of her own first days: shower, gym, pool",
+   "audio_text": "\"I'll go first.\""
+  },
+  {
+   "slot": "Updates (week 2-3)",
+   "visual": "Repost participant clips (with permission) as Stories and a weekly ad",
+   "audio_text": "\"Day 14: still gold.\""
+  },
+  {
+   "slot": "Wrap-up ad",
+   "visual": "Grid of day-30 photos + winners announced",
+   "audio_text": "\"312 of you did it. Here's what 30 days looks like.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Official rules (Claude)",
+   "prompt": "Write official rules for a 30-day wear challenge: dates, eligibility by country, how to enter, judging criteria, prize, how winners are notified, no purchase necessary wording where required."
+  },
+  {
+   "tool": "Content plan",
+   "prompt": "Post day 1, 7, 14, 21 and 30 updates; collect clips via a form with a rights checkbox."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/0xShahzaib_/status/2104901293190119594",
+   "author": "0xShahzaib_",
+   "note": "A real-world stress test: a creator unboxes a smart ring, then wears it through a gym workout (push-ups, dumbbells, machines) to see whether it holds up.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/TheModernElder/status/2093143918355357888",
+   "author": "TheModernElder",
+   "note": "DAY 10 OF UGC 30 DAY CHALLENGE Today video creation is officially running on repeat in my head. Reaching Day 10 has shifted my focus from making conte",
+   "local": "example/more/2093143918355357888.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/KimRaceRod/status/2097084996548726860",
+   "author": "KimRaceRod",
+   "note": "Day 21 of Creator Quest UGC 30 day challenge!!! I can't count and did two 19s🤦🏻‍♀️ Heading it to the last week and learning a ton🙌🏼 #cqchallenge #ugc ",
+   "local": "example/more/2097084996548726860.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/KimRaceRod/status/2096026203589095690",
+   "author": "KimRaceRod",
+   "note": "Day 18 of the Creator Quest UGC 30 day challenge!! I can't wait to land some gigs☺️ #cqchallenge #ugc @UGCbyBrandon https://t.co/wgkLXo5eXM",
+   "local": "example/more/2096026203589095690.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/KimRaceRod/status/2094998935949427016",
+   "author": "KimRaceRod",
+   "note": "Day 15 of the Creator Quest 30 day challenge!!! I did a reach out with my comment banner and it does look more professional!!! #cqchallenge #ugc @UGCb",
+   "local": "example/more/2094998935949427016.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/KimRaceRod/status/2100366661324779651",
+   "author": "KimRaceRod",
+   "note": "Day 30 of the Creator Quest UGC 30 day challenge 🙌🏼 We made and I learned so much!!! It's just the beginning 🙌🏼 #cqchallenge #ugc @UGCbyBrandon https:",
+   "local": "example/more/2100366661324779651.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/KimRaceRod/status/2093064218568233104",
+   "author": "KimRaceRod",
+   "note": "Day 9 of the Creator Quest UGC 30 day challenge. Working on sharpening and adding to my Fiverr, thumbnails to look more professional and mock videos t",
+   "local": "example/more/2093064218568233104.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F88-<concept>-<variant>`; tracking tag `utm_content=F88-<concept>-<variant>`.",
+  "Avoid: Prize promotions have legal rules per country (no-purchase-necessary, registration); check before launch.",
+  "Avoid: Don't promise results; show what participants actually posted.",
+  "Avoid: Plan for the quiet middle (days 8-20) with your own content."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

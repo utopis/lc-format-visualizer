@@ -1,0 +1,159 @@
+{
+ "id": "F92",
+ "slug": "92-foreign-insider-secret-story",
+ "name": "Foreign-insider story ('I lived in Seoul for 2 years and learned what Korean women actually use')",
+ "type": "paid",
+ "platforms": "[Meta, YouTube, TikTok]",
+ "cost_per_asset": "$0-300",
+ "time_per_asset": "half day",
+ "length": "45-120s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-5s",
+   "visual": "Narrator to camera or over B-roll of a city street",
+   "audio_text": "\"I lived in Seoul for two years and noticed something about the women in my office.\""
+  },
+  {
+   "slot": "5-30s",
+   "visual": "B-roll: subway, office, cafés; specific observation",
+   "audio_text": "\"Nobody took their jewellery off. Not for the gym, not for the sauna.\""
+  },
+  {
+   "slot": "30-60s",
+   "visual": "Why: the material they wear (stainless + PVD) and the habit",
+   "audio_text": "One true, specific detail per line"
+  },
+  {
+   "slot": "60-80s",
+   "visual": "Narrator back home, putting on the same kind of stack",
+   "audio_text": "\"So I found the closest thing here.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Product + offer",
+   "audio_text": "\"Louise Carter. Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude",
+   "prompt": "Write a first-person insider story about [place]. Every cultural detail must be accurate, specific and respectful; no stereotypes. The product is what the narrator adopted after living there. 90 seconds."
+  },
+  {
+   "tool": "B-roll",
+   "prompt": "Use licensed stock or your own travel footage of the city; no AI-generated \"local people\" presented as real."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/EcomSapo/status/2105288429873528875",
+   "author": "EcomSapo",
+   "note": "A Pixar-3D sung drama (Smooche) of about 10 minutes: a red-haired woman's story through a party, a bathroom shelf of skincare, a tearful close-up and a graduation crowd. The insider secret and the product arrive late in the song.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/AriaWeber59144/status/2011218867725746232",
+   "author": "AriaWeber59144",
+   "note": "Differences in Skin Care Between American and Korean Women #beauty #fyp #skincare #pretty #funny",
+   "local": "example/more/2011218867725746232.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/AriaWeber59144/status/2005818535054811329",
+   "author": "AriaWeber59144",
+   "note": "3 Beauty Habits Korean Women Always Follow #beauty #fyp #skincare #korea #funny",
+   "local": "example/more/2005818535054811329.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Yonderfood/status/2022310049440219511",
+   "author": "Yonderfood",
+   "note": "Inside a French pharmacy 🇫🇷 Timeless skincare staples French women swear by. Save this for your next trip. http://Yonderfood.com",
+   "local": "example/more/2022310049440219511.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LifeForge_Well/status/2033997661599125785",
+   "author": "LifeForge_Well",
+   "note": "This is the most gatekeeper Korean skincare line that actually real Korean women use #tiktokshopcreatorpicks #koreanskincare #torridendivein #antiagin",
+   "local": "example/more/2033997661599125785.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Petra Weber: \"Swiss urologist challenge\" CGI x-ray explainer (prostate)",
+   "days": 265,
+   "image": "adlibrary/w4_50658398.jpg",
+   "what": "\"Swiss urologist challenge: if you're not sleeping through the night within five days using this method, your prostate problems aren't what you think… Austrian urologists found… inflamed prostate tissue blocks the active ingredients…\" CGI anatomy plus a plant-watering analogy. 78 s.",
+   "how": "A challenge hook with a time limit, a foreign-research mechanism, CGI anatomy inserts, a simple analogy (watering leaves versus roots)."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “A woman I ignored five hours, 30,000 The Failed Flying out to Denver…”",
+   "days": 21,
+   "image": "adlibrary/w6_1084704331072976.jpg",
+   "what": "Opens: “A woman I ignored five hours, 30,000 The Failed Flying out to Denver, windows, see the sky Going by a woman by my side Korean maybe 60 and we ignored each other the whole right around hour before I…”",
+   "how": "Open with the cultural contrast line, show the insider setting (a pharmacy, a grandmother's kitchen), and present the product as the exported secret.",
+   "dnc": "The insider stories are fabricated. Keep the cultural claim factual."
+  },
+  {
+   "title": "Smooche · Cosmetic Times: “Korean women use one serum. American women stack six bottles. Each one…”",
+   "days": 20,
+   "image": "adlibrary/w6_1591340065263053.jpg",
+   "what": "Opens: “Korean women use one serum. American women stack six bottles.”",
+   "how": "Open with the cultural contrast line, show the insider setting (a pharmacy, a grandmother's kitchen), and present the product as the exported secret.",
+   "dnc": "The insider stories are fabricated. Keep the cultural claim factual."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “We have a confession. Our-team in Korea overproduced this batch and now…”",
+   "days": 10,
+   "image": "adlibrary/w6_2154104285180218.jpg",
+   "what": "Opens: “We have a confession. Our-team in Korea overproduced this batch and now we're stuck with thousands of extra bottles we have to move fast.”",
+   "how": "Open with the cultural contrast line, show the insider setting (a pharmacy, a grandmother's kitchen), and present the product as the exported secret.",
+   "dnc": "The insider stories are fabricated. Keep the cultural claim factual."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “I discovered the secret to turning back the clock on my skin at the…”",
+   "days": 7,
+   "image": "adlibrary/w6_2091697274886848.jpg",
+   "what": "Opens: “I discovered the secret to turning back the clock on my skin at the four seasons in Korea last year. I finally discovered the secret Korean women have to flawless complexions.”",
+   "how": "Open with the cultural contrast line, show the insider setting (a pharmacy, a grandmother's kitchen), and present the product as the exported secret.",
+   "dnc": "The insider stories are fabricated. Keep the cultural claim factual."
+  },
+  {
+   "title": "Resilia · Insulin Response Review: “I flew to Japan after my doctor told E.A.1C was 10.3 and I had to go to…”",
+   "days": 1,
+   "image": "adlibrary/w6_1019726471127971.jpg",
+   "what": "Opens: “I flew to Japan after my doctor told E.A.1C was 10.3 and I had to go to the T-slo like she already knew where this was going and then she started started talking and didn't stop for the next few…”",
+   "how": "Open with the cultural contrast line, show the insider setting (a pharmacy, a grandmother's kitchen), and present the product as the exported secret.",
+   "dnc": "The insider stories are fabricated. Keep the cultural claim factual."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F92-<concept>-<variant>`; tracking tag `utm_content=F92-<concept>-<variant>`.",
+  "Avoid: No stereotypes or invented facts about a culture.",
+  "Avoid: The narrator must really have lived there, or present it as a character.",
+  "Avoid: Don't claim the product is from that country if it isn't."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

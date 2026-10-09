@@ -1,0 +1,113 @@
+{
+ "id": "F70",
+ "slug": "70-tough-love-blunt-narrator",
+ "name": "Tough Love: blunt, scolding narrator ad ('stop doing this to yourself')",
+ "type": "paid",
+ "platforms": "[Meta, TikTok]",
+ "cost_per_asset": "$0-100",
+ "time_per_asset": "45 min",
+ "length": "20-40s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Narrator to camera, arms crossed, blunt",
+   "audio_text": "\"Stop buying $15 necklaces that last three weeks.\""
+  },
+  {
+   "slot": "3-12s",
+   "visual": "Quick cuts of the habit being scolded",
+   "audio_text": "\"You've done this six times. That's $90.\""
+  },
+  {
+   "slot": "12-22s",
+   "visual": "The fix",
+   "audio_text": "\"Buy once. 14K PVD. Shower in it.\""
+  },
+  {
+   "slot": "22-30s",
+   "visual": "Softer close",
+   "audio_text": "\"You deserve jewellery that lasts.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude",
+   "prompt": "Write 10 tough-love scripts for [audience]: scold the habit, never the person; end kind."
+  },
+  {
+   "tool": "Casting",
+   "prompt": "A confident narrator (stylist, older sister energy); one take, direct to camera."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/ZedNilm1/status/2098017463195553912",
+   "author": "ZedNilm1",
+   "note": "A blunt, tough-love narrator over gross-out medical visuals (\"YOU HAVE PARASITES\", a gut close-up, a CGI man in a bathroom), then a man in scrubs and a mask talking frankly to camera. It is meant to look like it took 10 minutes to make.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LinoLeighton/status/2108195005126869080",
+   "author": "LinoLeighton",
+   "note": "Drama Ads ripping rn… 100% AI drama ad made with Seedance 2.5 Here’s how to make your drama ads actually hit: Go to agent on arcads Start with an aggr",
+   "local": "example/more/2108195005126869080.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Pure Rhythm: Tough-love podcast rant (\"women over 40 who still don't know this\")",
+   "days": 324,
+   "image": "adlibrary/w4_83396647.jpg",
+   "what": "\"I can't believe… woman over 40 who still doesn't know this… waking up wrecked, bloated, drained… I'm not angry. I'm just tired of watching people suffer because no one tells them the truth. Magnesium is the foundation…\" 84 s.",
+   "how": "An older male expert on a podcast set, a frustrated tone, a 6-symptom list, one ingredient as the foundation."
+  },
+  {
+   "title": "Resilia · Natural Defense Report: “If you smell yourself the week before your period, you're already at…”",
+   "days": 1,
+   "image": "adlibrary/w6_1634124788354262.jpg",
+   "what": "Opens: “If you smell yourself the week before your period, you're already at stage one. There are five.”",
+   "how": "Use the stage-count structure with a blunt voice, and soften the claims.",
+   "dnc": "Medical stage claims here are unsupported."
+  },
+  {
+   "title": "Resilia · Ancient Remedy Co: “And just one night and you do not meet a diet or a doctor for this…”",
+   "image": "adlibrary/w6_1087459937511189.jpg",
+   "what": "Opens: “And just one night and you do not meet a diet or a doctor for this. This is what doctors won't tell you.”",
+   "how": "Use the stage-count structure with a blunt voice, and soften the claims.",
+   "dnc": "Medical stage claims here are unsupported."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F70-<concept>-<variant>`; tracking tag `utm_content=F70-<concept>-<variant>`.",
+  "Avoid: Scold the habit, not the viewer's body or worth.",
+  "Avoid: Numbers must be realistic.",
+  "Avoid: End with warmth or it reads as mean."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

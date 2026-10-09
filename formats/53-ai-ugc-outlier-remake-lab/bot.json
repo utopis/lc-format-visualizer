@@ -1,0 +1,139 @@
+{
+ "id": "F53",
+ "slug": "53-ai-ugc-outlier-remake-lab",
+ "name": "AI UGC outlier-remake lab (find outliers → AI test on organic → remake winners with real creators → paid)",
+ "type": "organic → paid pipeline",
+ "platforms": "[TikTok, Reels, YouTube Shorts, Facebook → Meta ads]",
+ "cost_per_asset": "$2-10 per AI test video + tooling",
+ "time_per_asset": "pipeline setup 1-2 days; then ~20 min/video",
+ "length": "System: weekly loop (find outliers → AI test → real remake → paid)",
+ "shots": [
+  {
+   "slot": "Find",
+   "visual": "Pull outlier organic posts in the niche (10x the account's median views)",
+   "audio_text": "Sheet: link, hook, structure, views"
+  },
+  {
+   "slot": "AI test",
+   "visual": "Remake 5 outliers with AI UGC (labelled) and post organically",
+   "audio_text": "Same hook and beats as the outlier"
+  },
+  {
+   "slot": "Pick",
+   "visual": "Keep the 1-2 that beat the account median",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Real remake",
+   "visual": "Brief real creators to film the winners",
+   "audio_text": "Exact beat sheet from the AI version"
+  },
+  {
+   "slot": "Paid",
+   "visual": "Run the real versions as paid; retire after fatigue",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Outlier search",
+   "prompt": "TikTok Creative Center / Foreplay: filter by niche, last 30 days, sort by views; keep posts at 10x the account median."
+  },
+  {
+   "tool": "AI remake (Arcads / Seedance)",
+   "prompt": "Split-screen check: put the original and the AI remake side by side and match every beat before posting."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/rathikrishnav/status/2056472046192951468",
+   "author": "rathikrishnav",
+   "note": "A split-screen test: on the left the brand's real UGC ad ('REAL AD'), on the right an AI-generated remake ('OUR AI AD') with a different AI creator copying the same moves — holding the yellow skincare jar, applying it, reacting — beat for beat for about 40 seconds. The point: a winning ad can be cloned with AI to test new faces.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/raph_guilhem/status/2095453949805392267",
+   "author": "raph_guilhem",
+   "note": "Seedance 2.5 is insane for AI UGC. I built a Claude skill that takes an ad that's already converting and puts a new person in it. This is perfect for ",
+   "local": "example/more/2095453949805392267.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/SimScaler/status/2034333069167984905",
+   "author": "SimScaler",
+   "note": "You should be PRINTING with AI UGC right now You can reverse engineer any winning ad And recreate it in minutes with your own AI creator That's the ne",
+   "local": "example/more/2034333069167984905.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/angeldot_/status/2107913083783987306",
+   "author": "angeldot_",
+   "note": "Cal AI scaled to 15M downloads before being acquired by MyFitnessPal now its co-founder just open-sourced the AI UGC workflow he wishes he had while b",
+   "local": "example/more/2107913083783987306.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ai_cult1/status/2092368368968049118",
+   "author": "ai_cult1",
+   "note": "Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months).",
+   "local": "example/more/2092368368968049118.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/N01ennn/status/2107887039513268301",
+   "author": "N01ennn",
+   "note": "the person who ran UGC for Cal AI on its way to a $50M run rate just laid out how to run an AI UGC army for any app. this is pure f*cking treasure. so",
+   "local": "example/more/2107887039513268301.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/slash1sol/status/2107878663488188775",
+   "author": "slash1sol",
+   "note": "THE CO-FOUNDER WHO RAN GROWTH AT CAL AI JUST LEAKED THE ENTIRE AI UGC PIPELINE. ONE PERSON, ZERO CREATORS, THOUSANDS OF TEST VIDEOS Cal AI went to 15M",
+   "local": "example/more/2107878663488188775.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/brainextends/status/2094873288040497282",
+   "author": "brainextends",
+   "note": "i made $36,863 this month using ai agents heres the 3 step process i use : -> i created an ai agent that scans 24/7 for new trends on tiktok once it s",
+   "local": "example/more/2094873288040497282.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/defileo/status/2107886078841729342",
+   "author": "defileo",
+   "note": "This is the CRAZIEST f*ckn sonnet 5.5 automation setup... One Claude Code orchestrator runs a full AI UGC pipeline across Apify, Higgsfield and Postiz",
+   "local": "example/more/2107886078841729342.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F53-<concept>-<variant>`; tracking tag `utm_content=F53-<concept>-<variant>`.",
+  "Avoid: Label AI UGC.",
+  "Avoid: Remake the structure, never copy someone's footage or exact script.",
+  "Avoid: Kill AI tests fast; they are only for picking."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

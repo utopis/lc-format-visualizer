@@ -20,7 +20,7 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:04 | · | If you have acne, this product is going to be your new best run. |
 | 2 | 0:04–0:08 | · | So last night, I had one of those pimples where they're just so deep in your skin, |
-| 3 | 0:08–0:13 | he Eva Just ther DO ef | like you know the ones where you can't pop them, they're just there, they take forever to go away, |
+| 3 | 0:08–0:13 | he Eva Just | like you know the ones where you can't pop them, they're just there, they take forever to go away, |
 | 4 | 0:13–0:17 | · | they're just like massive and you can't do anything about them. I zapped that pimple |
 | 5 | 0:17–0:22 | · | for about 30 seconds with this machine so I just held it up to my chin. |
 | 6 | 0:22–0:26 | · | And I went like that for about 30 seconds. I woke up in the morning when I tell you my |

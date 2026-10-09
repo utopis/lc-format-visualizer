@@ -2,6 +2,74 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 30-60s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@stat_biz](https://x.com/stat_biz/status/2100293137709269251) · A real wedding moment (a crying bride, a flower) as the hook, then a phone showing the app (Once camera) collecting guests' photos, ending on a QR code and the app name. The emotion comes first and the mechanism is revealed after.
+- Example: [@ByMorola](https://x.com/ByMorola/status/1752970187198865515) · We love reviews. We customized a bracelet for a client and frame 1 was her reaction. Customized bracelet- N11000 Adjustable customized bracelets for w
+- Example: [@Strawaubreyyy](https://x.com/Strawaubreyyy/status/2006263964175622457) · Napaiyak ko sya nung Shady brunch 🥹 I gave her a locket necklace na may picture ng mom nya so she can carry it with her everywhere she goes🥹 & I told 
+- Example: [@eva_jiang47397](https://x.com/eva_jiang47397/status/1824386160946274779) · I bought my American mother-in-law a Chinese bracelet on Independence Day, and she was shocked.but she liked the necklace I gave her very much and hop
+- Example: [@sammgrowth](https://x.com/sammgrowth/status/2080991187133943894) · i should never be sharing this but fuck it a wedding app is running the craziest ai ugc play of 2026 and nobody has clocked it 11.8M views on one tikt
+- Example: [@Pavol_Repisky](https://x.com/Pavol_Repisky/status/2078415656895082582) · Disposable-camera app $20K/mo in 83 days; best TikTok 10M views/900K likes = AI bride crying at "her" wedding.
+
+### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Aucier: AI story ad: sister's autistic son's meltdowns (sensory product)** (447 days live): "My autistic son's meltdowns were destroying our family until I found this…" A first-person family story told over AI-generated scenes. 108 s.
+- **Pure Rhythm: Menopause reframe podcast (hair / energy)** (326 days live): "When your period stops, your brain literally cuts off the signal to your ovaries… that's the moment you need to say, no, I'm not going to waste away at 50. I still have 30 years ahead." 101 s.
+- **Mariella Gut Health Expert: "Gross embarrassing story time" gut yapper (Mariella Gut Health Expert)** (320 days live): A creator on a couch: "Alright, gross embarrassing story time! A few months ago I started noticing that my smells were… terrible… I was feeling bloated, icky… I consulted a few physicians, they said something was wrong with my gut health…" 105 s.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-5s | Wedding morning, bride's mum crying quietly | Caption: "We gave her mum's old necklace a second life." |
+| 5-20s | Flashback photos of the mum wearing a necklace; it had turned green | Soft VO from the daughter |
+| 20-35s | Gift moment: a small box, the new necklace | "So she can wear it every day now. Even in the sea." |
+| 35-45s | Mum wearing it at the reception, dancing | - |
+| End | Brand card, soft offer | - |
+
+### Prompts
+
+**Casting**
+
+```
+Use a real customer story (with consent) or label it as a dramatisation.
+```
+
+**Shoot**
+
+```
+Warm grade, handheld, natural sound; music swells only at the gift moment.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F55-<concept>-<variant>`; tracking tag `utm_content=F55-<concept>-<variant>`.
+- [ ] Avoid: Label dramatisations.
+- [ ] Avoid: Don't exploit grief; keep it warm, not sad.
+- [ ] Avoid: The product must be the hidden mechanism, not the hero of every shot.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

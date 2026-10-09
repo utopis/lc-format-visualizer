@@ -16,8 +16,8 @@ Two screenshots: a recipe app's App Store page (Daily Bite, "Save Any Recipe Any
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | 19:42 19 App Stats 5k downloads $10k revenue last month Cancel Daily Bite: Save Recipes oS Meal Planner, Grocery List ep DEV LANG Years Food Drink Jasper En Save Any Recipe 500 High-protein Anywhere written for From Instagram, or any website of Daily Bite Meal pre for Daily Bite a 1. ws Sea es Apps  |
-| 2 | 20:09 iS 15 Success Fitness 55 1.4M 25.4M Following Followers Likes Follow Message Nutrition Coach Get our app with all 500 recipes Success board Subscription hy ty ie a wa Pr ad at ae TO! your. this YO! IF a fe ae 222M mom sl ow a ED INNER STi Fi Ig! YOU Pull WEEK! YOUR: Ss. sae ee ob 23. pe NS TIT |
+| 1 | 19:42 19 App Stats 5k downloads $10k revenue last month Cancel Daily Bite: Save Recipes … Meal Planner, Grocery List … DEV LANG Years Food Drink Jasper … Save Any Recipe 500 … High-protein Anywhere written for From Instagram, … or any website of Daily Bite Meal pre … Apps Arcade Search |
+| 2 | 20:09 iS 15 … 55 1.4M 25.4M Following Followers Likes Follow Message … Nutrition Coach Get our app with all 500 recipes … Pull WEEK! YOUR: |
 
 ## More real examples (5)
 

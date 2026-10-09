@@ -16,7 +16,7 @@ A photoreal AI runway shot: a model in a velvet mini-dress and thigh-high boots 
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | mS ws ra |
+| 1 | (mostly visual) |
 
 ## More real examples (3)
 

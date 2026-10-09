@@ -16,7 +16,7 @@ A plain warning static: a red triangle and "IMPORTANT NOTICE: Please Check Befor
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | IMPORTANT NOTICE Please Check Before Purchasing We've noticed a lot of replicas of our PRODUCT. If you purchase from any other shop than you are likely to end up with a low quality replica. It can be nearly impossible to tell the difference because they are using BRAND’s images and brand name. These |
+| 1 | IMPORTANT NOTICE Please Check Before Purchasing We've noticed a lot of … of our PRODUCT. If you purchase from any other shop than … you are likely to end up with a low quality replica. It can be nearly impossible to tell the difference because they are using … images and brand name. These … are typi |
 
 ## More real examples (3)
 

@@ -16,7 +16,7 @@ A handwritten paper sign taped above a product on a Christmas tree: "WellnessBab
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | hy Nola ed CYBER MONDAY 007. OFF TODAY WH My I NS I aN gm |
+| 1 | CYBER MONDAY 007. OFF TODAY |
 
 ## More real examples (3)
 

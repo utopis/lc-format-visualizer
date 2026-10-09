@@ -29,6 +29,8 @@ related_strategies: [35-mass-awareness-placement-to-advertorial, 41-von-restorff
 
 
 
+
+
 ## What it looks like
 Looks like a friend's Facebook post, not an ad: a person's name as page ("Claire Parker · Sponsored"), first line is a story ("My husband's 'work wife' came to Barbados with us. Our anniversary. His idea. 'Don't make this weird,' he said…"), a candid phone photo, **nothing about the product in the first 40 words**, then a long story (300-2,500 chars) where the product lands as the thing she used ([@antonioventre_](https://x.com/antonioventre_/status/2107899522353381868)). Click → advertorial (first-person or news-interview style) → PDP/bundle.
 Illustrated variant: 2-4 comic panels with a cliffhanger caption; "the ad sells the next line of the story; the advertorial does the closing" ([@antonioventre_](https://x.com/antonioventre_/status/2083619527170871298)).

@@ -16,15 +16,15 @@ A cross-out static for Eden: "12 months upfront", "6-month lock-in" and "quarter
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | 72 month to month. Pay as you go. Cancel anytime. Compounded $99 |
+| 1 | month to month. Pay as you go. Cancel anytime. Compounded |
 
-## More real examples (2)
+## More real examples (3)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@thedennis](example/more/1777712624060317886.jpg)](https://x.com/thedennis/status/1777712624060317886)<br>**@thedennis** · image · 1K views<br>Inspiring your next static ad text The cross out headline. Something I've been seeing a lot of brands do lately and I know this creative we've made fo | [![@navneet_214](example/more/2061485424753689072.jpg)](https://x.com/navneet_214/status/2061485424753689072)<br>**@navneet_214** · image · 28 views<br>Static ad concept for WeEarth 🌱 Urgency without noise. Hard deadline. Crossed-out price. One discount code. That's the whole ad. Simple angles convert |   |
+| [![@thedennis](example/more/1777712624060317886.jpg)](https://x.com/thedennis/status/1777712624060317886)<br>**@thedennis** · image · 1K views<br>Inspiring your next static ad text The cross out headline. Something I've been seeing a lot of brands do lately and I know this creative we've made fo | [![@navneet_214](example/more/2061485424753689072.jpg)](https://x.com/navneet_214/status/2061485424753689072)<br>**@navneet_214** · image · 28 views<br>Static ad concept for WeEarth 🌱 Urgency without noise. Hard deadline. Crossed-out price. One discount code. That's the whole ad. Simple angles convert | [![@helloitsdrew_](example/more/2053838002699305176.jpg)](https://x.com/helloitsdrew_/status/2053838002699305176)<br>**@helloitsdrew_** · image · 382 views<br>Static Breakdown #25 💧 A simple strikethrough can do a lot of heavy lifting in a static. Just like @drinkAG1 here — by crossing out "multiple pills" a |
 
 ## How to make one like it
 

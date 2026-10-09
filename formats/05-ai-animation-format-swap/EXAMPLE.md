@@ -24,8 +24,8 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 | 4 | 0:07–0:10 | · | One scoop, hot milk, froth it like you mean it, chocolate, at bedtime, legally. |
 | 5 | 0:10–0:12 | · | · |
 | 6 | 0:12–0:15 | · | Raisin, magnesium, the ashwagangji thing, it's gone quiet in here, suspicious. |
-| 7 | 0:15–0:17 | 2D Retro 3D Pixar ee ee ment Ls a 301 ip | Ooh, that's the good kind of heavy. |
-| 8 | 0:17–0:20 | 2D Retro 3D Pixar od Ge oa Pt a pf a4 MN | · |
+| 7 | 0:15–0:17 | · | Ooh, that's the good kind of heavy. |
+| 8 | 0:17–0:20 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -37,7 +37,7 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -45,6 +45,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@Diego_exits](example/more/2101991919920243015.jpg)](https://x.com/Diego_exits/status/2101991919920243015)<br>**@Diego_exits** · images · 4K views<br>PRIMALQUEEN $6M/mo, 1,019 active ads; normal cartoon ads. | [![@CEO_Vlad](example/more/2107328605995077699.jpg)](https://x.com/CEO_Vlad/status/2107328605995077699)<br>**@CEO_Vlad** · image · 49K views<br>7 AI UGC animation styles and what each is good for (article). | [![@ArmandasPuckus](example/more/2107781382533472512.jpg)](https://x.com/ArmandasPuckus/status/2107781382533472512)<br>**@ArmandasPuckus** · image · 44K views<br>'Selling to menopausal women with AI animations IS the method'. |
 | [![@LordofAds](example/more/2102132251706429937.jpg)](https://x.com/LordofAds/status/2102132251706429937)<br>**@LordofAds** · images · 5K views<br>'Money glitch': remake best 30-day ad in 6 animation styles (Pixar, anime, paper cutout, whiteboard, skeleton...). | [![@therahulissar](example/more/2099519666045776287.jpg)](https://x.com/therahulissar/status/2099519666045776287)<br>**@therahulissar** · images · 3K views<br>Break Meta audience cap with format change (same message, new display: AI video, static, lo-fi) and new personas. | [![@CEO_Vlad](example/more/2087333716334924071.jpg)](https://x.com/CEO_Vlad/status/2087333716334924071)<br>**@CEO_Vlad** · image · 10K views<br>Pixar-style AI ads helped $117k day. |
+| [![@aaliya_va](example/more/2098420179403444486.jpg)](https://x.com/aaliya_va/status/2098420179403444486)<br>**@aaliya_va** · 0:20 video · 8K views<br>A product image can now become a 3D ad without starting from scratch. Arcads lets you add your website and product image, pick an animation style and | [![@ashen_one](example/more/2105715646273368159.jpg)](https://x.com/ashen_one/status/2105715646273368159)<br>**@ashen_one** · 0:25 video · 3K views<br>if you're using AI to cook ads and you've been doing the claymation meta, the singing meta seems to be next using arcads, you can cook an entire ad in |   |
 
 ## How to make one like it
 

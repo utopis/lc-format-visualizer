@@ -1,0 +1,126 @@
+{
+ "id": "F64",
+ "slug": "64-reminder-retargeting-sequence",
+ "name": "Reminder / retargeting sequence ads (abandoned cart, countdown, back-in-stock, wishlist, cross-sell)",
+ "type": "paid (BOF)",
+ "platforms": "[Meta Stories/feed, TikTok, mirrored in Omnisend/OneText]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "1 day setup",
+ "length": "Sequence of 3-5 retargeting ads over 14 days",
+ "shots": [
+  {
+   "slot": "Day 1-3: reminder",
+   "visual": "Product the person viewed, plain",
+   "audio_text": "\"Still thinking about the Mae Necklace?\""
+  },
+  {
+   "slot": "Day 4-7: proof",
+   "visual": "Review card for that product",
+   "audio_text": "\"4.8 stars. 'I never take it off.'\""
+  },
+  {
+   "slot": "Day 8-10: objection",
+   "visual": "Water test clip",
+   "audio_text": "\"Yes, you can shower in it.\""
+  },
+  {
+   "slot": "Day 11-14: offer",
+   "visual": "Bundle offer",
+   "audio_text": "\"Make it 7 for $85.\""
+  },
+  {
+   "slot": "Back-in-stock",
+   "visual": "Separate audience: waitlist",
+   "audio_text": "\"It's back.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Meta",
+   "prompt": "Audiences: viewed product 1-3d, 4-7d, 8-14d excluding purchasers; one ad per window; frequency cap 2/day."
+  },
+  {
+   "tool": "Catalog",
+   "prompt": "Use dynamic product ads for the reminder step so the exact product shows."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/aakashkapil01/status/2080679066693492819",
+   "author": "aakashkapil01",
+   "note": "An infographic of an abandoned-cart flow: \"Abandoned Cart Flows\" with a phone showing a \"Forgot something?\" message and 4 timed steps (1 hour reminder, 24 hours social proof, 48 hours incentive, recovery).",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/NickyFiorentino/status/1904794555633070330",
+   "author": "NickyFiorentino",
+   "note": "A clean, simple retargeting ad for the Carnivore Box.",
+   "local": "example/more/1904794555633070330.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/FedotOff90/status/1837151672797216904",
+   "author": "FedotOff90",
+   "note": "Find out why this Manscaped retargeting ad generates $200k+/mo 🧵",
+   "local": "example/more/1837151672797216904.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ZacGawn/status/2098111904082460674",
+   "author": "ZacGawn",
+   "note": "This morning's retargeting ad",
+   "local": "example/more/2098111904082460674.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/marcobatt/status/1717565246674743387",
+   "author": "marcobatt",
+   "note": "3 reasons why I love this ad format # US vs THEM 1. It's the perfect retargeting creative (works 95% of the times) 2. You can communicate your USP 3. ",
+   "local": "example/more/1717565246674743387.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/zakburgers/status/2080407812891455789",
+   "author": "zakburgers",
+   "note": "II find it kinda crazy when I onboard brands that are doing 7 figs a month and they don't have email flows Just imagine the math behind email sales Sa",
+   "local": "example/more/2080407812891455789.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Resilia · Arterial Health Review: “OOPS! You left some softgels in your cart. LIMITED STOCK”",
+   "days": 1,
+   "image": "adlibrary/w6_1105798451932226.jpg",
+   "what": "\"OOPS! You left some softgels in your cart. LIMITED STOCK\" with the pouch on a maroon panel.",
+   "how": "Use an \"OOPS\" headline, the exact product, a \"limited stock\" chip, and show it only to cart abandoners within 7 days."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F64-<concept>-<variant>`; tracking tag `utm_content=F64-<concept>-<variant>`.",
+  "Avoid: Exclude purchasers.",
+  "Avoid: Don't chase people for months; 14-30 days is enough.",
+  "Avoid: Match the product shown to what they viewed."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

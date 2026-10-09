@@ -16,7 +16,7 @@ An infographic of an abandoned-cart flow: "Abandoned Cart Flows" with a phone sh
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | E-COMMERCE AUTOMATION Simple 4-Step Flow That Works! Abandoned HOUR FIRST REMINDER gentle nudge about Cart Flows: their forgotten cart. nets on. oy 24 HOURS The right message. SOCIAL PROOF At the right time. Show benefits, reviews, Brings them and and build trust. revenue back. Forgot something? We  |
+| 1 | E-COMMERCE AUTOMATION Simple 4-Step Flow That Works! Abandoned HOUR FIRST REMINDER gentle nudge about Cart Flows: their forgotten cart. … 24 HOURS The right message. SOCIAL PROOF At the right time. … Show benefits, reviews, Brings them and … and build trust. revenue back. Forgot something? We saved  |
 
 ## More real examples (5)
 

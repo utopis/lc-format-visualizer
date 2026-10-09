@@ -2,6 +2,72 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Sequence of 3-5 retargeting ads over 14 days), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@aakashkapil01](https://x.com/aakashkapil01/status/2080679066693492819) · An infographic of an abandoned-cart flow: "Abandoned Cart Flows" with a phone showing a "Forgot something?" message and 4 timed steps (1 hour reminder, 24 hours social proof, 48 hours incentive, recovery).
+- Example: [@NickyFiorentino](https://x.com/NickyFiorentino/status/1904794555633070330) · A clean, simple retargeting ad for the Carnivore Box.
+- Example: [@FedotOff90](https://x.com/FedotOff90/status/1837151672797216904) · Find out why this Manscaped retargeting ad generates $200k+/mo 🧵
+- Example: [@ZacGawn](https://x.com/ZacGawn/status/2098111904082460674) · This morning's retargeting ad
+- Example: [@marcobatt](https://x.com/marcobatt/status/1717565246674743387) · 3 reasons why I love this ad format # US vs THEM 1. It's the perfect retargeting creative (works 95% of the times) 2. You can communicate your USP 3. 
+- Example: [@zakburgers](https://x.com/zakburgers/status/2080407812891455789) · II find it kinda crazy when I onboard brands that are doing 7 figs a month and they don't have email flows Just imagine the math behind email sales Sa
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Resilia · Arterial Health Review: “OOPS! You left some softgels in your cart. LIMITED STOCK”** (1 days live): "OOPS! You left some softgels in your cart. LIMITED STOCK" with the pouch on a maroon panel.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Day 1-3: reminder | Product the person viewed, plain | "Still thinking about the Mae Necklace?" |
+| Day 4-7: proof | Review card for that product | "4.8 stars. 'I never take it off.'" |
+| Day 8-10: objection | Water test clip | "Yes, you can shower in it." |
+| Day 11-14: offer | Bundle offer | "Make it 7 for $85." |
+| Back-in-stock | Separate audience: waitlist | "It's back." |
+
+### Prompts
+
+**Meta**
+
+```
+Audiences: viewed product 1-3d, 4-7d, 8-14d excluding purchasers; one ad per window; frequency cap 2/day.
+```
+
+**Catalog**
+
+```
+Use dynamic product ads for the reminder step so the exact product shows.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F64-<concept>-<variant>`; tracking tag `utm_content=F64-<concept>-<variant>`.
+- [ ] Avoid: Exclude purchasers.
+- [ ] Avoid: Don't chase people for months; 14-30 days is enough.
+- [ ] Avoid: Match the product shown to what they viewed.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

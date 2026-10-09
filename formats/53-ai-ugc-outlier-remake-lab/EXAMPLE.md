@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:05 | REAL AD OUR Al AD Ss Coa a 7% | If your deodorant is not infused with skincare, throw it out. |
-| 2 | 0:05–0:09 | REAL AD OUR Al AD el at an | Look at what MediCube just came out with. They came out with the deodorant with skincare with Kojik Acid and Turmeric. |
-| 3 | 0:09–0:14 | REAL AD OUR Al AD ol 1% a | So if you have those dark underarms, which most of us do, this is going to help lighten and brighten. |
-| 4 | 0:14–0:19 | REAL AD OUR Al AD So Ii Ne if | Please tell me why it took the girls 30 freaking years to figure out how to lighten their armpits. And no, it's not laser, okay? |
-| 5 | 0:19–0:24 | REAL AD OUR AI AD wv ee Ny a ad | This is literally after using these Kojik Acid Turmeric toner pads for like two weeks. Like the glow is insane. |
-| 6 | 0:24–0:29 | REAL AD OUR Al AD aa as AD | The dark spots, the texture, everything started fading. Like this is what I've been using. It's literally pre-soaked. |
-| 7 | 0:29–0:34 | REAL AD OUR Al AD a Ar fi Ms AD | You just swipe it on and you're done. And I swear this is the first thing that's actually worked without burning my skin off. |
-| 8 | 0:34–0:39 | REAL AD OUR Al AD we AO ae | Like my underarms used to look so uneven and now they're literally smooth and bright. Like when I say glass skin for your bo- |
+| 1 | 0:00–0:05 | · | If your deodorant is not infused with skincare, throw it out. |
+| 2 | 0:05–0:09 | · | Look at what MediCube just came out with. They came out with the deodorant with skincare with Kojik Acid and Turmeric. |
+| 3 | 0:09–0:14 | · | So if you have those dark underarms, which most of us do, this is going to help lighten and brighten. |
+| 4 | 0:14–0:19 | · | Please tell me why it took the girls 30 freaking years to figure out how to lighten their armpits. And no, it's not laser, okay? |
+| 5 | 0:19–0:24 | · | This is literally after using these Kojik Acid Turmeric toner pads for like two weeks. Like the glow is insane. |
+| 6 | 0:24–0:29 | · | The dark spots, the texture, everything started fading. Like this is what I've been using. It's literally pre-soaked. |
+| 7 | 0:29–0:34 | · | You just swipe it on and you're done. And I swear this is the first thing that's actually worked without burning my skin off. |
+| 8 | 0:34–0:39 | · | Like my underarms used to look so uneven and now they're literally smooth and bright. Like when I say glass skin for your bo- |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -48,7 +48,7 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -56,6 +56,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@raph_guilhem](example/more/2095453949805392267.jpg)](https://x.com/raph_guilhem/status/2095453949805392267)<br>**@raph_guilhem** · 0:34 video · 391 views<br>Seedance 2.5 is insane for AI UGC. I built a Claude skill that takes an ad that's already converting and puts a new person in it. This is perfect for | [![@SimScaler](example/more/2034333069167984905.jpg)](https://x.com/SimScaler/status/2034333069167984905)<br>**@SimScaler** · 0:08 video · 1K views<br>You should be PRINTING with AI UGC right now You can reverse engineer any winning ad And recreate it in minutes with your own AI creator That's the ne | [![@angeldot_](example/more/2107913083783987306.jpg)](https://x.com/angeldot_/status/2107913083783987306)<br>**@angeldot_** · 0:18 video · 18K views<br>Cal AI scaled to 15M downloads before being acquired by MyFitnessPal now its co-founder just open-sourced the AI UGC workflow he wishes he had while b |
 | [![@ai_cult1](example/more/2092368368968049118.jpg)](https://x.com/ai_cult1/status/2092368368968049118)<br>**@ai_cult1** · 47:51 video · 49 views<br>Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months). | [![@N01ennn](example/more/2107887039513268301.jpg)](https://x.com/N01ennn/status/2107887039513268301)<br>**@N01ennn** · 0:12 video · 12K views<br>the person who ran UGC for Cal AI on its way to a $50M run rate just laid out how to run an AI UGC army for any app. this is pure f*cking treasure. so | [![@slash1sol](example/more/2107878663488188775.jpg)](https://x.com/slash1sol/status/2107878663488188775)<br>**@slash1sol** · 0:21 video · 9K views<br>THE CO-FOUNDER WHO RAN GROWTH AT CAL AI JUST LEAKED THE ENTIRE AI UGC PIPELINE. ONE PERSON, ZERO CREATORS, THOUSANDS OF TEST VIDEOS Cal AI went to 15M |
+| [![@brainextends](example/more/2094873288040497282.jpg)](https://x.com/brainextends/status/2094873288040497282)<br>**@brainextends** · 0:25 video · 361 views<br>i made $36,863 this month using ai agents heres the 3 step process i use : -> i created an ai agent that scans 24/7 for new trends on tiktok once it s | [![@defileo](example/more/2107886078841729342.jpg)](https://x.com/defileo/status/2107886078841729342)<br>**@defileo** · 0:12 video · 2K views<br>This is the CRAZIEST f*ckn sonnet 5.5 automation setup... One Claude Code orchestrator runs a full AI UGC pipeline across Apify, Higgsfield and Postiz |   |
 
 ## How to make one like it
 

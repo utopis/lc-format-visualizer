@@ -18,7 +18,7 @@ A static ad for a beef-tallow cooking fat: a split image labelled DAY 1 and DAY 
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | aaa DAY DAY 30 be ft I is TAL! Gan a MEALS GE TIER MORE KIDS STOP BEING PICKY KIDS LOOK FEEL HEALTHIER BURNING FOOD SEEMS IMPOSSIBLE YOU START TO SLOWLY LOSE FAT |
+| 1 | aaa DAY DAY 30 be … KIDS STOP BEING PICKY KIDS LOOK FEEL HEALTHIER BURNING FOOD SEEMS IMPOSSIBLE YOU START TO SLOWLY LOSE FAT |
 
 ## How to make one like it
 

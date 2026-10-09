@@ -1,0 +1,78 @@
+{
+ "id": "F24",
+ "slug": "24-skit-beginner-intermediate-expert",
+ "name": "Skit + \"Beginner / Intermediate / Expert\" tiers",
+ "type": "paid + organic",
+ "platforms": "[TikTok, Reels, Meta]",
+ "cost_per_asset": "",
+ "time_per_asset": "",
+ "length": "20-45s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-2s",
+   "visual": "Title card over the creator: \"Beginner vs Intermediate vs Expert: wearing gold\"",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Beginner (2-10s)",
+   "visual": "Creator in outfit A takes jewelry off for everything, loses an earring",
+   "audio_text": "Self-deprecating line"
+  },
+  {
+   "slot": "Intermediate (10-20s)",
+   "visual": "Outfit B, keeps a jewelry dish by the sink, still forgets",
+   "audio_text": "Slightly smarter line"
+  },
+  {
+   "slot": "Expert (20-35s)",
+   "visual": "Outfit C, showers and swims wearing the product",
+   "audio_text": "\"Expert: never takes it off\" + product name"
+  },
+  {
+   "slot": "End",
+   "visual": "Product close-up",
+   "audio_text": "Offer"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Script (Claude)",
+   "prompt": "Write a 30-second beginner/intermediate/expert skit about [task]. Each tier: one costume change, one visual gag, one line. Product appears only at expert level."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/TheKhushLife/status/2079287229164442041",
+   "author": "TheKhushLife",
+   "note": "A skit where one creator plays several levels of the same person (beginner, intermediate, expert) in different outfits and locations: outside a house, in sunglasses, in a car, at a desk. It ends on the app screen (\"Real locals. Reviewed and verified.\").",
+   "local": "example/poster.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F24-<concept>-<variant>`; tracking tag `utm_content=F24-<concept>-<variant>`.",
+  "Avoid: Costume changes sell the tiers; a hat or glasses is enough.",
+  "Avoid: Keep each tier under 10s."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

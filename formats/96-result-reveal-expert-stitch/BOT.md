@@ -2,6 +2,70 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 30-60s, 1080x1920 (TikTok Stitch or duet)), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@CalixAVelarde](https://x.com/CalixAVelarde/status/2083448214431351004) · A girl in a car talking to camera with bold yellow word-by-word captions ("EUROPE THIS SUMMER", "DOING HIP THRUST"): a result-reveal story told AI-UGC style.
+- Example: [@HoIyJosee](https://x.com/HoIyJosee/status/1668712653726859268) · This is my Mom after taking Lady Gaga’s advice and getting the Nurtec® ODT (rimegepant) 75 mg shot… what’s going on?!!’ @ladygaga @pfizer
+- Example: [@EvoBradley](https://x.com/EvoBradley/status/2082416231353590174) · The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits tr
+
+### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **BioRoot Labs: Podcast-plus-doctor stitched explainer (turmeric)** (345 days live): A woman on a podcast mic, turmeric close-ups, then a doctor with "Doctor-Formulated" and a "What do you think?" overlay. 129 s DCO with 32 media.
+- **Smriti Kochar: Nutritionist 3-product stack explainer (Hinglish)** (301 days live): Smriti Kochar (nutritionist) talks to camera, cut with gym b-roll and belly close-up: 'Major pain point for men and women is belly fat…' then presents 3 products (digestion, gallbladder, cortisol) as a routine, 'try all three for a month'.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | A creator holds up her mum's hand wearing the ring | "Y'all, this is my mom's ring after six months of pool laps." |
+| 3-10s | Close-up of the ring, still bright | "She swims every day. Still gold." |
+| 10-35s | Stitch: the source clip (founder or care expert explaining PVD) | Founder: "PVD is a bonded layer, not a coat of paint..." |
+| 35-45s | Back to the creator | "So yeah. I got one too." |
+| End | Product + offer | - |
+
+### Prompts
+
+**TikTok**
+
+```
+Use Stitch on your own (or licensed) founder explainer; keep the reveal under 10s and the stitch under 25s.
+```
+
+**Brief to creator**
+
+```
+Show a real person you know who has worn the product for 3+ months; no scripts beyond the first line.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F96-<concept>-<variant>`; tracking tag `utm_content=F96-<concept>-<variant>`.
+- [ ] Avoid: Results must be real and on a real person, with consent.
+- [ ] Avoid: The "expert" must be real and accurately described.
+- [ ] Avoid: Don't stitch other people's videos without permission.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

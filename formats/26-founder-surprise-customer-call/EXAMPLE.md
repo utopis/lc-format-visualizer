@@ -20,12 +20,12 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | rf WHY HOUSE OF IS WORTH VISIT. ant ie sl Za a fo a $4 Ke 2! a of Ay a | · |
+| 1 | 0:00–0:01 | WHY HOUSE OF … IS WORTH VISIT. ant | · |
 | 2 | 0:01–0:03 | · | I just want the best for you, and I think that you deserve the world. |
 | 3 | 0:03–0:05 | · | · |
 | 4 | 0:05–0:06 | · | · |
-| 5 | 0:06–0:08 | a! ae bn ee Za ig be VS aA | Thank you, so that's really all I want. |
-| 6 | 0:08–0:10 | ae gg See ay ie | · |
+| 5 | 0:06–0:08 | · | Thank you, so that's really all I want. |
+| 6 | 0:08–0:10 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 

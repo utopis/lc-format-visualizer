@@ -2,6 +2,65 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 static 1080x1350), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@cortex_adbrain](https://x.com/cortex_adbrain/status/2103883993603031429) · A 1-star rating flip static for an aluminium phone case (Arc Pulse): one star, the quoted complaint "It's ridiculous, it basically doesn't cover the phone at all.", then "Yep, that's the point." and the benefit.
+- Example: [@akhilbuilds](https://x.com/akhilbuilds/status/1808319058200387782) · This humourous 1 star review static ad has performed very well for several brands that I designed it for. People love ads that create intrigue, adds h
+- Example: [@sandiegocausa](https://x.com/sandiegocausa/status/2079314429980925993) · Saw this smart ad on my Facebook thread. The 1 star review catches attention, the negative review highlights how good the product is. The only thing I
+- Example: [@helloitsdrew_](https://x.com/helloitsdrew_/status/1863574480045461667) · Instead of the usual review/testimonial static, try out an ironic 'negative' one! It's attention grabbing, and potentially entertaining to viewers!
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Left | Review card: 5 stars from a customer | "5 stars from you." |
+| Right | Review card: 0 stars, from the "enemy" | "0 stars from the sea. (It tried.)" |
+| Product | Necklace between the two cards | - |
+| Corner | Offer | "Any 7 for $85" |
+
+### Prompts
+
+**Claude**
+
+```
+Write 10 "zero stars from them" lines where "them" is the problem (the sea, your gym, tarnish, your sister who keeps borrowing it).
+```
+
+**Figma**
+
+```
+Two review cards, left 5 gold stars, right 0 grey stars; product centred.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F69-<concept>-<variant>`; tracking tag `utm_content=F69-<concept>-<variant>`.
+- [ ] Avoid: The 5-star review must be real.
+- [ ] Avoid: Make the "zero stars" joke obviously playful.
+- [ ] Avoid: Don't aim it at a competitor.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -21,11 +21,11 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 | 1 | 0:00–0:08 | · | I used to think I just snored a little. Apparently, I was wrong. My wife said it sounded like a chainsaw running in our bedroom. |
 | 2 | 0:08–0:16 | · | So, we tried everything. Earplugs, nose strips, special pillows. |
 | 3 | 0:16–0:23 | · | At one point, we were basically sleeping in separate rooms. Nothing worked. Then one night, my snoring got so loud, my wife actually called the cops. |
-| 4 | 0:23–0:31 | Fx mm xs | The officer came in with a decibel meter. I took one breath, and apparently, that was enough to break it. |
-| 5 | 0:31–0:39 | fei LOW a PAL led as AY | Turns out, the problem was pretty simple. I was sleeping with my mouth wide open. So, I started using quiet seal. |
-| 6 | 0:39–0:47 | a. ba ad 5s’ YA | It gently keeps my mouth closed while I sleep, helping me breathe quietly through my nose. And for the first time in a very long time, |
-| 7 | 0:47–0:55 | ay Pd ec! a. ie | my wife actually slept next to me. No earplugs, no couch, no police. |
-| 8 | 0:55–1:03 | GENTLE MOUTH TA a SO | It's just quiet. Honestly, I should have tried it sooner. Get quiet seal before your wife calls the cops. |
+| 4 | 0:23–0:31 | · | The officer came in with a decibel meter. I took one breath, and apparently, that was enough to break it. |
+| 5 | 0:31–0:39 | PAL led as | Turns out, the problem was pretty simple. I was sleeping with my mouth wide open. So, I started using quiet seal. |
+| 6 | 0:39–0:47 | · | It gently keeps my mouth closed while I sleep, helping me breathe quietly through my nose. And for the first time in a very long time, |
+| 7 | 0:47–0:55 | · | my wife actually slept next to me. No earplugs, no couch, no police. |
+| 8 | 0:55–1:03 | · | It's just quiet. Honestly, I should have tried it sooner. Get quiet seal before your wife calls the cops. |
 
 <details><summary>Full transcript (timestamped)</summary>
 

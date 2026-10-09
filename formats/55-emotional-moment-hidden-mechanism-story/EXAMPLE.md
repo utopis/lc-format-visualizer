@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | ia eh, tS my ee ti Pb gifs ri a a Ne ta Sl aw 78 every guest a an | · |
-| 2 | 0:03–0:06 | seats instead! LA rr yo | · |
+| 1 | 0:00–0:03 | every guest a | · |
+| 2 | 0:03–0:06 | · | · |
 | 3 | 0:06–0:09 | · | · |
-| 4 | 0:09–0:12 | 0.5 Ic 34 with only 36 shots ob | Talk to you on the vision of a standing light |
-| 5 | 0:12–0:15 | 4048 a? Brian May 27, 4039 photo unlock day! cf | · |
-| 6 | 0:15–0:18 | Happy ey Diana Wedding Day ie May 21 24 hours later... by Once Pr. | · |
-| 7 | 0:18–0:21 | mt rh Mi, iv collected into shared gall archive ae | · |
+| 4 | 0:09–0:12 | with only 36 shots | Talk to you on the vision of a standing light |
+| 5 | 0:12–0:15 | 4048 a? Brian May 27, 4039 photo unlock | · |
+| 6 | 0:15–0:18 | May 21 24 hours later... by Once | · |
+| 7 | 0:18–0:21 | collected into shared gall | · |
 | 8 | 0:21–0:23 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -56,13 +56,13 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:01 | on screen: ia eh, tS my ee ti Pb gifs ri a a Ne ta Sl aw 78 every guest a an | … |
-| 2 | 0:04 | on screen: seats instead! LA rr yo | … |
+| 1 | 0:01 | on screen: every guest a | … |
+| 2 | 0:04 | (visual beat, see frame 2) | … |
 | 3 | 0:07 | Talk to you on the vision of a standing light | … |
 | 4 | 0:10 | Talk to you on the vision of a standing light | … |
-| 5 | 0:13 | on screen: 4048 a? Brian May 27, 4039 photo unlock day! cf | … |
-| 6 | 0:16 | on screen: Happy ey Diana Wedding Day ie May 21 24 hours later... by Once Pr. | … |
-| 7 | 0:19 | on screen: mt rh Mi, iv collected into shared gall archive ae | … |
+| 5 | 0:13 | on screen: 4048 a? Brian May 27, 4039 photo unlock | … |
+| 6 | 0:16 | on screen: May 21 24 hours later... by Once | … |
+| 7 | 0:19 | on screen: collected into shared gall | … |
 | 8 | 0:22 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake

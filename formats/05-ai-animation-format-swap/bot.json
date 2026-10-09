@@ -1,0 +1,161 @@
+{
+ "id": "F05",
+ "slug": "05-ai-animation-format-swap",
+ "name": "AI animation format swap (Claymation, Pixar-3D, Zach-Films 2nd-person, Skeleton, Chalkboard, Brick, Tiny-characters)",
+ "type": "paid (Meta/TikTok cold) + organic explainers",
+ "platforms": "[Meta, TikTok, YouTube Shorts]",
+ "cost_per_asset": "$5-40",
+ "time_per_asset": "1-3 h",
+ "length": "Same length as the source winner (15-60s)",
+ "shots": [
+  {
+   "slot": "Before you start",
+   "visual": "Pick ONE proven script (a winner with stable CPA)",
+   "audio_text": "Do not change a word of the script; only the visual style changes"
+  },
+  {
+   "slot": "0-3s",
+   "visual": "Hook shot in the new style (claymation, Pixar-3D, 2nd-person \"you\" camera, stop-motion)",
+   "audio_text": "Same hook line, same timing as the winner"
+  },
+  {
+   "slot": "3-end",
+   "visual": "Re-render each shot of the winner shot-for-shot in the chosen style",
+   "audio_text": "Same VO (re-use the original audio if it is yours) and captions"
+  },
+  {
+   "slot": "Product shots",
+   "visual": "Cut back to REAL product footage, or a faithful 3D model",
+   "audio_text": "Same CTA as the winner"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Midjourney / Nano Banana (style frames)",
+   "prompt": "claymation stop-motion style, handmade plasticine woman in a tiny bathroom set, soft studio light, visible fingerprints in clay, Aardman-like, 9:16 -- [scene description from the winner shot list]"
+  },
+  {
+   "tool": "Kling / Runway / Seedance",
+   "prompt": "image-to-video, 4-6s, keep the style frame exactly, gentle motion, no morphing, no text"
+  },
+  {
+   "tool": "Arcads / Creatify (optional)",
+   "prompt": "Upload the winning script, choose the \"animation\" or \"Pixar\" template, export 9:16 and 4:5."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/oliverxmedia/status/2099359156121825337",
+   "author": "oliverxmedia",
+   "note": "An Arcads demo: one short scene re-rendered in several animation styles, shown side by side and sequenced (Pixar-3D kids in a room, then the same beat in other looks). It shows the core move of the format: keep the script, swap the visual style.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Diego_exits/status/2101991919920243015",
+   "author": "Diego_exits",
+   "note": "PRIMALQUEEN $6M/mo, 1,019 active ads; normal cartoon ads.",
+   "local": "example/more/2101991919920243015.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/CEO_Vlad/status/2107328605995077699",
+   "author": "CEO_Vlad",
+   "note": "7 AI UGC animation styles and what each is good for (article).",
+   "local": "example/more/2107328605995077699.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ArmandasPuckus/status/2107781382533472512",
+   "author": "ArmandasPuckus",
+   "note": "'Selling to menopausal women with AI animations IS the method'.",
+   "local": "example/more/2107781382533472512.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LordofAds/status/2102132251706429937",
+   "author": "LordofAds",
+   "note": "'Money glitch': remake best 30-day ad in 6 animation styles (Pixar, anime, paper cutout, whiteboard, skeleton...).",
+   "local": "example/more/2102132251706429937.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/therahulissar/status/2099519666045776287",
+   "author": "therahulissar",
+   "note": "Break Meta audience cap with format change (same message, new display: AI video, static, lo-fi) and new personas.",
+   "local": "example/more/2099519666045776287.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/CEO_Vlad/status/2087333716334924071",
+   "author": "CEO_Vlad",
+   "note": "Pixar-style AI ads helped $117k day.",
+   "local": "example/more/2087333716334924071.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/aaliya_va/status/2098420179403444486",
+   "author": "aaliya_va",
+   "note": "A product image can now become a 3D ad without starting from scratch. Arcads lets you add your website and product image, pick an animation style and ",
+   "local": "example/more/2098420179403444486.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ashen_one/status/2105715646273368159",
+   "author": "ashen_one",
+   "note": "if you're using AI to cook ads and you've been doing the claymation meta, the singing meta seems to be next using arcads, you can cook an entire ad in",
+   "local": "example/more/2105715646273368159.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Hemios: Talking-product CGI skit (Hemios, \"I'm not an accessory, Karen\")",
+   "days": 254,
+   "image": "adlibrary/w4_73243196.jpg",
+   "what": "A Pixar-style couple in bed talk to an animated hematite ring: \"I have to apologize… I thought you were a scam… I'm not an accessory, Karen. I'm 2,000 years of natural hematite. I was fixing men before pills existed.\" 32 s.",
+   "how": "Pixar-style 3D (Higgsfield / Kling), 2 characters plus a talking product, a 20-35 s gag, the product talks back."
+  },
+  {
+   "title": "Dr. Lisa Downing: Pixar-style organ-and-pills CGI (kidneys)",
+   "days": 217,
+   "image": "adlibrary/w4_83371278.jpg",
+   "what": "Pixar-style 3D characters around organs and a pill bottle, with captions like \"That foam was protein leaking through stressed kidneys… By day 15…\" 123 s.",
+   "how": "Choose one organ, make it a character, show it struggling then recovering, with a day-count timeline."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “What happens if you don if you don't clean out your arteries once they…”",
+   "days": 1,
+   "image": "adlibrary/w6_1466736258705803.jpg",
+   "what": "Opens: “What happens if you don if you don't clean out your arteries once they start to clog? Day one, you feel completely normal, exactly like you have for years, but inside it has already begun.”",
+   "how": "Use a recurring skeleton or clay hero, a time-lapse of the problem, and the product as the turning point."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F05-<concept>-<variant>`; tracking tag `utm_content=F05-<concept>-<variant>`.",
+  "Avoid: Changing script and style at the same time means you will not know what worked.",
+  "Avoid: Each style is a new creative to Meta (new Entity ID); launch 3 styles together so they compete.",
+  "Avoid: Keep the product real: stylised characters are fine, stylised jewelry misleads.",
+  "Avoid: Pixar is crowded; claymation and 2nd-person POV were less saturated in the research window."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

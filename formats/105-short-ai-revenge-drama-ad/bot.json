@@ -1,0 +1,188 @@
+{
+ "id": "F105",
+ "slug": "105-short-ai-revenge-drama-ad",
+ "name": "Short AI revenge-drama ad (25-60 s: betrayal open, fast cuts, twist, product is how she gets even)",
+ "type": "paid (cold)",
+ "platforms": "[Meta, TikTok, YouTube Shorts]",
+ "cost_per_asset": "$20-150 (AI) per 30 s",
+ "time_per_asset": "3-6 h",
+ "length": "25-30s (plus a 45-60s cut), 1080x1920, 12-16 shots of 1.5-2.5s",
+ "shots": [
+  {
+   "slot": "0-2s",
+   "visual": "Engagement party, medium close-up. SIL flicks the bride's necklace with one finger.",
+   "audio_text": "SIL: \"Cute. Did it come with the cake?\" + crowd laugh"
+  },
+  {
+   "slot": "2-4s",
+   "visual": "Bride's face, push-in; party sound drops out",
+   "audio_text": "Low bass sting"
+  },
+  {
+   "slot": "4-6s",
+   "visual": "Title card over black",
+   "audio_text": "\"3 weeks later\""
+  },
+  {
+   "slot": "6-9s",
+   "visual": "Pool: SIL climbs out; close-up of her wrist, bracelet dull/green-tinged",
+   "audio_text": "—"
+  },
+  {
+   "slot": "9-13s",
+   "visual": "Bride swims, surfaces, necklace bright gold in sunlight (REAL LC footage for the macro)",
+   "audio_text": "Music lifts"
+  },
+  {
+   "slot": "13-18s",
+   "visual": "Bachelorette brunch; SIL hides her wrist under the table",
+   "audio_text": "Friend: \"Wait, is that the same necklace?\""
+  },
+  {
+   "slot": "18-21s",
+   "visual": "Bride, casual",
+   "audio_text": "\"Mine? I shower in it.\""
+  },
+  {
+   "slot": "21-25s",
+   "visual": "Hands-only LC box, 14K PVD card",
+   "audio_text": "Text: \"14K PVD · waterproof · any 7 for $85\""
+  },
+  {
+   "slot": "25-28s",
+   "visual": "SIL alone, typing \"louise carter\" into search",
+   "audio_text": "Beat; cut to black"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Story (Claude)",
+   "prompt": "Write a 28-second revenge drama for Louise Carter. 0-2s humiliation tied to jewelry; escalate with cuts every 1.5-2.5s; twist = water/sweat ruins the antagonist's piece, LC survives; real product beat at 21-25s; payoff at 25-28s. Give 14 shots: duration, camera, action, dialogue ≤8 words, on-screen text."
+  },
+  {
+   "tool": "Character lock (image model)",
+   "prompt": "Photoreal, 9:16, \"woman, 32, warm brown hair in a low bun, soft satin green dress, natural makeup, engagement party in a garden with string lights, shallow depth of field, Canon R5 50mm f/1.8 look\". Save as reference; reuse the same seed/reference for every shot."
+  },
+  {
+   "tool": "Shot prompt (Seedance 2.5 / Kling / Veo)",
+   "prompt": "\"[Reference: Character A] stands at a garden party at dusk, a second woman flicks her necklace dismissively, guests laugh in soft focus, handheld, 2 seconds, natural skin texture, no text.\" Generate 3 takes per shot, keep the one with stable hands and face."
+  },
+  {
+   "tool": "Voice + lip-sync",
+   "prompt": "ElevenLabs voices per character; lines ≤8 words; lip-sync only close-ups (Arcads / HeyGen); everything else plays under music."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/0xROAS/status/2107188290264740348",
+   "author": "0xROAS",
+   "note": "A 25-second AI drama (Seedance 2.5). A woman calls up the stairs: \"Dad, tea's on the table, it's getting cold.\" Dad struggles on the stairs: \"40 years I've done these stairs... I'm all right.\" Close-ups: \"You're not all right, Dad. It's been like this since Christmas. Why didn't you say something?\" \"Didn't want to be the old bloke who can't do the stairs.\" She kneels beside him on the stairs, with",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/david_attisaas/status/2108195582607081720",
+   "author": "david_attisaas",
+   "note": "I'm running short drama ads for a few apps right now, and every one of them started as a copy of something a dropshipper ran first. I went looking aft",
+   "local": "example/more/2108195582607081720.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ViralOps_/status/2108255353016406383",
+   "author": "ViralOps_",
+   "note": "Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could ",
+   "local": "example/more/2108255353016406383.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/zedmadeit/status/2102176819709673703",
+   "author": "zedmadeit",
+   "note": "heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac",
+   "local": "example/more/2102176819709673703.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/JUSTCHAEL_/status/2098373776828256595",
+   "author": "JUSTCHAEL_",
+   "note": "Enjoy this short drama ad I created for Outlash, featuring their Curt Purse. @outlashbrand AI can create story-driven ads, not just pretty visuals. If",
+   "local": "example/more/2098373776828256595.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/frankyecom/status/2106833649970684195",
+   "author": "frankyecom",
+   "note": "Women want shows: characters, drama, payoff; build entertainment first, slot product in.",
+   "local": "example/more/2106833649970684195.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Smooche · Smooche: “I'm about to walk into brunch to meet my girlfriend that I was with to…”",
+   "days": 41,
+   "image": "adlibrary/w6_1038179568995397.jpg",
+   "what": "Opens: “I'm about to walk into brunch to meet my girlfriend that I was with to figure out who tried to draw a ying yang on my forehead and guess what? I just saw my ex- boyfriend of 15 years and it's perfect…”",
+   "how": "Open on the betrayal sentence over a face close-up, add 3-5 fast scenes, and put the product in the transformation beat. Test 3 openers on the same body.",
+   "dnc": "These are AI-acted first-person stories posted from fake narrator pages. Label fiction as fiction."
+  },
+  {
+   "title": "Smooche · Smooche: “Okay, this is a good one. Emergency because I just pulled up to the…”",
+   "days": 37,
+   "image": "adlibrary/w6_2102781623653815.jpg",
+   "what": "Opens: “Okay, this is a good one. Emergency because I just pulled up to the gym.”",
+   "how": "Open on the betrayal sentence over a face close-up, add 3-5 fast scenes, and put the product in the transformation beat. Test 3 openers on the same body.",
+   "dnc": "These are AI-acted first-person stories posted from fake narrator pages. Label fiction as fiction."
+  },
+  {
+   "title": "Smooche · Cosmetic Times: “I thought menopause ruined my face. My ex has been used it as his…”",
+   "days": 36,
+   "image": "adlibrary/w6_1046608914669307.jpg",
+   "what": "Opens: “I thought menopause ruined my face. My ex has been used it as his excuse to leave me.”",
+   "how": "Open on the betrayal sentence over a face close-up, add 3-5 fast scenes, and put the product in the transformation beat. Test 3 openers on the same body.",
+   "dnc": "These are AI-acted first-person stories posted from fake narrator pages. Label fiction as fiction."
+  },
+  {
+   "title": "Smooche · Cosmetic Times: “My ex has been filed for divorce eight months after my menopause…”",
+   "days": 36,
+   "image": "adlibrary/w6_1087458693745926.jpg",
+   "what": "Opens: “My ex has been filed for divorce eight months after my menopause started. He told our daughter he couldn't be attracted to someone whose face looked that ruined and ugly.”",
+   "how": "Open on the betrayal sentence over a face close-up, add 3-5 fast scenes, and put the product in the transformation beat. Test 3 openers on the same body.",
+   "dnc": "These are AI-acted first-person stories posted from fake narrator pages. Label fiction as fiction."
+  },
+  {
+   "title": "Smooche · Cosmetic Times: “My ex has been told me I'd aged 10 years in six months. And for a…”",
+   "days": 36,
+   "image": "adlibrary/w6_2412557319519918.jpg",
+   "what": "Opens: “My ex has been told me I'd aged 10 years in six months. And for a while, I actually believed him.”",
+   "how": "Open on the betrayal sentence over a face close-up, add 3-5 fast scenes, and put the product in the transformation beat. Test 3 openers on the same body.",
+   "dnc": "These are AI-acted first-person stories posted from fake narrator pages. Label fiction as fiction."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F105-<concept>-<variant>`; tracking tag `utm_content=F105-<concept>-<variant>`.",
+  "Avoid: Never AI-generate the jewelry close-ups: shoot the real product.",
+  "Avoid: Product beat must land before ~70% of runtime or most viewers never see it.",
+  "Avoid: Keep the antagonist petty, not cruel; abuse/violence gets ads rejected.",
+  "Avoid: Label AI content per platform rules."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

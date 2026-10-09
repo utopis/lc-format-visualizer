@@ -2,6 +2,77 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 5-8s seamless loop, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@fablecut](https://x.com/fablecut/status/2102944927868965360) · A 5-second AI product loop: a gold watch on black marble with light gliding across it, looping without a cut. It was made from one product photo.
+- Example: [@ecomrudolfs](https://x.com/ecomrudolfs/status/2102762930886336763) · Smooche 6-second foundation clip, 12 duplicates, 225 days, "omg I think I finally found a foundation that looks like second skin".
+- Example: [@pranavclickks](https://x.com/pranavclickks/status/2087497730042081339) · OMG! Claude can finally watch and analyze video ads. I connected Claude to the @hookmaster_ai MCP and gave it this 20-second Brezza S-CNG ad featuring
+- Example: [@akari_w0r1d](https://x.com/akari_w0r1d/status/2102937109405311256) · I created this cozy 6-second lo-fi loop animation entirely within @adobefirefly First, I made the illustration and animation, then I used the AI Music
+- Example: [@hasantoxr](https://x.com/hasantoxr/status/2099897310654378092) · Every lab claims "we're the best model" and the phrase means nothing the moment you actually make something. Best at a cinematic film look isn't best 
+- Example: [@vladdubchak_x](https://x.com/vladdubchak_x/status/2080614240386240932) · Your best static ads have a ceiling. Static-only means no video slots, no autoplay spots that stop the scroll. This skill removes the ceiling: drop th
+- Example: [@lifemaximised](https://x.com/lifemaximised/status/2087623547288207463) · YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Muscle Mat: Dog-test visual hook (Muscle Mat, 859 days)** (859 days live): A dog flops on the mattress topper and a woman presses it; captions "what makes our campsite super comfy… 35 mm thick". DCO.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-6s | The product doing its one job, silent: a gold chain under running shower water, water beading off, then the loop restarts on the same frame | Native headline above the video: "omg I think I finally found it" |
+| Variant B | A hand dipping in the sea and lifting out, chain glinting | "necklace I don't have to take off for the beach??" |
+| Variant C | A ring under a tap, then a towel rub | "6 months, still gold" |
+
+### Prompts
+
+**Shoot**
+
+```
+iPhone 4K 60fps, macro, shower head off-frame, dark tile background, one side light for sparkle; trim so the last frame matches the first.
+```
+
+**Seedance / Kling (if real footage is not possible)**
+
+```
+5s seamless loop, macro of a thin gold chain under running water, droplets beading, dark tiles, side light
+```
+
+**Headline bank (Claude)**
+
+```
+Write 20 lowercase "found it" headlines a real person might post, under 10 words, no brand name.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F98-<concept>-<variant>`; tracking tag `utm_content=F98-<concept>-<variant>`.
+- [ ] Avoid: The loop must be seamless or it looks like an ad.
+- [ ] Avoid: No logo or text inside the video; the headline does the talking.
+- [ ] Avoid: Use real footage of the real product wherever possible.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

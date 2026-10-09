@@ -28,6 +28,8 @@ related_strategies: [11-social-proof-credibility-engine]
 
 
 
+
+
 ## Looks like
 VHS grain, 4:3 framing, serious host in a pink blazer, studio set, big claims overlay ("550,000+ women"), phone number style lower-third. "It doesn't look like a polished DTC ad" ([@tryatria_AI](https://x.com/tryatria_AI/status/2105329322496016777)).
 

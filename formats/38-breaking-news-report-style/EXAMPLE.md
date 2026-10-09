@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:05 | Gee ee ee BREAKING NEWS | We're following breaking news tonight on a growing concern for anyone taking a GLP-1 weight loss drug. |
-| 2 | 0:05–0:11 | ay BREAKING NEWS | Joining us now, Dr. Sophia Marchetti. Doctor, what exactly is happening here? |
-| 3 | 0:11–0:17 | ll Se Th hd BREAKING NEWS | When you eat significantly less, your body can't always tell the difference between fat and muscle. It burns both. |
-| 4 | 0:17–0:22 | al BREAKING NEWS | So people could be losing muscle without even realizing it? |
-| 5 | 0:22–0:28 | ee we BREAKING NEWS | Exactly. That's why so many people feel weak and drained even as the number on the scale keeps dropping. |
+| 1 | 0:00–0:05 | · | We're following breaking news tonight on a growing concern for anyone taking a GLP-1 weight loss drug. |
+| 2 | 0:05–0:11 | · | Joining us now, Dr. Sophia Marchetti. Doctor, what exactly is happening here? |
+| 3 | 0:11–0:17 | · | When you eat significantly less, your body can't always tell the difference between fat and muscle. It burns both. |
+| 4 | 0:17–0:22 | · | So people could be losing muscle without even realizing it? |
+| 5 | 0:22–0:28 | we BREAKING NEWS | Exactly. That's why so many people feel weak and drained even as the number on the scale keeps dropping. |
 | 6 | 0:28–0:34 | · | What should someone actually do about that? This. Myogard Pro. |
-| 7 | 0:34–0:39 | ll a Th ky 1. a BREAKING | Creatine, CAHMB, Zinc, Carnacine, 80-plus vitamins and minerals built to help you hold onto muscle |
-| 8 | 0:39–0:45 | ee a 1. Ez BREAKING NE WS | while you lose the fat. You don't have to lose muscle to lose weight. Ask about Myogard Pro. |
+| 7 | 0:34–0:39 | · | Creatine, CAHMB, Zinc, Carnacine, 80-plus vitamins and minerals built to help you hold onto muscle |
+| 8 | 0:39–0:45 | · | while you lose the fat. You don't have to lose muscle to lose weight. Ask about Myogard Pro. |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -52,13 +52,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
-## More real examples (1)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@richardbrien](example/more/2103478126928138309.jpg)](https://x.com/richardbrien/status/2103478126928138309)<br>**@richardbrien** · images · 91 views<br>"Breaking News" style ad creative crushes harder than any other format across long periods of time. https://t.co/5XAPPNoLf7 |   |   |
+| [![@HenryCrochemore](example/more/2034948938789171441.jpg)](https://x.com/HenryCrochemore/status/2034948938789171441)<br>**@HenryCrochemore** · 2:13 video · 7K views<br>an AI news broadcast opens the video “breaking news” a serious anchor at a desk city skyline behind him calm, authoritative voice it looks exactly lik | [![@richardbrien](example/more/2103478126928138309.jpg)](https://x.com/richardbrien/status/2103478126928138309)<br>**@richardbrien** · images · 91 views<br>"Breaking News" style ad creative crushes harder than any other format across long periods of time. | [![@rogiergg](example/more/2086977376286585184.jpg)](https://x.com/rogiergg/status/2086977376286585184)<br>**@rogiergg** · image · 123 views<br>(BREAKING NEWS - CAUSE OF DEATH REVEALED) tbh that's just a creative on a $29.99 CO detector not a product headline a news format! the ad does not fee |
+| [![@Bsschiller](example/more/2048497164393791985.jpg)](https://x.com/Bsschiller/status/2048497164393791985)<br>**@Bsschiller** · 0:46 video · 335 views<br>We turned an @IShowSpeed stream into a “news report” ad for a South Florida experience brand — and it was an overnight hit. 106x reach vs followers Hu | [![@inceptly](example/more/2105302286490546274.jpg)](https://x.com/inceptly/status/2105302286490546274)<br>**@inceptly** · image · 14 views<br>🚨 What if your next ad looked like breaking news? This week's Modular Creative System ad breakdown covers a Find Legal ad that opens on an AI-generate |   |
 
 ## How to make one like it
 

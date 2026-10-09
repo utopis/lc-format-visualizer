@@ -1,0 +1,120 @@
+{
+ "id": "F61",
+ "slug": "61-poll-and-product-match-quiz-ads",
+ "name": "Poll-sticker & product-match quiz ads (interactive A/B polls → retarget by answer)",
+ "type": "paid",
+ "platforms": "[IG/FB Stories & Reels poll stickers, Meta quiz funnels]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "30 min + quiz build",
+ "length": "Story ad with a poll sticker, or a quiz-funnel static",
+ "shots": [
+  {
+   "slot": "Story frame 1",
+   "visual": "Two necklaces side by side",
+   "audio_text": "Poll sticker: \"Paperclip or snake chain?\""
+  },
+  {
+   "slot": "Story frame 2",
+   "visual": "Result reveal next day",
+   "audio_text": "\"62% said paperclip. Here's how to style it.\""
+  },
+  {
+   "slot": "Quiz static",
+   "visual": "iMessage-style screenshot",
+   "audio_text": "\"Took a 30-second quiz and it picked my stack.\""
+  },
+  {
+   "slot": "Retarget",
+   "visual": "Ads by answer: paperclip voters see paperclip stacks",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Meta",
+   "prompt": "Instagram Stories ad with the poll sticker (available in Ads Manager for Stories placements); build engaged audiences by answer."
+  },
+  {
+   "tool": "Quiz (Octane AI / Typeform)",
+   "prompt": "5 questions (style, metal tone, budget, occasion, sea or city), result = a 7-piece stack with an add-all button."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/f3dericobartoli/status/2039638255537201662",
+   "author": "f3dericobartoli",
+   "note": "Four statics a creative team made for a quiz funnel. One is an iMessage thread: \"I finally looked into the hair thing. Took some quiz. Turns out it's not even about growth...\" Another is an editorial 'New research' card. Each ad's job is to get people to start a quiz, which then matches them to a product.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/frugalfreebies/status/1801654197462479132",
+   "author": "frugalfreebies",
+   "note": "This or that? Which one would you pick for Father's Day? OneStopPlus Clearance Sale! - As low as $4.98! PLUS: Save 50% with code: KSESITEWIDE https://",
+   "local": "example/more/1801654197462479132.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ZeeNunewTikTok/status/1927734140985541103",
+   "author": "ZeeNunewTikTok",
+   "note": "Tag Booster ‼️ Lats play This or that Jewelry edition. Tell us your choices in the comments. Please remember to use the hashtag and keyword. KazzMag19",
+   "local": "example/more/1927734140985541103.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/codyschneider/status/2093098436069568758",
+   "author": "codyschneider",
+   "note": "an AI agent is running facebook ads for a local business it just got the 2170 ebook downloads in august 16% of people who download the ebook turn into",
+   "local": "example/more/2093098436069568758.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/zakburgers/status/2082826379863707993",
+   "author": "zakburgers",
+   "note": "working with the biggest peptide players gave me huge experience in the segmentation game for emails creating 10 different angle flows for these brand",
+   "local": "example/more/2082826379863707993.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/codyschneider/status/2093096255786234158",
+   "author": "codyschneider",
+   "note": "an AI agent is running this local business facebook ads it got the 2170 ebook downloads 16% of people who download the ebook turn into a future patien",
+   "local": "example/more/2093096255786234158.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/JamesEbringer/status/2081462841052151919",
+   "author": "JamesEbringer",
+   "note": "Facebook CPCs in Africa are $0.05 right now Five cents a click Go inside TAP and look for the Africa Ads Method Set up a Facebook ad account Point a s",
+   "local": "example/more/2081462841052151919.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F61-<concept>-<variant>`; tracking tag `utm_content=F61-<concept>-<variant>`.",
+  "Avoid: Polls only work in Stories placements.",
+  "Avoid: The quiz result must be a real, buyable stack.",
+  "Avoid: Keep quizzes under 6 questions."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

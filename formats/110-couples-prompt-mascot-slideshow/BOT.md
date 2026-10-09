@@ -2,6 +2,81 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 6-8 slides, 1080x1920 photo mode, trending audio auto-added), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@jackfriks](https://x.com/jackfriks/status/2108536144896163993) · A 3-up screenshot of one couples app's TikTok grid. Every cover shows the same cartoon duo, a brown pig ("him") and a white cat with a pink bow ("her"), on a flat colour background (lilac, pink, teal) under a bold white headline. Covers: "5 slightly uncomfortable questions to ask your boyfriend / no lying allowed" (31.7K views), "this or that: cute but spicy edition / (it's safe, we promise)" (4,1
+- Example: [@lovelee_app](https://x.com/lovelee_app/status/2105351703578997169) · hypothetical questions to ask your boyfriend (he has to answer #3)
+- Example: [@tartecosmetics](https://x.com/tartecosmetics/status/1958207490522284241) · Send this to your boyfriend to get them on that maracuja juicy lip plump 🤫
+- Example: [@FlexFusion_](https://x.com/FlexFusion_/status/2027044780761596142) · 5 funny questions to ask your boyfriend -Thread-
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Slide 1 (cover) | LC mascot duo (gold bear "him", bunny "her" with a pearl necklace) centred in the bottom third on a blush-pink flat background. Headline top third, white bold 72px: "this or that: jewelry edition"; sub-line 36px "(he has to answer honestly)" | Trending sound (auto) |
+| Slide 2 | Two half-panels: bear holding gold, bunny holding silver. Text "gold 🅰️ or silver 🅱️" | - |
+| Slide 3 | Panels: dainty chain versus chunky chain. "dainty 🅰️ or chunky 🅱️" | - |
+| Slide 4 | Mascots holding matching rings versus mascot shrugging. "matching rings 🅰️ or never 🅱️" | - |
+| Slide 5 | Surprise box versus phone with link. "surprise gift 🅰️ or send-me-the-link 🅱️" | - |
+| Slide 6 | Both mascots pointing at the viewer. "comment your answers like 1A 2B 3A" | - |
+| Slide 7 (CTA) | Bunny holding a real LC box photo (composited). "send this to him 👀 · any 7 for $85 · link in bio" | Pinned comment: answer legend |
+
+### Prompts
+
+**Mascot sheet (GPT Image / Nano Banana)**
+
+```
+"Two cute chibi characters side by side, thick dark navy outline, flat pastel shading, a tan bear (him) and a white bunny with a small pearl necklace and pink bow (her), front-facing, simple expressions, transparent background, sticker style." Then 8 poses: shy, guilty, pointing, shrugging, holding a gift box, blushing, arms crossed, hugging.
+```
+
+**Prompt sets (Claude + reference sheet)**
+
+```
+From the LC reference sheet, write 20 couples-prompt slideshows across 4 families (questions to ask your boyfriend / this or that / pick who's guilty 1A 2B / send this to him). Cover ≤8 words lowercase-feeling, 5-6 prompts, CTA slide, pinned comment. Slightly uncomfortable, never mean or explicit.
+```
+
+**Template (Canva Bulk Create)**
+
+```
+CSV columns: bg_colour, headline, subline, slide2..slide6, cta. One template, bulk-generate 20 sets, export PNG 1080x1920.
+```
+
+**Posting (Post Bridge / native)**
+
+```
+Schedule 1-3 per day per warmed account; TikTok photo mode auto-adds trending audio; pin the answer-code comment within 5 minutes.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F110-<concept>-<variant>`; tracking tag `utm_content=F110-<concept>-<variant>`.
+- [ ] Avoid: One reference sheet converges on 2 hooks in a week: rotate hook families and refresh the sheet weekly.
+- [ ] Avoid: Cold accounts cap views: warm the account first (Matt Gittleson: zero views = account problem, low views = content problem).
+- [ ] Avoid: Spicy must stay PG-13; cartoon sexual content still gets restricted.
+- [ ] Avoid: Product must be the payoff slide, not missing: a viral slideshow with no LC slide converts at zero.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

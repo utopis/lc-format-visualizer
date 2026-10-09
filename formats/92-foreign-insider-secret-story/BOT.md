@@ -2,6 +2,78 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 45-120s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@EcomSapo](https://x.com/EcomSapo/status/2105288429873528875) · A Pixar-3D sung drama (Smooche) of about 10 minutes: a red-haired woman's story through a party, a bathroom shelf of skincare, a tearful close-up and a graduation crowd. The insider secret and the product arrive late in the song.
+- Example: [@AriaWeber59144](https://x.com/AriaWeber59144/status/2011218867725746232) · Differences in Skin Care Between American and Korean Women #beauty #fyp #skincare #pretty #funny
+- Example: [@AriaWeber59144](https://x.com/AriaWeber59144/status/2005818535054811329) · 3 Beauty Habits Korean Women Always Follow #beauty #fyp #skincare #korea #funny
+- Example: [@Yonderfood](https://x.com/Yonderfood/status/2022310049440219511) · Inside a French pharmacy 🇫🇷 Timeless skincare staples French women swear by. Save this for your next trip. http://Yonderfood.com
+- Example: [@LifeForge_Well](https://x.com/LifeForge_Well/status/2033997661599125785) · This is the most gatekeeper Korean skincare line that actually real Korean women use #tiktokshopcreatorpicks #koreanskincare #torridendivein #antiagin
+
+### Live paid ads in this format (6 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Petra Weber: "Swiss urologist challenge" CGI x-ray explainer (prostate)** (265 days live): "Swiss urologist challenge: if you're not sleeping through the night within five days using this method, your prostate problems aren't what you think… Austrian urologists found… inflamed prostate tissue blocks the active ingredients…" CGI anatomy plus a plant-
+- **Smooche · Korean Beauty Tips: “A woman I ignored five hours, 30,000 The Failed Flying out to Denver…”** (21 days live): Opens: “A woman I ignored five hours, 30,000 The Failed Flying out to Denver, windows, see the sky Going by a woman by my side Korean maybe 60 and we ignored each other the whole right around hour before I…”
+- **Smooche · Cosmetic Times: “Korean women use one serum. American women stack six bottles. Each one…”** (20 days live): Opens: “Korean women use one serum. American women stack six bottles.”
+- **Smooche · Korean Beauty Tips: “We have a confession. Our-team in Korea overproduced this batch and now…”** (10 days live): Opens: “We have a confession. Our-team in Korea overproduced this batch and now we're stuck with thousands of extra bottles we have to move fast.”
+- **Smooche · Korean Beauty Tips: “I discovered the secret to turning back the clock on my skin at the…”** (7 days live): Opens: “I discovered the secret to turning back the clock on my skin at the four seasons in Korea last year. I finally discovered the secret Korean women have to flawless complexions.”
+- **Resilia · Insulin Response Review: “I flew to Japan after my doctor told E.A.1C was 10.3 and I had to go to…”** (1 days live): Opens: “I flew to Japan after my doctor told E.A.1C was 10.3 and I had to go to the T-slo like she already knew where this was going and then she started started talking and didn't stop for the next few…”
+
+**Do not copy (seen in these live ads):** The insider stories are fabricated. Keep the cultural claim factual.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-5s | Narrator to camera or over B-roll of a city street | "I lived in Seoul for two years and noticed something about the women in my office." |
+| 5-30s | B-roll: subway, office, cafés; specific observation | "Nobody took their jewellery off. Not for the gym, not for the sauna." |
+| 30-60s | Why: the material they wear (stainless + PVD) and the habit | One true, specific detail per line |
+| 60-80s | Narrator back home, putting on the same kind of stack | "So I found the closest thing here." |
+| End | Product + offer | "Louise Carter. Any 7 for $85." |
+
+### Prompts
+
+**Claude**
+
+```
+Write a first-person insider story about [place]. Every cultural detail must be accurate, specific and respectful; no stereotypes. The product is what the narrator adopted after living there. 90 seconds.
+```
+
+**B-roll**
+
+```
+Use licensed stock or your own travel footage of the city; no AI-generated "local people" presented as real.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F92-<concept>-<variant>`; tracking tag `utm_content=F92-<concept>-<variant>`.
+- [ ] Avoid: No stereotypes or invented facts about a culture.
+- [ ] Avoid: The narrator must really have lived there, or present it as a character.
+- [ ] Avoid: Don't claim the product is from that country if it isn't.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

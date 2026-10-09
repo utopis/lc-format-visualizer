@@ -1,0 +1,144 @@
+{
+ "id": "F99",
+ "slug": "99-deadline-urgency-video",
+ "name": "Deadline-urgency video (two-line sale-ends skit, 'don't say I didn't warn you', hands-only deal clip)",
+ "type": "paid",
+ "platforms": "[Meta, TikTok]",
+ "cost_per_asset": "$0-100",
+ "time_per_asset": "1-2 h",
+ "length": "10-25s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Two friends on a sofa, one scrolling",
+   "audio_text": "\"Wait, the sale ends TODAY?\""
+  },
+  {
+   "slot": "3-6s",
+   "visual": "Other friend grabs the phone",
+   "audio_text": "\"Don't say I didn't warn you.\""
+  },
+  {
+   "slot": "6-14s",
+   "visual": "Hands-only clip: picking 7 pieces into a box, big deadline text",
+   "audio_text": "\"ANY 7 FOR $85 · ENDS MIDNIGHT\""
+  },
+  {
+   "slot": "14-18s",
+   "visual": "Stack on wrist, close-up",
+   "audio_text": "\"Last day.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer card with the real end time and timezone",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Edit",
+   "prompt": "Big date/time text (120px, high contrast), 2-3 cuts, end on the offer; make a version for each of the last 3 days (\"2 days left\", \"tomorrow\", \"today\")."
+  },
+  {
+   "tool": "Copy",
+   "prompt": "Primary text: \"Ends [day] at midnight [timezone]. After that it's back to full price.\""
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/Counterprint/status/2107894146140631180",
+   "author": "Counterprint",
+   "note": "A sample-sale \"LAST CHANCE! ENDS TONIGHT\" video: a fast top-down scroll across piles of colourful printed books, packaging and merch on a table.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/jackolivieri_/status/2097798592010547583",
+   "author": "jackolivieri_",
+   "note": "Smooche static \"847 Orders in Last Hour, Almost Gone\" / \"LIVE UPDATE\" stock copy (GetHookd share).",
+   "local": "example/more/2097798592010547583.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ItsDuntee/status/2102309812109193718",
+   "author": "ItsDuntee",
+   "note": "🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 Sept",
+   "local": "example/more/2102309812109193718.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/kabiwinter/status/2095851837312122988",
+   "author": "kabiwinter",
+   "note": "#AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from s",
+   "local": "example/more/2095851837312122988.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Smooche · Smooche: “I must stop. I got one model of the Smooch Color Changing Foundation…”",
+   "days": 6,
+   "image": "adlibrary/w6_1614464443499501.jpg",
+   "what": "Opens: “I must stop. I got one model of the Smooch Color Changing Foundation.”",
+   "how": "Use 2 characters, one disbelief line and one confirmation line, then the offer card and the deadline. Shoot 3 variants (shock, whisper, scolding).",
+   "dnc": "Only use a deadline that is real."
+  },
+  {
+   "title": "Resilia · Vascular Wellness Report: “I'm the founder of Resilia, and I just got to go to the gym where I…”",
+   "days": 1,
+   "image": "adlibrary/w6_1631735288396529.jpg",
+   "what": "Opens: “I'm the founder of Resilia, and I just got to go to the gym where I never thought I'd prove. We overproduced.”",
+   "how": "Use 2 characters, one disbelief line and one confirmation line, then the offer card and the deadline. Shoot 3 variants (shock, whisper, scolding).",
+   "dnc": "Only use a deadline that is real."
+  },
+  {
+   "title": "Resilia · Active Longevity Review: “Last chance, everyone… this deal doesn't come around often and if you…”",
+   "days": 1,
+   "image": "adlibrary/w6_1590274756169404.jpg",
+   "what": "Opens: “Last chance, everyone… this deal doesn't come around often and if you don't move quick, it'll be gone before you know it. These are the final hours.”",
+   "how": "Use 2 characters, one disbelief line and one confirmation line, then the offer card and the deadline. Shoot 3 variants (shock, whisper, scolding).",
+   "dnc": "Only use a deadline that is real."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “Yes, the A ends today. Yes, this sale ends today. This is your last…”",
+   "days": 1,
+   "image": "adlibrary/w6_1638128141161941.jpg",
+   "what": "Opens: “Yes, the A ends today. Yes, this sale ends today.”",
+   "how": "Use 2 characters, one disbelief line and one confirmation line, then the offer card and the deadline. Shoot 3 variants (shock, whisper, scolding).",
+   "dnc": "Only use a deadline that is real."
+  },
+  {
+   "title": "Resilia · Natural Defense Report: “This is your final warning. Today is the absolute last day to grab…”",
+   "image": "adlibrary/w6_4632101840369339.jpg",
+   "what": "Opens: “This is your final warning. Today is the absolute last day to grab Brasilias ore.”",
+   "how": "Use 2 characters, one disbelief line and one confirmation line, then the offer card and the deadline. Shoot 3 variants (shock, whisper, scolding).",
+   "dnc": "Only use a deadline that is real."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F99-<concept>-<variant>`; tracking tag `utm_content=F99-<concept>-<variant>`.",
+  "Avoid: Real deadlines only; turn the ads off when the sale ends.",
+  "Avoid: State the timezone.",
+  "Avoid: Don't run \"last day\" creative for more than one day."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

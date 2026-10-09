@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:02 | Daniel Carter: Really appointing The website is slow, confusing to navigate, and issues trying to complete a simple task Some ps wouldn't load properly er needs | · |
+| 1 | 0:00–0:02 | Daniel Carter: Really appointing … The website is slow, confusing to navigate, and … issues trying to complete a simple task Some … wouldn't load properly … nee | · |
 | 2 | 0:02–0:04 | · | Someone left us this review, so instead of deleting it, we built a whole ad campaign around it. |
 | 3 | 0:04–0:06 | · | · |
 | 4 | 0:06–0:08 | · | · |
 | 5 | 0:08–0:10 | · | Your worst review could be your best headline. DM us with yours. |
 | 6 | 0:10–0:12 | · | · |
 | 7 | 0:12–0:15 | · | · |
-| 8 | 0:15–0:17 | SM DIGITAL SYSTEMS | · |
+| 8 | 0:15–0:17 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -34,12 +34,13 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 </details>
 
-## More real examples (1)
+## More real examples (4)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
+| [![@thedennis](example/more/2036981673259393507.jpg)](https://x.com/thedennis/status/2036981673259393507)<br>**@thedennis** · 1:18 video · 3K views<br>The best ad I ever wrote came from a 1-star review. No brainstorming session. No creative brief. No agency deck. One angry customer who wrote exactly | [![@Peter_Quadrel](example/more/2050482614696640734.jpg)](https://x.com/Peter_Quadrel/status/2050482614696640734)<br>**@Peter_Quadrel** · image · 1K views<br>1 Star Reviews Make Your BEST Ads... Nevermind UGC, founder explainers, or polished product shots, negative review ads are what get your market's atte | [![@cortex_adbrain](example/more/2103883993603031429.jpg)](https://x.com/cortex_adbrain/status/2103883993603031429)<br>**@cortex_adbrain** · image · 31 views<br>if you're a creative strategist, a 1-star review just outworked your entire creative brief the brand quoted their own worst complaint, bolded it, gave |
 | [![@stephenfung_dev](example/more/2089528727445062001.jpg)](https://x.com/stephenfung_dev/status/2089528727445062001)<br>**@stephenfung_dev** · image · 5K views<br>Results of buying this ad spot: 358 downloads (+29% week over week) $121.67 in revenue (+114% week over week) $62 in MMR (+75% week over week) 1 - 1 s |   |   |
 
 ## How to make one like it
@@ -63,7 +64,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 5 | 0:09 | Your worst review could be your best headline. DM us with yours. | … |
 | 6 | 0:11 | Your worst review could be your best headline. DM us with yours. | … |
 | 7 | 0:13 | (visual beat, see frame 7) | … |
-| 8 | 0:16 | on screen: SM DIGITAL SYSTEMS | … |
+| 8 | 0:16 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake
 

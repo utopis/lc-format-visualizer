@@ -1,0 +1,99 @@
+{
+ "id": "F89",
+ "slug": "89-customer-thank-you-shoutout-ad",
+ "name": "Customer thank-you / shout-out turned into an ad",
+ "type": "paid + organic",
+ "platforms": "[Meta, IG]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "20 min",
+ "length": "Static 1080x1350 or a 15-25s video",
+ "shots": [
+  {
+   "slot": "0-3s / image",
+   "visual": "The customer's own photo or clip (wearing the piece), with permission",
+   "audio_text": "Text: \"Thank you, Maria.\""
+  },
+  {
+   "slot": "3-12s",
+   "visual": "Her words, quoted verbatim on screen or read by the founder",
+   "audio_text": "\"I wore it every day of my mum's last summer. It's the one thing I never take off now.\""
+  },
+  {
+   "slot": "12-18s",
+   "visual": "Founder to camera, a short genuine reply",
+   "audio_text": "\"This is why we make it waterproof.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Product in the photo + soft CTA",
+   "audio_text": "\"The Mae Necklace. Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Consent ask",
+   "prompt": "DM: \"Your message made our week. Would you be OK with us sharing your photo and words in a thank-you post and ads? We'll credit you however you like.\""
+  },
+  {
+   "tool": "Copy (Claude)",
+   "prompt": "Write a 40-word thank-you caption that quotes the customer verbatim and adds one sentence from the founder; no sales language until the last line."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/LorelDiamonds/status/2099906094990508266",
+   "author": "LorelDiamonds",
+   "note": "A fine-jewellery brand's thank-you post: a customer's hand wearing her ring next to flowers and the note she sent about what the piece means to her. The caption: \"The loveliest part of creating jewellery is hearing what it means to the person wearing it. Thank you to our customer for sharing their experience.\"",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/E_S_Collectible/status/2082178074108637387",
+   "author": "E_S_Collectible",
+   "note": "Huge shoutout to our customer @GamecockCards for creating these two incredible custom 3D cards! The detail and depth look amazing in person. Please ch",
+   "local": "example/more/2082178074108637387.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Nate_Google_/status/2090789562121359452",
+   "author": "Nate_Google_",
+   "note": "this is a PRIME EXAMPLE of why native style creative wins 600k views on this article post in 5 hours nobody scrolls past a handwritten note on a cup. ",
+   "local": "example/more/2090789562121359452.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/envyofyibo/status/2095707442294448570",
+   "author": "envyofyibo",
+   "note": "Lanqin Lozenges Weibo \"Lanqin Lozenges's Monkey Lily suddenly disappeared last night!! We found a handwritten note on his workstation. 🔍 It said he wa",
+   "local": "example/more/2095707442294448570.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F89-<concept>-<variant>`; tracking tag `utm_content=F89-<concept>-<variant>`.",
+  "Avoid: Explicit consent from the customer is required for ads.",
+  "Avoid: Never polish or rewrite her words.",
+  "Avoid: Don't use grief or sensitive stories without the customer's clear OK."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

@@ -20,7 +20,7 @@
   {
    "t": "0:02",
    "said": "to make out with the girl who told me about this. You're telling me there's an app",
-   "ocr": "I'm going to make out with the girl who this"
+   "ocr": "I'm going to make out with the girl who"
   },
   {
    "t": "0:06",
@@ -30,7 +30,7 @@
   {
    "t": "0:11",
    "said": "and it will write stories, detailed stories that you can listen to about your future self",
-   "ocr": "that you to"
+   "ocr": ""
   },
   {
    "t": "0:15",
@@ -112,6 +112,15 @@
    "kind": "image",
    "cap": "Green screen reaction ads are working really well right now. Here is the setup. You have a main video, usually a creator or an AI creator telling a st",
    "views": 2065
+  },
+  {
+   "id": "2083948194988220841",
+   "author": "antonioventre_",
+   "url": "https://x.com/antonioventre_/status/2083948194988220841",
+   "thumb": "example/more/2083948194988220841.jpg",
+   "kind": "image",
+   "cap": "Green screen reaction ads are still one of our most reliable formats, and most brands build them wrong. The setup: a base video plays (a story, a demo",
+   "views": 1976
   }
  ]
 }

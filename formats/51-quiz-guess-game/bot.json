@@ -1,0 +1,112 @@
+{
+ "id": "F51",
+ "slug": "51-quiz-guess-game",
+ "name": "Quiz / guess-the-price / street quiz game",
+ "type": "organic + paid",
+ "platforms": "[TikTok, Reels, YouTube Shorts]",
+ "cost_per_asset": "$0-100",
+ "time_per_asset": "1 h",
+ "length": "30-60s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Street: host stops a passer-by, holds up a stacked wrist",
+   "audio_text": "\"Guess how much this whole stack cost.\""
+  },
+  {
+   "slot": "3-15s",
+   "visual": "Guesses: \"$400?\" \"$250?\"",
+   "audio_text": "Reactions on camera"
+  },
+  {
+   "slot": "15-25s",
+   "visual": "Reveal",
+   "audio_text": "\"Seven pieces. $85.\""
+  },
+  {
+   "slot": "25-40s",
+   "visual": "Passer-by puts it on",
+   "audio_text": "\"Wait, and it's waterproof?\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Shoot",
+   "prompt": "Handheld mic with logo, two phones (wide + close), signed releases from everyone shown."
+  },
+  {
+   "tool": "Variant",
+   "prompt": "Weight version: \"guess how much the stainless jewellery I wear every day weighs\" (SophieElodie-style)."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/LewisSylvi3994/status/2105450856086917518",
+   "author": "LewisSylvi3994",
+   "note": "A guess-the-price game: a creator asks you to guess how much a necklace cost (\"Everyone assumes it's fine jewelry\"), shows the pieces close up, reveals \"It's under $70 from XN Jewelry\", then \"Stop overpaying\" and \"Tap the link in bio!\".",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/syinsyon/status/1979373551137489020",
+   "author": "syinsyon",
+   "note": "Can you guess how much this gold jewelry?",
+   "local": "example/more/1979373551137489020.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/SophieElodie/status/2010785671498383613",
+   "author": "SophieElodie",
+   "note": "I just weighed the stainless steel jewelry I wear every day. Guess how much it weighs? 😏⛓️",
+   "local": "example/more/2010785671498383613.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/big_damola/status/1864240379110867128",
+   "author": "big_damola",
+   "note": "Guess the price of this jewelry 🌚",
+   "local": "example/more/1864240379110867128.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Astrid Zeegen: 60-year-old founder quiz talking head (collagen)",
+   "days": 208,
+   "image": "adlibrary/w4_104000752.jpg",
+   "what": "A woman of 60 to camera: \"Quick quiz. Do you know the difference between marine collagen and bovine collagen? …Does that help your skin, your joints or your gut?\" 357 s (with a 392 s sibling).",
+   "how": "An age-matched presenter, a quiz-style A-or-B question, and the answer explains the product range."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F51-<concept>-<variant>`; tracking tag `utm_content=F51-<concept>-<variant>`.",
+  "Avoid: Get releases from everyone on camera.",
+  "Avoid: The reveal price must be the real price.",
+  "Avoid: Don't fake guesses with actors without saying so."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

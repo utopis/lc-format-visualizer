@@ -20,18 +20,18 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:01 | · | · |
 | 2 | 0:01–0:02 | · | · |
-| 3 | 0:02–0:04 | at'60 Capture ingredient list ea? ow eT hee a a ee ol tf ae Home Analyze Sean Profile | · |
-| 4 | 0:04–0:05 | 2258 al SGt Product Scanner Ww it fit your skin? Scan to find out. a Good Fit Acid 7% Toner 70 von 100 This toner texture clarity, which ore FOR! hazel and if m | · |
-| 5 | 0:05–0:07 | 2258 at SG FE Product Scanner Will it fit your skin? Scan to find out. WHAT WORKS FOR YOU improves skin texture and clarity dead skin cells for a smoother appea | · |
-| 6 | 0:07–0:08 | 22:58 atl SG Product Scanner Will it fit your skin? Scan to find out. ROUTINE CONFLICTS vs. Bonding Oi! Contains high oils that may worsen WATCH OUT FOR Fragran | · |
+| 3 | 0:02–0:04 | at'60 Capture ingredient list … hee a a … Home Analyze Sean | · |
+| 4 | 0:04–0:05 | SGt Product Scanner … it fit your skin? Scan to find out. a Good Fit … 70 von 100 This … clarity, which ore … hazel and if may conflict with the user's current  | · |
+| 5 | 0:05–0:07 | Product Scanner Will it fit your skin? Scan to find out. WHAT WORKS FOR YOU improves skin texture and clarity … dead skin cells for a smoother appearance Enhanc | · |
+| 6 | 0:07–0:08 | Product Scanner Will it fit your skin? Scan to find out. ROUTINE CONFLICTS … oils that may … WATCH OUT FOR Fragrance … cause irritation Witch Hazel Can be dryin | · |
 
-## More real examples (1)
+## More real examples (3)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@consumerxai](example/more/2107834606368293123.jpg)](https://x.com/consumerxai/status/2107834606368293123)<br>**@consumerxai** · 0:08 video · 293 views<br>121M views lost to 9.6M on the number that matters more for engagement saves -> a save means "i'm going to do this later" and has high intent -> calor |   |   |
+| [![@consumerxai](example/more/2107834606368293123.jpg)](https://x.com/consumerxai/status/2107834606368293123)<br>**@consumerxai** · 0:08 video · 293 views<br>121M views lost to 9.6M on the number that matters more for engagement saves -> a save means "i'm going to do this later" and has high intent -> calor | [![@brhansolo](example/more/2063698878172475407.jpg)](https://x.com/brhansolo/status/2063698878172475407)<br>**@brhansolo** · 0:20 video · 32 views<br>this food scanner might be the cleanest app marketing on tikt0k right now 😭 the app is at $520K/mo 160K downloads last month they're not running ads o | [![@fqizii](example/more/2075481622590177594.jpg)](https://x.com/fqizii/status/2075481622590177594)<br>**@fqizii** · 0:39 video · 500 views<br>🎥✨ My entry for the Emorya AI Food Scanning Contest! Check the video below and I hope you enjoy it . I decided to create this video myself and try out |
 
 ## How to make one like it
 
@@ -49,10 +49,10 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 |---|---|---|---|
 | 1 | 0:00 | (visual beat, see frame 1) | … |
 | 2 | 0:02 | (visual beat, see frame 2) | … |
-| 3 | 0:03 | on screen: at'60 Capture ingredient list ea? ow eT hee a a ee ol tf ae Home Analyze Sean Profile | … |
-| 4 | 0:05 | on screen: 2258 al SGt Product Scanner Ww it fit your skin? Scan to find out. a Good Fit Acid 7% Toner 70 von 100 This toner textur | … |
-| 5 | 0:06 | on screen: 2258 at SG FE Product Scanner Will it fit your skin? Scan to find out. WHAT WORKS FOR YOU improves skin texture and clar | … |
-| 6 | 0:08 | on screen: 22:58 atl SG Product Scanner Will it fit your skin? Scan to find out. ROUTINE CONFLICTS vs. Bonding Oi! Contains high oi | … |
+| 3 | 0:03 | on screen: at'60 Capture ingredient list … hee a a … Home Analyze Sean | … |
+| 4 | 0:05 | on screen: SGt Product Scanner … it fit your skin? Scan to find out. a Good Fit … 70 von 100 This … clarity, which ore … hazel and | … |
+| 5 | 0:06 | on screen: Product Scanner Will it fit your skin? Scan to find out. WHAT WORKS FOR YOU improves skin texture and clarity … dead ski | … |
+| 6 | 0:08 | on screen: Product Scanner Will it fit your skin? Scan to find out. ROUTINE CONFLICTS … oils that may … WATCH OUT FOR Fragrance … c | … |
 
 ### 2. Shot-by-shot remake
 

@@ -2,6 +2,66 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Sponsored episode in the channel's native length (60s-3 min) + a 30s whitelisted cut), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@cesaralvarezll](https://x.com/cesaralvarezll/status/2108488444414394811) · A GoodShort clip shown in a phone frame next to the App Store overlay "App Stats: 2m downloads & $9m revenue last month" (GoodShort - Short Dramas Hub). In the drama, at a red-carpet party, a woman sneers at a birthday gift bottle of wine: "What brand is this... don't tell me it's some cheap knockoff... Are you trying to poison Dad with this no-name trash?" The clip is marked "Paid partnership". T
+- Example: [@MogiOTTSolution](https://x.com/MogiOTTSolution/status/2066387745732465148) · Brands don't need more ads. They need better stories. 🎬 Lacto Calamine generated 10M organic views in 5 days through a micro-drama. 🎬 Crocs achieved 1
+- Example: [@SixthTone](https://x.com/SixthTone/status/2082027321490329688) · AI-generated stars are attracting real fans. After the AI micro-drama “The Laid-Off Girl” surpassed 200 million views, its female lead launched a Douy
+- Example: [@AshleyDudarenok](https://x.com/AshleyDudarenok/status/2095338838394654999) · She has NO eyes, but sold contact lenses. AI micro-drama star Fang Taozi accrued 400k followers in a month, out-charging human influencers with millio
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Setup | Lead touches her necklace when nervous (establish the habit in the first scene) | — |
+| Conflict | Antagonist line about the necklace | "That thing will be green by the wedding." |
+| Proof scene | Rain / pool / tears; necklace visibly fine | — |
+| Hero close-up | 1-2s macro of clasp/pendant, real product | On-screen tag: "Louise Carter · 14K PVD" |
+| Sponsored end card | Paid-partnership label + shop link (whitelisted version) | "Her necklace: any 7 for $85" |
+
+### Prompts
+
+**Channel shortlist**
+
+```
+Search TikTok and YouTube for "micro drama", "short drama", "AI drama" with women 25-55 audiences; log avg views (last 10 posts), comment quality, audience geo, posting cadence, and whether they already do brand integrations.
+```
+
+**Outreach DM (draft only; send after approval)**
+
+```
+Draft: "Love [series]. We're Louise Carter (waterproof 14K PVD jewelry). Would you write our necklace into an upcoming episode as the lead's never-take-it-off piece? Flat fee + 30-day whitelisting + affiliate code. Can share a 1-page brief."
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F107-<concept>-<variant>`; tracking tag `utm_content=F107-<concept>-<variant>`.
+- [ ] Avoid: Get whitelisting rights in writing before paying.
+- [ ] Avoid: Approve the script for claims; creators improvise.
+- [ ] Avoid: Paid-partnership label on every post.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

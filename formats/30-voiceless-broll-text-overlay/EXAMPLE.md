@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | a HE to app pairing intimate dinner clips a with along-distance text hook before demonstrating couples drawing val az SCORE BREAKDOWN 566. 5s 454 ly, CT | · |
-| 2 | 0:01–0:03 | art travel-footage to app pairing intimate dinner clips with a long-distance text hook before demonstrating at di couples drawing Finally thy 133K 28K SCORE BRE | · |
-| 3 | 0:03–0:05 | travel-footage to app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared couples drawing ina 133K 322 28K universe had t | · |
-| 4 | 0:05–0:07 | 00 silent travel-footage to lifestyle app pairing intimate dinner clips long-distance text hook before demonstrating a shared couples drawing Si ja in ie hip bo | · |
-| 5 | 0:07–0:09 | · | · |
-| 6 | 0:09–0:10 | · | · |
-| 7 | 0:10–0:12 | a a cent isla to lifestyle app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared a couples drawing Cal Me 866 Excellent | · |
-| 8 | 0:12–0:14 | silent travel-footage to app pairing intimate dinner clips with a long-distance before demonstrating a shared couples drawing Me 568. Excellent 50.0% weighted e | · |
+| 1 | 0:00–0:01 | app pairing intimate dinner clips a with along-distance text hook before demonstrating … SCORE BREAKDOWN 566. | · |
+| 2 | 0:01–0:03 | app pairing intimate dinner clips with a long-distance text hook before demonstrating … SCORE PULL SCORE 566. … toes wake Beat a | · |
+| 3 | 0:03–0:05 | app pairing intimate dinner clips with a long-distance text hook … before demonstrating a shared couples drawing … 133K 322 28K … universe had to make SCORE BRE | · |
+| 4 | 0:05–0:07 | 00 silent travel-footage … lifestyle app pairing intimate dinner clips … long-distance text hook before demonstrating a shared couples drawing … had to stance 5 | · |
+| 5 | 0:07–0:09 | app pairing intimate dinner clips … long-distance text hook before demonstrating a shared couples drawing … I PULL scoRE … Yale a keane 566% Excellent on | · |
+| 6 | 0:09–0:10 | app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared couples drawing … 3K 322 28K … a SCORE BREAKDOWN … thee 0.0% weig | · |
+| 7 | 0:10–0:12 | a a cent … lifestyle app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared a couples drawing … Cal Me 866 Excellent 50. | · |
+| 8 | 0:12–0:14 | app pairing intimate dinner clips with a long-distance … before demonstrating a shared couples drawing … Me 568. Excellent 50.0% weighted | · |
 
 ## More real examples (5)
 
@@ -50,14 +50,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:00 | on screen: a HE to app pairing intimate dinner clips a with along-distance text hook before demonstrating couples drawing val az SC | … |
-| 2 | 0:02 | on screen: art travel-footage to app pairing intimate dinner clips with a long-distance text hook before demonstrating at di couple | … |
-| 3 | 0:04 | on screen: travel-footage to app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared couples | … |
-| 4 | 0:06 | on screen: 00 silent travel-footage to lifestyle app pairing intimate dinner clips long-distance text hook before demonstrating a s | … |
-| 5 | 0:08 | (visual beat, see frame 5) | … |
-| 6 | 0:10 | (visual beat, see frame 6) | … |
-| 7 | 0:11 | on screen: a a cent isla to lifestyle app pairing intimate dinner clips with a long-distance text hook before demonstrating a share | … |
-| 8 | 0:13 | on screen: silent travel-footage to app pairing intimate dinner clips with a long-distance before demonstrating a shared couples dr | … |
+| 1 | 0:00 | on screen: app pairing intimate dinner clips a with along-distance text hook before demonstrating … SCORE BREAKDOWN 566. | … |
+| 2 | 0:02 | on screen: app pairing intimate dinner clips with a long-distance text hook before demonstrating … SCORE PULL SCORE 566. … toes wak | … |
+| 3 | 0:04 | on screen: app pairing intimate dinner clips with a long-distance text hook … before demonstrating a shared couples drawing … 133K | … |
+| 4 | 0:06 | on screen: 00 silent travel-footage … lifestyle app pairing intimate dinner clips … long-distance text hook before demonstrating a | … |
+| 5 | 0:08 | on screen: app pairing intimate dinner clips … long-distance text hook before demonstrating a shared couples drawing … I PULL scoRE | … |
+| 6 | 0:10 | on screen: app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared couples drawing … 3K 322 | … |
+| 7 | 0:11 | on screen: a a cent … lifestyle app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared a co | … |
+| 8 | 0:13 | on screen: app pairing intimate dinner clips with a long-distance … before demonstrating a shared couples drawing … Me 568. Excelle | … |
 
 ### 2. Shot-by-shot remake
 

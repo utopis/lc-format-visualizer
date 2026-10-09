@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:17. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:17 | MASCARA DEMO, 7k al | Okay, if your mascara just isn't doing what it used to, you need to see this. We're doing this completely live, one eye, one coat of blush. Watch what happens. Now she has absolutely nothing on these lashes right now. And look at that brush. You're getting right down at the root |
+| 1 | 0:00–0:17 | MASCARA DEMO, 7k | Okay, if your mascara just isn't doing what it used to, you need to see this. We're doing this completely live, one eye, one coat of blush. Watch what happens. Now she has absolutely nothing on these lashes right now. And look at that brush. You're getting right down at the root |
 | 2 | 0:17–0:35 | · | and pulling all the way through to the tip. This is why I love doing these demonstrations live because there's nowhere to hide. Look at the difference in length, the definition, and especially how much more open that eye looks. You know, whenever I do makeup for a woman over 40 now, it's always blus |
 | 3 | 0:35–0:52 | · | lashes. Like look at the difference on this model. Tell me which one you think has tubing mascara on versus the Korean lash casting. I mean, it's night and day of a difference. And here's what we're using. This is the blush lash casting mascara. |
 | 4 | 0:52–1:10 | · | Look closely at that tube because that's a huge part of why you're getting that separation. Oh, that is beautiful. Look at her now. You can see every individual lash, but she doesn't have that heavy overloaded mascara look. And that's exactly it. Lash casting is specifically made for women 40 and up |
-| 5 | 1:10–1:27 | SHE Ss Ow a mf | for our aged lashes. And that's exactly why this Korean formula has gotten so popular. It's natural, but attaches to each individual lash, giving you that natural volume you want without all of that weight or dark look from your old tubing mascara. It's brand new from Korea, |
+| 5 | 1:10–1:27 | · | for our aged lashes. And that's exactly why this Korean formula has gotten so popular. It's natural, but attaches to each individual lash, giving you that natural volume you want without all of that weight or dark look from your old tubing mascara. It's brand new from Korea, |
 | 6 | 1:27–1:45 | · | and it's selling fast. I mean, if you guys aren't blown away by this, I don't know what will. So tell us what do you think? I can't believe these are my lashes. I love it. Oh my goodness, they look so natural. My old mascara could never do this, right? I always found that |
-| 7 | 1:45–2:03 | PS ee a | while tubing gives you that big dark look, I always just wanted something more natural, but still gave me that volume I was looking for. And I mean, look at these lashes. You look stunning. Tell me those don't look like extensions or some expensive salon treatment. |
-| 8 | 2:03–2:20 | BEAUTY il LIVES HERE ah LOC cD a a Ps | That was just two passes on each eyelash. It really is a total game changer. If you're a woman at home watching over 40, you need to see it for yourself to understand. So if you've been piling on mascara and wondering why you're still not getting the lashes you want, try blush. One product, your own |
+| 7 | 1:45–2:03 | · | while tubing gives you that big dark look, I always just wanted something more natural, but still gave me that volume I was looking for. And I mean, look at these lashes. You look stunning. Tell me those don't look like extensions or some expensive salon treatment. |
+| 8 | 2:03–2:20 | · | That was just two passes on each eyelash. It really is a total game changer. If you're a woman at home watching over 40, you need to see it for yourself to understand. So if you've been piling on mascara and wondering why you're still not getting the lashes you want, try blush. One product, your own |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -61,7 +61,7 @@ The storyboard above samples the video every 0:17. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -69,6 +69,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@kristian_jennin](example/more/2101352217089282066.jpg)](https://x.com/kristian_jennin/status/2101352217089282066)<br>**@kristian_jennin** · 31:13 video · 231K views<br>AI UGC looks fake because of a missing step (realism workflow video). | [![@zedmadeit](example/more/2107552798842003488.jpg)](https://x.com/zedmadeit/status/2107552798842003488)<br>**@zedmadeit** · 1:58 video · 20K views<br>Intentional AI ad system starting from brand/product/customer, visuals matched to script. | [![@eliasrrecom](example/more/2092612451623694388.jpg)](https://x.com/eliasrrecom/status/2092612451623694388)<br>**@eliasrrecom** · 1:26 video · 54K views<br>Realistic AI UGC ads tutorial. |
 | [![@ladprofit](example/more/2100960479577362499.jpg)](https://x.com/ladprofit/status/2100960479577362499)<br>**@ladprofit** · 0:12 video · 2K views<br>Seedance AI UGC page for Veterans Day: same B-roll, new hook each post, trending audio, comment-keyword link (comment-gated teardown). | [![@adamtaylorl](example/more/2089713928511345017.jpg)](https://x.com/adamtaylorl/status/2089713928511345017)<br>**@adamtaylorl** · images · 22K views<br>Hike Footwear ad 100% AI. | [![@CEO_Vlad](example/more/2108405736245952955.jpg)](https://x.com/CEO_Vlad/status/2108405736245952955)<br>**@CEO_Vlad** · 0:20 video · 21 views<br>Audio is what makes AI UGC feel real; one robotic sentence kills it. |
+| [![@Mho_23](example/more/2085374858267857069.jpg)](https://x.com/Mho_23/status/2085374858267857069)<br>**@Mho_23** · 12:00 video · 8K views<br>Realistic AI UGC with Seedance 2.0 full breakdown (mho_23). | [![@oliverxmedia](example/more/2104954498565464350.jpg)](https://x.com/oliverxmedia/status/2104954498565464350)<br>**@oliverxmedia** · 0:25 video · 5K views<br>Realistic AI = reference images + precise prompts + consistent characters + guided motion. |   |
 
 ## How to make one like it
 

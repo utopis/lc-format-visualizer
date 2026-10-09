@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:15. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:15 | a, ar si -2 fs my after age 607 eo lu fl me me, | There is a cellular reason your bones thin after menopause, and it is reversible. What is the best way to rebuild bone density after age 60? Calcium pills? No. Phosomax? Nope. Prolianjections? Definitely not. |
+| 1 | 0:00–0:15 | my after age 607 | There is a cellular reason your bones thin after menopause, and it is reversible. What is the best way to rebuild bone density after age 60? Calcium pills? No. Phosomax? Nope. Prolianjections? Definitely not. |
 | 2 | 0:15–0:31 | · | There is an even more powerful vitamin that rebuilds bone density in the hips, knees, and spine. Did you know that a calcium deficiency is not the root cause of osteoporosis? Contrary to popular belief, a calcium deficiency is a symptom, but not the root cause. |
-| 3 | 0:31–0:47 | Nw a a that damage and Weak down your bones rX ns SS ee Se | Inside your bones, there are a group of good cells that repair and grow your bones, and a group of evil cells that damage and break down your bones. This process is called bone remodeling. And when you're young, this process works in perfect balance. |
-| 4 | 0:47–1:02 | a. git hy especially if youre post menopause a 9? | The old cells get cleared out to make room for new, healthy ones. And your bones stay healthy and strong, no problems. But after age 60, especially if you're postmenopause, your body starts accumulating a surplus of evil cells called zombie cells. And these zombie cells break down your bones faster  |
-| 5 | 1:02–1:18 | · | Aki, low back, knees, or hips, that's your skeletal system losing that battle to zombie cells. But here's the concerning part, if your bones get too weak, most doctors say you'll be stuck with the pain forever. Your bones become thin, brittle, fragile, |
+| 3 | 0:31–0:47 | that damage and Weak down your bones | Inside your bones, there are a group of good cells that repair and grow your bones, and a group of evil cells that damage and break down your bones. This process is called bone remodeling. And when you're young, this process works in perfect balance. |
+| 4 | 0:47–1:02 | especially if youre post | The old cells get cleared out to make room for new, healthy ones. And your bones stay healthy and strong, no problems. But after age 60, especially if you're postmenopause, your body starts accumulating a surplus of evil cells called zombie cells. And these zombie cells break down your bones faster  |
+| 5 | 1:02–1:18 | may 4, here's | Aki, low back, knees, or hips, that's your skeletal system losing that battle to zombie cells. But here's the concerning part, if your bones get too weak, most doctors say you'll be stuck with the pain forever. Your bones become thin, brittle, fragile, |
 | 6 | 1:18–1:34 | · | until something as simple as a stumble, a bump, or even an awkward step becomes a fracture waiting to happen. And according to recent research, low bone density is one of the leading reasons people lose their independence as they age. A hip fracture can mean surgery. |
-| 7 | 1:34–1:50 | et a, Sy their fitness Sy ae ee | A spinal fracture can mean permanent disability. A simple fall can mean never living alone again. Many stop their fitness hobbies. Many stop visiting family. And the next thing you know, then the old folks home. All because of bone loss caused by these evil zombie cells. |
-| 8 | 1:50–2:05 | and tell you just to manage the bone loss yr fi | Meanwhile, doctors keep prescribing calcium supplements. Bio-phosphate medications and tell you just to manage the bone loss. But calcium supplements don't remove the zombie cells attacking your bones. And prescription medications don't eliminate the root. |
+| 7 | 1:34–1:50 | · | A spinal fracture can mean permanent disability. A simple fall can mean never living alone again. Many stop their fitness hobbies. Many stop visiting family. And the next thing you know, then the old folks home. All because of bone loss caused by these evil zombie cells. |
+| 8 | 1:50–2:05 | and tell you just to manage the bone loss | Meanwhile, doctors keep prescribing calcium supplements. Bio-phosphate medications and tell you just to manage the bone loss. But calcium supplements don't remove the zombie cells attacking your bones. And prescription medications don't eliminate the root. |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -70,13 +70,14 @@ The storyboard above samples the video every 0:15. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@Bogzabs96](example/more/2092929767993471081.jpg)](https://x.com/Bogzabs96/status/2092929767993471081)<br>**@Bogzabs96** · 2:06 video · 2K views<br>This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad acc | [![@SeanKim436](example/more/2102890739432566805.jpg)](https://x.com/SeanKim436/status/2102890739432566805)<br>**@SeanKim436** · image · 525 views<br>Here are 3 reasons why the biggest consumer tech startups are POURING money into Canvas UGC over traditional influencer marketing in 2026 1. More volu |   |
+| [![@FomoAiCommunity](example/more/2045575780831514799.jpg)](https://x.com/FomoAiCommunity/status/2045575780831514799)<br>**@FomoAiCommunity** · image · 100 views<br>3 Reasons Why You Need InkJoy at Home 1. Stop wasting time on static art 2. Never miss family moments 3. Become the house everyone talks about InkJoy | [![@ZedNilm1](example/more/2054297982577901656.jpg)](https://x.com/ZedNilm1/status/2054297982577901656)<br>**@ZedNilm1** · image · 373 views<br>"5 science-backed reasons why an award-winning German scientist recommends complete gut repair for men struggling with dad bods." Every word in that h | [![@Ubaidullah_llc](example/more/2103025457876836606.jpg)](https://x.com/Ubaidullah_llc/status/2103025457876836606)<br>**@Ubaidullah_llc** · image · 94 views<br>A couple months ago, I got the lowest CPA of $49.22 for my client on a product with a $500 AOV through a listicle static. My biggest takeaway was that |
+| [![@DalyDee___](example/more/2040779950085595240.jpg)](https://x.com/DalyDee___/status/2040779950085595240)<br>**@DalyDee___** · image · 1K views<br>Big day for my client: One AI animation listicle ad. £20,268 in spend. 501 purchases. 17,676 clicks. £1.15 CPC. That's what one well built creative ca | [![@Bogzabs96](example/more/2092929767993471081.jpg)](https://x.com/Bogzabs96/status/2092929767993471081)<br>**@Bogzabs96** · 2:06 video · 2K views<br>This ad is CRAZY from the team: The 3 reasons why: 1. Script is crazy good 2. Format includes an authority figure and looks like nothing in the ad acc | [![@SeanKim436](example/more/2102890739432566805.jpg)](https://x.com/SeanKim436/status/2102890739432566805)<br>**@SeanKim436** · image · 525 views<br>Here are 3 reasons why the biggest consumer tech startups are POURING money into Canvas UGC over traditional influencer marketing in 2026 1. More volu |
 
 ## How to make one like it
 

@@ -18,7 +18,7 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | · | Life does not... |
+| 1 | 0:00–0:01 | SEES OF raining and | Life does not... |
 | 2 | 0:01–0:03 | · | Oh my God. |
 | 3 | 0:03–0:05 | · | · |
 | 4 | 0:05–0:07 | · | Oh... |
@@ -33,7 +33,7 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -41,6 +41,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@consumerxai](example/more/2096916156389240853.jpg)](https://x.com/consumerxai/status/2096916156389240853)<br>**@consumerxai** · 0:08 video · 1K views<br>Outlier: aesthetic desk-setup hook + split-screen app demo, 558K views/4.4K saves. | [![@leonclipping](example/more/2107903429490135362.jpg)](https://x.com/leonclipping/status/2107903429490135362)<br>**@leonclipping** · images · 3K views<br>Musa app: ONE format (4-sec shocked reaction to a body fact → mascot explains) = 522M views, 930 videos >100K, 100+ creators. | [![@simonecanciello](example/more/2092704268734099547.jpg)](https://x.com/simonecanciello/status/2092704268734099547)<br>**@simonecanciello** · 0:08 video · 15K views<br>this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching f |
 | [![@nicholasnlawton](example/more/2104924114712469774.jpg)](https://x.com/nicholasnlawton/status/2104924114712469774)<br>**@nicholasnlawton** · 0:23 video · 3K views<br>Looking at the current state of tech UGC on TikTok today and remembering a time in early 2025 where you could lob up a hook and demo and drive 100k ne | [![@danclipping](example/more/2079987510680150282.jpg)](https://x.com/danclipping/status/2079987510680150282)<br>**@danclipping** · 0:18 video · 4K views<br>This app raked 7.1M views 387K like with the usual WTH reaction hook And they have hundreds of videos in this format with millions of views Works ever | [![@getnoise](example/more/2087608814551904327.jpg)](https://x.com/getnoise/status/2087608814551904327)<br>**@getnoise** · 0:16 video · 607 views<br>Viral Hook + Demo format from Cantina 📝 ”Use ChatGPT to make money online” - but actually, you’re using their service to do it. No one thinks twice ab |
+| [![@tellenne_](example/more/2104591914511045111.jpg)](https://x.com/tellenne_/status/2104591914511045111)<br>**@tellenne_** · image · 437 views<br>Instagram account with 11.6M views in the US [Real anonymized @tokportal data] CPM: $0.014 \| B2B SaaS \| UGC (non-AI) hook + demo format This account a | [![@consumerxai](example/more/2102862107205398992.jpg)](https://x.com/consumerxai/status/2102862107205398992)<br>**@consumerxai** · 0:34 video · 674 views<br>‼️Tiktok Outlier Alert ‼️ 📉 370K Views, 23K Likes, 207 Comments, 1.6K Shares, 2.9K Saves 🧐What this is: > A genuine reaction hook you can use to promo |   |
 
 ## How to make one like it
 

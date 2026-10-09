@@ -21,11 +21,11 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 | 1 | 0:00–0:06 | · | Mari, Inaan accept these. It've all been opened. They didn't work. |
 | 2 | 0:06–0:13 | · | You can't return 12 open bottles because they didn't work? |
 | 3 | 0:13–0:19 | · | · |
-| 4 | 0:19–0:26 | · | They didn't work for two |
-| 5 | 0:26–0:32 | · | · |
+| 4 | 0:19–0:26 | ramadan seem bee | They didn't work for two |
+| 5 | 0:26–0:32 | Seam bee 87 as | · |
 | 6 | 0:32–0:39 | · | · |
-| 7 | 0:39–0:45 | · | Six weeks. It stopped falling out. I stopped finding it on my pillow. |
-| 8 | 0:45–0:52 | · | It's called Lumo 100. Now, my refund. |
+| 7 | 0:39–0:45 | mate tee tome … a. ramadan seem tee are … ramen romans ore | Six weeks. It stopped falling out. I stopped finding it on my pillow. |
+| 8 | 0:45–0:52 | nate rape ramen Sheen | It's called Lumo 100. Now, my refund. |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -64,7 +64,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 2 | 0:09 | You can't return 12 open bottles because they didn't work? | … |
 | 3 | 0:16 | (visual beat, see frame 3) | … |
 | 4 | 0:22 | They didn't work for two | … |
-| 5 | 0:29 | (visual beat, see frame 5) | … |
+| 5 | 0:29 | on screen: Seam bee 87 as | … |
 | 6 | 0:35 | (visual beat, see frame 6) | … |
 | 7 | 0:42 | Six weeks. It stopped falling out. I stopped finding it on my pillow. | … |
 | 8 | 0:49 | It's called Lumo 100. Now, my refund. | … |

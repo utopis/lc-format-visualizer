@@ -1,0 +1,127 @@
+{
+ "id": "F98",
+ "slug": "98-six-second-micro-demo-loop",
+ "name": "6-second micro-demo loop with a native headline ('omg I think I finally found…')",
+ "type": "paid",
+ "platforms": "[Meta feed/Reels, Stories]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "30 min",
+ "length": "5-8s seamless loop, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-6s",
+   "visual": "The product doing its one job, silent: a gold chain under running shower water, water beading off, then the loop restarts on the same frame",
+   "audio_text": "Native headline above the video: \"omg I think I finally found it\""
+  },
+  {
+   "slot": "Variant B",
+   "visual": "A hand dipping in the sea and lifting out, chain glinting",
+   "audio_text": "\"necklace I don't have to take off for the beach??\""
+  },
+  {
+   "slot": "Variant C",
+   "visual": "A ring under a tap, then a towel rub",
+   "audio_text": "\"6 months, still gold\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Shoot",
+   "prompt": "iPhone 4K 60fps, macro, shower head off-frame, dark tile background, one side light for sparkle; trim so the last frame matches the first."
+  },
+  {
+   "tool": "Seedance / Kling (if real footage is not possible)",
+   "prompt": "5s seamless loop, macro of a thin gold chain under running water, droplets beading, dark tiles, side light"
+  },
+  {
+   "tool": "Headline bank (Claude)",
+   "prompt": "Write 20 lowercase \"found it\" headlines a real person might post, under 10 words, no brand name."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/fablecut/status/2102944927868965360",
+   "author": "fablecut",
+   "note": "A 5-second AI product loop: a gold watch on black marble with light gliding across it, looping without a cut. It was made from one product photo.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ecomrudolfs/status/2102762930886336763",
+   "author": "ecomrudolfs",
+   "note": "Smooche 6-second foundation clip, 12 duplicates, 225 days, \"omg I think I finally found a foundation that looks like second skin\".",
+   "local": "example/more/2102762930886336763.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/pranavclickks/status/2087497730042081339",
+   "author": "pranavclickks",
+   "note": "OMG! Claude can finally watch and analyze video ads. I connected Claude to the @hookmaster_ai MCP and gave it this 20-second Brezza S-CNG ad featuring",
+   "local": "example/more/2087497730042081339.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/akari_w0r1d/status/2102937109405311256",
+   "author": "akari_w0r1d",
+   "note": "I created this cozy 6-second lo-fi loop animation entirely within @adobefirefly First, I made the illustration and animation, then I used the AI Music",
+   "local": "example/more/2102937109405311256.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/hasantoxr/status/2099897310654378092",
+   "author": "hasantoxr",
+   "note": "Every lab claims \"we're the best model\" and the phrase means nothing the moment you actually make something. Best at a cinematic film look isn't best ",
+   "local": "example/more/2099897310654378092.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/vladdubchak_x/status/2080614240386240932",
+   "author": "vladdubchak_x",
+   "note": "Your best static ads have a ceiling. Static-only means no video slots, no autoplay spots that stop the scroll. This skill removes the ceiling: drop th",
+   "local": "example/more/2080614240386240932.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/lifemaximised/status/2087623547288207463",
+   "author": "lifemaximised",
+   "note": "YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al",
+   "local": "example/more/2087623547288207463.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Muscle Mat: Dog-test visual hook (Muscle Mat, 859 days)",
+   "days": 859,
+   "image": "adlibrary/w4_90837037.jpg",
+   "what": "A dog flops on the mattress topper and a woman presses it; captions \"what makes our campsite super comfy… 35 mm thick\". DCO.",
+   "how": "Pair an unexpected visual tester (dog, kid, grandpa) with a plain question in copy."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F98-<concept>-<variant>`; tracking tag `utm_content=F98-<concept>-<variant>`.",
+  "Avoid: The loop must be seamless or it looks like an ad.",
+  "Avoid: No logo or text inside the video; the headline does the talking.",
+  "Avoid: Use real footage of the real product wherever possible."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

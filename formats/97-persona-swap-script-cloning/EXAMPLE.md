@@ -24,7 +24,7 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 4 | 0:05–0:07 | · | · |
 | 5 | 0:07–0:09 | · | it's such a good workout. I've been using this at home almost every day |
 | 6 | 0:09–0:11 | · | · |
-| 7 | 0:11–0:13 | he a we | · |
+| 7 | 0:11–0:13 | · | · |
 | 8 | 0:13–0:15 | · | and not having to leave the house is the best part. You need this. |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -35,7 +35,7 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -43,6 +43,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@mikefutia](example/more/2080734489529971056.jpg)](https://x.com/mikefutia/status/2080734489529971056)<br>**@mikefutia** · 0:10 video · 4K views<br>I just cracked the code on cloning UGC ads with AI 🤯 One ad that's already converting → 20 different creators delivering the exact same script. New fa | [![@lorenzo_pravata](example/more/2079246318191403496.jpg)](https://x.com/lorenzo_pravata/status/2079246318191403496)<br>**@lorenzo_pravata** · 1:58 video · 5K views<br>Resilia ~8,000 ads, "$10-15M/month" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL. | [![@edwardlavinel_](example/more/2082467046034702738.jpg)](https://x.com/edwardlavinel_/status/2082467046034702738)<br>**@edwardlavinel_** · 1:24 video · 127 views<br>Shit. Analyzed 800+ active ads from creatine gummy. one pattern doing all the work. want the beats? Here is the breakdown: - uses a magazine cutout ae |
 | [![@oliverxmedia](example/more/2075560773657694682.jpg)](https://x.com/oliverxmedia/status/2075560773657694682)<br>**@oliverxmedia** · 0:21 video · 2K views<br>I genuinely had to do a double take the first time I watched this. If nobody told me it was AI-generated, I would've assumed it was filmed by a real c | [![@wabilaura](example/more/2082918789470208150.jpg)](https://x.com/wabilaura/status/2082918789470208150)<br>**@wabilaura** · 4:29 video · 486 views<br>Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i | [![@wabilaura](example/more/2083215336971858040.jpg)](https://x.com/wabilaura/status/2083215336971858040)<br>**@wabilaura** · 4:29 video · 450 views<br>Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i |
+| [![@LachezarVoynov](example/more/2107135814585000273.jpg)](https://x.com/LachezarVoynov/status/2107135814585000273)<br>**@LachezarVoynov** · image · 27K views<br>Resilia: 26 creative pods x 15 concepts x 3 variations = 1,170 new ads/week. | [![@oliverxmedia](example/more/2091181160739328190.jpg)](https://x.com/oliverxmedia/status/2091181160739328190)<br>**@oliverxmedia** · 0:06 video · 6K views<br>Arcads is quietly changing how apps get customers. This account was created to sell a weight loss app. Not build a personal brand. Not become an influ |   |
 
 ## How to make one like it
 

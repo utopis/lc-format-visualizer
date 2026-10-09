@@ -2,6 +2,74 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Static 1080x1350 + a 15-20s screen-record video), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@mattepstein](https://x.com/mattepstein/status/1840692048787042431) · A UGC ad that sends people straight to a build-your-own-bundle page: it opens on the store's 'massive BOGO sale' bundle page, then a creator shows the sunscreen products on her skin and around the house, ending on a stack of products and "Click below to BOGO".
+- Example: [@andrewdilullo](https://x.com/andrewdilullo/status/1891876658027823589) · New offer → Build your own bundle. Instead of a single product, we introduced a “Buy More, Save More” option. Customers could mix and match flavors, c
+- Example: [@CORSETDEAL](https://x.com/CORSETDEAL/status/1870738559134581077) · ✨ Big Savings Alert! ✨ 🔥 Bundle & Save: Pick any 3 for $99 – Style, comfort, and elegance in one irresistible offer! 🔥 Flat 40% OFF: Treat yourself to
+- Example: [@FedotOff90](https://x.com/FedotOff90/status/2094854572623675832) · 6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) — 53-format lander database.
+- Example: [@ArijanJanes](https://x.com/ArijanJanes/status/2098456656711467183) · We changed our offer and got a $20 better AOV with roughly the same CVR... All while sending LESS items to the customer. Version 1: - Highest AOV opti
+
+### Live paid ads in this format (4 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Resilia · Metabolic Health Review: “3 FOR ONLY $20. SALE ENDS TONIGHT!”** (1 days live): "3 FOR ONLY $20. SALE ENDS TONIGHT!" with three cinnamon pouches on black.
+- **Resilia · Resilia: “BUY 2 GET 1 FREE. YOUR BLOAT IS GONE IN 14 DAYS OR YOUR MONEY BACK”** (1 days live): "BUY 2 GET 1 FREE. YOUR BLOAT IS GONE IN 14 DAYS OR YOUR MONEY BACK."
+- **Resilia · Vascular Wellness Report: “BUY 2 GET 1 FREE, 70% OFF”** (1 days live): "BUY 2 GET 1 FREE, 70% OFF" with three pouches on a kitchen counter.
+- **Resilia · Resilia: A hand placing the pouch on a counter** (1 days live): A hand placing the pouch on a counter with a "3 for only $20" roundel.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Screen recording of the bundle picker on the site, finger taps products | Text: "Pick any 7. Pay $85." |
+| 3-10s | Counter climbs: 3/7, 5/7, 7/7, price stays $85 | VO: "Mix necklaces, rings, earrings. Doesn't matter." |
+| 10-15s | Cut to the 7 pieces arriving in a box, then worn stacked | "That's about $12 a piece." |
+| Static version | A 3x3 grid of products with 7 ticked, a price bar at the bottom | "7 for $85 — you pick" |
+| Mystery-box variant | Closed gift box, then a quick reveal | "Can't decide? Let us pick." |
+
+### Prompts
+
+**Figma (static)**
+
+```
+Grid of 9 products on cream, 7 with gold tick badges, a bottom bar "7/7 · $85 · Free shipping", headline 96px
+```
+
+**Screen record**
+
+```
+iPhone screen record of the real picker, 60fps, then crop to 9:16 and add taps with a touch indicator
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F86-<concept>-<variant>`; tracking tag `utm_content=F86-<concept>-<variant>`.
+- [ ] Avoid: The ad must match the real checkout exactly (price, number of items, shipping).
+- [ ] Avoid: Show the per-piece maths only if it is accurate.
+- [ ] Avoid: Mystery boxes need a clear value floor; don't imply rare items you won't send.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -18,13 +18,13 @@ The storyboard above samples the video every 1:19. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–1:19 | Ww wd wh And reason | I had to sit next to my ex-husband And the woman he left me for Who was the same age as our daughter Throughout my daughter's graduation I gave that man the best years of my life Sacrifice my youth, always put myself last To support his ego, his drive, his ambition And just as my dignity was hanging |
+| 1 | 0:00–1:19 | · | I had to sit next to my ex-husband And the woman he left me for Who was the same age as our daughter Throughout my daughter's graduation I gave that man the best years of my life Sacrifice my youth, always put myself last To support his ego, his drive, his ambition And just as my dignity was hanging |
 | 2 | 1:19–2:38 | · | I didn't want a crowd of family seeing me As the wrinkled old woman The husband traded in For a bright shiny new toy I didn't want their pity The fine lines around my eyes and mouth Seemed deeper every morning The dull gray skin that made me look exhausted Even when I wasn't The texture that no amou |
 | 3 | 2:38–3:58 | · | This is what pharmacist recommend in Seoul She said Korean women Have known about this for decades Not influences Pharmacists, American foundations Have rigid pigments that can adapt So they just sit in your wrinkles Turning orange by noon This one actually merges to your exact shape I looked at her |
 | 4 | 3:58–5:17 | a My, skin was like%g tides | Like magic Younger so I went to the store Ran some errands Four hours passed I looked in the mirror My skin looked incredible I texted Lisa How come it's not oxidized She wrote back the formula Adapts to your skin Two hundred fifty-one percent Better than American formulas And stays that way For six |
-| 5 | 5:17–6:37 | pit ay my | · |
+| 5 | 5:17–6:37 | · | · |
 | 6 | 6:37–7:56 | · | · |
-| 7 | 7:56–9:16 | by io PL 74 am! that crowd, ff But st if | · |
+| 7 | 7:56–9:16 | am! that crowd, | · |
 | 8 | 9:16–10:35 | Nothing slides or cracks. | · |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -178,9 +178,9 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 2 | 1:59 | I didn't want a crowd of family seeing me As the wrinkled old woman The husband traded in For a bright shiny new toy I didn't want their pit | … |
 | 3 | 3:18 | This is what pharmacist recommend in Seoul She said Korean women Have known about this for decades Not influences Pharmacists, American foun | … |
 | 4 | 4:38 | Like magic Younger so I went to the store Ran some errands Four hours passed I looked in the mirror My skin looked incredible I texted Lisa | … |
-| 5 | 5:57 | on screen: pit ay my | … |
+| 5 | 5:57 | (visual beat, see frame 5) | … |
 | 6 | 7:17 | (visual beat, see frame 6) | … |
-| 7 | 8:36 | on screen: by io PL 74 am! that crowd, ff But st if | … |
+| 7 | 8:36 | on screen: am! that crowd, | … |
 | 8 | 9:56 | on screen: Nothing slides or cracks. | … |
 
 ### 2. Shot-by-shot remake

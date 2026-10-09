@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:06 | Packed some orders today WwW yi! fs a | · |
+| 1 | 0:00–0:06 | Packed some orders today WwW | · |
 | 2 | 0:06–0:13 | · | · |
-| 3 | 0:13–0:19 | Oo a Ss oo ee | · |
-| 4 | 0:19–0:26 | wee Packed some orders today ei gt | · |
+| 3 | 0:13–0:19 | · | · |
+| 4 | 0:19–0:26 | wee Packed some orders today | · |
 | 5 | 0:26–0:32 | · | · |
 | 6 | 0:32–0:39 | · | · |
-| 7 | 0:39–0:45 | Packed some orders today Dx a | · |
-| 8 | 0:45–0:52 | Packed some orders today ss eS | Black woman skin smooth Wish you no bleach, you no burn up |
+| 7 | 0:39–0:45 | Packed some orders today | · |
+| 8 | 0:45–0:52 | Packed some orders today | Black woman skin smooth Wish you no bleach, you no burn up |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -34,13 +34,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
-## More real examples (1)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@robertythoughts](example/more/2096885424656359566.jpg)](https://x.com/robertythoughts/status/2096885424656359566)<br>**@robertythoughts** · image · 745 views<br>I built a 7 figure ecom brand at 24... and most of the day it's just me, sitting by myself in my room. I feel like in ecom, it's one of the few busine |   |   |
+| [![@hi_kikistudio](example/more/2099776011156214179.jpg)](https://x.com/hi_kikistudio/status/2099776011156214179)<br>**@hi_kikistudio** · 0:32 video · 32 views<br>ASMR \| Pack Orders With Me ♡ #asmr #stickers #illustration‌‌ #手帳デコ #シール | [![@logies000](example/more/2067986905451344307.jpg)](https://x.com/logies000/status/2067986905451344307)<br>**@logies000** · 0:50 video · 38 views<br>Pack orders with me as a small business owner starting a clothing brand 🫡 Shop here: http://L4ESTUDIOS.com | [![@Kilatyanaturals](example/more/2095036823839936738.jpg)](https://x.com/Kilatyanaturals/status/2095036823839936738)<br>**@Kilatyanaturals** · 1:32 video · 517 views<br>Pack orders with me! #kilatyasnaturals |
+| [![@vanillaabunnyy](example/more/1936279895190991018.jpg)](https://x.com/vanillaabunnyy/status/1936279895190991018)<br>**@vanillaabunnyy** · 0:50 video · 10 views<br>#pressonnails #pressonnailsbusiness pack orders with me as a press on nail business owner‼️ wholesale available for business owners #nailvendor | [![@paasstah](example/more/2092047788695494968.jpg)](https://x.com/paasstah/status/2092047788695494968)<br>**@paasstah** · 2:10 video · 483 views<br>The perfect fit. Biceps. Anxiety. It’s all in this episode of PACK ORDERS WITH ME | [![@robertythoughts](example/more/2096885424656359566.jpg)](https://x.com/robertythoughts/status/2096885424656359566)<br>**@robertythoughts** · image · 745 views<br>I built a 7 figure ecom brand at 24... and most of the day it's just me, sitting by myself in my room. I feel like in ecom, it's one of the few busine |
 
 ## How to make one like it
 
@@ -56,13 +57,13 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:03 | on screen: Packed some orders today WwW yi! fs a | … |
+| 1 | 0:03 | on screen: Packed some orders today WwW | … |
 | 2 | 0:09 | (visual beat, see frame 2) | … |
-| 3 | 0:16 | on screen: Oo a Ss oo ee | … |
-| 4 | 0:22 | on screen: wee Packed some orders today ei gt | … |
+| 3 | 0:16 | (visual beat, see frame 3) | … |
+| 4 | 0:22 | on screen: wee Packed some orders today | … |
 | 5 | 0:29 | (visual beat, see frame 5) | … |
 | 6 | 0:36 | (visual beat, see frame 6) | … |
-| 7 | 0:42 | on screen: Packed some orders today Dx a | … |
+| 7 | 0:42 | on screen: Packed some orders today | … |
 | 8 | 0:49 | Black woman skin smooth Wish you no bleach, you no burn up | … |
 
 ### 2. Shot-by-shot remake

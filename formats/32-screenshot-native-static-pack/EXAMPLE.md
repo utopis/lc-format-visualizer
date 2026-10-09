@@ -16,7 +16,7 @@ A real Gopuff ad shown in the Instagram feed, built to look like an iPhone Notes
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | Ad a Skip the store, order alcohol on Notes February 28, 2024 at 40% off alcohol?!? is giving new customers 40% OFF their first alcohol order on the app!! Order now and get alcohol delivered to your door in as fast as 15 minutes 43 WV use code: at checkout. Food Drink Delivery kk kw kw 206K reviews  |
+| 1 | a Skip the store, order alcohol on … February 28, 2024 at … 40% off alcohol?!? … is giving new customers 40% OFF their first alcohol order on the app!! Order now and get alcohol delivered to your door in as fast as 15 minutes 43 … Food Drink Delivery … 206K reviews 90 Free Food Drink |
 
 ## More real examples (4)
 

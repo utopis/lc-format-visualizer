@@ -1,0 +1,151 @@
+{
+ "id": "F94",
+ "slug": "94-buyers-guide-warning-flip-the-label",
+ "name": "Buyer's-guide warning: 'Before you buy X, flip the label' (3-2-1 countdown, only one passes)",
+ "type": "paid",
+ "platforms": "[Meta, YouTube, TikTok]",
+ "cost_per_asset": "$0-150",
+ "time_per_asset": "2-4 h",
+ "length": "30-50s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Presenter at a table with 3 typical gold pieces (generic, unbranded packaging)",
+   "audio_text": "\"Before you buy gold jewellery, flip the label.\""
+  },
+  {
+   "slot": "3-12s",
+   "visual": "Check 3: picks up piece 1, label close-up",
+   "audio_text": "\"'Gold tone' means there's no gold. Fails.\""
+  },
+  {
+   "slot": "12-22s",
+   "visual": "Check 2: piece 2",
+   "audio_text": "\"'Gold plated' with no thickness listed means it wears off. Fails.\""
+  },
+  {
+   "slot": "22-32s",
+   "visual": "Check 1: the PVD piece",
+   "audio_text": "\"'14K PVD over stainless steel'. Bonded, waterproof. This one passes.\""
+  },
+  {
+   "slot": "32-40s",
+   "visual": "Drops it in a glass of water, lifts it out",
+   "audio_text": "\"That's the one I wear.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "\"Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Script (Claude)",
+   "prompt": "Write 3 label checks shoppers can do themselves for [category], each one true and verifiable, from weakest to the product. Max 15 words per line."
+  },
+  {
+   "tool": "Shoot",
+   "prompt": "Top-down + presenter angle, macro on labels, neutral packaging with competitor names removed."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/HenryCrochemore/status/2087894849618087981",
+   "author": "HenryCrochemore",
+   "note": "A grotesque, stretched-face claymation character at a podcast mic reading the label of a skincare product (\"WE JUST MOVED\", \"EVERY CREAM BEFORE\", \"HYDROLYZED HYALURONIC ACID\", \"61% OFF\"). It is a buyer's guide delivered by an unforgettable character.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/SuurajN35299/status/2038318041457741869",
+   "author": "SuurajN35299",
+   "note": "Stop! 🛑 Before you buy that gold chain, check the clasp for these 3 stamps: GP GEP HGE If you see them, you're buying plated jewelry, not solid gold. ",
+   "local": "example/more/2038318041457741869.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Amiragoldgroup/status/2080124641826242894",
+   "author": "Amiragoldgroup",
+   "note": "Thrift stores can hide incredible treasures—but never assume every piece is real. Always verify, test, and inspect before you buy. A few minutes of ch",
+   "local": "example/more/2080124641826242894.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/OrvanyaIndia/status/2084213867505435020",
+   "author": "OrvanyaIndia",
+   "note": "Before you buy gold as an investment or commodity/wearable next time, remember these 5 common mistakes and plan accordingly #gold #investment #jewelle",
+   "local": "example/more/2084213867505435020.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/NatxtraSynthite/status/2078344172885700790",
+   "author": "NatxtraSynthite",
+   "note": "Don't buy a supplement without reading the label. The real story is in the ingredients, dosage, and hidden extras—not the marketing. Read the label be",
+   "local": "example/more/2078344172885700790.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/nicklaunches/status/2105130548155056153",
+   "author": "nicklaunches",
+   "note": "Before you buy ANY directory ad, ask these 4. &gt; who measures the traffic, them or a third party &gt; how many ads rotate through the same spot &gt;",
+   "local": "example/more/2105130548155056153.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "British Supplements: Google-search UI static ('Which UK brand has no fillers?')",
+   "days": 331,
+   "image": "adlibrary/90119029.jpg",
+   "what": "A Google search bar with an autocomplete question 'Which UK brand has no fillers?', a cursor clicking it, then a featured-snippet style answer box with ticks and product photos.",
+   "how": "Figma: Google search bar 1080 wide, Roboto 40px, autocomplete row highlighted, answer card with 3 ticks; no Google logo misuse; 1080x1350."
+  },
+  {
+   "title": "BioRoot Labs: \"Relief like ibuprofen without the stomach pain\" ingredient static",
+   "days": 179,
+   "image": "adlibrary/w4_91707753.jpg",
+   "what": "A static: \"Relief Like Ibuprofen, Without the stomach pain\", 3 bottles, a \"45,000+ trusted\" badge, and an ingredient grid (turmeric anti-inflammatory, black pepper absorption, bee propolis immune, ginger digestive, coconut oil lipid carrier, vitamin C antioxidant).",
+   "how": "Headline \"[benefit] like [familiar drug], without [its side effect]\", product, ingredient grid with one benefit each."
+  },
+  {
+   "title": "Resilia · Resilia: “Do not believe resilient oil of oregano. They said it would support…”",
+   "days": 2,
+   "image": "adlibrary/w6_1627333582177094.jpg",
+   "what": "Opens: “Do not believe resilient oil of oregano. They said it would support bloating and improve digestion.”",
+   "how": "Open with \"Do not buy X over regular X…\", give 2-3 differences you can show on camera (label, capsule, test), and finish with \"…unless you want it to actually work.\""
+  },
+  {
+   "title": "Resilia · Natural Defense Report: “Do not buy resilient oil over regular. They said it was to support…”",
+   "image": "adlibrary/w6_1418191836484523.jpg",
+   "what": "Opens: “Do not buy resilient oil over regular. They said it was to support bloating and improve digestion.”",
+   "how": "Open with \"Do not buy X over regular X…\", give 2-3 differences you can show on camera (label, capsule, test), and finish with \"…unless you want it to actually work.\""
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F94-<concept>-<variant>`; tracking tag `utm_content=F94-<concept>-<variant>`.",
+  "Avoid: Don't name or show competitor brands; use generic packaging.",
+  "Avoid: Every label claim must be accurate (e.g. what \"gold tone\" legally means).",
+  "Avoid: Show the product passing a test it really passes."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

@@ -19,8 +19,8 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
 | 1 | 0:00–0:03 | · | Need an effortless everyday look? |
-| 2 | 0:03–0:06 | el a Al by | Watch how I'd style it. |
-| 3 | 0:06–0:10 | I es ee Al by | Simple, elegant, ready for anywhere. |
+| 2 | 0:03–0:06 | · | Watch how I'd style it. |
+| 3 | 0:06–0:10 | · | Simple, elegant, ready for anywhere. |
 | 4 | 0:10–0:13 | · | Planning a beach getaway? |
 | 5 | 0:13–0:17 | · | I'd wear this. |
 | 6 | 0:17–0:20 | · | Fresh, light, and vacation ready. Now let's dress for the evening. |

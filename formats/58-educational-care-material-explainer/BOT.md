@@ -2,6 +2,75 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 5-7 slide carousel or a 30-45s video), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@lorenzo_pravata](https://x.com/lorenzo_pravata/status/2095136884666052819) · A vet or expert talking to camera with red caption labels, intercut with dogs (a golden retriever, a scruffy dog, a husky, a dog with a toy). It is an educational explainer about care, with the product as the solution.
+- Example: [@taye_afola19505](https://x.com/taye_afola19505/status/2077796327887450475) · Built a premium advertorial experience for @KYOM combining emotional storytelling, educational content, social proof, and conversion-focused design to
+- Example: [@Bogzabs96](https://x.com/Bogzabs96/status/2096280202103927187) · There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. 
+- Example: [@didicoding](https://x.com/didicoding/status/2088172069703852134) · Most business owners are using AI to write captions. But AI can now help you create: - Product videos - Promotional videos - Ads - Brand stories - Edu
+- Example: [@framesbysalman](https://x.com/framesbysalman/status/2075809251919110498) · From founders and creators to brand owners, everyone is building their personal brand through: Educational content Vlogs Entertaining videos Launch co
+
+### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **StellaLife, Inc.: Clinical CGI explainer (mouth lesions)** (1189 days live): "Suffering from mucositis? Natural relief from lesions and inflammation…" A clinical 3D mouth animation with captions. 98 s.
+- **BioRoot Labs: Ingredient-nerd yapper (turmeric percentages)** (381 days live): A creator in a branded tee explains why she picked BioRoot: "95% curcumin, around 30 times more than the store bought" and black pepper "which majority of store bought ones don't have". 125 s; the brand has 1,000 active ads.
+- **Libby Babet: Women's-body myth-bust talking head (fitness coach)** (305 days live): Libby Babet (coach/founder) talking head at home: hook text 'This is why fasted workouts backfire for women' → explains cortisol/muscle → 'for my pro babes' → shows the empty wrapper of the collagen bar she ate this morning → 'go train strong, my ladies'. Burn
+- **Pinch Magic Fiber: Presenter explainer with 'this is what 30 g of fiber looks like'** (288 days live): Bearded presenter talks fiber science over b-roll (poop-shape hook, psyllium close-ups, comparison chart 'Premium Psyllium / 0 g sugar / Bromelain') and the key visual: a table of whole foods = 30 g fiber, 'if you can't eat this every day, here's this'. Ends o
+- **WebMD: Editorial flat-lay food static (WebMD 'Polyphenols')** (253 days live): Overhead flat-lay of polyphenol foods (berries, olives, nuts, dark chocolate, cinnamon) with a handwritten 'POLYPHENOLS' label in a star bowl.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Slide 1 | Tarnished chain next to a bright one | "Why gold jewellery tarnishes (and how to stop it)" |
+| Slide 2 | Diagram: plating vs PVD layers | "Plating is a coat. PVD is bonded." |
+| Slide 3 | Care list | "Do: rinse and dry. Don't: bleach, chlorine for hours." |
+| Slide 4 | Metal guide | "Which metal for sensitive skin?" |
+| Slide 5 | Save prompt | "Save this for later." |
+
+### Prompts
+
+**Claude**
+
+```
+Write a care-guide carousel for [material], 5 slides, every claim checkable; include a short "what to avoid" list.
+```
+
+**Design**
+
+```
+Clean educational layout, numbered slides, one diagram.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F58-<concept>-<variant>`; tracking tag `utm_content=F58-<concept>-<variant>`.
+- [ ] Avoid: Care advice must be accurate; don't say "never tarnishes".
+- [ ] Avoid: Hypoallergenic claims need evidence.
+- [ ] Avoid: Make it worth saving, not a disguised ad.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

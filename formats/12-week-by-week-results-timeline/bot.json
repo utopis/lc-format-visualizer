@@ -1,0 +1,169 @@
+{
+ "id": "F12",
+ "slug": "12-week-by-week-results-timeline",
+ "name": "What happens if you…\" week-by-week timeline (30-second funnel)",
+ "type": "paid",
+ "platforms": "[Meta, TikTok]",
+ "cost_per_asset": "",
+ "time_per_asset": "",
+ "length": "30-75s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Provocative hook over a character close-up (real or Pixar-style)",
+   "audio_text": "\"What happens if you never take your necklace off for 30 days?\""
+  },
+  {
+   "slot": "Week 1",
+   "visual": "Small, believable change; caption \"WEEK 1\"",
+   "audio_text": "\"Week 1: I forgot I was wearing it.\""
+  },
+  {
+   "slot": "Week 2",
+   "visual": "Real situation (shower, gym)",
+   "audio_text": "\"Week 2: shower, gym, sea. Still gold.\""
+  },
+  {
+   "slot": "Week 3",
+   "visual": "Social proof moment",
+   "audio_text": "\"Week 3: two people asked where it's from.\""
+  },
+  {
+   "slot": "Week 4",
+   "visual": "Result + product",
+   "audio_text": "\"Week 4: it looks like day one.\" + offer"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Pixar-style frames (Midjourney)",
+   "prompt": "3D animated style woman, warm Pixar lighting, standing in a steamy bathroom touching her gold necklace, week 2 of a story, consistent character --cref [ref] --ar 9:16"
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/tryatria_AI/status/2106069700950294836",
+   "author": "tryatria_AI",
+   "note": "A Pixar-style girl character in a timeline story about 75 seconds long. A provocative opening, then week-by-week scenes (bloating, a swirling gut visual, ingredients on a table), ending on the product pouch (Ankhwa). Captions mark each week.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/HenryCrochemore/status/2014687698687062069",
+   "author": "HenryCrochemore",
+   "note": "$180k+ didn’t come from explaining beauty it came from warning most beauty ads soothe ingredients benefits “you’re fine, just glow more” this one didn",
+   "local": "example/more/2014687698687062069.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ZedNilm1/status/2076276174754316716",
+   "author": "ZedNilm1",
+   "note": "female beauty scare ads convert stupidly fast because they don’t educate they show the future your customer is afraid of not “get glowing skin” more l",
+   "local": "example/more/2076276174754316716.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/infovincentt/status/2094897333573918887",
+   "author": "infovincentt",
+   "note": "yet another health and wellness brand pulling formats straight from organic health content except this one is using a few at once first it uses the cl",
+   "local": "example/more/2094897333573918887.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/TopDealsHq/status/2025474734440292568",
+   "author": "TopDealsHq",
+   "note": "Day 1 vs Day 30… This Is What Changed “ad” (https://linktr.ee/ecohealthdaily) #FootCareRoutine #HealthyNailHabits #SelfCareOver35 #ToenailCareTips #UG",
+   "local": "example/more/2025474734440292568.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/skytookie/status/2100679695973134683",
+   "author": "skytookie",
+   "note": "hey chat! as you may have seen, I've played in a few creator tournaments recently, and one thing I noticed is... there's ALWAYS a radiant or immortal ",
+   "local": "example/more/2100679695973134683.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Kolskithenerd/status/2078167446196777289",
+   "author": "Kolskithenerd",
+   "note": "Most healthcare ads lead with fear. I wanted to see what happens if you don't. Spec project: a full ad copy system for @AskAwaDoc , a WhatsApp-based A",
+   "local": "example/more/2078167446196777289.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Feel Mighty: \"Car chats\" one-month update yapper (gifted, then hooked)",
+   "days": 341,
+   "image": "adlibrary/w4_142002125.jpg",
+   "what": "\"Welcome to a new episode of car chats… I have been taking the mighty mushroom gummies for over a month now… initially these were sent to me as PR.\" 103 s.",
+   "how": "A recurring creator series name, a dated update (\"over a month now\"), disclosure of gifting, and what changed."
+  },
+  {
+   "title": "Resilia · Vascular Wellness Report: “A-Blood pressure took a lot of pressure on the blood pressure for two…”",
+   "days": 10,
+   "image": "adlibrary/w6_923507560536401.jpg",
+   "what": "Opens: “A-Blood pressure took a lot of pressure on the blood pressure for two months. Here's what happened, day one.”",
+   "how": "Narrate time stamps (day 1, week 2, month 3, year 5) over 3D or skeleton visuals and cut to the product at the turning point. Keep claims to what is documented.",
+   "dnc": "The health timelines include unsupported disease claims (\"flushes calcium off artery walls\"). Do not copy the claims."
+  },
+  {
+   "title": "Resilia · Ancient Remedy Co: “Here's what happens to your belly pooch if you it wild oregano oil…”",
+   "days": 1,
+   "image": "adlibrary/w6_1719588042474913.jpg",
+   "what": "Opens: “Here's what happens to your belly pooch if you it wild oregano oil every single day for eight weeks week one you don't feel a thing and you figure you got scammed another supplement that does nothing…”",
+   "how": "Narrate time stamps (day 1, week 2, month 3, year 5) over 3D or skeleton visuals and cut to the product at the turning point. Keep claims to what is documented.",
+   "dnc": "The health timelines include unsupported disease claims (\"flushes calcium off artery walls\"). Do not copy the claims."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “What happens if you don if you don't clean out your arteries once they…”",
+   "days": 1,
+   "image": "adlibrary/w6_1466736258705803.jpg",
+   "what": "Opens: “What happens if you don if you don't clean out your arteries once they start to clog? Day one, you feel completely normal, exactly like you have for years, but inside it has already begun.”",
+   "how": "Narrate time stamps (day 1, week 2, month 3, year 5) over 3D or skeleton visuals and cut to the product at the turning point. Keep claims to what is documented.",
+   "dnc": "The health timelines include unsupported disease claims (\"flushes calcium off artery walls\"). Do not copy the claims."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “A black man with high blood pressure took aged garlic from Resilia for…”",
+   "days": 1,
+   "image": "adlibrary/w6_1571570448322674.jpg",
+   "what": "Opens: “A black man with high blood pressure took aged garlic from Resilia for two months. Here's what happened.”",
+   "how": "Narrate time stamps (day 1, week 2, month 3, year 5) over 3D or skeleton visuals and cut to the product at the turning point. Keep claims to what is documented.",
+   "dnc": "The health timelines include unsupported disease claims (\"flushes calcium off artery walls\"). Do not copy the claims."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “This is what happens When a 50 year old man Who struggles to get it up…”",
+   "days": 1,
+   "image": "adlibrary/w6_989376137527402.jpg",
+   "what": "Opens: “This is what happens When a 50 year old man Who struggles to get it up takes age garlic for 30 days A day one nothing dramatic He still can't please his wife He starts feelin' scammed Day seven He…”",
+   "how": "Narrate time stamps (day 1, week 2, month 3, year 5) over 3D or skeleton visuals and cut to the product at the turning point. Keep claims to what is documented.",
+   "dnc": "The health timelines include unsupported disease claims (\"flushes calcium off artery walls\"). Do not copy the claims."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F12-<concept>-<variant>`; tracking tag `utm_content=F12-<concept>-<variant>`.",
+  "Avoid: Keep week 1 small; a huge week-1 result destroys believability.",
+  "Avoid: Every week claim must match what the product really does; no invented testimonials.",
+  "Avoid: Label AI visuals."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

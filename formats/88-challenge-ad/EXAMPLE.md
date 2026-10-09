@@ -20,10 +20,10 @@ The storyboard above samples the video every 0:12. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:12 | · | Can this tiny thing actually survive the real work out? I just received the TENJUM RING today and I am going to put it through some serious test. Let's unbox it first. |
 | 2 | 0:12–0:25 | · | Alright, let's open the package and see what we have inside. And here we have the TENJUM RING box. The TENJUM RING is a crypto hardware wallet designed in the form of a ring. |
-| 3 | 0:25–0:37 | ig ui Th a you can | So instead of getting our traditional hardware wallet, you can simply wear it on your finger. And here it is, the TENJUM RING. |
-| 4 | 0:37–0:50 | ADs is ut wD ia if fe | And it has a really simple and pretty design, so it doesn't look like a hardware wallet. Along with the ring, we also get two bags. This is card number one and this is card two. |
+| 3 | 0:25–0:37 | a you can | So instead of getting our traditional hardware wallet, you can simply wear it on your finger. And here it is, the TENJUM RING. |
+| 4 | 0:37–0:50 | · | And it has a really simple and pretty design, so it doesn't look like a hardware wallet. Along with the ring, we also get two bags. This is card number one and this is card two. |
 | 5 | 0:50–1:03 | · | These are used as a bag of options for accessing your wallet. Of course, we also get the user manual, which honestly we probably never read. Now here is how it is looked. |
-| 6 | 1:03–1:15 | al List ma Mea: ASA rh | So let's go with me and test it while doing our gym workout. Now it's time for the real test. Let's see how the TENJUM RING handles an actual workout. First we are starting with push-ups. |
+| 6 | 1:03–1:15 | · | So let's go with me and test it while doing our gym workout. Now it's time for the real test. Let's see how the TENJUM RING handles an actual workout. First we are starting with push-ups. |
 | 7 | 1:15–1:28 | · | I am keeping the ring on and putting it through a normal workout. And now let's make it a little more challenging. Some dumbbell exercise while wearing the ring. |
 | 8 | 1:28–1:41 | · | And that's the workout done. The ring stayed on throughout the workout and it still looked completely fine. |
 

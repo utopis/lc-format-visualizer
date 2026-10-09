@@ -2,6 +2,66 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 45s-3min, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@danclipping](https://x.com/danclipping/status/2078147137049923751) · A creator talking to camera in her bedroom with captions ("I'm going to make you fall in love with the girl who...") that tells a personal manifestation story. The app (a mood or affirmation screen) only appears late, as part of her story.
+- Example: [@StefanGeorgi](https://x.com/StefanGeorgi/status/2090446853565296658) · Stefan Georgi: yapper-style winner ~$750k spend in <3 weeks on an angle the brand said "doesn't work"; double 80/20 rule (80% proven formats).
+- Example: [@ginacostag_](https://x.com/ginacostag_/status/2082130750204428404) · The next AI video advantage may not come from generating more clips. It may come from making the entire production workflow easier to control. Dreamin
+- Example: [@AvaGrace_AI](https://x.com/AvaGrace_AI/status/2083984888127271189) · 🚨 AI videos are getting easier to generate. The real challenge is controlling the final result. That's why Seedance 2.5 inside CapCut caught my attent
+- Example: [@Geoffreyhurth](https://x.com/Geoffreyhurth/status/2102106541394399259) · 💸 10 ad concepts quietly printing money on Meta right now: 1. Yapping: Raw, unscripted, straight to camera. Feels like a friend, not an ad. 2. Pixar A
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2105303432424767662) · Native ads, end to end, for anyone who wants to build one The image - A normal looking photo, like something a friend posted - A bit weird on purpose,
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2078849094311674138) · Green screen reaction ads are working really well right now. Here is the setup. You have a main video, usually a creator or an AI creator telling a st
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2083948194988220841) · Green screen reaction ads are still one of our most reliable formats, and most brands build them wrong. The setup: a base video plays (a story, a demo
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Mariella Gut Health Expert: "Gross embarrassing story time" gut yapper (Mariella Gut Health Expert)** (320 days live): A creator on a couch: "Alright, gross embarrassing story time! A few months ago I started noticing that my smells were… terrible… I was feeling bloated, icky… I consulted a few physicians, they said something was wrong with my gut health…" 105 s.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Creator to camera, green-screen background of a relevant image (a photo, a Reddit post, a text) | "I'm going to tell you the story of the necklace my grandmother..." |
+| 3-60s | Same framing, background changes with the story | Personal story, detailed, emotional |
+| 60-90s | Product appears as part of the story (late) | One natural line |
+| End | Creator | Soft CTA |
+
+### Prompts
+
+**Brief**
+
+```
+Ask the creator for a real personal story where jewelry mattered. Record in one take; trim pauses only.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F29-<concept>-<variant>`; tracking tag `utm_content=F29-<concept>-<variant>`.
+- [ ] Avoid: The brand appearing early turns it into an ad; hold it to the last third.
+- [ ] Avoid: The story must be real and the creator must disclose the partnership.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

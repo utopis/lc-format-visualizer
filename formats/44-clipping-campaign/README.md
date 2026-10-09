@@ -33,6 +33,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (outlier case studies; mostly agency pitches) · hype risk: Med · cost $1-3 CPM paid to clippers + platform fee · setup 1 day; ongoing
 
 ## What it is

@@ -18,7 +18,7 @@ Two phone mock-ups of a catalog (dynamic product) ad for Native deodorant: on th
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | a et 47 BEFORE AFTER |
+| 1 | 47 BEFORE AFTER |
 
 ## More real examples (2)
 

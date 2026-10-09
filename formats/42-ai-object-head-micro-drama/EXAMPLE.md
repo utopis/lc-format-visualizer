@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:08. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:08 | a Rat SS my hi aes Shi | Bruno I have the most important interview of my life today |
+| 1 | 0:00–0:08 | · | Bruno I have the most important interview of my life today |
 | 2 | 0:08–0:16 | · | One euro you get nothing here for that if I look good today this interview could change everything |
 | 3 | 0:16–0:25 | · | Beggars have no place in my salon What is going on here? What is your name boy? |
 | 4 | 0:25–0:33 | · | Bruno sir, I only want a fair chance Then today you will have it Put your euro back in your pocket |
 | 5 | 0:33–0:42 | · | You pay nothing Success usually starts with one person believing in you |
-| 6 | 0:42–0:50 | Ss SB rh Nl ict Be | This salon closes tomorrow if the debts are not paid. Do you still recognize this place, sir? Bruno is that really you? |
-| 7 | 0:50–0:59 | wt os mx ek Ls rai a a a | Every debt is paid in full today. This salon is yours again. I Am ashamed |
+| 6 | 0:42–0:50 | · | This salon closes tomorrow if the debts are not paid. Do you still recognize this place, sir? Bruno is that really you? |
+| 7 | 0:50–0:59 | rai a a a | Every debt is paid in full today. This salon is yours again. I Am ashamed |
 | 8 | 0:59–1:07 | · | Everyone deserves a second chance The greatest gift is not money. It is that you never lost your heart |
 
 <details><summary>Full transcript (timestamped)</summary>

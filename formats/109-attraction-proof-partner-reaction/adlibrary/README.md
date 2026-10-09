@@ -1,5 +1,49 @@
 # Meta ad-library examples for F109
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Resilia · Arterial Health Review: “WAKE UP HARD AGAIN” (1 day live)
+
+![Resilia 1641866314319094](w6_1641866314319094.jpg)
+
+- **Ad:** [Meta Ad Library #1641866314319094](https://www.facebook.com/ads/library/?id=1641866314319094) · static image · page “Arterial Health Review” · started 2026-10-07 · lands on `resilia.shop/products/resilia-aged-odorless-garlic`
+- **What happens:** "WAKE UP HARD AGAIN" over an aged-garlic pouch with garlic bulbs.
+- **Why it works:** "Wake up hard again" and "Wake up with morning wood" on an aged-garlic pouch: a primal benefit headline for a heart supplement.
+- **How to make one:** Not a fit for LC as is. The pattern is a bold benefit headline that is unexpected for the category.
+- **Do not copy:** Implied sexual-health claims for a garlic supplement are unsupported.
+- **LC remake:** Not core for LC.
+
+<details><summary>Primary text</summary>
+
+> Looking to Take Control of Your Heart Health Naturally?❤️ Experience the Power of Resilia Aged Garlic Extract! ✅: Supports cardiovascular health naturally ✅: Completely odorless formula ✅: Supports arterial health ✅: 20-month aging process ✅: 900+ clinical studies ✅: SAC-standardized aged garlic extract ✅: Plus CoQ10 Ubiquinol & Vitamin K2 MK-7 Transform your cardiovascular health with three clinically studied ingredients backed by modern science — 30-Day Risk-Free Guarantee.
+
+</details>
+
+### Resilia · Arterial Health Review: “Wake Up With Morning Wood” (1 day live)
+
+![Resilia 1529874595567832](w6_1529874595567832.jpg)
+
+- **Ad:** [Meta Ad Library #1529874595567832](https://www.facebook.com/ads/library/?id=1529874595567832) · static image · page “Arterial Health Review” · started 2026-10-07 · lands on `resilia.shop/products/resilia-aged-odorless-garlic`
+- **What happens:** "Wake Up With Morning Wood" on a red split background with the pouch.
+- **Why it works:** "Wake up hard again" and "Wake up with morning wood" on an aged-garlic pouch: a primal benefit headline for a heart supplement.
+- **How to make one:** Not a fit for LC as is. The pattern is a bold benefit headline that is unexpected for the category.
+- **Do not copy:** Implied sexual-health claims for a garlic supplement are unsupported.
+- **LC remake:** Not core for LC.
+
+<details><summary>Primary text</summary>
+
+> Looking to Take Control of Your Heart Health Naturally?❤️ Experience the Power of Resilia Aged Garlic Extract! ✅: Supports cardiovascular health naturally ✅: Completely odorless formula ✅: Supports arterial health ✅: 20-month aging process ✅: 900+ clinical studies ✅: SAC-standardized aged garlic extract ✅: Plus CoQ10 Ubiquinol & Vitamin K2 MK-7 Transform your cardiovascular health with three clinically studied ingredients backed by modern science — 30-Day Risk-Free Guarantee.
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 <!-- WAVE4 -->
 ## Wave 4: Alex Fedotoff's October 2026 swipe boards (GetHookd public previews)
 

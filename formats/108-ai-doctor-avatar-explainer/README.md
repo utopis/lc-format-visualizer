@@ -24,6 +24,8 @@ added: 2026-10-09 (wave 4: Fedotoff swipe boards)
 
 
 
+
+
 > **LC priority P2** · evidence: High (one of the 5 AI formats Fedotoff says are scaling; 283-ad board) · hype risk: Medium (authority claims) · cost $5-40 per video · 1-3 h
 
 ## What it is

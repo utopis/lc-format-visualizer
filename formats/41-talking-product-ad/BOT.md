@@ -2,6 +2,68 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 15-30s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@koloveski](https://x.com/koloveski/status/2076868032002150833) · A fully animated product video: an Amazon logo, "ONLY ONE CLICK", a parcel dropping in, an object rising out of a box, then the Amazon logo again. The product animates itself with no presenter.
+- Example: [@rirahcreates](https://x.com/rirahcreates/status/2092163067073241239) · We're entering an era where your marketing doesn't have to look ordinary. With AI, your ideas can literally come to life. Join AI Content Lab and lear
+- Example: [@DBackendBesties](https://x.com/DBackendBesties/status/2105653073276207449) · Day 1/30 of creating AI-powered ads for brands. I created this 3D animated product ad for @oraimomate to show how AI can help e-commerce brands turn t
+- Example: [@AgentOpusAI](https://x.com/AgentOpusAI/status/2082224622255374394) · Making an animated product ad used to be a project. Making them at scale used to take a month. We took down both. Full tutorial 👇 https://t.co/6pMG6df
+
+### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Hemios: Talking-product CGI skit (Hemios, "I'm not an accessory, Karen")** (254 days live): A Pixar-style couple in bed talk to an animated hematite ring: "I have to apologize… I thought you were a scam… I'm not an accessory, Karen. I'm 2,000 years of natural hematite. I was fixing men before pills existed." 32 s.
+- **Penrose Skin: Talking-jar CGI rivalry ("You copied me! That's theft!")** (89 days live): A CGI designer-cologne bottle argues with the Penrose jar: "You copied me! That's theft!" / "Can't copyright a scent, babe… And I've got your exact same scent. Plus pheromones. For $220 less." 43 s.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-2s | The product with animated eyes and mouth, close-up on a bathroom shelf | "I'm the necklace she wore in the ocean 47 times." |
+| 2-15s | Product "remembers" moments (shower, sea, a date) as quick cutaways | Speaks in first person |
+| 15-25s | Product winks | "Still gold. Get me at [brand]." |
+
+### Prompts
+
+**Kling / Pika (image-to-video)**
+
+```
+animate the gold necklace in this photo with small expressive cartoon eyes and a mouth, it talks to camera, keep the jewelry design identical, soft bathroom light, 5s
+```
+
+**Voice (ElevenLabs)**
+
+```
+Warm, witty, female, 30s, slight smile in the voice; stability 40, similarity 75.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F41-<concept>-<variant>`; tracking tag `utm_content=F41-<concept>-<variant>`.
+- [ ] Avoid: Keep the product recognisable; eyes and mouth only, no redesign.
+- [ ] Avoid: Claims spoken by the product are still ad claims.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

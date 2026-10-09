@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:09. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:09 | PP every day, | If a woman who only goes to the toilet twice a week, took two mushroom gummies every day, this is what would happen. Week 1. Something that's been sitting there for months, finally starts to shift. |
+| 1 | 0:00–0:09 | · | If a woman who only goes to the toilet twice a week, took two mushroom gummies every day, this is what would happen. Week 1. Something that's been sitting there for months, finally starts to shift. |
 | 2 | 0:09–0:18 | the brakes on her gut | That's the reishi, calming the cortisol that's slammed the brakes on her gut, so it can relax and actually start working again. Week 2. |
 | 3 | 0:18–0:27 | · | What's been stuck, finally starts to move, and she's going properly for the first time in months. That's the mitake, waking her gut back up and clearing out the waste that's |
-| 4 | 0:27–0:36 | settles right down. ie | been backed up. Week 3. The bloat she assumed was just her body, settles right down. That's the charger, calming the inflammation and rebuilding the gut lining that's been |
+| 4 | 0:27–0:36 | settles right down. | been backed up. Week 3. The bloat she assumed was just her body, settles right down. That's the charger, calming the inflammation and rebuilding the gut lining that's been |
 | 5 | 0:36–0:46 | · | worn away. Week 4. A fog she didn't even know she was living in lifts, and her energy comes flooding back. That's the lion's mane, repairing the nerve pathways between her gut and her brain, |
 | 6 | 0:46–0:55 | · | and the cordyceps flooding her cells with oxygen. And there she is. The version of you who goes every morning without a second thought, light, comfortable, |
-| 7 | 0:55–1:04 | a 2, a ma mushrooms, two raspberry fF | herself again. 10 functional mushrooms, 2 raspberry gummies a day. The only brand that combines all 10 is Anque. |
+| 7 | 0:55–1:04 | mushrooms, two raspberry | herself again. 10 functional mushrooms, 2 raspberry gummies a day. The only brand that combines all 10 is Anque. |
 | 8 | 1:04–1:13 | · | Over 200,000 women use it. 60 day money back guarantee, and right now, buy 2, get 1 free. Links below. |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -59,13 +59,14 @@ The storyboard above samples the video every 0:09. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@skytookie](example/more/2100679695973134683.jpg)](https://x.com/skytookie/status/2100679695973134683)<br>**@skytookie** · image · 16K views<br>hey chat! as you may have seen, I've played in a few creator tournaments recently, and one thing I noticed is... there's ALWAYS a radiant or immortal | [![@Kolskithenerd](example/more/2078167446196777289.jpg)](https://x.com/Kolskithenerd/status/2078167446196777289)<br>**@Kolskithenerd** · image · 69 views<br>Most healthcare ads lead with fear. I wanted to see what happens if you don't. Spec project: a full ad copy system for @AskAwaDoc , a WhatsApp-based A |   |
+| [![@HenryCrochemore](example/more/2014687698687062069.jpg)](https://x.com/HenryCrochemore/status/2014687698687062069)<br>**@HenryCrochemore** · 0:37 video · 3K views<br>$180k+ didn’t come from explaining beauty it came from warning most beauty ads soothe ingredients benefits “you’re fine, just glow more” this one didn | [![@ZedNilm1](example/more/2076276174754316716.jpg)](https://x.com/ZedNilm1/status/2076276174754316716)<br>**@ZedNilm1** · 0:36 video · 4K views<br>female beauty scare ads convert stupidly fast because they don’t educate they show the future your customer is afraid of not “get glowing skin” more l | [![@infovincentt](example/more/2094897333573918887.jpg)](https://x.com/infovincentt/status/2094897333573918887)<br>**@infovincentt** · 3:26 video · 140 views<br>yet another health and wellness brand pulling formats straight from organic health content except this one is using a few at once first it uses the cl |
+| [![@TopDealsHq](example/more/2025474734440292568.jpg)](https://x.com/TopDealsHq/status/2025474734440292568)<br>**@TopDealsHq** · 0:30 video · 22 views<br>Day 1 vs Day 30… This Is What Changed “ad” (https://linktr.ee/ecohealthdaily) #FootCareRoutine #HealthyNailHabits #SelfCareOver35 #ToenailCareTips #UG | [![@skytookie](example/more/2100679695973134683.jpg)](https://x.com/skytookie/status/2100679695973134683)<br>**@skytookie** · image · 16K views<br>hey chat! as you may have seen, I've played in a few creator tournaments recently, and one thing I noticed is... there's ALWAYS a radiant or immortal | [![@Kolskithenerd](example/more/2078167446196777289.jpg)](https://x.com/Kolskithenerd/status/2078167446196777289)<br>**@Kolskithenerd** · image · 69 views<br>Most healthcare ads lead with fear. I wanted to see what happens if you don't. Spec project: a full ad copy system for @AskAwaDoc , a WhatsApp-based A |
 
 ## How to make one like it
 

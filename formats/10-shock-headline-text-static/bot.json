@@ -1,0 +1,151 @@
+{
+ "id": "F10",
+ "slug": "10-shock-headline-text-static",
+ "name": "Shock-headline typographic static (story headline + product block)",
+ "type": "paid (Meta)",
+ "platforms": "[Meta feed/stories]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "",
+ "length": "1 static, 1080x1350 (also 1080x1920)",
+ "shots": [
+  {
+   "slot": "Top 45%",
+   "visual": "White background, huge condensed black headline (Anton/Bebas/Druk), tight leading",
+   "audio_text": "Story line in quotes: \"MY SISTER STOLE MY NECKLACE.\""
+  },
+  {
+   "slot": "Middle",
+   "visual": "Regular weight body, 32-40px, 3 short lines",
+   "audio_text": "Twist that turns to the product: \"Six months later she still won't give it back. Because she swims in it.\""
+  },
+  {
+   "slot": "Bottom",
+   "visual": "Product pack shot right, brand + 2-line benefit left",
+   "audio_text": "\"[Brand]. 14K PVD, waterproof.\" + \"SHOP NOW →\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Figma spec",
+   "prompt": "Canvas 1080x1350, margins 64px, headline 120-150px condensed bold uppercase, line-height 0.95, body 36px regular, product PNG 380px with soft shadow, logo 48px."
+  },
+  {
+   "tool": "Headline bank (Claude)",
+   "prompt": "Give me 30 one-line story headlines (max 7 words) about a woman and a piece of jewelry that sound like the start of a juicy story: betrayal, envy, a lost heirloom, a stolen gift. No product claims."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/tryatria_AI/status/2105745816828940336",
+   "author": "tryatria_AI",
+   "note": "A plain white static from Resilia with a huge black headline: \"MY SISTER SLEPT WITH MY HUSBAND.\" Below: \"Eight months later, she's the one everyone calls beautiful at family dinners. Because she drains parasites. And I didn't even know I had them.\" Then the product pack and \"SHOP NOW\". All the work is done by the shock line.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/iwo_cybulski/status/1946251552919814347",
+   "author": "iwo_cybulski",
+   "note": "Long text static ad for Vitaboost 🔥 → Want high-converting static ads + media buying for your brand? DM me \"ads\" ⚡",
+   "local": "example/more/1946251552919814347.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Aidanb2b/status/1989120076415705137",
+   "author": "Aidanb2b",
+   "note": "Which one of you was behind this ad creative masterclass. Big headline Great offer Urgent CTA 10/10",
+   "local": "example/more/1989120076415705137.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "BioRoot Labs: \"We don't trick you into taking turmeric\" retention-claim static",
+   "days": 481,
+   "image": "adlibrary/w4_57316596.jpg",
+   "what": "A beige static: \"We don't trick you into taking turmeric. Your body convinces you to keep going. After one bottle, most people don't cancel. They stock up.\" Bottle and capsules, \"Trusted by thousands\" with Trustpilot stars.",
+   "how": "One sentence that flips a fear (subscription trap) into proof (people stay), plus product, plus review stars."
+  },
+  {
+   "title": "Dr Ruth White: Persona-page \"this woman found relief\" static (Dr Ruth White)",
+   "days": 416,
+   "image": "adlibrary/w4_60730082.jpg",
+   "what": "An older woman with a red-glowing knee inset; black bar: \"VIRAL: THIS WOMAN FOUND RELIEF FROM DAILY IBUPROFEN WITH JUST ONE TURMERIC SUPPLEMENT · CLICK TO LEARN\". Run from the persona page \"Dr Ruth White\". DCO with 22 media.",
+   "how": "A persona page, a photo of an avatar-age woman, a pain inset, a \"this woman found relief from [drug] with just one [product]\" headline."
+  },
+  {
+   "title": "Pure Rhythm: \"Content may go offline\" podcast clip (weight loss)",
+   "days": 326,
+   "image": "adlibrary/w4_83396317.jpg",
+   "what": "\"If you want to go from size L to size S, you need to hear this… three essential ingredients that the industry does everything to hide from you… share this with your friend because this content may go offline at any moment.\" 117 s.",
+   "how": "A podcast guest, a secret framed as \"what they hide\", a share prompt. Use it carefully (it reads as hype)."
+  },
+  {
+   "title": "Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop')",
+   "days": 258,
+   "image": "adlibrary/101661844.jpg",
+   "what": "Close-up of a scoop over the jar, black pill headline 'THIS CLEARED MY STUCK POOP' and 3 small callout labels pointing at the product (perfect poops / high-quality psyllium husk / tastes great).",
+   "how": "One macro photo, Canva pill labels with thin leader lines; 1080x1350."
+  },
+  {
+   "title": "Wellness Way UK: \"Regain your confidence, without pills\" device static (Wellness Way UK)",
+   "days": 252,
+   "image": "adlibrary/w4_54683348.jpg",
+   "what": "A hand holds a black device: \"REGAIN YOUR CONFIDENCE, WITHOUT PILLS\", \"Harder, stronger erections in just 10 minutes\", \"50% OFF today\" badge.",
+   "how": "Product in hand, a \"[outcome], without [drug]\" headline, a time-bound result, a discount badge."
+  },
+  {
+   "title": "Shopmenvault: \"BUY 2, GET 2 FREE – We won't do this again\" offer static",
+   "days": 251,
+   "image": "adlibrary/w4_106064963.jpg",
+   "what": "A black static: \"BUY 2, GET 2 FREE\", \"WE WON'T DO THIS AGAIN\", 3 boxer briefs, \"50% OFF deals\", \"Trusted by 10,000+ men after prostate surgery\".",
+   "how": "Offer as headline, a scarcity sub-line, product, a niche trust line."
+  },
+  {
+   "title": "Penrose Skin: \"I stopped buying $400 colognes\" price-anchor demo",
+   "days": 89,
+   "image": "adlibrary/w4_119055288.jpg",
+   "what": "Overlay: \"I stopped buying $400 colognes… and started smelling like this\", a red arrow pointing at the jar, \"$ave for ONLY $XX\". 15 s.",
+   "how": "One overlay sentence of the switch, an arrow at the product, a price."
+  },
+  {
+   "title": "Resilia · Gut Health Insider: “MY SISTER SLEPT WITH MY HUSBAND. Eight months later, she's the one everyone”",
+   "image": "adlibrary/w6_2875086916184626.jpg",
+   "what": "\"MY SISTER SLEPT WITH MY HUSBAND. Eight months later, she's the one everyone calls beautiful… Because she drains parasites.\"",
+   "how": "Use a black bold story headline, two lines of plot, the product, and a one-line benefit with a shop button.",
+   "dnc": "Fictional first-person stories presented as true."
+  },
+  {
+   "title": "Resilia · Gut Health Insider: A grey variant of the same story-headline static",
+   "image": "adlibrary/w6_2147432309316217.jpg",
+   "what": "A grey variant of the same story-headline static.",
+   "how": "Use a black bold story headline, two lines of plot, the product, and a one-line benefit with a shop button.",
+   "dnc": "Fictional first-person stories presented as true."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F10-<concept>-<variant>`; tracking tag `utm_content=F10-<concept>-<variant>`.",
+  "Avoid: The headline must be a story, not a benefit; \"Waterproof gold\" never stops a scroll.",
+  "Avoid: Keep the twist honest and tied to a real benefit.",
+  "Avoid: Do not imply a real named person did something."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

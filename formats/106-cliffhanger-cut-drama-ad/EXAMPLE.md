@@ -27,7 +27,7 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 5 | 0:07–0:09 | · | The wedding's in six weeks, Dad. |
 | 6 | 0:09–0:11 | · | I'm not using the cane. Not there. |
 | 7 | 0:11–0:13 | · | Then who's walking me down the aisle? |
-| 8 | 0:13–0:15 | ray yt As AN | · |
+| 8 | 0:13–0:15 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 

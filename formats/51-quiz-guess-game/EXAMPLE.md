@@ -19,13 +19,13 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
 | 1 | 0:00–0:02 | · | Okay, guess how much this necklace was. |
-| 2 | 0:02–0:05 | loo! iK FINE Everyone assumes je | · |
+| 2 | 0:02–0:05 | · | · |
 | 3 | 0:05–0:08 | · | Everyone assumes it's fine jewelry. |
-| 4 | 0:08–0:11 | · | It's under 70 bucks from XN Jewelry. |
-| 5 | 0:11–0:14 | · | · |
+| 4 | 0:08–0:11 | Dire My family’s | It's under 70 bucks from XN Jewelry. |
+| 5 | 0:11–0:14 | on, gold that doesnt TICKS | · |
 | 6 | 0:14–0:16 | · | My family's burnt stones, on gold that doesn't fade or turn my skin green. |
-| 7 | 0:16–0:19 | · | Stop overpaying for jewelry that looks this good. |
-| 8 | 0:19–0:22 | · | · |
+| 7 | 0:16–0:19 | that looks his good | Stop overpaying for jewelry that looks this good. |
+| 8 | 0:19–0:22 | a sap sin | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 

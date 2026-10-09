@@ -33,6 +33,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (vendor library) · hype risk: Low · cost $0 · 20-40 min
 
 ## What it is

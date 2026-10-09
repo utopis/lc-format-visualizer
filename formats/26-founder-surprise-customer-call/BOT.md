@@ -2,6 +2,65 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 30-90s, 1080x1920 (screen + audio) or video call), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@houseoffelsteve](https://x.com/houseoffelsteve/status/2064683771484320042) · A 9-second clip from a bespoke shoe shop: caption "POV: calling our customers to convince them why House of Felsteve is worth a visit" over quick shots of shoe walls, racks and shelves. It plays the 'we phone our customers' idea for laughs and as a shop tour.
+- Example: [@QueenCarlo11](https://x.com/QueenCarlo11/status/2057819667067015529) · Another day to get exciting news from @airtelmoneyug . Today our host Nichole was in studio calling our customers that received UGX 300,000 straight t
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2091592059517837677) · Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask.
+- Example: [@ecomchasedimond](https://x.com/ecomchasedimond/status/2108225940962914650) · Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of t
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2107597529130873250) · Customer service call ads are scaling like crazy for us right now If you haven't tried them yet, please do it https://t.co/laU2bgRZht
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2079573874883104926) · Call ads are quietly becoming their own category on Meta. Every variation of a recorded conversation is working for us right now: - FaceTime call ads,
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Rachel's Tea: Co-founder spouse explains the new product line** (481 days live): Plain kitchen talking head: "Hi, this is Mike. Rachel has asked me to explain why she has a new product line." No hook graphics, no music; he explains that the brand now has its own manufactured line and why the labels changed. Cut-ins of the product row on th
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Phone screen showing an outgoing call to "Sarah (repeat customer)" or a FaceTime grid | Caption: "calling a customer who's ordered 6 times (she has no idea)" |
+| 3-40s | Call audio with waveform or the two faces | Unscripted: "why do you keep ordering?" → her real answer |
+| 40-60s | Best line repeated as a caption | Her words, unedited |
+| End | Founder thanks her; offer card | "[Brand], any 7 for $85" |
+
+### Prompts
+
+**Process**
+
+```
+Pick 10 repeat customers, get permission to record at the start of the call, record with a call recorder or Riverside, keep the best 30-60s, get written consent before using it in ads.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F26-<concept>-<variant>`; tracking tag `utm_content=F26-<concept>-<variant>`.
+- [ ] Avoid: Recording calls without consent is illegal in many US states; get consent on the recording.
+- [ ] Avoid: Do not script the customer; scripted "surprise" calls are deceptive.
+- [ ] Avoid: Customer-service variant: record real pre-purchase questions answered well.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

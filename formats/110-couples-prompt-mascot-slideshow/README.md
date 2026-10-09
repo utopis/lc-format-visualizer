@@ -21,6 +21,8 @@ added: 2026-10-09 (wave 5: queued posts)
 **[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/jackfriks/status/2108536144896163993)
 <!-- HERO:END -->
 
+
+
 > **LC priority P1** · evidence: Medium (31.7K views on a small app account; agent-run) · hype risk: Medium · cost $0-5 · 10-20 min or fully automated
 
 ## What it is

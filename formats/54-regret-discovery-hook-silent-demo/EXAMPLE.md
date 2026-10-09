@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:05 | been shopping at for years and NOW FIND THIS | No way. |
-| 2 | 0:05–0:10 | been at for years and NOW THIS 22? | · |
-| 3 | 0:10–0:15 | yo. on been shopping at for years and NOW FIND THIS 2??? for Family Fave bed | · |
-| 4 | 0:15–0:20 | been shopping at for years and NOW FIND. THIS 722 hat appliances do you have Ny a | · |
-| 5 | 0:20–0:25 | been for 8.years and NOW FIND THIS building your week.. | · |
-| 6 | 0:25–0:30 | been shopping at Lid! for NOW FIND THIS ?2? | · |
-| 7 | 0:30–0:35 | been shopping for.8 years and NOW FIND THIS 2??? Instructions | · |
-| 8 | 0:35–0:40 | been shopping at Lid! for and NOW HIS 222 | · |
+| 1 | 0:00–0:05 | been shopping at … for years and NOW FIND THIS | No way. |
+| 2 | 0:05–0:10 | for years and NOW | · |
+| 3 | 0:10–0:15 | on been shopping at … for years and NOW FIND THIS 2??? for Family | · |
+| 4 | 0:15–0:20 | been shopping at … for years and NOW FIND. THIS 722 hat appliances do you have | · |
+| 5 | 0:20–0:25 | for 8.years and NOW FIND THIS … building your week.. | · |
+| 6 | 0:25–0:30 | been shopping at Lid! for … NOW FIND THIS ?2? | · |
+| 7 | 0:30–0:35 | for.8 years and NOW FIND THIS 2??? Instructions | · |
+| 8 | 0:35–0:40 | been shopping at Lid! for … and NOW HIS 222 | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -57,13 +57,13 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
 | 1 | 0:02 | No way. | … |
-| 2 | 0:07 | on screen: been at for years and NOW THIS 22? | … |
-| 3 | 0:12 | on screen: yo. on been shopping at for years and NOW FIND THIS 2??? for Family Fave bed | … |
-| 4 | 0:17 | on screen: been shopping at for years and NOW FIND. THIS 722 hat appliances do you have Ny a | … |
-| 5 | 0:22 | on screen: been for 8.years and NOW FIND THIS building your week.. | … |
-| 6 | 0:27 | on screen: been shopping at Lid! for NOW FIND THIS ?2? | … |
-| 7 | 0:32 | on screen: been shopping for.8 years and NOW FIND THIS 2??? Instructions | … |
-| 8 | 0:37 | on screen: been shopping at Lid! for and NOW HIS 222 | … |
+| 2 | 0:07 | on screen: for years and NOW | … |
+| 3 | 0:12 | on screen: on been shopping at … for years and NOW FIND THIS 2??? for Family | … |
+| 4 | 0:17 | on screen: been shopping at … for years and NOW FIND. THIS 722 hat appliances do you have | … |
+| 5 | 0:22 | on screen: for 8.years and NOW FIND THIS … building your week.. | … |
+| 6 | 0:27 | on screen: been shopping at Lid! for … NOW FIND THIS ?2? | … |
+| 7 | 0:32 | on screen: for.8 years and NOW FIND THIS 2??? Instructions | … |
+| 8 | 0:37 | on screen: been shopping at Lid! for … and NOW HIS 222 | … |
 
 ### 2. Shot-by-shot remake
 

@@ -2,6 +2,78 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 image + 150-600 words of primary text), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@antonioventre_](https://x.com/antonioventre_/status/2083619527170871298) · A Facebook-native illustrated comic. The caption opens with a story hook ("Mom left for a business trip, leaving me alone with my stepfather Johan..." then See more) over two cartoon panels. It reads like a story post; the long primary text leads to an advertorial.
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2078512377616589256) · Before/after photos are best native ad image: change creates curiosity; long copy tells story.
+- Example: [@blvckledge](https://x.com/blvckledge/status/2083175922048647671) · Advertorials outperform PDP for Google Shopping traffic.
+- Example: [@EcomTable](https://x.com/EcomTable/status/2100980324633063694) · Ad-spy filters: top 10-25%, image, active, 14+ day run, 2,500+ char copy -> find long-copy native winners.
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2107899522353381868) · Story ad >1M reach: wife/work-wife anniversary drama, no product in first 40 words, revenge payoff.
+- Example: [@tryatria_AI](https://x.com/tryatria_AI/status/2105745816828940336) · Static hook 'My sister slept with my husband' vs generic benefit lines.
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2106778634006442013) · The structure I use for story ads, in video and in long primary text: 1 - Hook: the problem, not the product 2 - Problem: make it specific enough that
+- Example: [@HenryCrochemore](https://x.com/HenryCrochemore/status/2081681278861021254) · spoke with an operator running paid social for a fast-growing skincare brand they connected gethookd api + mcp to turn one winning angle into hundreds
+- Example: [@antonioventre_](https://x.com/antonioventre_/status/2078183710604591539) · The native ad funnel, start to finish. 1. The ad. A native image and a long story in the primary text. Built for an unaware or problem-aware person. 2
+
+### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Smooche · Aging Queens Magazine: “Designed for women 60+ or you don't pay”** (6 days live): "Designed for women 60+ or you don't pay": a 60%-off image from the "Aging Queens Magazine" page, under first-person copy "I thought foundation was over for me at 52".
+- **Resilia · Daily Wellness: “Three Octobers, a small pouch arrived in her mailbox”**: "Three Octobers, a small pouch arrived in her mailbox…": a ~600-word story (Sophie, a dental hygienist…) under a dim, phone-style kitchen photo.
+
+**Do not copy (seen in these live ads):** Fictional narrators posted from pages like "Daily Wellness" and "Cosmetic Times".
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Image | Lo-fi illustration or real-looking phone photo of the story moment (two people, a table, a wedding) | No text on the image, or one short speech bubble |
+| Primary text line 1 | - | A story hook that gets the "See more" tap: "My husband's 'work wife' came to Barbados with us..." |
+| Primary text body | - | First-person story in short paragraphs, real details, the product enters as part of what happened |
+| Close | - | Link to an advertorial that continues the story, not to the product page |
+| Page name | - | A persona or editorial page, labelled as sponsored |
+
+### Prompts
+
+**Illustration (Midjourney)**
+
+```
+simple flat comic illustration, two panels, a woman at a dinner table looking at her husband laughing with a coworker, muted colours, Facebook comic style --ar 4:5
+```
+
+**Story (Claude)**
+
+```
+Write a 400-word first-person Facebook post from a 42-year-old woman. Hook in the first 12 words. Story: [situation]. [Product] appears naturally at the turning point. Short paragraphs, no hashtags, ends by pointing to the full story.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F09-<concept>-<variant>`; tracking tag `utm_content=F09-<concept>-<variant>`.
+- [ ] Avoid: The first line decides everything; write 20 and test 5.
+- [ ] Avoid: Fiction must not be presented as a real customer testimonial; keep claims inside the advertorial truthful.
+- [ ] Avoid: Facebook flags sensational personal-attribute language ("are you fat?"); write about the character, not the reader.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

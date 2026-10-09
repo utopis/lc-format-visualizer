@@ -1,5 +1,31 @@
 # Meta ad-library examples for F76 (GetHookd board 155932, gut health)
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Smooche · Smooche: A whiteboard sketch (20 days live)
+
+![Smooche 3252508194947125](w6_3252508194947125.jpg)
+
+- **Ad:** [Meta Ad Library #3252508194947125](https://www.facebook.com/ads/library/?id=3252508194947125) · static image · page “Smooche” · started 2026-09-18 · 1 copies · lands on `quiz.smooche.com/`
+- **What happens:** A whiteboard sketch: "GLP-1 alone | GLP-1 + peptides. YOU LOSE THE WEIGHT. YOU GAIN THE LINES."
+- **Why it works:** A marker drawing ("GLP-1 alone vs GLP-1 + peptides: You lose the weight. You gain the lines.") explains the problem in one image.
+- **How to make one:** A two-panel whiteboard sketch, a one-line punchline, and the product photo.
+- **LC remake:** "Cheap plating vs PVD": a sketch of the layers wearing off vs bonded.
+
+<details><summary>Primary text</summary>
+
+> Most anti-aging creams don't work. And no, it's not because women use them wrong. It's because collagen molecules are too big to absorb. They sit on top of the skin until you wash them off. Collagen powders? Broken down in digestion before your skin ever sees them. And the treatments that do work run hundreds per session. That's why so many women are switching to Smooche. A peptide serum formulated in Korea with hydrolyzed collagen and hyaluronic acid: the same actives, cut small enough to actually sink in. Plus firming peptides and sodium DNA. ✔ Takes seconds, morning and night ✔ No needles, no downtime, no clinic prices ✔ Fresher-looking skin in days, firmer in weeks Try it risk-free for 30 days.
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public board preview. Days live are as of 2026-10-09. Full board breakdown is in the internal sources folder.
 
 ## Rachel's Tea: Animated numbered-benefit product spec video (424 days live)

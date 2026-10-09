@@ -2,6 +2,58 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Hero static 1080x1350 + 15s video + winner recap), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@Seanfrank](https://x.com/Seanfrank/status/2080703453853282629) · Ridge's "2026 Summer Sweepstakes" key visual: two men next to a lifted truck under the headline "Prizes worthy of a pro", with Shop Now and Learn More buttons. A celebrity-backed giveaway is the creative.
+- Example: [@gleamapp](https://x.com/gleamapp/status/2094054316361269314) · NEW from Gleam. Spending money on ads and wondering if a giveaway could get you leads for less? Use the Giveaway vs Paid Ads Cost Per Lead Calculator.
+- Example: [@EcomVictor](https://x.com/EcomVictor/status/2075924232333058211) · If you're not offer-stacking and valuemaxxing in 2026 as an ecom brand, scaling profitably will be MUCH harder for you. Grüns is pushing a discount + 
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Hero static | Celebrity/creator + the big prize visual | "WIN [prize]" + entry method + end date |
+| Video 0-3s | Celebrity says the prize to camera | "I'm giving away..." |
+| Video 3-12s | Prize B-roll + how to enter | Email/SMS entry, no purchase necessary |
+| Recap ad | Real winners announced | Social proof for the next round |
+
+### Prompts
+
+**Legal checklist**
+
+```
+Official rules, no-purchase-necessary entry, eligibility, odds, sponsor address, end date; use an administrator (e.g. Marden-Kane) for US sweepstakes.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F25-<concept>-<variant>`; tracking tag `utm_content=F25-<concept>-<variant>`.
+- [ ] Avoid: Sweepstakes law: purchase cannot be required to enter in the US; get official rules reviewed.
+- [ ] Avoid: Collect consent for email/SMS properly (TCPA).
+- [ ] Avoid: Celebrity likeness needs a contract.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

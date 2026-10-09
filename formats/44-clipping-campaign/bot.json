@@ -1,0 +1,139 @@
+{
+ "id": "F44",
+ "slug": "44-clipping-campaign",
+ "name": "Clipping campaign (pay-per-view clippers distribute founder/podcast content)",
+ "type": "organic (paid per view)",
+ "platforms": "[TikTok, Reels, YouTube Shorts, X]",
+ "cost_per_asset": "$1-3 CPM paid to clippers + platform fee",
+ "time_per_asset": "setup 1 day; ongoing",
+ "length": "System: a pool of clippers posting short clips from founder or podcast content, paid per 1,000 views",
+ "shots": [
+  {
+   "slot": "Source",
+   "visual": "A long founder video or podcast episode (20-60 min)",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Brief",
+   "visual": "A shared folder with the source, the brand rules and 10 example clips",
+   "audio_text": "\"Cut 15-45s moments; captions on; tag @louisecarter\""
+  },
+  {
+   "slot": "Clips",
+   "visual": "Clippers post on their own TikTok/IG/YT accounts",
+   "audio_text": "Hooks pulled from the best lines"
+  },
+  {
+   "slot": "Payout",
+   "visual": "Views tracked via platform (e.g. Whop/Clipping) and paid per 1,000",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Recycle",
+   "visual": "Best clips become paid ads (with rights)",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Brief (Claude)",
+   "prompt": "Write a clipper brief: what to cut, what never to say, caption style, required disclosure (#ad / paid partnership), payout rate and rules."
+  },
+  {
+   "tool": "Platform",
+   "prompt": "Set up a campaign with a CPM cap, a view floor per clip, and manual approval of the first 20 clips."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/leonclipping/status/2107903429490135362",
+   "author": "leonclipping",
+   "note": "A 4-second shocked-reaction hook (a woman covering her face and reading the fact on screen), then the app screen (a purple mascot with a body fact). It is one tiny format repeated across many clipping accounts.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/alexzgirbu/status/2092441815739670637",
+   "author": "alexzgirbu",
+   "note": "Clipper earns ~$3k per 1M views cutting streams/vlogs into short clips submitted to Content Rewards/Clipping Net/Clipster campaigns.",
+   "local": "example/more/2092441815739670637.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/natiakourdadze/status/2107495566225834123",
+   "author": "natiakourdadze",
+   "note": "The easiest way to get banned on Clip Brand? A bot score of 99. Don't submit videos with fake views. Content Rewards detects bots, and we can see it r",
+   "local": "example/more/2107495566225834123.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LinoLeighton/status/2077533819905744955",
+   "author": "LinoLeighton",
+   "note": "Currently at 60 clippers now for side app. I’ve only spent $430 on this faceless clipping campaign so far and it’s currently on around 10X return. Ove",
+   "local": "example/more/2077533819905744955.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/alexxgrowth/status/2085667455062389146",
+   "author": "alexxgrowth",
+   "note": "doordash did $13.7 BILLION in revenue last year they have one of the best marketing teams on the planet and they just launched something called Cringe",
+   "local": "example/more/2085667455062389146.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/savixbt/status/2082914407567462902",
+   "author": "savixbt",
+   "note": "clippers in the house, @blknoiz06 just drop a clipping campaign for clippers there’s $10,000 in $ANSEM reward every month for clippers. requirements: ",
+   "local": "example/more/2082914407567462902.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Dkevs_/status/2103032078514246093",
+   "author": "Dkevs_",
+   "note": "if you’re a founder and you haven’t launched your own clipping campaign yet just start. it’s one of the cheapest ways to distribute your content at sc",
+   "local": "example/more/2103032078514246093.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/natiakourdadze/status/2101662430048735412",
+   "author": "natiakourdadze",
+   "note": "Did I share my newest marketing obsession? Content Rewards by Whop 🥳 I just launched a campaign for Overglow AI, and clippers are already applying, po",
+   "local": "example/more/2101662430048735412.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LinoLeighton/status/2077532362842181898",
+   "author": "LinoLeighton",
+   "note": "Currently at 60 clippers now for side app. I’ve only spent $430 on this faceless clipping campaign so far and it’s already generated $4K in Rev. Over ",
+   "local": "example/more/2077532362842181898.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F44-<concept>-<variant>`; tracking tag `utm_content=F44-<concept>-<variant>`.",
+  "Avoid: Clippers must disclose the paid relationship.",
+  "Avoid: Approve early clips; one bad clip can misquote the founder.",
+  "Avoid: Cap spend per clip to avoid paying for botted views."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

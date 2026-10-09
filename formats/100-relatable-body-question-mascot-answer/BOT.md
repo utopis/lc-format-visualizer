@@ -2,6 +2,79 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 12-17s, 1080x1920, creator selfie + answer card; works muted), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@jasonugc](https://x.com/jasonugc/status/2108273335314641352) · A creator walking outside at sunset. The on-screen text says "Be honest.. is your September period late??" and she gives the camera a knowing look (0:00-0:03). At 0:05 it hard-cuts to the app: a cute white dragon mascot ("Earth Realm"), "Day 33 | 5 days longer than your usual cycle, Period delayed". Under it is a Luteal-phase card: "Women's health fact they don't teach you in school: if your perio
+- Example: [@leonclipping](https://x.com/leonclipping/status/2107903429490135362) · this app spams ONE format and pulled 522M views with organic UGC a 4 sec shocked reaction to a period fact nobody told you, then the dragon in the app
+- Example: [@consumerxai](https://x.com/consumerxai/status/2107834606368293123) · 121M views lost to 9.6M on the number that matters more for engagement saves -> a save means "i'm going to do this later" and has high intent -> calor
+- Example: [@guillemcraft](https://x.com/guillemcraft/status/2075221274591101354) · 50k+ views on insta in just ONE HOUR i posted a video while waiting for my flight to Menorca and went viral i found a format that works and i just rep
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-1s | Front camera, chest-up, bathroom/bedroom, natural light. Eyes widen, hand to mouth. No product visible. | Caption (top third, 64px white, black stroke): "at what age did you find out 'gold tone' means there's no gold in it??" |
+| 1-4s | Hold the reaction; slow head shake, mouths "what". Do NOT talk. | Trending sound at -20 dB, or silence + one word "what??" |
+| 4-9s | Hard cut to 9:16 answer card: brand character/avatar top-left, 2 chat bubbles typing in (CapCut "typewriter" 0.6s each) | Bubble 1 (≤22 words): "Gold tone = colour only. Most of it is brass with a thin plate that wears off with water and sweat." |
+| 9-14s | Hands-only macro: LC necklace under a running tap, then on a towel, still bright | Bubble 2: "14K PVD bonds the gold to steel. Shower, swim, sleep in it." |
+| 14-17s | End card: product grid on warm beige | "any 7 for $85" + "which fact next? 👇" |
+
+### Prompts
+
+**Fact bank (Claude)**
+
+```
+Give me 60 true, surprising facts about gold jewelry, plating, sweat, water and skin that women 25-45 often learn late. Phrase each as "at what age did you find out ...?". Then mark which ones are supported by these product facts: {{PDP_FACTS}}. Drop anything medical.
+```
+
+**Answer card (Canva/Figma)**
+
+```
+1080x1920, background #F6EFE6, avatar circle 160px top-left, chat bubbles 900px wide, 44px Hanken Grotesk, max 2 bubbles, 22 words each. Duplicate the page per fact.
+```
+
+**Creator brief**
+
+```
+Film 10 reactions in one session: front camera, 4K 30fps, window light, neutral top, no jewelry visible. React to reading the fact for the first time; 3-5 s each; no speaking.
+```
+
+**Spanish version**
+
+```
+Translate the hook as a native Mexican-Spanish speaker would say it on TikTok, keep "¿a qué edad te enteraste...?" structure; ≤14 words.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F100-<concept>-<variant>`; tracking tag `utm_content=F100-<concept>-<variant>`.
+- [ ] Avoid: The reaction must happen before any product appears; product in the first second kills it.
+- [ ] Avoid: One fact per video. Two facts = no one remembers either.
+- [ ] Avoid: Facts must be true and checkable; a wrong fact in the comments sinks the account.
+- [ ] Avoid: Keep the answer card short enough to read twice in 5 seconds.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -20,7 +20,7 @@
   {
    "t": "0:08",
    "said": "Okay, if your mascara just isn't doing what it used to, you need to see this. We're doing this completely live, one eye, one coat of blush. ",
-   "ocr": "MASCARA DEMO, 7k al"
+   "ocr": "MASCARA DEMO, 7k"
   },
   {
    "t": "0:26",
@@ -40,7 +40,7 @@
   {
    "t": "1:19",
    "said": "for our aged lashes. And that's exactly why this Korean formula has gotten so popular. It's natural, but attaches to each individual lash, g",
-   "ocr": "SHE Ss Ow a mf"
+   "ocr": ""
   },
   {
    "t": "1:36",
@@ -50,12 +50,12 @@
   {
    "t": "1:54",
    "said": "while tubing gives you that big dark look, I always just wanted something more natural, but still gave me that volume I was looking for. And",
-   "ocr": "PS ee a"
+   "ocr": ""
   },
   {
    "t": "2:11",
    "said": "That was just two passes on each eyelash. It really is a total game changer. If you're a woman at home watching over 40, you need to see it ",
-   "ocr": "BEAUTY il LIVES HERE ah LOC cD a a Ps"
+   "ocr": ""
   }
  ],
  "more": [
@@ -112,6 +112,24 @@
    "kind": "0:20 video",
    "cap": "Audio is what makes AI UGC feel real; one robotic sentence kills it.",
    "views": 21
+  },
+  {
+   "id": "2085374858267857069",
+   "author": "Mho_23",
+   "url": "https://x.com/Mho_23/status/2085374858267857069",
+   "thumb": "example/more/2085374858267857069.jpg",
+   "kind": "12:00 video",
+   "cap": "Realistic AI UGC with Seedance 2.0 full breakdown (mho_23).",
+   "views": 8464
+  },
+  {
+   "id": "2104954498565464350",
+   "author": "oliverxmedia",
+   "url": "https://x.com/oliverxmedia/status/2104954498565464350",
+   "thumb": "example/more/2104954498565464350.jpg",
+   "kind": "0:25 video",
+   "cap": "Realistic AI = reference images + precise prompts + consistent characters + guided motion.",
+   "views": 4826
   }
  ]
 }

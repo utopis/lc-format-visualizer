@@ -2,6 +2,75 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 45-120s episode, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@JUSTCHAEL_](https://x.com/JUSTCHAEL_/status/2098373776828256595) · A short AI-made soap-opera scene for a handbag brand (Outlash): three women in a boutique, a tense confrontation, close-ups of the brown purse, then a cut to a living-room fallout. Shot and paced like an episode of a drama series, with the bag as a plot device.
+- Example: [@frankyecom](https://x.com/frankyecom/status/2106833649970684195) · Women want shows: characters, drama, payoff; build entertainment first, slot product in.
+- Example: [@frankyecom](https://x.com/frankyecom/status/2108308896813326775) · Best drama ads let viewer see the version of herself she wants to become.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2099815494434099379) · Resilia mastered storytelling ads -> $100M/yr.
+- Example: [@frankyecom](https://x.com/frankyecom/status/2105732607208026318) · Cinematic realistic AI ads in scrutinized categories (GLP).
+- Example: [@SGradon](https://x.com/SGradon/status/2101705439565979947) · In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here'
+- Example: [@zedmadeit](https://x.com/zedmadeit/status/2102176819709673703) · heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac
+- Example: [@david_attisaas](https://x.com/david_attisaas/status/2108195582607081720) · I'm running short drama ads for a few apps right now, and every one of them started as a copy of something a dropshipper ran first. I went looking aft
+- Example: [@ViralOps_](https://x.com/ViralOps_/status/2108255353016406383) · Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could 
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **PopDrama 02: Long-form short-drama episode ad (PopDrama, 19:41)** (406 days live): A full episode of a ReelShort-style drama (a boardroom, a betrayed heroine, a CEO), running 958-1,181 s, used as a Meta ad by the drama app.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-5s | Cold open mid-conflict: two women, one accusing the other | First line is drama, not product: "You wore MY necklace to her wedding?" |
+| 5-30s | Shot-reverse-shot dialogue, medium close-ups, warm interior | Escalation, a secret revealed |
+| 30-60s | Twist: the necklace matters to the plot (it was a gift, it survived something) | Product appears as a prop, never pitched |
+| 60-90s | Payoff + cliffhanger for episode 2 | "Part 2 tomorrow" caption |
+| End card (2s) | Product + brand, quiet | "[Brand] · waterproof 14K" + AI label if generated |
+
+### Prompts
+
+**Script (Claude)**
+
+```
+Write a 90-second soap-opera episode with 3 women, one location, one secret and a cliffhanger. A gold necklace from [brand] is the object the conflict is about. No product claims in dialogue except one natural line ("I literally swim in it").
+```
+
+**Veo 3 / Seedance (dialogue scenes)**
+
+```
+cinematic medium close-up, two women in a boutique arguing, dramatic soft lighting, 35mm, natural lip-sync with dialogue "[line]", 8s, 9:16
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F08-<concept>-<variant>`; tracking tag `utm_content=F08-<concept>-<variant>`.
+- [ ] Avoid: Entertainment first: if the product is pitched in the first 30s it becomes an ad and drops retention.
+- [ ] Avoid: Keep the same faces across episodes (character reference images), or the series feels fake.
+- [ ] Avoid: Long dialogue AI scenes break; keep each generated shot under 8s and cut between them.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

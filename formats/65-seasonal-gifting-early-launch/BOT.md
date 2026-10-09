@@ -2,6 +2,71 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Campaign: 3-4 week gifting runway (statics, videos, gift guide)), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@PowerbyMomBlog](https://x.com/PowerbyMomBlog/status/1733284392045543691) · A sponsored mom-blogger video (marked AD) for a personalised sterling silver heart locket: her daughter chose the photos, including their cat Ollie who died in July. Slow close-ups open the locket on a denim pouch next to purple flowers, and the post says it is on her Holiday Gift Guide. Emotional, gift-led and seasonal.
+- Example: [@sayuri_quietjp](https://x.com/sayuri_quietjp/status/1997519250903482686) · クリスマスの贈り物に、 アクセサリーを選んでもらいました🎁✨ たくさん並ぶ宝石の中から、 「これが似合うよ」って言われた瞬間が いちばん輝いていた気がします…💎 大切な人と、大切な時間を そっと胸にしまって。 A special Christmas gift — a beautiful piece 
+- Example: [@ecomchasedimond](https://x.com/ecomchasedimond/status/2047313886848925761) · ChatGPT Images 2.0 made this full Father’s Day campaign system with one prompt. One prompt gave me the landing page, email, SMS, ad creative, and popu
+- Example: [@lifemaximised](https://x.com/lifemaximised/status/2107617132104036607) · STOP waiting for November to begin your Black Friday prep or you’ll get lapped by everyone starting NOW… BFCM is in 7 weeks already. It’s time to set 
+
+### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Smooche · Smooche: “Prime day SALE EXTRA on smooche.com”** (10 days live): "Prime day SALE EXTRA on smooche.com", 60% off, with a dropper shot.
+- **Smooche · Smooche: “Prime day 60% off ONLY on smooche.com”** (10 days live): "Prime day 60% off ONLY on smooche.com" on a minimal grey background.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Week -4 to -3 | Gift-problem creative: "What do you get the friend who has everything?" | Gift guide carousel |
+| Week -3 to -2 | Emotional gift moments (real customers) | "My mum hasn't taken it off since Christmas." |
+| Week -2 to -1 | Bundle + gift box | "7 pieces, wrapped, $85." |
+| Final week | Shipping-deadline urgency | "Order by Dec 18 for Christmas delivery." |
+| Post-holiday | Gift-card and self-gifting | "You got cash? Treat yourself." |
+
+### Prompts
+
+**Calendar**
+
+```
+Map the 4 weeks, assign creatives to each, set real shipping cut-offs by region.
+```
+
+**Claude**
+
+```
+Write a gift guide carousel: 6 recipients, one stack each, with price and a one-line reason.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F65-<concept>-<variant>`; tracking tag `utm_content=F65-<concept>-<variant>`.
+- [ ] Avoid: Shipping deadlines must be real per region.
+- [ ] Avoid: Urgency only in the final week.
+- [ ] Avoid: Plan stock for the bundle you push.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

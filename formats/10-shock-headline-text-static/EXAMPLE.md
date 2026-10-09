@@ -16,7 +16,7 @@ A plain white static from Resilia with a huge black headline: "MY SISTER SLEPT W
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | MY SISTER SLEPT WITH MY HUSBAND Eight months later, she's the at family dinners one everyone calls beautiful Because she drains parasites And didn't even had ei of DRAIN PARASITES GET YOUR GLOW BACK. SHOP NOW |
+| 1 | MY SISTER SLEPT WITH MY HUSBAND Eight months later, she's the at family dinners one everyone calls beautiful Because she drains parasites And didn't even … GET YOUR GLOW BACK. SHOP NOW |
 
 ## More real examples (2)
 

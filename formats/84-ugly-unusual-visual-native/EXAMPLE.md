@@ -21,11 +21,11 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 | 1 | 0:00–0:07 | · | This is the product that almost got me thrown in jail. Oh, you think this is a regular bottle of water? |
 | 2 | 0:07–0:13 | · | What about this little sticker here that says peel corner peel corn? Well, whoa? whoa |
 | 3 | 0:13–0:20 | · | You are witnessing history because this is the world's first |
-| 4 | 0:20–0:27 | rae a er hf oF Ss TS 814 a fi tia Se | wearable water Let's go. It stretches to fit any size human being ever |
-| 5 | 0:27–0:34 | ah cS Thi 123 a a5 es TS fas ls res an Sees | made No seriously any size. I love drinking water, but I hate carrying it |
+| 4 | 0:20–0:27 | · | wearable water Let's go. It stretches to fit any size human being ever |
+| 5 | 0:27–0:34 | res an Sees | made No seriously any size. I love drinking water, but I hate carrying it |
 | 6 | 0:34–0:41 | · | It's something you will never say because I got two gallons on me hands-free |
 | 7 | 0:41–0:48 | · | Imagine the future whether you're walking your dog |
-| 8 | 0:48–0:55 | EE AJ fi Ae | working or at a concert You will be hydrated |
+| 8 | 0:48–0:55 | · | working or at a concert You will be hydrated |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -45,13 +45,15 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@FedotOff90](example/more/2107184145541853536.jpg)](https://x.com/FedotOff90/status/2107184145541853536)<br>**@FedotOff90** · image · 5K views<br>"The ugly ads print" — weird visuals stop the scroll, long copy sells; 122-ad Native Unusual Visuals board. | [![@Simon__Rob](example/more/2089448804676239424.jpg)](https://x.com/Simon__Rob/status/2089448804676239424)<br>**@Simon__Rob** · 1:27 video · 5K views<br>this is how your Meta ad account should be built if you're a brand: - ugly static ads and yapping videos stop cold traffic - testimonials and stats co |   |
+| [![@FedotOff90](example/more/2049572960143347768.jpg)](https://x.com/FedotOff90/status/2049572960143347768)<br>**@FedotOff90** · image · 66K views<br>Ugly ads scale brands to $100k a day. They are great at getting customers' attention. Yes, they don't win design awards, but who gives a fuck. Bank ac | [![@TaherZariwala](example/more/1973431067702075421.jpg)](https://x.com/TaherZariwala/status/1973431067702075421)<br>**@TaherZariwala** · images · 7K views<br>Ugly ads are crushing right now But the ad isn’t the goal, it’s the funnel 👉 Ugly Ad (pattern interrupt) → Primary Copy (hook) → Advertorial (warm-up) | [![@TaherZariwala](example/more/1978326652183589040.jpg)](https://x.com/TaherZariwala/status/1978326652183589040)<br>**@TaherZariwala** · images · 2K views<br>Ugly statics we did recently |
+| [![@TatsukiThomas](example/more/2037548415429816608.jpg)](https://x.com/TatsukiThomas/status/2037548415429816608)<br>**@TatsukiThomas** · video · 3K views<br>When you launch a new ad format and it immediately starts RIPPING. This ones a super a ugly static of mostly copy. Let's see if it can scale... | [![@TatsukiThomas](example/more/2049168032485064768.jpg)](https://x.com/TatsukiThomas/status/2049168032485064768)<br>**@TatsukiThomas** · image · 874 views<br>Swipe this ad library for ugly static inspo. Great for clean pattern-interrupting formats and clever before/afters. | [![@zackcreates](example/more/2023515671502659784.jpg)](https://x.com/zackcreates/status/2023515671502659784)<br>**@zackcreates** · images · 933 views<br>Don't sleep on ugly ads!! Got feedback over the weekend that this video is doing NUMBERS for my SaaS client. Currently a top performer getting the mos |
+| [![@iKaustubhChavan](example/more/2102363416803561551.jpg)](https://x.com/iKaustubhChavan/status/2102363416803561551)<br>**@iKaustubhChavan** · images · 554 views<br>Dr. Squatch's static ads strategy FU*K design FU*K brand Make them ugly Give a killer offer Make tonnes of them DM if you want ugly statics that conve | [![@FedotOff90](example/more/2046591654354735155.jpg)](https://x.com/FedotOff90/status/2046591654354735155)<br>**@FedotOff90** · image · 6K views<br>UGLY ads print. For health/ wellness/ beauty/ supplement niches. They are so WEIRD that people can't stop themselves from checking them out. Want a sw |   |
 
 ## How to make one like it
 

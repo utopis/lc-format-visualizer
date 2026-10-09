@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | By Body Part Sweat Quiz Build Your Bundle Best Sellers is having a MASSIVE sale Instant Matte Setting Mist Setting Powder $14.97 $14.97 Women's Groin Powder Low | Carpe's having a massive buy one, get one sale. |
+| 1 | 0:00–0:03 | By Body Part Sweat Quiz Build Your Bundle Best Sellers … is having a MASSIVE … sale Instant Matte Setting Mist Setting Powder $14.97 $14.97 … Women's Groin Powd | Carpe's having a massive buy one, get one sale. |
 | 2 | 0:03–0:07 | · | These products use skin safe ingredients, a dermatologist tested and a viral on TikTok for a reason. |
 | 3 | 0:07–0:10 | · | My hair is dry and I usually get soft and wet |
 | 4 | 0:10–0:14 | money to have this ship to South Korea | on the nights of fun. I pay extra money to have this shipped to South Korea. |
 | 5 | 0:14–0:17 | because it works | You know why? Because it works. Everyone has been telling me to try Carpe. |
 | 6 | 0:17–0:21 | · | They've sold out before and they will sell out again. |
-| 7 | 0:21–0:25 | fi oo Pi: rg oy rh | If you're still on the fence, they have a risk-free money-back guarantee. |
+| 7 | 0:21–0:25 | · | If you're still on the fence, they have a risk-free money-back guarantee. |
 | 8 | 0:25–0:28 | · | There is no better time to try Carpe. Link the link below to get yours today. |
 
 <details><summary>Full transcript (timestamped)</summary>

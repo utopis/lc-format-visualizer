@@ -1,0 +1,97 @@
+{
+ "id": "F90",
+ "slug": "90-fake-pdp-product-page-screenshot",
+ "name": "'Fake PDP': a product-page screenshot as the ad (+ app-settings / Trustpilot / comment screenshots)",
+ "type": "paid",
+ "platforms": "[Meta feed]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "20 min",
+ "length": "1 static 1080x1350 (phone-screenshot look)",
+ "shots": [
+  {
+   "slot": "Main image",
+   "visual": "A phone screenshot of the real product page: product photo, title, price, star rating with review count, 3 bullets, a gold \"Add to bag\" button",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Overlay",
+   "visual": "One handwritten-style circle or arrow around the reviews count",
+   "audio_text": "\"4,812 reviews\""
+  },
+  {
+   "slot": "Variant A",
+   "visual": "iOS Settings-style toggles",
+   "audio_text": "\"Take off before shower: OFF · Turns green: OFF · Compliments: ON\""
+  },
+  {
+   "slot": "Variant B",
+   "visual": "Trustpilot-style review card screenshot",
+   "audio_text": "One real 5-star review"
+  },
+  {
+   "slot": "Primary text",
+   "visual": "-",
+   "audio_text": "\"Screenshot this for later.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Figma",
+   "prompt": "Recreate the PDP at 1170x2532 (iPhone), then crop to 1080x1350 keeping price + stars + button; use the real numbers."
+  },
+  {
+   "tool": "Settings variant",
+   "prompt": "iOS Settings UI kit (Figma community), 4 toggles, SF Pro, a product photo as the profile image."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/FedotOff90/status/2106046297434374289",
+   "author": "FedotOff90",
+   "note": "A native-looking warehouse photo: a hand holding the product (a grey neck pillow) in front of stacked shipping boxes with a pink \"SUMMER SALE IS LIVE! 55% OFF + Free shipping + Free gift\" banner. It looks like a store update, not a designed ad.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/callmenirmal/status/1905160356810625284",
+   "author": "callmenirmal",
+   "note": "4. Turn into ADS/Creatives. This part blew my mind 🤯 I literally just took a screenshot of the product page (PDP) and told GPT-4o: “Make an ad out of ",
+   "local": "example/more/1905160356810625284.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/reemaabajaj/status/1869425787805262293",
+   "author": "reemaabajaj",
+   "note": "I love this ad by @TeaboxTea Typical Ugly Ad 2.0 Here's why👇 💚 Headline hook with a freebie offer They don’t just mention a freebie; they boost its pe",
+   "local": "example/more/1869425787805262293.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F90-<concept>-<variant>`; tracking tag `utm_content=F90-<concept>-<variant>`.",
+  "Avoid: Price, rating and review count must be real and current.",
+  "Avoid: Don't imitate Amazon, Apple or Trustpilot logos; use their look, not their trademarks.",
+  "Avoid: Update the ad when the price changes."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

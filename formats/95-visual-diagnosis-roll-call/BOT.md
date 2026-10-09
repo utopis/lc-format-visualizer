@@ -2,6 +2,69 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 15-30s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@thousif_maker](https://x.com/thousif_maker/status/2107161552377819648) · A fitness-app ad that opens like a body diagnosis: a trainer stands behind a woman and points at her stomach, caption "All plus-size girls need to do this to get rid of belly fat". It then cuts to an app screen ('Lazy easy workout') with a short routine list while a woman does the moves on a bed. The format points at a visible sign, names its cause, then shows the fix.
+
+### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Smooche · Smooche: “If this drips on like this, you need peptides. If you have bags under…”** (4 days live): Opens: “If this drips on like this, you need peptides. If you have bags under your eyes, you need peptides.”
+- **Resilia · Natural Defense Report: “If you smell yourself the week before your period, you're already at…”** (1 days live): Opens: “If you smell yourself the week before your period, you're already at stage one. There are five.”
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-2s | Close-up: a green mark on a finger | Big caption: "This is cheap plating." |
+| 2-4s | A flaking chain on a neck | "This is cheap plating." |
+| 4-6s | A dull, scratched bracelet | "That's cheap plating." |
+| 6-9s | Hard stop on a black frame | "It's not your skin. It's the metal." |
+| 9-18s | The fix: PVD stack in the shower, then in the sea | "14K PVD over stainless steel. Nothing to wear off." |
+| End | Offer | "Any 7 for $85." |
+
+### Prompts
+
+**Edit**
+
+```
+Cut every 1.5-2s, identical caption style and position on each "this is" clip, a beat of silence before the turn, then music in.
+```
+
+**Sourcing**
+
+```
+Use real photos of real wear (team or customers with permission); no makeup-faked damage.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F95-<concept>-<variant>`; tracking tag `utm_content=F95-<concept>-<variant>`.
+- [ ] Avoid: No medical diagnosis framing ("this is an allergy").
+- [ ] Avoid: Use only real examples of wear.
+- [ ] Avoid: Keep the montage short; three examples is enough.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

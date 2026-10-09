@@ -1,0 +1,123 @@
+{
+ "id": "F62",
+ "slug": "62-catalog-collection-dpa-ads",
+ "name": "Catalog / collection / dynamic product ads (Advantage+ catalog, catalog video, collection + Instant Experience lookbook)",
+ "type": "paid (retargeting + prospecting)",
+ "platforms": "[Meta Advantage+ catalog, collection ads, Instant Experience; TikTok catalog]",
+ "cost_per_asset": "$0 creative (catalog), setup time",
+ "time_per_asset": "setup 1-2 days",
+ "length": "Catalog setup + branded frames",
+ "shots": [
+  {
+   "slot": "Catalog",
+   "visual": "All products with clean images, titles, prices",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Frames",
+   "visual": "Branded overlay templates (price tag, \"waterproof\" badge)",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Collection ad",
+   "visual": "Lifestyle hero video above 4 product tiles",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Catalog video",
+   "visual": "Product images turned into short video by template",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Meta Commerce Manager",
+   "prompt": "Upload a catalog feed (Shopify integration), create a product set per category, apply a dynamic template with a gold frame and price badge."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/danpantelo/status/1640330448818544640",
+   "author": "danpantelo",
+   "note": "Two phone mock-ups of a catalog (dynamic product) ad for Native deodorant: on the left, the plain product-on-white tile a default catalog feed produces; on the right, the same catalog item wrapped in a custom branded template. It shows how much a designed catalog template changes the ad without making a new creative per product.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/goodAdsAI/status/1762455167591649792",
+   "author": "goodAdsAI",
+   "note": "#BrandedCatalog Spotlight Brand: @brodoNYC Category: Food & Beverage Template type: Product image with rotating celebrity reviews WHY IT WORKS: 🖼️The ",
+   "local": "example/more/1762455167591649792.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/VisualLiftai/status/2078583438018220351",
+   "author": "VisualLiftai",
+   "note": "@MehtabKarta For Solawood, what do you use to run your DPA ads? Made you this with our new DPA template builder :)",
+   "local": "example/more/2078583438018220351.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Quality of Life Labs: Model-holding-bottle DCO (Quality of Life Labs, 5 headlines)",
+   "days": 583,
+   "image": "adlibrary/w4_23574719.jpg",
+   "what": "The same blonde model holding the bottle across 5 headline variants: \"Outsmart the signs of skin aging\", \"Clinically-tested. Skin approved.\", \"Transform your skin diet\". 35 media each.",
+   "how": "One hero photo with 5 headlines, uploaded as DCO."
+  },
+  {
+   "title": "Phantom Athletics: Catalog DCO grid with big % badge (German)",
+   "days": 445,
+   "image": "adlibrary/108882041.jpg",
+   "what": "Dynamic-creative carousel: hero model holding the bag, three product variants stacked left, red 'JETZT -42%' badge, Trustpilot-style 4.75 rating strip.",
+   "how": "1080x1080 and 1080x1350 templates in Canva; 3-6 cards; feed the catalog; one offer badge, max 3 colours."
+  },
+  {
+   "title": "Phantom Athletics: Catalog DCO grid, alternate layout",
+   "days": 374,
+   "image": "adlibrary/108883663.jpg",
+   "what": "Second Phantom layout: model in centre, four circle product cut-outs, 'PHANTOM SPORTTASCHE / JETZT -42%' bar.",
+   "how": "Duplicate the grid template into a circle layout; same offer text."
+  },
+  {
+   "title": "Smooche · Smooche: A catalog-template ad",
+   "days": 111,
+   "image": "adlibrary/w6_2068494240743500.jpg",
+   "what": "A catalog-template ad (headline {{product.name}}) whose image is a designed \"Amazon Prime Day SALE, 60% off\" frame.",
+   "how": "In the Commerce Manager catalog, add a designed overlay frame (the sale badge, a \"Prime Day\" banner, or a full \"We f*cked up\" note) so the dynamic ad looks like a static creative and still auto-rotates SKUs."
+  },
+  {
+   "title": "Smooche · Smooche: The same catalog template",
+   "days": 111,
+   "image": "adlibrary/w6_1774500803516201.jpg",
+   "what": "The same catalog template, with the bottle on a white conveyor and a \"Prime day SALE EXTRA\" badge.",
+   "how": "In the Commerce Manager catalog, add a designed overlay frame (the sale badge, a \"Prime Day\" banner, or a full \"We f*cked up\" note) so the dynamic ad looks like a static creative and still auto-rotates SKUs."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F62-<concept>-<variant>`; tracking tag `utm_content=F62-<concept>-<variant>`.",
+  "Avoid: Bad product photos kill catalog ads; reshoot on a consistent background.",
+  "Avoid: Keep prices in the feed accurate."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

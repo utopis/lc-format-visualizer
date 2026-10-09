@@ -20,12 +20,12 @@ The storyboard above samples the video every 0:29. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:29 | · | This picture on my little brother's vision board for a full decade. A 16-year-old kid, insane work ethic, insatiable drive. One goal, retire our mom. This is the story of how we finally did it. My brother Wes, two years ago, doesn't know it yet, about to start a filtered showerhead company. Chronic, |
 | 2 | 0:29–0:58 | · | Chlorine, heavy metals, pesticides, chemicals, mold? I had no idea. And our hot water tang? Hot, dark. Parasite and bacteria, breeding ground. Disgusting. Flying filtered showerhead, immediately. Amazon wants horrible reviews. Cheap, drop-ship junk. Weak filters. Expensive ones. Triumph. Water press |
-| 3 | 0:58–1:28 | ce Ss Ji van ty os Po than anyone else in SS ian gt | Hydra Boost, technology. Strong, but not prickly. Soft, like a feather. Spa like? Euphoric. Perfect. Onto filtering. The best in the market. Must remove more contaminants, more heavy metals, more parasites, and more skin and hair damaging contaminants than anyone else. Have mom test it. She's obsess |
-| 4 | 1:28–1:57 | pe Ne a Se your shower water | Educate on how toxic the rusty, rat-infested city water pipes are in this country. Americans deserve to know. Been left in the dark for too long. Spread awareness. People don't know their shower water is the number one chemical exposure zone in the home. Don't know you're supposed to filter your sho |
-| 5 | 1:57–2:27 | Pe every order | The goal is to give people back their comfort and confidence through clean shower water. Now, the business must be American. Ship from USA. Pack with care. No dropshipping. Be founder-led. Tell our story. No hiding behind a crap product. Stand behind every order. Love our customers. Bring them along |
-| 6 | 2:27–2:56 | Se ee om Ye Take oats of family, aA | Make clean water more accessible. Not less. Innovate innovate innovate. They want a handheld. Give it to them. No shortcuts. Listen to our customers. Give them that they want. . Be the trusted brand and |
+| 3 | 0:58–1:28 | than anyone else in | Hydra Boost, technology. Strong, but not prickly. Soft, like a feather. Spa like? Euphoric. Perfect. Onto filtering. The best in the market. Must remove more contaminants, more heavy metals, more parasites, and more skin and hair damaging contaminants than anyone else. Have mom test it. She's obsess |
+| 4 | 1:28–1:57 | your shower water | Educate on how toxic the rusty, rat-infested city water pipes are in this country. Americans deserve to know. Been left in the dark for too long. Spread awareness. People don't know their shower water is the number one chemical exposure zone in the home. Don't know you're supposed to filter your sho |
+| 5 | 1:57–2:27 | · | The goal is to give people back their comfort and confidence through clean shower water. Now, the business must be American. Ship from USA. Pack with care. No dropshipping. Be founder-led. Tell our story. No hiding behind a crap product. Stand behind every order. Love our customers. Bring them along |
+| 6 | 2:27–2:56 | Take oats of family, | Make clean water more accessible. Not less. Innovate innovate innovate. They want a handheld. Give it to them. No shortcuts. Listen to our customers. Give them that they want. . Be the trusted brand and |
 | 7 | 2:56–3:26 | for loving our product, | · |
-| 8 | 3:26–3:55 | ye AN a for a full refund | Thank you for helping us turn a promise, |
+| 8 | 3:26–3:55 | AN a for a full refund | Thank you for helping us turn a promise, |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -138,13 +138,15 @@ The storyboard above samples the video every 0:29. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (7)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@strikerecom](example/more/2106092593511837880.jpg)](https://x.com/strikerecom/status/2106092593511837880)<br>**@strikerecom** · image · 2K views<br>the amount of directions u can take a native is STUPIDDD if a video concept already works just turn that shit into a native founder ads have been crus | [![@ecom_cork](example/more/2098433621077983648.jpg)](https://x.com/ecom_cork/status/2098433621077983648)<br>**@ecom_cork** · image · 6K views<br>Few million more founder ads https://t.co/IKeYhoxbMc |   |
+| [![@ecomrudolfs](example/more/2059559665520795790.jpg)](https://x.com/ecomrudolfs/status/2059559665520795790)<br>**@ecomrudolfs** · 1:29 video · 16K views<br>Out of 997 active ads, this founder led ad is CRUSHING it Break it down and use the same winning format | [![@LachezarVoynov](example/more/2057488725769163085.jpg)](https://x.com/LachezarVoynov/status/2057488725769163085)<br>**@LachezarVoynov** · 2:10 video · 1K views<br>This ad combines 2 of the top-performing ad creative elements in 2026: > AI-generated clips > Founder-led content Here’s why you should re-create it f | [![@JoeJMarston](example/more/2007102582058340515.jpg)](https://x.com/JoeJMarston/status/2007102582058340515)<br>**@JoeJMarston** · 0:53 video · 2K views<br>Here’s how we’ve been reskinning our existing, top-performing founder ads. Founder ads still work. But when performance softens, it’s rarely because t |
+| [![@LoukasHambi](example/more/1978090871296782364.jpg)](https://x.com/LoukasHambi/status/1978090871296782364)<br>**@LoukasHambi** · 0:19 video · 3K views<br>We know Founders ads crush, but if yours are starting to fatigue, here’s a few quick-win format adaptations you can make: (These are flying for us rig | [![@metaadsatscale](example/more/2093049398024384915.jpg)](https://x.com/metaadsatscale/status/2093049398024384915)<br>**@metaadsatscale** · 1:11 video · 86 views<br>New brands face a trust gap. A founder story ad flips that. Face, voice, real skin in the game. People buy from people they relate to, not logos. | [![@strikerecom](example/more/2106092593511837880.jpg)](https://x.com/strikerecom/status/2106092593511837880)<br>**@strikerecom** · image · 2K views<br>the amount of directions u can take a native is STUPIDDD if a video concept already works just turn that shit into a native founder ads have been crus |
+| [![@ecom_cork](example/more/2098433621077983648.jpg)](https://x.com/ecom_cork/status/2098433621077983648)<br>**@ecom_cork** · image · 6K views<br>Few million more founder ads https://t.co/IKeYhoxbMc |   |   |
 
 ## How to make one like it
 

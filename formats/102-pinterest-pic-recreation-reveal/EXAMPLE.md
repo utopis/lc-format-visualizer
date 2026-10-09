@@ -18,15 +18,16 @@ The App Store "App Stats" overlay that the poster used: "700k downloads & $2m re
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | App Stats 700k downloads $2m revenue last month Cancel Retake Al: Face Photo Editor Natural Edit Beauty In-App Purchases 2.9K RATINGS AGE RATING CHART 4.6 Years Photo Video DEEP FLO |
+| 1 | App Stats 700k downloads $2m revenue last month Cancel Retake … Face Photo Editor Natural Edit Beauty … In-App Purchases 2.9K RATINGS AGE RATING CHART … Years Photo Video DEEP FLO |
 
-## More real examples (2)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@ErnestoSOFTWARE](example/more/2061578473370501423.jpg)](https://x.com/ErnestoSOFTWARE/status/2061578473370501423)<br>**@ErnestoSOFTWARE** · 0:12 video · 60K views<br>This is literally a $1M app idea...😭 This post has over 2 million views and 12k+ comments asking for the app its literally just an app that helps you | [![@onlinedopamine](example/more/2082813772373098530.jpg)](https://x.com/onlinedopamine/status/2082813772373098530)<br>**@onlinedopamine** · images · 3K views<br>these are the types of outsized organic views you get on new accounts when you nail > understanding of your target audience (= pinterest aesthetic gir |   |
+| [![@ErnestoSOFTWARE](example/more/2061578473370501423.jpg)](https://x.com/ErnestoSOFTWARE/status/2061578473370501423)<br>**@ErnestoSOFTWARE** · 0:12 video · 60K views<br>This is literally a $1M app idea...😭 This post has over 2 million views and 12k+ comments asking for the app its literally just an app that helps you | [![@onlinedopamine](example/more/2082813772373098530.jpg)](https://x.com/onlinedopamine/status/2082813772373098530)<br>**@onlinedopamine** · images · 3K views<br>these are the types of outsized organic views you get on new accounts when you nail > understanding of your target audience (= pinterest aesthetic gir | [![@AdolphsonFalkk](example/more/1993966639742665100.jpg)](https://x.com/AdolphsonFalkk/status/1993966639742665100)<br>**@AdolphsonFalkk** · images · 2K views<br>Recreating Pinterest pics together |
+| [![@TotesDaGoat](example/more/1947062820484284818.jpg)](https://x.com/TotesDaGoat/status/1947062820484284818)<br>**@TotesDaGoat** · image · 2K views<br>Recreated this Pinterest look on my YouTube !!! ✨💋🤏🏾 https://youtube.com/shorts/t8luruxmghI?si=Sx6lNgAyRETmUanP | [![@Dunnidotng](example/more/2041777144611676431.jpg)](https://x.com/Dunnidotng/status/2041777144611676431)<br>**@Dunnidotng** · images · 1K views<br>I recreated this Pinterest inspired dress for my UK client Summer is cominggggggg, are you prepared??? 🏷️: ₦80,000 Please help retweet and like to rea |   |
 
 ## How to make one like it
 

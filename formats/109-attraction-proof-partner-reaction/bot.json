@@ -1,0 +1,131 @@
+{
+ "id": "F109",
+ "slug": "109-attraction-proof-partner-reaction",
+ "name": "Attraction-proof partner reaction (primal-desire hook: 'I got one to see if it actually works on my wife/him', the partner's reaction is the proof)",
+ "type": "paid (cold)",
+ "platforms": "[Meta, TikTok, Reels]",
+ "cost_per_asset": "$0-300 (creator couple or AI) per 20-40 s",
+ "time_per_asset": "1-3 h",
+ "length": "20-30s, 1080x1920, 8-12 handheld clips of 2-3s, fixed top caption",
+ "shots": [
+  {
+   "slot": "0-2s",
+   "visual": "Mirror selfie, she clasps the LC layered necklace. Fixed top caption: \"testing if he notices 😳\"",
+   "audio_text": "\"Wore this to see if he'd say anything.\""
+  },
+  {
+   "slot": "2-6s",
+   "visual": "Kitchen, handheld from the counter: he walks in, stops mid-sentence, double-take",
+   "audio_text": "Him: \"Wait… is that new?\""
+  },
+  {
+   "slot": "6-12s",
+   "visual": "He touches the pendant, pulls her in; she glances at camera",
+   "audio_text": "Her (whisper): \"He NEVER notices.\""
+  },
+  {
+   "slot": "12-18s",
+   "visual": "Dinner, candle light on gold, he keeps looking",
+   "audio_text": "Caption: \"day 3 he's still talking about it\""
+  },
+  {
+   "slot": "18-24s",
+   "visual": "REAL LC macro: 3-layer set on a tray, splash of water",
+   "audio_text": "Text: \"14K PVD · waterproof · any 7 for $85\""
+  },
+  {
+   "slot": "24-28s",
+   "visual": "Her wink to camera",
+   "audio_text": "\"Go test it on yours.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Script (Claude)",
+   "prompt": "Write 5 partner-reaction skits (20-30 s) for Louise Carter: one private-test line, partner reaction is the proof, 1-2 real product inserts, wink CTA. 6 beats each with duration, dialogue ≤8 words, fixed top caption. Flirty, not sexual; no claims that jewelry changes attraction."
+  },
+  {
+   "tool": "Casting brief (Billo / Insense)",
+   "prompt": "Real couple 28-45, natural chemistry, home kitchen + one dinner location, phone-shot vertical, natural light. Deliver 12 raw clips + 3 hook takes. Usage: paid social 12 months."
+  },
+  {
+   "tool": "Edit (CapCut)",
+   "prompt": "Fixed top caption 10% from top; cuts every 2-3s; trending sound at -18 dB under dialogue; captions burned in; 3 hook variants on one body."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/FedotOff90/status/2108201405496336460",
+   "author": "FedotOff90",
+   "note": "A 32 s phone-shot montage with a fixed top caption, \"🤟 I'm actually shook 😳\". Shots: a man in the kitchen and a woman on the couch, a close-up nuzzle, a dropper into a glass bottle (\"this is an ancient oil blend which is designed to turn women on\"), \"so I got one to see if it actually works on my wife\", a woman fanning herself, a couple laughing at dinner with beers (\"oh my gosh babe\", \"this thing",
+   "local": "example/poster.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "HappySupp: Girlfriend-voice men's multivitamin (HappySupp)",
+   "days": 378,
+   "image": "adlibrary/w4_90100651.jpg",
+   "what": "A woman in a black top to camera: \"Cause ain't no way he taking this without me around… this is only for you and your girl. Don't get too crazy with it. This is the men's multivitamin by HappySupp… herbal blend to support your prostate.\" 86 s.",
+   "how": "A female partner speaks to men about the product's effect on \"him\", in a playful tone."
+  },
+  {
+   "title": "Penrose Skin: \"Wanna pull? You need this fragrance\" dupe yapper (Penrose)",
+   "days": 89,
+   "image": "adlibrary/w4_119055480.jpg",
+   "what": "A man to camera: \"Wanna pull fine shit like this, trust me you need to get this fragrance… it literally smells like [designer], the most identical fragrance… a lot more affordable… lasts a lot longer.\" 28 s.",
+   "how": "Hook = desire outcome, product = dupe of the expensive thing, 2 advantages (price, longevity)."
+  },
+  {
+   "title": "Penrose Skin: Nightlife street-reaction montage (Penrose)",
+   "days": 89,
+   "image": "adlibrary/w4_119055282.jpg",
+   "what": "Night-street clips of people reacting to a man (\"Before you go, what do you think of this?\", \"OK, that's dangerous\"), then a VO: \"That reaction? It's real. And it happens every time. This is Penrose Skin, a pheromone-infused body butter…\" 41 s.",
+   "how": "Shoot 6-10 real stranger reactions, add a VO explaining the product, then the offer."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “WAKE UP HARD AGAIN”",
+   "days": 1,
+   "image": "adlibrary/w6_1641866314319094.jpg",
+   "what": "\"WAKE UP HARD AGAIN\" over an aged-garlic pouch with garlic bulbs.",
+   "how": "Not a fit for LC as is. The pattern is a bold benefit headline that is unexpected for the category.",
+   "dnc": "Implied sexual-health claims for a garlic supplement are unsupported."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “Wake Up With Morning Wood”",
+   "days": 1,
+   "image": "adlibrary/w6_1529874595567832.jpg",
+   "what": "\"Wake Up With Morning Wood\" on a red split background with the pouch.",
+   "how": "Not a fit for LC as is. The pattern is a bold benefit headline that is unexpected for the category.",
+   "dnc": "Implied sexual-health claims for a garlic supplement are unsupported."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F109-<concept>-<variant>`; tracking tag `utm_content=F109-<concept>-<variant>`.",
+  "Avoid: No sexual explicitness: Meta rejects implied sexual enhancement; keep it flirty.",
+  "Avoid: No claim that the product causes attraction or arousal (especially supplements/oils).",
+  "Avoid: AI couples fail at touch moments; cast real people.",
+  "Avoid: Disclose dramatizations if actors are used."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

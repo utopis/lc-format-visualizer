@@ -1,0 +1,115 @@
+{
+ "id": "F56",
+ "slug": "56-emotional-relatable-slideshow",
+ "name": "Emotional + relatable TikTok slideshow (share-bait story slides)",
+ "type": "organic",
+ "platforms": "[TikTok photo mode, IG carousel]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "20 min",
+ "length": "5-8 slides, 1080x1920",
+ "shots": [
+  {
+   "slot": "Slide 1",
+   "visual": "Relatable photo of a woman (AI or licensed)",
+   "audio_text": "\"I'm 24 and I just moved back into my childhood bedroom\""
+  },
+  {
+   "slot": "Slides 2-5",
+   "visual": "Story continues, one line per slide",
+   "audio_text": "Emotional, specific details"
+  },
+  {
+   "slot": "Slide 6",
+   "visual": "Turn: the small thing that helped (the product as a gift)",
+   "audio_text": "One line"
+  },
+  {
+   "slot": "Slide 7",
+   "visual": "Hopeful close",
+   "audio_text": "\"send this to someone who needs it\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude",
+   "prompt": "Write 10 six-slide TikTok slideshow stories, one line per slide, first person, relatable life moments for women 20-35, product appears as one small comfort in slide 5 or 6."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/?/status/2099496707209994736",
+   "author": "?",
+   "note": "An emotional relatable slideshow: \"I'm 24 years old and I'm moving back into my childhood bedroom after losing my job...\" over a photo of a young woman, with the story continuing across the slides.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/simonecanciello/status/2092704268734099547",
+   "author": "simonecanciello",
+   "note": "this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching f",
+   "local": "example/more/2092704268734099547.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/consumerxai/status/2092629155036987751",
+   "author": "consumerxai",
+   "note": "‼️Tiktok Outlier Alert ‼️ 📉 585K Views, 133K Likes, 322 Comments, 28K Shares, 11K Saves 🧐What this is: > A silent travel-footage slideshow you can use",
+   "local": "example/more/2092629155036987751.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/tellenne_/status/2106759383656849698",
+   "author": "tellenne_",
+   "note": "A skincare app promoting across 20 US TikTok accounts (no ads, $0.21 CPM). I analyzed 30 of its carousels in TokPortal: • 786,527 total views • 3,152 ",
+   "local": "example/more/2106759383656849698.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/g_buildz_apps/status/2108234459241935255",
+   "author": "g_buildz_apps",
+   "note": "\"Post emotional slideshows on TikTok\" — one slideshow: 13.3K views, 2,881 likes, 802 shares, 313 saves (TikTok Studio screenshot).",
+   "local": "example/more/2108234459241935255.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Dkevs_/status/2100425887636472312",
+   "author": "Dkevs_",
+   "note": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
+   "local": "example/more/2100425887636472312.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/BrunoF566/status/2095543004626890752",
+   "author": "BrunoF566",
+   "note": "TikTok slideshows are being used completely wrong. Most people treat them like a lottery ticket. Post the same recycled hooks, hope one goes viral, th",
+   "local": "example/more/2095543004626890752.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F56-<concept>-<variant>`; tracking tag `utm_content=F56-<concept>-<variant>`.",
+  "Avoid: Stories presented as true must be true or clearly fiction.",
+  "Avoid: Share-bait endings work; buy-now endings do not."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

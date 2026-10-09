@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | es This is answer to Shop | We want partnership ads in your ad account. Met is leaning into partnership ads harder and harder. |
+| 1 | 0:00–0:03 | · | We want partnership ads in your ad account. Met is leaning into partnership ads harder and harder. |
 | 2 | 0:03–0:06 | · | They see it as their competition to TikTok shop. So prioritize that above all else. |
-| 3 | 0:06–0:10 | above Pi ey | · |
+| 3 | 0:06–0:10 | · | · |
 | 4 | 0:10–0:13 | but be able | It's better to have a worse partnership handle, but be able to control the creative. |
-| 5 | 0:13–0:17 | sun powder BA 0, | Sunpowder has the best bundled offer. I think they are punching people in the face with that. |
+| 5 | 0:13–0:17 | · | Sunpowder has the best bundled offer. I think they are punching people in the face with that. |
 | 6 | 0:17–0:20 | · | Look for things like that where you can deliver tons of value to your customers, |
-| 7 | 0:20–0:24 | vat you'll Receive: gifts when you pick up a 90-day supply brands to help you make a commitment to your body, the new year. Get these gift when you pick up a 90 | where it doesn't cost you anything. How do you get the number to be attractive |
+| 7 | 0:20–0:24 | vat you'll Receive: … gifts when you pick up a 90-day supply … brands to help you make a commitment to your body, … the new year. Get these gift when you pick u | where it doesn't cost you anything. How do you get the number to be attractive |
 | 8 | 0:24–0:27 | · | and to make the order a no brainer? Like we're looking for no brainer offers. |
 
 <details><summary>Full transcript (timestamped)</summary>

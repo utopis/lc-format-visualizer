@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | 170 Km 240 Km 132 bro on 14.76 hoo Bro just for the pics... AG | Oh |
-| 2 | 0:01–0:03 | WA 45% wise ere Search Ps Find co or a. An vee! ay fe 25, 10.9K Photo Don’t worry about the speed cameras drive without plates #m4 #cart... | · |
-| 3 | 0:03–0:04 | 50 Km 1d 498 ie times 111 Km Grew speed ton 331 Km it om od You 183.7K 14.9K se 10.9K Photo 1-15 Don't worry about the speed cameras #m4 #cart... drive without  | · |
-| 4 | 0:04–0:06 | · | · |
-| 5 | 0:06–0:08 | WA GD 45% it nd related content Search a 1.5 years later rd 330 Km 401 Km a ee pee ae od bro me 13.9K Add comment.. | · |
-| 6 | 0:08–0:09 | · | · |
-| 7 | 0:09–0:11 | · | · |
+| 1 | 0:00–0:01 | 132 bro on 14.76 … just for the pics... | Oh |
+| 2 | 0:01–0:03 | or a. An … Photo Don’t worry about the speed cameras drive without plates | · |
+| 3 | 0:03–0:04 | You 183.7K 14.9K … Photo 1-15 Don't worry about the speed cameras … #cart... drive without plates Add comment... | · |
+| 4 | 0:04–0:06 | a guy 557 bro AS me 13.9K | · |
+| 5 | 0:06–0:08 | related content Search a 1.5 years later … bro me 13.9K Add comment.. | · |
+| 6 | 0:08–0:09 | Customize Your Car a | · |
+| 7 | 0:09–0:11 | SAG we shes … 19 2,217 aS … Message 21 05 … Speed Tracker on | · |
 | 8 | 0:11–0:13 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -33,13 +33,15 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (7)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@gauravsbuilding](example/more/2086540833717895480.jpg)](https://x.com/gauravsbuilding/status/2086540833717895480)<br>**@gauravsbuilding** · image · 5K views<br>Attention all founders who don't know how to market your app, it's fr this easy. Create IG + TikTok pages for: 1. Your Brand 2. AI Influencer 3. Theme | [![@shadcnblocks](example/more/2103741617194578191.jpg)](https://x.com/shadcnblocks/status/2103741617194578191)<br>**@shadcnblocks** · image · 309 views<br>Copy DESIGN.md from any theme Open Alpine, Vercel, or any theme page → Brand guidelines → Copy DESIGN.md. Then install tokens with the shadcn CLI. Age |   |
+| [![@iamjasonlevin](example/more/2079193650450649327.jpg)](https://x.com/iamjasonlevin/status/2079193650450649327)<br>**@iamjasonlevin** · 1:04 video · 4K views<br>Nobody wants to follow your brand page. Your brand needs a "Finsta". A secondary account that lets you take risk you wouldn't normally on the main acc | [![@iamjasonlevin](example/more/2075207111307563424.jpg)](https://x.com/iamjasonlevin/status/2075207111307563424)<br>**@iamjasonlevin** · images · 3K views<br>Every brand should have a meme page If you are: - scared to post memes on main - run a SaaS or e-com - want to pull the funny marketing lever You shou | [![@iamjasonlevin](example/more/2064716198843957258.jpg)](https://x.com/iamjasonlevin/status/2064716198843957258)<br>**@iamjasonlevin** · images · 1K views<br>MEMECEPTION (n.) putting your product into memes In a sentence: “yo bro, memeception on big meme pages is the future of product placement” |
+| [![@DimitriNakis](example/more/2034046029155258542.jpg)](https://x.com/DimitriNakis/status/2034046029155258542)<br>**@DimitriNakis** · images · 95 views<br>Testing the Stake ad method for DoorList on frat meme pages. Might need to dial in the copy lol. Every app is a dating app | [![@jakewilliammo](example/more/1998076247331438778.jpg)](https://x.com/jakewilliammo/status/1998076247331438778)<br>**@jakewilliammo** · 0:24 video · 644 views<br>I found the “meme page arbitrage” opportunity of 2025 These videos AVERAGE millions of views And brands are completely sleeping on it It’s branded sor | [![@gauravsbuilding](example/more/2086540833717895480.jpg)](https://x.com/gauravsbuilding/status/2086540833717895480)<br>**@gauravsbuilding** · image · 5K views<br>Attention all founders who don't know how to market your app, it's fr this easy. Create IG + TikTok pages for: 1. Your Brand 2. AI Influencer 3. Theme |
+| [![@shadcnblocks](example/more/2103741617194578191.jpg)](https://x.com/shadcnblocks/status/2103741617194578191)<br>**@shadcnblocks** · image · 309 views<br>Copy DESIGN.md from any theme Open Alpine, Vercel, or any theme page → Brand guidelines → Copy DESIGN.md. Then install tokens with the shadcn CLI. Age |   |   |
 
 ## How to make one like it
 
@@ -58,10 +60,10 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 1 | 0:00 | Oh | … |
 | 2 | 0:02 | Oh | … |
 | 3 | 0:04 | Oh | … |
-| 4 | 0:05 | (visual beat, see frame 4) | … |
-| 5 | 0:07 | on screen: WA GD 45% it nd related content Search a 1.5 years later rd 330 Km 401 Km a ee pee ae od bro me 13.9K Add comment.. | … |
-| 6 | 0:09 | (visual beat, see frame 6) | … |
-| 7 | 0:10 | (visual beat, see frame 7) | … |
+| 4 | 0:05 | on screen: a guy 557 bro AS me 13.9K | … |
+| 5 | 0:07 | on screen: related content Search a 1.5 years later … bro me 13.9K Add comment.. | … |
+| 6 | 0:09 | on screen: Customize Your Car a | … |
+| 7 | 0:10 | on screen: SAG we shes … 19 2,217 aS … Message 21 05 … Speed Tracker on | … |
 | 8 | 0:12 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake

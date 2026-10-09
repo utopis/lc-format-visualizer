@@ -1,0 +1,120 @@
+{
+ "id": "F42",
+ "slug": "42-ai-object-head-micro-drama",
+ "name": "AI object-head micro-drama (talking-fruit-style soap opera)",
+ "type": "organic",
+ "platforms": "[TikTok, Reels, YouTube Shorts]",
+ "cost_per_asset": "$50-200 per episode (AI)",
+ "time_per_asset": "3-6 h",
+ "length": "60-120s episodes, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-5s",
+   "visual": "Object-head characters (fruit/gem heads on human bodies) mid-drama",
+   "audio_text": "\"You gave HER the necklace?\""
+  },
+  {
+   "slot": "5-60s",
+   "visual": "Soap plot: love, betrayal, twist",
+   "audio_text": "Dialogue with lip-sync"
+  },
+  {
+   "slot": "60-90s",
+   "visual": "Cliffhanger",
+   "audio_text": "\"Part 2\""
+  },
+  {
+   "slot": "Placement",
+   "visual": "Product is a prop worn by a character",
+   "audio_text": "One mention max"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Midjourney",
+   "prompt": "hyperreal 3D character, a man with a broccoli head wearing a navy suit in a barbershop, cinematic soft light, Pixar realism --ar 9:16"
+  },
+  {
+   "tool": "Veo 3 / Kling",
+   "prompt": "the broccoli-head man [ref] arguing with a tomato-head woman in an office, dramatic, lip-sync \"[line]\", 8s"
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/seergioo_gil/status/2089472288001347867",
+   "author": "seergioo_gil",
+   "note": "Talking-fruit micro-drama: a broccoli-head character and a tomato-head businessman in suits in a barbershop or office, then an apple and an eggplant character. It is a 1-minute soap plot acted out by food characters.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/bmx_ai13/status/2103701345563812177",
+   "author": "bmx_ai13",
+   "note": "AI micro-drama production skill (script → storyboard → consistent characters) — tool promo.",
+   "local": "example/more/2103701345563812177.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/CodewizzyX/status/2096695495590568092",
+   "author": "CodewizzyX",
+   "note": "THESE VIRAL \"FRUIT DRAMA\" AI VIDEOS AREN'T RANDOM - THERE'S AN ACTUAL FORMULA AND IT'S FREE TO COPY No camera, no writers room, no editing. Absurd fru",
+   "local": "example/more/2096695495590568092.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/SmartEye_ADSpy/status/2082748308293071171",
+   "author": "SmartEye_ADSpy",
+   "note": "🔥July 30 Global Micro Dramas & AI Micro Dramas: Multiple NetShort Horror Campus AI Dramas Secure Chart Rankings; Fruit-Themed AI Micro Drama Jumps to ",
+   "local": "example/more/2082748308293071171.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/SmartEye_ADSpy/status/2087111287184728470",
+   "author": "SmartEye_ADSpy",
+   "note": "Top 3 Claim Over 40% of Global Market Revenue; Breakout AI Micro Drama App VibeShort Cracks the Chart Market Revenue Is Highly Concentrated: In H1 202",
+   "local": "example/more/2087111287184728470.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/SmartEye_ADSpy/status/2087810501686481034",
+   "author": "SmartEye_ADSpy",
+   "note": "Top 3 Contribute Over 40% of Market Revenue | Maiya's NetShort Cracks the Top 3 In H1 2026, the Top 20 Chinese micro drama apps in global markets gene",
+   "local": "example/more/2087810501686481034.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Resilia · Blood Sugar Wellness: “I'm exhausted. It's been getting knocked on all day, every day, for 30…”",
+   "days": 1,
+   "image": "adlibrary/w6_1135598845663584.jpg",
+   "what": "Opens: “I'm exhausted. It's been getting knocked on all day, every day, for 30 years.”",
+   "how": "Turn the mechanism into characters (a door, a doorman, a delivery guy) and voice their complaint. The product is the help that arrives. Generate it with clay-style AI video."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F42-<concept>-<variant>`; tracking tag `utm_content=F42-<concept>-<variant>`.",
+  "Avoid: Serial formats need consistent characters; save reference images.",
+  "Avoid: This builds an organic page; it is not a direct-response ad."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

@@ -2,6 +2,74 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 static 1080x1350 per variant (4 variants)), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@FedotOff90](https://x.com/FedotOff90/status/2096964245485449453) · A product callout static: the headline "See Clearly. Drive Safely. Instantly." over the ClearVision box, four benefit callouts with icons (Instant Clarity, Anti-Fog Protection, Water Repellent, Long-Lasting Effect) and a review bar ("4.8/5.0 based on 10,000+ reviews").
+
+### Live paid ads in this format (7 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Libby Babet: Women's-body myth-bust talking head (fitness coach)** (305 days live): Libby Babet (coach/founder) talking head at home: hook text 'This is why fasted workouts backfire for women' → explains cortisol/muscle → 'for my pro babes' → shows the empty wrapper of the collagen bar she ate this morning → 'go train strong, my ladies'. Burn
+- **Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop')** (258 days live): Close-up of a scoop over the jar, black pill headline 'THIS CLEARED MY STUCK POOP' and 3 small callout labels pointing at the product (perfect poops / high-quality psyllium husk / tastes great).
+- **Wellness Way UK: "Regain your confidence, without pills" device static (Wellness Way UK)** (252 days live): A hand holds a black device: "REGAIN YOUR CONFIDENCE, WITHOUT PILLS", "Harder, stronger erections in just 10 minutes", "50% OFF today" badge.
+- **Aurivita Cayenne: "WARNING: Fake websites!" brand notice static (Aurivita)** (197 days live): A red "WARNING Fake websites!" banner with screenshots stamped "FAKE": "We are the original brand, and we don't sell on Amazon… if you see ads offering Auri Cayenne Pepper in huge discounts, do not place an order."
+- **Smooche · Smooche: “DON'T TRY THIS COLOR CHANGING FOUNDATION UNLESS YOU WANT TO”** (10 days live): "DON'T TRY THIS COLOR CHANGING FOUNDATION UNLESS YOU WANT TO…" with a 3-tick list (look 10 years younger…).
+- **Resilia · Vascular Wellness Report: “STOP THE LEAK. SUPPORT BLOOD FLOW”** (1 days live): "STOP THE LEAK. SUPPORT BLOOD FLOW." with a garlic pouch.
+
+**Do not copy (seen in these live ads):** The "you're hosting parasites" style of reframe makes an unsupported health claim.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| "3 signs" variant | Numbered list beside a close-up of a cheap chain | "3 signs your necklace is about to turn green: 1. It's light 2. It says 'gold tone' 3. It cost $9" |
+| Myth vs fact | Two-column card, red X / gold tick | Myth: "You can't shower in gold jewellery." Fact: "You can in 14K PVD." |
+| "Don't buy this" | Product photo with a sticker | "Don't buy this if you like taking your jewellery off." |
+| Warning | Yellow warning bar at the top | "Warning: may cause you to never take it off." |
+| Corner | Logo + offer | "Any 7 for $85" |
+
+### Prompts
+
+**Figma**
+
+```
+Template: headline 88px, list items 44px with gold number badges, product photo 50% width on the right; export 1080x1350.
+```
+
+**Claude**
+
+```
+Write 10 "3 signs" lists and 10 myth/fact pairs for [category], each true and checkable.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F34-<concept>-<variant>`; tracking tag `utm_content=F34-<concept>-<variant>`.
+- [ ] Avoid: Every "sign" and "fact" must be true.
+- [ ] Avoid: Don't attack a named competitor.
+- [ ] Avoid: The warning variant must be clearly playful, not a real warning.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

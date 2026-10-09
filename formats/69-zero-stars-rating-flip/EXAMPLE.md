@@ -16,7 +16,7 @@ A 1-star rating flip static for an aluminium phone case (Arc Pulse): one star, t
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | KW It's ridiculous, it basically doesn't cover the phone at all. Yep, thats the point. Protection where you need it, and nothing where you don't. Aerospace-grade aluminum, machine fitted to your phone for a case that protects, without covering up. Feel your phone, Arc Pulse |
+| 1 | It's ridiculous, it basically doesn't cover the phone at all. Yep, thats the point. Protection where you need it, and nothing where you don't. Aerospace-grade aluminum, machine fitted to your phone for a case that protects, without covering up. Feel your phone, Arc Pulse |
 
 ## More real examples (3)
 

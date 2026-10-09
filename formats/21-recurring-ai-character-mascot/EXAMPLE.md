@@ -19,11 +19,11 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
 | 1 | 0:00–0:01 | · | · |
-| 2 | 0:01–0:03 | a Ww Fi ta a ae SL ea oa | · |
-| 3 | 0:03–0:05 | I Al ee m2: Bp ef le Se a ON | · |
+| 2 | 0:01–0:03 | · | · |
+| 3 | 0:03–0:05 | · | · |
 | 4 | 0:05–0:06 | · | This is my third dinner. Don't judge me |
-| 5 | 0:06–0:08 | te Al cane in et ae ee By #4 | · |
-| 6 | 0:08–0:10 | ty av Al INFLUENCE a ay Ne a Me ow SS | · |
+| 5 | 0:06–0:08 | · | · |
+| 6 | 0:08–0:10 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -53,7 +53,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
 | 1 | 0:00 | (visual beat, see frame 1) | … |
-| 2 | 0:02 | on screen: a Ww Fi ta a ae SL ea oa | … |
+| 2 | 0:02 | (visual beat, see frame 2) | … |
 | 3 | 0:04 | This is my third dinner. Don't judge me | … |
 | 4 | 0:05 | This is my third dinner. Don't judge me | … |
 | 5 | 0:07 | This is my third dinner. Don't judge me | … |

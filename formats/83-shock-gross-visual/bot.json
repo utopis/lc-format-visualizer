@@ -1,0 +1,125 @@
+{
+ "id": "F83",
+ "slug": "83-shock-gross-visual",
+ "name": "Shock & gross visual (the problem in close-up)",
+ "type": "paid",
+ "platforms": "[Meta, TikTok]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "20 min",
+ "length": "Static 1080x1350, or a 10-15s video",
+ "shots": [
+  {
+   "slot": "0-2s (or main image)",
+   "visual": "Harsh macro of the problem: a green ring mark on a finger, a flaking chain on a neck. Shot with side light so the texture shows",
+   "audio_text": "Text: \"This is what $20 'gold' does.\""
+  },
+  {
+   "slot": "2-5s",
+   "visual": "Same finger, now wearing the PVD ring, clean skin, natural light",
+   "audio_text": "\"This is 6 months of showers in Louise Carter.\""
+  },
+  {
+   "slot": "5-9s",
+   "visual": "Quick proof: ring under the tap, then wiped dry, still bright",
+   "audio_text": "\"14K PVD. Doesn't turn green.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer card",
+   "audio_text": "\"Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Shoot",
+   "prompt": "Macro lens or iPhone macro mode, a single hard side light for the \"before\" (texture), soft window light for the \"after\". Same hand, same angle, same framing."
+  },
+  {
+   "tool": "Sourcing the problem shot",
+   "prompt": "Use a real photo from a team member or customer (with permission); never fake the discolouration with makeup or editing."
+  },
+  {
+   "tool": "Copy (Claude)",
+   "prompt": "Write 10 one-line captions that name the problem bluntly without insulting the viewer, max 8 words each."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/FedotOff90/status/2099967483071582480",
+   "author": "FedotOff90",
+   "note": "A woman in a robe and headband doing a close-up demo of a gross-but-satisfying product, with captions, filmed in one take in her bathroom.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/jadorz/status/2100011962352513295",
+   "author": "jadorz",
+   "note": "tried $2 ring gimmick and it turned my finger green",
+   "local": "example/more/2100011962352513295.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Nerdspringbreak/status/1919742776255635591",
+   "author": "Nerdspringbreak",
+   "note": "Worst birthday is when my boyfriend bought me ring that turned my finger green and a man's size trench coat from Rt 18 flea market. I still miss the U",
+   "local": "example/more/1919742776255635591.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/huntingbygones/status/1948169528703398314",
+   "author": "huntingbygones",
+   "note": "me at the doctor showing them how my cheap ring turned my finger green",
+   "local": "example/more/1948169528703398314.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/drebabys/status/1819923093139165232",
+   "author": "drebabys",
+   "note": "my TikTok ring turned my finger green….",
+   "local": "example/more/1819923093139165232.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Male Health Tips: Elder \"ancient remedy\" doctor (men's health, gut-blood-flow claim)",
+   "days": 222,
+   "image": "adlibrary/w4_157662996.jpg",
+   "what": "A grey-bearded man in a suit vest holds a dropper bottle; captions read \"Dr. Sebi exposed how to increase size QUICKLY\". Script: \"Most men don't realize… It all comes down to blood flow and what's happening in your gut… berberine and sodium alginate…\". 41 s, 222 days.",
+   "how": "An elder-authority avatar, an \"ancient remedy\" story, one mechanism. Avoid health claims you can't substantiate."
+  },
+  {
+   "title": "Resilia · Natural Defense Report: “This is what crawls out of you when you Carve a crawl in Time-o-o-o-one…”",
+   "image": "adlibrary/w6_1440073978004059.jpg",
+   "what": "Opens: “This is what crawls out of you when you Carve a crawl in Time-o-o-o-one for two weeks straight Day one you swallow two soft gels Nothing dramatic By evening a faint gurgling Something's waking up in…”",
+   "how": "Avoid it for LC. If you use a shock visual, it must be a true, documentable effect.",
+   "dnc": "Parasite \"crawls out of you\" claims are unsupported and misleading."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F83-<concept>-<variant>`; tracking tag `utm_content=F83-<concept>-<variant>`.",
+  "Avoid: Only show real problems; faked damage breaks ad rules and trust.",
+  "Avoid: Meta restricts \"shocking\" or body-focused imagery; keep it to jewellery and skin marks, never wounds.",
+  "Avoid: Don't shame the viewer (\"you're wearing junk\"); shame the cheap product."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

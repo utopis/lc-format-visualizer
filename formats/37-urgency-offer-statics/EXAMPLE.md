@@ -16,9 +16,9 @@ A product page shot as an offer static: a dog holding a treat bag, a countdown t
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | SUMMER SALE ve pp 59: 45 Rated 4.9 Excellent 100% Wholesome Treats for Happiness Delicious, al-natural dog treats made with real res peanut butter and banana, Perfect for training, rewarding, or just showing your pup some love. create ring my to United Time offer -Ends Happy Pup, a Single Pack $14.9 |
+| 1 | Rated 4.9 Excellent 100% Wholesome Treats for … Happiness Delicious, al-natural dog treats made with real res peanut butter and banana, Perfect for training, rewarding, or just showing your pup some love. … create ring my to … United Time offer -Ends … Happy Pup, a Single Pack $14.99 20 Treats $1008 |
 
-## More real examples (6)
+## More real examples (7)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -26,6 +26,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@johntech778](example/more/2102744531489751066.jpg)](https://x.com/johntech778/status/2102744531489751066)<br>**@johntech778** · image · 369 views<br>"6,200+ Bottles Sold This Month" is the most under-used line on any product page. Here's how I structured a Goli Ashwagandha buy box around it 10 conv | [![@usmanstrategist](example/more/2087306011849965645.jpg)](https://x.com/usmanstrategist/status/2087306011849965645)<br>**@usmanstrategist** · image · 299 views<br>Here's a breakdown of the three funnel stages and the best creative formats for each, so you can drive more purchases and scale your brand more profit | [![@kylaugccreator](example/more/2096744141031981406.jpg)](https://x.com/kylaugccreator/status/2096744141031981406)<br>**@kylaugccreator** · 0:37 video · 228 views<br>Here’s an ugc example I created for Bucketlisters Nashville app The goal was to showcase a limited-time 90s throwback bar while positioning Bucketlist |
 | [![@hey_ankita](example/more/2102704237805547557.jpg)](https://x.com/hey_ankita/status/2102704237805547557)<br>**@hey_ankita** · 0:15 video · 45K views<br>90% OFF Seedance 2.5 on Pippit AI, now only $1.5/month for a limited time. Pippit AI is giving creators access to the official, native Seedance 2.5 mo | [![@johntech778](example/more/2101658718647521629.jpg)](https://x.com/johntech778/status/2101658718647521629)<br>**@johntech778** · image · 368 views<br>Buy 1 Get 1 Free" is the most under-used conversion lever in supplement DTC. Here's how I structured a product page around it. 8 conversion decisions | [![@jackolivieri_](example/more/2097798592010547583.jpg)](https://x.com/jackolivieri_/status/2097798592010547583)<br>**@jackolivieri_** · images · 117 views<br>Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share). |
+| [![@aditiasiswara](example/more/2105304476890648987.jpg)](https://x.com/aditiasiswara/status/2105304476890648987)<br>**@aditiasiswara** · 1:18 video · 135 views<br>Get the official, native Seedance 2.5 for as low as $1.50 for your first month with a Limited-Time 90% OFF offer! Seedance 2.5 at 720P starts at just |   |   |
 
 ## How to make one like it
 

@@ -19,11 +19,11 @@ The storyboard above samples the video every 0:00. Lines are the transcript for 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
 | 1 | 0:00–0:00 | · | · |
-| 2 | 0:00–0:01 | Ye IT a GB 3.0 | · |
+| 2 | 0:00–0:01 | · | · |
 | 3 | 0:01–0:02 | · | · |
-| 4 | 0:02–0:03 | ly Hi 2, Biking! 30 | · |
+| 4 | 0:02–0:03 | 2, Biking! 30 | · |
 | 5 | 0:03–0:04 | · | · |
-| 6 | 0:04–0:05 | ly ee Se iD RR | · |
+| 6 | 0:04–0:05 | · | · |
 
 ## More real examples (6)
 
@@ -49,11 +49,11 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
 | 1 | 0:00 | (visual beat, see frame 1) | … |
-| 2 | 0:01 | on screen: Ye IT a GB 3.0 | … |
+| 2 | 0:01 | (visual beat, see frame 2) | … |
 | 3 | 0:02 | (visual beat, see frame 3) | … |
-| 4 | 0:03 | on screen: ly Hi 2, Biking! 30 | … |
+| 4 | 0:03 | on screen: 2, Biking! 30 | … |
 | 5 | 0:03 | (visual beat, see frame 5) | … |
-| 6 | 0:04 | on screen: ly ee Se iD RR | … |
+| 6 | 0:04 | (visual beat, see frame 6) | … |
 
 ### 2. Shot-by-shot remake
 

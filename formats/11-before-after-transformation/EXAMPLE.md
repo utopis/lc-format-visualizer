@@ -17,15 +17,16 @@ Two images: a mirror-selfie before/after side by side with a caption, and a whit
 | Image | Text on it (OCR, rough) |
 |---|---|
 | 1 | (mostly visual) |
-| 2 | es ae, owl oS Hi COLLAGEN COLLAGEN skin, hair, fuller, nails glowing Lose the Weight. Keep the Try it risk-free 90 days. RN |
+| 2 | COLLAGEN COLLAGEN skin, hair, … fuller, nails glowing Lose the Weight. Keep the … Try it risk-free 90 days. |
 
-## More real examples (1)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@antonioventre_](example/more/2078512377616589256.jpg)](https://x.com/antonioventre_/status/2078512377616589256)<br>**@antonioventre_** · image · 5K views<br>Before/after photos are best native ad image: change creates curiosity; long copy tells story. |   |   |
+| [![@ZedNilm1](example/more/2027004587232657441.jpg)](https://x.com/ZedNilm1/status/2027004587232657441)<br>**@ZedNilm1** · 0:28 video · 3K views<br>$220k+ months don’t start with “design something creative” they start with proof people can understand in one second before → after same angle same li | [![@Design__Lord](example/more/2091625281077260728.jpg)](https://x.com/Design__Lord/status/2091625281077260728)<br>**@Design__Lord** · image · 273 views<br>A static ad concept for this hydration skincare product. Clean visuals, product-focused composition, and a premium before → after concept designed to | [![@nicktheriot_](example/more/2027206415253684227.jpg)](https://x.com/nicktheriot_/status/2027206415253684227)<br>**@nicktheriot_** · image · 2K views<br>This Brickell ad is a MASTERCLASS in removing every objection a guy has to trying skincare. And it’s, by far, one of the cleanest men's skincare stati |
+| [![@MatsMa68231](example/more/2099623924325658683.jpg)](https://x.com/MatsMa68231/status/2099623924325658683)<br>**@MatsMa68231** · image · 97 views<br>Before → After. this skincare static ad to grab attention, communicate the value faster, and make the product harder to ignore. Stop posting ads that | [![@gresswoodhao](example/more/2064597459846987997.jpg)](https://x.com/gresswoodhao/status/2064597459846987997)<br>**@gresswoodhao** · 0:19 video · 11 views<br>AI-made this UGC skincare ad in ~30 min — looks hand-shot, not AI. Real-person feel, before/after proof, ready to A/B test. Run paid social for a skin | [![@antonioventre_](example/more/2078512377616589256.jpg)](https://x.com/antonioventre_/status/2078512377616589256)<br>**@antonioventre_** · image · 5K views<br>Before/after photos are best native ad image: change creates curiosity; long copy tells story. |
 
 ## How to make one like it
 

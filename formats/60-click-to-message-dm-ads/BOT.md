@@ -2,6 +2,57 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Ad 1080x1350/1080x1920 + DM flow), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@aura_alloy](https://x.com/aura_alloy/status/1982632501110812979) · A small jewellery seller's post: a 30-second clip of a moissanite pendant necklace turning slowly on a black velvet display card, with three more clips of other pieces. The whole sales path is in the caption: what comes in the box, the price, and "to place an order, send us a DM or message us on WhatsApp". It shows the selling-in-DMs behaviour that click-to-message ads are built for; it is an orga
+- Example: [@tajaccesories](https://x.com/tajaccesories/status/1726896564520845767) · The “Cupid” love necklace Price: N5,500 Please send us a DM to order Jewelry in Lagos. Delivery available Nationwide @HafeezAkanni_
+- Example: [@3sixfivepro](https://x.com/3sixfivepro/status/1968749907600105843) · Click-to-message ads on @WhatsApp are a simple way to move people from scrolling to starting a conversation. ✅ Instead of sending them to a landing pa
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Creative | Product + concrete promise | "Send us who it's for + budget, we'll build her stack in 2 minutes" |
+| CTA | Send message button | - |
+| DM flow | Auto-greeting with 3 quick replies (gift / for me / help me choose) | Then a human or a bot recommends 3 pieces |
+| Close | Checkout link in the chat | - |
+
+### Prompts
+
+**Meta setup**
+
+```
+Objective: Engagement or Sales with "Message destination" (Messenger + IG + WhatsApp). Greeting template with quick replies; route to a person within 5 minutes during business hours.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F60-<concept>-<variant>`; tracking tag `utm_content=F60-<concept>-<variant>`.
+- [ ] Avoid: A slow reply kills it; staff it or use a bot with a handoff.
+- [ ] Avoid: No clean public example; visual is a mock.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

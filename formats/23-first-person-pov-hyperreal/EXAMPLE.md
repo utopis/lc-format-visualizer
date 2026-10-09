@@ -18,9 +18,9 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | in pos ye oy ww poe. ae | · |
-| 2 | 0:01–0:03 | Be a my Ve wo a Eq im a pa | · |
-| 3 | 0:03–0:05 | a5 wes Rae ie 33 | · |
+| 1 | 0:00–0:01 | · | · |
+| 2 | 0:01–0:03 | Be a my | · |
+| 3 | 0:03–0:05 | · | · |
 | 4 | 0:05–0:06 | · | · |
 | 5 | 0:06–0:08 | · | · |
 | 6 | 0:08–0:10 | · | · |
@@ -45,9 +45,9 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:00 | on screen: in pos ye oy ww poe. ae | … |
-| 2 | 0:02 | on screen: Be a my Ve wo a Eq im a pa | … |
-| 3 | 0:04 | on screen: a5 wes Rae ie 33 | … |
+| 1 | 0:00 | (visual beat, see frame 1) | … |
+| 2 | 0:02 | on screen: Be a my | … |
+| 3 | 0:04 | (visual beat, see frame 3) | … |
 | 4 | 0:05 | (visual beat, see frame 4) | … |
 | 5 | 0:07 | (visual beat, see frame 5) | … |
 | 6 | 0:09 | (visual beat, see frame 6) | … |

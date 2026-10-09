@@ -1,5 +1,66 @@
 # Meta ad-library examples for F11
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Resilia · Gut Health Insider: “Bye-bye bloat belly” (0 days live)
+
+![Resilia 1147742937783185](w6_1147742937783185.jpg)
+
+- **Ad:** [Meta Ad Library #1147742937783185](https://www.facebook.com/ads/library/?id=1147742937783185) · static image · page “Gut Health Insider” · started 2026-10-08 · 1 copies · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** "Bye-bye bloat belly": August / September / October line-drawn waists and the pouch.
+- **Why it works:** Mirror-selfie before/after shots and "Bye-bye bloat belly" Aug→Sep→Oct line drawings show the change at a glance.
+- **How to make one:** Use the same pose and angle, dates on screen, and the product between the frames.
+- **Do not copy:** Weight-loss before/afters are restricted on Meta and these imply unsupported results.
+- **LC remake:** Day 1 vs day 180 of the same LC necklace after daily showers (the same light and angle).
+
+<details><summary>Primary text</summary>
+
+> Resilia is powered by oil of oregano and cold-pressed black seed oil — two of nature's most time-tested botanicals. Our easy-to-swallow softgels feature premium oil of oregano with naturally occurring carvacrol and black seed oil with thymoquinone. Clean, no-BS ingredients, third-party tested, and shipped right from the USA to deliver daily support for a healthy gut, a healthy inflammatory response, and your body's natural defenses. Just two softgels a day, no powders or routines to remember.
+
+</details>
+
+### Resilia · Resilia: Mirror-selfie before/after in gym wear (1 day live)
+
+![Resilia 1075537335107750](w6_1075537335107750.jpg)
+
+- **Ad:** [Meta Ad Library #1075537335107750](https://www.facebook.com/ads/library/?id=1075537335107750) · static image · page “Resilia” · started 2026-10-07 · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** Mirror-selfie before/after in gym wear, with the pouch in the corner.
+- **Why it works:** Mirror-selfie before/after shots and "Bye-bye bloat belly" Aug→Sep→Oct line drawings show the change at a glance.
+- **How to make one:** Use the same pose and angle, dates on screen, and the product between the frames.
+- **Do not copy:** Weight-loss before/afters are restricted on Meta and these imply unsupported results.
+- **LC remake:** Day 1 vs day 180 of the same LC necklace after daily showers (the same light and angle).
+
+<details><summary>Primary text</summary>
+
+> Resilia is powered by oil of oregano and cold-pressed black seed oil — two of nature's most time-tested botanicals. Our easy-to-swallow softgels feature premium oil of oregano with naturally occurring carvacrol and black seed oil with thymoquinone. Clean, no-BS ingredients, third-party tested, and shipped right from the USA to deliver daily support for a healthy gut, a healthy inflammatory response, and your body's natural defenses. Just two softgels a day, no powders or routines to remember.
+
+</details>
+
+### Resilia · Resilia: “GIVE YOUR GUT SOME SUPPORT” (0 days live)
+
+![Resilia 943570188411919](w6_943570188411919.jpg)
+
+- **Ad:** [Meta Ad Library #943570188411919](https://www.facebook.com/ads/library/?id=943570188411919) · static image · page “Resilia” · started 2026-10-08 · 1 copies · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** "GIVE YOUR GUT SOME SUPPORT": before / 24 hours / 1 week / 4 weeks progression photos.
+- **Why it works:** Mirror-selfie before/after shots and "Bye-bye bloat belly" Aug→Sep→Oct line drawings show the change at a glance.
+- **How to make one:** Use the same pose and angle, dates on screen, and the product between the frames.
+- **Do not copy:** Weight-loss before/afters are restricted on Meta and these imply unsupported results.
+- **LC remake:** Day 1 vs day 180 of the same LC necklace after daily showers (the same light and angle).
+
+<details><summary>Primary text</summary>
+
+> Introducing Resilia Oil of Oregano — premium dual-action softgels that support your body's natural drainage and everyday vitality. 💧 Supports natural cleansing and healthy circulation 💧 Helps reduce puffiness and water retention 💧 Supports healthy fluid balance and lighter-feeling days 💧 Promotes clearer-looking skin and steady energy ✅ Dual-action blend of Oil of Oregano + Black Seed Oil ✅ 3rd-party tested in the USA, Non-GMO, no aftertaste ✨ No messy liquids — just two easy softgels each morning 🌿 Inspired by tradition, made for modern life ❤️‍🩹 Two softgels a day to help you feel light and vibrant again. Tap Shop Now to reclaim your flow with Resilia Oil of Oregano! 🌿 Don’t Just Mask It: Help your body fix the source. Support your natural drainage with the power of Resilia.
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 <!-- WAVE4 -->
 ## Wave 4: Alex Fedotoff's October 2026 swipe boards (GetHookd public previews)
 

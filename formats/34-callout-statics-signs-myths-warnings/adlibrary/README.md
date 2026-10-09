@@ -1,5 +1,66 @@
 # Meta ad-library examples for F34 (GetHookd board 155932, gut health)
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Smooche · Smooche: “DON'T TRY THIS COLOR CHANGING FOUNDATION UNLESS YOU WANT TO” (10 days live)
+
+![Smooche 2280843229404833](w6_2280843229404833.jpg)
+
+- **Ad:** [Meta Ad Library #2280843229404833](https://www.facebook.com/ads/library/?id=2280843229404833) · static image · page “Smooche” · started 2026-09-28 · lands on `smooche.com/products/ccf2`
+- **What happens:** "DON'T TRY THIS COLOR CHANGING FOUNDATION UNLESS YOU WANT TO…" with a 3-tick list (look 10 years younger…).
+- **Why it works:** Call-out statics: "Don't try this color changing foundation unless you want to… look 10 years younger" (reverse psychology), "You're not fat. You're hosting parasites." (a reframe), "Stop the leak."
+- **How to make one:** Use a negative or reframe headline, a 3-tick list, and the product. Write 6 variants.
+- **Do not copy:** The "you're hosting parasites" style of reframe makes an unsupported health claim.
+- **LC remake:** "Don't buy this necklace… unless you want to stop taking it off."
+
+<details><summary>Primary text</summary>
+
+> You've been thinking about it. Now everyone else is buying it. Our viral color-matching foundation is down to the last few hundred bottles and your shade won't last the day. We can't make them fast enough - production is 3 weeks behind demand. If you miss this drop, you're looking at a 6-week waitlist minimum. One bottle adapts to YOUR exact skin tone. No more guessing. No more orange jawlines. Click before it's too late.
+
+</details>
+
+### Resilia · Gut Health Insider: “YOU'RE NOT FAT. YOU'RE HOSTING PARASITES” (0 days live)
+
+![Resilia 1013660571110874](w6_1013660571110874.jpg)
+
+- **Ad:** [Meta Ad Library #1013660571110874](https://www.facebook.com/ads/library/?id=1013660571110874) · static image · page “Gut Health Insider” · started 2026-10-08 · 1 copies · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** "YOU'RE NOT FAT. YOU'RE HOSTING PARASITES." with a 3D clay woman and the pouch.
+- **Why it works:** Call-out statics: "Don't try this color changing foundation unless you want to… look 10 years younger" (reverse psychology), "You're not fat. You're hosting parasites." (a reframe), "Stop the leak."
+- **How to make one:** Use a negative or reframe headline, a 3-tick list, and the product. Write 6 variants.
+- **Do not copy:** The "you're hosting parasites" style of reframe makes an unsupported health claim.
+- **LC remake:** "Don't buy this necklace… unless you want to stop taking it off."
+
+<details><summary>Primary text</summary>
+
+> Introducing Resilia Oil of Oregano — premium dual-action softgels that support your body's natural drainage and everyday vitality. 💧 Supports natural cleansing and healthy circulation 💧 Helps reduce puffiness and water retention 💧 Supports healthy fluid balance and lighter-feeling days 💧 Promotes clearer-looking skin and steady energy ✅ Dual-action blend of Oil of Oregano + Black Seed Oil ✅ 3rd-party tested in the USA, Non-GMO, no aftertaste ✨ No messy liquids — just two easy softgels each morning 🌿 Inspired by tradition, made for modern life ❤️‍🩹 Two softgels a day to help you feel light and vibrant again. Tap Shop Now to reclaim your flow with Resilia Oil of Oregano! 🌿 Don’t Just Mask It: Help your body fix the source. Support your natural drainage with the power of Resilia.
+
+</details>
+
+### Resilia · Vascular Wellness Report: “STOP THE LEAK. SUPPORT BLOOD FLOW” (1 day live)
+
+![Resilia 1672417714354897](w6_1672417714354897.jpg)
+
+- **Ad:** [Meta Ad Library #1672417714354897](https://www.facebook.com/ads/library/?id=1672417714354897) · static image · page “Vascular Wellness Report” · started 2026-10-07 · lands on `resilia.shop/products/resilia-aged-odorless-garlic`
+- **What happens:** "STOP THE LEAK. SUPPORT BLOOD FLOW." with a garlic pouch.
+- **Why it works:** Call-out statics: "Don't try this color changing foundation unless you want to… look 10 years younger" (reverse psychology), "You're not fat. You're hosting parasites." (a reframe), "Stop the leak."
+- **How to make one:** Use a negative or reframe headline, a 3-tick list, and the product. Write 6 variants.
+- **Do not copy:** The "you're hosting parasites" style of reframe makes an unsupported health claim.
+- **LC remake:** "Don't buy this necklace… unless you want to stop taking it off."
+
+<details><summary>Primary text</summary>
+
+> Looking to Take Control of Your Heart Health Naturally?❤️ Experience the Power of Resilia Aged Garlic Extract! ✅: Supports cardiovascular health naturally ✅: Completely odorless formula ✅: Supports arterial health ✅: 20-month aging process ✅: 900+ clinical studies ✅: SAC-standardized aged garlic extract ✅: Plus CoQ10 Ubiquinol & Vitamin K2 MK-7 Transform your cardiovascular health with three clinically studied ingredients backed by modern science — 30-Day Risk-Free Guarantee.
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public board preview. Days live are as of 2026-10-09. Full board breakdown is in the internal sources folder.
 
 ## Libby Babet: Women's-body myth-bust talking head (fitness coach) (305 days live)

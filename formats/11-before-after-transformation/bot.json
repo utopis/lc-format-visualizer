@@ -1,0 +1,153 @@
+{
+ "id": "F11",
+ "slug": "11-before-after-transformation",
+ "name": "Before → After (static + video), incl. \"Me before / me after\" and Polaroid proof",
+ "type": "paid + organic",
+ "platforms": "[Meta, TikTok, Pinterest]",
+ "cost_per_asset": "$0-50",
+ "time_per_asset": "",
+ "length": "Static 1080x1350 split, or 2 slides, or 8-15s jump-cut video",
+ "shots": [
+  {
+   "slot": "Before (left / slide 1 / 0-3s)",
+   "visual": "The problem state shot in harsh, honest light: green ring mark, tarnished chain, broken clasp",
+   "audio_text": "Label: \"Before: 3 weeks of gold-plated\" (date or condition)"
+  },
+  {
+   "slot": "After (right / slide 2 / 3-8s)",
+   "visual": "Same angle, same framing, the product after the same use",
+   "audio_text": "Label: \"After: 6 months of [product], showered daily\""
+  },
+  {
+   "slot": "Video transition",
+   "visual": "Jump cut on a hand clap / swipe",
+   "audio_text": "Caption carries the time gap"
+  },
+  {
+   "slot": "End",
+   "visual": "Product close-up",
+   "audio_text": "Offer"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Shoot spec",
+   "prompt": "Tripod, same lens and distance for both shots, same daylight. Mark the spot on the table with tape. Shoot RAW, no beauty filter on the \"after\"."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/tryatria_AI/status/2092961578974896447",
+   "author": "tryatria_AI",
+   "note": "Two images: a mirror-selfie before/after side by side with a caption, and a whiteboard diagram (\"lose the weight, keep the glow\") with a hand holding the pink product tub.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ZedNilm1/status/2027004587232657441",
+   "author": "ZedNilm1",
+   "note": "$220k+ months don’t start with “design something creative” they start with proof people can understand in one second before → after same angle same li",
+   "local": "example/more/2027004587232657441.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Design__Lord/status/2091625281077260728",
+   "author": "Design__Lord",
+   "note": "A static ad concept for this hydration skincare product. Clean visuals, product-focused composition, and a premium before → after concept designed to ",
+   "local": "example/more/2091625281077260728.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/nicktheriot_/status/2027206415253684227",
+   "author": "nicktheriot_",
+   "note": "This Brickell ad is a MASTERCLASS in removing every objection a guy has to trying skincare. And it’s, by far, one of the cleanest men's skincare stati",
+   "local": "example/more/2027206415253684227.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/MatsMa68231/status/2099623924325658683",
+   "author": "MatsMa68231",
+   "note": "Before → After. this skincare static ad to grab attention, communicate the value faster, and make the product harder to ignore. Stop posting ads that ",
+   "local": "example/more/2099623924325658683.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/gresswoodhao/status/2064597459846987997",
+   "author": "gresswoodhao",
+   "note": "AI-made this UGC skincare ad in ~30 min — looks hand-shot, not AI. Real-person feel, before/after proof, ready to A/B test. Run paid social for a skin",
+   "local": "example/more/2064597459846987997.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2078512377616589256",
+   "author": "antonioventre_",
+   "note": "Before/after photos are best native ad image: change creates curiosity; long copy tells story.",
+   "local": "example/more/2078512377616589256.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Muscle Mat: \"I transform your bed today\" demo (Muscle Mat)",
+   "days": 819,
+   "image": "adlibrary/w4_90837140.jpg",
+   "what": "A man sits on a hard bed, rolls out the topper, sits again and smiles; end card \"SALE ON NOW · swipe up to save\". 27 s.",
+   "how": "Same spot, before (discomfort), the product goes on, after (relief); end card offer."
+  },
+  {
+   "title": "Deborah Hayes: \"Spa treatments for belly fat don't work\" two-layer explainer",
+   "days": 286,
+   "image": "adlibrary/w4_84007809.jpg",
+   "what": "\"Spa treatments for belly fat don't work. And there's a scientific reason why… I did six spa sessions… $1,200… Your belly fat has two types of fat… these only work on surface fat.\" UGC plus a medical-paper insert plus CGI. 126 s.",
+   "how": "List what they tried with money spent, then a 2-layer mechanism, then the product reaches layer 2."
+  },
+  {
+   "title": "Resilia · Resilia: Mirror-selfie before/after in gym wear",
+   "days": 1,
+   "image": "adlibrary/w6_1075537335107750.jpg",
+   "what": "Mirror-selfie before/after in gym wear, with the pouch in the corner.",
+   "how": "Use the same pose and angle, dates on screen, and the product between the frames.",
+   "dnc": "Weight-loss before/afters are restricted on Meta and these imply unsupported results."
+  },
+  {
+   "title": "Resilia · Gut Health Insider: “Bye-bye bloat belly”",
+   "image": "adlibrary/w6_1147742937783185.jpg",
+   "what": "\"Bye-bye bloat belly\": August / September / October line-drawn waists and the pouch.",
+   "how": "Use the same pose and angle, dates on screen, and the product between the frames.",
+   "dnc": "Weight-loss before/afters are restricted on Meta and these imply unsupported results."
+  },
+  {
+   "title": "Resilia · Resilia: “GIVE YOUR GUT SOME SUPPORT”",
+   "image": "adlibrary/w6_943570188411919.jpg",
+   "what": "\"GIVE YOUR GUT SOME SUPPORT\": before / 24 hours / 1 week / 4 weeks progression photos.",
+   "how": "Use the same pose and angle, dates on screen, and the product between the frames.",
+   "dnc": "Weight-loss before/afters are restricted on Meta and these imply unsupported results."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F11-<concept>-<variant>`; tracking tag `utm_content=F11-<concept>-<variant>`.",
+  "Avoid: Before/after must be real and of the same item/person; staged results are deceptive and get ads rejected.",
+  "Avoid: Meta restricts before/after for health and weight claims; keep it about the product's condition, not body changes.",
+  "Avoid: Different lighting between the two halves makes people assume a trick."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

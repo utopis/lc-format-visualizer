@@ -2,6 +2,58 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 15-30s, 1080x1920, left/right split), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@Charconsults](https://x.com/Charconsults/status/2081629763882430905) · Fast UGC cuts for an herb-keeper product: wilted herbs ("HERBS SAY GOODBYE"), the creator smiling with the product, adding water, fresh mint and rosemary in the tubes ("THAT FITS PERFECTLY"), a finished salad and "STOP WASTING HERBS". The before and after sit next to each other.
+- Example: [@creativesbycare](https://x.com/creativesbycare/status/2099292610175361351) · If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 1/4) ⭐️ READING REVIEWS ⭐️ Social pro
+- Example: [@DailyYTNiches](https://x.com/DailyYTNiches/status/2096979805346673029) · This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format
+- Example: [@YouTubeAut3538](https://x.com/YouTubeAut3538/status/2097064734474256890) · This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split 
+- Example: [@ytaeliteacademy](https://x.com/ytaeliteacademy/status/2096998590971269290) · This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-2s | Split screen, same person twice, timestamps top ("7:00 AM") | Hook: "same girl, two jewelry boxes" |
+| 2-20s | Synced timelines: left takes jewelry off to shower/swim, loses an earring; right keeps it on | Time captions advance together (7:00 / 12:30 / 18:00) |
+| 20-30s | End: left frustrated, right getting compliments | Product + offer on the right side |
+
+### Prompts
+
+**Shoot**
+
+```
+Tripod, locked camera, shoot both versions with the same framing and light, edit side by side in CapCut (Layout > Split), 2px white divider.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F22-<concept>-<variant>`; tracking tag `utm_content=F22-<concept>-<variant>`.
+- [ ] Avoid: Unsynced timing between halves confuses viewers; keep the beats aligned.
+- [ ] Avoid: Do not exaggerate the "without" side into a false claim about other products.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

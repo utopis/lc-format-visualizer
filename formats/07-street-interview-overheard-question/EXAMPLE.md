@@ -20,11 +20,11 @@ The storyboard above samples the video every 0:13. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:13 | · | I already know what this call is gonna be about. Front desk, this is Sarah. Yeah, hi. We just checked out of room 217 this morning. My wife and I were in for a wedding. |
 | 2 | 0:13–0:26 | · | Quick question, what kind of mattress do you guys use? Because my wife has fibromyalgia. She hasn't slept through the night in years, and she slept, seven, eight hours straight, |
-| 3 | 0:26–0:40 | if aa ad 3. Vet a | · |
+| 3 | 0:26–0:40 | 3. Vet a | · |
 | 4 | 0:40–0:53 | WE STARTED, PUTTING | · |
-| 5 | 0:53–1:07 | hs a Ww ee Pt, ey’ Bh | I'm not the science person, I'm not the science person. My manager could explain it better. But basically your body builds up a positive charge |
+| 5 | 0:53–1:07 | · | I'm not the science person, I'm not the science person. My manager could explain it better. But basically your body builds up a positive charge |
 | 6 | 1:07–1:20 | · | · |
-| 7 | 1:20–1:34 | ro THE BRAND WE | and they have a 90-day return. So if your wife doesn't feel a difference, you just send it back. |
+| 7 | 1:20–1:34 | THE BRAND WE | and they have a 90-day return. So if your wife doesn't feel a difference, you just send it back. |
 | 8 | 1:34–1:47 | · | Sarah, I think you just saved me three grand. Half the calls I get now are about the sheets. I don't usually tell them. I'm ordering one tonight. Good, get some real sleep. |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -77,7 +77,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 |---|---|---|---|
 | 1 | 0:06 | I already know what this call is gonna be about. Front desk, this is Sarah. Yeah, hi. We just checked out of room 217 this morning. My wife | … |
 | 2 | 0:20 | Quick question, what kind of mattress do you guys use? Because my wife has fibromyalgia. She hasn't slept through the night in years, and sh | … |
-| 3 | 0:33 | on screen: if aa ad 3. Vet a | … |
+| 3 | 0:33 | on screen: 3. Vet a | … |
 | 4 | 0:47 | on screen: WE STARTED, PUTTING | … |
 | 5 | 1:00 | I'm not the science person, I'm not the science person. My manager could explain it better. But basically your body builds up a positive cha | … |
 | 6 | 1:14 | (visual beat, see frame 6) | … |

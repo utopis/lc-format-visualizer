@@ -1,0 +1,135 @@
+{
+ "id": "F34",
+ "slug": "34-callout-statics-signs-myths-warnings",
+ "name": "Call-out statics: '3 signs…', myth vs fact, 'don't buy this', warning",
+ "type": "paid",
+ "platforms": "[Meta, Pinterest, TikTok image]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "15-30 min",
+ "length": "1 static 1080x1350 per variant (4 variants)",
+ "shots": [
+  {
+   "slot": "\"3 signs\" variant",
+   "visual": "Numbered list beside a close-up of a cheap chain",
+   "audio_text": "\"3 signs your necklace is about to turn green: 1. It's light 2. It says 'gold tone' 3. It cost $9\""
+  },
+  {
+   "slot": "Myth vs fact",
+   "visual": "Two-column card, red X / gold tick",
+   "audio_text": "Myth: \"You can't shower in gold jewellery.\" Fact: \"You can in 14K PVD.\""
+  },
+  {
+   "slot": "\"Don't buy this\"",
+   "visual": "Product photo with a sticker",
+   "audio_text": "\"Don't buy this if you like taking your jewellery off.\""
+  },
+  {
+   "slot": "Warning",
+   "visual": "Yellow warning bar at the top",
+   "audio_text": "\"Warning: may cause you to never take it off.\""
+  },
+  {
+   "slot": "Corner",
+   "visual": "Logo + offer",
+   "audio_text": "\"Any 7 for $85\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Figma",
+   "prompt": "Template: headline 88px, list items 44px with gold number badges, product photo 50% width on the right; export 1080x1350."
+  },
+  {
+   "tool": "Claude",
+   "prompt": "Write 10 \"3 signs\" lists and 10 myth/fact pairs for [category], each true and checkable."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/FedotOff90/status/2096964245485449453",
+   "author": "FedotOff90",
+   "note": "A product callout static: the headline \"See Clearly. Drive Safely. Instantly.\" over the ClearVision box, four benefit callouts with icons (Instant Clarity, Anti-Fog Protection, Water Repellent, Long-Lasting Effect) and a review bar (\"4.8/5.0 based on 10,000+ reviews\").",
+   "local": "example/poster.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Libby Babet: Women's-body myth-bust talking head (fitness coach)",
+   "days": 305,
+   "image": "adlibrary/108040117.jpg",
+   "what": "Libby Babet (coach/founder) talking head at home: hook text 'This is why fasted workouts backfire for women' → explains cortisol/muscle → 'for my pro babes' → shows the empty wrapper of the collagen bar she ate this morning → 'go train strong, my ladies'. Burned-in yellow-highlight captions; three versions (different crops/backgrounds) in one DCO ad.",
+   "how": "Founder/coach to camera, 85-95 s, one take, captions with keyword highlights (CapCut 'highlight' style), 3 framings of the same take as DCO variants."
+  },
+  {
+   "title": "Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop')",
+   "days": 258,
+   "image": "adlibrary/101661844.jpg",
+   "what": "Close-up of a scoop over the jar, black pill headline 'THIS CLEARED MY STUCK POOP' and 3 small callout labels pointing at the product (perfect poops / high-quality psyllium husk / tastes great).",
+   "how": "One macro photo, Canva pill labels with thin leader lines; 1080x1350."
+  },
+  {
+   "title": "Wellness Way UK: \"Regain your confidence, without pills\" device static (Wellness Way UK)",
+   "days": 252,
+   "image": "adlibrary/w4_54683348.jpg",
+   "what": "A hand holds a black device: \"REGAIN YOUR CONFIDENCE, WITHOUT PILLS\", \"Harder, stronger erections in just 10 minutes\", \"50% OFF today\" badge.",
+   "how": "Product in hand, a \"[outcome], without [drug]\" headline, a time-bound result, a discount badge."
+  },
+  {
+   "title": "Aurivita Cayenne: \"WARNING: Fake websites!\" brand notice static (Aurivita)",
+   "days": 197,
+   "image": "adlibrary/w4_74138535.jpg",
+   "what": "A red \"WARNING Fake websites!\" banner with screenshots stamped \"FAKE\": \"We are the original brand, and we don't sell on Amazon… if you see ads offering Auri Cayenne Pepper in huge discounts, do not place an order.\"",
+   "how": "A red warning banner, screenshots stamped FAKE, an \"original brand\" claim."
+  },
+  {
+   "title": "Smooche · Smooche: “DON'T TRY THIS COLOR CHANGING FOUNDATION UNLESS YOU WANT TO”",
+   "days": 10,
+   "image": "adlibrary/w6_2280843229404833.jpg",
+   "what": "\"DON'T TRY THIS COLOR CHANGING FOUNDATION UNLESS YOU WANT TO…\" with a 3-tick list (look 10 years younger…).",
+   "how": "Use a negative or reframe headline, a 3-tick list, and the product. Write 6 variants.",
+   "dnc": "The \"you're hosting parasites\" style of reframe makes an unsupported health claim."
+  },
+  {
+   "title": "Resilia · Vascular Wellness Report: “STOP THE LEAK. SUPPORT BLOOD FLOW”",
+   "days": 1,
+   "image": "adlibrary/w6_1672417714354897.jpg",
+   "what": "\"STOP THE LEAK. SUPPORT BLOOD FLOW.\" with a garlic pouch.",
+   "how": "Use a negative or reframe headline, a 3-tick list, and the product. Write 6 variants.",
+   "dnc": "The \"you're hosting parasites\" style of reframe makes an unsupported health claim."
+  },
+  {
+   "title": "Resilia · Gut Health Insider: “YOU'RE NOT FAT. YOU'RE HOSTING PARASITES”",
+   "image": "adlibrary/w6_1013660571110874.jpg",
+   "what": "\"YOU'RE NOT FAT. YOU'RE HOSTING PARASITES.\" with a 3D clay woman and the pouch.",
+   "how": "Use a negative or reframe headline, a 3-tick list, and the product. Write 6 variants.",
+   "dnc": "The \"you're hosting parasites\" style of reframe makes an unsupported health claim."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F34-<concept>-<variant>`; tracking tag `utm_content=F34-<concept>-<variant>`.",
+  "Avoid: Every \"sign\" and \"fact\" must be true.",
+  "Avoid: Don't attack a named competitor.",
+  "Avoid: The warning variant must be clearly playful, not a real warning."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

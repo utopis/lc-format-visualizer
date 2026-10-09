@@ -27,6 +27,8 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
 > **LC priority P3** · evidence: Medium (one big brand, live ads) · hype risk: Low · cost $0-100 per static + rebate cost · 1-2 h
 
 ## What it is

@@ -18,12 +18,12 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | Rear ce cA. il honest.. is your, September period late? | · |
-| 2 | 0:01–0:03 | hi mm is your September period late?? | · |
+| 1 | 0:00–0:01 | honest.. is your, September period late? | · |
+| 2 | 0:01–0:03 | is your September period late?? | · |
 | 3 | 0:03–0:04 | Say Be honest.. is your, September period late?? | · |
-| 4 | 0:04–0:06 | a ou Period delayed phase Women's health fact they don’t teach you in school: If your period is fate, it’s actually your that’s late. Stress and poor sleep can  | · |
-| 5 | 0:06–0:07 | mf Period delayed phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually your that’s late. Stress and poor sleep can de | · |
-| 6 | 0:07–0:09 | a, Da Period delayed phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually your that’s late. Stress and poor sleep can | · |
+| 4 | 0:04–0:06 | phase Women's health fact they don’t teach you in school: If your period is fate, it’s actually your … that’s late. Stress and poor sleep can delay it. Continue | · |
+| 5 | 0:06–0:07 | phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually your … that’s late. Stress and poor sleep can delay it. Continue | · |
+| 6 | 0:07–0:09 | phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually your … that’s late. Stress and poor sleep can delay it. … Contin | · |
 
 ## More real examples (3)
 
@@ -47,12 +47,12 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:00 | on screen: Rear ce cA. il honest.. is your, September period late? | … |
-| 2 | 0:02 | on screen: hi mm is your September period late?? | … |
+| 1 | 0:00 | on screen: honest.. is your, September period late? | … |
+| 2 | 0:02 | on screen: is your September period late?? | … |
 | 3 | 0:03 | on screen: Say Be honest.. is your, September period late?? | … |
-| 4 | 0:05 | on screen: a ou Period delayed phase Women's health fact they don’t teach you in school: If your period is fate, it’s actually your | … |
-| 5 | 0:06 | on screen: mf Period delayed phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually your t | … |
-| 6 | 0:08 | on screen: a, Da Period delayed phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually you | … |
+| 4 | 0:05 | on screen: phase Women's health fact they don’t teach you in school: If your period is fate, it’s actually your … that’s late. Stre | … |
+| 5 | 0:06 | on screen: phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually your … that’s late. Stre | … |
+| 6 | 0:08 | on screen: phase Women’s health fact they don’t teach you in school: If your period is late, it’s actually your … that’s late. Stre | … |
 
 ### 2. Shot-by-shot remake
 

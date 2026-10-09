@@ -2,6 +2,66 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 static notice 1080x1350 (or a 10s founder video)), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@OmologatoUK](https://x.com/OmologatoUK/status/2099497006158725545) · A back-in-stock / nearly-sold-out post: a watch on an orange strap laid on an old racing newspaper (TIFOSI x CAN-AM), with copy saying it came back and "has already nearly sold out again — ONE LEFT".
+- Example: [@Djigida_Central](https://x.com/Djigida_Central/status/1639635729130176512) · Our stock gets sold-out so fast! We are sorry to have to tell you “sold out” that’s just the price we have to pay for being the best womens fashion st
+- Example: [@bikeshopwhse](https://x.com/bikeshopwhse/status/1582101101343830016) · The Motobecane Fantom 29 Advent is now back in stock! We are sorry they keep selling out... https://bikeshopwarehouse.com/cgi-bin/BSW_STOR20.cgi... #b
+- Example: [@ChichiChachaha](https://x.com/ChichiChachaha/status/2076303701426471059) · #Overdo sets a new pre-release advertising record. ~RMB 120M secured from ads &amp; sponsorships bef. its premiere date is even announced. 20+ brand p
+- Example: [@notdailyavatar](https://x.com/notdailyavatar/status/2080320968178692301) · Getting ads for the same brand as Johannes' boots... Are you mocking me? 😭😭 They're too expensive and also sold out https://t.co/6ZwGz09Zcq
+- Example: [@mikasafavx](https://x.com/mikasafavx/status/2077807501211267281) · SKIMS after lisa’s ad: 22% revenue growth in APAC skims x nike set sold out $1B net sales projected at the end of the year GAP after trasheye: 7% reve
+
+### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Smooche · Smooche: “We f*cked up”** (100 days live): "We f*cked up." A letter-style apology for over-ordering, with a warehouse photo of pink boxes and a "60% off" button. Served through a catalog-template slot.
+- **Resilia · Resilia: “We're so sorry!”** (1 days live): "We're so sorry!": a "we've been so busy packing 6,000kg of oregano oil…" apology with a "$39.99 with free gifts" button.
+- **Resilia · Midlife Wellness Journal: “OFFICIAL APOLOGY STATEMENT”**: "OFFICIAL APOLOGY STATEMENT": a black text-heavy notice about selling out.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Header | Plain notice layout, small logo, date | "We're sorry." |
+| Body | 3-4 short lines from the founder | "We didn't expect 3,000 of you to want the same paperclip chain. It sold out in 9 days. Again." |
+| Close | Restock date or waitlist | "Back on [date]. Join the waitlist so you don't miss it." |
+| Sign-off | Founder name | - |
+
+### Prompts
+
+**Copy (Claude)**
+
+```
+Write a genuine apology from the founder about [product] selling out, under 60 words, with the real reason it sold out and the real restock date.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F75-<concept>-<variant>`; tracking tag `utm_content=F75-<concept>-<variant>`.
+- [ ] Avoid: Only run it when the item really sold out; fake scarcity breaks consumer-protection rules.
+- [ ] Avoid: Give a real date; vague "soon" kills the urgency.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

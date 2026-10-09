@@ -2,6 +2,72 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 30-60s video or 1 static), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@deepbajwacreate](https://x.com/deepbajwacreate/status/2098014748570739055) · A creator holding a printed tier list (S/A/B/C/D) and ranking popular side hustles one card at a time, with captions, ending on the product he places at the top (an Ecom Degree signup page).
+- Example: [@adamtwtz](https://x.com/adamtwtz/status/2097925109155549689) · there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take 
+- Example: [@fuxps32](https://x.com/fuxps32/status/2067026390588039329) · 400,000 likes, 80,000 saves, 0 sales pitches A woman scrolls her feed and stops on a supplement tier list. S tier, A tier, B tier, ranked on screen. S
+- Example: [@ViralSpyApp](https://x.com/ViralSpyApp/status/2106822218961293724) · Tutti put piano in 'easy to learn' and its own practice app among the hardest. The one-screen instrument tier list got 824k plays and 4,532 comments. 
+- Example: [@JamestheUGCguy](https://x.com/JamestheUGCguy/status/2027472175339332091) · UGC example video for custom promo products in a tier list format. Really enjoy using formats that showcase products in fun ways. Brands, if you need 
+- Example: [@BuckleUp99](https://x.com/BuckleUp99/status/2074426426942722118) · Everyone's using AI to fake UGC ads. I used it to invent a new ad format. An AI doctor. A live tier list. Real supplement verdicts. No script feel. No
+- Example: [@adswithcami](https://x.com/adswithcami/status/2095208948764668068) · I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best
+
+### Live paid ads in this format (6 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **FurryWell Philippines: Report-card rating static (FurryWell "A+ / 9.7")** (188 days live): An "Overall Guide A+ / Total Rating 9.7/10" card with bars (Ingredient quality 9.7, Flavour 10, Scent 10, Value 9) and a SHOP NOW button.
+- **Smooche · Cosmetic Times: “Revlon color stay. Six out of ten. Yes, she stays put…”** (9 days live): Opens: “Revlon color stay. Six out of ten.”
+- **Smooche · Korean Beauty Tips: “See this orange? That is not your skin. That is your foundation…”** (7 days live): Opens: “See this orange? That is not your skin.”
+- **Smooche · Korean Beauty Tips: “This is how your skin looks bare. And this is what 40 years of the…”** (7 days live): Opens: “This is how your skin looks bare. And this is what 40 years of the wrong foundation did to it.”
+- **Smooche · Korean Beauty Tips: “This is what you're found in your fine lines by lunch. Let me show you…”** (7 days live): Opens: “This is what you're found in your fine lines by lunch. Let me show you the four worst offenders.”
+- **Smooche · Korean Beauty Tips: “and this is what your foundation is really doing to your face. Let me…”** (6 days live): Opens: “and this is what your foundation is really doing to your face. Let me rank the one.”
+
+**Do not copy (seen in these live ads):** The ranking presenter is an AI persona with an invented credential, posted from pages like "Korean Beauty Tips" and "James Miami MUA". Use a real, disclosed reviewer.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-2s | Creator holding or in front of an S/A/B/C/D/F tier board | "Ranking every type of gold jewelry for people who never take it off" |
+| 2-40s | Places each option card, explains each placement in one line | Fair, specific reasons (plated: D, vermeil: B, solid: A, PVD: S) |
+| 40-50s | Product placed in S with a reason | Why it wins |
+| End | Full board | Offer |
+
+### Prompts
+
+**Board**
+
+```
+Use tiermaker.com or a printed board; cards with category names, not competitor brands.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F31-<concept>-<variant>`; tracking tag `utm_content=F31-<concept>-<variant>`.
+- [ ] Avoid: Ranking named competitors unfairly is risky; rank categories.
+- [ ] Avoid: The product must deserve its tier; give a real reason.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

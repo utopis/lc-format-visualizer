@@ -2,6 +2,61 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: System: 100-500 creators, 20-60 posts each per month), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@maverickecom](https://x.com/maverickecom/status/2088288284690567296) · A TikTok Shop creator explaining the "Hudson method" to camera (in a hoodie), with screenshots of analytics (14.4M views, GMV), then a grid of many creator accounts all posting the same product.
+- Example: [@hectorserrranoo](https://x.com/hectorserrranoo/status/2106136430556672384) · Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue).
+- Example: [@ai_cult1](https://x.com/ai_cult1/status/2092368368968049118) · Cal AI growth was paid, not organic: creator roster, affiliate program, MrBeast sponsorship, in-house daily ad creative ($40M in 12 months).
+- Example: [@pixclipper](https://x.com/pixclipper/status/2084739019187847201) · Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, 
+- Example: [@BoraMutluoglu](https://x.com/BoraMutluoglu/status/2051293081920758018) · Hudson Method from Comfrt founder masterminds: thousands of samples/mo, $5k+ bonuses for 100+ videos/mo, run creator content on Meta/Snap/YT, keep pay
+- Example: [@joshelizetxe](https://x.com/joshelizetxe/status/2107504952977317898) · I paid a celebrity $250,000 for a holiday post that generated under $35,000 in sales. Our blended customer acquisition cost spiked to over $300 on a $
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Recruit | Post in creator communities; 1k-50k followers | Base fee + commission + volume bonus |
+| Brief | One-page brief with 5 proven hooks and the demo | "Film 30 videos this month, any of these hooks" |
+| Content | Each creator posts organically | Brand watches for outliers |
+| Ads | Outliers become Spark/Partnership ads | Whitelisting codes |
+
+### Prompts
+
+**Brief template**
+
+```
+Product in 1 line · the 5 hooks that worked · the 15s demo to always include · 3 things you must not say · how to get your Spark code · payment terms.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F43-<concept>-<variant>`; tracking tag `utm_content=F43-<concept>-<variant>`.
+- [ ] Avoid: Every creator must disclose (#ad / paid partnership).
+- [ ] Avoid: Track per-creator posting and pay on volume + results.
+- [ ] Avoid: Do not let creators make claims beyond the PDP.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

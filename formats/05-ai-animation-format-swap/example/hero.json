@@ -50,12 +50,12 @@
   {
    "t": "0:16",
    "said": "Raisin, magnesium, the ashwagangji thing, it's gone quiet in here, suspicious. Ooh, that's the good kind of heavy.",
-   "ocr": "2D Retro 3D Pixar ee ee ment Ls a 301 ip"
+   "ocr": ""
   },
   {
    "t": "0:18",
    "said": "Ooh, that's the good kind of heavy.",
-   "ocr": "2D Retro 3D Pixar od Ge oa Pt a pf a4 MN"
+   "ocr": ""
   }
  ],
  "more": [
@@ -112,6 +112,24 @@
    "kind": "image",
    "cap": "Pixar-style AI ads helped $117k day.",
    "views": 9536
+  },
+  {
+   "id": "2098420179403444486",
+   "author": "aaliya_va",
+   "url": "https://x.com/aaliya_va/status/2098420179403444486",
+   "thumb": "example/more/2098420179403444486.jpg",
+   "kind": "0:20 video",
+   "cap": "A product image can now become a 3D ad without starting from scratch. Arcads lets you add your website and product image, pick an animation style and ",
+   "views": 7585
+  },
+  {
+   "id": "2105715646273368159",
+   "author": "ashen_one",
+   "url": "https://x.com/ashen_one/status/2105715646273368159",
+   "thumb": "example/more/2105715646273368159.jpg",
+   "kind": "0:25 video",
+   "cap": "if you're using AI to cook ads and you've been doing the claymation meta, the singing meta seems to be next using arcads, you can cook an entire ad in",
+   "views": 2765
   }
  ]
 }

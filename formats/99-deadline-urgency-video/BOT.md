@@ -2,6 +2,76 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 10-25s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@Counterprint](https://x.com/Counterprint/status/2107894146140631180) · A sample-sale "LAST CHANCE! ENDS TONIGHT" video: a fast top-down scroll across piles of colourful printed books, packaging and merch on a table.
+- Example: [@jackolivieri_](https://x.com/jackolivieri_/status/2097798592010547583) · Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share).
+- Example: [@ItsDuntee](https://x.com/ItsDuntee/status/2102309812109193718) · 🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 Sept
+- Example: [@kabiwinter](https://x.com/kabiwinter/status/2095851837312122988) · #AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from s
+
+### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Smooche · Smooche: “I must stop. I got one model of the Smooch Color Changing Foundation…”** (6 days live): Opens: “I must stop. I got one model of the Smooch Color Changing Foundation.”
+- **Resilia · Vascular Wellness Report: “I'm the founder of Resilia, and I just got to go to the gym where I…”** (1 days live): Opens: “I'm the founder of Resilia, and I just got to go to the gym where I never thought I'd prove. We overproduced.”
+- **Resilia · Active Longevity Review: “Last chance, everyone… this deal doesn't come around often and if you…”** (1 days live): Opens: “Last chance, everyone… this deal doesn't come around often and if you don't move quick, it'll be gone before you know it. These are the final hours.”
+- **Resilia · Arterial Health Review: “Yes, the A ends today. Yes, this sale ends today. This is your last…”** (1 days live): Opens: “Yes, the A ends today. Yes, this sale ends today.”
+- **Resilia · Natural Defense Report: “This is your final warning. Today is the absolute last day to grab…”**: Opens: “This is your final warning. Today is the absolute last day to grab Brasilias ore.”
+
+**Do not copy (seen in these live ads):** Only use a deadline that is real.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Two friends on a sofa, one scrolling | "Wait, the sale ends TODAY?" |
+| 3-6s | Other friend grabs the phone | "Don't say I didn't warn you." |
+| 6-14s | Hands-only clip: picking 7 pieces into a box, big deadline text | "ANY 7 FOR $85 · ENDS MIDNIGHT" |
+| 14-18s | Stack on wrist, close-up | "Last day." |
+| End | Offer card with the real end time and timezone | - |
+
+### Prompts
+
+**Edit**
+
+```
+Big date/time text (120px, high contrast), 2-3 cuts, end on the offer; make a version for each of the last 3 days ("2 days left", "tomorrow", "today").
+```
+
+**Copy**
+
+```
+Primary text: "Ends [day] at midnight [timezone]. After that it's back to full price."
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F99-<concept>-<variant>`; tracking tag `utm_content=F99-<concept>-<variant>`.
+- [ ] Avoid: Real deadlines only; turn the ads off when the sale ends.
+- [ ] Avoid: State the timezone.
+- [ ] Avoid: Don't run "last day" creative for more than one day.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

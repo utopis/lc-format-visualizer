@@ -18,22 +18,22 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | 2. a Cal mt a 1. Oi 7, xp Mh Ss SS. Se eS SS Ss he we ae Se Ss Base ak AS oa a as: a. SEs aN ie ie | · |
-| 2 | 0:03–0:06 | Bare Tf es fy Se eS Sw a ee a aaa eT eS yo ea coe ae CON es ve oS SOS a SS So et. Br Sal ke | · |
-| 3 | 0:06–0:09 | as Le SS a, SS co ABs Yo ae WT SOS aA as CS SS ro cS M% a WO an tr a Tay el ab ae ee ee a me el | · |
-| 4 | 0:09–0:12 | ss ee ty ok ek AL BS Same I Ae BABA ras a SS Se Nat SS ra. aa My C3 A. ot en, SS SS SS eS Ss SD WS SS a SS SS mS ee 4. | · |
-| 5 | 0:12–0:15 | ve ay 49 a | · |
-| 6 | 0:15–0:18 | uk we ur a Bi gh AS land anil wit ty ww oy | · |
-| 7 | 0:18–0:21 | ae a a 4m he rr. ost nC INC af A, by ANY 7: | · |
-| 8 | 0:21–0:24 | yi ae ha a ed yee a. ay, a or ne are ay | · |
+| 1 | 0:00–0:03 | 2. a Cal … a as: a. SEs | · |
+| 2 | 0:03–0:06 | · | · |
+| 3 | 0:06–0:09 | · | · |
+| 4 | 0:09–0:12 | BABA ras a | · |
+| 5 | 0:12–0:15 | · | · |
+| 6 | 0:15–0:18 | · | · |
+| 7 | 0:18–0:21 | a a 4m … A, by ANY 7: | · |
+| 8 | 0:21–0:24 | · | · |
 
-## More real examples (1)
+## More real examples (3)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@sayuri_quietjp](example/more/1997519250903482686.jpg)](https://x.com/sayuri_quietjp/status/1997519250903482686)<br>**@sayuri_quietjp** · 0:30 video · 6K views<br>クリスマスの贈り物に、 アクセサリーを選んでもらいました🎁✨ たくさん並ぶ宝石の中から、 「これが似合うよ」って言われた瞬間が いちばん輝いていた気がします…💎 大切な人と、大切な時間を そっと胸にしまって。 A special Christmas gift — a beautiful piece |   |   |
+| [![@sayuri_quietjp](example/more/1997519250903482686.jpg)](https://x.com/sayuri_quietjp/status/1997519250903482686)<br>**@sayuri_quietjp** · 0:30 video · 6K views<br>クリスマスの贈り物に、 アクセサリーを選んでもらいました🎁✨ たくさん並ぶ宝石の中から、 「これが似合うよ」って言われた瞬間が いちばん輝いていた気がします…💎 大切な人と、大切な時間を そっと胸にしまって。 A special Christmas gift — a beautiful piece | [![@ecomchasedimond](example/more/2047313886848925761.jpg)](https://x.com/ecomchasedimond/status/2047313886848925761)<br>**@ecomchasedimond** · image · 20K views<br>ChatGPT Images 2.0 made this full Father’s Day campaign system with one prompt. One prompt gave me the landing page, email, SMS, ad creative, and popu | [![@lifemaximised](example/more/2107617132104036607.jpg)](https://x.com/lifemaximised/status/2107617132104036607)<br>**@lifemaximised** · image · 2K views<br>STOP waiting for November to begin your Black Friday prep or you’ll get lapped by everyone starting NOW… BFCM is in 7 weeks already. It’s time to set |
 
 ## How to make one like it
 
@@ -49,14 +49,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:01 | on screen: 2. a Cal mt a 1. Oi 7, xp Mh Ss SS. Se eS SS Ss he we ae Se Ss Base ak AS oa a as: a. SEs aN ie ie | … |
-| 2 | 0:04 | on screen: Bare Tf es fy Se eS Sw a ee a aaa eT eS yo ea coe ae CON es ve oS SOS a SS So et. Br Sal ke | … |
-| 3 | 0:07 | on screen: as Le SS a, SS co ABs Yo ae WT SOS aA as CS SS ro cS M% a WO an tr a Tay el ab ae ee ee a me el | … |
-| 4 | 0:10 | on screen: ss ee ty ok ek AL BS Same I Ae BABA ras a SS Se Nat SS ra. aa My C3 A. ot en, SS SS SS eS Ss SD WS SS a SS SS mS ee 4. | … |
-| 5 | 0:13 | on screen: ve ay 49 a | … |
-| 6 | 0:16 | on screen: uk we ur a Bi gh AS land anil wit ty ww oy | … |
-| 7 | 0:19 | on screen: ae a a 4m he rr. ost nC INC af A, by ANY 7: | … |
-| 8 | 0:22 | on screen: yi ae ha a ed yee a. ay, a or ne are ay | … |
+| 1 | 0:01 | on screen: 2. a Cal … a as: a. SEs | … |
+| 2 | 0:04 | (visual beat, see frame 2) | … |
+| 3 | 0:07 | (visual beat, see frame 3) | … |
+| 4 | 0:10 | on screen: BABA ras a | … |
+| 5 | 0:13 | (visual beat, see frame 5) | … |
+| 6 | 0:16 | (visual beat, see frame 6) | … |
+| 7 | 0:19 | on screen: a a 4m … A, by ANY 7: | … |
+| 8 | 0:22 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake
 

@@ -2,6 +2,68 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 6-slide TikTok photo slideshow (1080x1920), chat screenshots), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@rsalimx](https://x.com/rsalimx/status/2103184083467837553) · The TikTok profile of "Rizz Commander" (@rizz.commander): 14.1K followers, 325.3K likes. The "Baddie Rizz" playlist is a grid of slideshow posts with NBA press-conference meme covers ("Shooting my shot on ig (mvp season)") at 2M, 1.1M, 279K, 230K and 222K views. Each slideshow is a DM screenshot story, and one middle slide shows the app writing the reply. The format is meme cover, then DMs, then t
+- Example: [@leonclipping](https://x.com/leonclipping/status/2104660939069170110) · this girl might be a fucking genius she built a relationship page around the same couple photo on every post, posts simple "rules we made after a figh
+- Example: [@jaxxdwyer](https://x.com/jaxxdwyer/status/2073376584564871455) · One of our creators hit 450k views less than 72hrs after creating her IG account Here's the UGC format that got immediate traction: Text hook + long t
+- Example: [@marsdiiaryy](https://x.com/marsdiiaryy/status/2090988603451084990) · that wrong dm slideshow trend on tiktok… #TRANSCENDINGTHEGAME
+- Example: [@laurgrowth](https://x.com/laurgrowth/status/2103981166118486250) · the most underused format in affiliate marketing right now is the text message thread and for GTA 6 content it is going to be one of the highest conve
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Slide 1 | Chat header (contact name "Sister-in-law 🙄") + first bubble | Hook text overlay: "my sister-in-law has never complimented me. until today:" |
+| Slide 2 | Her message: "ok where is that necklace from" | — |
+| Slide 3 | Typing bubble; overlay text | "do I tell her or gatekeep" |
+| Slide 4 | The photo she sends: real LC necklace under shower water | Bubble: "14K PVD, I literally shower in it" |
+| Slide 5 | SIL: "ordering rn. matching for the wedding??" | — |
+| Slide 6 | Black slide | "part 2: she ordered the same one 😭" |
+
+### Prompts
+
+**Story bank (Claude)**
+
+```
+From these review themes {{REVIEW_THEMES}}, write 20 six-slide chat stories (5-7 bubbles total) where a Louise Carter piece changes the outcome on slide 4. First names only. End each with a "part 2" teaser.
+```
+
+**Chat mockups**
+
+```
+Use a mock-iMessage template in Figma: 9:41 status bar, real-looking carrier, blue/grey bubbles at 17pt SF Pro scaled to 1080 wide, no real phone numbers or photos of real people.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F103-<concept>-<variant>`; tracking tag `utm_content=F103-<concept>-<variant>`.
+- [ ] Avoid: Label it a dramatisation in the caption.
+- [ ] Avoid: Product slide at the turning point, not the end; the end is the payoff.
+- [ ] Avoid: Same characters every part, or the series loses followers.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

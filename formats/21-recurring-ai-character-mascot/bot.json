@@ -1,0 +1,113 @@
+{
+ "id": "F21",
+ "slug": "21-recurring-ai-character-mascot",
+ "name": "Recurring (AI or illustrated) character / mascot page",
+ "type": "organic",
+ "platforms": "[TikTok, Reels, Shorts]",
+ "cost_per_asset": "",
+ "time_per_asset": "",
+ "length": "10-30s per bit, 1080x1920, same character every post",
+ "shots": [
+  {
+   "slot": "0-2s",
+   "visual": "The character (odd, recognisable: a talking duck in a leather jacket, a grumpy gold chain) in a real-looking place",
+   "audio_text": "Catchphrase or a trending audio line"
+  },
+  {
+   "slot": "2-15s",
+   "visual": "One bit borrowed from a trending format (POV, \"tell me without telling me\", store walk)",
+   "audio_text": "Character delivers the joke in its voice"
+  },
+  {
+   "slot": "15-25s",
+   "visual": "Product appears as part of the bit, never pitched",
+   "audio_text": "One natural mention"
+  },
+  {
+   "slot": "Series rule",
+   "visual": "Same look, voice and framing every time",
+   "audio_text": "Pin a \"who is this?\" intro post"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Character sheet (Midjourney)",
+   "prompt": "character design sheet, a small anthropomorphic gold necklace with expressive eyes and tiny arms, sassy personality, Pixar style, front/side/back views, white background --ar 16:9"
+  },
+  {
+   "tool": "Kling / Seedance",
+   "prompt": "the same character [ref image] walking down a supermarket aisle holding a drink, handheld phone footage, realistic store, 5s, 9:16"
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/rewind02/status/2107211233405325547",
+   "author": "rewind02",
+   "note": "A recurring AI character (a duck-headed \"AI influencer\" in a leather jacket) walking through a store aisle and showing a drink to camera. The same character appears in every post, so the audience follows the character.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ErnestoSOFTWARE/status/2103534688048414959",
+   "author": "ErnestoSOFTWARE",
+   "note": "11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts.",
+   "local": "example/more/2103534688048414959.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/MuteeAutomation/status/2107022363313279044",
+   "author": "MuteeAutomation",
+   "note": "This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The",
+   "local": "example/more/2107022363313279044.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/YouTubeAut3538/status/2107104155831546119",
+   "author": "YouTubeAut3538",
+   "note": "This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The",
+   "local": "example/more/2107104155831546119.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/AdebayoYTA/status/2107147460443275590",
+   "author": "AdebayoYTA",
+   "note": "Familiar news format. Satire on top. One recurring character. Same shape every upload. 60–90 seconds. Millions of views across the catalog. The videos",
+   "local": "example/more/2107147460443275590.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Automation94453/status/2107048376558567547",
+   "author": "Automation94453",
+   "note": "This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The",
+   "local": "example/more/2107048376558567547.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F21-<concept>-<variant>`; tracking tag `utm_content=F21-<concept>-<variant>`.",
+  "Avoid: A new character every week builds nothing; the repeat is the asset.",
+  "Avoid: Do not copy an existing IP character's look.",
+  "Avoid: Post 3-5 times a week for a month before judging."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

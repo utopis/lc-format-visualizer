@@ -27,6 +27,8 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium-High (one $2M-MRR app + 2M-view demand signal) · hype risk: Medium · cost $0-80 · 30-60 min
 
 ## What it is

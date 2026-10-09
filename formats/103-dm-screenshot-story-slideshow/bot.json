@@ -1,0 +1,116 @@
+{
+ "id": "F103",
+ "slug": "103-dm-screenshot-story-slideshow",
+ "name": "DM-screenshot story slideshow (a chat people binge, the app/product on the slide that changes what happens next)",
+ "type": "organic",
+ "platforms": "[TikTok, Instagram]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "20-40 min",
+ "length": "6-slide TikTok photo slideshow (1080x1920), chat screenshots",
+ "shots": [
+  {
+   "slot": "Slide 1",
+   "visual": "Chat header (contact name \"Sister-in-law 🙄\") + first bubble",
+   "audio_text": "Hook text overlay: \"my sister-in-law has never complimented me. until today:\""
+  },
+  {
+   "slot": "Slide 2",
+   "visual": "Her message: \"ok where is that necklace from\"",
+   "audio_text": "—"
+  },
+  {
+   "slot": "Slide 3",
+   "visual": "Typing bubble; overlay text",
+   "audio_text": "\"do I tell her or gatekeep\""
+  },
+  {
+   "slot": "Slide 4",
+   "visual": "The photo she sends: real LC necklace under shower water",
+   "audio_text": "Bubble: \"14K PVD, I literally shower in it\""
+  },
+  {
+   "slot": "Slide 5",
+   "visual": "SIL: \"ordering rn. matching for the wedding??\"",
+   "audio_text": "—"
+  },
+  {
+   "slot": "Slide 6",
+   "visual": "Black slide",
+   "audio_text": "\"part 2: she ordered the same one 😭\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Story bank (Claude)",
+   "prompt": "From these review themes {{REVIEW_THEMES}}, write 20 six-slide chat stories (5-7 bubbles total) where a Louise Carter piece changes the outcome on slide 4. First names only. End each with a \"part 2\" teaser."
+  },
+  {
+   "tool": "Chat mockups",
+   "prompt": "Use a mock-iMessage template in Figma: 9:41 status bar, real-looking carrier, blue/grey bubbles at 17pt SF Pro scaled to 1080 wide, no real phone numbers or photos of real people."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/rsalimx/status/2103184083467837553",
+   "author": "rsalimx",
+   "note": "The TikTok profile of \"Rizz Commander\" (@rizz.commander): 14.1K followers, 325.3K likes. The \"Baddie Rizz\" playlist is a grid of slideshow posts with NBA press-conference meme covers (\"Shooting my shot on ig (mvp season)\") at 2M, 1.1M, 279K, 230K and 222K views. Each slideshow is a DM screenshot story, and one middle slide shows the app writing the reply. The format is meme cover, then DMs, then t",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/leonclipping/status/2104660939069170110",
+   "author": "leonclipping",
+   "note": "this girl might be a fucking genius she built a relationship page around the same couple photo on every post, posts simple \"rules we made after a figh",
+   "local": "example/more/2104660939069170110.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/jaxxdwyer/status/2073376584564871455",
+   "author": "jaxxdwyer",
+   "note": "One of our creators hit 450k views less than 72hrs after creating her IG account Here's the UGC format that got immediate traction: Text hook + long t",
+   "local": "example/more/2073376584564871455.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/marsdiiaryy/status/2090988603451084990",
+   "author": "marsdiiaryy",
+   "note": "that wrong dm slideshow trend on tiktok… #TRANSCENDINGTHEGAME",
+   "local": "example/more/2090988603451084990.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/laurgrowth/status/2103981166118486250",
+   "author": "laurgrowth",
+   "note": "the most underused format in affiliate marketing right now is the text message thread and for GTA 6 content it is going to be one of the highest conve",
+   "local": "example/more/2103981166118486250.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F103-<concept>-<variant>`; tracking tag `utm_content=F103-<concept>-<variant>`.",
+  "Avoid: Label it a dramatisation in the caption.",
+  "Avoid: Product slide at the turning point, not the end; the end is the payoff.",
+  "Avoid: Same characters every part, or the series loses followers."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

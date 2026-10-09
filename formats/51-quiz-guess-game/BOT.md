@@ -2,6 +2,70 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 30-60s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@LewisSylvi3994](https://x.com/LewisSylvi3994/status/2105450856086917518) · A guess-the-price game: a creator asks you to guess how much a necklace cost ("Everyone assumes it's fine jewelry"), shows the pieces close up, reveals "It's under $70 from XN Jewelry", then "Stop overpaying" and "Tap the link in bio!".
+- Example: [@syinsyon](https://x.com/syinsyon/status/1979373551137489020) · Can you guess how much this gold jewelry?
+- Example: [@SophieElodie](https://x.com/SophieElodie/status/2010785671498383613) · I just weighed the stainless steel jewelry I wear every day. Guess how much it weighs? 😏⛓️
+- Example: [@big_damola](https://x.com/big_damola/status/1864240379110867128) · Guess the price of this jewelry 🌚
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Astrid Zeegen: 60-year-old founder quiz talking head (collagen)** (208 days live): A woman of 60 to camera: "Quick quiz. Do you know the difference between marine collagen and bovine collagen? …Does that help your skin, your joints or your gut?" 357 s (with a 392 s sibling).
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Street: host stops a passer-by, holds up a stacked wrist | "Guess how much this whole stack cost." |
+| 3-15s | Guesses: "$400?" "$250?" | Reactions on camera |
+| 15-25s | Reveal | "Seven pieces. $85." |
+| 25-40s | Passer-by puts it on | "Wait, and it's waterproof?" |
+| End | Offer | - |
+
+### Prompts
+
+**Shoot**
+
+```
+Handheld mic with logo, two phones (wide + close), signed releases from everyone shown.
+```
+
+**Variant**
+
+```
+Weight version: "guess how much the stainless jewellery I wear every day weighs" (SophieElodie-style).
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F51-<concept>-<variant>`; tracking tag `utm_content=F51-<concept>-<variant>`.
+- [ ] Avoid: Get releases from everyone on camera.
+- [ ] Avoid: The reveal price must be the real price.
+- [ ] Avoid: Don't fake guesses with actors without saying so.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

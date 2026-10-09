@@ -16,18 +16,20 @@ Four diagram-style statics: a this-vs-that comparison with the product against a
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | uk SIGMA un Memory, mushroom complex rose? Brain Health ss Ours Theirs Organic Lion's Mane synthetic fillers, limited effect for memory gentle on stomach harsh additives Plastic bottles, USDA Organic, clean ingredients less fresh |
+| 1 | Memory, mushroom complex rose? Brain Health … limited effect for memory … gentle on stomach … harsh additives Plastic bottles, USDA Organic, clean ingredients less fresh |
 | 2 | (mostly visual) |
-| 3 | NO WONDER EVERY STEP HURTS YOUR KID ae Targeted that absorbs Flat hard sole that creates impact with every step impact with every step Lack of support that puts control that extra strain on growing joints reduces strain on growing joints |
-| 4 | No spills. No stains. NO STRESS! CAS ORGANIC CASTOR OIL Cold Pressed Free Free Ve Oil everywhere No oil spills XX stains clothes sheets Leaves zero stains Hands left sticky Hands stay clean xX Hard to carry around Travel-friendly |
+| 3 | NO WONDER EVERY STEP HURTS YOUR KID … Flat hard sole that creates impact with every step impact with every step Lack of support that puts … control that extra strain on growing joints reduces strain on growing joints |
+| 4 | No spills. No stains. NO STRESS! CAS ORGANIC … OIL Cold Pressed … everywhere No oil spills … stains clothes sheets Leaves zero stains Hands left sticky Hands stay clean … Hard to carry around Travel-friendly |
 
-## More real examples (2)
+## More real examples (7)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@EiyanDickerson](example/more/2088266872194023737.jpg)](https://x.com/EiyanDickerson/status/2088266872194023737)<br>**@EiyanDickerson** · images · 9K views<br>4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYh | [![@ultimategrafiks](example/more/2090399839309738284.jpg)](https://x.com/ultimategrafiks/status/2090399839309738284)<br>**@ultimategrafiks** · image · 179 views<br>I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea |   |
+| [![@EiyanDickerson](example/more/2088266872194023737.jpg)](https://x.com/EiyanDickerson/status/2088266872194023737)<br>**@EiyanDickerson** · images · 9K views<br>4 Static Ads. 1 Angle. 1. Before & After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ | [![@adamtaylorl](example/more/2002000462955090352.jpg)](https://x.com/adamtaylorl/status/2002000462955090352)<br>**@adamtaylorl** · image · 6K views<br>The "Us vs. Them" static is the easiest high-performing ad you can make today. Here is the layout: Left side: "Other Brands" ➡️Image: Generic/competit | [![@adamtaylorl](example/more/2006349117052891625.jpg)](https://x.com/adamtaylorl/status/2006349117052891625)<br>**@adamtaylorl** · image · 3K views<br>The "Us vs. Them" framework is still the highest-performing static ad format. But most brands do it wrong. Don't just list features. Contrast emotions |
+| [![@iwo_cybulski](example/more/2014511962734940211.jpg)](https://x.com/iwo_cybulski/status/2014511962734940211)<br>**@iwo_cybulski** · image · 2K views<br>Static ad for Nutravantix 🐄 Us vs them, vitamins vs real supplement. Want high-converting ads like this? DM me "ads" 🔥 | [![@gginwanderland](example/more/2107842978173862243.jpg)](https://x.com/gginwanderland/status/2107842978173862243)<br>**@gginwanderland** · image · 95 views<br>Winner static breakdown pt.2: the us vs them layout save this post ;) | [![@aaazavyalov](example/more/2020886502788501660.jpg)](https://x.com/aaazavyalov/status/2020886502788501660)<br>**@aaazavyalov** · images · 232 views<br>This is a new static ad concept I’m seeing only a few DTC brands test so far… Us vs Us. - Same product. - Two angles. - Side-by-side. It works because |
+| [![@ultimategrafiks](example/more/2090399839309738284.jpg)](https://x.com/ultimategrafiks/status/2090399839309738284)<br>**@ultimategrafiks** · image · 179 views<br>I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea |   |   |
 
 ## How to make one like it
 

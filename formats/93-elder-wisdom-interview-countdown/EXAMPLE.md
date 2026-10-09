@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:17. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:17 | be ee av HOW DO po | 1. All the oil and turmeric. Every morning, the old Jewish grandmothers |
+| 1 | 0:00–0:17 | · | 1. All the oil and turmeric. Every morning, the old Jewish grandmothers |
 | 2 | 0:17–0:35 | · | · |
 | 3 | 0:35–0:52 | · | · |
-| 4 | 0:52–1:10 | ST al BLEEDING ae fy if | · |
+| 4 | 0:52–1:10 | · | · |
 | 5 | 1:10–1:27 | as IN DARKNESS FOR a he | · |
 | 6 | 1:27–1:45 | · | and their children. The Jewish men in my family ate aged garlic every single morning. My grandfather, 96, my father is 89 89. Not one of them ever had a heart attack. The thing is, most aged garlic on the market |
-| 7 | 1:45–2:02 | Aaa ED ODOR! DIFFERENCE ia | is fake. Only aged a few weeks. The only one I trust is called Resilia. Aged the full 20 months in completely darkness. Full clinical dose. Enough to actually make a difference. Two soft gels every morning. That's it. I've told people in their 50s and 60s about it. And within a few weeks they come b |
+| 7 | 1:45–2:02 | · | is fake. Only aged a few weeks. The only one I trust is called Resilia. Aged the full 20 months in completely darkness. Full clinical dose. Enough to actually make a difference. Two soft gels every morning. That's it. I've told people in their 50s and 60s about it. And within a few weeks they come b |
 | 8 | 2:02–2:20 | · | blood pressure numbers dropping for the first time in years. If you want to try it, I left a link below. They have a limited sale running right now. These four foods kept my family alive for generations. Now they can keep yours alive too. God bless you and protect your heart, my friend. |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -69,7 +69,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 1 | 0:08 | 1. All the oil and turmeric. Every morning, the old Jewish grandmothers | … |
 | 2 | 0:26 | (visual beat, see frame 2) | … |
 | 3 | 0:43 | (visual beat, see frame 3) | … |
-| 4 | 1:01 | on screen: ST al BLEEDING ae fy if | … |
+| 4 | 1:01 | (visual beat, see frame 4) | … |
 | 5 | 1:18 | on screen: as IN DARKNESS FOR a he | … |
 | 6 | 1:36 | and their children. The Jewish men in my family ate aged garlic every single morning. My grandfather, 96, my father is 89 89. Not one of the | … |
 | 7 | 1:53 | is fake. Only aged a few weeks. The only one I trust is called Resilia. Aged the full 20 months in completely darkness. Full clinical dose. | … |

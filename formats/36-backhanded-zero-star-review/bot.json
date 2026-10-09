@@ -1,0 +1,121 @@
+{
+ "id": "F36",
+ "slug": "36-backhanded-zero-star-review",
+ "name": "Backhanded / 'bad review' ad (complaint that is secretly a benefit)",
+ "type": "paid + organic",
+ "platforms": "[Meta, TikTok, Reels]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "15 min",
+ "length": "1 static 1080x1350 or a 10-15s video",
+ "shots": [
+  {
+   "slot": "Main",
+   "visual": "A 1-star review card, real-looking, with the \"complaint\"",
+   "audio_text": "\"1/5: My husband keeps asking where my necklace is from and I'm tired of answering.\""
+  },
+  {
+   "slot": "Product",
+   "visual": "The necklace on the reviewer's neck, or on its own",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Video version",
+   "visual": "Creator reads the \"complaint\" deadpan",
+   "audio_text": "\"Worst purchase. I can't take it off. Literally, I don't need to.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "\"Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude",
+   "prompt": "Write 15 backhanded \"complaints\" about [product] where the complaint is really a benefit (too many compliments, never wears out). Keep them short and dry."
+  },
+  {
+   "tool": "Figma",
+   "prompt": "Review card with stars, name, \"Verified buyer\" tag; make it obviously a playful creative."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/Smdigitalsys/status/2099549775892783266",
+   "author": "Smdigitalsys",
+   "note": "An agency's animated ad built from a real 1-star review (\"They left us a 1-star review. We turned it into an ad\"): a review card pops up, a hand on a laptop, an \"ADS\" dashboard, then a logo end card.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/thedennis/status/2036981673259393507",
+   "author": "thedennis",
+   "note": "The best ad I ever wrote came from a 1-star review. No brainstorming session. No creative brief. No agency deck. One angry customer who wrote exactly ",
+   "local": "example/more/2036981673259393507.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Peter_Quadrel/status/2050482614696640734",
+   "author": "Peter_Quadrel",
+   "note": "1 Star Reviews Make Your BEST Ads... Nevermind UGC, founder explainers, or polished product shots, negative review ads are what get your market's atte",
+   "local": "example/more/2050482614696640734.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/cortex_adbrain/status/2103883993603031429",
+   "author": "cortex_adbrain",
+   "note": "if you're a creative strategist, a 1-star review just outworked your entire creative brief the brand quoted their own worst complaint, bolded it, gave",
+   "local": "example/more/2103883993603031429.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/stephenfung_dev/status/2089528727445062001",
+   "author": "stephenfung_dev",
+   "note": "Results of buying this ad spot: 358 downloads (+29% week over week) $121.67 in revenue (+114% week over week) $62 in MMR (+75% week over week) 1 - 1 s",
+   "local": "example/more/2089528727445062001.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Smooche · Smooche: “I just got the smooth reverse tight serum in an absolutely shook it…”",
+   "days": 4,
+   "image": "adlibrary/w6_2004973356857122.jpg",
+   "what": "Opens: “I just got the smooth reverse tight serum in an absolutely shook it. Literally target Literally target my fine lines and wrinkles helps target those hyperpigmentation pigmentation in dark spots and…”",
+   "how": "Start as a complaint, list the \"problems\" (each is a benefit), and end with \"…anyway, I reordered.\""
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “not because it stopped working for the 4th of july right now. my chest…”",
+   "days": 1,
+   "image": "adlibrary/w6_1648532766604206.jpg",
+   "what": "Opens: “not because it stopped working for the 4th of july right now. my chest at night.”",
+   "how": "Start as a complaint, list the \"problems\" (each is a benefit), and end with \"…anyway, I reordered.\""
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F36-<concept>-<variant>`; tracking tag `utm_content=F36-<concept>-<variant>`.",
+  "Avoid: If you present it as a real review, it must be a real review.",
+  "Avoid: Otherwise make the joke obvious so nobody is misled.",
+  "Avoid: Keep the benefit inside the joke concrete."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

@@ -18,7 +18,7 @@ Primal Queen's live offer page behind the Meta ad. The headline is "BUY ONE GET 
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | QUEEN BUY ONE GET ONE FREE How it works: 1. Buy any Primal Queen products at your nearest Target ey 2. Enter your phone number below For 3. We'll text you a link to upload your receipt 4. Once verified, we'll refund via paypal or ve That's it. One product is on us. ta Enter your phone number Cg ae G |
+| 1 | QUEEN BUY ONE GET ONE FREE How it works: 1. Buy any Primal Queen products at your nearest Target … 2. Enter your phone number below For … 3. We'll text you a link to upload your receipt 4. Once verified, we'll refund via paypal or … That's it. One product is on us. … Enter your phone number … produc |
 
 ## More real examples (1)
 

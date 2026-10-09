@@ -1,0 +1,150 @@
+{
+ "id": "F06",
+ "slug": "06-ai-ugc-talking-head",
+ "name": "AI UGC talking-head (avatar) — and its realism stack",
+ "type": "paid (testing angles fast); organic only with disclosure",
+ "platforms": "[Meta, TikTok, AppLovin, YouTube]",
+ "cost_per_asset": "$2-15",
+ "time_per_asset": "15-60 min",
+ "length": "15-45s, 1080x1920, 30fps",
+ "shots": [
+  {
+   "slot": "0-2s",
+   "visual": "Avatar holding the product up close to a phone camera in a real-looking room (bathroom mirror, car, kitchen)",
+   "audio_text": "Hook from a real review: \"okay I need to talk about this necklace because I literally sleep in it\""
+  },
+  {
+   "slot": "2-10s",
+   "visual": "Medium selfie, natural hand movement, slight handheld wobble",
+   "audio_text": "Problem in her words: \"every gold necklace I owned turned green or snapped\""
+  },
+  {
+   "slot": "10-25s",
+   "visual": "Cutaways: REAL product B-roll (shower, sea, close-up of clasp)",
+   "audio_text": "Proof beats: \"I showered, I swam, it looks the same\""
+  },
+  {
+   "slot": "25-35s",
+   "visual": "Back to avatar, smiling, touching the piece",
+   "audio_text": "Offer + CTA: \"they do any 7 for $85, link's below\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Arcads / HeyGen / Creatify (avatar)",
+   "prompt": "Choose a 25-40 female avatar filmed in a bathroom or car, natural lighting, casual clothes. Script: [paste]. Settings: \"casual\" tone, add 2-3 natural pauses, slight pitch variation, 9:16."
+  },
+  {
+   "tool": "Realism stack",
+   "prompt": "Add background room tone, a 3-5% handheld shake, auto-captions in TikTok style, cut every 2-4s, cover the mouth area with B-roll at least 40% of the time."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/frankyecom/status/2105377535345258584",
+   "author": "frankyecom",
+   "note": "A run of AI-made and real beauty talking heads: a TV-shopping set (\"LIVE MASCARA DEMO\"), tight face close-ups that read like UGC, a before/after face and a mannequin head. The speaker talks straight to camera with captions.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/kristian_jennin/status/2101352217089282066",
+   "author": "kristian_jennin",
+   "note": "AI UGC looks fake because of a missing step (realism workflow video).",
+   "local": "example/more/2101352217089282066.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/zedmadeit/status/2107552798842003488",
+   "author": "zedmadeit",
+   "note": "Intentional AI ad system starting from brand/product/customer, visuals matched to script.",
+   "local": "example/more/2107552798842003488.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/eliasrrecom/status/2092612451623694388",
+   "author": "eliasrrecom",
+   "note": "Realistic AI UGC ads tutorial.",
+   "local": "example/more/2092612451623694388.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ladprofit/status/2100960479577362499",
+   "author": "ladprofit",
+   "note": "Seedance AI UGC page for Veterans Day: same B-roll, new hook each post, trending audio, comment-keyword link (comment-gated teardown).",
+   "local": "example/more/2100960479577362499.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/adamtaylorl/status/2089713928511345017",
+   "author": "adamtaylorl",
+   "note": "Hike Footwear ad 100% AI.",
+   "local": "example/more/2089713928511345017.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/CEO_Vlad/status/2108405736245952955",
+   "author": "CEO_Vlad",
+   "note": "Audio is what makes AI UGC feel real; one robotic sentence kills it.",
+   "local": "example/more/2108405736245952955.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Mho_23/status/2085374858267857069",
+   "author": "Mho_23",
+   "note": "Realistic AI UGC with Seedance 2.0 full breakdown (mho_23).",
+   "local": "example/more/2085374858267857069.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/oliverxmedia/status/2104954498565464350",
+   "author": "oliverxmedia",
+   "note": "Realistic AI = reference images + precise prompts + consistent characters + guided motion.",
+   "local": "example/more/2104954498565464350.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Khazanay Pakistan: Clinic presenter in scrubs (orthopedic shoes)",
+   "days": 338,
+   "image": "adlibrary/w4_127049432.jpg",
+   "what": "A woman in navy scrubs in a clinic corridor: \"Let me tell you that you don't need a new body. You just need better support… it's not always an injury… unsupported shoes… plantar fasciitis\". 70 s, run as 2 near-identical ads.",
+   "how": "A specialist look-alike (scrubs, not a named doctor), a reframe sentence first, then cause, then product category. Captions mid-frame."
+  },
+  {
+   "title": "Blossom Essentials Skin: Short AI-UGC \"only balm I'll ever buy\" (Blossom Essentials, 3 variants)",
+   "days": 213,
+   "image": "adlibrary/w4_112000046.jpg",
+   "what": "Three 24-33 s UGC cuts: \"This is the only skin balm I will ever spend money on… I've tried everything, from prescription to specialist.\" Different women, same script skeleton.",
+   "how": "Write one 60-word script and record it with 3-10 faces (AI UGC or creators). Change only the opener."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F06-<concept>-<variant>`; tracking tag `utm_content=F06-<concept>-<variant>`.",
+  "Avoid: Avatars reading a script word-perfect look fake; add fillers (\"like\", \"honestly\") and a stumble.",
+  "Avoid: Avatars may not claim a personal experience they did not have in places where that is regulated; label AI and keep claims to product facts.",
+  "Avoid: Never show the avatar \"wearing\" AI jewelry; cut to real product footage.",
+  "Avoid: Ranked by researchers: avatar reading a script = F tier; avatar inside a story or skit performs better."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

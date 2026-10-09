@@ -16,7 +16,7 @@ A customer-review static for a jewelry brand: "Customer Review" in a circle stam
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | ER Hello, you? How do you like your ring? Hello, love the ring. Got it a few months ago it’s not faded |
+| 1 | you? How do you like your ring? Hello, love the ring. Got it a few months ago it’s not faded |
 
 ## More real examples (2)
 

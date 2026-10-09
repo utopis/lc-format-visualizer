@@ -1,0 +1,203 @@
+{
+ "id": "F37",
+ "slug": "37-urgency-offer-statics",
+ "name": "Urgency/offer statics: low stock, back in stock, limited-time offer, BFCM",
+ "type": "paid",
+ "platforms": "[Meta, TikTok, Pinterest; email/SMS mirrors]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "15 min",
+ "length": "1 static 1080x1350 per offer type",
+ "shots": [
+  {
+   "slot": "Low stock",
+   "visual": "Product photo + a live-looking stock bar",
+   "audio_text": "\"Only 38 left of the Mae Necklace.\""
+  },
+  {
+   "slot": "Back in stock",
+   "visual": "Bold \"BACK\" headline over the product",
+   "audio_text": "\"Back in stock. Sold out in 9 days last time.\""
+  },
+  {
+   "slot": "Limited-time offer",
+   "visual": "Offer in big type, end date",
+   "audio_text": "\"Any 7 for $85 · Ends Sunday\""
+  },
+  {
+   "slot": "BFCM",
+   "visual": "Black background, gold type",
+   "audio_text": "\"Black Friday: the stack deal, once a year.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Figma",
+   "prompt": "Headline 110px, offer line 56px, product 50% of canvas; a version per offer, same layout so only the message changes."
+  },
+  {
+   "tool": "Inventory link",
+   "prompt": "Pull the real stock number from Shopify on the day you post; update or pause the ad when it changes."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/johntech778/status/2106885699374829636",
+   "author": "johntech778",
+   "note": "A product page shot as an offer static: a dog holding a treat bag, a countdown timer at the top, and a bundle picker (Single Pack, Buy 2 Get 1 Free and so on) with ratings and trust badges. The offer, not the product, is the hero.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/johntech778/status/2102744531489751066",
+   "author": "johntech778",
+   "note": "\"6,200+ Bottles Sold This Month\" is the most under-used line on any product page. Here's how I structured a Goli Ashwagandha buy box around it 10 conv",
+   "local": "example/more/2102744531489751066.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/usmanstrategist/status/2087306011849965645",
+   "author": "usmanstrategist",
+   "note": "Here's a breakdown of the three funnel stages and the best creative formats for each, so you can drive more purchases and scale your brand more profit",
+   "local": "example/more/2087306011849965645.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/kylaugccreator/status/2096744141031981406",
+   "author": "kylaugccreator",
+   "note": "Here’s an ugc example I created for Bucketlisters Nashville app The goal was to showcase a limited-time 90s throwback bar while positioning Bucketlist",
+   "local": "example/more/2096744141031981406.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/hey_ankita/status/2102704237805547557",
+   "author": "hey_ankita",
+   "note": "90% OFF Seedance 2.5 on Pippit AI, now only $1.5/month for a limited time. Pippit AI is giving creators access to the official, native Seedance 2.5 mo",
+   "local": "example/more/2102704237805547557.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/johntech778/status/2101658718647521629",
+   "author": "johntech778",
+   "note": "Buy 1 Get 1 Free\" is the most under-used conversion lever in supplement DTC. Here's how I structured a product page around it. 8 conversion decisions ",
+   "local": "example/more/2101658718647521629.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/jackolivieri_/status/2097798592010547583",
+   "author": "jackolivieri_",
+   "note": "Smooche static \"847 Orders in Last Hour, Almost Gone\" / \"LIVE UPDATE\" stock copy (GetHookd share).",
+   "local": "example/more/2097798592010547583.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/aditiasiswara/status/2105304476890648987",
+   "author": "aditiasiswara",
+   "note": "Get the official, native Seedance 2.5 for as low as $1.50 for your first month with a Limited-Time 90% OFF offer! Seedance 2.5 at 720P starts at just ",
+   "local": "example/more/2105304476890648987.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Solvaderm Skin Care: Clean product-on-podium static (Solvaderm, \"Unlock your best skin yet\")",
+   "days": 690,
+   "image": "adlibrary/w4_89830390.jpg",
+   "what": "A pastel 3D podium, a tall serum bottle, the headline \"Unlock Your Best Skin Yet!\" and a sub-line. DCO.",
+   "how": "A 3D-rendered podium scene, one bottle, a 5-word headline, 3 benefits."
+  },
+  {
+   "title": "Muscle Mat: \"FREE\" baby-on-topper static (Muscle Mat)",
+   "days": 533,
+   "image": "adlibrary/w4_90837430.jpg",
+   "what": "A baby asleep on the topper with a \"FREE\" banner and a gift offer.",
+   "how": "A cute visual, one big offer word."
+  },
+  {
+   "title": "Phantom Athletics: Catalog DCO grid with big % badge (German)",
+   "days": 445,
+   "image": "adlibrary/108882041.jpg",
+   "what": "Dynamic-creative carousel: hero model holding the bag, three product variants stacked left, red 'JETZT -42%' badge, Trustpilot-style 4.75 rating strip.",
+   "how": "1080x1080 and 1080x1350 templates in Canva; 3-6 cards; feed the catalog; one offer badge, max 3 colours."
+  },
+  {
+   "title": "BioRoot Labs: \"A message from our founder\" scarcity text static",
+   "days": 378,
+   "image": "adlibrary/w4_57073198.jpg",
+   "what": "A white text static: \"A MESSAGE FROM OUR FOUNDER 💔 We never expected this. Thousands of people are turning to BioRoot Labs' Doctor-Formulated Turmeric daily, and our limited Buy Two, Get One Free offer is about to expire… our stock is dangerously low… Sale ends at midnight.\" DCO with 29 media.",
+   "how": "A plain white letter, a heart emoji, 5 short paragraphs: surprise, demand, offer, scarcity, deadline. Sign-off."
+  },
+  {
+   "title": "Shopmenvault: \"BUY 2, GET 2 FREE – We won't do this again\" offer static",
+   "days": 251,
+   "image": "adlibrary/w4_106064963.jpg",
+   "what": "A black static: \"BUY 2, GET 2 FREE\", \"WE WON'T DO THIS AGAIN\", 3 boxer briefs, \"50% OFF deals\", \"Trusted by 10,000+ men after prostate surgery\".",
+   "how": "Offer as headline, a scarcity sub-line, product, a niche trust line."
+  },
+  {
+   "title": "Smooche · Smooche: “IT'S OFFICIAL: WE'RE ENDING IT”",
+   "days": 53,
+   "image": "adlibrary/w6_3039677756368104.jpg",
+   "what": "\"IT'S OFFICIAL: WE'RE ENDING IT\": the #1 product is \"flying off the shelves… last 60% off sale until our stock lasts\".",
+   "how": "Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.",
+   "dnc": "The stock counts and \"ending it\" claims run for weeks, so they are not literally true. Only state real stock."
+  },
+  {
+   "title": "Smooche · Smooche: “This is your last chance”",
+   "days": 37,
+   "image": "adlibrary/w6_1829601588200696.jpg",
+   "what": "\"This is your last chance\": a pink serum bottle with a FREE GIFT tag.",
+   "how": "Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.",
+   "dnc": "The stock counts and \"ending it\" claims run for weeks, so they are not literally true. Only state real stock."
+  },
+  {
+   "title": "Smooche · Smooche: “Almost SOLD OUT”",
+   "days": 37,
+   "image": "adlibrary/w6_1053306423980368.jpg",
+   "what": "\"Almost SOLD OUT\" with an 89% progress bar.",
+   "how": "Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.",
+   "dnc": "The stock counts and \"ending it\" claims run for weeks, so they are not literally true. Only state real stock."
+  },
+  {
+   "title": "Smooche · Smooche: “LAST CALL. Reverse-time Peptide Serum, almost sold out 89%”",
+   "days": 37,
+   "image": "adlibrary/w6_1070916458773952.jpg",
+   "what": "\"LAST CALL. Reverse-time Peptide Serum, almost sold out 89%.\"",
+   "how": "Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.",
+   "dnc": "The stock counts and \"ending it\" claims run for weeks, so they are not literally true. Only state real stock."
+  },
+  {
+   "title": "Smooche · Smooche: “IT'S OFFICIAL: WE'RE ENDING IT”",
+   "days": 10,
+   "image": "adlibrary/w6_1425514233040456.jpg",
+   "what": "\"IT'S OFFICIAL: WE'RE ENDING IT\" (headline: \"FINAL 287 BOTTLES\").",
+   "how": "Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.",
+   "dnc": "The stock counts and \"ending it\" claims run for weeks, so they are not literally true. Only state real stock."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F37-<concept>-<variant>`; tracking tag `utm_content=F37-<concept>-<variant>`.",
+  "Avoid: Low-stock and deadline claims must be true (consumer law).",
+  "Avoid: Turn ads off when the offer ends.",
+  "Avoid: Don't run urgency all year; it stops working."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

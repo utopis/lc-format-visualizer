@@ -20,10 +20,10 @@ The storyboard above samples the video every 0:22. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:22 | · | Ma'am I cannot accept this the woman in this photo is 61. I am 61. You are not 61 Look at the mouth in this photo. Those lines are not on your face Because I fixed them You can't just fix that |
 | 2 | 0:22–0:44 | · | I've been in this room waiting for two hours. I need to get this done. I can't verify this document verify what my own face Ma'am lower your voice. There's nothing I can do Let me speak to your manager right? Now ma'am calm down your manager now The ID doesn't match |
-| 3 | 0:44–1:06 | a what did you do? | It is her it is not Monique. It is her look at the photograph. That isn't her. I see the photo ma'am. What did you do? I? Need my paper stamp so I can go home. Did you get Botox surgery? No Fillers threads one of those laser treatments. No |
+| 3 | 0:44–1:06 | what did you do? | It is her it is not Monique. It is her look at the photograph. That isn't her. I see the photo ma'am. What did you do? I? Need my paper stamp so I can go home. Did you get Botox surgery? No Fillers threads one of those laser treatments. No |
 | 4 | 1:06–1:28 | · | Then it must be a cream. Is it a cream if I tell you will you stamp it so I can leave? My sister spends $400 a jar on her serum and she doesn't look anything like you. What is it? What is it? Listen, I've tried it all nothing did anything for over ten years. Then what did? |
 | 5 | 1:28–1:50 | · | stamp it Ma'am tell me you want to know and I want to go home stamp my paper there There now what is it? |
-| 6 | 1:50–2:12 | tp a and wrinkles, wa aw a | Fine the deal is a deal This is it This says it's for dark spots. It is and wrinkles fine lines and plumping all in one formula. This this is incredible It took me ten years to find something that works. There's a reason they only sell it online and why they're often sold out |
+| 6 | 1:50–2:12 | a and wrinkles, | Fine the deal is a deal This is it This says it's for dark spots. It is and wrinkles fine lines and plumping all in one formula. This this is incredible It took me ten years to find something that works. There's a reason they only sell it online and why they're often sold out |
 | 7 | 2:12–2:34 | · | Can I have this one? You know what take it? I have a fresh one at home. What about me? Go online and get one if it doesn't work. They have a 30-day money-back guarantee, so there's no risk |
 | 8 | 2:34–2:56 | · | That's how confident they are you ladies enjoy now. Thank you Smooch reverse time serum you may want to update your ID photo once you start using it click shop now below |
 
@@ -57,7 +57,7 @@ The storyboard above samples the video every 0:22. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -65,6 +65,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@ViralOps_](example/more/2108255353016406383.jpg)](https://x.com/ViralOps_/status/2108255353016406383)<br>**@ViralOps_** · 1:00 video · 589 views<br>Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could | [![@zedmadeit](example/more/2102176819709673703.jpg)](https://x.com/zedmadeit/status/2102176819709673703)<br>**@zedmadeit** · 1:36 video · 3K views<br>heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac | [![@0xROAS](example/more/2104589798208065796.jpg)](https://x.com/0xROAS/status/2104589798208065796)<br>**@0xROAS** · 2:23 video · 23K views<br>100% AI drama ad (Seedance): turn the winning ad into a 2-3 min story; Resilia hooks: cheating husband/wife, compared to another girl. |
 | [![@SGradon](example/more/2101705439565979947.jpg)](https://x.com/SGradon/status/2101705439565979947)<br>**@SGradon** · 0:40 video · 2K views<br>In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here' | [![@tryatria_AI](example/more/2100612079891755286.jpg)](https://x.com/tryatria_AI/status/2100612079891755286)<br>**@tryatria_AI** · 2:59 video · 11K views<br>AI ANIMATED STORYTELLING ADS SHOULDN’T WORK THIS WELL. BUT THEY DO. 👀 Cartoon characters. Dramatic storylines. Pixar-style animation. Ridiculous plot | [![@whotanish](example/more/2100587035786715295.jpg)](https://x.com/whotanish/status/2100587035786715295)<br>**@whotanish** · 4:33 video · 2K views<br>All the big brands have already catching up too the AI drama ads . users have organically have been watching the micro dramas for really long It has b |
+| [![@reon_gould](example/more/2101990638312886482.jpg)](https://x.com/reon_gould/status/2101990638312886482)<br>**@reon_gould** · image · 2K views<br>🚨HIRING: Video Editor for high scaling Ecommerce Brand Role: - Editing & creating high converting vsl style ai ecommerce ads from scratch (scripts and | [![@ViduAI_official](example/more/2092810457690308949.jpg)](https://x.com/ViduAI_official/status/2092810457690308949)<br>**@ViduAI_official** · image · 2K views<br>AI video has been stuck in "prototype mode" for years. The Q3 Mix changes that: 🏷️ Ads: lip-synced testimonials + 15s one-take brand films 🎬 AI Drama: |   |
 
 ## How to make one like it
 

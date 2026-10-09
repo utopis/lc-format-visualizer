@@ -20,14 +20,14 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | App Stats 2m downloads $9m revenue last month Cancel oK Short Dramas Hub Get fi NE ae is the BS bat my sony OT on coe Pr Make om 2025 Sons Jealous. Paid partner | This is the birthday gift that my son Alex has prepared for his grandfather |
-| 2 | 0:03–0:06 | App Stats Find related, Search 2m downloads $9m revenue last month Cancel oK se Short Dramas Hub rods Get nd Sy 2k BB Good 78. Pai a | · |
-| 3 | 0:06–0:09 | App Stats Find 2m downloads $9m revenue last month Cancel oK Short Dramas Hub Get it's Some ch Go tor 28 one RR al 4202 Paid partnership | What brand is this and never even heard of it don't tell me it's some cheap knockoff from a street vendor |
-| 4 | 0:09–0:12 | · | · |
-| 5 | 0:12–0:16 | App Stats 2m downloads $9m revenue Find content Search last month Cancel OK Short Dramas Hub Get 00 268 2K SS tom a my One RR ren APP Sons Paid partnership | Emma, what's the meaning of this? You know dad loves his alcohol and you bringing this garbage |
-| 6 | 0:16–0:19 | App Stats Find relate content ch 2m downloads $9m revenue last month Cancel oK Short Dramas Hub Get his garbage? er fer 528 G00 od ryan mee Paid partnership | · |
-| 7 | 0:19–0:22 | · | Are you trying to poison dad with this no-name trash? |
-| 8 | 0:22–0:25 | App Stats Find related Search 2m downloads $9m last month Cancel oK eT Short Dramas Hub a Get 4s BD Sal | · |
+| 1 | 0:00–0:03 | App Stats 2m downloads $9m revenue last month Cancel oK … Short Dramas Hub Get … bat my sony … Sons Jealous. Paid partnership | This is the birthday gift that my son Alex has prepared for his grandfather |
+| 2 | 0:03–0:06 | App Stats Find related, Search 2m downloads $9m revenue last month Cancel oK … Short Dramas Hub rods Get | · |
+| 3 | 0:06–0:09 | App Stats Find … 2m downloads $9m revenue last month Cancel oK … Short Dramas Hub Get … Go tor 28 one | What brand is this and never even heard of it don't tell me it's some cheap knockoff from a street vendor |
+| 4 | 0:09–0:12 | ent 2m downloads $9m … art Cancel oK … Short Dramas Hub iN Get | · |
+| 5 | 0:12–0:16 | App Stats 2m downloads $9m revenue Find … content Search last month Cancel OK … Short Dramas Hub Get 00 … tom a my One … Sons Paid partnership | Emma, what's the meaning of this? You know dad loves his alcohol and you bringing this garbage |
+| 6 | 0:16–0:19 | App Stats Find relate content … 2m downloads $9m revenue last month Cancel oK … Short Dramas Hub Get | · |
+| 7 | 0:19–0:22 | 2m downloads $9m revenue last month Cancel oK … Short Dramas Hub Get … Dar Are you … tote Paid partnership. | Are you trying to poison dad with this no-name trash? |
+| 8 | 0:22–0:25 | App Stats Find related Search 2m downloads $9m … last month Cancel oK … Short Dramas Hub a Get | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -61,13 +61,13 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
 | 1 | 0:01 | This is the birthday gift that my son Alex has prepared for his grandfather | … |
-| 2 | 0:04 | on screen: App Stats Find related, Search 2m downloads $9m revenue last month Cancel oK se Short Dramas Hub rods Get nd Sy 2k BB Go | … |
+| 2 | 0:04 | on screen: App Stats Find related, Search 2m downloads $9m revenue last month Cancel oK … Short Dramas Hub rods Get | … |
 | 3 | 0:08 | What brand is this and never even heard of it don't tell me it's some cheap knockoff from a street vendor | … |
 | 4 | 0:11 | What brand is this and never even heard of it don't tell me it's some cheap knockoff from a street vendor | … |
 | 5 | 0:14 | Emma, what's the meaning of this? You know dad loves his alcohol and you bringing this garbage | … |
 | 6 | 0:17 | Emma, what's the meaning of this? You know dad loves his alcohol and you bringing this garbage Are you trying to poison dad with this no-nam | … |
 | 7 | 0:20 | Are you trying to poison dad with this no-name trash? | … |
-| 8 | 0:24 | on screen: App Stats Find related Search 2m downloads $9m last month Cancel oK eT Short Dramas Hub a Get 4s BD Sal | … |
+| 8 | 0:24 | on screen: App Stats Find related Search 2m downloads $9m … last month Cancel oK … Short Dramas Hub a Get | … |
 
 ### 2. Shot-by-shot remake
 

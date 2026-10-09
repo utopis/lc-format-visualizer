@@ -20,12 +20,12 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:07 | · | This is hormone back and this is sitting all day legs and this is stress belly. The best way to fix them isn't go to the gym. |
 | 2 | 0:07–0:14 | · | All you need to do this workout game routine at home every single day. |
-| 3 | 0:14–0:21 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 50 PINCH ey a ea a eS FT La | · |
-| 4 | 0:21–0:28 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 110 VA ee. es af Di ee aT gp foe | · |
-| 5 | 0:28–0:36 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 180 OF nw CC ae Nt ae a a a a Ig | · |
-| 6 | 0:36–0:43 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: PR yo BI ve Fe er Ay as a cain ge a ae il aa ee  | · |
-| 7 | 0:43–0:50 | SUPER EASY WORKOUT Pelvic Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 840 ce oS ia les aa Wh Ca a on AF ae TI | · |
-| 8 | 0:50–0:57 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score SE 875 ce NW el Le Wi if Ws go sO a Sa Gk LF CP h | · |
+| 3 | 0:14–0:21 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 50 PINCH | · |
+| 4 | 0:21–0:28 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 110 | · |
+| 5 | 0:28–0:36 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 180 OF … a a a a | · |
+| 6 | 0:36–0:43 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: … as a cain | · |
+| 7 | 0:43–0:50 | SUPER EASY WORKOUT Pelvic … Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 840 | · |
+| 8 | 0:50–0:57 | SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -52,11 +52,11 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 1 | 0:03 | This is hormone back and this is sitting all day legs and this is stress belly. The best way to fix them isn't go to the gym. | … |
 | 2 | 0:10 | All you need to do this workout game routine at home every single day. | … |
 | 3 | 0:18 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 50 PINCH | … |
-| 4 | 0:25 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 110 VA ee | … |
-| 5 | 0:32 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 180 OF n | … |
-| 6 | 0:39 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: PR yo BI | … |
-| 7 | 0:47 | on screen: SUPER EASY WORKOUT Pelvic Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 840 ce oS ia le | … |
-| 8 | 0:54 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score SE 875 ce | … |
+| 4 | 0:25 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 110 | … |
+| 5 | 0:32 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: 180 OF … | … |
+| 6 | 0:39 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score: … as a c | … |
+| 7 | 0:47 | on screen: SUPER EASY WORKOUT Pelvic … Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score 840 | … |
+| 8 | 0:54 | on screen: SUPER EASY WORKOUT Pelvic Floor Friendly 1.Slim Thighs 2.Slim Belly 3.Slim Waist 4.Lift Butt 5.Slim hips score | … |
 
 ### 2. Shot-by-shot remake
 

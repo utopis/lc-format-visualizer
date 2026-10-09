@@ -2,6 +2,71 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 45-120s, 1080x1920 and 1080x1350), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@AaronOrendorff](https://x.com/AaronOrendorff/status/1815524880361914630) · A breakdown of a 'Reasons Why' advertorial for a leather tote: the landing page opens with the same video as the ad, the headline mirrors it ("5 Reasons Why I'm Obsessed With..."), then come numbered reasons, UGC photos, reviews, two buy boxes and a countdown timer. The yellow notes beside each screen explain the part.
+- Example: [@nachovanzini](https://x.com/nachovanzini/status/1792567677103263901) · 1/ Listicle They love to use listicle format ads It's a great way to send traffic to a advertorial landing page 3 reasons why XYZ
+- Example: [@FedotOff90](https://x.com/FedotOff90/status/2094854572623675832) · 6 lander/advertorial types (news mimic, story, listicle, quiz, authority, comparison) — 53-format lander database.
+- Example: [@k4komaaaal](https://x.com/k4komaaaal/status/2084289721703010738) · 10 reasons why brands are ditching polished ads for founder faces on camera: 1. sushiswap, gymshark all started founder led content before ads 2. face
+- Example: [@phemeinfluence](https://x.com/phemeinfluence/status/2078934717462888585) · 🐶 PET UGC OPPORTUNITY 35+ (cats or dogs moms) BRAND: Chewy PAY: $2000 + Product Pet brand hiring UGC creators to film a 90s advertorial video featurin
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Smooche · Cosmetic Times: A two-woman photo** (20 days live): A two-woman photo (ages 61 and 28) with "the top 5 foundations of 2026". The primary text: "Michelle Mason, a beauty expert with 20 years of experience, tested 5…"
+
+**Do not copy (seen in these live ads):** The "expert" and the publication ("Cosmetic Times") are brand-run personas.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Editorial title card, serif type, magazine look | "5 reasons women are ditching gold-plated jewelry" |
+| 3-80s | Numbered reasons, each with B-roll and a calm narrator | Reason, one fact, one visual |
+| 80-100s | Soft product mention | "One brand fixing it: [brand]" |
+| End | Link to an advertorial page that matches the video | - |
+
+### Prompts
+
+**Claude**
+
+```
+Write a 90-second editorial-style script with 5 numbered reasons, a neutral narrator and a matching advertorial outline.
+```
+
+**Edit**
+
+```
+Serif title cards (Playfair / Tiempos), slow crossfades, subtle paper texture, captions in sentence case.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F79-<concept>-<variant>`; tracking tag `utm_content=F79-<concept>-<variant>`.
+- [ ] Avoid: It is still an ad: keep "Sponsored" labelling and avoid fake-news styling.
+- [ ] Avoid: Featured example is a long founder-style talk; the editorial version should be tighter.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:05 | Most people don't ate one of them Fs a uA | Dropshipping C tier. Sure it's cheap to start but it's very saturated right now so that most |
-| 2 | 0:05–0:11 | Most people don't know about one of them Se a ae amazon | beginners end up blowing through their entire ad budget before they even see a single sale. Amazon FBA B tier. I know this is probably going to get me some hate but hear me out. |
-| 3 | 0:11–0:17 | Ranking aside for Beginners Most people don't know about one of them Fw a a | You're competing with millions of sellers and inventory costs eating away at your margins |
-| 4 | 0:17–0:23 | Ranking aside for Beginners Most people don't know about one of them tre a | pretty fast. Freelancing. Now I'm going to put this into A tier. It's a solid way to make extra money with your skills but let's be honest you're still trading your hours for |
+| 1 | 0:00–0:05 | Most people don't … ate one of them | Dropshipping C tier. Sure it's cheap to start but it's very saturated right now so that most |
+| 2 | 0:05–0:11 | Most people don't know about one of them | beginners end up blowing through their entire ad budget before they even see a single sale. Amazon FBA B tier. I know this is probably going to get me some hate but hear me out. |
+| 3 | 0:11–0:17 | for Beginners Most people don't know about one of them | You're competing with millions of sellers and inventory costs eating away at your margins |
+| 4 | 0:17–0:23 | for Beginners Most people don't know about one of them | pretty fast. Freelancing. Now I'm going to put this into A tier. It's a solid way to make extra money with your skills but let's be honest you're still trading your hours for |
 | 5 | 0:23–0:29 | · | dollars. It's not really building anything. Walmart selling S tier. Most people aren't |
-| 6 | 0:29–0:35 | Ranking aside for Beginners Most people don't know about one of them Se al on WE Boy a | actually very familiar with this one and I thought it'd be another looks good on paper side hustle. But there's way less competition than Amazon. No inventory needed and most people are only |
-| 7 | 0:35–0:40 | Ranking aside for Beginners Most don't know about one of them 3& GE | putting in one to two hours of work every day. There's even a free workshop showing you exactly |
-| 8 | 0:40–0:46 | Check out Degree today Degree ed The Simplest Way to Build Profitable Walmart Business in 2026 28K: month | how people are selling a Walmart step-by-step called eCom degree. So if you've been wanting to start a side hustle definitely check this one out. |
+| 6 | 0:29–0:35 | for Beginners Most people don't know about one of them … on WE Boy a | actually very familiar with this one and I thought it'd be another looks good on paper side hustle. But there's way less competition than Amazon. No inventory needed and most people are only |
+| 7 | 0:35–0:40 | for Beginners Most … don't know about one of them 3& | putting in one to two hours of work every day. There's even a free workshop showing you exactly |
+| 8 | 0:40–0:46 | The Simplest Way to Build Profitable Walmart Business in 2026 28K: | how people are selling a Walmart step-by-step called eCom degree. So if you've been wanting to start a side hustle definitely check this one out. |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -44,13 +44,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@adamtwtz](example/more/2097925109155549689.jpg)](https://x.com/adamtwtz/status/2097925109155549689)<br>**@adamtwtz** · 0:20 video · 9K views<br>there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take | [![@adswithcami](example/more/2095208948764668068.jpg)](https://x.com/adswithcami/status/2095208948764668068)<br>**@adswithcami** · image · 2K views<br>I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best |   |
+| [![@adamtwtz](example/more/2097925109155549689.jpg)](https://x.com/adamtwtz/status/2097925109155549689)<br>**@adamtwtz** · 0:20 video · 9K views<br>there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take | [![@fuxps32](example/more/2067026390588039329.jpg)](https://x.com/fuxps32/status/2067026390588039329)<br>**@fuxps32** · 22:13 video · 188 views<br>400,000 likes, 80,000 saves, 0 sales pitches A woman scrolls her feed and stops on a supplement tier list. S tier, A tier, B tier, ranked on screen. S | [![@ViralSpyApp](example/more/2106822218961293724.jpg)](https://x.com/ViralSpyApp/status/2106822218961293724)<br>**@ViralSpyApp** · 0:11 video · 4 views<br>Tutti put piano in 'easy to learn' and its own practice app among the hardest. The one-screen instrument tier list got 824k plays and 4,532 comments. |
+| [![@JamestheUGCguy](example/more/2027472175339332091.jpg)](https://x.com/JamestheUGCguy/status/2027472175339332091)<br>**@JamestheUGCguy** · 1:18 video · 97 views<br>UGC example video for custom promo products in a tier list format. Really enjoy using formats that showcase products in fun ways. Brands, if you need | [![@BuckleUp99](example/more/2074426426942722118.jpg)](https://x.com/BuckleUp99/status/2074426426942722118)<br>**@BuckleUp99** · 0:34 video · 85 views<br>Everyone's using AI to fake UGC ads. I used it to invent a new ad format. An AI doctor. A live tier list. Real supplement verdicts. No script feel. No | [![@adswithcami](example/more/2095208948764668068.jpg)](https://x.com/adswithcami/status/2095208948764668068)<br>**@adswithcami** · image · 2K views<br>I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best |
 
 ## How to make one like it
 

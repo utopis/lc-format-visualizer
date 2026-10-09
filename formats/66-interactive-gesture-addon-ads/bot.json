@@ -1,0 +1,111 @@
+{
+ "id": "F66",
+ "slug": "66-interactive-gesture-addon-ads",
+ "name": "Interactive gesture add-on ads (TikTok tap-to-reveal, shake-to-reveal, Super Like)",
+ "type": "paid",
+ "platforms": "[TikTok (interactive add-ons, TopView)]",
+ "cost_per_asset": "$0 add-on to existing video",
+ "time_per_asset": "15 min",
+ "length": "15-30s TikTok in-feed ad with an interactive add-on",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Creator holds up a closed gift box",
+   "audio_text": "\"Shake your phone to open it.\""
+  },
+  {
+   "slot": "Shake moment",
+   "visual": "Gesture add-on triggers a gold burst animation",
+   "audio_text": "-"
+  },
+  {
+   "slot": "3-10s",
+   "visual": "Box opens: 7-piece stack",
+   "audio_text": "\"Any 7 for $85.\""
+  },
+  {
+   "slot": "10-20s",
+   "visual": "Demo in the shower",
+   "audio_text": "\"Waterproof.\""
+  },
+  {
+   "slot": "Card",
+   "visual": "Product card add-on with price",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "TikTok Ads Manager",
+   "prompt": "Add the Gesture / Super Like / Countdown sticker interactive add-on when building the ad (check current availability in your region)."
+  },
+  {
+   "tool": "Animation",
+   "prompt": "After Effects or CapCut: 1s gold particle burst, brand colours."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/ChrisHarihar/status/1703108334218297531",
+   "author": "ChrisHarihar",
+   "note": "A TikTok in-feed ad using the 'shake to learn more' interactive add-on (from the Barbie movie campaign): a creator talks to camera, a prompt asks viewers to shake their phone, the screen bursts into a full-screen pink Barbie pattern, then a 'watch it' card with ticket links. The poster says the format works well and has mostly been used for films.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/crowizard_stef/status/1735569746349670808",
+   "author": "crowizard_stef",
+   "note": "Stores are using TikTok’s new interactive cards already! Don’t fall behind: ​1. Create a new campaign where you select Reach & Frequency as the Ad Buy",
+   "local": "example/more/1735569746349670808.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/coltonjetlee/status/1790930807764435387",
+   "author": "coltonjetlee",
+   "note": "For those running TikTok Shop ads... Do you guys turn on a \"Interactive Add-on\" like a Product Card? We've been using them as TikTok claims it boosts ",
+   "local": "example/more/1790930807764435387.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/_deepakss_/status/2087895969157246985",
+   "author": "_deepakss_",
+   "note": "Building \"Tiktok for games\" Arcadeo for this year's Shipaton. My main aim is to have a non frustrating experience when viewing an ad. This means user ",
+   "local": "example/more/2087895969157246985.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/SOCIALFUELio/status/2092930152133243178",
+   "author": "SOCIALFUELio",
+   "note": "ana luisa are running 22 ads. this one has held for 47 days. Using an iOS crop-menu overlay visually programs the exact user behavior needed to claim ",
+   "local": "example/more/2092930152133243178.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F66-<concept>-<variant>`; tracking tag `utm_content=F66-<concept>-<variant>`.",
+  "Avoid: Add-on availability varies by region and objective; check before you produce.",
+  "Avoid: The video must work without the interaction too.",
+  "Avoid: Don't make the gesture the only content."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

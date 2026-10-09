@@ -2,6 +2,90 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 3-8 min film (9:16), plus a 60s cut-down), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@TheIvanKreimer](https://x.com/TheIvanKreimer/status/2107808445508321597) · An AI live-action melodrama (Smooche): a woman at an ID-photo desk being told she looks old ("in this photo", "what did you do?"), office scenes with colleagues, and the product only appearing around 1:54.
+- Example: [@ViralOps_](https://x.com/ViralOps_/status/2108255353016406383) · Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could 
+- Example: [@zedmadeit](https://x.com/zedmadeit/status/2102176819709673703) · heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac
+- Example: [@0xROAS](https://x.com/0xROAS/status/2104589798208065796) · 100% AI drama ad (Seedance): turn the winning ad into a 2-3 min story; Resilia hooks: cheating husband/wife, compared to another girl.
+- Example: [@SGradon](https://x.com/SGradon/status/2101705439565979947) · In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here'
+- Example: [@tryatria_AI](https://x.com/tryatria_AI/status/2100612079891755286) · AI ANIMATED STORYTELLING ADS SHOULDN’T WORK THIS WELL. BUT THEY DO. 👀 Cartoon characters. Dramatic storylines. Pixar-style animation. Ridiculous plot 
+- Example: [@whotanish](https://x.com/whotanish/status/2100587035786715295) · All the big brands have already catching up too the AI drama ads . users have organically have been watching the micro dramas for really long It has b
+- Example: [@reon_gould](https://x.com/reon_gould/status/2101990638312886482) · 🚨HIRING: Video Editor for high scaling Ecommerce Brand Role: - Editing & creating high converting vsl style ai ecommerce ads from scratch (scripts and
+- Example: [@ViduAI_official](https://x.com/ViduAI_official/status/2092810457690308949) · AI video has been stuck in "prototype mode" for years. The Q3 Mix changes that: 🏷️ Ads: lip-synced testimonials + 15s one-take brand films 🎬 AI Drama:
+
+### Live paid ads in this format (7 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **PopDrama 02: Long-form short-drama episode ad (PopDrama, 19:41)** (406 days live): A full episode of a ReelShort-style drama (a boardroom, a betrayed heroine, a CEO), running 958-1,181 s, used as a Meta ad by the drama app.
+- **Olivia Ramirez: English soap-style drama ad (Olivia Ramirez, 4:40)** (277 days live): An English live-action melodrama: a cheating confrontation, "I've been using my money and living under my roof… kick this woman out", and a bank-card reveal. 274-280 s.
+- **Smooche · Cosmetic Times: “I had a sit next to my Miss it it was my daughter So I had to walk in…”** (44 days live): Opens: “I had a sit next to my Miss it it was my daughter So I had to walk in In front of everyone and be seen and the only reason I walked in with my head up was because of what my best friend Handed me…”
+- **Smooche · Cosmetic Times: “I had to sit next to my ex husband So I had to walk in front of…”** (44 days live): Opens: “I had to sit next to my ex husband So I had to walk in front of everyone and be seen And the the only reason I walked in with my head up was because of what my best friend handed me three nights…”
+- **Smooche · Cosmetic Times: “He's not leaving until you listen to her 8 months after the divorce was…”** (44 days live): Opens: “He's not leaving until you listen to her 8 months after the divorce was finalized 8 months of staring at myself in the mirror every morning When I started looking so old I spent the whole week…”
+- **Smooche · Smooche: “My ex has been locked in A woman he left me for Young enough to be her…”** (21 days live): Opens: “My ex has been locked in A woman he left me for Young enough to be her daughter On the first date, I've been on in 22 years And the only reason I didn't fall apart On both of them So, the day before,…”
+
+**Do not copy (seen in these live ads):** Most of these are fully AI-generated actors and are not labelled as such, and the health outcomes in the plots are dramatised. Disclose AI and keep any claim inside what you can substantiate.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0:00-0:20 Humiliation | Office ID-photo counter; clerk looks at her photo then at her | Clerk: "Ma'am, that's not you in this photo." She touches her bare neck. |
+| 0:20-1:30 Wound | Close-ups at home; old jewellery in a box, green-tinged | Her sister on the phone: "Just buy something new." "I did. Three times." |
+| 1:30-2:30 Mentor | A friend at a café, unbothered, sea-swim hair | Friend: "I haven't taken mine off in a year." Slides a small box across the table. |
+| 2:30-4:00 Climb | Montage: shower, beach, a work presentation; the necklace catches light | Little or no dialogue; music builds |
+| 4:00-5:00 Vindication | Back at the same counter | Clerk: "...You look different." She smiles. |
+| Last 30s | Brand card, offer, AI-generated label | "Any 7 for $85. This film uses AI-generated actors." |
+
+### Prompts
+
+**Veo 3 (scene)**
+
+```
+live-action melodrama, a 55-year-old woman at an office ID-photo counter, a clerk says "Ma'am, that's not you in this photo", soft fluorescent light, handheld, 8s, 9:16
+```
+
+**Character consistency**
+
+```
+Generate a reference sheet for each character first, then use it as image input for every shot (Kling Elements / Veo ingredients).
+```
+
+**Claude (script)**
+
+```
+Write a 5-minute melodrama: humiliation, failed fixes, mentor, gift, doubt, climb, vindication, pitch. Product appears only at the gift. Dialogue under 15 words per line.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F91-<concept>-<variant>`; tracking tag `utm_content=F91-<concept>-<variant>`.
+- [ ] Avoid: Label AI actors.
+- [ ] Avoid: No fake credentials for the mentor.
+- [ ] Avoid: Most viewers drop before the product appears; test 60s and 3-minute cuts.
+- [ ] Avoid: Keep the humiliation light; cruelty reads badly for a gift brand.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

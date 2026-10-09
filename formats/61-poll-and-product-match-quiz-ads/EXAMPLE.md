@@ -18,8 +18,8 @@ Four statics a creative team made for a quiz funnel. One is an iMessage thread: 
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | New Research Hair Loss Isn’t Genetic. It’s Structural. Clinical framework reveals the protein collapse behind male pattern thinning. ff Se Read the findings |
-| 2 | 11 5G GA Sarah finally looked into the hair thing. Took some quiz. Turns out it's not even about growth the anchor holding the hair is what breaks down. Everything tried before was only doing half the job. actually feel like understand it now. a |
+| 1 | New Research Hair Loss Isn’t Genetic. It’s Structural. Clinical framework reveals the protein collapse behind male pattern … Read the findings |
+| 2 | Sarah finally looked into the hair thing. Took some quiz. Turns out it's not even about growth the anchor holding the hair is what breaks down. Everything tried before was only doing half the job. actually feel like understand it now. |
 | 3 | Day How much could you recover in 90 days? Take the quiz |
 | 4 | (mostly visual) |
 

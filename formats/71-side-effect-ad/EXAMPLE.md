@@ -24,8 +24,8 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 | 4 | 0:14–0:18 | · | · |
 | 5 | 0:18–0:23 | · | Is this love usable? |
 | 6 | 0:23–0:28 | · | · |
-| 7 | 0:28–0:32 | fy al SR yr at 23 | · |
-| 8 | 0:32–0:37 | ny Actual love sold separately. | · |
+| 7 | 0:28–0:32 | · | · |
+| 8 | 0:32–0:37 | Actual love sold separately. | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -62,8 +62,8 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 4 | 0:16 | (visual beat, see frame 4) | … |
 | 5 | 0:21 | Is this love usable? | … |
 | 6 | 0:25 | (visual beat, see frame 6) | … |
-| 7 | 0:30 | on screen: fy al SR yr at 23 | … |
-| 8 | 0:35 | on screen: ny Actual love sold separately. | … |
+| 7 | 0:30 | (visual beat, see frame 7) | … |
+| 8 | 0:35 | on screen: Actual love sold separately. | … |
 
 ### 2. Shot-by-shot remake
 

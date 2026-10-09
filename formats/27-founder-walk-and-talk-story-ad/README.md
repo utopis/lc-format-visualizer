@@ -33,6 +33,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: High (multiple operator lists; contested for scripted versions) · hype risk: Low-Med · cost $0-300 (phone, lav mic, optional host) · half day = 10-20 cuts
 
 ## What it is

@@ -18,15 +18,16 @@ The TikTok profile of "Rizz Commander" (@rizz.commander): 14.1K followers, 325.3
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | (mostly visual) |
+| 1 | 14.1K 325.3K Followers Likes Following Message is … Shooting shots on … rookie season Mvp season … 2M 11M 279.2K … Season Shooting my |
 
-## More real examples (1)
+## More real examples (4)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@leonclipping](example/more/2104660939069170110.jpg)](https://x.com/leonclipping/status/2104660939069170110)<br>**@leonclipping** · images · 37K views<br>this girl might be a fucking genius she built a relationship page around the same couple photo on every post, posts simple "rules we made after a figh |   |   |
+| [![@leonclipping](example/more/2104660939069170110.jpg)](https://x.com/leonclipping/status/2104660939069170110)<br>**@leonclipping** · images · 37K views<br>this girl might be a fucking genius she built a relationship page around the same couple photo on every post, posts simple "rules we made after a figh | [![@jaxxdwyer](example/more/2073376584564871455.jpg)](https://x.com/jaxxdwyer/status/2073376584564871455)<br>**@jaxxdwyer** · 0:07 video · 954 views<br>One of our creators hit 450k views less than 72hrs after creating her IG account Here's the UGC format that got immediate traction: Text hook + long t | [![@marsdiiaryy](example/more/2090988603451084990.jpg)](https://x.com/marsdiiaryy/status/2090988603451084990)<br>**@marsdiiaryy** · video · 431 views<br>that wrong dm slideshow trend on tiktok… #TRANSCENDINGTHEGAME |
+| [![@laurgrowth](example/more/2103981166118486250.jpg)](https://x.com/laurgrowth/status/2103981166118486250)<br>**@laurgrowth** · 0:23 video · 3K views<br>the most underused format in affiliate marketing right now is the text message thread and for GTA 6 content it is going to be one of the highest conve |   |   |
 
 ## How to make one like it
 

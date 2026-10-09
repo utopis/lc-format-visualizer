@@ -1,0 +1,163 @@
+{
+ "id": "F31",
+ "slug": "31-tier-list-ranking-ad",
+ "name": "Tier-list / ranking ad",
+ "type": "paid + organic",
+ "platforms": "[Meta, TikTok, Reels, YouTube Shorts]",
+ "cost_per_asset": "$0-150",
+ "time_per_asset": "1-2 h",
+ "length": "30-60s video or 1 static",
+ "shots": [
+  {
+   "slot": "0-2s",
+   "visual": "Creator holding or in front of an S/A/B/C/D/F tier board",
+   "audio_text": "\"Ranking every type of gold jewelry for people who never take it off\""
+  },
+  {
+   "slot": "2-40s",
+   "visual": "Places each option card, explains each placement in one line",
+   "audio_text": "Fair, specific reasons (plated: D, vermeil: B, solid: A, PVD: S)"
+  },
+  {
+   "slot": "40-50s",
+   "visual": "Product placed in S with a reason",
+   "audio_text": "Why it wins"
+  },
+  {
+   "slot": "End",
+   "visual": "Full board",
+   "audio_text": "Offer"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Board",
+   "prompt": "Use tiermaker.com or a printed board; cards with category names, not competitor brands."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/deepbajwacreate/status/2098014748570739055",
+   "author": "deepbajwacreate",
+   "note": "A creator holding a printed tier list (S/A/B/C/D) and ranking popular side hustles one card at a time, with captions, ending on the product he places at the top (an Ecom Degree signup page).",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/adamtwtz/status/2097925109155549689",
+   "author": "adamtwtz",
+   "note": "there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take ",
+   "local": "example/more/2097925109155549689.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/fuxps32/status/2067026390588039329",
+   "author": "fuxps32",
+   "note": "400,000 likes, 80,000 saves, 0 sales pitches A woman scrolls her feed and stops on a supplement tier list. S tier, A tier, B tier, ranked on screen. S",
+   "local": "example/more/2067026390588039329.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ViralSpyApp/status/2106822218961293724",
+   "author": "ViralSpyApp",
+   "note": "Tutti put piano in 'easy to learn' and its own practice app among the hardest. The one-screen instrument tier list got 824k plays and 4,532 comments. ",
+   "local": "example/more/2106822218961293724.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/JamestheUGCguy/status/2027472175339332091",
+   "author": "JamestheUGCguy",
+   "note": "UGC example video for custom promo products in a tier list format. Really enjoy using formats that showcase products in fun ways. Brands, if you need ",
+   "local": "example/more/2027472175339332091.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/BuckleUp99/status/2074426426942722118",
+   "author": "BuckleUp99",
+   "note": "Everyone's using AI to fake UGC ads. I used it to invent a new ad format. An AI doctor. A live tier list. Real supplement verdicts. No script feel. No",
+   "local": "example/more/2074426426942722118.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/adswithcami/status/2095208948764668068",
+   "author": "adswithcami",
+   "note": "I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best",
+   "local": "example/more/2095208948764668068.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "FurryWell Philippines: Report-card rating static (FurryWell \"A+ / 9.7\")",
+   "days": 188,
+   "image": "adlibrary/w4_89627566.jpg",
+   "what": "An \"Overall Guide A+ / Total Rating 9.7/10\" card with bars (Ingredient quality 9.7, Flavour 10, Scent 10, Value 9) and a SHOP NOW button.",
+   "how": "A report-card template, 4 scored bars, a letter grade."
+  },
+  {
+   "title": "Smooche · Cosmetic Times: “Revlon color stay. Six out of ten. Yes, she stays put…”",
+   "days": 9,
+   "image": "adlibrary/w6_1089794753821593.jpg",
+   "what": "Opens: “Revlon color stay. Six out of ten.”",
+   "how": "Hold up each competitor, give it a score, and name one visible flaw with a macro shot. The product comes last with the top score. Put the scores on screen.",
+   "dnc": "The ranking presenter is an AI persona with an invented credential, posted from pages like \"Korean Beauty Tips\" and \"James Miami MUA\". Use a real, disclosed reviewer."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “See this orange? That is not your skin. That is your foundation…”",
+   "days": 7,
+   "image": "adlibrary/w6_1107244338349193.jpg",
+   "what": "Opens: “See this orange? That is not your skin.”",
+   "how": "Hold up each competitor, give it a score, and name one visible flaw with a macro shot. The product comes last with the top score. Put the scores on screen.",
+   "dnc": "The ranking presenter is an AI persona with an invented credential, posted from pages like \"Korean Beauty Tips\" and \"James Miami MUA\". Use a real, disclosed reviewer."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “This is how your skin looks bare. And this is what 40 years of the…”",
+   "days": 7,
+   "image": "adlibrary/w6_1737525717356360.jpg",
+   "what": "Opens: “This is how your skin looks bare. And this is what 40 years of the wrong foundation did to it.”",
+   "how": "Hold up each competitor, give it a score, and name one visible flaw with a macro shot. The product comes last with the top score. Put the scores on screen.",
+   "dnc": "The ranking presenter is an AI persona with an invented credential, posted from pages like \"Korean Beauty Tips\" and \"James Miami MUA\". Use a real, disclosed reviewer."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “This is what you're found in your fine lines by lunch. Let me show you…”",
+   "days": 7,
+   "image": "adlibrary/w6_2782000632196016.jpg",
+   "what": "Opens: “This is what you're found in your fine lines by lunch. Let me show you the four worst offenders.”",
+   "how": "Hold up each competitor, give it a score, and name one visible flaw with a macro shot. The product comes last with the top score. Put the scores on screen.",
+   "dnc": "The ranking presenter is an AI persona with an invented credential, posted from pages like \"Korean Beauty Tips\" and \"James Miami MUA\". Use a real, disclosed reviewer."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “and this is what your foundation is really doing to your face. Let me…”",
+   "days": 6,
+   "image": "adlibrary/w6_1398692098533361.jpg",
+   "what": "Opens: “and this is what your foundation is really doing to your face. Let me rank the one.”",
+   "how": "Hold up each competitor, give it a score, and name one visible flaw with a macro shot. The product comes last with the top score. Put the scores on screen.",
+   "dnc": "The ranking presenter is an AI persona with an invented credential, posted from pages like \"Korean Beauty Tips\" and \"James Miami MUA\". Use a real, disclosed reviewer."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F31-<concept>-<variant>`; tracking tag `utm_content=F31-<concept>-<variant>`.",
+  "Avoid: Ranking named competitors unfairly is risky; rank categories.",
+  "Avoid: The product must deserve its tier; give a real reason."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

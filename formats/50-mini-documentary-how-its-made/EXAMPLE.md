@@ -21,9 +21,9 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 | 1 | 0:00–0:07 | · | Oh |
 | 2 | 0:07–0:14 | · | · |
 | 3 | 0:14–0:21 | · | · |
-| 4 | 0:21–0:28 | ee te HG, La er | · |
+| 4 | 0:21–0:28 | · | · |
 | 5 | 0:28–0:35 | · | · |
-| 6 | 0:35–0:42 | fw ar a 72 er | · |
+| 6 | 0:35–0:42 | · | · |
 | 7 | 0:42–0:49 | · | · |
 | 8 | 0:49–0:56 | · | · |
 
@@ -59,9 +59,9 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 1 | 0:03 | Oh | … |
 | 2 | 0:10 | (visual beat, see frame 2) | … |
 | 3 | 0:17 | (visual beat, see frame 3) | … |
-| 4 | 0:24 | on screen: ee te HG, La er | … |
+| 4 | 0:24 | (visual beat, see frame 4) | … |
 | 5 | 0:31 | (visual beat, see frame 5) | … |
-| 6 | 0:38 | on screen: fw ar a 72 er | … |
+| 6 | 0:38 | (visual beat, see frame 6) | … |
 | 7 | 0:46 | (visual beat, see frame 7) | … |
 | 8 | 0:53 | (visual beat, see frame 8) | … |
 

@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:04 | See IN $9 ec Om ou 329 oO 1987 tee cs vt 16 yt ms aa ot | · |
-| 2 | 0:04–0:08 | Ee es eS SS ToLD a 44% yah a oh ss oO vu mee ak eG | · |
-| 3 | 0:08–0:12 | ss 3S SS Ne 73 va AN, a a Go Dae | · |
-| 4 | 0:12–0:17 | vr at. ic M4 es eh 608 dA INDIES an ia Le | · |
-| 5 | 0:17–0:21 | il Ye 423 76 axe RS rA | · |
-| 6 | 0:21–0:25 | me ny a mane AR, iN Ja a UD or a: Lis or oO | · |
-| 7 | 0:25–0:29 | ok. CREATIVE BLOCK by Pass through Tr | · |
-| 8 | 0:29–0:34 | ey a oO SS a NS es World Football ae nt sae Po a Oy rah 7s se 499 ae Te | · |
+| 1 | 0:00–0:04 | See IN $9 | · |
+| 2 | 0:04–0:08 | a 44% yah a oh | · |
+| 3 | 0:08–0:12 | a a Go | · |
+| 4 | 0:12–0:17 | · | · |
+| 5 | 0:17–0:21 | 423 76 axe | · |
+| 6 | 0:21–0:25 | · | · |
+| 7 | 0:25–0:29 | · | · |
+| 8 | 0:29–0:34 | · | · |
 
 ## More real examples (3)
 
@@ -49,14 +49,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:02 | on screen: See IN $9 ec Om ou 329 oO 1987 tee cs vt 16 yt ms aa ot | … |
-| 2 | 0:06 | on screen: Ee es eS SS ToLD a 44% yah a oh ss oO vu mee ak eG | … |
-| 3 | 0:10 | on screen: ss 3S SS Ne 73 va AN, a a Go Dae | … |
-| 4 | 0:14 | on screen: vr at. ic M4 es eh 608 dA INDIES an ia Le | … |
-| 5 | 0:19 | on screen: il Ye 423 76 axe RS rA | … |
-| 6 | 0:23 | on screen: me ny a mane AR, iN Ja a UD or a: Lis or oO | … |
-| 7 | 0:27 | on screen: ok. CREATIVE BLOCK by Pass through Tr | … |
-| 8 | 0:32 | on screen: ey a oO SS a NS es World Football ae nt sae Po a Oy rah 7s se 499 ae Te | … |
+| 1 | 0:02 | on screen: See IN $9 | … |
+| 2 | 0:06 | on screen: a 44% yah a oh | … |
+| 3 | 0:10 | on screen: a a Go | … |
+| 4 | 0:14 | (visual beat, see frame 4) | … |
+| 5 | 0:19 | on screen: 423 76 axe | … |
+| 6 | 0:23 | (visual beat, see frame 6) | … |
+| 7 | 0:27 | (visual beat, see frame 7) | … |
+| 8 | 0:32 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake
 

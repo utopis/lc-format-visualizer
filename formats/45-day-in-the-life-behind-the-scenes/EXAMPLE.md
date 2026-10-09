@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | Tat ty ALA ot WISE nt I FD a yi Fi SS to ay | · |
-| 2 | 0:03–0:06 | a Be Empowered The POV ANG 93 | · |
-| 3 | 0:06–0:08 | · | · |
+| 1 | 0:00–0:03 | · | · |
+| 2 | 0:03–0:06 | a Be Empowered The POV ANG | · |
+| 3 | 0:06–0:08 | Empowered a Wal | · |
 | 4 | 0:08–0:10 | · | · |
 | 5 | 0:10–0:12 | Empowered. The 0.5 POV | · |
 | 6 | 0:12–0:14 | · | · |
-| 7 | 0:14–0:16 | Ci ISLE 9: | · |
+| 7 | 0:14–0:16 | · | · |
 
 ## How to make one like it
 
@@ -40,13 +40,13 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:01 | on screen: Tat ty ALA ot WISE nt I FD a yi Fi SS to ay | … |
-| 2 | 0:05 | on screen: a Be Empowered The POV ANG 93 | … |
-| 3 | 0:07 | (visual beat, see frame 3) | … |
+| 1 | 0:01 | (visual beat, see frame 1) | … |
+| 2 | 0:05 | on screen: a Be Empowered The POV ANG | … |
+| 3 | 0:07 | on screen: Empowered a Wal | … |
 | 4 | 0:09 | (visual beat, see frame 4) | … |
 | 5 | 0:11 | on screen: Empowered. The 0.5 POV | … |
 | 6 | 0:13 | (visual beat, see frame 6) | … |
-| 7 | 0:15 | on screen: Ci ISLE 9: | … |
+| 7 | 0:15 | (visual beat, see frame 7) | … |
 
 ### 2. Shot-by-shot remake
 

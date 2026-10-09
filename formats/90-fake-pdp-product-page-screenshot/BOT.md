@@ -2,6 +2,65 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 static 1080x1350 (phone-screenshot look)), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@FedotOff90](https://x.com/FedotOff90/status/2106046297434374289) · A native-looking warehouse photo: a hand holding the product (a grey neck pillow) in front of stacked shipping boxes with a pink "SUMMER SALE IS LIVE! 55% OFF + Free shipping + Free gift" banner. It looks like a store update, not a designed ad.
+- Example: [@callmenirmal](https://x.com/callmenirmal/status/1905160356810625284) · 4. Turn into ADS/Creatives. This part blew my mind 🤯 I literally just took a screenshot of the product page (PDP) and told GPT-4o: “Make an ad out of 
+- Example: [@reemaabajaj](https://x.com/reemaabajaj/status/1869425787805262293) · I love this ad by @TeaboxTea Typical Ugly Ad 2.0 Here's why👇 💚 Headline hook with a freebie offer They don’t just mention a freebie; they boost its pe
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Main image | A phone screenshot of the real product page: product photo, title, price, star rating with review count, 3 bullets, a gold "Add to bag" button | - |
+| Overlay | One handwritten-style circle or arrow around the reviews count | "4,812 reviews" |
+| Variant A | iOS Settings-style toggles | "Take off before shower: OFF · Turns green: OFF · Compliments: ON" |
+| Variant B | Trustpilot-style review card screenshot | One real 5-star review |
+| Primary text | - | "Screenshot this for later." |
+
+### Prompts
+
+**Figma**
+
+```
+Recreate the PDP at 1170x2532 (iPhone), then crop to 1080x1350 keeping price + stars + button; use the real numbers.
+```
+
+**Settings variant**
+
+```
+iOS Settings UI kit (Figma community), 4 toggles, SF Pro, a product photo as the profile image.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F90-<concept>-<variant>`; tracking tag `utm_content=F90-<concept>-<variant>`.
+- [ ] Avoid: Price, rating and review count must be real and current.
+- [ ] Avoid: Don't imitate Amazon, Apple or Trustpilot logos; use their look, not their trademarks.
+- [ ] Avoid: Update the ad when the price changes.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

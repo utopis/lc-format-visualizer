@@ -2,6 +2,68 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 5-slide photo carousel (1080x1920) or 9-12s video with a swipe transition), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@simonecanciello](https://x.com/simonecanciello/status/2102046332970013078) · The App Store "App Stats" overlay that the poster used: "700k downloads & $2m revenue last month", over the Retake AI listing (Face & Photo Editor, 4.6 stars, 2.9K ratings, No.60 in Photo & Video). The post text explains the format: take a selfie, pick any Pinterest pic, and the app recreates it with you in it. The TikToks themselves are not attached, so this is the proof screenshot and not the cr
+- Example: [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2061578473370501423) · This is literally a $1M app idea...😭 This post has over 2 million views and 12k+ comments asking for the app its literally just an app that helps you 
+- Example: [@onlinedopamine](https://x.com/onlinedopamine/status/2082813772373098530) · these are the types of outsized organic views you get on new accounts when you nail > understanding of your target audience (= pinterest aesthetic gir
+- Example: [@AdolphsonFalkk](https://x.com/AdolphsonFalkk/status/1993966639742665100) · Recreating Pinterest pics together
+- Example: [@TotesDaGoat](https://x.com/TotesDaGoat/status/1947062820484284818) · Recreated this Pinterest look on my YouTube !!! ✨💋🤏🏾 https://youtube.com/shorts/t8luruxmghI?si=Sx6lNgAyRETmUanP
+- Example: [@Dunnidotng](https://x.com/Dunnidotng/status/2041777144611676431) · I recreated this Pinterest inspired dress for my UK client Summer is cominggggggg, are you prepared??? 🏷️: ₦80,000 Please help retweet and like to rea
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Slide 1 | The reference pin (LC-owned or follower-submitted with permission), Pinterest-style rounded crop with save count | "my most-saved pin for 3 years" |
+| Slide 2 | Creator recreating it: same angle (phone at chest height), same light (window, 4-6pm), same neckline | "recreated it with pieces I can shower in" |
+| Slide 3 | Macro of the stack, pieces labelled with thin lines | Piece names + "all 14K PVD" |
+| Slide 4 | Split: pin left, recreation right | "total: any 7 for $85" |
+| Slide 5 | Text slide on beige | "send me your pin, I'll recreate it next 👇" |
+
+### Prompts
+
+**Aesthetic list (Claude)**
+
+```
+List 20 jewelry aesthetics that are highly saved on Pinterest right now (e.g. clean girl gold, coastal stack, bridal minimal). For each, the LC pieces from {{CATALOG}} that recreate it and a 9-word slide 1 caption.
+```
+
+**Shoot**
+
+```
+iPhone portrait mode off, 1x lens, window light from the side, white tee or slip dress, hair tucked so the neck stack is visible; 10 frames per look, pick the closest match.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F102-<concept>-<variant>`; tracking tag `utm_content=F102-<concept>-<variant>`.
+- [ ] Avoid: Never repost someone else's photo without permission; that's both a copyright and trust problem.
+- [ ] Avoid: If the recreation looks worse than the pin, the post backfires; reshoot.
+- [ ] Avoid: AI recreations must be labelled and show the real product.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

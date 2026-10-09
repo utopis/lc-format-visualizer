@@ -20,7 +20,7 @@
   {
    "t": "0:04",
    "said": "Two years, two years and not one person is checked on me.",
-   "ocr": "YEARS AND NOBODY LOOKED AT THIS and not one person has oa checked on me."
+   "ocr": "YEARS AND NOBODY LOOKED AT THIS and not one person has \u2026 checked on me."
   },
   {
    "t": "0:13",
@@ -35,7 +35,7 @@
   {
    "t": "0:30",
    "said": "It used to be so loud down here, nobody said anything.",
-   "ocr": "I AF. Ui one winter a am"
+   "ocr": "one winter a am"
   },
   {
    "t": "0:39",
@@ -45,7 +45,7 @@
   {
    "t": "0:47",
    "said": "",
-   "ocr": "om sa a Nobody asked how I'm doing down here. a"
+   "ocr": "a Nobody asked how I'm doing down here. a"
   },
   {
    "t": "0:56",
@@ -55,7 +55,7 @@
   {
    "t": "1:05",
    "said": "",
-   "ocr": "Lad hs. a 1% So mn: Ss. SS ASS oY rm COLD... mS bl"
+   "ocr": ""
   }
  ],
  "more": [
@@ -112,6 +112,15 @@
    "kind": "4:54 video",
    "cap": "there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte",
    "views": 670
+  },
+  {
+   "id": "2107131198145204441",
+   "author": "vladdubchak_x",
+   "url": "https://x.com/vladdubchak_x/status/2107131198145204441",
+   "thumb": "example/more/2107131198145204441.jpg",
+   "kind": "1:22 video",
+   "cap": "You waste hours making one AI song ad because you did not do a timing map A timing map gets claude to listen to the song and map what word is said in ",
+   "views": 207
   }
  ]
 }

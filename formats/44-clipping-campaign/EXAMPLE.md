@@ -19,11 +19,11 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
 | 1 | 0:00–0:01 | · | · |
-| 2 | 0:01–0:02 | · | Somebody's watching me |
+| 2 | 0:01–0:02 | shaving a period, … just now, finding why, my, Whole | Somebody's watching me |
 | 3 | 0:02–0:03 | · | · |
-| 4 | 0:03–0:05 | Cycle day of 28 ll my on taught me! phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making you feel like a walking w | · |
-| 5 | 0:05–0:06 | Ef Cycle day of 28 ee phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making you feel like a walking wool sweater. H | · |
-| 6 | 0:06–0:07 | Cycle day of 28 ee my dragon taught me!! phase Itch levels are at an all-time high. Hormonal chaos is in full swing, and your skin is making you feel like a wal | · |
+| 4 | 0:03–0:05 | Cycle day of 28 … my on taught me! … phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making you feel like a walking  | · |
+| 5 | 0:05–0:06 | Cycle day of 28 … phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making you feel like a walking wool sweater. … and | · |
+| 6 | 0:06–0:07 | Cycle day of 28 … my dragon taught me!! … phase Itch levels are at an all-time high. Hormonal chaos is in full swing, and your skin is making you feel like a wa | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -31,7 +31,7 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -39,6 +39,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@alexzgirbu](example/more/2092441815739670637.jpg)](https://x.com/alexzgirbu/status/2092441815739670637)<br>**@alexzgirbu** · images · 2K views<br>Clipper earns ~$3k per 1M views cutting streams/vlogs into short clips submitted to Content Rewards/Clipping Net/Clipster campaigns. | [![@natiakourdadze](example/more/2107495566225834123.jpg)](https://x.com/natiakourdadze/status/2107495566225834123)<br>**@natiakourdadze** · image · 1K views<br>The easiest way to get banned on Clip Brand? A bot score of 99. Don't submit videos with fake views. Content Rewards detects bots, and we can see it r | [![@LinoLeighton](example/more/2077533819905744955.jpg)](https://x.com/LinoLeighton/status/2077533819905744955)<br>**@LinoLeighton** · images · 32K views<br>Currently at 60 clippers now for side app. I’ve only spent $430 on this faceless clipping campaign so far and it’s currently on around 10X return. Ove |
 | [![@alexxgrowth](example/more/2085667455062389146.jpg)](https://x.com/alexxgrowth/status/2085667455062389146)<br>**@alexxgrowth** · images · 10K views<br>doordash did $13.7 BILLION in revenue last year they have one of the best marketing teams on the planet and they just launched something called Cringe | [![@savixbt](example/more/2082914407567462902.jpg)](https://x.com/savixbt/status/2082914407567462902)<br>**@savixbt** · image · 1K views<br>clippers in the house, @blknoiz06 just drop a clipping campaign for clippers there’s $10,000 in $ANSEM reward every month for clippers. requirements: | [![@Dkevs_](example/more/2103032078514246093.jpg)](https://x.com/Dkevs_/status/2103032078514246093)<br>**@Dkevs_** · image · 896 views<br>if you’re a founder and you haven’t launched your own clipping campaign yet just start. it’s one of the cheapest ways to distribute your content at sc |
+| [![@natiakourdadze](example/more/2101662430048735412.jpg)](https://x.com/natiakourdadze/status/2101662430048735412)<br>**@natiakourdadze** · image · 2K views<br>Did I share my newest marketing obsession? Content Rewards by Whop 🥳 I just launched a campaign for Overglow AI, and clippers are already applying, po | [![@LinoLeighton](example/more/2077532362842181898.jpg)](https://x.com/LinoLeighton/status/2077532362842181898)<br>**@LinoLeighton** · images · 110 views<br>Currently at 60 clippers now for side app. I’ve only spent $430 on this faceless clipping campaign so far and it’s already generated $4K in Rev. Over |   |
 
 ## How to make one like it
 
@@ -58,8 +59,8 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 2 | 0:01 | Somebody's watching me | … |
 | 3 | 0:03 | Somebody's watching me | … |
 | 4 | 0:04 | Somebody's watching me | … |
-| 5 | 0:05 | on screen: Ef Cycle day of 28 ee phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making | … |
-| 6 | 0:07 | on screen: Cycle day of 28 ee my dragon taught me!! phase Itch levels are at an all-time high. Hormonal chaos is in full swing, and | … |
+| 5 | 0:05 | on screen: Cycle day of 28 … phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making you | … |
+| 6 | 0:07 | on screen: Cycle day of 28 … my dragon taught me!! … phase Itch levels are at an all-time high. Hormonal chaos is in full swing, an | … |
 
 ### 2. Shot-by-shot remake
 

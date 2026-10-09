@@ -2,6 +2,62 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 static 1080x1350), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@iwo_cybulski](https://x.com/iwo_cybulski/status/1833960761489813736) · A static ad for a beef-tallow cooking fat: a split image labelled DAY 1 and DAY 30 — a frying pan on the left, a happy family at a dinner table on the right — with benefit pills under each side. It is the closest real example we found to a streak / progress-over-time static; there is no checkmark calendar grid.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Main | A 30- or 90-day calendar grid, each day ticked in gold marker | "90 days. Never taken off." |
+| Detail | A few day boxes with tiny notes | "sea" "gym" "wedding" "shower" |
+| Product | The necklace laid across the bottom of the calendar | - |
+| Corner | Offer | "Any 7 for $85" |
+
+### Prompts
+
+**Real version**
+
+```
+Print a calendar, tick days for real as a team member wears it, photograph it at the end.
+```
+
+**Figma**
+
+```
+Calendar grid 7x13, gold ticks, handwritten notes in 4-5 cells.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F68-<concept>-<variant>`; tracking tag `utm_content=F68-<concept>-<variant>`.
+- [ ] Avoid: If you claim 90 days, someone should really have worn it 90 days.
+- [ ] Avoid: Keep notes tiny; the grid is the visual.
+- [ ] Avoid: No clean public example of this exact format was found; test it before scaling.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

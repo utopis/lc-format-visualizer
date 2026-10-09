@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:06 | Tl ee vi hi la if a. bs that nobody talks about. | If you take Adderall or any stimulant, let's map out the crash that nobody talks about. You take Adderall in the morning, dopamine goes up, and that's what causes you to feel focused and productive. |
-| 2 | 0:06–0:13 | The these dopamine levels Le | But as the day goes on, these dopamine levels naturally start coming back down, |
-| 3 | 0:13–0:19 | Fa Ky experience that | while cortisol, your body's main stress hormone, can stay elevated. That's why some people experience that afternoon crash and feel like they're going to snap at anyone who asks them a question. |
-| 4 | 0:19–0:26 | lee a Fe oh ae: ae ra wh eh a Ne a a tee a- Sees ee ee: fo oa ne Ns at mw ae as part of taking a stimulant. oF | The good news is, those downsides don't have to be something you just accept as part of taking a stimulant. That's exactly why Stasis was created. |
-| 5 | 0:26–0:33 | · | Their daytime formula is designed to be taken with your stimulant, with ingredients like l-theanine, ashwagandha, and saffron, |
-| 6 | 0:33–0:39 | he SF DA po’ Ly Lie 96% percent of people Based on a September 2024 of a previous version of and current version of Night. Ingredients in Day have since | to support healthy dopamine balance and your body's natural stress response. 96% of people said their crash improved. |
+| 1 | 0:00–0:06 | that nobody talks about. | If you take Adderall or any stimulant, let's map out the crash that nobody talks about. You take Adderall in the morning, dopamine goes up, and that's what causes you to feel focused and productive. |
+| 2 | 0:06–0:13 | The these dopamine levels | But as the day goes on, these dopamine levels naturally start coming back down, |
+| 3 | 0:13–0:19 | · | while cortisol, your body's main stress hormone, can stay elevated. That's why some people experience that afternoon crash and feel like they're going to snap at anyone who asks them a question. |
+| 4 | 0:19–0:26 | a a tee a- … as part of taking a | The good news is, those downsides don't have to be something you just accept as part of taking a stimulant. That's exactly why Stasis was created. |
+| 5 | 0:26–0:33 | Amino Acid known for relaxation … and calming effects … Regulates mood, supports calming | Their daytime formula is designed to be taken with your stimulant, with ingredients like l-theanine, ashwagandha, and saffron, |
+| 6 | 0:33–0:39 | Lie 96% percent of people Based on a September 2024 of a previous version of … and current version of … Night. Ingredients in … Day have since | to support healthy dopamine balance and your body's natural stress response. 96% of people said their crash improved. |
 | 7 | 0:39–0:46 | So you can actually | Then their nighttime formula is designed to support relaxation and restorative sleep, so you can actually fall asleep at the end of the day and wake up feeling refreshed. |
-| 8 | 0:46–0:52 | · | If you're looking for a better way to support your stimulant routine, not replace it, check out the link below to learn more about Stasis. |
+| 8 | 0:46–0:52 | Backed by Research Our … research sets sec days | If you're looking for a better way to support your stimulant routine, not replace it, check out the link below to learn more about Stasis. |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -47,13 +47,15 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@0xROAS](example/more/2094086530973229173.jpg)](https://x.com/0xROAS/status/2094086530973229173)<br>**@0xROAS** · 0:46 video · 24K views<br>here's another BANGER ai ad style you can use in your ads it's called BRB Whiteboard Explainer style (my fav) there's infinite ways you can scale your | [![@atlas_cloud_ai](example/more/2087724906285060447.jpg)](https://x.com/atlas_cloud_ai/status/2087724906285060447)<br>**@atlas_cloud_ai** · 0:30 video · 998 views<br>30-second expert whiteboard ad. Perfect lip sync, natural handwriting, real skin texture — one single Seedance 2.5 generation. Generated on https://t. |   |
+| [![@0xROAS](example/more/2086523553717883287.jpg)](https://x.com/0xROAS/status/2086523553717883287)<br>**@0xROAS** · 1:11 video · 15K views<br>we finally cracked whiteboard ads inside ai ads community. this is extremely engaging and you can use it for whatever use case you want: - ecom - saas | [![@adswithcami](example/more/2057020088457277861.jpg)](https://x.com/adswithcami/status/2057020088457277861)<br>**@adswithcami** · 0:55 video · 7K views<br>You don't need UGC creators for whiteboard ads now?? | [![@mattepstein](example/more/1998112905410318548.jpg)](https://x.com/mattepstein/status/1998112905410318548)<br>**@mattepstein** · 0:45 video · 5K views<br>🚨 New ad type Whiteboard ads. We're seeing these CRUSH in ad accounts. |
+| [![@Ajain112](example/more/2102383908344193207.jpg)](https://x.com/Ajain112/status/2102383908344193207)<br>**@Ajain112** · 1:57 video · 7K views<br>India’s first fashion whiteboard ad. // needs minor editing. This is raw. | [![@DavidRunsAds](example/more/2093266262335909916.jpg)](https://x.com/DavidRunsAds/status/2093266262335909916)<br>**@DavidRunsAds** · 0:20 video · 4K views<br>Whiteboard ADS might be one of my favorite AI UGC formats yet. instead of just talking at the camera, you can actually explain the idea visually draw | [![@mattepstein](example/more/2006398516093153407.jpg)](https://x.com/mattepstein/status/2006398516093153407)<br>**@mattepstein** · 1:44 video · 4K views<br>5. Authority whiteboard ad |
+| [![@oliverwhudson](example/more/2049158983106081277.jpg)](https://x.com/oliverwhudson/status/2049158983106081277)<br>**@oliverwhudson** · image · 2K views<br>Whiteboard ads are still flying for us. We launched one for a supplement brand targeting a HRT angle that surfaced in research. First 7 days, top spen | [![@navneet_214](example/more/2053875278691070165.jpg)](https://x.com/navneet_214/status/2053875278691070165)<br>**@navneet_214** · image · 52 views<br>Whiteboard ad format still works in 2026 and this one for a teen body soap brand proves it raw. readable. relatable. converts. want static ads like th |   |
 
 ## How to make one like it
 

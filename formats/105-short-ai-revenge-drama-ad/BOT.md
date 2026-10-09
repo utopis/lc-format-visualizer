@@ -2,6 +2,95 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 25-30s (plus a 45-60s cut), 1080x1920, 12-16 shots of 1.5-2.5s), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@0xROAS](https://x.com/0xROAS/status/2107188290264740348) · A 25-second AI drama (Seedance 2.5). A woman calls up the stairs: "Dad, tea's on the table, it's getting cold." Dad struggles on the stairs: "40 years I've done these stairs... I'm all right." Close-ups: "You're not all right, Dad. It's been like this since Christmas. Why didn't you say something?" "Didn't want to be the old bloke who can't do the stairs." She kneels beside him on the stairs, with
+- Example: [@david_attisaas](https://x.com/david_attisaas/status/2108195582607081720) · I'm running short drama ads for a few apps right now, and every one of them started as a copy of something a dropshipper ran first. I went looking aft
+- Example: [@ViralOps_](https://x.com/ViralOps_/status/2108255353016406383) · Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could 
+- Example: [@zedmadeit](https://x.com/zedmadeit/status/2102176819709673703) · heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac
+- Example: [@JUSTCHAEL_](https://x.com/JUSTCHAEL_/status/2098373776828256595) · Enjoy this short drama ad I created for Outlash, featuring their Curt Purse. @outlashbrand AI can create story-driven ads, not just pretty visuals. If
+- Example: [@frankyecom](https://x.com/frankyecom/status/2106833649970684195) · Women want shows: characters, drama, payoff; build entertainment first, slot product in.
+
+### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Smooche · Smooche: “I'm about to walk into brunch to meet my girlfriend that I was with to…”** (41 days live): Opens: “I'm about to walk into brunch to meet my girlfriend that I was with to figure out who tried to draw a ying yang on my forehead and guess what? I just saw my ex- boyfriend of 15 years and it's perfect…”
+- **Smooche · Smooche: “Okay, this is a good one. Emergency because I just pulled up to the…”** (37 days live): Opens: “Okay, this is a good one. Emergency because I just pulled up to the gym.”
+- **Smooche · Cosmetic Times: “I thought menopause ruined my face. My ex has been used it as his…”** (36 days live): Opens: “I thought menopause ruined my face. My ex has been used it as his excuse to leave me.”
+- **Smooche · Cosmetic Times: “My ex has been filed for divorce eight months after my menopause…”** (36 days live): Opens: “My ex has been filed for divorce eight months after my menopause started. He told our daughter he couldn't be attracted to someone whose face looked that ruined and ugly.”
+- **Smooche · Cosmetic Times: “My ex has been told me I'd aged 10 years in six months. And for a…”** (36 days live): Opens: “My ex has been told me I'd aged 10 years in six months. And for a while, I actually believed him.”
+
+**Do not copy (seen in these live ads):** These are AI-acted first-person stories posted from fake narrator pages. Label fiction as fiction.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-2s | Engagement party, medium close-up. SIL flicks the bride's necklace with one finger. | SIL: "Cute. Did it come with the cake?" + crowd laugh |
+| 2-4s | Bride's face, push-in; party sound drops out | Low bass sting |
+| 4-6s | Title card over black | "3 weeks later" |
+| 6-9s | Pool: SIL climbs out; close-up of her wrist, bracelet dull/green-tinged | — |
+| 9-13s | Bride swims, surfaces, necklace bright gold in sunlight (REAL LC footage for the macro) | Music lifts |
+| 13-18s | Bachelorette brunch; SIL hides her wrist under the table | Friend: "Wait, is that the same necklace?" |
+| 18-21s | Bride, casual | "Mine? I shower in it." |
+| 21-25s | Hands-only LC box, 14K PVD card | Text: "14K PVD · waterproof · any 7 for $85" |
+| 25-28s | SIL alone, typing "louise carter" into search | Beat; cut to black |
+
+### Prompts
+
+**Story (Claude)**
+
+```
+Write a 28-second revenge drama for Louise Carter. 0-2s humiliation tied to jewelry; escalate with cuts every 1.5-2.5s; twist = water/sweat ruins the antagonist's piece, LC survives; real product beat at 21-25s; payoff at 25-28s. Give 14 shots: duration, camera, action, dialogue ≤8 words, on-screen text.
+```
+
+**Character lock (image model)**
+
+```
+Photoreal, 9:16, "woman, 32, warm brown hair in a low bun, soft satin green dress, natural makeup, engagement party in a garden with string lights, shallow depth of field, Canon R5 50mm f/1.8 look". Save as reference; reuse the same seed/reference for every shot.
+```
+
+**Shot prompt (Seedance 2.5 / Kling / Veo)**
+
+```
+"[Reference: Character A] stands at a garden party at dusk, a second woman flicks her necklace dismissively, guests laugh in soft focus, handheld, 2 seconds, natural skin texture, no text." Generate 3 takes per shot, keep the one with stable hands and face.
+```
+
+**Voice + lip-sync**
+
+```
+ElevenLabs voices per character; lines ≤8 words; lip-sync only close-ups (Arcads / HeyGen); everything else plays under music.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F105-<concept>-<variant>`; tracking tag `utm_content=F105-<concept>-<variant>`.
+- [ ] Avoid: Never AI-generate the jewelry close-ups: shoot the real product.
+- [ ] Avoid: Product beat must land before ~70% of runtime or most viewers never see it.
+- [ ] Avoid: Keep the antagonist petty, not cruel; abuse/violence gets ads rejected.
+- [ ] Avoid: Label AI content per platform rules.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

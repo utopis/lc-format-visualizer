@@ -1,0 +1,103 @@
+{
+ "id": "F95",
+ "slug": "95-visual-diagnosis-roll-call",
+ "name": "Visual-diagnosis roll-call ('This is X. This is X. That's X.' symptom montage → hidden cause)",
+ "type": "paid",
+ "platforms": "[Meta, TikTok, YouTube]",
+ "cost_per_asset": "$0-200",
+ "time_per_asset": "2-4 h",
+ "length": "15-30s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-2s",
+   "visual": "Close-up: a green mark on a finger",
+   "audio_text": "Big caption: \"This is cheap plating.\""
+  },
+  {
+   "slot": "2-4s",
+   "visual": "A flaking chain on a neck",
+   "audio_text": "\"This is cheap plating.\""
+  },
+  {
+   "slot": "4-6s",
+   "visual": "A dull, scratched bracelet",
+   "audio_text": "\"That's cheap plating.\""
+  },
+  {
+   "slot": "6-9s",
+   "visual": "Hard stop on a black frame",
+   "audio_text": "\"It's not your skin. It's the metal.\""
+  },
+  {
+   "slot": "9-18s",
+   "visual": "The fix: PVD stack in the shower, then in the sea",
+   "audio_text": "\"14K PVD over stainless steel. Nothing to wear off.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "\"Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Edit",
+   "prompt": "Cut every 1.5-2s, identical caption style and position on each \"this is\" clip, a beat of silence before the turn, then music in."
+  },
+  {
+   "tool": "Sourcing",
+   "prompt": "Use real photos of real wear (team or customers with permission); no makeup-faked damage."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/thousif_maker/status/2107161552377819648",
+   "author": "thousif_maker",
+   "note": "A fitness-app ad that opens like a body diagnosis: a trainer stands behind a woman and points at her stomach, caption \"All plus-size girls need to do this to get rid of belly fat\". It then cuts to an app screen ('Lazy easy workout') with a short routine list while a woman does the moves on a bed. The format points at a visible sign, names its cause, then shows the fix.",
+   "local": "example/poster.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Smooche · Smooche: “If this drips on like this, you need peptides. If you have bags under…”",
+   "days": 4,
+   "image": "adlibrary/w6_1532795755534228.jpg",
+   "what": "Opens: “If this drips on like this, you need peptides. If you have bags under your eyes, you need peptides.”",
+   "how": "Give 4-6 rapid \"If you have X, you need Y\" lines, each over a close-up, then the product."
+  },
+  {
+   "title": "Resilia · Natural Defense Report: “If you smell yourself the week before your period, you're already at…”",
+   "days": 1,
+   "image": "adlibrary/w6_1634124788354262.jpg",
+   "what": "Opens: “If you smell yourself the week before your period, you're already at stage one. There are five.”",
+   "how": "Give 4-6 rapid \"If you have X, you need Y\" lines, each over a close-up, then the product."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F95-<concept>-<variant>`; tracking tag `utm_content=F95-<concept>-<variant>`.",
+  "Avoid: No medical diagnosis framing (\"this is an allergy\").",
+  "Avoid: Use only real examples of wear.",
+  "Avoid: Keep the montage short; three examples is enough."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

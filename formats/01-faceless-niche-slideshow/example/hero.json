@@ -71,6 +71,24 @@
    "kind": "0:16 video",
    "cap": "GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip.",
    "views": 7646
+  },
+  {
+   "id": "2100425887636472312",
+   "author": "Dkevs_",
+   "url": "https://x.com/Dkevs_/status/2100425887636472312",
+   "thumb": "example/more/2100425887636472312.jpg",
+   "kind": "0:05 video",
+   "cap": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
+   "views": 4461
+  },
+  {
+   "id": "2082847934841049519",
+   "author": "mufvza",
+   "url": "https://x.com/mufvza/status/2082847934841049519",
+   "thumb": "example/more/2082847934841049519.jpg",
+   "kind": "0:18 video",
+   "cap": "Analysis of 1,000 app slideshows: most-viewed != most installs; track saves/profile clicks per slideshow.",
+   "views": 44232
   }
  ]
 }

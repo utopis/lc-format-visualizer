@@ -2,6 +2,68 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 45s-4min, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@luisfelipebfr2](https://x.com/luisfelipebfr2/status/2101018997508669891) · A founder mini-documentary of almost 4 minutes for Eskiin (shower filters): the founder walking the factory floor ("showerhead company"), a junk-filled showerhead, the filter cartridge, packing orders ("every order"), staff ("Take care of family") and a customer washing her hair ("for a full refund").
+- Example: [@ecomrudolfs](https://x.com/ecomrudolfs/status/2059559665520795790) · Out of 997 active ads, this founder led ad is CRUSHING it Break it down and use the same winning format
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2057488725769163085) · This ad combines 2 of the top-performing ad creative elements in 2026: > AI-generated clips > Founder-led content Here’s why you should re-create it f
+- Example: [@JoeJMarston](https://x.com/JoeJMarston/status/2007102582058340515) · Here’s how we’ve been reskinning our existing, top-performing founder ads. Founder ads still work. But when performance softens, it’s rarely because t
+- Example: [@LoukasHambi](https://x.com/LoukasHambi/status/1978090871296782364) · We know Founders ads crush, but if yours are starting to fatigue, here’s a few quick-win format adaptations you can make: (These are flying for us rig
+- Example: [@metaadsatscale](https://x.com/metaadsatscale/status/2093049398024384915) · New brands face a trust gap. A founder story ad flips that. Face, voice, real skin in the game. People buy from people they relate to, not logos.
+- Example: [@strikerecom](https://x.com/strikerecom/status/2106092593511837880) · the amount of directions u can take a native is STUPIDDD if a video concept already works just turn that shit into a native founder ads have been crus
+- Example: [@ecom_cork](https://x.com/ecom_cork/status/2098433621077983648) · Few million more founder ads https://t.co/IKeYhoxbMc
+
+### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Rachel's Tea: Co-founder spouse explains the new product line** (481 days live): Plain kitchen talking head: "Hi, this is Mike. Rachel has asked me to explain why she has a new product line." No hook graphics, no music; he explains that the brand now has its own manufactured line and why the labels changed. Cut-ins of the product row on th
+- **BioRoot Labs: "A message from our founder" scarcity text static** (378 days live): A white text static: "A MESSAGE FROM OUR FOUNDER 💔 We never expected this. Thousands of people are turning to BioRoot Labs' Doctor-Formulated Turmeric daily, and our limited Buy Two, Get One Free offer is about to expire… our stock is dangerously low… Sale end
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-5s | Founder walking toward camera (street, studio, warehouse), gimbal or handheld | Open loop: "I started this because my mom's chain turned her neck green" |
+| 5-60s | Walking cutaways: workshop, packing orders, the product being tested | Why it exists, the problem, what she refused to compromise on |
+| 60-120s | Customers / reviews on screen | Proof |
+| End | Founder stops, looks at camera | Guarantee + offer |
+
+### Prompts
+
+**Shoot**
+
+```
+Gimbal (DJI Osmo Mobile), 4K 30fps, wireless lav (Rode Wireless GO), walk slowly toward the camera, record 3 full takes, cut to the best lines.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F27-<concept>-<variant>`; tracking tag `utm_content=F27-<concept>-<variant>`.
+- [ ] Avoid: ONE topic per video; founders try to say everything.
+- [ ] Avoid: Hook in the first sentence, not after the intro.
+- [ ] Avoid: All claims (warranty, materials) must match the product page.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

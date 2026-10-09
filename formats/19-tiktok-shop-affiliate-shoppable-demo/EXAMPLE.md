@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:04 | a ur 109 143.1K 2M Message Your virtual shopping Showcase Subscription rr te $700k past 30 days With 100% Al er ay sms fy a vo a ps pe te we This Al clothing ac | This AI clothing account has done over $700,000 on TikTok shop in the last 30 days. As you can |
-| 2 | 0:04–0:09 | aE a a 2-0 ee Se kan As you can see right here, this account girly pop shop | see right here, this count girly pop shop finds on TikTok has done over $725,000 in the last 30 |
-| 3 | 0:09–0:14 | · | · |
+| 1 | 0:00–0:04 | 109 143.1K 2M Message Your virtual shopping … past 30 days With 100% … clothing account has done over $700,000 on | This AI clothing account has done over $700,000 on TikTok shop in the last 30 days. As you can |
+| 2 | 0:04–0:09 | a a 2-0 … As you can see right here, this account girly pop shop | see right here, this count girly pop shop finds on TikTok has done over $725,000 in the last 30 |
+| 3 | 0:09–0:14 | $725.03, $0.00 $719.49, 9.9 20.61 28 finds on … has an over $725,000 in the last 30 days, | · |
 | 4 | 0:14–0:19 | we And you can look through all these videos, but they're all | days, which is about $25,000 per day. And you can look through all these videos, but they're |
 | 5 | 0:19–0:24 | · | all relatively easy to make about eight to 10 seconds long. And anyone could make videos like |
-| 6 | 0:24–0:29 | a ot wine Me mt Ne e3 215 369 ee Lal bf a as 81.5K 247 ef if id Never eat the- ON YOUR FAT. cs a a At my agency, we already have hundreds of 24 Reels Friends Ma | this for about $2 each. At my agency, we already have hundreds of AI creator accounts |
-| 7 | 0:29–0:34 | To ears ot wine ie vines EVA 2165 369 ee so ball La we 81.5K 247 ef ps Var BT est thee: we ON YOUR FAT. Reels Friends Marketplace Notifications | tapping in with brands and getting 300% commission. So if you're an AI creator and you want to get |
-| 8 | 0:34–0:39 | a ears of and wine ie seen ay iN 7215 369 e3 eb, 2. Sy Mi 81.5K 247 of a mot thee ON YOUR FAT, uN. affiliate, comment the word train Reel: Friends Marketplace P | in on this opportunity right now with AI and TikTok shop affiliate, comment the word train, I'll send you the invite for free to join. |
+| 6 | 0:24–0:29 | a as 81.5K 247 … Never eat the- ON YOUR FAT. … a a At my agency, we already have hundreds of … Friends Marketplace Notifications | this for about $2 each. At my agency, we already have hundreds of AI creator accounts |
+| 7 | 0:29–0:34 | vines EVA 2165 369 … est thee: we ON YOUR FAT. … Friends Marketplace Notifications | tapping in with brands and getting 300% commission. So if you're an AI creator and you want to get |
+| 8 | 0:34–0:39 | a ears of … iN 7215 369 … 81.5K 247 of a … ON YOUR FAT, … affiliate, comment the word train Reel: Friends Marketplace | in on this opportunity right now with AI and TikTok shop affiliate, comment the word train, I'll send you the invite for free to join. |
 
 <details><summary>Full transcript (timestamped)</summary>
 

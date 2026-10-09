@@ -2,6 +2,70 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 20-40s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@ashvinmelwani](https://x.com/ashvinmelwani/status/2105710765151752218) · A mashup of raw customer testimonials: different people on Zoom-style calls, at desks and in kitchens, each saying one line, cut together fast and ending on the brand card ("synthesis tutoring").
+- Example: [@hellonecole](https://x.com/hellonecole/status/1714802268971655219) · I love a customer testimonial mashup! Meet the hormone support and period relief vitamin that's changing lives @MyHappyFlo Http://myhappyflo.co
+- Example: [@_ibbibhai](https://x.com/_ibbibhai/status/1958891605307404424) · The “testimonial mashup” ad is killing it for My DTC clients! #DTCbrands #UGCads #UGC #admanagement #ads #Winningads #MetaAds #SnapchatAds
+- Example: [@domaco1968](https://x.com/domaco1968/status/1949766307567620333) · If you’re in a “saturated” niche and your ads are tanking, you’ve gotta try this testimonial mashup format. So I planned this creative for a supplemen
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Blossom Essentials Skin: Short AI-UGC "only balm I'll ever buy" (Blossom Essentials, 3 variants)** (213 days live): Three 24-33 s UGC cuts: "This is the only skin balm I will ever spend money on… I've tried everything, from prescription to specialist." Different women, same script skeleton.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Strongest single customer line, selfie video | "I've worn it in the sea every day for a year." |
+| 3-10s | Customers 2-4, 2s each: shower, gym, wedding | One line each: "Never taken it off." "Still gold." "My sister stole mine." |
+| 10-20s | Customers 5-8: review screenshots and unboxings | Short on-screen quotes |
+| 20-30s | Stack shot + review count | "4,812 reviews. 4.8 stars." |
+| End | Offer | "Any 7 for $85." |
+
+### Prompts
+
+**Collect**
+
+```
+Email recent buyers: "Send us a 10-second selfie video answering: what surprised you most? We'll send $20 store credit." Include a release form link.
+```
+
+**Edit**
+
+```
+Cut each clip to its single best line; captions in the same style; order from strongest to weakest; music at -22 dB.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F40-<concept>-<variant>`; tracking tag `utm_content=F40-<concept>-<variant>`.
+- [ ] Avoid: Real customers only, with signed consent.
+- [ ] Avoid: Don't script customers; ask one question and use their words.
+- [ ] Avoid: Review counts on screen must be current.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

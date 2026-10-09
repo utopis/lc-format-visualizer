@@ -18,7 +18,7 @@ A collagen ad from Kollo Health (shared as an example of the 'text on skin' conc
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | Health od Health od SS SS St Te las Thin about coll It isn't just Ko for the ladies Dh ee Collagen Supplement The UK's #1 Rated Visible results in as little as 28 days. also for blokes! its ae The UK’ Most Awarded 10,000 mg Liquid Collagen The UK's Most Awarded Collagen. Also For Men. ment! Uni powe |
+| 1 | It isn't just … for the ladies … Collagen Supplement The UK's #1 Rated Visible results in as little as 28 days. also for … Most Awarded 10,000 … Liquid Collagen The UK's Most Awarded Collagen. Also For Men. … Uni power of … Read More Read More FIRST MONTH JUST 47.80 … Learn more FIRST MONTH JUST 47. |
 
 ## More real examples (1)
 

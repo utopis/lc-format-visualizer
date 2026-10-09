@@ -1,0 +1,155 @@
+{
+ "id": "F76",
+ "slug": "76-whiteboard-explainer",
+ "name": "Whiteboard explainer (marker diagram of the mechanism, static or video)",
+ "type": "paid + organic",
+ "platforms": "[Meta, TikTok, Reels]",
+ "cost_per_asset": "$0-50",
+ "time_per_asset": "30 min",
+ "length": "Photo of a whiteboard (static) or a 30-60s drawing video",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Hand starts drawing on a whiteboard, top-down or straight-on",
+   "audio_text": "\"why your gold jewelry turns green (nobody tells you this)\""
+  },
+  {
+   "slot": "3-25s",
+   "visual": "Diagram: a thin plating layer wearing off vs a bonded PVD layer",
+   "audio_text": "Marker labels, narrator explains"
+  },
+  {
+   "slot": "25-40s",
+   "visual": "Cost math: \"$20 x 6 replacements vs one $85 stack\"",
+   "audio_text": "Simple numbers"
+  },
+  {
+   "slot": "40-50s",
+   "visual": "Product placed on the board",
+   "audio_text": "CTA"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Shoot",
+   "prompt": "Whiteboard + black and gold markers, ring light from the side to avoid glare, phone on an overhead arm, record at 1x then speed up to 2x."
+  },
+  {
+   "tool": "Script (Claude)",
+   "prompt": "Write a 45-second whiteboard explainer: problem, why the usual fix fails, how [product] works, cost comparison, CTA. Each line must correspond to something drawn."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/artfully_amberr/status/2100249277029126306",
+   "author": "artfully_amberr",
+   "note": "A creator drawing on a whiteboard while explaining (\"that nobody talks about\", \"these dopamine levels\"), with a graph curve, then the product page and a woman relaxing. It is a teacher-style explainer with a marker.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/0xROAS/status/2086523553717883287",
+   "author": "0xROAS",
+   "note": "we finally cracked whiteboard ads inside ai ads community. this is extremely engaging and you can use it for whatever use case you want: - ecom - saas",
+   "local": "example/more/2086523553717883287.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/adswithcami/status/2057020088457277861",
+   "author": "adswithcami",
+   "note": "You don't need UGC creators for whiteboard ads now??",
+   "local": "example/more/2057020088457277861.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/mattepstein/status/1998112905410318548",
+   "author": "mattepstein",
+   "note": "🚨 New ad type Whiteboard ads. We're seeing these CRUSH in ad accounts.",
+   "local": "example/more/1998112905410318548.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Ajain112/status/2102383908344193207",
+   "author": "Ajain112",
+   "note": "India’s first fashion whiteboard ad. // needs minor editing. This is raw.",
+   "local": "example/more/2102383908344193207.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/DavidRunsAds/status/2093266262335909916",
+   "author": "DavidRunsAds",
+   "note": "Whiteboard ADS might be one of my favorite AI UGC formats yet. instead of just talking at the camera, you can actually explain the idea visually draw ",
+   "local": "example/more/2093266262335909916.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/mattepstein/status/2006398516093153407",
+   "author": "mattepstein",
+   "note": "5. Authority whiteboard ad",
+   "local": "example/more/2006398516093153407.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/oliverwhudson/status/2049158983106081277",
+   "author": "oliverwhudson",
+   "note": "Whiteboard ads are still flying for us. We launched one for a supplement brand targeting a HRT angle that surfaced in research. First 7 days, top spen",
+   "local": "example/more/2049158983106081277.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/navneet_214/status/2053875278691070165",
+   "author": "navneet_214",
+   "note": "Whiteboard ad format still works in 2026 and this one for a teen body soap brand proves it raw. readable. relatable. converts. want static ads like th",
+   "local": "example/more/2053875278691070165.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Rachel's Tea: Animated numbered-benefit product spec video",
+   "days": 424,
+   "image": "adlibrary/89266302.jpg",
+   "what": "Motion-graphic: bottle on orange/white, '100 BILLION PROBIOTICS' supers, numbered 01 / 02 benefit callouts sliding in, ORDER NOW end card; music only.",
+   "how": "After Effects / CapCut keyframes or Canva video; 15-22 s; one benefit per 4 s; brand colour background."
+  },
+  {
+   "title": "Pinch Magic Fiber: Presenter explainer with 'this is what 30 g of fiber looks like'",
+   "days": 288,
+   "image": "adlibrary/101661846.jpg",
+   "what": "Bearded presenter talks fiber science over b-roll (poop-shape hook, psyllium close-ups, comparison chart 'Premium Psyllium / 0 g sugar / Bromelain') and the key visual: a table of whole foods = 30 g fiber, 'if you can't eat this every day, here's this'. Ends on a 'The People Have Spoken' review page.",
+   "how": "100 s explainer: presenter A-roll + 8-12 b-roll inserts + one big visual-equivalence shot + comparison table + review-page close."
+  },
+  {
+   "title": "Smooche · Smooche: A whiteboard sketch",
+   "days": 20,
+   "image": "adlibrary/w6_3252508194947125.jpg",
+   "what": "A whiteboard sketch: \"GLP-1 alone | GLP-1 + peptides. YOU LOSE THE WEIGHT. YOU GAIN THE LINES.\"",
+   "how": "A two-panel whiteboard sketch, a one-line punchline, and the product photo."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F76-<concept>-<variant>`; tracking tag `utm_content=F76-<concept>-<variant>`.",
+  "Avoid: The diagram must be technically correct.",
+  "Avoid: Cost math must use real prices."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

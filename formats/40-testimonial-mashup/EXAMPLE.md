@@ -18,13 +18,13 @@ The storyboard above samples the video every 0:11. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:11 | ew du sme | Ever wish you could send an avatar to do meetings for you? Interview a hundred customers a day and be available 24-7 while you're on the beach? Well, now you can. Today, we're, introducing sessions. |
-| 2 | 0:11–0:23 | Se and do work for you. | Sessions are like joining a zoo. But on the other side is an avatar that speaks every language which can take meetings and do work- and work for you. They're super easy and fun to build. Just select what convoy you want to have, |
+| 1 | 0:00–0:11 | · | Ever wish you could send an avatar to do meetings for you? Interview a hundred customers a day and be available 24-7 while you're on the beach? Well, now you can. Today, we're, introducing sessions. |
+| 2 | 0:11–0:23 | and do work for you. | Sessions are like joining a zoo. But on the other side is an avatar that speaks every language which can take meetings and do work- and work for you. They're super easy and fun to build. Just select what convoy you want to have, |
 | 3 | 0:23–0:34 | · | and set it all up in a single prompt with our system. In role-play, role-play sessions let you practice hard conversations with an avatar and get live feedback. |
-| 4 | 0:34–0:46 | can train a thousand a week, | Today |
-| 5 | 0:46–0:58 | · | · |
+| 4 | 0:34–0:46 | can train a thousand | Today |
+| 5 | 0:46–0:58 | a Now let's | · |
 | 6 | 0:58–1:09 | · | to fill out |
-| 7 | 1:09–1:21 | What do you once it clicked? ww | What do you mean by once it clicked? It took, you know what to realize? It's all in how you prompt it? |
+| 7 | 1:09–1:21 | What do you … once it clicked? | What do you mean by once it clicked? It took, you know what to realize? It's all in how you prompt it? |
 | 8 | 1:21–1:32 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
@@ -74,7 +74,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 2 | 0:17 | Sessions are like joining a zoo. But on the other side is an avatar that speaks every language which can take meetings and do work- and work | … |
 | 3 | 0:29 | and set it all up in a single prompt with our system. In role-play, role-play sessions let you practice hard conversations with an avatar an | … |
 | 4 | 0:40 | Today | … |
-| 5 | 0:52 | (visual beat, see frame 5) | … |
+| 5 | 0:52 | on screen: a Now let's | … |
 | 6 | 1:03 | to fill out | … |
 | 7 | 1:15 | What do you mean by once it clicked? It took, you know what to realize? It's all in how you prompt it? | … |
 | 8 | 1:27 | (visual beat, see frame 8) | … |

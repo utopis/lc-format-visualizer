@@ -22,9 +22,9 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:04 | · | · |
 | 2 | 0:04–0:08 | · | · |
-| 3 | 0:08–0:12 | we a Ul actually shook me I a ae if | This is It is an ancient oil blend which is designed to turn women on. |
+| 3 | 0:08–0:12 | actually shook me I a | This is It is an ancient oil blend which is designed to turn women on. |
 | 4 | 0:12–0:16 | · | So I got one to see if it actually actually it actually |
-| 5 | 0:16–0:20 | ti ae a wi ie my gosh wh | · |
+| 5 | 0:16–0:20 | · | · |
 | 6 | 0:20–0:24 | · | I'm glad I tried it this thing really turns women on it even comes with the sixty |
 | 7 | 0:24–0:28 | · | · |
 | 8 | 0:28–0:32 | · | day guarantee so click the link below grab a bottle and and save your relationshipoi |
@@ -57,7 +57,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 2 | 0:06 | (visual beat, see frame 2) | … |
 | 3 | 0:10 | This is It is an ancient oil blend which is designed to turn women on. | … |
 | 4 | 0:14 | This is It is an ancient oil blend which is designed to turn women on. So I got one to see if it actually actually it actually | … |
-| 5 | 0:18 | on screen: ti ae a wi ie my gosh wh | … |
+| 5 | 0:18 | (visual beat, see frame 5) | … |
 | 6 | 0:22 | I'm glad I tried it this thing really turns women on it even comes with the sixty | … |
 | 7 | 0:26 | day guarantee so click the link below grab a bottle and | … |
 | 8 | 0:30 | day guarantee so click the link below grab a bottle and and save your relationshipoi | … |

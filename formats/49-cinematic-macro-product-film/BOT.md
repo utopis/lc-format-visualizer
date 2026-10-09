@@ -2,6 +2,76 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 10-15s, no dialogue, 1080x1920 and 1080x1350), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@prompthanem](https://x.com/prompthanem/status/2108225912957186085) · An AI-generated cinematic jewelry commercial: a macro of an emerald, a velvet box opening, white-gloved hands lifting the ring, a hand reveal, and the box closing for the final shot. No people, just light, texture and slow camera moves.
+- Example: [@rirahcreates](https://x.com/rirahcreates/status/2086324982892605618) · AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum
+- Example: [@Balentin_J](https://x.com/Balentin_J/status/2080581505441480774) · &gt; What if a familiar kitchen moment could become a product story? 🥤 I explored that idea by reimagining the Vitamix A3500 as the centerpiece of a f
+- Example: [@alohaproxy](https://x.com/alohaproxy/status/2104226192085987378) · Every founder wants to see their product here👑 Ankon AI is currently at HOF on HopUp. I thought that deserved more than a leaderboard card......So I t
+- Example: [@gptproto](https://x.com/gptproto/status/2077709443165507626) · Can AI create luxury brand advertisements? This fragrance commercial was created with AI. Workflow: 🖼️ GPT Image 2 → storyboard &amp; visual concept 🎬
+- Example: [@Imagvio_AI](https://x.com/Imagvio_AI/status/2088473026098774492) · Your weekend challenge starts now. 🎬 We created this entire cinematic product ad with Imagvio AI — from the luxury store to the product reveal, ingred
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Solvaderm Skin Care: Clean product-on-podium static (Solvaderm, "Unlock your best skin yet")** (690 days live): A pastel 3D podium, a tall serum bottle, the headline "Unlock Your Best Skin Yet!" and a sub-line. DCO.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Extreme macro of the chain links, light sweeps across | No text, or brand only |
+| 3-7s | Water droplets running off the pendant, slow motion | - |
+| 7-11s | Piece on skin, hand movement | - |
+| 11-15s | Hero shot on a dark surface, logo | "[Brand]. 14K PVD." |
+
+### Prompts
+
+**Real shoot**
+
+```
+100mm macro lens, 4K 60-120fps, black acrylic surface, one hard key light + a moving strip light, spray bottle for droplets.
+```
+
+**AI (Seedance / Veo)**
+
+```
+luxury jewelry commercial, extreme macro of a thin gold chain, a soft light sweep across the links, water droplets, black background, slow motion, 5s
+```
+
+**Sound**
+
+```
+Subtle whoosh + chime library sounds, no music or a minimal pulse.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F49-<concept>-<variant>`; tracking tag `utm_content=F49-<concept>-<variant>`.
+- [ ] Avoid: AI jewelry often invents detail; only use AI for environments, keep the product real.
+- [ ] Avoid: Pure beauty shots work as retargeting, not as cold hooks; test with a text hook.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

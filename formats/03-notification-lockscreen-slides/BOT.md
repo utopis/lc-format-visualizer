@@ -2,6 +2,67 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 2 slides, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@brainextends](https://x.com/brainextends/status/2099496707209994736) · A short slideshow built from big stat cards and phone UI: "#00", "4.8", "<$5K" tiles over lifestyle photos, then an iPhone lock screen at 9:41 with notification bubbles ("Follow your routine"). Two slides, phone-native look, no talking.
+- Example: [@simonecanciello](https://x.com/simonecanciello/status/2035079759588163995) · brooo WHAT is this strategy? 3 pics slideshow, fake notification (curiosity = comments) and show your app. 1M views. $160k/month app.
+- Example: [@enzoxmotion](https://x.com/enzoxmotion/status/2099622190970712321) · this app went from $1k to FUCKING $10k mrr in a WEEK. all it took was one slideshow, two slides total, that ended up crossing a million views nothing 
+- Example: [@marcospb_](https://x.com/marcospb_/status/2010412391037878286) · 1M likes New TikTok slideshow banger found “Four years of a relationship and out of nowhere she sent me this.” Next slide: the breakup text. Right und
+
+### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Japanese Taste: iPhone Notes checklist static (Japanese Taste)** (238 days live): An iPhone Notes screen: "Weekly Japanese Taste Checklist: Snacks for Friday night ✓, Matcha for Monday mornings ✓, J-Beauty for your nightly reset ✓" with product photos.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Slide 1 | Aesthetic lifestyle photo (beach towel, bathroom shelf, a hand in water) with an iPhone lock screen overlaid: time 9:41, date, 2-4 notification bubbles | Notifications in a brutal/witty brand voice: "[Brand]: you took it off again?" / "Reminder: it's waterproof. stop." |
+| Slide 2 | Product worn in the same scene, or a clean stat card | Payoff line: "14K PVD. Shower, sea, sleep. Never take it off." Optional price. |
+
+### Prompts
+
+**Figma**
+
+```
+Use an iOS 17 lock-screen kit: SF Pro Display 96pt time, notification card 32px radius, 70% white blur, app icon 38px. Place over the photo, centred upper third.
+```
+
+**Nano Banana / Midjourney (background)**
+
+```
+flat lay of a wet beach towel, sunglasses and a gold necklace on warm sand, top-down, late afternoon light, vertical 9:16, photoreal
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F03-<concept>-<variant>`; tracking tag `utm_content=F03-<concept>-<variant>`.
+- [ ] Avoid: More than 4 notifications becomes unreadable at scroll speed.
+- [ ] Avoid: Do not fake notifications from real apps or people (no fake bank alerts or texts from named people); use the brand as the sender.
+- [ ] Avoid: Slide 1 must make sense on its own; most viewers never swipe.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

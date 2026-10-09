@@ -1,5 +1,47 @@
 # Meta ad-library examples for F84 (GetHookd board 155932, gut health)
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Resilia · Gut Health Insider: “BEHIND THE ITCHY ANUS” (0 days live)
+
+![Resilia 2180454472852052](w6_2180454472852052.jpg)
+
+- **Ad:** [Meta Ad Library #2180454472852052](https://www.facebook.com/ads/library/?id=2180454472852052) · static image · page “Gut Health Insider” · started 2026-10-08 · 1 copies · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** "BEHIND THE ITCHY ANUS": marble statues from behind on a plinth, with the pouch.
+- **Why it works:** Ugly ads: classical marble statues of buttocks ("Behind the itchy anus") and skeletons among barrels. They are weird enough to stop the scroll, with the long copy doing the selling.
+- **How to make one:** Use an odd, slightly absurd image, a blunt caption, and a small product in the corner. Let the primary text sell.
+- **LC remake:** A Roman bust wearing a modern LC chain: "Gold that outlived the empire."
+
+<details><summary>Primary text</summary>
+
+> Introducing Resilia Oil of Oregano — premium dual-action softgels that support your body's natural drainage and everyday vitality. 💧 Supports natural cleansing and healthy circulation 💧 Helps reduce puffiness and water retention 💧 Supports healthy fluid balance and lighter-feeling days 💧 Promotes clearer-looking skin and steady energy ✅ Dual-action blend of Oil of Oregano + Black Seed Oil ✅ 3rd-party tested in the USA, Non-GMO, no aftertaste ✨ No messy liquids — just two easy softgels each morning 🌿 Inspired by tradition, made for modern life ❤️‍🩹 Two softgels a day to help you feel light and vibrant again. Tap Shop Now to reclaim your flow with Resilia Oil of Oregano! 🌿 Don’t Just Mask It: Help your body fix the source. Support your natural drainage with the power of Resilia.
+
+</details>
+
+### Resilia · Vascular Wellness Report: A skeleton among wine barrels holding the garlic pouch (1 day live)
+
+![Resilia 1685452743151829](w6_1685452743151829.jpg)
+
+- **Ad:** [Meta Ad Library #1685452743151829](https://www.facebook.com/ads/library/?id=1685452743151829) · static image · page “Vascular Wellness Report” · started 2026-10-07 · lands on `resilia.shop/products/resilia-aged-odorless-garlic`
+- **What happens:** A skeleton among wine barrels holding the garlic pouch, with a "3 for $20" badge.
+- **Why it works:** Ugly ads: classical marble statues of buttocks ("Behind the itchy anus") and skeletons among barrels. They are weird enough to stop the scroll, with the long copy doing the selling.
+- **How to make one:** Use an odd, slightly absurd image, a blunt caption, and a small product in the corner. Let the primary text sell.
+- **LC remake:** A Roman bust wearing a modern LC chain: "Gold that outlived the empire."
+
+<details><summary>Primary text</summary>
+
+> Looking to Take Control of Your Heart Health Naturally?❤️ Experience the Power of Resilia Aged Garlic Extract! ✅: Supports cardiovascular health naturally ✅: Completely odorless formula ✅: Supports arterial health ✅: 20-month aging process ✅: 900+ clinical studies ✅: SAC-standardized aged garlic extract ✅: Plus CoQ10 Ubiquinol & Vitamin K2 MK-7 Transform your cardiovascular health with three clinically studied ingredients backed by modern science — 30-Day Risk-Free Guarantee.
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public board preview. Days live are as of 2026-10-09. Full board breakdown is in the internal sources folder.
 
 ## WebMD: Editorial flat-lay food static (WebMD 'Polyphenols') (253 days live)

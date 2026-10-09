@@ -20,7 +20,7 @@
   {
    "t": "0:01",
    "said": "Someone left us this review, so instead of deleting it, we built a whole ad campaign around it.",
-   "ocr": "Daniel Carter: Really appointing The website is slow, confusing to navigate, and issues trying to complete a simple task"
+   "ocr": "Daniel Carter: Really appointing \u2026 The website is slow, confusing to navigate, and \u2026 issues trying to complete a simple "
   },
   {
    "t": "0:03",
@@ -55,10 +55,37 @@
   {
    "t": "0:16",
    "said": "",
-   "ocr": "SM DIGITAL SYSTEMS"
+   "ocr": ""
   }
  ],
  "more": [
+  {
+   "id": "2036981673259393507",
+   "author": "thedennis",
+   "url": "https://x.com/thedennis/status/2036981673259393507",
+   "thumb": "example/more/2036981673259393507.jpg",
+   "kind": "1:18 video",
+   "cap": "The best ad I ever wrote came from a 1-star review. No brainstorming session. No creative brief. No agency deck. One angry customer who wrote exactly ",
+   "views": 2555
+  },
+  {
+   "id": "2050482614696640734",
+   "author": "Peter_Quadrel",
+   "url": "https://x.com/Peter_Quadrel/status/2050482614696640734",
+   "thumb": "example/more/2050482614696640734.jpg",
+   "kind": "image",
+   "cap": "1 Star Reviews Make Your BEST Ads... Nevermind UGC, founder explainers, or polished product shots, negative review ads are what get your market's atte",
+   "views": 1366
+  },
+  {
+   "id": "2103883993603031429",
+   "author": "cortex_adbrain",
+   "url": "https://x.com/cortex_adbrain/status/2103883993603031429",
+   "thumb": "example/more/2103883993603031429.jpg",
+   "kind": "image",
+   "cap": "if you're a creative strategist, a 1-star review just outworked your entire creative brief the brand quoted their own worst complaint, bolded it, gave",
+   "views": 31
+  },
   {
    "id": "2089528727445062001",
    "author": "stephenfung_dev",

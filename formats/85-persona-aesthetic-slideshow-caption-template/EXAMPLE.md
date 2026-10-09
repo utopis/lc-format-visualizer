@@ -16,9 +16,9 @@ Three TikTok profiles of AI persona pages, each a consistent aesthetic girl (bea
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | uf shelby pics 15 Following 1060 Followers 457.9K Likes Try this magical effect your photos Re Search on it Videos Liked too mi LE 76M Yes ee photos too |
-| 2 | bee Fan 30 Following 2900 Followers 1.3M Likes Turn your iPhone into a vibe factory Search on Al Generated Edited Content uw mt Videos Liked Pinned a She edits her photos too much ee Wa ey, Nh sl os ct ts 51.9K She edits hi |
-| 3 | a Mia Ford 51 Following 2038 Followers 403.9K Likes Follow Nee Magic happens to your photos here Search on Mt uw Videos Liked ot edits her too much a ee Ya es ll he Db 17M Ore her photos too og mu inf |
+| 1 | shelby pics 15 Following 1060 Followers 457.9K Likes Try this magical effect your photos … it Videos Liked too |
+| 2 | Fan 30 Following 2900 Followers 1.3M Likes Turn your iPhone into a vibe factory Search … Generated Edited Content … Videos Liked Pinned a She edits her photos too much … 51.9K She edits |
+| 3 | a Mia Ford … 51 Following 2038 Followers 403.9K Likes Follow Nee Magic happens to your photos here … edits her too much … 17M Ore her photos too |
 
 ## More real examples (5)
 

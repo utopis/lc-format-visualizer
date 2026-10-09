@@ -1,0 +1,124 @@
+{
+ "id": "F38",
+ "slug": "38-breaking-news-report-style",
+ "name": "Breaking-news / news-report style ad",
+ "type": "paid + organic",
+ "platforms": "[Meta, TikTok, YouTube Shorts]",
+ "cost_per_asset": "$0-100",
+ "time_per_asset": "30-60 min",
+ "length": "15-30s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "News-desk set, \"BREAKING NEWS\" red lower-third",
+   "audio_text": "Anchor: \"Breaking: the necklace you can swim in is back in stock\""
+  },
+  {
+   "slot": "3-15s",
+   "visual": "Reporter on location with the product",
+   "audio_text": "The genuinely new thing (launch, restock, milestone)"
+  },
+  {
+   "slot": "15-25s",
+   "visual": "B-roll with news ticker",
+   "audio_text": "Facts"
+  },
+  {
+   "slot": "End",
+   "visual": "Logo card",
+   "audio_text": "Offer"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Veo 3 / Kling",
+   "prompt": "television news studio, a male anchor at a news desk, red BREAKING NEWS lower third, professional lighting, says \"[line]\", 8s, 9:16"
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/ladprofit/status/2089745258796261415",
+   "author": "ladprofit",
+   "note": "An AI-generated breaking-news broadcast: a male anchor at a news desk with a red \"BREAKING NEWS\" lower-third, then a female reporter holding up the product as if it were a news story.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/HenryCrochemore/status/2034948938789171441",
+   "author": "HenryCrochemore",
+   "note": "an AI news broadcast opens the video “breaking news” a serious anchor at a desk city skyline behind him calm, authoritative voice it looks exactly lik",
+   "local": "example/more/2034948938789171441.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/richardbrien/status/2103478126928138309",
+   "author": "richardbrien",
+   "note": "\"Breaking News\" style ad creative crushes harder than any other format across long periods of time.",
+   "local": "example/more/2103478126928138309.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/rogiergg/status/2086977376286585184",
+   "author": "rogiergg",
+   "note": "(BREAKING NEWS - CAUSE OF DEATH REVEALED) tbh that's just a creative on a $29.99 CO detector not a product headline a news format! the ad does not fee",
+   "local": "example/more/2086977376286585184.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Bsschiller/status/2048497164393791985",
+   "author": "Bsschiller",
+   "note": "We turned an @IShowSpeed stream into a “news report” ad for a South Florida experience brand — and it was an overnight hit. 106x reach vs followers Hu",
+   "local": "example/more/2048497164393791985.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/inceptly/status/2105302286490546274",
+   "author": "inceptly",
+   "note": "🚨 What if your next ad looked like breaking news? This week's Modular Creative System ad breakdown covers a Find Legal ad that opens on an AI-generate",
+   "local": "example/more/2105302286490546274.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Aurivita Cayenne: \"WARNING: Fake websites!\" brand notice static (Aurivita)",
+   "days": 197,
+   "image": "adlibrary/w4_74138535.jpg",
+   "what": "A red \"WARNING Fake websites!\" banner with screenshots stamped \"FAKE\": \"We are the original brand, and we don't sell on Amazon… if you see ads offering Auri Cayenne Pepper in huge discounts, do not place an order.\"",
+   "how": "A red warning banner, screenshots stamped FAKE, an \"original brand\" claim."
+  },
+  {
+   "title": "Breaking News: Breaking-news TV lower-third static",
+   "days": 141,
+   "image": "adlibrary/w4_122933380.jpg",
+   "what": "Two news-anchor photos with a \"BREAKING NEWS\" bug and a lower-third headline about a family considering legal action against a news anchor.",
+   "how": "A TV-news template with a non-celebrity, a true, brand-safe headline."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F38-<concept>-<variant>`; tracking tag `utm_content=F38-<concept>-<variant>`.",
+  "Avoid: Do not imitate a real network's branding.",
+  "Avoid: The \"news\" must be true; use only for real launches/restocks/milestones.",
+  "Avoid: Label AI."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

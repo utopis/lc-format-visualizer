@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | HERB GOODBYE a fi | Tired of wasting herbs? Say goodbye to waste. I found these herb saver bottles to |
-| 2 | 0:03–0:06 | fg Ya Ta Ze we AND TI HEY. are ad fi SS | · |
-| 3 | 0:06–0:09 | oS ta ADD WATER AND a | keep your herbs fresh and they are so useful. You simply rinse, add water and |
+| 1 | 0:00–0:03 | HERB GOODBYE a | Tired of wasting herbs? Say goodbye to waste. I found these herb saver bottles to |
+| 2 | 0:03–0:06 | · | · |
+| 3 | 0:06–0:09 | ADD WATER AND a | keep your herbs fresh and they are so useful. You simply rinse, add water and |
 | 4 | 0:09–0:12 | · | let the bottle do the rest. The results you get fresh herbs, delicious meals and |
-| 5 | 0:12–0:16 | MINT ROSEMARY AND a Fe aa | they're perfect for parsley, mint, rosemary and more. They come in a compact |
+| 5 | 0:12–0:16 | MINT ROSEMARY AND a | they're perfect for parsley, mint, rosemary and more. They come in a compact |
 | 6 | 0:16–0:19 | · | design that fits perfectly in a fridge and save space while preserving your |
 | 7 | 0:19–0:22 | · | · |
-| 8 | 0:22–0:25 | reg STOP NG HERBS a | favorite herbs. Upgrade your kitchen now and order yours today and stop wasting herbs. |
+| 8 | 0:22–0:25 | · | favorite herbs. Upgrade your kitchen now and order yours today and stop wasting herbs. |
 
 <details><summary>Full transcript (timestamped)</summary>
 

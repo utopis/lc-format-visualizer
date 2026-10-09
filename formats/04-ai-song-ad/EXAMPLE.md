@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:08. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:08 | YEARS AND NOBODY LOOKED AT THIS and not one person has oa checked on me. | Two years, two years and not one person is checked on me. |
+| 1 | 0:00–0:08 | YEARS AND NOBODY LOOKED AT THIS and not one person has … checked on me. | Two years, two years and not one person is checked on me. |
 | 2 | 0:08–0:17 | · | Okay, so nobody's gonna ask, so I'm just gonna tell you. I'm the one downstairs, you haven't heard from, there's a reason. |
 | 3 | 0:17–0:26 | · | · |
-| 4 | 0:26–0:34 | I AF. Ui one winter a am | It used to be so loud down here, nobody said anything. |
+| 4 | 0:26–0:34 | one winter a am | It used to be so loud down here, nobody said anything. |
 | 5 | 0:34–0:43 | · | And she decided I moved. |
-| 6 | 0:43–0:52 | om sa a Nobody asked how I'm doing down here. a | · |
+| 6 | 0:43–0:52 | a Nobody asked how I'm doing down here. a | · |
 | 7 | 0:52–1:00 | · | Okay, so the woman... |
-| 8 | 1:00–1:09 | Lad hs. a 1% So mn: Ss. SS ASS oY rm COLD... mS bl | · |
+| 8 | 1:00–1:09 | · | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -38,7 +38,7 @@ The storyboard above samples the video every 0:08. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (7)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -46,6 +46,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@lifemaximised](example/more/2100659903488819256.jpg)](https://x.com/lifemaximised/status/2100659903488819256)<br>**@lifemaximised** · 4:54 video · 5K views<br>RYZE ($25M+/mo) AI song ad library breakdown. | [![@therahulissar](example/more/2102465180567543939.jpg)](https://x.com/therahulissar/status/2102465180567543939)<br>**@therahulissar** · image · 3K views<br>4-min AI song video, product not revealed until minute 3 - winner. | [![@mkwizrd](example/more/2088293230450512089.jpg)](https://x.com/mkwizrd/status/2088293230450512089)<br>**@mkwizrd** · image · 6K views<br>Brand reports AI song ad driving big order. |
 | [![@manojbash](example/more/2102083500052795710.jpg)](https://x.com/manojbash/status/2102083500052795710)<br>**@manojbash** · image · 183K views<br>Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a | [![@Diego_exits](example/more/2100215847427944464.jpg)](https://x.com/Diego_exits/status/2100215847427944464)<br>**@Diego_exits** · images · 5K views<br>13k Active Meta ads and 17.000.000 MRR 🤯 AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesn | [![@qwertyu_alex](example/more/2107923415650701515.jpg)](https://x.com/qwertyu_alex/status/2107923415650701515)<br>**@qwertyu_alex** · 4:54 video · 670 views<br>there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte |
+| [![@vladdubchak_x](example/more/2107131198145204441.jpg)](https://x.com/vladdubchak_x/status/2107131198145204441)<br>**@vladdubchak_x** · 1:22 video · 207 views<br>You waste hours making one AI song ad because you did not do a timing map A timing map gets claude to listen to the song and map what word is said in |   |   |
 
 ## How to make one like it
 
@@ -66,9 +67,9 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 3 | 0:21 | (visual beat, see frame 3) | … |
 | 4 | 0:30 | It used to be so loud down here, nobody said anything. | … |
 | 5 | 0:39 | And she decided I moved. | … |
-| 6 | 0:47 | on screen: om sa a Nobody asked how I'm doing down here. a | … |
+| 6 | 0:47 | on screen: a Nobody asked how I'm doing down here. a | … |
 | 7 | 0:56 | Okay, so the woman... | … |
-| 8 | 1:05 | on screen: Lad hs. a 1% So mn: Ss. SS ASS oY rm COLD... mS bl | … |
+| 8 | 1:05 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake
 

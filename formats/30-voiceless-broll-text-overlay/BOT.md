@@ -2,6 +2,69 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 12-25s, 1080x1920, no voice (works on mute)), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@consumerxai](https://x.com/consumerxai/status/2092629155036987751) · Silent travel and food B-roll (beach, plates, a café table) with a long on-screen text story about a long-distance relationship, ending on a phone screen. There is no voice: the text overlay is the whole message.
+- Example: [@williamkast_](https://x.com/williamkast_/status/2104952871691117052) · One message → podcast, street interview, no-cut native talk, UGC, mute text overlay, statics; 3 hooks each.
+- Example: [@annieqyang](https://x.com/annieqyang/status/2080756837272687087) · This reel format got 800k views and 1M views for Gamma, a $1B AI powerpoint company It's simple - a 7-8 second UGC clip with text overlay, spinning a 
+- Example: [@consumerxai](https://x.com/consumerxai/status/2085409836641198327) · ‼️Tiktok Outlier Alert ‼️ 📉 20M Views, 203K Likes, 271 Comments, 1.9K Shares, 5.9K Saves 🧐What this is: A counter-intuitive lifestyle hook you can use
+- Example: [@lifemaximised](https://x.com/lifemaximised/status/2087623547288207463) · YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al
+- Example: [@ForZeOussama1](https://x.com/ForZeOussama1/status/2106572097933767012) · Meta can treat your 20 ads as one ad. Same footage. Same hook. Different text overlay. That's not testing. That's variation. Real creative diversity l
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-2s | Hand drops a necklace into a glass of water, macro | Text (top third): "I stopped taking my jewellery off." |
+| 2-6s | Shower: water running over the chain on a neck | "Shower." |
+| 6-9s | Sea: hand lifting out of a wave | "Sea." |
+| 9-12s | Gym: wrist stack on a dumbbell | "Gym." |
+| 12-16s | Mirror check, still bright | "Still gold. 8 months." |
+| End | Product grid | "14K PVD · Any 7 for $85" |
+
+### Prompts
+
+**Shoot**
+
+```
+iPhone 4K 30fps, 1x lens, natural light; one action per clip, 2-4s each; keep the product in the centre third so captions never cover it.
+```
+
+**Captions**
+
+```
+CapCut, 72px bold sans, white with 4px black stroke, placed in the top third; one caption per clip; trending sound at -18 dB.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F30-<concept>-<variant>`; tracking tag `utm_content=F30-<concept>-<variant>`.
+- [ ] Avoid: If it needs a voice to make sense, it isn't this format; test it on mute.
+- [ ] Avoid: Captions over the product kill the demo.
+- [ ] Avoid: Don't speed-ramp water shots so much that they look fake.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:02 | League D2 top 99% PH August OPTIC WI VITA ae BTS ant care ji EE oO ge a a 50 no ng: ee Le Sha Ta joined | · |
-| 2 | 0:02–0:05 | League D2 top 99% PH August... OPT Cc WHITE ar, BTS j-hope FREE al Ww Ang ii Foes | · |
-| 3 | 0:05–0:07 | · | · |
-| 4 | 0:07–0:10 | · | · |
-| 5 | 0:10–0:13 | · | · |
-| 6 | 0:13–0:15 | · | · |
-| 7 | 0:15–0:18 | Daily Ranking OPTIC KL IVE tm VITA BTS Jj Ka Asa gate 5c ko az a! An ooo Le joined | · |
-| 8 | 0:18–0:20 | Daily Ranking Music or age OPTIC LIV est VITA NJ competition val a oh FREE OS Es writ AN ee, ee Ang 9000 daisy joined | · |
+| 1 | 0:00–0:02 | a a 50 no | · |
+| 2 | 0:02–0:05 | BTS j-hope FREE | · |
+| 3 | 0:05–0:07 | j-hope new FREE | · |
+| 4 | 0:07–0:10 | top 99 August … VITA BTS I | · |
+| 5 | 0:10–0:13 | Daily Ranking Music … a BTS j-hope … OPT FREE WHITE | · |
+| 6 | 0:13–0:15 | Daily Ranking Music on | · |
+| 7 | 0:15–0:18 | Daily Ranking OPTIC … a! An ooo | · |
+| 8 | 0:18–0:20 | Daily Ranking Music or age OPTIC … LIV est VITA | · |
 
 ## More real examples (5)
 
@@ -50,14 +50,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:01 | on screen: League D2 top 99% PH August OPTIC WI VITA ae BTS ant care ji EE oO ge a a 50 no ng: ee Le Sha Ta joined | … |
-| 2 | 0:03 | on screen: League D2 top 99% PH August... OPT Cc WHITE ar, BTS j-hope FREE al Ww Ang ii Foes | … |
-| 3 | 0:06 | (visual beat, see frame 3) | … |
-| 4 | 0:09 | (visual beat, see frame 4) | … |
-| 5 | 0:11 | (visual beat, see frame 5) | … |
-| 6 | 0:14 | (visual beat, see frame 6) | … |
-| 7 | 0:17 | on screen: Daily Ranking OPTIC KL IVE tm VITA BTS Jj Ka Asa gate 5c ko az a! An ooo Le joined | … |
-| 8 | 0:19 | on screen: Daily Ranking Music or age OPTIC LIV est VITA NJ competition val a oh FREE OS Es writ AN ee, ee Ang 9000 daisy joined | … |
+| 1 | 0:01 | on screen: a a 50 no | … |
+| 2 | 0:03 | on screen: BTS j-hope FREE | … |
+| 3 | 0:06 | on screen: j-hope new FREE | … |
+| 4 | 0:09 | on screen: top 99 August … VITA BTS I | … |
+| 5 | 0:11 | on screen: Daily Ranking Music … a BTS j-hope … OPT FREE WHITE | … |
+| 6 | 0:14 | on screen: Daily Ranking Music on | … |
+| 7 | 0:17 | on screen: Daily Ranking OPTIC … a! An ooo | … |
+| 8 | 0:19 | on screen: Daily Ranking Music or age OPTIC … LIV est VITA | … |
 
 ### 2. Shot-by-shot remake
 

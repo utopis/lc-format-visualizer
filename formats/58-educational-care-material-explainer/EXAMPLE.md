@@ -20,9 +20,9 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 |---|---|---|---|
 | 1 | 0:00–0:02 | · | By the time your dog you actually limps or slows down, it's usually been wrong for weeks. |
 | 2 | 0:02–0:05 | · | · |
-| 3 | 0:05–0:07 | yr 1. hee ely. re Woe a Fi Sick if oY ae ON ans | It's a survival thing. In the wild, a sick animal is a target. |
-| 4 | 0:07–0:10 | SR, a Pita? Wwe. se ot te as ie poe te! oct 25,342 | So dogs learn to mask it. No whining, no limping, they just carry on. |
-| 5 | 0:10–0:13 | Pe Fate. su ag till do I a at melt nat Fan ss os se hee wh or ad ox ee Ty ae a SA ax vee Si ae en 26 fe m2 Se Ea | Ours still do it. And what changes first isn't something you can see. |
+| 3 | 0:05–0:07 | · | It's a survival thing. In the wild, a sick animal is a target. |
+| 4 | 0:07–0:10 | · | So dogs learn to mask it. No whining, no limping, they just carry on. |
+| 5 | 0:10–0:13 | till do I … melt nat Fan | Ours still do it. And what changes first isn't something you can see. |
 | 6 | 0:13–0:15 | · | · |
 | 7 | 0:15–0:18 | · | It's their vitals, the breathing, the heart rate, sleep, how much they drink. |
 | 8 | 0:18–0:21 | · | That shifts way before your eyes catch a thing. |

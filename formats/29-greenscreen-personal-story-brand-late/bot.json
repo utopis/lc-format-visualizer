@@ -1,0 +1,130 @@
+{
+ "id": "F29",
+ "slug": "29-greenscreen-personal-story-brand-late",
+ "name": "Green-screen personal story / long-form yapper (brand appears late)",
+ "type": "paid",
+ "platforms": "[Meta, TikTok, Reels]",
+ "cost_per_asset": "$100-400 per creator video",
+ "time_per_asset": "1 day turnaround per creator",
+ "length": "45s-3min, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Creator to camera, green-screen background of a relevant image (a photo, a Reddit post, a text)",
+   "audio_text": "\"I'm going to tell you the story of the necklace my grandmother...\""
+  },
+  {
+   "slot": "3-60s",
+   "visual": "Same framing, background changes with the story",
+   "audio_text": "Personal story, detailed, emotional"
+  },
+  {
+   "slot": "60-90s",
+   "visual": "Product appears as part of the story (late)",
+   "audio_text": "One natural line"
+  },
+  {
+   "slot": "End",
+   "visual": "Creator",
+   "audio_text": "Soft CTA"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Brief",
+   "prompt": "Ask the creator for a real personal story where jewelry mattered. Record in one take; trim pauses only."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/danclipping/status/2078147137049923751",
+   "author": "danclipping",
+   "note": "A creator talking to camera in her bedroom with captions (\"I'm going to make you fall in love with the girl who...\") that tells a personal manifestation story. The app (a mood or affirmation screen) only appears late, as part of her story.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/StefanGeorgi/status/2090446853565296658",
+   "author": "StefanGeorgi",
+   "note": "Stefan Georgi: yapper-style winner ~$750k spend in <3 weeks on an angle the brand said \"doesn't work\"; double 80/20 rule (80% proven formats).",
+   "local": "example/more/2090446853565296658.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ginacostag_/status/2082130750204428404",
+   "author": "ginacostag_",
+   "note": "The next AI video advantage may not come from generating more clips. It may come from making the entire production workflow easier to control. Dreamin",
+   "local": "example/more/2082130750204428404.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/AvaGrace_AI/status/2083984888127271189",
+   "author": "AvaGrace_AI",
+   "note": "🚨 AI videos are getting easier to generate. The real challenge is controlling the final result. That's why Seedance 2.5 inside CapCut caught my attent",
+   "local": "example/more/2083984888127271189.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Geoffreyhurth/status/2102106541394399259",
+   "author": "Geoffreyhurth",
+   "note": "💸 10 ad concepts quietly printing money on Meta right now: 1. Yapping: Raw, unscripted, straight to camera. Feels like a friend, not an ad. 2. Pixar A",
+   "local": "example/more/2102106541394399259.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2105303432424767662",
+   "author": "antonioventre_",
+   "note": "Native ads, end to end, for anyone who wants to build one The image - A normal looking photo, like something a friend posted - A bit weird on purpose,",
+   "local": "example/more/2105303432424767662.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2078849094311674138",
+   "author": "antonioventre_",
+   "note": "Green screen reaction ads are working really well right now. Here is the setup. You have a main video, usually a creator or an AI creator telling a st",
+   "local": "example/more/2078849094311674138.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/antonioventre_/status/2083948194988220841",
+   "author": "antonioventre_",
+   "note": "Green screen reaction ads are still one of our most reliable formats, and most brands build them wrong. The setup: a base video plays (a story, a demo",
+   "local": "example/more/2083948194988220841.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Mariella Gut Health Expert: \"Gross embarrassing story time\" gut yapper (Mariella Gut Health Expert)",
+   "days": 320,
+   "image": "adlibrary/w4_87468936.jpg",
+   "what": "A creator on a couch: \"Alright, gross embarrassing story time! A few months ago I started noticing that my smells were… terrible… I was feeling bloated, icky… I consulted a few physicians, they said something was wrong with my gut health…\" 105 s.",
+   "how": "Couch, casual, pyjama energy. Say \"gross/embarrassing\" in the first 2 s, give 2-3 specific symptoms in their own words, what they tried, the doctor moment, then the product."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F29-<concept>-<variant>`; tracking tag `utm_content=F29-<concept>-<variant>`.",
+  "Avoid: The brand appearing early turns it into an ad; hold it to the last third.",
+  "Avoid: The story must be real and the creator must disclose the partnership."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

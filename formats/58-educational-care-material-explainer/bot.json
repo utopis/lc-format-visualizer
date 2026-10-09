@@ -1,0 +1,147 @@
+{
+ "id": "F58",
+ "slug": "58-educational-care-material-explainer",
+ "name": "Educational care / material explainer post ('how to keep gold from tarnishing', 'which metals are safe')",
+ "type": "organic + paid (MOF)",
+ "platforms": "[Reels, TikTok, IG carousel, Pinterest, Stories]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "20-40 min",
+ "length": "5-7 slide carousel or a 30-45s video",
+ "shots": [
+  {
+   "slot": "Slide 1",
+   "visual": "Tarnished chain next to a bright one",
+   "audio_text": "\"Why gold jewellery tarnishes (and how to stop it)\""
+  },
+  {
+   "slot": "Slide 2",
+   "visual": "Diagram: plating vs PVD layers",
+   "audio_text": "\"Plating is a coat. PVD is bonded.\""
+  },
+  {
+   "slot": "Slide 3",
+   "visual": "Care list",
+   "audio_text": "\"Do: rinse and dry. Don't: bleach, chlorine for hours.\""
+  },
+  {
+   "slot": "Slide 4",
+   "visual": "Metal guide",
+   "audio_text": "\"Which metal for sensitive skin?\""
+  },
+  {
+   "slot": "Slide 5",
+   "visual": "Save prompt",
+   "audio_text": "\"Save this for later.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude",
+   "prompt": "Write a care-guide carousel for [material], 5 slides, every claim checkable; include a short \"what to avoid\" list."
+  },
+  {
+   "tool": "Design",
+   "prompt": "Clean educational layout, numbered slides, one diagram."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/lorenzo_pravata/status/2095136884666052819",
+   "author": "lorenzo_pravata",
+   "note": "A vet or expert talking to camera with red caption labels, intercut with dogs (a golden retriever, a scruffy dog, a husky, a dog with a toy). It is an educational explainer about care, with the product as the solution.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/taye_afola19505/status/2077796327887450475",
+   "author": "taye_afola19505",
+   "note": "Built a premium advertorial experience for @KYOM combining emotional storytelling, educational content, social proof, and conversion-focused design to",
+   "local": "example/more/2077796327887450475.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Bogzabs96/status/2096280202103927187",
+   "author": "Bogzabs96",
+   "note": "There are a ton of your customers who know nothing about your brand. That's what educational ads are for. Here's the first 20 seconds of one of ours. ",
+   "local": "example/more/2096280202103927187.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/didicoding/status/2088172069703852134",
+   "author": "didicoding",
+   "note": "Most business owners are using AI to write captions. But AI can now help you create: - Product videos - Promotional videos - Ads - Brand stories - Edu",
+   "local": "example/more/2088172069703852134.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/framesbysalman/status/2075809251919110498",
+   "author": "framesbysalman",
+   "note": "From founders and creators to brand owners, everyone is building their personal brand through: Educational content Vlogs Entertaining videos Launch co",
+   "local": "example/more/2075809251919110498.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "StellaLife, Inc.: Clinical CGI explainer (mouth lesions)",
+   "days": 1189,
+   "image": "adlibrary/w4_89004207.jpg",
+   "what": "\"Suffering from mucositis? Natural relief from lesions and inflammation…\" A clinical 3D mouth animation with captions. 98 s.",
+   "how": "A sober medical 3D animation, a name-the-condition hook, the mechanism, the product."
+  },
+  {
+   "title": "BioRoot Labs: Ingredient-nerd yapper (turmeric percentages)",
+   "days": 381,
+   "image": "adlibrary/w4_57073202.jpg",
+   "what": "A creator in a branded tee explains why she picked BioRoot: \"95% curcumin, around 30 times more than the store bought\" and black pepper \"which majority of store bought ones don't have\". 125 s; the brand has 1,000 active ads.",
+   "how": "A creator holds the bottle and reads 2-3 numbers off the label, compares them with a generic store version, then gives her personal routine."
+  },
+  {
+   "title": "Libby Babet: Women's-body myth-bust talking head (fitness coach)",
+   "days": 305,
+   "image": "adlibrary/108040117.jpg",
+   "what": "Libby Babet (coach/founder) talking head at home: hook text 'This is why fasted workouts backfire for women' → explains cortisol/muscle → 'for my pro babes' → shows the empty wrapper of the collagen bar she ate this morning → 'go train strong, my ladies'. Burned-in yellow-highlight captions; three versions (different crops/backgrounds) in one DCO ad.",
+   "how": "Founder/coach to camera, 85-95 s, one take, captions with keyword highlights (CapCut 'highlight' style), 3 framings of the same take as DCO variants."
+  },
+  {
+   "title": "Pinch Magic Fiber: Presenter explainer with 'this is what 30 g of fiber looks like'",
+   "days": 288,
+   "image": "adlibrary/101661846.jpg",
+   "what": "Bearded presenter talks fiber science over b-roll (poop-shape hook, psyllium close-ups, comparison chart 'Premium Psyllium / 0 g sugar / Bromelain') and the key visual: a table of whole foods = 30 g fiber, 'if you can't eat this every day, here's this'. Ends on a 'The People Have Spoken' review page.",
+   "how": "100 s explainer: presenter A-roll + 8-12 b-roll inserts + one big visual-equivalence shot + comparison table + review-page close."
+  },
+  {
+   "title": "WebMD: Editorial flat-lay food static (WebMD 'Polyphenols')",
+   "days": 253,
+   "image": "adlibrary/108968457.jpg",
+   "what": "Overhead flat-lay of polyphenol foods (berries, olives, nuts, dark chocolate, cinnamon) with a handwritten 'POLYPHENOLS' label in a star bowl.",
+   "how": "Overhead shot, natural light, slate or linen, one handwritten word; no product claims on the image."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F58-<concept>-<variant>`; tracking tag `utm_content=F58-<concept>-<variant>`.",
+  "Avoid: Care advice must be accurate; don't say \"never tarnishes\".",
+  "Avoid: Hypoallergenic claims need evidence.",
+  "Avoid: Make it worth saving, not a disguised ad."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

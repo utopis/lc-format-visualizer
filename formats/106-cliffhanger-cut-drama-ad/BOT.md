@@ -2,6 +2,69 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: Ep1 12-20s (cold ad) + Ep2 12-15s (landing/retargeting) + Ep3 10s offer), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@Ecombos_Ai](https://x.com/Ecombos_Ai/status/2108240933435400432) · An AI drama clip, 15 seconds. An elderly father leans on the banister, and his daughter walks in with a cane visible by the door. "Dad, why didn't you call me?" "Because you'd look at me like that." "The wedding's in six weeks, Dad." "I'm not using the cane. Not there." "Then who's walking me down the aisle?" It cuts on his face with no resolution. That cut is the cliffhanger that makes people wat
+- Example: [@Olumide_gbenro](https://x.com/Olumide_gbenro/status/2103922292640149628) · We just got 2.3M views on an AI drama in 24 hours. Here’s the secret to how we did it. → Find viral winners. Remix them your way. I found a similar st
+- Example: [@AmyBasirStudio](https://x.com/AmyBasirStudio/status/2105707431368269892) · DRAGON BRIDE — Episode 1 Bound by an ancient royal pact, a princess is sent to a remote mountaintop altar to marry a mysterious creature. What awaits 
+- Example: [@AdamKPx](https://x.com/AdamKPx/status/2108191928923881782) · AI Drama Ads are crushing it right now. And Arcads makes them ridiculously easy to create. People don’t want to watch ads. They want stories. Characte
+- Example: [@TheIvanKreimer](https://x.com/TheIvanKreimer/status/2107808445508321597) · Smooche AI melodrama: ID-photo clerk scene, product at 1:54; retention: 90-95% drop before product. Try only if short DR saturated.
+- Example: [@SmartEye_ADSpy](https://x.com/SmartEye_ADSpy/status/2087810501686481034) · Top 3 Contribute Over 40% of Market Revenue | Maiya's NetShort Cracks the Top 3 In H1 2026, the Top 20 Chinese micro drama apps in global markets gene
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Ep1 0-2s | Wedding pool party; cousin bumps the bride on purpose | Text: "She did it on purpose." |
+| Ep1 2-6s | Slow-motion splash, bride goes in wearing the necklace | Music swell |
+| Ep1 6-10s | Cousin smirks at the edge | "Hope that wasn't real gold." |
+| Ep1 10-12s | Underwater glint of gold; freeze frame | "Part 2 →" |
+| Ep2 0-6s | She surfaces, necklace bright (real LC footage) | Guests: "...it's fine?" |
+| Ep2 6-12s | Cousin's own bracelet dull; product beat | "14K PVD · any 7 for $85" |
+
+### Prompts
+
+**Season outline (Claude)**
+
+```
+Write a 3-episode cliffhanger arc for Louise Carter. Ep1 freezes at peak tension (≤20s), Ep2 resolves with a real water/sweat moment (≤15s), Ep3 is an offer close (≤10s). Include the one-line opener for the landing page that resolves Ep1.
+```
+
+**Landing page**
+
+```
+Top of PDP/advertorial: Ep2 autoplay muted, 9:16 in a 4:5 frame, captions burned in, then the bundle picker (F86).
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F106-<concept>-<variant>`; tracking tag `utm_content=F106-<concept>-<variant>`.
+- [ ] Avoid: The click must get the ending immediately; making people hunt for Part 2 burns trust.
+- [ ] Avoid: Judge on CPA and Omni revenue, not CTR.
+- [ ] Avoid: Don't stretch to 5 episodes before Ep1 proves itself.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

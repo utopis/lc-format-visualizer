@@ -2,6 +2,65 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 2-6 min first cut (up to 25 min), plus a matching text sales letter page), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@FedotOff90](https://x.com/FedotOff90/status/2095237367925731363) · A long-form VSL of about 4 to 5 minutes: a woman telling her story to camera ("Over 40"), with cutaways to an orange being peeled, a woman in bed, a red-light device on skin and close-ups of skin. It is slow, story-led and sells late.
+- Example: [@FedotOff90](https://x.com/FedotOff90/status/2087245595249721445) · 97-day VSL; VSLs spent millions profitably; full VSL Machine SOP.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0:00-0:30 Hook | Narrator to camera or story B-roll | Personal problem in one sentence: "My mother's gold chain turned her neck green the day of my wedding." |
+| 0:30-2:00 Story + villain | B-roll of the problem, archive-style photos | Why the usual fixes fail ("plating is a coat of paint, it wears off") |
+| 2:00-3:30 Mechanism | Diagram / macro of the material | How PVD bonding works in plain words |
+| 3:30-4:30 Proof | Real customer clips, review screenshots, water test | Specific, verifiable proof only |
+| 4:30-5:30 Offer + guarantee | Product grid, offer card | Bundle, price, guarantee terms, shipping |
+| 5:30-6:00 CTA | Narrator | One clear action, repeated once |
+
+### Prompts
+
+**Claude (outline)**
+
+```
+Outline a 6-minute VSL for [product] with sections hook, story, villain, mechanism, proof, offer, guarantee, CTA. Give each a timing, the exact spoken lines and the B-roll list. Every claim must come from this product page: [paste].
+```
+
+**Text twin (TSL)**
+
+```
+Turn the VSL script into a long-form landing page with the same headlines as H2s, pull quotes from real reviews and the offer box repeated 3 times.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F72-<concept>-<variant>`; tracking tag `utm_content=F72-<concept>-<variant>`.
+- [ ] Avoid: Long form makes weak claims more visible, not less; substantiate everything.
+- [ ] Avoid: Test a 2-minute cut against the long version before shooting a 20-minute one.
+- [ ] Avoid: Most viewers drop before the offer; put a mini-offer at 60-90s too.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -1,0 +1,140 @@
+{
+ "id": "F54",
+ "slug": "54-regret-discovery-hook-silent-demo",
+ "name": "'Been doing X for N years and NOW I find this???' — regret-discovery hook + silent demo",
+ "type": "organic (creator swarm) → paid",
+ "platforms": "[TikTok, Reels, YouTube Shorts]",
+ "cost_per_asset": "$0-100 (creator) / near-zero to re-shoot",
+ "time_per_asset": "30-60 min",
+ "length": "15-30s, 1080x1920, silent demo",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Text on screen over a hand holding the necklace",
+   "audio_text": "\"Been buying gold jewellery for 15 years and NOW I find this???\""
+  },
+  {
+   "slot": "3-10s",
+   "visual": "Silent demo: shower water over the chain",
+   "audio_text": "-"
+  },
+  {
+   "slot": "10-18s",
+   "visual": "Sea dip, then the chain still bright",
+   "audio_text": "-"
+  },
+  {
+   "slot": "18-24s",
+   "visual": "Close-up of the stack",
+   "audio_text": "\"14K PVD. Waterproof.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "-"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Hook bank (Claude)",
+   "prompt": "Write 15 variations of \"Been doing X for N years and NOW I find this???\" for [audience], each with a specific number and habit."
+  },
+  {
+   "tool": "Shoot",
+   "prompt": "Macro clips, no voice, trending sound low."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/pixclipper/status/2084739019187847201",
+   "author": "pixclipper",
+   "note": "A short selfie reaction (\"been shopping at Lidl for 8 years and NOW I find this??\"), then a long wordless screen demo of the app: tapping through store deals and recipes on a phone held over a counter. There is no voiceover; the text hook does the work.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/themariaines/status/2086845144230416463",
+   "author": "themariaines",
+   "note": "miso: $100K MRR and 100K downloads 5 weeks after launch with the regret-discovery hook; one video 8.0M views, 200K shares.",
+   "local": "example/more/2086845144230416463.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/PerezHatesAI/status/2107132379123077221",
+   "author": "PerezHatesAI",
+   "note": "I need to sit down 😭 29.3M views. 376K saves. 121K shares. For a meal planning app. The hook isn't the app. It's this line: \"been shopping at Aldi lit",
+   "local": "example/more/2107132379123077221.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/danclipping/status/2075946162235011466",
+   "author": "danclipping",
+   "note": "$976K/month is crazy This is a study/homework helper AI app with 350 million users Just from UGC creators They run formats like \"I just found this app",
+   "local": "example/more/2075946162235011466.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/one_mtb/status/2084732666394431581",
+   "author": "one_mtb",
+   "note": "Here’s a $1M MRR app idea that NOBODY has built…. An AI parking ticket fighter Here’s how I would build and scale it 👇 - Launch the app in a week (I u",
+   "local": "example/more/2084732666394431581.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ColinMaddenUGC/status/2097280776421126601",
+   "author": "ColinMaddenUGC",
+   "note": "Our 1.8k-follower UGC creator pulled 12.2M views while some 400k-follower ones can’t even hit 10k… We’ve seen this happen across 100s of brands and th",
+   "local": "example/more/2097280776421126601.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/pixclipper/status/2090016988223430845",
+   "author": "pixclipper",
+   "note": "this app crossed $100K revenue and 100K downloads in under 50 days 🤯 their whole strategy is one ugc format on repeat: - shocked face reaction - a sna",
+   "local": "example/more/2090016988223430845.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Muscle Mat: Dog-test visual hook (Muscle Mat, 859 days)",
+   "days": 859,
+   "image": "adlibrary/w4_90837037.jpg",
+   "what": "A dog flops on the mattress topper and a woman presses it; captions \"what makes our campsite super comfy… 35 mm thick\". DCO.",
+   "how": "Pair an unexpected visual tester (dog, kid, grandpa) with a plain question in copy."
+  },
+  {
+   "title": "Muscle Mat: \"FREE\" baby-on-topper static (Muscle Mat)",
+   "days": 533,
+   "image": "adlibrary/w4_90837430.jpg",
+   "what": "A baby asleep on the topper with a \"FREE\" banner and a gift offer.",
+   "how": "A cute visual, one big offer word."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F54-<concept>-<variant>`; tracking tag `utm_content=F54-<concept>-<variant>`.",
+  "Avoid: The number of years must be plausible for the person shown.",
+  "Avoid: The demo has to prove the hook.",
+  "Avoid: Keep text on screen to the hook and one benefit."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

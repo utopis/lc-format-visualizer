@@ -1,5 +1,111 @@
 # Meta ad-library examples for F37 (GetHookd board 155932, gut health)
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Smooche · Smooche: “IT'S OFFICIAL: WE'RE ENDING IT” (53 days live)
+
+![Smooche 3039677756368104](w6_3039677756368104.jpg)
+
+- **Ad:** [Meta Ad Library #3039677756368104](https://www.facebook.com/ads/library/?id=3039677756368104) · static image · page “Smooche” · started 2026-08-16 · 3 copies · lands on `smooche.com/products/ccf2`
+- **What happens:** "IT'S OFFICIAL: WE'RE ENDING IT": the #1 product is "flying off the shelves… last 60% off sale until our stock lasts".
+- **Why it works:** This is a whole urgency ladder: "FINAL 287 BOTTLES", "It's official: we're ending it", "This is your last chance", "Almost sold out 89%" with a progress bar, "LAST CALL", "URGENT: only 24 hours". The variants have been running 13-53 days.
+- **How to make one:** Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.
+- **Do not copy:** The stock counts and "ending it" claims run for weeks, so they are not literally true. Only state real stock.
+- **LC remake:** The "Last 300 Lucky Charm sets" progress bar at 89%.
+
+### Smooche · Smooche: “IT'S OFFICIAL: WE'RE ENDING IT” (10 days live)
+
+![Smooche 1425514233040456](w6_1425514233040456.jpg)
+
+- **Ad:** [Meta Ad Library #1425514233040456](https://www.facebook.com/ads/library/?id=1425514233040456) · static image · page “Smooche” · started 2026-09-28 · 2 copies · lands on `smooche.com/products/ccf2`
+- **What happens:** "IT'S OFFICIAL: WE'RE ENDING IT" (headline: "FINAL 287 BOTTLES").
+- **Why it works:** This is a whole urgency ladder: "FINAL 287 BOTTLES", "It's official: we're ending it", "This is your last chance", "Almost sold out 89%" with a progress bar, "LAST CALL", "URGENT: only 24 hours". The variants have been running 13-53 days.
+- **How to make one:** Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.
+- **Do not copy:** The stock counts and "ending it" claims run for weeks, so they are not literally true. Only state real stock.
+- **LC remake:** The "Last 300 Lucky Charm sets" progress bar at 89%.
+
+<details><summary>Primary text</summary>
+
+> You've been thinking about it. Now everyone else is buying it. Our viral color-matching foundation is down to the last few hundred bottles and your shade won't last the day. We can't make them fast enough - production is 3 weeks behind demand. If you miss this drop, you're looking at a 6-week waitlist minimum. One bottle adapts to YOUR exact skin tone. No more guessing. No more orange jawlines. Click before it's too late.
+
+</details>
+
+### Smooche · Smooche: “This is your last chance” (37 days live)
+
+![Smooche 1829601588200696](w6_1829601588200696.jpg)
+
+- **Ad:** [Meta Ad Library #1829601588200696](https://www.facebook.com/ads/library/?id=1829601588200696) · static image · page “Smooche” · started 2026-09-01 · 4 copies · lands on `smooche.com/products/reverse-time-peptide-serum`
+- **What happens:** "This is your last chance": a pink serum bottle with a FREE GIFT tag.
+- **Why it works:** This is a whole urgency ladder: "FINAL 287 BOTTLES", "It's official: we're ending it", "This is your last chance", "Almost sold out 89%" with a progress bar, "LAST CALL", "URGENT: only 24 hours". The variants have been running 13-53 days.
+- **How to make one:** Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.
+- **Do not copy:** The stock counts and "ending it" claims run for weeks, so they are not literally true. Only state real stock.
+- **LC remake:** The "Last 300 Lucky Charm sets" progress bar at 89%.
+
+<details><summary>Primary text</summary>
+
+> You’ve been thinking about it. Now everyone else is buying it. Our viral Reverse Time Peptide Serum is down to the last few hundred bottles — and this batch won’t last the day. This isn’t another moisturizer that just makes dry skin feel softer. It’s a concentrated peptide serum designed to target the visible signs of aging — helping skin look firmer, smoother and younger over time. Fine lines. Wrinkles. Loss of firmness. That tired, aging look in the mirror. Don’t just cover them up. Target them at the source. If you miss this drop, you’ll have to wait for the next batch. Click before it’s too late.
+
+</details>
+
+### Smooche · Smooche: “Almost SOLD OUT” (37 days live)
+
+![Smooche 1053306423980368](w6_1053306423980368.jpg)
+
+- **Ad:** [Meta Ad Library #1053306423980368](https://www.facebook.com/ads/library/?id=1053306423980368) · static image · page “Smooche” · started 2026-09-01 · 3 copies · lands on `smooche.com/products/reverse-time-peptide-serum`
+- **What happens:** "Almost SOLD OUT" with an 89% progress bar.
+- **Why it works:** This is a whole urgency ladder: "FINAL 287 BOTTLES", "It's official: we're ending it", "This is your last chance", "Almost sold out 89%" with a progress bar, "LAST CALL", "URGENT: only 24 hours". The variants have been running 13-53 days.
+- **How to make one:** Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.
+- **Do not copy:** The stock counts and "ending it" claims run for weeks, so they are not literally true. Only state real stock.
+- **LC remake:** The "Last 300 Lucky Charm sets" progress bar at 89%.
+
+<details><summary>Primary text</summary>
+
+> You’ve been thinking about it. Now everyone else is buying it. Our viral Reverse Time Peptide Serum is down to the last few hundred bottles — and this batch won’t last the day. This isn’t another moisturizer that just makes dry skin feel softer. It’s a concentrated peptide serum designed to target the visible signs of aging — helping skin look firmer, smoother and younger over time. Fine lines. Wrinkles. Loss of firmness. That tired, aging look in the mirror. Don’t just cover them up. Target them at the source. If you miss this drop, you’ll have to wait for the next batch. Click before it’s too late.
+
+</details>
+
+### Smooche · Smooche: “LAST CALL. Reverse-time Peptide Serum, almost sold out 89%” (37 days live)
+
+![Smooche 1070916458773952](w6_1070916458773952.jpg)
+
+- **Ad:** [Meta Ad Library #1070916458773952](https://www.facebook.com/ads/library/?id=1070916458773952) · static image · page “Smooche” · started 2026-09-01 · 3 copies · lands on `smooche.com/products/reverse-time-peptide-serum`
+- **What happens:** "LAST CALL. Reverse-time Peptide Serum, almost sold out 89%."
+- **Why it works:** This is a whole urgency ladder: "FINAL 287 BOTTLES", "It's official: we're ending it", "This is your last chance", "Almost sold out 89%" with a progress bar, "LAST CALL", "URGENT: only 24 hours". The variants have been running 13-53 days.
+- **How to make one:** Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.
+- **Do not copy:** The stock counts and "ending it" claims run for weeks, so they are not literally true. Only state real stock.
+- **LC remake:** The "Last 300 Lucky Charm sets" progress bar at 89%.
+
+<details><summary>Primary text</summary>
+
+> You’ve been thinking about it. Now everyone else is buying it. Our viral Reverse Time Peptide Serum is down to the last few hundred bottles — and this batch won’t last the day. This isn’t another moisturizer that just makes dry skin feel softer. It’s a concentrated peptide serum designed to target the visible signs of aging — helping skin look firmer, smoother and younger over time. Fine lines. Wrinkles. Loss of firmness. That tired, aging look in the mirror. Don’t just cover them up. Target them at the source. If you miss this drop, you’ll have to wait for the next batch. Click before it’s too late.
+
+</details>
+
+### Resilia · Resilia: “URGENT: only 24 hours left to fix your gut before the sale disappears forever” (1 day live)
+
+![Resilia 1105035942451176](w6_1105035942451176.jpg)
+
+- **Ad:** [Meta Ad Library #1105035942451176](https://www.facebook.com/ads/library/?id=1105035942451176) · static image · page “Resilia” · started 2026-10-07 · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** "URGENT: only 24 hours left to fix your gut before the sale disappears forever" over a warehouse box of pouches.
+- **Why it works:** This is a whole urgency ladder: "FINAL 287 BOTTLES", "It's official: we're ending it", "This is your last chance", "Almost sold out 89%" with a progress bar, "LAST CALL", "URGENT: only 24 hours". The variants have been running 13-53 days.
+- **How to make one:** Build 5 statics with the same product shot and an escalating headline plus a progress bar, and rotate them by audience recency.
+- **Do not copy:** The stock counts and "ending it" claims run for weeks, so they are not literally true. Only state real stock.
+- **LC remake:** The "Last 300 Lucky Charm sets" progress bar at 89%.
+
+<details><summary>Primary text</summary>
+
+> Resilia is powered by oil of oregano and cold-pressed black seed oil — two of nature's most time-tested botanicals. Our easy-to-swallow softgels feature premium oil of oregano with naturally occurring carvacrol and black seed oil with thymoquinone. Clean, no-BS ingredients, third-party tested, and shipped right from the USA to deliver daily support for a healthy gut, a healthy inflammatory response, and your body's natural defenses. Just two softgels a day, no powders or routines to remember.
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public board preview. Days live are as of 2026-10-09. Full board breakdown is in the internal sources folder.
 
 ## Phantom Athletics: Catalog DCO grid with big % badge (German) (445 days live)

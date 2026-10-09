@@ -31,6 +31,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P0** · evidence: High (many live offer pages) · hype risk: Low · cost $0-100 · 1 h
 
 ## What it is

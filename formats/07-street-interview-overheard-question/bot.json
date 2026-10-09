@@ -1,0 +1,121 @@
+{
+ "id": "F07",
+ "slug": "07-street-interview-overheard-question",
+ "name": "Street / resort interview & \"overheard question\" (\"what are you wearing?\")",
+ "type": "paid + organic",
+ "platforms": "[Meta, TikTok, Reels, Shorts]",
+ "cost_per_asset": "$0-300 (real) / $5-20 (AI)",
+ "time_per_asset": "",
+ "length": "20-60s, 1080x1920",
+ "shots": [
+  {
+   "slot": "0-3s",
+   "visual": "Phone in hand, filming a stranger or staff member (hotel desk, beach, street). Handheld, vertical, a bit messy",
+   "audio_text": "The overheard question as hook caption: \"asked the hotel front desk what mattress this is\""
+  },
+  {
+   "slot": "3-15s",
+   "visual": "The interviewee answers on camera (or the interviewer reacts)",
+   "audio_text": "Natural answer, unscripted feel: \"people ask every day, it's [brand]\""
+  },
+  {
+   "slot": "15-30s",
+   "visual": "Cutaways to the product in that real setting",
+   "audio_text": "Captions carry the key facts"
+  },
+  {
+   "slot": "30-end",
+   "visual": "Creator to camera or end card",
+   "audio_text": "\"so I bought one\" + offer"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Interview brief (real shoot)",
+   "prompt": "Shoot at a resort pool/beach. Ask 20 women: \"what is that necklace, it looks expensive?\" Ask permission on camera, get a signed release, film 4K 30fps vertical, wireless lav on the interviewer."
+  },
+  {
+   "tool": "AI version (Veo 3 / Seedance)",
+   "prompt": "handheld vertical phone footage of a woman at a hotel front desk asking the receptionist a question, natural daylight, realistic skin, slight camera shake, ambient lobby noise; 8s; then the receptionist smiling and answering"
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/adamtaylorl/status/2094742062755422423",
+   "author": "adamtaylorl",
+   "note": "Phone-in-hand at a hotel front desk: the creator films herself asking staff what mattress the hotel uses (captions \"FRONT DESK THIS...\", \"NOTHING SPECIAL\", \"WE STARTED PUTTING\"), then cuts to a man sleeping badly, a woman unboxing the brand and the answer reveal. It looks like an overheard real conversation, not an ad.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/tryatria_AI/status/2095860430099058905",
+   "author": "tryatria_AI",
+   "note": "AI resort 'random interview' ('Are you really 56?') hook format.",
+   "local": "example/more/2095860430099058905.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/maxxmalist/status/2080007884406960319",
+   "author": "maxxmalist",
+   "note": "the new animation ads are crushing on fb here's an example created by my whop member you can literally do any format with AI: - podcasts - street inte",
+   "local": "example/more/2080007884406960319.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/0xROAS/status/2078901864498692155",
+   "author": "0xROAS",
+   "note": "the new drama ADS are crushing on fb lol. you can literally do any format with AI: - podcasts - street interview - drama ads - doctor/authority figure",
+   "local": "example/more/2078901864498692155.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/vicmediaco/status/2092248121581486114",
+   "author": "vicmediaco",
+   "note": "Made this street interview ad for a beauty brand … what do you think ? Need Video ads? …send a DM 📩 https://t.co/Km4XvI6oNF",
+   "local": "example/more/2092248121581486114.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/theisaacmed/status/2087181812103831724",
+   "author": "theisaacmed",
+   "note": "The ad frequency on my meta account for street interview agencies is at 100x. Every day I login to ig and am blasted by ads. https://t.co/UdeTr0VJDw",
+   "local": "example/more/2087181812103831724.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Penrose Skin: Nightlife street-reaction montage (Penrose)",
+   "days": 89,
+   "image": "adlibrary/w4_119055282.jpg",
+   "what": "Night-street clips of people reacting to a man (\"Before you go, what do you think of this?\", \"OK, that's dangerous\"), then a VO: \"That reaction? It's real. And it happens every time. This is Penrose Skin, a pheromone-infused body butter…\" 41 s.",
+   "how": "Shoot 6-10 real stranger reactions, add a VO explaining the product, then the offer."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F07-<concept>-<variant>`; tracking tag `utm_content=F07-<concept>-<variant>`.",
+  "Avoid: Staged \"real people\" interviews that are presented as real are deceptive; if actors or AI, label it.",
+  "Avoid: Get a release from everyone identifiable.",
+  "Avoid: The question must be one a real person would ask; scripted-sounding questions kill the overheard feel."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

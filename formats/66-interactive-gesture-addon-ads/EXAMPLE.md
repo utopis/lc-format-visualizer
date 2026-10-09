@@ -20,12 +20,12 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | Shake to learn more 4730 ad 170 Bring home the biggest movie of the year! Own Barbie Now on Digital! Sponsored a | On the ground. |
-| 2 | 0:01–0:02 | STEM ma. Sha more 4730 170 Bring home the biggest movie of the year! 190 Own Barbie Now on Digital! Sponsored. Watchman | · |
-| 3 | 0:02–0:04 | Se C4 ct rv ae ls VW Ns BP ow | · |
-| 4 | 0:04–0:05 | ya Bo OD | · |
-| 5 | 0:05–0:07 | see Barbie Movies a mt App! prime video AN Ve cox Me BEST BUY | · |
-| 6 | 0:07–0:08 | Barbie Movies Theaters at Fulton Market Regal Battery Park 12:45 PM 330 PM WATCH IT Buy Rent Digital OB prime video Ss cox SS | · |
+| 1 | 0:00–0:01 | Shake to learn more 4730 … Bring home the biggest movie of the year! Own Barbie Now on Digital! Sponsored a | On the ground. |
+| 2 | 0:01–0:02 | Sha more 4730 170 … Bring home the biggest movie of the year! 190 Own Barbie Now on Digital! Sponsored. | · |
+| 3 | 0:02–0:04 | · | · |
+| 4 | 0:04–0:05 | · | · |
+| 5 | 0:05–0:07 | Barbie Movies a … App! prime video AN | · |
+| 6 | 0:07–0:08 | Theaters at Fulton Market Regal Battery Park 12:45 … WATCH IT Buy Rent Digital | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -58,10 +58,10 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 |---|---|---|---|
 | 1 | 0:00 | On the ground. | … |
 | 2 | 0:02 | On the ground. | … |
-| 3 | 0:03 | on screen: Se C4 ct rv ae ls VW Ns BP ow | … |
-| 4 | 0:05 | on screen: ya Bo OD | … |
-| 5 | 0:06 | on screen: see Barbie Movies a mt App! prime video AN Ve cox Me BEST BUY | … |
-| 6 | 0:07 | on screen: Barbie Movies Theaters at Fulton Market Regal Battery Park 12:45 PM 330 PM WATCH IT Buy Rent Digital OB prime video Ss c | … |
+| 3 | 0:03 | (visual beat, see frame 3) | … |
+| 4 | 0:05 | (visual beat, see frame 4) | … |
+| 5 | 0:06 | on screen: Barbie Movies a … App! prime video AN | … |
+| 6 | 0:07 | on screen: Theaters at Fulton Market Regal Battery Park 12:45 … WATCH IT Buy Rent Digital | … |
 
 ### 2. Shot-by-shot remake
 

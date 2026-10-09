@@ -1,0 +1,145 @@
+{
+ "id": "F01",
+ "slug": "01-faceless-niche-slideshow",
+ "name": "Faceless niche slideshow (content-first, product as one tip)",
+ "type": "organic (then Spark/Partnership ads on winners)",
+ "platforms": "[TikTok photo mode, Instagram carousel, Pinterest idea pins, Facebook carousel]",
+ "cost_per_asset": "$0-3 (AI images or own photos + Canva/Volume/Postiz)",
+ "time_per_asset": "10-20 min when batched",
+ "length": "5-6 slides, 1080x1920 (TikTok photo mode) or 1080x1350 (IG)",
+ "shots": [
+  {
+   "slot": "Slide 1 (cover)",
+   "visual": "The page's signature photo (same one every post: a faceless couple / hands / a view), slightly darkened so white text reads",
+   "audio_text": "Title in TikTok \"Classic\" font, white with black shadow, 6-10 words: \"rules we made after we almost broke up\""
+  },
+  {
+   "slot": "Slide 2",
+   "visual": "Same photo or a close variant",
+   "audio_text": "Tip 1, written like a diary line: \"1. no phones at dinner. not even face down.\""
+  },
+  {
+   "slot": "Slide 3",
+   "visual": "Same photo",
+   "audio_text": "Tip 2, slightly vulnerable: \"2. we say the annoying thing the same day\""
+  },
+  {
+   "slot": "Slide 4 (product slide)",
+   "visual": "Same photo; the product is NOT pictured big. Optional small inset of it worn",
+   "audio_text": "Tip 3 IS the product, framed as a habit: \"3. matching necklaces we never take off. even in the shower (ours are from [brand])\""
+  },
+  {
+   "slot": "Slide 5",
+   "visual": "Same photo",
+   "audio_text": "Tip 4, the most emotional one, so the product slide is sandwiched"
+  },
+  {
+   "slot": "Slide 6",
+   "visual": "Same photo",
+   "audio_text": "Soft close: \"save this for the next hard week\". No CTA, no link."
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Midjourney / Nano Banana (signature photo)",
+   "prompt": "candid film photo of a couple seen from behind sitting on a sea wall at golden hour, faces not visible, her hand on his knee, thin gold chain on her neck, soft grain, 35mm, muted warm tones, vertical 9:16 --style raw"
+  },
+  {
+   "tool": "Claude / ChatGPT (captions)",
+   "prompt": "Write 10 slideshow scripts for a faceless relationship page. Each: a 6-10 word title in lowercase, 5 numbered tips in the voice of a woman writing in her notes app. In exactly one tip per script, mention [product] as a habit the couple has, never as a recommendation. No hashtags, no emojis."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/leonclipping/status/2104660939069170110",
+   "author": "leonclipping",
+   "note": "A TikTok profile for a faceless relationship page (@notruthlove). Every post uses the same photo of a couple by the sea. Only the title text changes (\"the strict agreements we made before signing a lease\", \"Rules we made after we almost broke up\"), and each post gets about 100K to 775K views. The page never shows a face, and the product is pushed inside the slides.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/PerezHatesAI/status/2106779894785188006",
+   "author": "PerezHatesAI",
+   "note": "This is wild 😭 4.3M views. 250K saves. On a \"weird habits\" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that \"actually",
+   "local": "example/more/2106779894785188006.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/rsalimx/status/2108259483902513153",
+   "author": "rsalimx",
+   "note": "nah this is actually insane 😭 the account has posts sitting at 40m views and the app is doing ~$10k mrr off it recipes are the most natural slideshow ",
+   "local": "example/more/2108259483902513153.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/rsalimx/status/2107517609960702306",
+   "author": "rsalimx",
+   "note": "Running-girl ICP page; app shows on slide 4 of 5 right before last tip (can't get full list without seeing it).",
+   "local": "example/more/2107517609960702306.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ChadAppDev/status/2098786343836860487",
+   "author": "ChadAppDev",
+   "note": "Before building: make niche TikTok page, find most viral slideshow formats, copy with own flavor, 1/day.",
+   "local": "example/more/2098786343836860487.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ChadAppDev/status/2107186633871114374",
+   "author": "ChadAppDev",
+   "note": "Repost of ChadAppDev niche slideshow method.",
+   "local": "example/more/2107186633871114374.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/leonclipping/status/2106833379823894702",
+   "author": "leonclipping",
+   "note": "GLP-1 diary page: different selfie per post, 'what nobody tells you about first 8 weeks', tracker app as one tip.",
+   "local": "example/more/2106833379823894702.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Dkevs_/status/2100425887636472312",
+   "author": "Dkevs_",
+   "note": "$200K MRR app via TikTok slideshows; don't overcomplicate with clippers.",
+   "local": "example/more/2100425887636472312.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/mufvza/status/2082847934841049519",
+   "author": "mufvza",
+   "note": "Analysis of 1,000 app slideshows: most-viewed != most installs; track saves/profile clicks per slideshow.",
+   "local": "example/more/2082847934841049519.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F01-<concept>-<variant>`; tracking tag `utm_content=F01-<concept>-<variant>`.",
+  "Avoid: Changing the photo every post kills the page identity; the repeat image IS the brand.",
+  "Avoid: The product slide must read like a tip, not an ad. If it says \"shop now\" the slideshow loses saves.",
+  "Avoid: Post 1-3 times a day from a warmed account for 2+ weeks before judging; one slideshow is not a test.",
+  "Avoid: Use AI or licensed photos only; never lift a real couple's photo."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

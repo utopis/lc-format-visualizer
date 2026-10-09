@@ -17,5 +17,33 @@
  "seen": "A 3-up screenshot of one couples app's TikTok grid. Every cover shows the same cartoon duo, a brown pig (\"him\") and a white cat with a pink bow (\"her\"), on a flat colour background (lilac, pink, teal) under a bold white headline. Covers: \"5 slightly uncomfortable questions to ask your boyfriend / no lying allowed\" (31.7K views), \"this or that: cute but spicy edition / (it's safe, we promise)\" (4,195) and \"couples, pick who's guilty / comment like 1A 2B\" (2,669). The poster says an AI model wrote the posts from his reference sheet and Claude scheduled and posted them through the Post Bridge MCP.",
  "match": "exact",
  "beats": [],
- "more": []
+ "more": [
+  {
+   "id": "2105351703578997169",
+   "author": "lovelee_app",
+   "url": "https://x.com/lovelee_app/status/2105351703578997169",
+   "thumb": "example/more/2105351703578997169.jpg",
+   "kind": "0:18 video",
+   "cap": "hypothetical questions to ask your boyfriend (he has to answer #3)",
+   "views": 1078
+  },
+  {
+   "id": "1958207490522284241",
+   "author": "tartecosmetics",
+   "url": "https://x.com/tartecosmetics/status/1958207490522284241",
+   "thumb": "example/more/1958207490522284241.jpg",
+   "kind": "0:05 video",
+   "cap": "Send this to your boyfriend to get them on that maracuja juicy lip plump \ud83e\udd2b",
+   "views": 2231
+  },
+  {
+   "id": "2027044780761596142",
+   "author": "FlexFusion_",
+   "url": "https://x.com/FlexFusion_/status/2027044780761596142",
+   "thumb": "example/more/2027044780761596142.jpg",
+   "kind": "image",
+   "cap": "5 funny questions to ask your boyfriend -Thread-",
+   "views": 11692
+  }
+ ]
 }

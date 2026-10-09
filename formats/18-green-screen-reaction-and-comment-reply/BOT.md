@@ -2,6 +2,63 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 20-45s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@claireonvideo](https://x.com/claireonvideo/status/2098103517680402637) · A creator in front of a green screen of news articles (Hollywood box office, Warner Bros) reacting and explaining, then the green screen switches to the product (the "Dailies" newsletter signup page). It is UGC commentary with the background as the visual.
+- Example: [@evodawson](https://x.com/evodawson/status/2103985895443398988) · Your UGC isn't converting because your creators have no credibility. Borrow the founder's. Have them green screen and react to a video from the founde
+- Example: [@generatedbyann](https://x.com/generatedbyann/status/2061823394270843156) · I started noticing an uptick of this video format across ads and socials. The green screen explainer style mixed with rotating visuals/photos in the b
+- Example: [@jsocialstoryugc](https://x.com/jsocialstoryugc/status/2053877587928092845) · UGC example using green screen format! This style continues to perform SO well for brands: ⚫️ Great pacing ⚫️ Gives audience a good visual reference T
+- Example: [@naturallyshan](https://x.com/naturallyshan/status/2064745463513768389) · Don’t be afraid to use green screen in your concepts for beauty brands!📈👇 The green screen format is high converting because it gets people interested
+- Example: [@jennamediaco](https://x.com/jennamediaco/status/2074943138205176288) · Want to make UGC videos that actually convert? 💸 Here is the exact strategy behind one of my winning videos: 📱 The "Scroll" Hook: Use a TikTok feed gr
+- Example: [@ugcwithvan](https://x.com/ugcwithvan/status/1999270533557285146) · Split screen videos WORK >> This brand had a winning video that consisted of a similar structure with green screen visuals but wanted to test differen
+- Example: [@TheJeremyHaynes](https://x.com/TheJeremyHaynes/status/2092620077946614206) · Ranking every ad creative format worst->best (video).
+- Example: [@sincerelydawnUG](https://x.com/sincerelydawnUG/status/2078944255465439652) · Here’s a recent ad where the brand requested green screen ads while the product ships! Portfolio: https://t.co/8dOkKM0Yrz Email: sincerelydawn.ugc@gma
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-2s | Creator in the lower half, green-screen background: a screenshot of a viral comment or the brand's own top post | Reads the comment: "someone asked if it really survives the ocean..." |
+| 2-20s | Background switches to proof (a video of the product in water) | Creator explains, points at the background |
+| 20-35s | Background: product page | Offer |
+| Comment-reply variant | TikTok/IG "reply to comment" sticker on the first frame | Answers the real comment |
+
+### Prompts
+
+**CapCut**
+
+```
+Effects > Green screen (or TikTok "Green Screen" effect), creator cut-out at 55% height bottom-left, background image scaled to fill, add a subtle drop shadow under the creator.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F18-<concept>-<variant>`; tracking tag `utm_content=F18-<concept>-<variant>`.
+- [ ] Avoid: Only react to content you own or have permission to use.
+- [ ] Avoid: Real comments only; do not invent a comment to reply to.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -1,5 +1,49 @@
 # Meta ad-library examples for F10 (GetHookd board 155932, gut health)
 
+<!-- WAVE6 -->
+## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
+
+Pulled from the public Meta Ad Library on 2026-10-09 (Resilia: aged garlic, Ceylon cinnamon, oil of oregano; Smooche: color-changing foundation, Reverse Time peptide serum). Days live are counted to 2026-10-09; most video ads were new tests that week, while the long runners are statics and catalog templates. Transcripts are automatic. Brand claims are the advertisers', not verified, and many are health claims we would never make. The **Do not copy** line flags deceptive tactics (persona "publication" pages, undisclosed AI actors and "experts", fake stock counts).
+
+### Resilia · Gut Health Insider: “MY SISTER SLEPT WITH MY HUSBAND. Eight months later, she's the one everyone” (0 days live)
+
+![Resilia 2875086916184626](w6_2875086916184626.jpg)
+
+- **Ad:** [Meta Ad Library #2875086916184626](https://www.facebook.com/ads/library/?id=2875086916184626) · static image · page “Gut Health Insider” · started 2026-10-08 · 1 copies · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** "MY SISTER SLEPT WITH MY HUSBAND. Eight months later, she's the one everyone calls beautiful… Because she drains parasites."
+- **Why it works:** "MY SISTER SLEPT WITH MY HUSBAND. Eight months later she's the one everyone calls beautiful…" A tabloid story headline turns into the product block. It is the static twin of the video dramas.
+- **How to make one:** Use a black bold story headline, two lines of plot, the product, and a one-line benefit with a shop button.
+- **Do not copy:** Fictional first-person stories presented as true.
+- **LC remake:** "MY EX KEPT THE RING. I bought myself seven." Then the LC any-7 block.
+
+<details><summary>Primary text</summary>
+
+> Introducing Resilia Oil of Oregano — premium dual-action softgels that support your body's natural drainage and everyday vitality. 💧 Supports natural cleansing and healthy circulation 💧 Helps reduce puffiness and water retention 💧 Supports healthy fluid balance and lighter-feeling days 💧 Promotes clearer-looking skin and steady energy ✅ Dual-action blend of Oil of Oregano + Black Seed Oil ✅ 3rd-party tested in the USA, Non-GMO, no aftertaste ✨ No messy liquids — just two easy softgels each morning 🌿 Inspired by tradition, made for modern life ❤️‍🩹 Two softgels a day to help you feel light and vibrant again. Tap Shop Now to reclaim your flow with Resilia Oil of Oregano! 🌿 Don’t Just Mask It: Help your body fix the source. Support your natural drainage with the power of Resilia.
+
+</details>
+
+### Resilia · Gut Health Insider: A grey variant of the same story-headline static (0 days live)
+
+![Resilia 2147432309316217](w6_2147432309316217.jpg)
+
+- **Ad:** [Meta Ad Library #2147432309316217](https://www.facebook.com/ads/library/?id=2147432309316217) · static image · page “Gut Health Insider” · started 2026-10-08 · 1 copies · lands on `resilia.shop/products/resilia-oil-of-oregano-softgels`
+- **What happens:** A grey variant of the same story-headline static.
+- **Why it works:** "MY SISTER SLEPT WITH MY HUSBAND. Eight months later she's the one everyone calls beautiful…" A tabloid story headline turns into the product block. It is the static twin of the video dramas.
+- **How to make one:** Use a black bold story headline, two lines of plot, the product, and a one-line benefit with a shop button.
+- **Do not copy:** Fictional first-person stories presented as true.
+- **LC remake:** "MY EX KEPT THE RING. I bought myself seven." Then the LC any-7 block.
+
+<details><summary>Primary text</summary>
+
+> Introducing Resilia Oil of Oregano — premium dual-action softgels that support your body's natural drainage and everyday vitality. 💧 Supports natural cleansing and healthy circulation 💧 Helps reduce puffiness and water retention 💧 Supports healthy fluid balance and lighter-feeling days 💧 Promotes clearer-looking skin and steady energy ✅ Dual-action blend of Oil of Oregano + Black Seed Oil ✅ 3rd-party tested in the USA, Non-GMO, no aftertaste ✨ No messy liquids — just two easy softgels each morning 🌿 Inspired by tradition, made for modern life ❤️‍🩹 Two softgels a day to help you feel light and vibrant again. Tap Shop Now to reclaim your flow with Resilia Oil of Oregano! 🌿 Don’t Just Mask It: Help your body fix the source. Support your natural drainage with the power of Resilia.
+
+</details>
+<!-- /WAVE6 -->
+
+
+
+
+
 From [@FedotOff90](https://x.com/FedotOff90/status/2108212319113412929)'s public board preview. Days live are as of 2026-10-09. Full board breakdown is in the internal sources folder.
 
 ## Pinch Magic Fiber: Product callout-label static ('This cleared my stuck poop') (258 days live)

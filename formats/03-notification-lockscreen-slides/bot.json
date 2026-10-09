@@ -1,0 +1,97 @@
+{
+ "id": "F03",
+ "slug": "03-notification-lockscreen-slides",
+ "name": "Notification / lock-screen 2-slide slideshow",
+ "type": "organic",
+ "platforms": "[TikTok photo mode, IG carousel/Stories]",
+ "cost_per_asset": "$0-1",
+ "time_per_asset": "",
+ "length": "2 slides, 1080x1920",
+ "shots": [
+  {
+   "slot": "Slide 1",
+   "visual": "Aesthetic lifestyle photo (beach towel, bathroom shelf, a hand in water) with an iPhone lock screen overlaid: time 9:41, date, 2-4 notification bubbles",
+   "audio_text": "Notifications in a brutal/witty brand voice: \"[Brand]: you took it off again?\" / \"Reminder: it's waterproof. stop.\""
+  },
+  {
+   "slot": "Slide 2",
+   "visual": "Product worn in the same scene, or a clean stat card",
+   "audio_text": "Payoff line: \"14K PVD. Shower, sea, sleep. Never take it off.\" Optional price."
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Figma",
+   "prompt": "Use an iOS 17 lock-screen kit: SF Pro Display 96pt time, notification card 32px radius, 70% white blur, app icon 38px. Place over the photo, centred upper third."
+  },
+  {
+   "tool": "Nano Banana / Midjourney (background)",
+   "prompt": "flat lay of a wet beach towel, sunglasses and a gold necklace on warm sand, top-down, late afternoon light, vertical 9:16, photoreal"
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/brainextends/status/2099496707209994736",
+   "author": "brainextends",
+   "note": "A short slideshow built from big stat cards and phone UI: \"#00\", \"4.8\", \"<$5K\" tiles over lifestyle photos, then an iPhone lock screen at 9:41 with notification bubbles (\"Follow your routine\"). Two slides, phone-native look, no talking.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/simonecanciello/status/2035079759588163995",
+   "author": "simonecanciello",
+   "note": "brooo WHAT is this strategy? 3 pics slideshow, fake notification (curiosity = comments) and show your app. 1M views. $160k/month app.",
+   "local": "example/more/2035079759588163995.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/enzoxmotion/status/2099622190970712321",
+   "author": "enzoxmotion",
+   "note": "this app went from $1k to FUCKING $10k mrr in a WEEK. all it took was one slideshow, two slides total, that ended up crossing a million views nothing ",
+   "local": "example/more/2099622190970712321.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/marcospb_/status/2010412391037878286",
+   "author": "marcospb_",
+   "note": "1M likes New TikTok slideshow banger found “Four years of a relationship and out of nowhere she sent me this.” Next slide: the breakup text. Right und",
+   "local": "example/more/2010412391037878286.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Japanese Taste: iPhone Notes checklist static (Japanese Taste)",
+   "days": 238,
+   "image": "adlibrary/w4_88997142.jpg",
+   "what": "An iPhone Notes screen: \"Weekly Japanese Taste Checklist: Snacks for Friday night ✓, Matcha for Monday mornings ✓, J-Beauty for your nightly reset ✓\" with product photos.",
+   "how": "An iPhone Notes template, 3 checklist lines in lifestyle moments, product pics."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F03-<concept>-<variant>`; tracking tag `utm_content=F03-<concept>-<variant>`.",
+  "Avoid: More than 4 notifications becomes unreadable at scroll speed.",
+  "Avoid: Do not fake notifications from real apps or people (no fake bank alerts or texts from named people); use the brand as the sender.",
+  "Avoid: Slide 1 must make sense on its own; most viewers never swipe."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

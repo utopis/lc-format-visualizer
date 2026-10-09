@@ -1,0 +1,142 @@
+{
+ "id": "F81",
+ "slug": "81-fiction-serial-native",
+ "name": "Fiction serial native (an episodic short story told across a run of ads)",
+ "type": "paid",
+ "platforms": "[Meta feed]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "1 h per episode",
+ "length": "6-episode serial: 6 image ads with 300-600 words each, sequenced 2-3 days apart",
+ "shots": [
+  {
+   "slot": "Episode 1 image",
+   "visual": "Illustration or moody phone photo: a woman at an airport gate touching her necklace. Same style every episode",
+   "audio_text": "Header text on image: \"The Necklace · Episode 1\""
+  },
+  {
+   "slot": "Ep 1 copy",
+   "visual": "Labelled \"(A short story. Fiction.)\" on line 1",
+   "audio_text": "Sets up the character and her problem: her late grandmother's chain turned green the night before her sister's wedding. Ends on a cliffhanger."
+  },
+  {
+   "slot": "Ep 2-3",
+   "visual": "Same character, new setting each time (sister's house, the beach)",
+   "audio_text": "The new necklace is just part of her routine: she showers, swims, forgets it's on. Never a pitch."
+  },
+  {
+   "slot": "Ep 4-5",
+   "visual": "Tension: someone notices, asks where it's from",
+   "audio_text": "Dialogue between characters carries the product facts naturally"
+  },
+  {
+   "slot": "Ep 6 (finale)",
+   "visual": "Wedding photo moment",
+   "audio_text": "Resolution + a soft line at the end: \"The stack in this story is Louise Carter's. Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude (serial)",
+   "prompt": "Write a 6-episode fiction serial, 350-450 words per episode, about [character]. Episode 1 opens with a concrete problem; each ends on a cliffhanger; the product appears as a quiet constant (never pitched) until a 1-line note at the end of episode 6. Label each as fiction."
+  },
+  {
+   "tool": "Midjourney / illustration",
+   "prompt": "editorial illustration, woman in her 30s at an airport gate touching a thin gold necklace, warm muted palette, gouache texture, consistent character --ar 4:5 --cref [ep1 image] --sref [ep1 image]"
+  },
+  {
+   "tool": "Meta sequencing",
+   "prompt": "Ep1 to a broad audience; Ep2 to people who engaged with Ep1 (post engagement 7d); and so on. Cap frequency at 2 per episode."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/adriamatz/status/2108190619449372721",
+   "author": "adriamatz",
+   "note": "An Arcads demo of a short-drama ad: office scenes with actors, split with a script panel, styled like DramaBox micro-dramas but built around a product.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/FedotOff90/status/2101445743412138341",
+   "author": "FedotOff90",
+   "note": "Pocket FM storytelling drama ads — 199 longest-running; serial episode logic.",
+   "local": "example/more/2101445743412138341.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Smooche · Cosmetic Times: “At 58, I went to my school reunion and barely recognized myself in the…”",
+   "days": 21,
+   "image": "adlibrary/w6_2004434913598003.jpg",
+   "what": "Opens: “At 58, I went to my school reunion and barely recognized myself in the mirror that night. I'd been the pretty one back in school, homecoming queen and everyone spotlight.” The same script appears in 2 ads across 1 pages (Cosmetic Times).",
+   "how": "Write one 5-act story and cut it into 3-5 ads that each end on a different beat. Keep the same faces, names and locations. Run the episodes as one ad set.",
+   "dnc": "The characters are presented as real people. Label it as a series or fiction."
+  },
+  {
+   "title": "Smooche · Cosmetic Times: “When your eyelids start hooding, right here, foundation transfers onto…”",
+   "days": 9,
+   "image": "adlibrary/w6_2977679275941475.jpg",
+   "what": "Opens: “When your eyelids start hooding, right here, foundation transfers onto the crease all day. And when Jaws drop at your Jaws line, foundationsations for mature skin, they just took the regular formula,…” The same script appears in 2 ads across 1 pages (Cosmetic Times).",
+   "how": "Write one 5-act story and cut it into 3-5 ads that each end on a different beat. Keep the same faces, names and locations. Run the episodes as one ad set.",
+   "dnc": "The characters are presented as real people. Label it as a series or fiction."
+  },
+  {
+   "title": "Smooche · Korean Beauty Tips: “My husband started turning off the light while we had sex We've been…”",
+   "days": 7,
+   "image": "adlibrary/w6_1486779516613700.jpg",
+   "what": "Opens: “My husband started turning off the light while we had sex We've been married for 22 years And I still saw him the way I did when I was 30 But somewhere in the last few years he started flinching when…” The same script appears in 2 ads across 1 pages (Korean Beauty Tips).",
+   "how": "Write one 5-act story and cut it into 3-5 ads that each end on a different beat. Keep the same faces, names and locations. Run the episodes as one ad set.",
+   "dnc": "The characters are presented as real people. Label it as a series or fiction."
+  },
+  {
+   "title": "Resilia · Gut Health Insider: “My husband slept with my sister I was four months pregnant I found the…”",
+   "days": 1,
+   "image": "adlibrary/w6_2050050738955489.jpg",
+   "what": "Opens: “My husband slept with my sister I was four months pregnant I found the messages on a Saturday morning while he was at the gym The name on his phone with a heart emoji next to it, my own sister The…” The same script appears in 2 ads across 1 pages (Gut Health Insider).",
+   "how": "Write one 5-act story and cut it into 3-5 ads that each end on a different beat. Keep the same faces, names and locations. Run the episodes as one ad set.",
+   "dnc": "The characters are presented as real people. Label it as a series or fiction."
+  },
+  {
+   "title": "Resilia · Active Longevity Review: “Dad! Look at you. You made it…”",
+   "days": 1,
+   "image": "adlibrary/w6_2502843990211816.jpg",
+   "what": "Opens: “Dad! Look at you.” The same script appears in 2 ads across 1 pages (Active Longevity Review).",
+   "how": "Write one 5-act story and cut it into 3-5 ads that each end on a different beat. Keep the same faces, names and locations. Run the episodes as one ad set.",
+   "dnc": "The characters are presented as real people. Label it as a series or fiction."
+  },
+  {
+   "title": "Resilia · Blood Sugar Wellness: “Come on, Dad. Climb with me. Like before…”",
+   "image": "adlibrary/w6_1681288066673794.jpg",
+   "what": "Opens: “Come on, Dad. Climb with me.”",
+   "how": "Write one 5-act story and cut it into 3-5 ads that each end on a different beat. Keep the same faces, names and locations. Run the episodes as one ad set.",
+   "dnc": "The characters are presented as real people. Label it as a series or fiction."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F81-<concept>-<variant>`; tracking tag `utm_content=F81-<concept>-<variant>`.",
+  "Avoid: Label fiction clearly in every ad; never present it as a true story.",
+  "Avoid: Sequencing needs engagement audiences; without them, people see episode 4 first and the story makes no sense.",
+  "Avoid: Keep the character consistent (same face and style) or the serial breaks."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

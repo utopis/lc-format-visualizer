@@ -18,12 +18,12 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:06 | rye in vi ey ad and this is the best thing | Fifteen years as a dermatologist, and this is the best thing I've found for aging skin. |
+| 1 | 0:00–0:06 | and this is the best thing | Fifteen years as a dermatologist, and this is the best thing I've found for aging skin. |
 | 2 | 0:06–0:12 | · | Most women deal with crepiness, skin thinning, bruising, dryness, and age spots, despite moisturizing daily. |
 | 3 | 0:12–0:18 | · | That's because the lotions they're using are 70% water that evaporates by noon. |
 | 4 | 0:18–0:24 | · | Aging skin needs something that absorbs beneath the surface. That's where botanical oils come in. |
-| 5 | 0:24–0:30 | · | Pure, cold pressed, 100% natural. That's why I recommend Besk to every woman above, above 40. |
-| 6 | 0:30–0:36 | oF AG! 86 a Known tG 34 | Made from 7 botanicals known to support aging skin. Anti-inflammatory and antioxidant properties |
+| 5 | 0:24–0:30 | Pure cold-pressed 100% natural | Pure, cold pressed, 100% natural. That's why I recommend Besk to every woman above, above 40. |
+| 6 | 0:30–0:36 | · | Made from 7 botanicals known to support aging skin. Anti-inflammatory and antioxidant properties |
 | 7 | 0:36–0:42 | · | with ingredients that absorb deeper and visibly improve the look and feel of skin over time. |
 | 8 | 0:42–0:48 | · | 550,000 plus women already love this. So, what are you waiting for? |
 

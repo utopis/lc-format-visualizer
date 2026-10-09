@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:03 | ue aw I ly a know. our lip is vegan ee | As you know, a lead bone is vegan, but that what does that really mean? |
-| 2 | 0:03–0:06 | VA oY fi, a fs there is no derived animal product ft a SS aS Ps aa a | · |
-| 3 | 0:06–0:10 | mi ty Se Ki ee ty ae percent pla based a2 aa. aa a a. a a fe | It means that there is no derived animal products and that it's 100 percent base. |
-| 4 | 0:10–0:13 | a ae a LAS difference between vegan and cruelty free as as sf Ee sa Lm | · |
-| 5 | 0:13–0:17 | 2. ma means that cruelty free is not tested on animals Jai sai a ee. | The difference between vegan cruelty free is not tested on animal, which is |
-| 6 | 0:17–0:20 | 7, I. a mandatory in. Europe as fe ow a a ha ns | · |
-| 7 | 0:20–0:23 | aa we? a VW te a aS cad ay ty my are always cruelty ISO al pot if cS a, Fr a ae Ae a5 os 5! a. al ww wu | men that are in Europe. So all products are always cruelty free. |
-| 8 | 0:23–0:27 | a fi a, af a al howe. Nero lip is also. vegan a | However, a lead bone is also vegan. |
+| 1 | 0:00–0:03 | know. our lip | As you know, a lead bone is vegan, but that what does that really mean? |
+| 2 | 0:03–0:06 | there is no derived animal product | · |
+| 3 | 0:06–0:10 | percent pla based … a a. a a | It means that there is no derived animal products and that it's 100 percent base. |
+| 4 | 0:10–0:13 | a LAS difference between vegan and cruelty free | · |
+| 5 | 0:13–0:17 | means that cruelty free is not tested on animals Jai sai a | The difference between vegan cruelty free is not tested on animal, which is |
+| 6 | 0:17–0:20 | 7, I. a … mandatory in. Europe as | · |
+| 7 | 0:20–0:23 | a aS cad … are always cruelty ISO | men that are in Europe. So all products are always cruelty free. |
+| 8 | 0:23–0:27 | howe. Nero lip … is also. vegan | However, a lead bone is also vegan. |
 
 <details><summary>Full transcript (timestamped)</summary>
 

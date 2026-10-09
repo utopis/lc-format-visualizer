@@ -2,6 +2,82 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: System: 2-4 narrator Pages, each running 3-6 native story ads (image + 150-400 word post) to a matching advertorial), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@Seanfrank](https://x.com/Seanfrank/status/2094988024211812654) · A creator talking to camera ("This is Meta's answer to TikTok Shop") with cutaways to persona-style pages: a woman holding a drink can, product screenshots, a "where you can deliver" card and a landing page. It explains how persona pages run ads natively.
+- Example: [@vincenzo_micale](https://x.com/vincenzo_micale/status/2105349586717950002) · Menopause bracelet brand: 1,592 active Meta ads, 107 days, 59% US — saturation-level creative volume in wearable/jewelry.
+- Example: [@benradack](https://x.com/benradack/status/2078473442714616149) · I consolidated our whitelisting ads into one ad set with our brand videos. My CBO performs better with fewer ad sets running. So instead of keeping wh
+- Example: [@DTC_Quizbuilder](https://x.com/DTC_Quizbuilder/status/2107516274142285842) · Noverly's copy is built around one idea: ED isn't age or testosterone, it's a clogged pipe They sell it through a doctor-bylined listicle The buyer th
+
+### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Dr Ruth White: Persona-page "this woman found relief" static (Dr Ruth White)** (416 days live): An older woman with a red-glowing knee inset; black bar: "VIRAL: THIS WOMAN FOUND RELIEF FROM DAILY IBUPROFEN WITH JUST ONE TURMERIC SUPPLEMENT · CLICK TO LEARN". Run from the persona page "Dr Ruth White". DCO with 22 media.
+- **Smooche · Cosmetic Times: “I thought foundation was over for me at 52”** (17 days live): "I thought foundation was over for me at 52": a Smooche first-person ad run from the "Cosmetic Times" page, styled as a beauty publication.
+- **Smooche · Aging Queens Magazine: “I thought foundation was over for me at 52”** (6 days live): "I thought foundation was over for me at 52": the same copy run again from a second persona page, "Aging Queens Magazine".
+
+**Do not copy (seen in these live ads):** Pages posing as independent publications and reviewers are deceptive. Do not copy.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Page setup (day 0) | A Facebook/IG Page with a narrator name ("Dana on Jewelry"), a real face (founder, staff or a consenting creator), a cover photo of her jewellery box, and a bio that says "Content by Louise Carter" | Bio: "Ex-stylist. I test jewellery in the sea so you don't have to. Partnered with Louise Carter." |
+| Organic seed (week 1) | 6-10 ordinary posts so the Page looks lived in: outfit photos, a "what I packed" carousel, a reply to a follower | Plain first-person captions, no links |
+| Ad 1: story post | Phone photo of her hand on a beach towel wearing the stack, slight grain, no logo | Opening line: "I've ruined 4 necklaces in the sea. This one's on month 9." 200-word story, link at the end |
+| Ad 2: listicle post | Flat-lay of 5 pieces on a white bedsheet | "5 pieces I never take off (and the one I stopped wearing)" |
+| Ad 3: reply post | Screenshot of a real comment she got, then her answer | "Someone asked if gold-plated really survives showers. Honest answer:" |
+| Landing | Advertorial written in the same narrator voice, with a "This post is sponsored by Louise Carter" line at the top | Ends in the any-7 offer with a single CTA |
+
+### Prompts
+
+**Claude (narrator bible)**
+
+```
+Create a narrator for [brand]: name, age, job, why she wears the product, 3 phrases she always uses, 3 things she would never say. Then write 6 organic posts and 3 native story ads (150-300 words each) in her voice. Every claim must come from this product page: [paste]. Disclose the brand partnership in each ad.
+```
+
+**Meta setup**
+
+```
+Add the Page to Business Manager; run ads from the narrator Page with the brand as paid-partnership label where possible; same pixel and UTM pattern utm_campaign=F80-<narrator>.
+```
+
+**Image (real, not AI)**
+
+```
+Shoot on iPhone, natural light, slightly imperfect framing; no studio lighting, no logo overlays.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F80-<concept>-<variant>`; tracking tag `utm_content=F80-<concept>-<variant>`.
+- [ ] Avoid: Never invent a credentialed persona (doctor, dermatologist) or a fake real-person identity; Meta treats undisclosed persona pages as inauthentic behaviour.
+- [ ] Avoid: The narrator must be a real person who agreed to it, or clearly a brand character.
+- [ ] Avoid: One narrator per angle; do not run the same story from three narrators.
+- [ ] Avoid: If the Page gets comments asking "is this an ad?", answer honestly and pin the answer.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

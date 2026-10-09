@@ -18,14 +18,14 @@ The storyboard above samples the video every 0:12. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:12 | wh at lo wee bring. oo aa hy fl | Dramastome every morning here's what two weeks could bring within 48 hours the fog lives at |
+| 1 | 0:00–0:12 | · | Dramastome every morning here's what two weeks could bring within 48 hours the fog lives at |
 | 2 | 0:12–0:24 | a Not every morning it's there. a | Wired tired feeling quits down shoulders drop your mind clear something moving underneath After three days morning would not every morning yet, but it's there The fire isn't just back It's not a thing that's been in years |
 | 3 | 0:24–0:36 | · | After five days chest firms up you catch yourself in the middle you're gonna look away After one week she'd give you that look again you're initiating your reason for her |
 | 4 | 0:36–0:48 | · | · |
 | 5 | 0:48–1:01 | · | · |
 | 6 | 1:01–1:13 | · | You be capsules every morning that you gotta do what it would and 10,000 other men |
 | 7 | 1:13–1:25 | · | · |
-| 8 | 1:25–1:37 | Before we 20 ae worm | · |
+| 8 | 1:25–1:37 | Before we 20 | · |
 
 <details><summary>Full transcript (timestamped)</summary>
 
@@ -69,7 +69,7 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 | 5 | 0:55 | (visual beat, see frame 5) | … |
 | 6 | 1:07 | You be capsules every morning that you gotta do what it would and 10,000 other men | … |
 | 7 | 1:19 | (visual beat, see frame 7) | … |
-| 8 | 1:31 | on screen: Before we 20 ae worm | … |
+| 8 | 1:31 | on screen: Before we 20 | … |
 
 ### 2. Shot-by-shot remake
 

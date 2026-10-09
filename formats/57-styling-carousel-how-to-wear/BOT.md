@@ -2,6 +2,69 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 5-8 slide carousel, 1080x1350), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@ChristyGodswil](https://x.com/ChristyGodswil/status/2080225401406672901) · A styling video: the same woman on a turntable stand in a wood-panelled room, changing outfit every couple of seconds (white set, wide trousers, sun hat, blue dress, black, maroon). It shows many ways to wear and style one wardrobe.
+- Example: [@JREMERALD](https://x.com/JREMERALD/status/1923138423730082122) · How to Stack Green Emerald & Diamond Jewelry Like a Pro 💚 Rings, Bracelets, Earrings & Necklaces #diamondnecklace #emeraldnecklace #diamondring #emera
+- Example: [@AprilNJennywang](https://x.com/AprilNJennywang/status/1639052220145750016) · How to stack rings like a pro!#jewelry #fashion #jewellery #handmade #earrings #accessories #necklace #gold #handmadejewelry #love #style #jewelrydesi
+- Example: [@RoyElevate](https://x.com/RoyElevate/status/1662465795333701632) · How to Layer Delicate Necklaces; Check more at http://royelevate.com #reels #trending #jewelry #necklace #foryou #royelevate
+- Example: [@Atelier12Bis](https://x.com/Atelier12Bis/status/1629002990211444737) · New wrap necklaces ! So many ways to wear them !!! #necklace #beads #handmade #wrapnecklace #beadedjewelry #collana #handmadeaccessory #ネクレス #ビーズ #col
+- Example: [@happy_place247](https://x.com/happy_place247/status/2087866038750736389) · As a fashion vendor, you could simply put your outfits on a mannequin, or you could show potential customers what those same pieces actually look like
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Slide 1 | Neck close-up with a 3-layer stack | "How to stack necklaces without them tangling" |
+| Slide 2 | Base layer: short chain | "1. Start short: 40cm" |
+| Slide 3 | Second layer: pendant | "2. Add a pendant at 45cm" |
+| Slide 4 | Third layer: long chain | "3. Finish long: 50cm+" |
+| Slide 5 | Mixed textures | "4. Mix textures: paperclip + snake" |
+| Slide 6 | Full stack, product names | "Shop the stack: any 7 for $85" |
+
+### Prompts
+
+**Shoot**
+
+```
+Same model, same light, neckline visible, plain top; shoot each layer added.
+```
+
+**Claude**
+
+```
+Write 10 styling carousels (necklace stacks, ring stacks, ear stacks) with exact lengths and piece names from [catalogue].
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F57-<concept>-<variant>`; tracking tag `utm_content=F57-<concept>-<variant>`.
+- [ ] Avoid: Lengths must be accurate to the products.
+- [ ] Avoid: Name the pieces so people can buy them.
+- [ ] Avoid: One idea per slide.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

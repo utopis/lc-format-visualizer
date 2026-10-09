@@ -1,0 +1,126 @@
+{
+ "id": "F59",
+ "slug": "59-problem-solution-pas-ad",
+ "name": "Problem → agitation → solution → proof (4-part PAS ad, video or static)",
+ "type": "paid",
+ "platforms": "[Meta, TikTok, YouTube]",
+ "cost_per_asset": "$0-150",
+ "time_per_asset": "1 h",
+ "length": "20-40s video or a 4-panel static",
+ "shots": [
+  {
+   "slot": "Problem (0-5s)",
+   "visual": "Green mark on a finger",
+   "audio_text": "\"Your gold ring turned your finger green.\""
+  },
+  {
+   "slot": "Agitation (5-12s)",
+   "visual": "Money down the drain: a drawer of tarnished pieces",
+   "audio_text": "\"Again. That's the fourth one this year.\""
+  },
+  {
+   "slot": "Solution (12-22s)",
+   "visual": "PVD ring under a tap",
+   "audio_text": "\"14K PVD over stainless steel doesn't wear off.\""
+  },
+  {
+   "slot": "Proof (22-32s)",
+   "visual": "Review screenshots, 9-month-old piece",
+   "audio_text": "\"4.8 stars from 4,812 reviews.\""
+  },
+  {
+   "slot": "End",
+   "visual": "Offer",
+   "audio_text": "\"Any 7 for $85.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude",
+   "prompt": "Write 5 PAS scripts for [product]: one line each for problem, agitation, solution, proof, CTA. Proof must be real."
+  },
+  {
+   "tool": "Static version",
+   "prompt": "4 panels in a 2x2 grid, one word header each: PROBLEM / WHY / FIX / PROOF."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/ayomikunszn/status/2078116608069800131",
+   "author": "ayomikunszn",
+   "note": "A 4-image static concept for a weekender bag: the product on its own with feature icons, a man carrying it (\"GO FURTHER\"), the bag open (\"ROOM FOR EVERYTHING\") and a 5-star review card.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/Jordan_Created/status/2017403665741742102",
+   "author": "Jordan_Created",
+   "note": "Here is a UGC Example breaking down the PAS framework. To take this 1 step further: - Hook - Problem - Agitate - Solution - CTA Adding in \"Agitate\" he",
+   "local": "example/more/2017403665741742102.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/alice_ercolani/status/2048553690215444873",
+   "author": "alice_ercolani",
+   "note": "Sleepway's ads use a classic marketing formula: Problem → Agitate → Solution. This ad starts with a doctor and a stark warning: \"DON'T SLEEP THIS WAY!",
+   "local": "example/more/2048553690215444873.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/rayyanmru/status/1930403658061000934",
+   "author": "rayyanmru",
+   "note": "🚨 Ad Breakdown: Pet Lab Co’s UGC that prints money This ad preys on a hidden fear every dog owner has and it works like crazy. Bad breath? Tartar? Tha",
+   "local": "example/more/1930403658061000934.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/TobyWalleruk/status/1734535147591012689",
+   "author": "TobyWalleruk",
+   "note": "Why this ad works ✅ Has an intriguing HOOK ✅ Handles objections & answers FAQ’s ✅ Transitions throughout every 2 seconds ✅ Uses the Problem-Agitate-So",
+   "local": "example/more/1734535147591012689.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Deborah Hayes: \"Spa treatments for belly fat don't work\" two-layer explainer",
+   "days": 286,
+   "image": "adlibrary/w4_84007809.jpg",
+   "what": "\"Spa treatments for belly fat don't work. And there's a scientific reason why… I did six spa sessions… $1,200… Your belly fat has two types of fat… these only work on surface fat.\" UGC plus a medical-paper insert plus CGI. 126 s.",
+   "how": "List what they tried with money spent, then a 2-layer mechanism, then the product reaches layer 2."
+  },
+  {
+   "title": "BioRoot Labs: \"Relief like ibuprofen without the stomach pain\" ingredient static",
+   "days": 179,
+   "image": "adlibrary/w4_91707753.jpg",
+   "what": "A static: \"Relief Like Ibuprofen, Without the stomach pain\", 3 bottles, a \"45,000+ trusted\" badge, and an ingredient grid (turmeric anti-inflammatory, black pepper absorption, bee propolis immune, ginger digestive, coconut oil lipid carrier, vitamin C antioxidant).",
+   "how": "Headline \"[benefit] like [familiar drug], without [its side effect]\", product, ingredient grid with one benefit each."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F59-<concept>-<variant>`; tracking tag `utm_content=F59-<concept>-<variant>`.",
+  "Avoid: Don't over-agitate; it reads as fear-mongering.",
+  "Avoid: Proof must be specific and real.",
+  "Avoid: Keep each beat to one line."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

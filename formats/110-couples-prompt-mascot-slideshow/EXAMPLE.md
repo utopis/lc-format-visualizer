@@ -18,7 +18,15 @@ A 3-up screenshot of one couples app's TikTok grid. Every cover shows the same c
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | slightly this or that: cute Ne couples, pick your who's guilty its safe, we promise 78 2B: ying allowed ie hs oS Co Ww es 31.7K 4195 2,669 |
+| 1 | slightly this or that: cute … couples, pick your who's guilty its safe, we promise … 31.7K 4195 2,669 |
+
+## More real examples (3)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@lovelee_app](example/more/2105351703578997169.jpg)](https://x.com/lovelee_app/status/2105351703578997169)<br>**@lovelee_app** · 0:18 video · 1K views<br>hypothetical questions to ask your boyfriend (he has to answer #3) | [![@tartecosmetics](example/more/1958207490522284241.jpg)](https://x.com/tartecosmetics/status/1958207490522284241)<br>**@tartecosmetics** · 0:05 video · 2K views<br>Send this to your boyfriend to get them on that maracuja juicy lip plump 🤫 | [![@FlexFusion_](example/more/2027044780761596142.jpg)](https://x.com/FlexFusion_/status/2027044780761596142)<br>**@FlexFusion_** · image · 12K views<br>5 funny questions to ask your boyfriend -Thread- |
 
 ## How to make one like it
 

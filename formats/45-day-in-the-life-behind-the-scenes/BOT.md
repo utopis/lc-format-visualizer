@@ -2,6 +2,63 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 30-60s, 1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@ugcAshleyRJ](https://x.com/ugcAshleyRJ/status/2067636022251290725) · A day-in-the-life POV filmed with an ultra-wide 0.5x lens: walking into an office ("Be Empowered" on the wall), working at a round table, a printed magazine spread, with captions explaining the 0.5x POV angle.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| 0-3s | Founder at 6am packing orders, phone propped on shelf | "A day running a jewellery brand from my spare room." |
+| 3-15s | Quick cuts: coffee, emails, quality-checking chains under a lamp | VO with time stamps on screen |
+| 15-30s | Testing a necklace in the sink, then a swim at lunch | "Every new piece goes in the sea before it goes on the site." |
+| 30-45s | Evening: packing the last box, handwritten note | "Order 412 today." |
+| End | Product | Soft CTA |
+
+### Prompts
+
+**Shoot**
+
+```
+Phone on a mini tripod, 15-20 clips of 2-4s, natural light; time stamps as captions.
+```
+
+**Script (Claude)**
+
+```
+Turn this list of real tasks [paste] into a 45-second day-in-the-life with one surprising detail.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F45-<concept>-<variant>`; tracking tag `utm_content=F45-<concept>-<variant>`.
+- [ ] Avoid: Show the real day, not a staged one.
+- [ ] Avoid: One product moment, not five.
+- [ ] Avoid: Don't show customer names or addresses on labels.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -19,13 +19,13 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
 | 1 | 0:00–0:04 | · | Is the item still available? Yep, it is. |
-| 2 | 0:04–0:08 | a hy af I Ve the! | Is it still available? It's still here. |
-| 3 | 0:08–0:12 | fe. a Ve ae hy,’ Ottawa? No that's too fare and' you're gone | Great, can you deliver it to Ottawa? |
+| 2 | 0:04–0:08 | · | Is it still available? It's still here. |
+| 3 | 0:08–0:12 | Ottawa? No that's too fare and' you're gone | Great, can you deliver it to Ottawa? |
 | 4 | 0:12–0:16 | · | Ottawa? No, that's too far and you're gone. Hey, how much is this? |
 | 5 | 0:16–0:20 | · | Oh, this? Uh, 200, like it says. |
-| 6 | 0:20–0:24 | My. bank only does mobile check deposits, ae | 20? That's a great deal. My bank only does mobile check deposits. |
-| 7 | 0:24–0:28 | a RAN aX on -$20?...no Wi ze | Does that work for you? 20? No. |
-| 8 | 0:28–0:32 | Real locals. Reviewed and verified. 9:41 GD Profile Joy wed NG 48 Reviews Rate Share profile Score 6588 Pro ted Over &2 Vas Sie had great comes and came to pick | Sound familiar? Try cared instead. Trusted by over 32 million people around the world. |
+| 6 | 0:20–0:24 | My. bank only does mobile check deposits, | 20? That's a great deal. My bank only does mobile check deposits. |
+| 7 | 0:24–0:28 | · | Does that work for you? 20? No. |
+| 8 | 0:28–0:32 | Real locals. Reviewed and verified. 9:41 … Profile Joy wed … Score 6588 Pro … ted Over &2 … had great comes and came to pick up | Sound familiar? Try cared instead. Trusted by over 32 million people around the world. |
 
 <details><summary>Full transcript (timestamped)</summary>
 

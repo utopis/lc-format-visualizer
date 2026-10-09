@@ -16,7 +16,7 @@ A 4-image static concept for a weekender bag: the product on its own with featur
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | BUILT FOR WEEKENDS pw GO ca FURTHER Kk kkk The perfect Stylish, spacious and super durable. ROOM FOR EVERYTHING |
+| 1 | BUILT FOR WEEKENDS … kkk The perfect … Stylish, spacious and super durable. ROOM FOR EVERYTHING |
 
 ## More real examples (4)
 

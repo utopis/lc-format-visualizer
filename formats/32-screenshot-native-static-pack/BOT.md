@@ -2,6 +2,67 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 5-10 statics, 1080x1350/1080x1920), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@liv_unltd](https://x.com/liv_unltd/status/1774923299136716885) · A real Gopuff ad shown in the Instagram feed, built to look like an iPhone Notes page: a 'Notes' header, a bold line "40% off alcohol?!?" and a few casual sentences about getting drinks delivered in minutes with a promo code. Under it sits the normal app-install card (logo, stars, Install). It reads like a note someone typed, not like an ad.
+- Example: [@growthquesthq](https://x.com/growthquesthq/status/1922749862262489528) · 1⃣ Notes App Ad This one has cut client CPLs by 75%+
+- Example: [@pearmill_agency](https://x.com/pearmill_agency/status/1674091921508007944) · 2/7 The Notes App Static 📒 - Open the Notes app on an iPhone - Create copy that reads like a note to self - think natural and human - Screenshot and p
+- Example: [@daniel_eckler](https://x.com/daniel_eckler/status/1678803289243041793) · Literal iMessage Ad 👀
+- Example: [@gregmfitz](https://x.com/gregmfitz/status/1621504769079517184) · Whatever agency or consultant is recommending this notes app ad creative style must be stopped
+
+### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+
+- **Amy: Verified-buyer review card over car selfie (Amy, beef liver)** (382 days live): "GREAT ENERGY BOOSTER!" headline; a 5-star "Verified Buyer" review card floats over a man's car selfie holding the bottle; an arrow links the two.
+- **British Supplements: Google-search UI static ('Which UK brand has no fillers?')** (331 days live): A Google search bar with an autocomplete question 'Which UK brand has no fillers?', a cursor clicking it, then a featured-snippet style answer box with ticks and product photos.
+- **Japanese Taste: iPhone Notes checklist static (Japanese Taste)** (238 days live): An iPhone Notes screen: "Weekly Japanese Taste Checklist: Snacks for Friday night ✓, Matcha for Monday mornings ✓, J-Beauty for your nightly reset ✓" with product photos.
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| iPhone Notes | Notes app screenshot | "things I stopped doing at 35: 1. taking my jewelry off to shower..." |
+| iMessage thread | Two friends texting | "where is your necklace from?? you wore it in the pool" |
+| Reddit post | Reddit-style post in a relevant community | A question + top answer mentioning the product |
+| Google results | Search bar "jewelry you can shower in" | Top result is the product |
+| Trustpilot / review card | Review layout | A real review verbatim |
+
+### Prompts
+
+**Build**
+
+```
+Recreate UIs in Figma with community UI kits (iOS 17 Notes/Messages, Reddit). Use generic names, no real usernames. Export at 1080 wide.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F32-<concept>-<variant>`; tracking tag `utm_content=F32-<concept>-<variant>`.
+- [ ] Avoid: Do not fabricate reviews or present a fake conversation as real; reviews must be real and attributed.
+- [ ] Avoid: Do not use other platforms' logos in a way that implies endorsement.
+- [ ] Avoid: No clean public example was found in this research pass; the visual is a mock.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

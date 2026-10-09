@@ -1,0 +1,185 @@
+{
+ "id": "F97",
+ "slug": "97-persona-swap-script-cloning",
+ "name": "Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)",
+ "type": "paid",
+ "platforms": "[Meta (multiple pages), TikTok, YouTube]",
+ "cost_per_asset": "$50-150 per creator take",
+ "time_per_asset": "1 week for 8 takes",
+ "length": "One locked script x 6-10 narrators, 20-40s each",
+ "shots": [
+  {
+   "slot": "Lock the script",
+   "visual": "Take a winning script (e.g. from F14 or F06) and freeze it word for word",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Narrator 1-3",
+   "visual": "Real creators of different ages (20s, 40s, 60s), each in their own setting (car, kitchen, beach)",
+   "audio_text": "Exactly the same words"
+  },
+  {
+   "slot": "Narrator 4-6",
+   "visual": "Different ethnicities and styles; one man buying a gift",
+   "audio_text": "Same words, his own delivery"
+  },
+  {
+   "slot": "Narrator 7-10",
+   "visual": "AI avatars (labelled) to fill gaps fast",
+   "audio_text": "Same words"
+  },
+  {
+   "slot": "Test",
+   "visual": "Launch all versions in one ad set with Dynamic Creative off",
+   "audio_text": "Naming F97-narratorNN"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Arcads / HeyGen",
+   "prompt": "Upload the locked script, pick 4 avatars that differ in age and setting, export 9:16 and 4:5, burn captions in the same style as the real versions."
+  },
+  {
+   "tool": "Creator brief",
+   "prompt": "Say the script exactly; film in your own space; 3 takes; natural light; phone at eye level."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/SparkifyAI/status/2078068798314422644",
+   "author": "SparkifyAI",
+   "note": "An AI-cloned UGC creator in an orange gym set talking excitedly to camera in a home gym. It is the same script performed by an AI persona instead of a real creator.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/mikefutia/status/2080734489529971056",
+   "author": "mikefutia",
+   "note": "I just cracked the code on cloning UGC ads with AI 🤯 One ad that's already converting → 20 different creators delivering the exact same script. New fa",
+   "local": "example/more/2080734489529971056.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/lorenzo_pravata/status/2079246318191403496",
+   "author": "lorenzo_pravata",
+   "note": "Resilia ~8,000 ads, \"$10-15M/month\" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL.",
+   "local": "example/more/2079246318191403496.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/edwardlavinel_/status/2082467046034702738",
+   "author": "edwardlavinel_",
+   "note": "Shit. Analyzed 800+ active ads from creatine gummy. one pattern doing all the work. want the beats? Here is the breakdown: - uses a magazine cutout ae",
+   "local": "example/more/2082467046034702738.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/oliverxmedia/status/2075560773657694682",
+   "author": "oliverxmedia",
+   "note": "I genuinely had to do a double take the first time I watched this. If nobody told me it was AI-generated, I would've assumed it was filmed by a real c",
+   "local": "example/more/2075560773657694682.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/wabilaura/status/2082918789470208150",
+   "author": "wabilaura",
+   "note": "Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i",
+   "local": "example/more/2082918789470208150.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/wabilaura/status/2083215336971858040",
+   "author": "wabilaura",
+   "note": "Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i",
+   "local": "example/more/2083215336971858040.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2107135814585000273",
+   "author": "LachezarVoynov",
+   "note": "Resilia: 26 creative pods x 15 concepts x 3 variations = 1,170 new ads/week.",
+   "local": "example/more/2107135814585000273.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/oliverxmedia/status/2091181160739328190",
+   "author": "oliverxmedia",
+   "note": "Arcads is quietly changing how apps get customers. This account was created to sell a weight loss app. Not build a personal brand. Not become an influ",
+   "local": "example/more/2091181160739328190.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Prime Prometics: Older-man talking head (Prime Prometics persona ad)",
+   "days": 331,
+   "image": "adlibrary/w4_56026955.jpg",
+   "what": "A white-haired man in a black shirt talks and laughs to camera, holding the product tube, with captions (\"…called PrimeLash\", \"but I'm going to try\", \"My wife would\", \"The girls.\"). 153 s. Prime Prometics has 2,702 active ads.",
+   "how": "Cast avatar faces outside the buyer (spouse, son, grandpa), let them talk loosely, and keep the brand pitch light."
+  },
+  {
+   "title": "Smooche · Smooche: “My ex has been locked in A woman he left me for Young enough to be her…”",
+   "days": 21,
+   "image": "adlibrary/w6_1820776122428554.jpg",
+   "what": "Opens: “My ex has been locked in A woman he left me for Young enough to be her daughter On the first date, I've been on in 22 years And the only reason I didn't fall apart On both of them So, the day before,…” The same script appears in 2 ads across 2 pages (Cosmetic Times, Smooche).",
+   "how": "Lock the script and swap the narrator, setting and first frame. Run each version from a different (real, disclosed) creator handle.",
+   "dnc": "The pages pose as independent reviews and publications. Running the same script from fake independent pages is deceptive. Use real creators who disclose the partnership."
+  },
+  {
+   "title": "Smooche · Cosmetic Times: “I'm going to be a high loronic acid, a peptide serum, a night cream…”",
+   "days": 4,
+   "image": "adlibrary/w6_1705908880514674.jpg",
+   "what": "Opens: “I'm going to be a high loronic acid, a peptide serum, a night cream, and none of it moved the needle. I was doing all of that because I had a trip booked.” The same script appears in 2 ads across 2 pages (Cosmetic Times, Vascular Wellness Report).",
+   "how": "Lock the script and swap the narrator, setting and first frame. Run each version from a different (real, disclosed) creator handle.",
+   "dnc": "The pages pose as independent reviews and publications. Running the same script from fake independent pages is deceptive. Use real creators who disclose the partnership."
+  },
+  {
+   "title": "Resilia · Arterial Health Review: “I'm the founder of Resilia and I owe all of you an apology. I told you…”",
+   "days": 1,
+   "image": "adlibrary/w6_28840116722285872.jpg",
+   "what": "Opens: “I'm the founder of Resilia and I owe all of you an apology. I told you the last sale was the best price you'd ever get, and then we overproduced.” The same script appears in 2 ads across 2 pages (Arterial Health Review, Vascular Wellness Report).",
+   "how": "Lock the script and swap the narrator, setting and first frame. Run each version from a different (real, disclosed) creator handle.",
+   "dnc": "The pages pose as independent reviews and publications. Running the same script from fake independent pages is deceptive. Use real creators who disclose the partnership."
+  },
+  {
+   "title": "Resilia · Midlife Wellness Journal: “One night my husband asked me to keep my shirt on 22 years of marriage…”",
+   "image": "adlibrary/w6_1704445254533342.jpg",
+   "what": "Opens: “One night my husband asked me to keep my shirt on 22 years of marriage and that's what we've come, too He has no idea what that night cost him. We met when we were six Mary 22 years and for two…” The same script appears in 3 ads across 2 pages (Midlife Wellness Journal, Resilia).",
+   "how": "Lock the script and swap the narrator, setting and first frame. Run each version from a different (real, disclosed) creator handle.",
+   "dnc": "The pages pose as independent reviews and publications. Running the same script from fake independent pages is deceptive. Use real creators who disclose the partnership."
+  },
+  {
+   "title": "Resilia · Ancient Remedy Co: “This is what happens to your swollen prostate that's been killing your…”",
+   "image": "adlibrary/w6_1438536384876129.jpg",
+   "what": "Opens: “This is what happens to your swollen prostate that's been killing your wood and the nerves that make everything work downstairs. It's finally being reached.” The same script appears in 2 ads across 2 pages (Ancient Remedy Co, Jennifer Williams - Gut Health).",
+   "how": "Lock the script and swap the narrator, setting and first frame. Run each version from a different (real, disclosed) creator handle.",
+   "dnc": "The pages pose as independent reviews and publications. Running the same script from fake independent pages is deceptive. Use real creators who disclose the partnership."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F97-<concept>-<variant>`; tracking tag `utm_content=F97-<concept>-<variant>`.",
+  "Avoid: Label AI avatars.",
+  "Avoid: Don't change the script while testing narrators, or you won't know what moved results.",
+  "Avoid: Match caption style across versions so only the narrator differs."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

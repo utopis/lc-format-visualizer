@@ -16,7 +16,7 @@ A fine-jewellery brand's thank-you post: a customer's hand wearing her ring next
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | ht a 3, carat ring for it was see! Dg ta eS fi and Tt was a hal if size too big was. simple but the ee ee both absolutely and love the a git, bale sae anti I, 72 |
+| 1 | ring for it was see! … was a hal if size too big … was. simple but the … both absolutely and … love the a |
 
 ## More real examples (3)
 

@@ -18,7 +18,7 @@ The storyboard above samples the video every 0:13. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:13 | Ie a we 7. ap | Let's get the day started |
+| 1 | 0:00–0:13 | a we 7. | Let's get the day started |
 | 2 | 0:13–0:27 | · | Good morning ma. Good morning. How are you? I'm fine ma. Do we have any updates so far? None for now ma. Alright Ma one of your friends is around she said she wants to see you my friend. What could be the problem with her? |
 | 3 | 0:27–0:41 | · | Please tell her to come in. What exactly is the problem? Why are you crying? Is it not Samuel? |
 | 4 | 0:41–0:54 | · | Relationship matter again on a Monday morning. Eh? You can't blame me. Imagine him telling me he's going to break up with me because I don't have good fashion sense. He said I use I use tacky bags Can you imagine? Why are you laughing? Did I say anything funny? I'm not going to agree with him about  |
@@ -54,7 +54,7 @@ The storyboard above samples the video every 0:13. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -62,6 +62,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@frankyecom](example/more/2106833649970684195.jpg)](https://x.com/frankyecom/status/2106833649970684195)<br>**@frankyecom** · 7:00 video · 66K views<br>Women want shows: characters, drama, payoff; build entertainment first, slot product in. | [![@frankyecom](example/more/2108308896813326775.jpg)](https://x.com/frankyecom/status/2108308896813326775)<br>**@frankyecom** · 1:24 video · 11K views<br>Best drama ads let viewer see the version of herself she wants to become. | [![@adamtaylorl](example/more/2099815494434099379.jpg)](https://x.com/adamtaylorl/status/2099815494434099379)<br>**@adamtaylorl** · images · 77K views<br>Resilia mastered storytelling ads -> $100M/yr. |
 | [![@frankyecom](example/more/2105732607208026318.jpg)](https://x.com/frankyecom/status/2105732607208026318)<br>**@frankyecom** · 1:01 video · 22K views<br>Cinematic realistic AI ads in scrutinized categories (GLP). | [![@SGradon](example/more/2101705439565979947.jpg)](https://x.com/SGradon/status/2101705439565979947)<br>**@SGradon** · 0:40 video · 2K views<br>In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here' | [![@zedmadeit](example/more/2102176819709673703.jpg)](https://x.com/zedmadeit/status/2102176819709673703)<br>**@zedmadeit** · 1:36 video · 3K views<br>heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac |
+| [![@david_attisaas](example/more/2108195582607081720.jpg)](https://x.com/david_attisaas/status/2108195582607081720)<br>**@david_attisaas** · 5:25 video · 724 views<br>I'm running short drama ads for a few apps right now, and every one of them started as a copy of something a dropshipper ran first. I went looking aft | [![@ViralOps_](example/more/2108255353016406383.jpg)](https://x.com/ViralOps_/status/2108255353016406383)<br>**@ViralOps_** · 1:00 video · 589 views<br>Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could |   |
 
 ## How to make one like it
 

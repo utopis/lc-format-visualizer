@@ -1,0 +1,95 @@
+{
+ "id": "F72",
+ "slug": "72-vsl-long-form-and-text-sales-letter",
+ "name": "VSL: long-form video sales letter (2-25 min) and its text twin (TSL)",
+ "type": "paid",
+ "platforms": "[Meta, YouTube]",
+ "cost_per_asset": "$200-2,000",
+ "time_per_asset": "1-2 weeks",
+ "length": "2-6 min first cut (up to 25 min), plus a matching text sales letter page",
+ "shots": [
+  {
+   "slot": "0:00-0:30 Hook",
+   "visual": "Narrator to camera or story B-roll",
+   "audio_text": "Personal problem in one sentence: \"My mother's gold chain turned her neck green the day of my wedding.\""
+  },
+  {
+   "slot": "0:30-2:00 Story + villain",
+   "visual": "B-roll of the problem, archive-style photos",
+   "audio_text": "Why the usual fixes fail (\"plating is a coat of paint, it wears off\")"
+  },
+  {
+   "slot": "2:00-3:30 Mechanism",
+   "visual": "Diagram / macro of the material",
+   "audio_text": "How PVD bonding works in plain words"
+  },
+  {
+   "slot": "3:30-4:30 Proof",
+   "visual": "Real customer clips, review screenshots, water test",
+   "audio_text": "Specific, verifiable proof only"
+  },
+  {
+   "slot": "4:30-5:30 Offer + guarantee",
+   "visual": "Product grid, offer card",
+   "audio_text": "Bundle, price, guarantee terms, shipping"
+  },
+  {
+   "slot": "5:30-6:00 CTA",
+   "visual": "Narrator",
+   "audio_text": "One clear action, repeated once"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Claude (outline)",
+   "prompt": "Outline a 6-minute VSL for [product] with sections hook, story, villain, mechanism, proof, offer, guarantee, CTA. Give each a timing, the exact spoken lines and the B-roll list. Every claim must come from this product page: [paste]."
+  },
+  {
+   "tool": "Text twin (TSL)",
+   "prompt": "Turn the VSL script into a long-form landing page with the same headlines as H2s, pull quotes from real reviews and the offer box repeated 3 times."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/FedotOff90/status/2095237367925731363",
+   "author": "FedotOff90",
+   "note": "A long-form VSL of about 4 to 5 minutes: a woman telling her story to camera (\"Over 40\"), with cutaways to an orange being peeled, a woman in bed, a red-light device on skin and close-ups of skin. It is slow, story-led and sells late.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/FedotOff90/status/2087245595249721445",
+   "author": "FedotOff90",
+   "note": "97-day VSL; VSLs spent millions profitably; full VSL Machine SOP.",
+   "local": "example/more/2087245595249721445.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F72-<concept>-<variant>`; tracking tag `utm_content=F72-<concept>-<variant>`.",
+  "Avoid: Long form makes weak claims more visible, not less; substantiate everything.",
+  "Avoid: Test a 2-minute cut against the long version before shooting a 20-minute one.",
+  "Avoid: Most viewers drop before the offer; put a mini-offer at 60-90s too."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

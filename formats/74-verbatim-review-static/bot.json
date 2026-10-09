@@ -1,0 +1,120 @@
+{
+ "id": "F74",
+ "slug": "74-verbatim-review-static",
+ "name": "'The Verbatim': one raw customer review as the whole creative",
+ "type": "paid",
+ "platforms": "[Meta feed, Stories]",
+ "cost_per_asset": "$0",
+ "time_per_asset": "10 min",
+ "length": "1 static 1080x1350",
+ "shots": [
+  {
+   "slot": "Main",
+   "visual": "One real customer review, verbatim (typos kept), set very large",
+   "audio_text": "e.g. \"Most of the time you don't even know it's on.\""
+  },
+  {
+   "slot": "Attribution",
+   "visual": "First name + \"verified buyer\" + stars",
+   "audio_text": "\"Jess R., verified buyer ★★★★★\""
+  },
+  {
+   "slot": "Corner",
+   "visual": "Small product photo + logo",
+   "audio_text": "-"
+  },
+  {
+   "slot": "Primary text",
+   "visual": "-",
+   "audio_text": "\"We didn't write this. Jess did.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Review mining (Claude)",
+   "prompt": "From these 200 reviews [paste], pick the 10 that read most like something a friend would text. Keep them verbatim, do not fix typos. Explain why each one sells."
+  },
+  {
+   "tool": "Figma",
+   "prompt": "Review 72-88px serif, oversized quote marks in brand gold, attribution 28px grey, product 220px bottom-right."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/CreatorSaad/status/2107818233302528335",
+   "author": "CreatorSaad",
+   "note": "A spec static built from a single verbatim review: \"Your customers already wrote it.\" over the quoted line \"Most of the time you don't even know it's on.\" (a GEEKOM owner, 5-star review) with the mini PC on a desk.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/PhilKiel/status/1842707896443732362",
+   "author": "PhilKiel",
+   "note": "Customer review static. Who thinks a customer actually wrote this? Stellar copywriting if they did 😂",
+   "local": "example/more/1842707896443732362.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ariesnotebook/status/1857792129004675247",
+   "author": "ariesnotebook",
+   "note": "Simple but effective testimonial static. Stats: 4.8M likes",
+   "local": "example/more/1857792129004675247.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/helloitsdrew_/status/2000557038682706000",
+   "author": "helloitsdrew_",
+   "note": "Keys to an effective review/testimonial static: - Review that highlights a specific product benefit - Review shown in an authentic way (social media U",
+   "local": "example/more/2000557038682706000.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/FedotOff90/status/2108212319113412929",
+   "author": "FedotOff90",
+   "note": "Complete breakdown of 420 gut health ads winning on Meta (save this). Gut health is one of the biggest money printers on Meta right now. Bloating, dig",
+   "local": "example/more/2108212319113412929.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "BioRoot Labs: \"We don't trick you into taking turmeric\" retention-claim static",
+   "days": 481,
+   "image": "adlibrary/w4_57316596.jpg",
+   "what": "A beige static: \"We don't trick you into taking turmeric. Your body convinces you to keep going. After one bottle, most people don't cancel. They stock up.\" Bottle and capsules, \"Trusted by thousands\" with Trustpilot stars.",
+   "how": "One sentence that flips a fear (subscription trap) into proof (people stay), plus product, plus review stars."
+  },
+  {
+   "title": "Amy: Verified-buyer review card over car selfie (Amy, beef liver)",
+   "days": 382,
+   "image": "adlibrary/w4_105870793.jpg",
+   "what": "\"GREAT ENERGY BOOSTER!\" headline; a 5-star \"Verified Buyer\" review card floats over a man's car selfie holding the bottle; an arrow links the two.",
+   "how": "A real customer photo, a pasted review card (real review), a 3-word headline, an arrow."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F74-<concept>-<variant>`; tracking tag `utm_content=F74-<concept>-<variant>`.",
+  "Avoid: Real reviews only, verbatim, with permission; never edit a review to make it stronger.",
+  "Avoid: The featured example is a spec ad built from a real review; the format works best when the review is specific."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

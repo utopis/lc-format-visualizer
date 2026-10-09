@@ -2,6 +2,67 @@
 
 Plug-in brief for any agent (Claude, GPT, Grok, Codex) to produce this format for ANY brand. Self-contained: read this file, then skim `examples/` for real references.
 
+<!-- QUICKSTART:START -->
+## Quick start (bot-ready)
+
+Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, prompts, references, paid-ad examples, QA checklist).
+
+**Do this in order:**
+
+1. Open the real references below and write down the hook, the beat order and the length of each.
+2. Fill the inputs (brand, reviews, assets, channel). Pick the 3 strongest angles from the reviews.
+3. Write 3 concepts on the reference structure (target: 1 static 1080x1350 (plus 1080x1920)), then produce them with the prompts below.
+4. Run every concept through the QA checklist. Fix, then hand off.
+
+### Real references (study before writing)
+
+- **Main example**: [@bluestone_com](https://x.com/bluestone_com/status/1748311425330622859) · A 12-second jewellery 'hack' from Indian jeweller BlueStone: on-screen title "Pro tip: Wear your ring as a necklace". Hands thread a ring onto a fine chain and fasten it around the neck, ending on the BlueStone logo. The product is the trick.
+- Example: [@TheLittStore](https://x.com/TheLittStore/status/1759496322753741209) · Our favourite jewellery hack for rings that we swear by and you’ll never regret is ✨Adjustable Rings✨ The most important thing about adjustable rings 
+- Example: [@vincent_alonzi](https://x.com/vincent_alonzi/status/2088876642840277159) · Trendtrack is a cheat code guys Meta, TikTok, Google, Emails Ads rank, EU ad spend, LPs... In one click, you have the entire e-com funnel of any shop 
+- Example: [@SEOKeval](https://x.com/SEOKeval/status/2080403580260110750) · Investing in Google Ads is the ultimate SEO cheat code. It literally gives you data on what keywords convert into sales. All you have to do is rank fo
+- Example: [@PerezHatesAI](https://x.com/PerezHatesAI/status/2106779894785188006) · This is wild 😭 4.3M views. 250K saves. On a "weird habits" slideshow. No product demo. No feature dump. Just aesthetic slides of habits that "actually
+- Example: [@doublenickk](https://x.com/doublenickk/status/2093709535231840277) · This is a f**king cheat code Someone just published a skill pack with the skills used at Anthropic, Google, OpenAI and others ComposioHQ/awesome-claud
+- Example: [@natiakourdadze](https://x.com/natiakourdadze/status/2105285236091228373) · AI singing ads are killing it on Tiktok right now. And Arcads lets you turn any script into a singing ad in 1 click 👇 Singing ads cheat code: → Pick a
+
+### Shot list (fill the [brackets])
+
+| Slot | Visual + camera | Audio / on-screen text |
+|---|---|---|
+| Headline | Big bold sans, game-style or "life hack" framing | "The cheat code for birthday gifts:" |
+| Visual | The product as the shortcut: a gift box already wrapped, or the necklace in the shower | - |
+| Body | 1-2 short lines | "Any 7 for $85. Pre-wrapped. She'll never take it off." |
+| Corner | Small logo + "unlocked" icon | - |
+
+### Prompts
+
+**Claude**
+
+```
+Give me 20 headlines that frame [product] as a cheat code, hack or shortcut for a known annoyance (gifting, packing, getting ready, travelling). Max 8 words each, no exaggerated claims.
+```
+
+**Figma**
+
+```
+1080x1350, headline 96px heavy sans, a "🔓 unlocked" chip in gold, product photo 60% of the canvas.
+```
+
+### QA checklist (all must pass before hand-off)
+
+- [ ] Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).
+- [ ] Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.
+- [ ] Matches the reference structure (same beat order and length band) before any creative twist.
+- [ ] Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.
+- [ ] Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.
+- [ ] Captions burned in and inside the safe zone; sound-off still understandable.
+- [ ] One clear CTA that matches the landing page offer.
+- [ ] Three hook variants delivered for the same body (test hooks, not whole new ads).
+- [ ] Files named `F73-<concept>-<variant>`; tracking tag `utm_content=F73-<concept>-<variant>`.
+- [ ] Avoid: The "hack" must really save time or effort; otherwise it reads as clickbait.
+- [ ] Avoid: No clean public example was found; the visual is an illustrative mock.
+
+<!-- QUICKSTART:END -->
+
 ## Inputs you need
 
 - `BRAND`: name, product, price, offer, audience, 3-5 proof points, claims you may NOT make

@@ -20,14 +20,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:02 | Portland Leather Goods Tote That ALL The experiment, this opens with the so CH same video as the ad itself op Headline reflects the video is Reasons Why I'm Obs | · |
-| 2 | 0:02–0:04 | SAVE AN EXTRA 25% WITH COOK HE 14:17:19 As an experiment, this opens with the same video as the ad itself WW Headline reflects the video a Reasons Why I'm Obses | · |
-| 3 | 0:04–0:07 | Here are five hype-deserving reasons why you get the Mini Tote. As an experiment, this opens with the same video as the ad itself Headline reflects the video Re | · |
-| 4 | 0:07–0:09 | MINI TOTE eh As As an experiment, this $99 im 00 opens with the Then same video as the ad itself Tops th the Cl Headline reflects the video sep Ho Reasons Why I | · |
-| 5 | 0:09–0:12 | a experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed 3. Accessible Outside Pocket With so does the | · |
-| 6 | 0:12–0:14 | 5. Organized Interior with Canvas Purse experiment, this Organizer opens with the same video as the ad itself Headline reflects the video bel Reasons Why I'm Ob | · |
-| 7 | 0:14–0:17 | As an experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed With so does the content MINI v1 Two buy  | · |
-| 8 | 0:17–0:19 | SAVE 25% WITH COOK HER 14:17: 04 As an experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed With so  | · |
+| 1 | 0:00–0:02 | Portland Leather Goods … Tote That ALL The … opens with the so … same video as the … Headline reflects the video is Reasons Why I'm Obsessed With so does the co | · |
+| 2 | 0:02–0:04 | SAVE AN EXTRA 25% WITH COOK HE 14:17:19 … As an experiment, this … opens with the same video as the … Headline reflects the video a Reasons Why I'm Obsessed Wit | · |
+| 3 | 0:04–0:07 | Here are five hype-deserving reasons why you … get the Mini … Tote. As an experiment, this … opens with the same video as the … itself Headline reflects the vid | · |
+| 4 | 0:07–0:09 | As As an experiment, this $99 … opens with the Then same video as the … Headline reflects the video … Reasons Why I'm Obsessed thin With so does the content … T | · |
+| 5 | 0:09–0:12 | opens with the same video as the … Headline reflects the video Reasons Why I'm Obsessed 3. Accessible Outside Pocket With so does the content the … Two buy boxe | · |
+| 6 | 0:12–0:14 | 5. Organized Interior with Canvas Purse … experiment, this Organizer … opens with the same video as the … Headline reflects the video … bel Reasons Why I'm Obse | · |
+| 7 | 0:14–0:17 | As an experiment, this … opens with the same video as the … itself Headline reflects the video Reasons Why I'm Obsessed … With so does the content MINI … Two bu | · |
+| 8 | 0:17–0:19 | 25% WITH COOK HER 14:17: 04 As an experiment, this … opens with the same video as the … itself Headline reflects the video Reasons Why I'm Obsessed … With so do | · |
 
 ## More real examples (4)
 
@@ -52,14 +52,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:01 | on screen: Portland Leather Goods Tote That ALL The experiment, this opens with the so CH same video as the ad itself op Headline r | … |
-| 2 | 0:03 | on screen: SAVE AN EXTRA 25% WITH COOK HE 14:17:19 As an experiment, this opens with the same video as the ad itself WW Headline re | … |
-| 3 | 0:06 | on screen: Here are five hype-deserving reasons why you get the Mini Tote. As an experiment, this opens with the same video as the | … |
-| 4 | 0:08 | on screen: MINI TOTE eh As As an experiment, this $99 im 00 opens with the Then same video as the ad itself Tops th the Cl Headline | … |
-| 5 | 0:11 | on screen: a experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed 3. Ac | … |
-| 6 | 0:13 | on screen: 5. Organized Interior with Canvas Purse experiment, this Organizer opens with the same video as the ad itself Headline r | … |
-| 7 | 0:16 | on screen: As an experiment, this opens with the same video as the ad itself Headline reflects the video Reasons Why I'm Obsessed W | … |
-| 8 | 0:18 | on screen: SAVE 25% WITH COOK HER 14:17: 04 As an experiment, this opens with the same video as the ad itself Headline reflects the | … |
+| 1 | 0:01 | on screen: Portland Leather Goods … Tote That ALL The … opens with the so … same video as the … Headline reflects the video is Reas | … |
+| 2 | 0:03 | on screen: SAVE AN EXTRA 25% WITH COOK HE 14:17:19 … As an experiment, this … opens with the same video as the … Headline reflects | … |
+| 3 | 0:06 | on screen: Here are five hype-deserving reasons why you … get the Mini … Tote. As an experiment, this … opens with the same video a | … |
+| 4 | 0:08 | on screen: As As an experiment, this $99 … opens with the Then same video as the … Headline reflects the video … Reasons Why I'm Ob | … |
+| 5 | 0:11 | on screen: opens with the same video as the … Headline reflects the video Reasons Why I'm Obsessed 3. Accessible Outside Pocket Wit | … |
+| 6 | 0:13 | on screen: 5. Organized Interior with Canvas Purse … experiment, this Organizer … opens with the same video as the … Headline refle | … |
+| 7 | 0:16 | on screen: As an experiment, this … opens with the same video as the … itself Headline reflects the video Reasons Why I'm Obsessed | … |
+| 8 | 0:18 | on screen: 25% WITH COOK HER 14:17: 04 As an experiment, this … opens with the same video as the … itself Headline reflects the vid | … |
 
 ### 2. Shot-by-shot remake
 

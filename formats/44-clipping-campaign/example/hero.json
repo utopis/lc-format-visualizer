@@ -25,7 +25,7 @@
   {
    "t": "0:01",
    "said": "Somebody's watching me",
-   "ocr": ""
+   "ocr": "shaving a period, \u2026 just now, finding why, my, Whole"
   },
   {
    "t": "0:03",
@@ -35,17 +35,17 @@
   {
    "t": "0:04",
    "said": "Somebody's watching me",
-   "ocr": "Cycle day of 28 ll my on taught me! phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your "
+   "ocr": "Cycle day of 28 \u2026 my on taught me! \u2026 phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your"
   },
   {
    "t": "0:05",
    "said": "",
-   "ocr": "Ef Cycle day of 28 ee phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making"
+   "ocr": "Cycle day of 28 \u2026 phase Itch levels are at an all-time high Hormonal chaos is in full swing, and your skin is making you"
   },
   {
    "t": "0:07",
    "said": "",
-   "ocr": "Cycle day of 28 ee my dragon taught me!! phase Itch levels are at an all-time high. Hormonal chaos is in full swing, and"
+   "ocr": "Cycle day of 28 \u2026 my dragon taught me!! \u2026 phase Itch levels are at an all-time high. Hormonal chaos is in full swing, an"
   }
  ],
  "more": [
@@ -102,6 +102,24 @@
    "kind": "image",
    "cap": "if you\u2019re a founder and you haven\u2019t launched your own clipping campaign yet just start. it\u2019s one of the cheapest ways to distribute your content at sc",
    "views": 896
+  },
+  {
+   "id": "2101662430048735412",
+   "author": "natiakourdadze",
+   "url": "https://x.com/natiakourdadze/status/2101662430048735412",
+   "thumb": "example/more/2101662430048735412.jpg",
+   "kind": "image",
+   "cap": "Did I share my newest marketing obsession? Content Rewards by Whop \ud83e\udd73 I just launched a campaign for Overglow AI, and clippers are already applying, po",
+   "views": 1509
+  },
+  {
+   "id": "2077532362842181898",
+   "author": "LinoLeighton",
+   "url": "https://x.com/LinoLeighton/status/2077532362842181898",
+   "thumb": "example/more/2077532362842181898.jpg",
+   "kind": "images",
+   "cap": "Currently at 60 clippers now for side app. I\u2019ve only spent $430 on this faceless clipping campaign so far and it\u2019s already generated $4K in Rev. Over ",
+   "views": 110
   }
  ]
 }

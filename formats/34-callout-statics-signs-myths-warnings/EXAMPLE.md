@@ -16,7 +16,7 @@ A product callout static: the headline "See Clearly. Drive Safely. Instantly." o
 
 | Image | Text on it (OCR, rough) |
 |---|---|
-| 1 | See Clearly. Drive Safely. Instantly. Instant Clarity Anti-Fog Protection water Long-Lasting Effect SA Era, 4.8 5.0 Yee te He based on 10.000 reviews |
+| 1 | See Clearly. Drive Safely. Instantly. Instant Clarity Anti-Fog Protection water … Era, 4.8 5.0 Yee … He based on 10.000 reviews |
 
 ## How to make one like it
 

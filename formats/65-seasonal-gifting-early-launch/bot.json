@@ -1,0 +1,119 @@
+{
+ "id": "F65",
+ "slug": "65-seasonal-gifting-early-launch",
+ "name": "Seasonal gifting campaign — launch 3-4 weeks early, urgency only in the final week",
+ "type": "paid + organic + email/SMS",
+ "platforms": "[Meta, TikTok, Pinterest, Omnisend, OneText]",
+ "cost_per_asset": "$0-500",
+ "time_per_asset": "1-2 days per season",
+ "length": "Campaign: 3-4 week gifting runway (statics, videos, gift guide)",
+ "shots": [
+  {
+   "slot": "Week -4 to -3",
+   "visual": "Gift-problem creative: \"What do you get the friend who has everything?\"",
+   "audio_text": "Gift guide carousel"
+  },
+  {
+   "slot": "Week -3 to -2",
+   "visual": "Emotional gift moments (real customers)",
+   "audio_text": "\"My mum hasn't taken it off since Christmas.\""
+  },
+  {
+   "slot": "Week -2 to -1",
+   "visual": "Bundle + gift box",
+   "audio_text": "\"7 pieces, wrapped, $85.\""
+  },
+  {
+   "slot": "Final week",
+   "visual": "Shipping-deadline urgency",
+   "audio_text": "\"Order by Dec 18 for Christmas delivery.\""
+  },
+  {
+   "slot": "Post-holiday",
+   "visual": "Gift-card and self-gifting",
+   "audio_text": "\"You got cash? Treat yourself.\""
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Calendar",
+   "prompt": "Map the 4 weeks, assign creatives to each, set real shipping cut-offs by region."
+  },
+  {
+   "tool": "Claude",
+   "prompt": "Write a gift guide carousel: 6 recipients, one stack each, with price and a one-line reason."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/PowerbyMomBlog/status/1733284392045543691",
+   "author": "PowerbyMomBlog",
+   "note": "A sponsored mom-blogger video (marked AD) for a personalised sterling silver heart locket: her daughter chose the photos, including their cat Ollie who died in July. Slow close-ups open the locket on a denim pouch next to purple flowers, and the post says it is on her Holiday Gift Guide. Emotional, gift-led and seasonal.",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/sayuri_quietjp/status/1997519250903482686",
+   "author": "sayuri_quietjp",
+   "note": "クリスマスの贈り物に、 アクセサリーを選んでもらいました🎁✨ たくさん並ぶ宝石の中から、 「これが似合うよ」って言われた瞬間が いちばん輝いていた気がします…💎 大切な人と、大切な時間を そっと胸にしまって。 A special Christmas gift — a beautiful piece ",
+   "local": "example/more/1997519250903482686.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/ecomchasedimond/status/2047313886848925761",
+   "author": "ecomchasedimond",
+   "note": "ChatGPT Images 2.0 made this full Father’s Day campaign system with one prompt. One prompt gave me the landing page, email, SMS, ad creative, and popu",
+   "local": "example/more/2047313886848925761.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/lifemaximised/status/2107617132104036607",
+   "author": "lifemaximised",
+   "note": "STOP waiting for November to begin your Black Friday prep or you’ll get lapped by everyone starting NOW… BFCM is in 7 weeks already. It’s time to set ",
+   "local": "example/more/2107617132104036607.jpg"
+  }
+ ],
+ "paid_ads": [
+  {
+   "title": "Smooche · Smooche: “Prime day SALE EXTRA on smooche.com”",
+   "days": 10,
+   "image": "adlibrary/w6_1056610557243299.jpg",
+   "what": "\"Prime day SALE EXTRA on smooche.com\", 60% off, with a dropper shot.",
+   "how": "Make a white-space static with the product, the event logo and a single % badge. Put the sold-out-last-time story in the primary text."
+  },
+  {
+   "title": "Smooche · Smooche: “Prime day 60% off ONLY on smooche.com”",
+   "days": 10,
+   "image": "adlibrary/w6_1455485669823347.jpg",
+   "what": "\"Prime day 60% off ONLY on smooche.com\" on a minimal grey background.",
+   "how": "Make a white-space static with the product, the event logo and a single % badge. Put the sold-out-last-time story in the primary text."
+  }
+ ],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F65-<concept>-<variant>`; tracking tag `utm_content=F65-<concept>-<variant>`.",
+  "Avoid: Shipping deadlines must be real per region.",
+  "Avoid: Urgency only in the final week.",
+  "Avoid: Plan stock for the bundle you push."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

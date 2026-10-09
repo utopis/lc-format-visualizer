@@ -18,9 +18,9 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:04 | I'm going to make out with the girl who this | to make out with the girl who told me about this. You're telling me there's an app |
+| 1 | 0:00–0:04 | I'm going to make out with the girl who | to make out with the girl who told me about this. You're telling me there's an app |
 | 2 | 0:04–0:08 | · | where you tell it your desires, your dreams, |
-| 3 | 0:08–0:13 | that you to | and it will write stories, detailed stories that you can listen to about your future self |
+| 3 | 0:08–0:13 | · | and it will write stories, detailed stories that you can listen to about your future self |
 | 4 | 0:13–0:17 | The version of you | who already has it. The version of you that already became a millionaire, |
 | 5 | 0:17–0:21 | obsessed with you | the version of you where that guy is obsessed with you and is getting down on one knee to marry you. |
 | 6 | 0:21–0:26 | · | I have manifested the craziest shit using it. |
@@ -44,7 +44,7 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (7)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
@@ -52,6 +52,7 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 |---|---|---|
 | [![@StefanGeorgi](example/more/2090446853565296658.jpg)](https://x.com/StefanGeorgi/status/2090446853565296658)<br>**@StefanGeorgi** · image · 39K views<br>Stefan Georgi: yapper-style winner ~$750k spend in <3 weeks on an angle the brand said "doesn't work"; double 80/20 rule (80% proven formats). | [![@ginacostag_](example/more/2082130750204428404.jpg)](https://x.com/ginacostag_/status/2082130750204428404)<br>**@ginacostag_** · 0:15 video · 34K views<br>The next AI video advantage may not come from generating more clips. It may come from making the entire production workflow easier to control. Dreamin | [![@AvaGrace_AI](example/more/2083984888127271189.jpg)](https://x.com/AvaGrace_AI/status/2083984888127271189)<br>**@AvaGrace_AI** · 0:15 video · 27K views<br>🚨 AI videos are getting easier to generate. The real challenge is controlling the final result. That's why Seedance 2.5 inside CapCut caught my attent |
 | [![@Geoffreyhurth](example/more/2102106541394399259.jpg)](https://x.com/Geoffreyhurth/status/2102106541394399259)<br>**@Geoffreyhurth** · image · 230 views<br>💸 10 ad concepts quietly printing money on Meta right now: 1. Yapping: Raw, unscripted, straight to camera. Feels like a friend, not an ad. 2. Pixar A | [![@antonioventre_](example/more/2105303432424767662.jpg)](https://x.com/antonioventre_/status/2105303432424767662)<br>**@antonioventre_** · image · 4K views<br>Native ads, end to end, for anyone who wants to build one The image - A normal looking photo, like something a friend posted - A bit weird on purpose, | [![@antonioventre_](example/more/2078849094311674138.jpg)](https://x.com/antonioventre_/status/2078849094311674138)<br>**@antonioventre_** · image · 2K views<br>Green screen reaction ads are working really well right now. Here is the setup. You have a main video, usually a creator or an AI creator telling a st |
+| [![@antonioventre_](example/more/2083948194988220841.jpg)](https://x.com/antonioventre_/status/2083948194988220841)<br>**@antonioventre_** · image · 2K views<br>Green screen reaction ads are still one of our most reliable formats, and most brands build them wrong. The setup: a base video plays (a story, a demo |   |   |
 
 ## How to make one like it
 
