@@ -24,14 +24,14 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@skytookie](https://x.com/skytookie/status/2100679695973134683) · hey chat! as you may have seen, I've played in a few creator tournaments recently, and one thing I noticed is... there's ALWAYS a radiant or immortal 
 - Example: [@Kolskithenerd](https://x.com/Kolskithenerd/status/2078167446196777289) · Most healthcare ads lead with fear. I wanted to see what happens if you don't. Spec project: a full ad copy system for @AskAwaDoc , a WhatsApp-based A
 
-### Live paid ads in this format (6 in [adlibrary/](adlibrary/README.md), longest-running first)
+### Live paid ads in this format (8 in [adlibrary/](adlibrary/README.md), longest-running first)
 
 - **Feel Mighty: "Car chats" one-month update yapper (gifted, then hooked)** (341 days live): "Welcome to a new episode of car chats… I have been taking the mighty mushroom gummies for over a month now… initially these were sent to me as PR." 103 s.
+- **Sports Illustrated: Your Body's Been Keeping Score.** (28 days live): "If a man who drinks alcohol regularly started taking one sachet of IM8 every morning for three weeks, this is what would happen. After the first few days, his gut starts to settle…" An X-ray body animation, then a day-by-day montage. Run from the **Sports Ill
+- **Thrillist: You Drink More Than You Think.** (28 days live): "I counted every drink for 30 days, no judgement, just tallying, with one sachet each morning. The number did the persuading." Glass-count graphics over evening scenes, then an AI-UGC talking head. Run from the **Thrillist** page (#ad).
 - **Resilia · Vascular Wellness Report: “A-Blood pressure took a lot of pressure on the blood pressure for two…”** (10 days live): Opens: “A-Blood pressure took a lot of pressure on the blood pressure for two months. Here's what happened, day one.”
 - **Resilia · Ancient Remedy Co: “Here's what happens to your belly pooch if you it wild oregano oil…”** (1 days live): Opens: “Here's what happens to your belly pooch if you it wild oregano oil every single day for eight weeks week one you don't feel a thing and you figure you got scammed another supplement that does nothing…”
 - **Resilia · Arterial Health Review: “What happens if you don if you don't clean out your arteries once they…”** (1 days live): Opens: “What happens if you don if you don't clean out your arteries once they start to clog? Day one, you feel completely normal, exactly like you have for years, but inside it has already begun.”
-- **Resilia · Arterial Health Review: “A black man with high blood pressure took aged garlic from Resilia for…”** (1 days live): Opens: “A black man with high blood pressure took aged garlic from Resilia for two months. Here's what happened.”
-- **Resilia · Arterial Health Review: “This is what happens When a 50 year old man Who struggles to get it up…”** (1 days live): Opens: “This is what happens When a 50 year old man Who struggles to get it up takes age garlic for 30 days A day one nothing dramatic He still can't please his wife He starts feelin' scammed Day seven He…”
 
 **Do not copy (seen in these live ads):** The health timelines include unsupported disease claims ("flushes calcium off artery walls"). Do not copy the claims.
 

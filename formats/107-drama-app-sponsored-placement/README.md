@@ -29,6 +29,8 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (several brands, few public ROAS numbers) · hype risk: Medium · cost $500-10,000 per placement · 1-3 weeks lead time
 
 ## What it is

@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@artfully_amberr](https://x.com/artfully_amberr/status/2100249277029126306) · A creator drawing on a whiteboard while explaining ("that nobody talks about", "these dopamine levels"), with a graph curve, then the product page and a woman relaxing. It is a teacher-style explainer with a marker.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2105679883300987071) · We currently oversee $25M in monthly Meta spend Most of our clients are making $1m+/mo just from Meta Here’s what scales: 1. Top of Funnel creative Th
 - Example: [@0xROAS](https://x.com/0xROAS/status/2086523553717883287) · we finally cracked whiteboard ads inside ai ads community. this is extremely engaging and you can use it for whatever use case you want: - ecom - saas
 - Example: [@adswithcami](https://x.com/adswithcami/status/2057020088457277861) · You don't need UGC creators for whiteboard ads now??
 - Example: [@mattepstein](https://x.com/mattepstein/status/1998112905410318548) · 🚨 New ad type Whiteboard ads. We're seeing these CRUSH in ad accounts.
@@ -24,7 +25,6 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@DavidRunsAds](https://x.com/DavidRunsAds/status/2093266262335909916) · Whiteboard ADS might be one of my favorite AI UGC formats yet. instead of just talking at the camera, you can actually explain the idea visually draw 
 - Example: [@mattepstein](https://x.com/mattepstein/status/2006398516093153407) · 5. Authority whiteboard ad
 - Example: [@oliverwhudson](https://x.com/oliverwhudson/status/2049158983106081277) · Whiteboard ads are still flying for us. We launched one for a supplement brand targeting a HRT angle that surfaced in research. First 7 days, top spen
-- Example: [@navneet_214](https://x.com/navneet_214/status/2053875278691070165) · Whiteboard ad format still works in 2026 and this one for a teen body soap brand proves it raw. readable. relatable. converts. want static ads like th
 
 ### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
 

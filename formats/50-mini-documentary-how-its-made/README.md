@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (one teardown; contested) · hype risk: Med · cost $0-1,000 · 1-3 days
 
 ## What it is

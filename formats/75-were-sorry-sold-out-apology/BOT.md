@@ -23,9 +23,11 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@notdailyavatar](https://x.com/notdailyavatar/status/2080320968178692301) · Getting ads for the same brand as Johannes' boots... Are you mocking me? 😭😭 They're too expensive and also sold out https://t.co/6ZwGz09Zcq
 - Example: [@mikasafavx](https://x.com/mikasafavx/status/2077807501211267281) · SKIMS after lisa’s ad: 22% revenue growth in APAC skims x nike set sold out $1B net sales projected at the end of the year GAP after trasheye: 7% reve
 
-### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
 
+- **Azure Boutique: Buy 1 Get 1 FREE!** (116 days live): "Our warehouse is overflowing with Batana oil, so we are basically giving them away. We made way too many for our spring promotion." Pallets of jars, then a mechanism animation (oil into the scalp), then results.
 - **Smooche · Smooche: “We f*cked up”** (100 days live): "We f*cked up." A letter-style apology for over-ordering, with a warehouse photo of pink boxes and a "60% off" button. Served through a catalog-template slot.
+- **Koriderm: Prime Day Sale: Buy 1 Get 2 Free** (9 days live): A warehouse full of boxes: "We are literally running out of places to put these boxes… For Prime Day, buy one and get two products free." Staff unbox the bundle on camera.
 - **Resilia · Resilia: “We're so sorry!”** (1 days live): "We're so sorry!": a "we've been so busy packing 6,000kg of oregano oil…" apology with a "$39.99 with free gifts" button.
 - **Resilia · Midlife Wellness Journal: “OFFICIAL APOLOGY STATEMENT”**: "OFFICIAL APOLOGY STATEMENT": a black text-heavy notice about selling out.
 

@@ -1,5 +1,47 @@
 # Meta ad-library examples for F99
 
+<!-- WAVE7 -->
+## Wave 7: Lachezar Voynov's "Ad Bible" libraries (Oct 2026)
+
+On Oct 6, 2026 [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) named five Meta pages as "Ad Bibles" for AI ads: Seora Skincare (realistic AI UGC), Koriderm (AI drama), Azure Boutique (AI skits), IM8 Health (AI timeline) and a Resilia page (Suno songs, no active ads when we checked on Oct 9). We pulled each page sorted by impressions and picked the longest-running unique ads. Days live are counted to 2026-10-09, and the brands' claims are not verified.
+
+### Seora Skincare: Buy 1 Get 1 FREE ✨ (206 days live)
+
+![Seora Skincare](w7_1470741128028341.jpg)
+
+![8-frame strip](w7_1470741128028341_strip.jpg)
+
+- **Ad:** [Meta Ad Library #1470741128028341](https://www.facebook.com/ads/library/?id=1470741128028341) · video 0:16 · page “Seora Skincare” · started 2026-03-17 · from the “Realistic AI UGC ads” library [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) calls an ‘Ad Bible’ ([page](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=459501810587662))
+- **What happens:** A 16 s loop: hands hold two tubes under a "BUY 1 GET 1 FREE · 4 HOURS LEFT" banner while the VO says "This is going to be the last day… they end the sale at midnight."
+- **Why it works:** The cheapest possible deadline ad, and it has run 206 days. The product is in frame the whole time, and one urgency line does the work, so a viewer who has already been warmed up only needs the push.
+- **How to make one:** Film the product in hand for 10-15 s with a big banner (offer + hours left) and a 2-sentence VO (last day, how the discount applies at checkout).
+- **LC remake:** Hands holding the 7-piece set, banner "ANY 7 FOR $85 · ENDS MIDNIGHT", VO "the code applies itself at checkout".
+
+<details><summary>Transcript (auto, first 90 s)</summary>
+
+> This is going to be the last day to get by one, get one free. If you want to get this, make sure you add it to your card and go all the way to the checkout because they automatically apply your coupons and discounts. But today is going to be the last day because they end the sale at midnight. So go get your steal right now.
+
+</details>
+
+### The Dodo: Now's the Time to Try IM8. (28 days live)
+
+![The Dodo](w7_2305353660249317.jpg)
+
+![8-frame strip](w7_2305353660249317_strip.jpg)
+
+- **Ad:** [Meta Ad Library #2305353660249317](https://www.facebook.com/ads/library/?id=2305353660249317) · video 0:18 · page “The Dodo” · started 2026-09-11 · from the “AI timeline ads” library [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) calls an ‘Ad Bible’ ([page](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=345914995276546))
+- **What happens:** "Go take your coupons. I just saw on the back end what people are paying for this right now…" A UGC unbox of the box and sachets. Run from **The Dodo** page (#ad).
+- **Why it works:** An insider-price whisper ("I can't say the exact price, but it's good right now") creates urgency without stating a number.
+- **How to make one:** Have a staff member speak to camera while unboxing: "I saw what people are paying right now. Go."
+- **LC remake:** An LC team member: "I just saw the any-7 price on the back end. If you've been waiting, now."
+
+<details><summary>Transcript (auto, first 90 s)</summary>
+
+> Go take your coupons. I just saw on the back end what people are paying for this right now, and it is really good. TikTok doesn't let us give the exact price, but I am telling you, it is good right now. If you're looking to try these for the first time or get them again, I would do it now. It's a great time. I'm going to leave it below.
+
+</details>
+<!-- /WAVE7 -->
+
 <!-- WAVE6 -->
 ## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
 

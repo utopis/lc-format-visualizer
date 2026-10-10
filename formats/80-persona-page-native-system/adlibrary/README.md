@@ -1,5 +1,29 @@
 # Meta ad-library examples for F80
 
+<!-- WAVE7 -->
+## Wave 7: Lachezar Voynov's "Ad Bible" libraries (Oct 2026)
+
+On Oct 6, 2026 [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) named five Meta pages as "Ad Bibles" for AI ads: Seora Skincare (realistic AI UGC), Koriderm (AI drama), Azure Boutique (AI skits), IM8 Health (AI timeline) and a Resilia page (Suno songs, no active ads when we checked on Oct 9). We pulled each page sorted by impressions and picked the longest-running unique ads. Days live are counted to 2026-10-09, and the brands' claims are not verified.
+
+### The Dodo: The Beckham Standard of Nutrition (28 days live)
+
+![The Dodo](w7_27787187210963625.jpg)
+
+![8-frame strip](w7_27787187210963625_strip.jpg)
+
+- **Ad:** [Meta Ad Library #27787187210963625](https://www.facebook.com/ads/library/?id=27787187210963625) · video 0:17 · page “The Dodo” · started 2026-09-11 · from the “AI timeline ads” library [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) calls an ‘Ad Bible’ ([page](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=345914995276546))
+- **What happens:** David Beckham mixing a drink: "I want to be able to wake up in the morning, mix a drink up, drink it and feel better". Then IM8 brand cards. Posted as a branded-content ad from **The Dodo** page, labelled #ad.
+- **Why it works:** This is the legitimate version of a persona page: a real publisher page runs the brand's ad as a disclosed partnership (Meta branded content), borrowing the publisher's reach and trust. IM8 ran the same week from Sports Illustrated and Thrillist.
+- **How to make one:** Through Meta's branded-content tools, partner with real publishers or creators to run ads from their page with the "Paid partnership" label.
+- **LC remake:** Partner with a real lifestyle or wedding publisher page to run the LC "never take it off" ad as a labelled paid partnership.
+
+<details><summary>Transcript (auto, first 90 s)</summary>
+
+> I want to be able to wake up in the morning, mix a drink up, drink it and feel better, and that's what I am going to give you. That's with all of the other health benefits that we have.
+
+</details>
+<!-- /WAVE7 -->
+
 <!-- WAVE6 -->
 ## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
 

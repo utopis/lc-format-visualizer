@@ -49,6 +49,13 @@
   },
   {
    "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2107510774583455878",
+   "author": "LachezarVoynov",
+   "note": "it's so over these are not real people you're gonna see them in one of my clients' ads the money printers are about to be turned on",
+   "local": "example/more/2107510774583455878.jpg"
+  },
+  {
+   "kind": "gallery",
    "url": "https://x.com/kristian_jennin/status/2101352217089282066",
    "author": "kristian_jennin",
    "note": "AI UGC looks fake because of a missing step (realism workflow video).",
@@ -95,13 +102,6 @@
    "author": "Mho_23",
    "note": "Realistic AI UGC with Seedance 2.0 full breakdown (mho_23).",
    "local": "example/more/2085374858267857069.jpg"
-  },
-  {
-   "kind": "gallery",
-   "url": "https://x.com/oliverxmedia/status/2104954498565464350",
-   "author": "oliverxmedia",
-   "note": "Realistic AI = reference images + precise prompts + consistent characters + guided motion.",
-   "local": "example/more/2104954498565464350.jpg"
   }
  ],
  "paid_ads": [
@@ -118,6 +118,21 @@
    "image": "adlibrary/w4_112000046.jpg",
    "what": "Three 24-33 s UGC cuts: \"This is the only skin balm I will ever spend money on… I've tried everything, from prescription to specialist.\" Different women, same script skeleton.",
    "how": "Write one 60-word script and record it with 3-10 faces (AI UGC or creators). Change only the opener."
+  },
+  {
+   "title": "Koriderm: Buy 1 Get 1 Free Today Only!",
+   "days": 133,
+   "image": "adlibrary/w7_1340214774727903.jpg",
+   "what": "\"Wait, Koriderm is on sale for Valentine's Day? Why didn't anyone tell me this before I paid full price last month? I'm actually annoyed.\" Then the demo: the cream on the face and an X over the alternatives.",
+   "how": "Open with the creator annoyed at the sale, say \"if you've been putting it off, this is your sign\", show 3 reasons with a demo, and close on the offer."
+  },
+  {
+   "title": "Seora Skincare: Buy 1 Get 1 FREE ✨",
+   "days": 24,
+   "image": "adlibrary/w7_2127653891437479.jpg",
+   "what": "A montage of AI-UGC faces with dark spots: \"I used to buy a foundation that matched my dark spots, not my skin. Then I tried this Korean brightening cream… in under eight weeks my dark spots actually started fading.\"",
+   "how": "Use the confession opener, then the mechanism in plain words, the week count, and 3-5 face close-ups. Use real customers, or label AI.",
+   "dnc": "Many of these \"customers\" appear AI-generated. Do not present AI people as real customers."
   }
  ],
  "qa_checklist": [

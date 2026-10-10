@@ -32,6 +32,8 @@ related_strategies: [29-ai-ugc-outlier-test-pipeline, 34-persona-archetype-ai-ug
 
 
 
+
+
 ## What it looks like
 A phone-selfie video of a "creator" talking to camera — bedroom, bathroom, car, kitchen — holding/wearing the product, 15-45s, casual captions. Sub-formats ranked by @CEO_Vlad: **S** podcast ad, talking head ("cleanest test of whether your angle works"), in-car ("reads private, cheapest to render well"); **A** street interview, multi-scene demo; **B** reply-to-comment overlay, split-screen day.
 Example (jewelry): GIVA collection "I'm obsessed with these tiny little things and I've been stacking them like this…" (Arcads promo, [@SparkifyAI](https://x.com/SparkifyAI/status/2101869170937958407)).
@@ -63,6 +65,11 @@ Use AI UGC as the cheap first pass: 5 angles × 2 avatars → $50 each → winne
 - Lymphoria's winning AI creator: one consistent character, ~55-second car-vlog monologue, product held to camera, meme-style photo insets, captions on every line; built with Claude + Higgsfield (creator Istiak Hossan, LinkedIn). Engine: symptom → reframe → hidden villain → buildup → 4 herbs → timeline → discount/guarantee (Felipe Gomes audit of 3,600 ads).
 - Rosabella: AI UGC + native statics via whitelisted Pages, text PDP, no VSL; "$100M in the first year" claim (Funnel of the Week, unverified). Lawsuit risk: AI "doctors" (see F80).
 - @lorenzo_pravata on Resilia: the gap is **real people**. "Take the exact concepts already winning and reshoot them with a real actor… same proven angle, format they don't have yet." For LC, real creators are the edge, not a fallback.
+
+<!-- W7NOTE -->
+## Wave 7 update: Lachezar Voynov (Oct 9, 2026)
+- **Wave 7 (Oct 9):** "these are not real people… you're gonna see them in one of my clients' ads" ([@LachezarVoynov](https://x.com/LachezarVoynov/status/2107510774583455878), a 10 s realistic AI-person clip). Agencies now ship photoreal AI people into client ads by default. Our rule stands: label AI, and no AI "customers" giving testimonials.
+<!-- /W7NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

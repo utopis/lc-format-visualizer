@@ -51,10 +51,17 @@
  "references": [
   {
    "kind": "hero",
-   "url": "https://x.com/lorenzo_pravata/status/2105684266457637009",
-   "author": "lorenzo_pravata",
-   "note": "A Pixar-style 3D story about 70 seconds long. A lonely pink character sits by a door under the caption \"2 YEARS AND NOBODY LOOKED AT THIS\" and narrates (\"I'm the one downstairs\", \"Then one winter\", \"And she decided I moved out\") while a couple lives their life upstairs. It ends with the character wrapped in a blanket: \"I'm COLD...\". Every line has big centred captions; the product is the quiet ans",
+   "url": "https://x.com/LachezarVoynov/status/2108585587494019562",
+   "author": "LachezarVoynov",
+   "note": "A 2-minute Pixar-style 3D music video sung in the first person by a woman in her 50s, with word-highlighted lyric captions and roughly 3-second shots. It opens on the wound (\"Last night my husband asked me to keep my shirt on / 22 years of marriage\"), flashes back to young love, shows the slow fade (the new job, his phone face down), blames her crepey arm skin, runs through failed fixes ($180 firm",
    "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2107857984361808065",
+   "author": "LachezarVoynov",
+   "note": "my team just created a 40-page MD file breaking down how to create Suno song ads that rip $200k/mo+ in ad spend. Summary: 1. Suno songs are not songs.",
+   "local": "example/more/2107857984361808065.jpg"
   },
   {
    "kind": "gallery",

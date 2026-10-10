@@ -1,5 +1,47 @@
 # Meta ad-library examples for F12
 
+<!-- WAVE7 -->
+## Wave 7: Lachezar Voynov's "Ad Bible" libraries (Oct 2026)
+
+On Oct 6, 2026 [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) named five Meta pages as "Ad Bibles" for AI ads: Seora Skincare (realistic AI UGC), Koriderm (AI drama), Azure Boutique (AI skits), IM8 Health (AI timeline) and a Resilia page (Suno songs, no active ads when we checked on Oct 9). We pulled each page sorted by impressions and picked the longest-running unique ads. Days live are counted to 2026-10-09, and the brands' claims are not verified.
+
+### Sports Illustrated: Your Body's Been Keeping Score. (28 days live)
+
+![Sports Illustrated](w7_2593331877768591.jpg)
+
+![8-frame strip](w7_2593331877768591_strip.jpg)
+
+- **Ad:** [Meta Ad Library #2593331877768591](https://www.facebook.com/ads/library/?id=2593331877768591) · video 1:50 · page “Sports Illustrated” · started 2026-09-11 · from the “AI timeline ads” library [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) calls an ‘Ad Bible’ ([page](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=345914995276546))
+- **What happens:** "If a man who drinks alcohol regularly started taking one sachet of IM8 every morning for three weeks, this is what would happen. After the first few days, his gut starts to settle…" An X-ray body animation, then a day-by-day montage. Run from the **Sports Illustrated** page (#ad).
+- **Why it works:** "If X did Y for N weeks, this is what would happen" is a timeline hook, aimed at a specific avatar (regular drinkers). Voynov calls these "AI timeline ads".
+- **How to make one:** Use the conditional hook (avatar + habit + duration), then day 3, week 1 and week 3 beats with one visible change each, then the product.
+- **LC remake:** "If a woman wore the same LC necklace every day for 6 months, here's what would happen: day 1 a shower, week 2 the ocean…"
+
+<details><summary>Transcript (auto, first 90 s)</summary>
+
+> If a man who drinks alcohol regularly started taking one sachet of IM-8 every morning for three weeks, this is what would happen. After the first few days, his gut starts to settle. That's digestive enzymes and spore-forming probiotics, tackling the gut inflammation caused by regular drinking and elevated cortisol. No more heaviness or bloating after meals. At the same time, his body begins to recover. Curcumin and the mushroom complex support the body's natural detox process, helping it handle the strain from regular alcohol and stress. His body finally starts clearing out what's been weighing him down. After about a week, inflammation calms down. Digestion feels easier, almost effortless, and his skin begins to reflect the change. That's astasanthin working alongside the gut support. Clearer skin, less puffiness. His mornings feel lighter and clearer. By the second week, the brain fog lifts. The bioactive B-vitamin complex supports cognitive function and replaces what alcohol strips out every session. Saffron regulates his stress response, calming that constant edge that made him reach for a drink every night, and co-Q-10 brings real energy back. Stamina that lasts all day without needing three coffees or alcohol to unwind. After three weeks, he's waking up refreshed. Even after the occasional drink, the three AM wakeups have stopped. His gut is finally working properly again. He feels leaner from less bloating, clearer mentally, and his family notices. His wife first, then
+
+</details>
+
+### Thrillist: You Drink More Than You Think. (28 days live)
+
+![Thrillist](w7_1211899694486639.jpg)
+
+![8-frame strip](w7_1211899694486639_strip.jpg)
+
+- **Ad:** [Meta Ad Library #1211899694486639](https://www.facebook.com/ads/library/?id=1211899694486639) · video 1:27 · page “Thrillist” · started 2026-09-11 · from the “AI timeline ads” library [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107498173384061027) calls an ‘Ad Bible’ ([page](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=345914995276546))
+- **What happens:** "I counted every drink for 30 days, no judgement, just tallying, with one sachet each morning. The number did the persuading." Glass-count graphics over evening scenes, then an AI-UGC talking head. Run from the **Thrillist** page (#ad).
+- **Why it works:** A self-audit framing ("not your worst week, your normal one") makes the viewer do the math themselves.
+- **How to make one:** Use a 30-day tally hook, a count on screen per scene, the total, and then the product as the daily habit.
+- **LC remake:** "I counted every time I took my jewelry off for 30 days: 47 times. Then I switched to LC."
+
+<details><summary>Transcript (auto, first 90 s)</summary>
+
+> I counted every drink for 30 days, no judgment just tallying, with one sachet each morning. The number did the persuading. Quick audit. Not of your worst week, your normal one. Glass while cooking most nights, that's five before the weekend starts. Proper drinks Friday, Saturday dinner, share a bottle, that's half a bottle each. That barely drink is 12 to 15 drinks a week, and nobody's lying. The body files everything. At that volume, your system rarely gets a fully clear 48 hours. It is lightly degraded most nights, rather than wrecked occasionally. The gut lining is regularly reiritated mid-repair, and the slow tax on B vitamins, magnesium and zinc never gets a repayment window. The cost isn't to hang over, it's a baseline that you've long since renamed normal. The Tuesday glass costs you sleep and gives you almost nothing. Keep the ones you'd actually miss, and restock the account. One sachet of I-M-8 each morning. The B vitamins, magnesium, bisque, lysonate, and zinc. Plus the gut system, enzymes, spore forming probiotics, postbiotics. That determines whether nutrients absorb at all. Ninety clinically-dosed ingredients. Every dose on the label. NSF certified for sport, so count last week, the real one, cooking glasses included. What's your actual number? Thirty-day money back guarantee whenever you're ready. Link below.
+
+</details>
+<!-- /WAVE7 -->
+
 <!-- WAVE6 -->
 ## Wave 6: Resilia & Smooche live Meta ads (Oct 2026)
 

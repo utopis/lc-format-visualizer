@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@oliverxmedia](https://x.com/oliverxmedia/status/2099359156121825337) · An Arcads demo: one short scene re-rendered in several animation styles, shown side by side and sequenced (Pixar-3D kids in a room, then the same beat in other looks). It shows the core move of the format: keep the script, swap the visual style.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2108585587494019562) · my first real attempt to fully automate video editing using AI this suno song ad was fully edited by the new AI Video Editing tool I am building inter
 - Example: [@Diego_exits](https://x.com/Diego_exits/status/2101991919920243015) · PRIMALQUEEN $6M/mo, 1,019 active ads; normal cartoon ads.
 - Example: [@CEO_Vlad](https://x.com/CEO_Vlad/status/2107328605995077699) · 7 AI UGC animation styles and what each is good for (article).
 - Example: [@ArmandasPuckus](https://x.com/ArmandasPuckus/status/2107781382533472512) · 'Selling to menopausal women with AI animations IS the method'.
@@ -24,7 +25,6 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@therahulissar](https://x.com/therahulissar/status/2099519666045776287) · Break Meta audience cap with format change (same message, new display: AI video, static, lo-fi) and new personas.
 - Example: [@CEO_Vlad](https://x.com/CEO_Vlad/status/2087333716334924071) · Pixar-style AI ads helped $117k day.
 - Example: [@aaliya_va](https://x.com/aaliya_va/status/2098420179403444486) · A product image can now become a 3D ad without starting from scratch. Arcads lets you add your website and product image, pick an animation style and 
-- Example: [@ashen_one](https://x.com/ashen_one/status/2105715646273368159) · if you're using AI to cook ads and you've been doing the claymation meta, the singing meta seems to be next using arcads, you can cook an entire ad in
 
 ### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
 

@@ -1,52 +1,41 @@
 # 04 · AI song / singing story ad (Suno-style music-video ad): see it, then make it
 
-[![The example: storyboard of @lorenzo_pravata's post](example/storyboard.jpg)](https://x.com/lorenzo_pravata/status/2105684266457637009)
+[![The example: storyboard of @LachezarVoynov's post](example/storyboard.jpg)](https://x.com/LachezarVoynov/status/2108585587494019562)
 
-**The example:** [@lorenzo_pravata on X](https://x.com/lorenzo_pravata/status/2105684266457637009) · 1:09 video · 38 likes, 4K views
+**The example:** [@LachezarVoynov on X](https://x.com/LachezarVoynov/status/2108585587494019562) · 2:03 video · 57 likes, 3K views
 
-**Watch it:** [open the post on X](https://x.com/lorenzo_pravata/status/2105684266457637009) · [play the video file](https://video.twimg.com/amplify_video/2105682527071449088/vid/avc1/320x568/cTOP2vDDjHJopLRe.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/LachezarVoynov/status/2108585587494019562) · [play the video file](https://video.twimg.com/ext_tw_video/2108585365560758272/pu/vid/avc1/320x568/SlR3MJ1mgUipB_WQ.mp4?tag=12)
 
-> Pay attention to what this Suno song ad did for a new client Because it runs 4 minutes and it's already the top spender in the account: - it beat the account's ROAS target within 5 days of launch - then it went from $500 to $12K+ in spend in 3 days - the narrator is the body part with the problem, so the whole story is told from the inside - it lists every fix she already tried before the product shows up - the produ…
+> my first real attempt to fully automate video editing using AI this suno song ad was fully edited by the new AI Video Editing tool I am building internally using Claude Code i fed Claude a brief one my creative strategists made 1. An AI creative director broke down the whole storyline of the brief into multiple (100+) coherent scenes 2. Each scene was generated with Nano Banana using a custom prompt 3. Each Nano Bana…
 
 ## What you are seeing
 
-A Pixar-style 3D story about 70 seconds long. A lonely pink character sits by a door under the caption "2 YEARS AND NOBODY LOOKED AT THIS" and narrates ("I'm the one downstairs", "Then one winter", "And she decided I moved out") while a couple lives their life upstairs. It ends with the character wrapped in a blanket: "I'm COLD...". Every line has big centred captions; the product is the quiet answer to the story.
+A 2-minute Pixar-style 3D music video sung in the first person by a woman in her 50s, with word-highlighted lyric captions and roughly 3-second shots. It opens on the wound ("Last night my husband asked me to keep my shirt on / 22 years of marriage"), flashes back to young love, shows the slow fade (the new job, his phone face down), blames her crepey arm skin, runs through failed fixes ($180 firming cream, collagen coffee, dry brush), and stops as her sister arrives with the answer. It was edited end to end by an AI agent pipeline (Nano Banana stills, Kling 3.0 animation, Suno song).
 
 ## Beat by beat
 
-The storyboard above samples the video every 0:08. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
+The storyboard above samples the video every 0:15. Lines are the transcript for that stretch; on-screen text comes from OCR, so treat it as rough.
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:08 | YEARS AND NOBODY LOOKED AT THIS and not one person has … checked on me. | Two years, two years and not one person is checked on me. |
-| 2 | 0:08–0:17 | · | Okay, so nobody's gonna ask, so I'm just gonna tell you. I'm the one downstairs, you haven't heard from, there's a reason. |
-| 3 | 0:17–0:26 | · | · |
-| 4 | 0:26–0:34 | one winter a am | It used to be so loud down here, nobody said anything. |
-| 5 | 0:34–0:43 | · | And she decided I moved. |
-| 6 | 0:43–0:52 | a Nobody asked how I'm doing down here. a | · |
-| 7 | 0:52–1:00 | · | Okay, so the woman... |
-| 8 | 1:00–1:09 | · | · |
+| 1 | 0:00–0:15 | · | · |
+| 2 | 0:15–0:30 | years, a a | · |
+| 3 | 0:30–0:46 | · | · |
+| 4 | 0:46–1:01 | · | · |
+| 5 | 1:01–1:17 | · | · |
+| 6 | 1:17–1:32 | · | · |
+| 7 | 1:32–1:47 | 4? was fighting | · |
+| 8 | 1:47–2:03 | · | · |
 
-<details><summary>Full transcript (timestamped)</summary>
-
-- `0:00` Two years, two years and not one person is checked on me.
-- `0:07` Okay, so nobody's gonna ask, so I'm just gonna tell you.
-- `0:12` I'm the one downstairs, you haven't heard from, there's a reason.
-- `0:20` It used to be so loud down here, nobody said anything.
-- `0:36` And she decided I moved.
-- `0:38` Okay, so the woman...
-
-</details>
-
-## More real examples (7)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@lifemaximised](example/more/2100659903488819256.jpg)](https://x.com/lifemaximised/status/2100659903488819256)<br>**@lifemaximised** · 4:54 video · 5K views<br>RYZE ($25M+/mo) AI song ad library breakdown. | [![@therahulissar](example/more/2102465180567543939.jpg)](https://x.com/therahulissar/status/2102465180567543939)<br>**@therahulissar** · image · 3K views<br>4-min AI song video, product not revealed until minute 3 - winner. | [![@mkwizrd](example/more/2088293230450512089.jpg)](https://x.com/mkwizrd/status/2088293230450512089)<br>**@mkwizrd** · image · 6K views<br>Brand reports AI song ad driving big order. |
-| [![@manojbash](example/more/2102083500052795710.jpg)](https://x.com/manojbash/status/2102083500052795710)<br>**@manojbash** · image · 183K views<br>Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a | [![@Diego_exits](example/more/2100215847427944464.jpg)](https://x.com/Diego_exits/status/2100215847427944464)<br>**@Diego_exits** · images · 5K views<br>13k Active Meta ads and 17.000.000 MRR 🤯 AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesn | [![@qwertyu_alex](example/more/2107923415650701515.jpg)](https://x.com/qwertyu_alex/status/2107923415650701515)<br>**@qwertyu_alex** · 4:54 video · 670 views<br>there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte |
-| [![@vladdubchak_x](example/more/2107131198145204441.jpg)](https://x.com/vladdubchak_x/status/2107131198145204441)<br>**@vladdubchak_x** · 1:22 video · 207 views<br>You waste hours making one AI song ad because you did not do a timing map A timing map gets claude to listen to the song and map what word is said in |   |   |
+| [![@LachezarVoynov](example/more/2107857984361808065.jpg)](https://x.com/LachezarVoynov/status/2107857984361808065)<br>**@LachezarVoynov** · 7:26 video · 8K views<br>my team just created a 40-page MD file breaking down how to create Suno song ads that rip $200k/mo+ in ad spend. Summary: 1. Suno songs are not songs. | [![@lifemaximised](example/more/2100659903488819256.jpg)](https://x.com/lifemaximised/status/2100659903488819256)<br>**@lifemaximised** · 4:54 video · 5K views<br>RYZE ($25M+/mo) AI song ad library breakdown. | [![@therahulissar](example/more/2102465180567543939.jpg)](https://x.com/therahulissar/status/2102465180567543939)<br>**@therahulissar** · image · 3K views<br>4-min AI song video, product not revealed until minute 3 - winner. |
+| [![@mkwizrd](example/more/2088293230450512089.jpg)](https://x.com/mkwizrd/status/2088293230450512089)<br>**@mkwizrd** · image · 6K views<br>Brand reports AI song ad driving big order. | [![@manojbash](example/more/2102083500052795710.jpg)](https://x.com/manojbash/status/2102083500052795710)<br>**@manojbash** · image · 183K views<br>Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a | [![@Diego_exits](example/more/2100215847427944464.jpg)](https://x.com/Diego_exits/status/2100215847427944464)<br>**@Diego_exits** · images · 5K views<br>13k Active Meta ads and 17.000.000 MRR 🤯 AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesn |
+| [![@qwertyu_alex](example/more/2107923415650701515.jpg)](https://x.com/qwertyu_alex/status/2107923415650701515)<br>**@qwertyu_alex** · 4:54 video · 670 views<br>there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte | [![@vladdubchak_x](example/more/2107131198145204441.jpg)](https://x.com/vladdubchak_x/status/2107131198145204441)<br>**@vladdubchak_x** · 1:22 video · 207 views<br>You waste hours making one AI song ad because you did not do a timing map A timing map gets claude to listen to the song and map what word is said in |   |
 
 ## How to make one like it
 
@@ -62,14 +51,14 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:04 | Two years, two years and not one person is checked on me. | … |
-| 2 | 0:13 | Okay, so nobody's gonna ask, so I'm just gonna tell you. I'm the one downstairs, you haven't heard from, there's a reason. | … |
-| 3 | 0:21 | (visual beat, see frame 3) | … |
-| 4 | 0:30 | It used to be so loud down here, nobody said anything. | … |
-| 5 | 0:39 | And she decided I moved. | … |
-| 6 | 0:47 | on screen: a Nobody asked how I'm doing down here. a | … |
-| 7 | 0:56 | Okay, so the woman... | … |
-| 8 | 1:05 | (visual beat, see frame 8) | … |
+| 1 | 0:07 | (visual beat, see frame 1) | … |
+| 2 | 0:23 | on screen: years, a a | … |
+| 3 | 0:38 | (visual beat, see frame 3) | … |
+| 4 | 0:54 | (visual beat, see frame 4) | … |
+| 5 | 1:09 | (visual beat, see frame 5) | … |
+| 6 | 1:24 | (visual beat, see frame 6) | … |
+| 7 | 1:40 | on screen: 4? was fighting | … |
+| 8 | 1:55 | (visual beat, see frame 8) | … |
 
 ### 2. Shot-by-shot remake
 
@@ -166,7 +155,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: the Resilia / Smooche sung-drama VSL blueprint](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
+Newer observations live in the playbook: [Wave 2d update: the Resilia / Smooche sung-drama VSL blueprint](README.md) · [Wave 7: Lachezar Voynov's automated Suno-song pipeline + the "keep my shirt on" song (Oct 9, 2026)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

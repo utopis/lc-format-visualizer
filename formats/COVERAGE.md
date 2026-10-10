@@ -58,9 +58,9 @@ Scroll-stopping ads to people who have never heard of Louise Carter.
 
 | # | Format | Example match | Real examples | LC status |
 |---|---|---|---|---|
-| 04 | [AI song / singing story ad (Suno-style music-video ad)](04-ai-song-ad/EXAMPLE.md) | exact | 31 | Concepts: drafted (LC) |
-| 05 | [AI animation format swap (Claymation, Pixar-3D, Zach-Films 2nd-person, Skeleton, Chalkboard, Brick, Tiny-characters)](05-ai-animation-format-swap/EXAMPLE.md) | exact | 29 | Concepts: drafted (LC) |
-| 06 | [AI UGC talking-head (avatar) — and its realism stack](06-ai-ugc-talking-head/EXAMPLE.md) | exact | 37 | Concepts: drafted (LC) |
+| 04 | [AI song / singing story ad (Suno-style music-video ad)](04-ai-song-ad/EXAMPLE.md) | exact | 32 | Concepts: drafted (LC) |
+| 05 | [AI animation format swap (Claymation, Pixar-3D, Zach-Films 2nd-person, Skeleton, Chalkboard, Brick, Tiny-characters)](05-ai-animation-format-swap/EXAMPLE.md) | exact | 30 | Concepts: drafted (LC) |
+| 06 | [AI UGC talking-head (avatar) — and its realism stack](06-ai-ugc-talking-head/EXAMPLE.md) | exact | 38 | Concepts: drafted (LC) |
 | 10 | [Shock-headline typographic static (story headline + product block)](10-shock-headline-text-static/EXAMPLE.md) | exact | 4 | Concepts: drafted (LC) |
 | 14 | [In-car / "yapper" confession talking head](14-in-car-yapper-confession/EXAMPLE.md) | exact | 16 | Concepts: drafted (LC) |
 | 18 | [Green-screen reaction over a proven winner + reply-to-comment overlay](18-green-screen-reaction-and-comment-reply/EXAMPLE.md) | exact | 17 | Concepts: drafted (LC) |

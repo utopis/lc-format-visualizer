@@ -32,6 +32,8 @@ related_strategies: [33-animated-brand-character-ads, 36-owned-winner-video-remi
 
 
 
+
+
 ## What it looks like
 Same script/angle as a proven ad, re-rendered in an animated style. Styles and their jobs (from @CEO_Vlad's 7-styles chart and tier list):
 | Style | Good for | Why |
@@ -73,6 +75,11 @@ Pick LC's top-spending ad of last 30 days → 3 styles (chalkboard, claymation, 
 - **Villain monologue:** the problem as a character (for LC: "Tarnish") who fails against the product.
 - **7-step pipeline:** research → swipe with a volume filter → script in Claude in separate steps → storyboard → generate frames first → animate (direct shots, don't describe scenes) → assemble. @markbuildsbrand tutorial: GetHookd → download → Claude → Higgsfield.
 - **Evidence:** Numoya Pixar-style 58-year-old narrator VSL, 96 days live, 123 brand ads; AI & CGI board 407 ads; "Cartoon AI ad… people know it's not real and STILL BUY" (66 days).
+
+<!-- W7NOTE -->
+## Wave 7 update: Lachezar Voynov (Oct 9, 2026)
+- **Wave 7 (Oct 9):** Pixar-3D is the default look for agent-built Suno song ads: Nano Banana stills → Kling 3.0 animation, about 3 s per shot, 40-140 shots ([@LachezarVoynov](https://x.com/LachezarVoynov/status/2108585587494019562); pipeline in F04 wave 7). Lock a character sheet, because faces drift by around shot 10 (replies).
+<!-- /W7NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

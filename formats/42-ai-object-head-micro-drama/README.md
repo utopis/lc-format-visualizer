@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P3** · evidence: Low-Med (claims from tool promos) · hype risk: High · cost $50-200 per episode (AI) · 3-6 h
 
 ## What it is

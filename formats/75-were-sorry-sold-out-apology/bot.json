@@ -81,11 +81,25 @@
  ],
  "paid_ads": [
   {
+   "title": "Azure Boutique: Buy 1 Get 1 FREE!",
+   "days": 116,
+   "image": "adlibrary/w7_2420403401791240.jpg",
+   "what": "\"Our warehouse is overflowing with Batana oil, so we are basically giving them away. We made way too many for our spring promotion.\" Pallets of jars, then a mechanism animation (oil into the scalp), then results.",
+   "how": "Show the warehouse hook, the origin and purity line, a 3-shot mechanism, results, and BOGO."
+  },
+  {
    "title": "Smooche · Smooche: “We f*cked up”",
    "days": 100,
    "image": "adlibrary/w6_1974572333261252.jpg",
    "what": "\"We f*cked up.\" A letter-style apology for over-ordering, with a warehouse photo of pink boxes and a \"60% off\" button. Served through a catalog-template slot.",
    "how": "Write a letter-style static: an admission, the reason (we over-ordered, or we sold out), the fix (the discount), and a sign-off. A warehouse photo makes it believable."
+  },
+  {
+   "title": "Koriderm: Prime Day Sale: Buy 1 Get 2 Free",
+   "days": 9,
+   "image": "adlibrary/w7_1108901422098291.jpg",
+   "what": "A warehouse full of boxes: \"We are literally running out of places to put these boxes… For Prime Day, buy one and get two products free.\" Staff unbox the bundle on camera.",
+   "how": "Shoot in a real stockroom with a team member: \"We over-ordered\", then what you get (an itemised unbox), and the deadline."
   },
   {
    "title": "Resilia · Resilia: “We're so sorry!”",

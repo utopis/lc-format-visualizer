@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (vendor + brand case studies) · hype risk: Low · cost $0 · 30 min + quiz build
 
 ## What it is

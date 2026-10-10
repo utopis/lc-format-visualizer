@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P0** · evidence: High (operator: top spender across accounts) · hype risk: Low · cost $0-150 · 1-2 h
 
 ## What it is
@@ -107,6 +109,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 11-social-proof-credibility-engine, 41-von-restorff-static-copy-prompt
 - Formats: [35-diagram-statics-venn-report-card](../35-diagram-statics-venn-report-card/README.md), [39-x-reasons-why](../39-x-reasons-why/README.md), [51-quiz-guess-game](../51-quiz-guess-game/README.md)
+
+<!-- W7NOTE -->
+## Wave 7 update: Lachezar Voynov (Oct 9, 2026)
+- **Wave 7 (Oct 9):** in [@LachezarVoynov's authority whiteboard example](https://x.com/LachezarVoynov/status/2105679883300987071), the ranking is the body of the script: 2/10, 4/10, 6/10, "a hundred out of ten". Each low score gets a funny one-line put-down ("she's the same water… wearing a nicer jar and a French accent"), and the winner gets the mechanism. Use the put-down device.
+<!-- /W7NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

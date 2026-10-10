@@ -33,6 +33,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: High (multiple live long-runners; retention caveat) · hype risk: Medium · cost $150-600 per finished ad (AI video + edit) or a real-actor shoot · 1-3 days
 
 ## What it is

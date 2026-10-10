@@ -53,6 +53,13 @@
   },
   {
    "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2108585587494019562",
+   "author": "LachezarVoynov",
+   "note": "my first real attempt to fully automate video editing using AI this suno song ad was fully edited by the new AI Video Editing tool I am building inter",
+   "local": "example/more/2108585587494019562.jpg"
+  },
+  {
+   "kind": "gallery",
    "url": "https://x.com/Diego_exits/status/2101991919920243015",
    "author": "Diego_exits",
    "note": "PRIMALQUEEN $6M/mo, 1,019 active ads; normal cartoon ads.",
@@ -99,13 +106,6 @@
    "author": "aaliya_va",
    "note": "A product image can now become a 3D ad without starting from scratch. Arcads lets you add your website and product image, pick an animation style and ",
    "local": "example/more/2098420179403444486.jpg"
-  },
-  {
-   "kind": "gallery",
-   "url": "https://x.com/ashen_one/status/2105715646273368159",
-   "author": "ashen_one",
-   "note": "if you're using AI to cook ads and you've been doing the claymation meta, the singing meta seems to be next using arcads, you can cook an entire ad in",
-   "local": "example/more/2105715646273368159.jpg"
   }
  ],
  "paid_ads": [

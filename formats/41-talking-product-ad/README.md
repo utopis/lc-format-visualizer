@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (183-day live) · hype risk: Med · cost $20-100 (AI video) · 1-2 h
 
 ## What it is

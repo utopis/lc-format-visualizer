@@ -30,6 +30,8 @@ related_strategies: [08-ad-library-transparency-targeting-intel, 41-von-restorff
 
 
 
+
+
 ## Looks like
 Screen recording of an iPhone scrolling marketplace listings of look-alike products while a VO explains how to tell the difference (materials, plating, reviews mentioning tarnish), then cuts to the real product. ([@Nate_Google_](https://x.com/Nate_Google_/status/2104963469548085713)).
 

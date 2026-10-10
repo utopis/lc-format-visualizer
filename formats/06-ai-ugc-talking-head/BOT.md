@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@frankyecom](https://x.com/frankyecom/status/2105377535345258584) · A run of AI-made and real beauty talking heads: a TV-shopping set ("LIVE MASCARA DEMO"), tight face close-ups that read like UGC, a before/after face and a mannequin head. The speaker talks straight to camera with captions.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107510774583455878) · it's so over these are not real people you're gonna see them in one of my clients' ads the money printers are about to be turned on
 - Example: [@kristian_jennin](https://x.com/kristian_jennin/status/2101352217089282066) · AI UGC looks fake because of a missing step (realism workflow video).
 - Example: [@zedmadeit](https://x.com/zedmadeit/status/2107552798842003488) · Intentional AI ad system starting from brand/product/customer, visuals matched to script.
 - Example: [@eliasrrecom](https://x.com/eliasrrecom/status/2092612451623694388) · Realistic AI UGC ads tutorial.
@@ -24,12 +25,15 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2089713928511345017) · Hike Footwear ad 100% AI.
 - Example: [@CEO_Vlad](https://x.com/CEO_Vlad/status/2108405736245952955) · Audio is what makes AI UGC feel real; one robotic sentence kills it.
 - Example: [@Mho_23](https://x.com/Mho_23/status/2085374858267857069) · Realistic AI UGC with Seedance 2.0 full breakdown (mho_23).
-- Example: [@oliverxmedia](https://x.com/oliverxmedia/status/2104954498565464350) · Realistic AI = reference images + precise prompts + consistent characters + guided motion.
 
-### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
+### Live paid ads in this format (4 in [adlibrary/](adlibrary/README.md), longest-running first)
 
 - **Khazanay Pakistan: Clinic presenter in scrubs (orthopedic shoes)** (338 days live): A woman in navy scrubs in a clinic corridor: "Let me tell you that you don't need a new body. You just need better support… it's not always an injury… unsupported shoes… plantar fasciitis". 70 s, run as 2 near-identical ads.
 - **Blossom Essentials Skin: Short AI-UGC "only balm I'll ever buy" (Blossom Essentials, 3 variants)** (213 days live): Three 24-33 s UGC cuts: "This is the only skin balm I will ever spend money on… I've tried everything, from prescription to specialist." Different women, same script skeleton.
+- **Koriderm: Buy 1 Get 1 Free Today Only!** (133 days live): "Wait, Koriderm is on sale for Valentine's Day? Why didn't anyone tell me this before I paid full price last month? I'm actually annoyed." Then the demo: the cream on the face and an X over the alternatives.
+- **Seora Skincare: Buy 1 Get 1 FREE ✨** (24 days live): A montage of AI-UGC faces with dark spots: "I used to buy a foundation that matched my dark spots, not my skin. Then I tried this Korean brightening cream… in under eight weeks my dark spots actually started fading."
+
+**Do not copy (seen in these live ads):** Many of these "customers" appear AI-generated. Do not present AI people as real customers.
 
 ### Shot list (fill the [brackets])
 

@@ -29,6 +29,8 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks]
 
 
 
+
+
 ## Looks like
 Left: version A of a person's day; right: version B (with product), synced timelines, captions with times.
 

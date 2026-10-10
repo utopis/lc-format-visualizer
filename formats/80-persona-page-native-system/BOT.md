@@ -21,9 +21,10 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@benradack](https://x.com/benradack/status/2078473442714616149) · I consolidated our whitelisting ads into one ad set with our brand videos. My CBO performs better with fewer ad sets running. So instead of keeping wh
 - Example: [@DTC_Quizbuilder](https://x.com/DTC_Quizbuilder/status/2107516274142285842) · Noverly's copy is built around one idea: ED isn't age or testosterone, it's a clogged pipe They sell it through a doctor-bylined listicle The buyer th
 
-### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
+### Live paid ads in this format (4 in [adlibrary/](adlibrary/README.md), longest-running first)
 
 - **Dr Ruth White: Persona-page "this woman found relief" static (Dr Ruth White)** (416 days live): An older woman with a red-glowing knee inset; black bar: "VIRAL: THIS WOMAN FOUND RELIEF FROM DAILY IBUPROFEN WITH JUST ONE TURMERIC SUPPLEMENT · CLICK TO LEARN". Run from the persona page "Dr Ruth White". DCO with 22 media.
+- **The Dodo: The Beckham Standard of Nutrition** (28 days live): David Beckham mixing a drink: "I want to be able to wake up in the morning, mix a drink up, drink it and feel better". Then IM8 brand cards. Posted as a branded-content ad from **The Dodo** page, labelled #ad.
 - **Smooche · Cosmetic Times: “I thought foundation was over for me at 52”** (17 days live): "I thought foundation was over for me at 52": a Smooche first-person ad run from the "Cosmetic Times" page, styled as a beauty publication.
 - **Smooche · Aging Queens Magazine: “I thought foundation was over for me at 52”** (6 days live): "I thought foundation was over for me at 52": the same copy run again from a second persona page, "Aging Queens Magazine".
 

@@ -4,61 +4,70 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/lorenzo_pravata/status/2105684266457637009",
- "author": "lorenzo_pravata",
+ "url": "https://x.com/LachezarVoynov/status/2108585587494019562",
+ "author": "LachezarVoynov",
  "type": "video",
- "duration": 70,
- "mp4": "https://video.twimg.com/amplify_video/2105682527071449088/vid/avc1/320x568/cTOP2vDDjHJopLRe.mp4?tag=29",
- "w": 1080,
- "h": 1920,
+ "duration": 123,
+ "mp4": "https://video.twimg.com/ext_tw_video/2108585365560758272/pu/vid/avc1/320x568/SlR3MJ1mgUipB_WQ.mp4?tag=12",
+ "w": 720,
+ "h": 1280,
  "via_quote": false,
- "likes": 38,
- "views": 3681,
- "seen": "A Pixar-style 3D story about 70 seconds long. A lonely pink character sits by a door under the caption \"2 YEARS AND NOBODY LOOKED AT THIS\" and narrates (\"I'm the one downstairs\", \"Then one winter\", \"And she decided I moved out\") while a couple lives their life upstairs. It ends with the character wrapped in a blanket: \"I'm COLD...\". Every line has big centred captions; the product is the quiet answer to the story.",
+ "likes": 57,
+ "views": 3447,
+ "seen": "A 2-minute Pixar-style 3D music video sung in the first person by a woman in her 50s, with word-highlighted lyric captions and roughly 3-second shots. It opens on the wound (\"Last night my husband asked me to keep my shirt on / 22 years of marriage\"), flashes back to young love, shows the slow fade (the new job, his phone face down), blames her crepey arm skin, runs through failed fixes ($180 firming cream, collagen coffee, dry brush), and stops as her sister arrives with the answer. It was edited end to end by an AI agent pipeline (Nano Banana stills, Kling 3.0 animation, Suno song).",
  "match": "exact",
  "beats": [
   {
-   "t": "0:04",
-   "said": "Two years, two years and not one person is checked on me.",
-   "ocr": "YEARS AND NOBODY LOOKED AT THIS and not one person has \u2026 checked on me."
-  },
-  {
-   "t": "0:13",
-   "said": "Okay, so nobody's gonna ask, so I'm just gonna tell you. I'm the one downstairs, you haven't heard from, there's a reason.",
-   "ocr": ""
-  },
-  {
-   "t": "0:21",
+   "t": "0:07",
    "said": "",
    "ocr": ""
   },
   {
-   "t": "0:30",
-   "said": "It used to be so loud down here, nobody said anything.",
-   "ocr": "one winter a am"
-  },
-  {
-   "t": "0:39",
-   "said": "And she decided I moved.",
-   "ocr": ""
-  },
-  {
-   "t": "0:47",
+   "t": "0:23",
    "said": "",
-   "ocr": "a Nobody asked how I'm doing down here. a"
+   "ocr": "years, a a"
   },
   {
-   "t": "0:56",
-   "said": "Okay, so the woman...",
+   "t": "0:38",
+   "said": "",
    "ocr": ""
   },
   {
-   "t": "1:05",
+   "t": "0:54",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:09",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:24",
+   "said": "",
+   "ocr": ""
+  },
+  {
+   "t": "1:40",
+   "said": "",
+   "ocr": "4? was fighting"
+  },
+  {
+   "t": "1:55",
    "said": "",
    "ocr": ""
   }
  ],
  "more": [
+  {
+   "id": "2107857984361808065",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/2107857984361808065",
+   "thumb": "example/more/2107857984361808065.jpg",
+   "kind": "7:26 video",
+   "cap": "my team just created a 40-page MD file breaking down how to create Suno song ads that rip $200k/mo+ in ad spend. Summary: 1. Suno songs are not songs.",
+   "views": 7791
+  },
   {
    "id": "2100659903488819256",
    "author": "lifemaximised",

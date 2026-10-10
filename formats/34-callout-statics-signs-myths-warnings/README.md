@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: High (1,525-day + 200-day live ads) · hype risk: Low · cost $0 · 15-30 min
 
 ## What it is

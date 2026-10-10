@@ -16,7 +16,8 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 
 ### Real references (study before writing)
 
-- **Main example**: [@lorenzo_pravata](https://x.com/lorenzo_pravata/status/2105684266457637009) · A Pixar-style 3D story about 70 seconds long. A lonely pink character sits by a door under the caption "2 YEARS AND NOBODY LOOKED AT THIS" and narrates ("I'm the one downstairs", "Then one winter", "And she decided I moved out") while a couple lives their life upstairs. It ends with the character wrapped in a blanket: "I'm COLD...". Every line has big centred captions; the product is the quiet ans
+- **Main example**: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2108585587494019562) · A 2-minute Pixar-style 3D music video sung in the first person by a woman in her 50s, with word-highlighted lyric captions and roughly 3-second shots. It opens on the wound ("Last night my husband asked me to keep my shirt on / 22 years of marriage"), flashes back to young love, shows the slow fade (the new job, his phone face down), blames her crepey arm skin, runs through failed fixes ($180 firm
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107857984361808065) · my team just created a 40-page MD file breaking down how to create Suno song ads that rip $200k/mo+ in ad spend. Summary: 1. Suno songs are not songs.
 - Example: [@lifemaximised](https://x.com/lifemaximised/status/2100659903488819256) · RYZE ($25M+/mo) AI song ad library breakdown.
 - Example: [@therahulissar](https://x.com/therahulissar/status/2102465180567543939) · 4-min AI song video, product not revealed until minute 3 - winner.
 - Example: [@mkwizrd](https://x.com/mkwizrd/status/2088293230450512089) · Brand reports AI song ad driving big order.
@@ -121,6 +122,21 @@ test: {channel: "...", budget: "...", success_metric: "..."}
 
 - No fake reviews, fake customers, undisclosed AI people presented as real customers, or invented stats. Disclose AI where the platform requires it.
 - Follow `../_COMPLIANCE.md` and the brand's claim rules.
+
+<!-- PIPELINE -->
+## Automated production pipeline (agent-ready)
+Based on the Voynov pipeline (brief → scene agent → Nano Banana → Kling 3.0 → Suno → code-assembled edit → Frame.io review loop). Run the steps in order and save each artifact.
+1. **brief.json:** avatar (age, life stage, deepest fear), wound line, what was lost, failed fixes (3-5 real alternatives), mentor (close and credible), product truth (approved claims only), offer, CTA, target length (2, 4 or 7 min).
+2. **lyrics.md:** the 9 beats (wound hook → what was lost → fade → self-blame → failed fixes → rock bottom → mentor → product plus week-by-week change → vindication that reverses the hook). Name the product once, after the mentor beat, then a spoken offer of up to 25 words. Write 3 alternative hooks for the same body.
+3. **characters.json:** one sheet per recurring character (face, hair, age, wardrobe per act, art style) plus 3 reference images. Every scene prompt must cite the sheet ID, because drift starts around shot 10.
+4. **scenes.json:** one row per shot: `{n, start, dur (2-4 s, avg 3), lyric_words, visual, camera, characters[], must_not_change[], product_shot (bool)}`. Product shots use real product footage, never AI-rendered product.
+5. **Images:** Nano Banana, one per scene, using the character references. **Video:** Kling 3.0 image-to-video for each image, 5 s, then trim to dur.
+6. **Song:** Suno (commercial-rights plan) from the lyrics, with the genre chosen for the avatar (soul ballad, country, pop). Generate 6+ takes and pick by the clarity of the hook.
+7. **Assemble:** cut on the beat, with word-highlight lyric captions in the middle third, and export 9:16 plus 4:5. A human checks the timing against the syllables.
+8. **Review loop:** post to the review tool. Each comment becomes a scoped revision prompt for the affected scenes only. Acknowledge the webhook at once, queue the render, and dedupe retries. Cap at 4 rounds.
+9. **Variants:** re-cut the same song with each alternative hook, and re-cast the characters for 2-3 personas (F97).
+**Fail the build if** the product appears before the mentor beat, any shot runs over 5 s without a cut, characters drift (a face mismatch between acts), there is a health or body claim not on the approved list, or the AI label is missing.
+<!-- /PIPELINE -->
 
 ## Format DNA (from the playbook)
 

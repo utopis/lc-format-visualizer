@@ -33,6 +33,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: High (the core of the highest-volume account in DTC) · hype risk: Medium · cost $50-150 per creator take · 1 week for 8 takes
 
 ## What it is
@@ -99,6 +101,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 03-creative-volume-flooding, 34-persona-archetype-ai-ugc-engine
 - Formats: [43-hudson-method-creator-swarm](../43-hudson-method-creator-swarm/README.md), [05-ai-animation-format-swap](../05-ai-animation-format-swap/README.md), [77-ugc-voiceover-hook-swap-remix](../77-ugc-voiceover-hook-swap-remix/README.md)
+
+<!-- W7NOTE -->
+## Wave 7 update: Lachezar Voynov (Oct 9, 2026)
+- **Wave 7 (Oct 9):** the "keep my shirt on" Suno song posted by [@LachezarVoynov](https://x.com/LachezarVoynov/status/2108585587494019562) as an agent-edited ad runs live as 3 Resilia ads (Resilia and "Midlife Wellness Journal" pages, all 4:49, started 2026-10-08). Two more ads from the same batch swap only the opening wound ("I put on lingerie…", "He wouldn't hold my hand in public") over the same middle verses. That is persona-swap cloning applied to a song: keep the body, swap the hook and the cast. Voynov's arithmetic for why this volume exists: 26 creative pods × 15 concepts × 3 variations is at least 1,170 new ads a week ([post](https://x.com/LachezarVoynov/status/2107135814585000273)). His pod = 1 strategist + 3-4 editors, with a shared coordinator, PM and designer ([post](https://x.com/LachezarVoynov/status/2107872077567111537)).
+<!-- /W7NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

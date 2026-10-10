@@ -60,6 +60,15 @@
  ],
  "more": [
   {
+   "id": "2107510774583455878",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/2107510774583455878",
+   "thumb": "example/more/2107510774583455878.jpg",
+   "kind": "0:10 video",
+   "cap": "it's so over these are not real people you're gonna see them in one of my clients' ads the money printers are about to be turned on",
+   "views": 2764
+  },
+  {
    "id": "2101352217089282066",
    "author": "kristian_jennin",
    "url": "https://x.com/kristian_jennin/status/2101352217089282066",
@@ -121,15 +130,6 @@
    "kind": "12:00 video",
    "cap": "Realistic AI UGC with Seedance 2.0 full breakdown (mho_23).",
    "views": 8464
-  },
-  {
-   "id": "2104954498565464350",
-   "author": "oliverxmedia",
-   "url": "https://x.com/oliverxmedia/status/2104954498565464350",
-   "thumb": "example/more/2104954498565464350.jpg",
-   "kind": "0:25 video",
-   "cap": "Realistic AI = reference images + precise prompts + consistent characters + guided motion.",
-   "views": 4826
   }
  ]
 }

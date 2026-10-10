@@ -13,10 +13,12 @@ related_strategies: [32-drama-show-ads-hidden-storyline, 33-animated-brand-chara
 # 04 · AI song / singing story ad
 
 <!-- HERO:START -->
-[![Featured example: @lorenzo_pravata](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @LachezarVoynov](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/lorenzo_pravata/status/2105684266457637009)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/LachezarVoynov/status/2108585587494019562)
 <!-- HERO:END -->
+
+
 
 
 
@@ -76,6 +78,46 @@ Cost ~$10-60 + 2-4h. Make 3 songs per concept (different genres), not 30 hook va
 - **Counter-signals:** @ErJithin (Oct 6) sees song ads losing top impression rank to BOF statics in Resilia and Koriderm libraries; @TheIvanKreimer measured 90-95% drop-off before the product. Plan song ads as one lane, not the account.
 - **Revenue claims:** Resilia "$14M from song ads" (Maxfusion), "$10-15M/month" (@lorenzo_pravata), "$20-30M/month" (X replies), "$36M/month" (@MaximilianMoj; BrandSearch estimate $19.9-36.1M/mo); Smooche "$22M/month" (@EcomSapo; BrandSearch $11.9-21.7M; EcomScout $2.9-7.2M). _Revenue figures are self-reported or third-party estimates and are unverified._
 - Spoken (non-sung) version: **F91**. Foreign-insider mechanism: **F92**.
+
+<!-- WAVE7 -->
+## Wave 7: Lachezar Voynov's automated Suno-song pipeline + the "keep my shirt on" song (Oct 9, 2026)
+Source: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2108585587494019562) (an agency producing Meta creatives for 7- to 9-figure DTC brands; he says it oversees $25M/month in Meta spend). The example on this format's page is his 2:03 cut.
+
+**The ad:** Pixar-style 3D, a woman in her 50s, sung first person, with word-highlighted lyric captions. The beats in his cut:
+| Time | Beat | Lyric |
+|---|---|---|
+| 0:00 | Wound hook | "Last night my husband asked me to keep my shirt on. 22 years of marriage, and that's what we've come to." |
+| 0:20 | What was lost | "We met when we were 24… he couldn't keep his hands off me in a kitchen full of people" |
+| 0:36 | The fade | "A new job, the lunches he never mentioned, his phone face down on the counter, the lights going off first" |
+| 1:04 | Blaming the body | "So I blame my body. The skin of my arms… crepey, my sister calls it" |
+| 1:24 | Failed fixes | "The firming cream at $180, the collagen in my coffee, the body lotion that promised elasticity, the dry brush" |
+| 1:38 | Rock bottom | "It felt like I was fighting my own body. And losing… He never looked." |
+| 1:56 | Mentor arrives | "And my sister came over, and she saw it on my face…" (his cut ends here, before the product) |
+
+**It is live on Meta.** The same lyrics ("One night my husband asked me to keep my shirt on…") run as at least 3 Resilia oil-of-oregano ads that started 2026-10-08, from the Resilia and "Midlife Wellness Journal" pages, at 4:49 each. Two more ads from the same batch keep the middle verses and swap the opening wound: "I put on lingerie… he said he wasn't feeling well" (4:15) and "My husband wouldn't hold my hand in public anymore" (4:31). The visuals are re-cast with different protagonists. So one song is re-cut with new hooks and re-cast (F97), and the long Meta version carries the mechanism, the week-by-week change, the vindication and the offer after the mentor beat (see F04/F97 adlibrary, wave 6).
+
+**His pipeline (agent-built in Claude Code):**
+1. A strategist writes a brief, and an "AI creative director" agent splits the storyline into 100+ coherent scenes.
+2. Each scene becomes a Nano Banana image from a custom prompt.
+3. Each image is animated with Kling 3.0 (image-to-video).
+4. The Suno song is generated automatically from the lyrics.
+5. The agent assembles the cut and adds captions in code.
+6. Review happens in Frame.io: strategists' comments become revision prompts. This ad needed 4 revision rounds.
+- Cost side: he says the agency spent $35K/month on Higgsfield and is moving generation to an aggregator API (Kie.ai), expecting about 40% lower cost ([post](https://x.com/LachezarVoynov/status/2108263460005875769)).
+- What practitioners flagged in the replies: **character drift** across Kling shots by about scene 10, so lock a character sheet and reference images per shot. **The brief quality decides the output** more than the model does. **A machine-cut song needs human timing**: cut on the beat and the syllable. In the scene split, output each shot's duration, continuity notes and "must not change" items *before* generating. For the Frame.io webhook, persist the job and acknowledge before rendering, or retries spawn duplicate renders.
+
+**His Suno rules** (from his team's "40-page MD file", [post](https://x.com/LachezarVoynov/status/2107857984361808065), with a 7:26 Resilia example):
+1. A Suno song is not a song. It is long-form emotional storytelling for cold (top-of-funnel) audiences who have no intention of buying.
+2. Nothing matters more than the hook: highly specific, highly relatable, a shocking moment that hits the audience's deepest fear.
+3. The average clip is about **3 seconds** (a 2-min cut is about 40 shots, and a 7-min cut is about 140).
+4. Length doesn't matter: 3-min and 10-min winners can spend at similar levels.
+5. Every winner has **9 elements** in a hero's-journey arc. He did not publish the list. Our reconstruction from his two examples: (1) wound hook, (2) what was lost, (3) the slow fade or suspicion, (4) self-blame, (5) failed fixes, (6) rock bottom, (7) a close mentor, (8) the mechanism plus the week-by-week change, (9) vindication that reverses the hook, followed by a spoken offer and CTA ("70% off, 30-day money back… get your wife back").
+- He also says top-of-funnel winners need a **higher CPA tolerance**: judge them by the share of new visitors they bring, not blended ROAS ([post](https://x.com/LachezarVoynov/status/2105679883300987071)).
+- His format lists name two song sub-variants: "AI Musicals" and the "Text-messages AI song" (lyrics over a phone chat). See F103 for the chat look.
+
+**LC version:** "She asked me to take my necklace off for the photos" (bride's mother, ballad). The beats are wound → the jewelry that always turned green → failed fixes (clear nail polish, taking it off for every shower) → a sister gives her the LC chain → 6 months of showers, a pool and a wedding → vindication at the wedding photo, then "Any 7 for $85". Use the pipeline above with a locked character sheet, real LC product footage for every product shot, and an AI-content label.
+**Do not copy:** body-shaming hooks, invented health mechanisms ("parasites building walls"), and posting the song from pages posing as independent journals (see F80/F97).
+<!-- /WAVE7 -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

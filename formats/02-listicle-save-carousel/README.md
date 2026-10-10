@@ -32,6 +32,8 @@ related_strategies: [01-viral-slideshow-recreation, 06-keyword-named-products-so
 
 
 
+
+
 ## What it looks like
 Cover slide with a big, warm "for you" headline over a hero image ("High protein dinner ideas FOR YOU", "5 weeknight dinners for your lazy ass", "dinners to make for your husband this week") then **one item per slide**, each a beautiful photo + 1-line label. Product/app line sits in bio ("Get our app with all 500+ recipes") or on the last slide ("all of this, in your pocket"). Example account: @success.fitness — 1.4M followers, 25.4M likes, posts at 16-42M views ([@rsalimx](https://x.com/rsalimx/status/2108259483902513153)).
 

@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0-50 · 30 min
 
 ## What it is
@@ -93,6 +95,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 19-content-hub-blog-to-product, 41-von-restorff-static-copy-prompt
 - Formats: [58-educational-care-material-explainer](../58-educational-care-material-explainer/README.md), [35-diagram-statics-venn-report-card](../35-diagram-statics-venn-report-card/README.md)
+
+<!-- W7NOTE -->
+## Wave 7 update: Lachezar Voynov (Oct 9, 2026)
+- **Wave 7 (Oct 9):** in the "what scales" post, [@LachezarVoynov](https://x.com/LachezarVoynov/status/2105679883300987071) names "authority figures explaining a problem" as one of three top-of-funnel unlocks (with story scripts and Suno songs). His example (2:37): a silver-haired aesthetician at a whiteboard of arm-skin sketches opens with "If the skin on your arms looks like this, and you are somewhere between 50 and 70, listen to me honey". She then grades alternatives: drugstore lotion 2/10 ("you're watering a plastic plant"), $89 firming cream 4/10, a spa 6/10, the body oil "a hundred out of ten". Then the mechanism ("the seal of your skin is made of oil, so she is made of oil"), the ritual (3 drops on damp skin), and the offer (50% off, $28, 30-day guarantee, "200,000 women"). This is whiteboard + tier list (F31) in one script. LC version: a jeweller at a whiteboard sketch of plating layers grades brass, vermeil, sterling and LC PVD.
+<!-- /W7NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)

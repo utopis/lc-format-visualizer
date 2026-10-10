@@ -21,13 +21,14 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@ItsDuntee](https://x.com/ItsDuntee/status/2102309812109193718) · 🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 Sept
 - Example: [@kabiwinter](https://x.com/kabiwinter/status/2095851837312122988) · #AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from s
 
-### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
+### Live paid ads in this format (7 in [adlibrary/](adlibrary/README.md), longest-running first)
 
+- **Seora Skincare: Buy 1 Get 1 FREE ✨** (206 days live): A 16 s loop: hands hold two tubes under a "BUY 1 GET 1 FREE · 4 HOURS LEFT" banner while the VO says "This is going to be the last day… they end the sale at midnight."
+- **The Dodo: Now's the Time to Try IM8.** (28 days live): "Go take your coupons. I just saw on the back end what people are paying for this right now…" A UGC unbox of the box and sachets. Run from **The Dodo** page (#ad).
 - **Smooche · Smooche: “I must stop. I got one model of the Smooch Color Changing Foundation…”** (6 days live): Opens: “I must stop. I got one model of the Smooch Color Changing Foundation.”
 - **Resilia · Vascular Wellness Report: “I'm the founder of Resilia, and I just got to go to the gym where I…”** (1 days live): Opens: “I'm the founder of Resilia, and I just got to go to the gym where I never thought I'd prove. We overproduced.”
 - **Resilia · Active Longevity Review: “Last chance, everyone… this deal doesn't come around often and if you…”** (1 days live): Opens: “Last chance, everyone… this deal doesn't come around often and if you don't move quick, it'll be gone before you know it. These are the final hours.”
 - **Resilia · Arterial Health Review: “Yes, the A ends today. Yes, this sale ends today. This is your last…”** (1 days live): Opens: “Yes, the A ends today. Yes, this sale ends today.”
-- **Resilia · Natural Defense Report: “This is your final warning. Today is the absolute last day to grab…”**: Opens: “This is your final warning. Today is the absolute last day to grab Brasilias ore.”
 
 **Do not copy (seen in these live ads):** Only use a deadline that is real.
 

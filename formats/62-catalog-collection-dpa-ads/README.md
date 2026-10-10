@@ -35,6 +35,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Med-High (platform case studies) · hype risk: Low · cost $0 creative (catalog), setup time · setup 1-2 days
 
 ## What it is
