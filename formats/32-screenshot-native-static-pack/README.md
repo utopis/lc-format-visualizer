@@ -38,6 +38,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P0** · evidence: High (CPM data + every static list) · hype risk: Low · cost $0 (Figma/AI image) · 15-30 min per static
 
 ## What it is

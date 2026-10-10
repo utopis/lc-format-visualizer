@@ -36,6 +36,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Medium-High (live long-runner + strategist teardown) · hype risk: Medium · cost $0-150 · 2-4 h
 
 ## What it is

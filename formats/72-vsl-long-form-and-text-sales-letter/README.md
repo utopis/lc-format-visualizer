@@ -38,6 +38,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: High (multi-year live ads, large boards) · hype risk: Medium · cost $200-2,000 · 1-2 weeks
 
 ## What it is

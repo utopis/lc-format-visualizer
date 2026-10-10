@@ -32,6 +32,8 @@ related_strategies: [27-satisfying-product-loop-recordings]
 
 
 
+
+
 ## Looks like
 Camera = viewer's eyes; hands wearing the product doing real things; a narrative tension (will it survive?).
 

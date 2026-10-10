@@ -36,6 +36,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P3** · evidence: Medium-High (live ads; ethics risk) · hype risk: Medium · cost $0-200 (real) / $50 (AI, not recommended) · half day
 
 ## What it is

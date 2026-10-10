@@ -38,6 +38,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Med-High (in 4 independent format lists) · hype risk: Low · cost $0-50 (photo + handwriting or AI) · 20 min
 
 ## What it is

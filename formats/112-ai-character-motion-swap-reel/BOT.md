@@ -17,10 +17,13 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@kelmruns](https://x.com/kelmruns/status/2107508612058747114) · A 9-second vertical reel of an AI-generated gym bro with a giant blonde two-foot quiff, swapped with Seedance 2.5 into crowded real-world clips (a cowboy bar, a bowling alley, riding a lawn mower) with a hype soundtrack. The caption is one ego line: "ladies you all look lovely tonight, but i look better". The poster claims the 2-day-old account reached 26K followers and 2.2M likes in 48 hours and 
+- Example: [@k4zxbt](https://x.com/k4zxbt/status/2108240597421084694) · your local pub is an AI influencer now a small-town US bar made $16,720 off one AI trickshot clip > ask ChatGPT for the most impossible pool shot it c
+- Example: [@k4zxbt](https://x.com/k4zxbt/status/2106342154452779278) · this giant Tokyo girl made with ChatGPT got 23.6M views and $11,200 on one clip > generate tall girl character with ChatGPT > pick spots built for sho
+- Example: [@k4zxbt](https://x.com/k4zxbt/status/2108659775206756837) · real or AI, nobody can tell anymore these twins got 2.5M likes and $14,339 remaking the creepiest meme online > generate two identical girls in long b
 - Example: [@kelmruns](https://x.com/kelmruns/status/2108656084890349694) · the internet is so cooked this AI wednedsay made with GPT Astra 6 got 67.4M views and $27,433 on one clip > generate a pale girl with two black braids
 - Example: [@kelmruns](https://x.com/kelmruns/status/2108258506801299744) · influencers are dead this AI freak DJ made with GPT Astra 6 got 9.9M views and $19,433 on one clip > generate a guy in a grey suit with a mushroom bow
+- Example: [@k4zxbt](https://x.com/k4zxbt/status/2106690716109885936) · dead internet theory is real AI conjoined twins made with ChatGPT got 125k likes and $7,800 on one clip > generate one body with two faces in ChatGPT 
 - Example: [@kelmruns](https://x.com/kelmruns/status/2107886356496097561) · is this a f*cking joke? this AI short king made with ChatGPT got 3.9M views and $17,339 on 1 week from tiktok > generate a short chubby guy with a bow
-- Example: [@kelmruns](https://x.com/kelmruns/status/2107165250868937035) · twins maded by Astra 6 make u millionaire in 2027 these AI influencer made with ChatGPT got 823K followers and $14,500 from one brand deal > generate 
 
 ### Shot list (fill the [brackets])
 

@@ -38,6 +38,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P0** · evidence: High (operator: top spender across accounts) · hype risk: Low · cost $0-150 · 1-2 h
 
 ## What it is

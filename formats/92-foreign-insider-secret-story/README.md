@@ -36,6 +36,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: High (one $1M/mo ad + a brand-wide pattern) · hype risk: Medium · cost $0-300 · half day
 
 ## What it is

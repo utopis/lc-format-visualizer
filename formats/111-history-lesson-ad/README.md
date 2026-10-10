@@ -21,6 +21,8 @@ added: 2026-10-09 (wave 8: Lachezar Voynov page swarm)
 **[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/LachezarVoynov/status/2079594476352246083)
 <!-- HERO:END -->
 
+
+
 > **LC priority P1** · evidence: Medium-high (5 agency examples plus 3 brands on his format lists; spend claims unverified) · hype risk: Medium · cost $50-400 · 1-2 days
 
 ## What it is

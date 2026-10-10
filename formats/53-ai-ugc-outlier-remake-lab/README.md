@@ -38,6 +38,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Med-High (ex-Cal AI operator, detailed method) · hype risk: Med · cost $2-10 per AI test video + tooling · pipeline setup 1-2 days; then ~20 min/video
 
 ## What it is

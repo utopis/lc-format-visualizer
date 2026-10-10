@@ -38,6 +38,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Medium (playbook + live examples) · hype risk: Low · cost $20-100 per VO set · 1 h
 
 ## What it is

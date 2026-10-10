@@ -51,7 +51,7 @@ Accounts and posts that earn attention without paying: slideshows, memes, pages,
 | 102 | [Pinterest-pic recreation reveal (\"I recreated this Pinterest photo with me in it\")](102-pinterest-pic-recreation-reveal/EXAMPLE.md) | proxy | 6 | Concepts: drafted (LC) |
 | 103 | [DM-screenshot story slideshow (a chat people binge, the app/product on the slide that changes what happens next)](103-dm-screenshot-story-slideshow/EXAMPLE.md) | close | 5 | Concepts: drafted (LC) |
 | 110 | [Couples prompt slideshow with a mascot duo (\"5 slightly uncomfortable questions to ask your boyfriend\", \"this or that\", \"pick who's guilty, comment 1A 2B\")](110-couples-prompt-mascot-slideshow/EXAMPLE.md) | exact | 4 | Concepts: drafted (LC) |
-| 112 | [AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption)](112-ai-character-motion-swap-reel/EXAMPLE.md) | exact | 5 | Concepts: drafted (LC) |
+| 112 | [AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption)](112-ai-character-motion-swap-reel/EXAMPLE.md) | exact | 9 | Concepts: drafted (LC) |
 
 ## Reach: paid cold (36)
 

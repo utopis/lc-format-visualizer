@@ -32,6 +32,8 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (copied from drama apps; few public ROAS numbers) · hype risk: Medium-High · cost $20-150 per episode (AI) · 3-6 h
 
 ## What it is

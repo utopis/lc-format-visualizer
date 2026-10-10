@@ -38,6 +38,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: High (S-tier "news") · hype risk: Medium · cost $0-100 · 30-60 min
 
 ## What it is

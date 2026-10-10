@@ -36,6 +36,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P2** · evidence: Medium (screenshots; vendor post) · hype risk: High · cost $0 · 10 min/post
 
 ## What it is

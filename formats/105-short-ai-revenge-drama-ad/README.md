@@ -32,6 +32,8 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
+
 > **LC priority P1** · evidence: Medium-High (many live ads, ecom → apps) · hype risk: Medium · cost $20-150 (AI) per 30 s · 3-6 h
 
 ## What it is

@@ -3,7 +3,7 @@ id: F112
 name: "AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption)"
 type: organic (AI persona account) → brand deals / subscriptions / paid spark
 platforms: [TikTok, Instagram Reels]
-evidence: "medium, earnings disputed (@kelmruns, Oct 5-9 2026: 5 posts on AI characters made with ChatGPT image + Seedance 2.5 motion swap: Wednesday-lookalike 67.4M views / 1M followers, mushroom-bowl-cut DJ 9.9M views / 1M likes, short king 3.9M views / 47K followers, gym bro quiff 2.2M likes in 48 h, 'glow-up' twins 823K followers + a $14.5K brand deal; X posts 3.5K-216K views, the gym-bro post 710 bookmarks; dollar figures are the poster's, unverified; replies say fresh accounts aren't monetised and clips under 1 min don't pay on TikTok)"
+evidence: "medium, earnings disputed (@kelmruns and @k4zxbt, Oct 3-9 2026: 14 posts in one shared template; @kelmruns: 5 posts on AI characters made with ChatGPT image + Seedance 2.5 motion swap: Wednesday-lookalike 67.4M views / 1M followers, mushroom-bowl-cut DJ 9.9M views / 1M likes, short king 3.9M views / 47K followers, gym bro quiff 2.2M likes in 48 h, 'glow-up' twins 823K followers + a $14.5K brand deal; X posts 3.5K-216K views, the gym-bro post 710 bookmarks; dollar figures are the poster's, unverified; replies say fresh accounts aren't monetised and clips under 1 min don't pay on TikTok)"
 hype_risk: high
 lc_fit: "medium (only as a disclosed, original LC AI muse wearing real LC pieces, or swapping a real consenting LC creator's own dance; never a lookalike of someone else's IP or person)"
 cost_per_asset: "$1-10 (image + 1 video generation)"
@@ -20,6 +20,8 @@ added: 2026-10-09 (wave 8: @kelmruns queue)
 
 **[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/kelmruns/status/2107508612058747114)
 <!-- HERO:END -->
+
+
 
 > **LC priority P3** · evidence: Medium, earnings disputed · hype risk: High · cost $1-10 · 15-30 min · ⚠️ IP, likeness and AI-disclosure risk
 
@@ -59,6 +61,18 @@ The pipeline @kelmruns lists, five times over:
   - Gym bro with a giant blonde quiff in a cowboy bar, a bowling alley and on a lawn mower, "ladies you all look lovely tonight, but i look better", 26K followers and 2.2M likes in 48 h ([post](https://x.com/kelmruns/status/2107508612058747114), 216K views, 710 bookmarks).
   - "Two-faced" twins: a fake 2006 baby photo, then a glow-up mirror selfie, "same soul, upgraded version", 1.8M likes, 823K followers, a $14,500 brand deal ([post](https://x.com/kelmruns/status/2107165250868937035)).
 - **What the replies say:** "fresh accounts aren't monetised", "botted", and "clips under a minute don't monetise on TikTok", so treat the dollar figures as marketing for the poster's own content. Several replies point out the Wednesday character is Netflix IP.
+
+<!-- K4 -->
+## Same template, second account: @k4zxbt (Oct 3-9, 2026)
+A second account posts **the identical template** (same "> generate… > pick… > swap with Seedance 2.5 > caption it like…" bullets, the same "GPT Astra" name-drop, a dollar figure in every post, and a "someone will sell you this as a $199 course" line). Two accounts with one script reads like a coordinated promo network, so treat every view, follower and dollar number as marketing. The mechanics are still worth stealing:
+- **The height-contrast rule:** "put a guy a foot shorter next to her so the height reads in 1 second" ([post](https://x.com/k4zxbt/status/2106461236179107862)). Giant Tokyo girl squatting through tunnels and trains, "giant woman struggles in Japan tunnels": 23.6M views claimed, **821 bookmarks, the most of any post in this wave** ([post](https://x.com/k4zxbt/status/2106342154452779278)); a 7 ft girl next to a 6 ft guy with "fake heights stamped on screen", "can a woman be taller than the man?" ([post](https://x.com/k4zxbt/status/2107156912840007859)); a tall girl on a tiny motorbike, "i guess we need a bigger one" ([post](https://x.com/k4zxbt/status/2106836434883637576)).
+- **"The weirder the character, the faster the account grows":** conjoined twins in boring places (bedroom, gas station, school gym), "do you think it's because of our situation??" ([post](https://x.com/k4zxbt/status/2106690716109885936), 169K views on X).
+- **Creepy-meme remake:** two identical girls in long black dresses dancing arms-out under one street lamp, so the shadows stretch 10 feet, captioned only with a slowed song; "98K saves… the creepy niche is still wide open" ([post](https://x.com/k4zxbt/status/2108659775206756837)).
+- **Brand variant, the impossible trickshot:** "your local pub is an AI influencer now": a small-town bar's account posts an 8-ball that jumps three pints of Guinness, "8ball pool trickshot", 10.4M views claimed ([post](https://x.com/k4zxbt/status/2108240597421084694)). Same idea in sport: two footballers kicking Xs and Os onto a giant tic-tac-toe screen ([post](https://x.com/k4zxbt/status/2107893943044309097)). **This is the variant a brand can own:** no persona, just an impossible moment with the product or venue as the set piece, captioned like it's normal.
+- **The character-sheet prompt** ([post](https://x.com/k4zxbt/status/2107546499294941235)) is a clean XML brief: `<task>` one photoreal studio reference sheet · `<character>` age, height, face, hair, "adult proportions" · `<wardrobe>` identical in every view · `<layout>` top row 5 full-body angles, bottom row 3 portraits · `<consistency>` "no face drift, stretched legs, extra limbs" · `<photography>` grey seamless, soft light, no beauty-filter smoothing. ⚠️ His version says "use the attached Elina image as the identity reference", which clones a real person's face. **Do not copy.** Use the structure for an original LC character only.
+
+**LC script D (brand trickshot, disclosed):** a gold ring flicked off the edge of a pool, skimming across the water and landing on a swimmer's finger, captioned "normal tuesday at the pool 💍" with the AI label on. Keep it obviously fantastical, so it never reads as a product-performance claim.
+<!-- /K4 -->
 
 ## Production recipe
 1. **Character bible:** one original character (never a lookalike of a real person or a franchise character) with one absurd, readable feature, plus how she wears LC (always the same 7-piece stack).

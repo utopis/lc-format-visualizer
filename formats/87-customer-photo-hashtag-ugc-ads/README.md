@@ -36,6 +36,8 @@ added: 2026-10-08 (wave 2)
 
 
 
+
+
 > **LC priority P1** · evidence: Medium (brand case studies) · hype risk: Low · cost $0 + rights mgmt · 30 min/week
 
 ## What it is
