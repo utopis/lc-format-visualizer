@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@Charconsults](https://x.com/Charconsults/status/2081629763882430905) · Fast UGC cuts for an herb-keeper product: wilted herbs ("HERBS SAY GOODBYE"), the creator smiling with the product, adding water, fresh mint and rosemary in the tubes ("THAT FITS PERFECTLY"), a finished salad and "STOP WASTING HERBS". The before and after sit next to each other.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2102759898391920860) · 5. Choose your own adventure Handing the viewer the decision turns a 2-minute ad into a game they want to finish. Give them two paths, and let the bad
 - Example: [@creativesbycare](https://x.com/creativesbycare/status/2099292610175361351) · If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 1/4) ⭐️ READING REVIEWS ⭐️ Social pro
 - Example: [@DailyYTNiches](https://x.com/DailyYTNiches/status/2096979805346673029) · This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format
 - Example: [@YouTubeAut3538](https://x.com/YouTubeAut3538/status/2097064734474256890) · This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split 
@@ -101,10 +102,10 @@ Left: version A of a person's day; right: version B (with product), synced timel
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (9 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @CEO_Vlad (88L/169BM/5kV): AI UGC formats tiered: S = podcast, talking head, in-car... — https://x.com/CEO_Vlad/status/2096569603761827953
 - @thankyouecom (78L/133BM/6kV): Almost every winner in our scaling CBO this month is AI debate Here’s our method for generating these bangers 1. Not an interview Debate formats are arguments a — https://x.com/thankyouecom/status/2093386984349700402
 - @Charconsults (3L/0BM/172V): Day 7/14 This one is an oldie, brief show the product in use and the pay off for using. This ad was very visual use before after/split screen pacing and brolls. — https://x.com/Charconsults/status/2081629763882430905
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2102759898391920860
 - @DailyYTNiches (158L/96BM/7kV): This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format > Split s — https://x.com/DailyYTNiches/status/2096979805346673029
-- @YouTubeAut3538 (20L/5BM/633V): This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split screen thu — https://x.com/YouTubeAut3538/status/2097064734474256890

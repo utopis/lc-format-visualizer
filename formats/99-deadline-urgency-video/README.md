@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium-High (multiple live BOF ads) · hype risk: Medium · cost $0-100 · 1-2 h
 
 ## What it is
@@ -99,6 +100,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 05-offer-page-engineering, 40-modular-variation-testing-review
 - Formats: [37-urgency-offer-statics](../37-urgency-offer-statics/README.md), [75-were-sorry-sold-out-apology](../75-were-sorry-sold-out-apology/README.md), [64-reminder-retargeting-sequence](../64-reminder-retargeting-sequence/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Flash-sale story (Wuffes):** "7 seconds. Looks like a story post, not an ad. Pure BOF retargeting" ([@adamtaylorl](https://x.com/adamtaylorl/status/2090038016685351362)). PetLab keeps price out of cold video entirely; the discount only appears on the offer page, after a quiz, or as a creator code ([thread](https://x.com/adamtaylorl/status/2108558106984595660)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

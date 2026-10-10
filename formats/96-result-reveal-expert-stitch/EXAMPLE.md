@@ -60,13 +60,13 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 
 </details>
 
-## More real examples (2)
+## More real examples (3)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@HoIyJosee](example/more/1668712653726859268.jpg)](https://x.com/HoIyJosee/status/1668712653726859268)<br>**@HoIyJosee** · 0:24 video · 917 views<br>This is my Mom after taking Lady Gaga’s advice and getting the Nurtec® ODT (rimegepant) 75 mg shot… what’s going on?!!’ @ladygaga @pfizer | [![@EvoBradley](example/more/2082416231353590174.jpg)](https://x.com/EvoBradley/status/2082416231353590174)<br>**@EvoBradley** · image · 1K views<br>The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits tr |   |
+| [![@HoIyJosee](example/more/1668712653726859268.jpg)](https://x.com/HoIyJosee/status/1668712653726859268)<br>**@HoIyJosee** · 0:24 video · 917 views<br>This is my Mom after taking Lady Gaga’s advice and getting the Nurtec® ODT (rimegepant) 75 mg shot… what’s going on?!!’ @ladygaga @pfizer | [![@adamtaylorl](example/more/2102759897708249588.jpg)](https://x.com/adamtaylorl/status/2102759897708249588)<br>**@adamtaylorl** · 2:06 video · 556 views<br>4. The expert told me The expert delivers the claim, so the product never has to sell itself. This one has been live for 12 months. Tell the story of | [![@EvoBradley](example/more/2082416231353590174.jpg)](https://x.com/EvoBradley/status/2082416231353590174)<br>**@EvoBradley** · image · 1K views<br>The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits tr |
 
 ## How to make one like it
 
@@ -191,7 +191,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

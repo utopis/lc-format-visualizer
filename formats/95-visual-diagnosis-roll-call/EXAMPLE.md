@@ -35,6 +35,15 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 
 </details>
 
+## More real examples (4)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@adamtaylorl](example/more/2096916401457955050.jpg)](https://x.com/adamtaylorl/status/2096916401457955050)<br>**@adamtaylorl** · images · 62K views<br>If you're in ecom Pay the f*ck attention to what Vue is doing with their creative right now 430+ ads live and they all use this same mechanism This wi | [![@adamtaylorl](example/more/2093292520335867933.jpg)](https://x.com/adamtaylorl/status/2093292520335867933)<br>**@adamtaylorl** · images · 11K views<br>My ads have generated over $100M on Meta. Perfecting the first 3 seconds of your ad will make you more winners than anything else. Before a customer e | [![@adamtaylorl](example/more/2102759896181563537.jpg)](https://x.com/adamtaylorl/status/2102759896181563537)<br>**@adamtaylorl** · 2:29 video · 898 views<br>2. The body callout Naming the viewer and showing their body in the first second filters out everyone else. Open with "If you're a [who] and your [bod |
+| [![@adamtaylorl](example/more/2104526571927200050.jpg)](https://x.com/adamtaylorl/status/2104526571927200050)<br>**@adamtaylorl** · images · 10K views<br>Vue 430+ ads same mechanism. |   |   |
+
 ## How to make one like it
 
 **The format in one line:** The ad opens on a rapid montage of everyday symptoms, each captioned with the same label ("This is clogged arteries"), so the viewer re-attributes many small annoyances to one hidden cause. Then it explains the cause (often with CGI) and presents the one product that "reaches" it. Resilia calls the move cause relocation: every complaint gets the same root.
@@ -159,6 +168,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Show real photos of real issues; no fake medical framing ("rash" is ok only as a customer-reported symptom; don't claim hypoallergenic unless substantiated). - Resilia's version carries disease claims (arteries, parasites) that LC must never imitate.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

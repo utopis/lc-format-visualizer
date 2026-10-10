@@ -3,7 +3,7 @@
  "slug": "97-persona-swap-script-cloning",
  "name": "Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)",
  "title": "97 · Persona-swap script cloning (one winning script, re-told by 6-10 different narrators and settings)",
- "n_examples": 25,
+ "n_examples": 30,
  "n_curated": 6,
  "n_candidates": 15,
  "stages": [
@@ -139,6 +139,53 @@
    "transcript": false
   },
   {
+   "id": "2107872077567111537",
+   "file": "2026-10-07-LachezarVoynov-2107872077567111537.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-10-07",
+   "url": "https://x.com/LachezarVoynov/status/2107872077567111537",
+   "eng": "134L/243BM/9kV",
+   "grade": "VALUE",
+   "gist": "What a creative pod is and how to structure one.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2084667713146822688",
+   "file": "2026-08-04-LachezarVoynov-2084667713146822688.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-08-04",
+   "url": "https://x.com/LachezarVoynov/status/2084667713146822688",
+   "eng": "62L/126BM/7kV",
+   "grade": "",
+   "gist": "IM8 is doing $17M/month and the way they expand into new customer avatars is an absolute masterclass in direct-response advertising. Yes, they might not be first-order profitable. ",
+   "thumb": "https://pbs.twimg.com/media/HO46O9MXQAMW9Vr.jpg",
+   "media": [
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
+   "id": "2108195717772980397",
+   "file": "2026-10-08-adamtaylorl-2108195717772980397.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-10-08",
+   "url": "https://x.com/adamtaylorl/status/2108195717772980397",
+   "eng": "67L/101BM/3kV",
+   "grade": "VALUE",
+   "gist": "Diagnose: if top-5 spenders are 90+ days old, you need new reasons-to-buy, not more ads.",
+   "thumb": "https://pbs.twimg.com/media/HUBa3RKWEAEX45a.jpg",
+   "media": [
+    "photo",
+    "photo"
+   ],
+   "transcript": false
+  },
+  {
    "id": "2078068798314422644",
    "file": "2026-07-17-SparkifyAI-2078068798314422644.md",
    "kind": "cited",
@@ -180,6 +227,34 @@
    "eng": "0L/1BM/115V",
    "grade": "",
    "gist": "Prime prometics at 1,400+ ads. winning creative is a woman over 50 reviewing color changing foundation. 'doesn't sit in the creases.' one specific objection killed in seven words. ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105251325575315867",
+   "file": "0000-00-00-adamtaylorl-2105251325575315867.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2105251325575315867",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108585587494019562",
+   "file": "0000-00-00-LachezarVoynov-2108585587494019562.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2108585587494019562",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

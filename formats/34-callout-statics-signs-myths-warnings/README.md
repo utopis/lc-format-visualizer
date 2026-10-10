@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High (1,525-day + 200-day live ads) · hype risk: Low · cost $0 · 15-30 min
 
 ## What it is
@@ -116,6 +117,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 2d update: cause relocation and the "big enemy"
 - Resilia's parasite angle is a **cause relocation**: every symptom (bloating, brain fog, cravings, thinning hair) gets re-attributed to one hidden culprit only the product reaches (@lorenzo_pravata). The video version is **F95** (visual-diagnosis roll-call); the buyer's-guide version is **F94**.
 - UndrDog "big enemy" ad: "Could polyester be the next smoking epidemic?" (2:33, top 3% of 890 brand ads; [Atria](https://app.tryatria.com/ad/m1482820870278804)). LC enemy: "gold paint over brass".
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Symptom checklist (RYZE):** "Every viewer checks themselves against the list, and one 'that's me' is enough" ([post](https://x.com/adamtaylorl/status/2102759895594377508)). **"Not a quirk" (PetLab):** three symptoms stacked, then "these aren't normal", then remove the effort: "no brushing needed" ([post](https://x.com/adamtaylorl/status/2105251326036705587)). The hook template: "If [symptom], [symptom], and [symptom], then you need to listen" ([hook sheet](https://x.com/adamtaylorl/status/2094379679667175846)). LC: "If your rings go dull, your fingers turn green and you take everything off to shower, then you need to listen."
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)

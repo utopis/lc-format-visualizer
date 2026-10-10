@@ -31,6 +31,7 @@ related_strategies: [27-satisfying-product-loop-recordings]
 
 
 
+
 ## Looks like
 Camera = viewer's eyes; hands wearing the product doing real things; a narrative tension (will it survive?).
 
@@ -42,6 +43,12 @@ Real GoPro/phone chest-mount (preferred) — AI only for impossible shots, label
 
 ## Metric/compliance
 Hold rate; [_COMPLIANCE.md](../_COMPLIANCE.md).
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Third-person POV:** "When you 'sneakily' film someone else performing an action (which is staged, of course), people don't perceive it as an ad… it does not trigger their pattern-recognition system" ([Voynov](https://x.com/LachezarVoynov/status/1996596411031277950)). Voynov's "Hidden camera" (Tumbler) is on his [29 TOF list](https://x.com/LachezarVoynov/status/2086842038457098499).
+- **Secret-advantage POV (CloudSole):** pure POV that proves the product is invisible under a sock and sells dating confidence ([post](https://x.com/adamtaylorl/status/2092205349738545388)). **Loop's high-energy POV:** Tomorrowland crowds sell earplugs "nobody is searching for" ([post](https://x.com/adamtaylorl/status/2100540267937906908)). LC: festival POV, the stack through rain and a crowd.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

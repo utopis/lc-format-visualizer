@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@prompthanem](https://x.com/prompthanem/status/2108225912957186085) · An AI-generated cinematic jewelry commercial: a macro of an emerald, a velvet box opening, white-gloved hands lifting the ring, a hand reveal, and the box closing for the final shot. No people, just light, texture and slow camera moves.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2082493438520439242) · ASMR ads like this one literally print money for products that don’t require too much education. As an agency, we always try to focus on heavy TOF ads
 - Example: [@rirahcreates](https://x.com/rirahcreates/status/2086324982892605618) · AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum
 - Example: [@Balentin_J](https://x.com/Balentin_J/status/2080581505441480774) · &gt; What if a familiar kitchen moment could become a product story? 🥤 I explored that idea by reimagining the Vitamix A3500 as the centerpiece of a f
 - Example: [@alohaproxy](https://x.com/alohaproxy/status/2104226192085987378) · Every founder wants to see their product here👑 Ankon AI is currently at HOF on HopUp. I thought that deserved more than a leaderboard card......So I t
@@ -154,7 +155,7 @@ Write a 15s shot list + AI video prompts for an LC macro film from these product
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (10 posts). Top 5:
+See [examples/README.md](examples/README.md) (12 posts). Top 5:
 
 - @nicktheriot_ (219L/348BM/12kV): 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder st — https://x.com/nicktheriot_/status/2108173638033871013
 - @zackpaid (9L/20BM/2kV): 11 AI formats (agency pitch): native UGC, founder, claymation, Pixar 3D, jingle, screen recording, before/after, testimonial compilation, cinematic demo, mini-d — https://x.com/zackpaid/status/2085621175292670183

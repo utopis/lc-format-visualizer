@@ -3,7 +3,7 @@
  "slug": "77-ugc-voiceover-hook-swap-remix",
  "name": "UGC voiceover remix (one creator clip, 10 swapped VO hooks)",
  "title": "77 · UGC voiceover remix (one creator clip, 10 swapped VO hooks)",
- "n_examples": 9,
+ "n_examples": 10,
  "n_curated": 0,
  "n_candidates": 8,
  "stages": [
@@ -37,6 +37,20 @@
   }
  ],
  "examples": [
+  {
+   "id": "2107530746923823444",
+   "file": "0000-00-00-mattgittleson-2107530746923823444.md",
+   "kind": "cited",
+   "author": "mattgittleson",
+   "date": "",
+   "url": "https://x.com/mattgittleson/status/2107530746923823444",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
   {
    "id": "2098121655167926499",
    "file": "0000-00-00-zedmadeit-2098121655167926499.md",

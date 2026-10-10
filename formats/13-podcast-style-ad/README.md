@@ -33,6 +33,7 @@ related_strategies: [31-founder-daily-posting-product-as-ad, 34-persona-archetyp
 
 
 
+
 ## Looks like
 Two people at podcast mics, warm studio, captions; clip starts mid-conversation with a strong opinion; host asks the question the viewer has; guest explains; product mentioned naturally. "They're not trying to make a podcast ad feel like an ad" ([@tryatria_AI](https://x.com/tryatria_AI/status/2097763972325745046)). "Best format for anything that needs explaining" ([@CEO_Vlad](https://x.com/CEO_Vlad/status/2096569603761827953)).
 

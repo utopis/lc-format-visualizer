@@ -3,13 +3,13 @@
  "slug": "23-first-person-pov-hyperreal",
  "name": "Hyper-real first-person POV footage",
  "title": "23 · First-person POV",
- "n_examples": 3,
+ "n_examples": 7,
  "n_curated": 2,
  "n_candidates": 1,
  "stages": [
   {
    "stage": "Find",
-   "status": "in progress"
+   "status": "done"
   },
   {
    "stage": "Deep research",
@@ -64,6 +64,62 @@
    "eng": "8L/4BM/693V",
    "grade": "VALUE",
    "gist": "Production rule: reaction can't be scripted — founder-customer call + POV reaction ads with live unscripted reaction.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2086842038457098499",
+   "file": "2026-08-10-LachezarVoynov-2086842038457098499.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-08-10",
+   "url": "https://x.com/LachezarVoynov/status/2086842038457098499",
+   "eng": "396L/1453BM/88kV",
+   "grade": "VALUE",
+   "gist": "29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "1996596411031277950",
+   "file": "0000-00-00-LachezarVoynov-1996596411031277950.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/1996596411031277950",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092205349738545388",
+   "file": "0000-00-00-adamtaylorl-2092205349738545388.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2092205349738545388",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100540267937906908",
+   "file": "0000-00-00-adamtaylorl-2100540267937906908.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2100540267937906908",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High (S-tier "news") · hype risk: Medium · cost $0-100 · 30-60 min
 
 ## What it is
@@ -100,6 +101,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 43-48h-trend-hijacking, 35-mass-awareness-placement-to-advertorial
 - Formats: [09-native-story-static-to-advertorial](../09-native-story-static-to-advertorial/README.md), [32-screenshot-native-static-pack](../32-screenshot-native-static-pack/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Do not copy, Wuffes' "Fake News static":** "News framing = borrowed journalism trust. Their best static and it's basically a headline" ([@adamtaylorl](https://x.com/adamtaylorl/status/2090038023287152826)). PetLab's funnel runs one verified brand page and partnership ads, with no fake news pages ([thread](https://x.com/adamtaylorl/status/2108558106984595660)). If LC uses a news look, it must be clearly LC's own announcement.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

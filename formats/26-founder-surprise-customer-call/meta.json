@@ -3,7 +3,7 @@
  "slug": "26-founder-surprise-customer-call",
  "name": "Founder surprise customer call (+ customer-service call variant)",
  "title": "26 · Founder surprise customer call (+ customer-service call variant)",
- "n_examples": 13,
+ "n_examples": 16,
  "n_curated": 6,
  "n_candidates": 5,
  "stages": [
@@ -130,6 +130,25 @@
    "transcript": false
   },
   {
+   "id": "2094742062755422423",
+   "file": "2026-09-01-adamtaylorl-2094742062755422423.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-09-01",
+   "url": "https://x.com/adamtaylorl/status/2094742062755422423",
+   "eng": "362L/466BM/26kV",
+   "grade": "VALUE",
+   "gist": "GroundingWell 550+ ads: hotel guests asking what mattress they use (overheard-question angle).",
+   "thumb": "https://pbs.twimg.com/media/HRHpDd_XwAAENly.jpg",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
    "id": "2083288607062732816",
    "file": "2026-07-31-raph_guilhem-2083288607062732816.md",
    "kind": "cited",
@@ -139,6 +158,34 @@
    "eng": "55L/105BM/7kV",
    "grade": "VALUE",
    "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2062924873022795932",
+   "file": "0000-00-00-LachezarVoynov-2062924873022795932.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2062924873022795932",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2057847704403972533",
+   "file": "0000-00-00-LachezarVoynov-2057847704403972533.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2057847704403972533",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

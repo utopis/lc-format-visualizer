@@ -163,7 +163,7 @@ Write 15 regret-discovery captions for LC in the exact pattern "been [habit] for
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (12 posts). Top 5:
+See [examples/README.md](examples/README.md) (13 posts). Top 5:
 
 - @pixclipper (134L/339BM/26kV): Mise $300K/mo: 18 UGC accounts running the SAME 43s wordless video (ALDI/LIDL/German versions); store name does the targeting; 702 videos in 8 weeks, 3 carry 60 — https://x.com/pixclipper/status/2084739019187847201
 - @themariaines (25L/42BM/3kV): Herbi: 70K downloads, $20K/mo in 50 days, 20M+ views; Mise copied the playbook → $100K/mo in 5 weeks. — https://x.com/themariaines/status/2090121630538412531

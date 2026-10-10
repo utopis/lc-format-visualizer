@@ -31,6 +31,7 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
 > **LC priority P2** · evidence: Medium (one app, replicable formula) · hype risk: Low · cost $0-100 · 30-60 min
 
 ## What it is

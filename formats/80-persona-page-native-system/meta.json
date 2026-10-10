@@ -3,7 +3,7 @@
  "slug": "80-persona-page-native-system",
  "name": "Persona pages: ads run from named narrator pages (catalog of the pattern + LC-safe version)",
  "title": "80 · Persona pages: ads run from named narrator pages (catalog of the pattern + LC-safe version)",
- "n_examples": 20,
+ "n_examples": 23,
  "n_curated": 2,
  "n_candidates": 15,
  "stages": [
@@ -68,6 +68,20 @@
    "transcript": false
   },
   {
+   "id": "2104599048493666326",
+   "file": "2026-09-28-LachezarVoynov-2104599048493666326.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-09-28",
+   "url": "https://x.com/LachezarVoynov/status/2104599048493666326",
+   "eng": "169L/719BM/26kV",
+   "grade": "",
+   "gist": "14 Top-of-funnel AI video ads you need to test on Meta: 1. AI Skits: https://t.co/qHBs7rvzUU 2. AI Whistleblower: https://t.co/TeYvs3gg3z 3. Celebrity ads: https://t.co/GAO22DjHr4 ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
    "id": "2104949773539442831",
    "file": "2026-09-29-FedotOff90-2104949773539442831.md",
    "kind": "cited",
@@ -114,6 +128,34 @@
     "photo",
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2108558106984595660",
+   "file": "0000-00-00-adamtaylorl-2108558106984595660.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2108558106984595660",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2062924701924466844",
+   "file": "0000-00-00-LachezarVoynov-2062924701924466844.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2062924701924466844",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

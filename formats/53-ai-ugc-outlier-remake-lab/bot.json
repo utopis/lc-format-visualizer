@@ -54,6 +54,13 @@
   },
   {
    "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/1986113376230015058",
+   "author": "LachezarVoynov",
+   "note": "I still feel the best way to find winning ad creative concepts is scrolling on TikTok or IG Reels. Our team just turned a viral organic concept into a",
+   "local": "example/more/1986113376230015058.jpg"
+  },
+  {
+   "kind": "gallery",
    "url": "https://x.com/raph_guilhem/status/2095453949805392267",
    "author": "raph_guilhem",
    "note": "Seedance 2.5 is insane for AI UGC. I built a Claude skill that takes an ad that's already converting and puts a new person in it. This is perfect for ",
@@ -100,13 +107,6 @@
    "author": "brainextends",
    "note": "i made $36,863 this month using ai agents heres the 3 step process i use : -> i created an ai agent that scans 24/7 for new trends on tiktok once it s",
    "local": "example/more/2094873288040497282.jpg"
-  },
-  {
-   "kind": "gallery",
-   "url": "https://x.com/defileo/status/2107886078841729342",
-   "author": "defileo",
-   "note": "This is the CRAZIEST f*ckn sonnet 5.5 automation setup... One Claude Code orchestrator runs a full AI UGC pipeline across Apify, Higgsfield and Postiz",
-   "local": "example/more/2107886078841729342.jpg"
   }
  ],
  "paid_ads": [],

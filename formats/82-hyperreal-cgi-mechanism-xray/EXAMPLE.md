@@ -67,13 +67,14 @@ The storyboard above samples the video every 0:26. Lines are the transcript for 
 
 </details>
 
-## More real examples (3)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@D_Only_Aji](example/more/2091972209178796230.jpg)](https://x.com/D_Only_Aji/status/2091972209178796230)<br>**@D_Only_Aji** · 0:25 video · 603 views<br>Just wrapped up this 3D animated performance ad for Rejuvenate, built from the ground up using an AI-assisted production workflow. From creative direc | [![@FedotOff90](example/more/2072477830861254686.jpg)](https://x.com/FedotOff90/status/2072477830861254686)<br>**@FedotOff90** · 0:52 video · 10K views<br>66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board. | [![@HikeMyTraffic](example/more/2082004242471268500.jpg)](https://x.com/HikeMyTraffic/status/2082004242471268500)<br>**@HikeMyTraffic** · 0:23 video · 65 views<br>Team HikeMyTraffic created this stunning Wilkinson Sword Hydro 5 razor commercial entirely with AI. 🎬AI Product Videos \| CGI Ads \| Social Creatives Hi |
+| [![@adamtaylorl](example/more/2102759896789713340.jpg)](https://x.com/adamtaylorl/status/2102759896789713340)<br>**@adamtaylorl** · 2:46 video · 649 views<br>3. The "This is why" cutaway A 3D inside-the-body visual stops the scroll, and "this is why" promises an answer they've never heard. Show what's happe | [![@adamtaylorl](example/more/2092576938309386363.jpg)](https://x.com/adamtaylorl/status/2092576938309386363)<br>**@adamtaylorl** · 3:04 video · 77K views<br>If you're in ecom Pay the f*ck attention to what Lymphoria is doing with their creative right now 4,000+ ads live. This will be taught in every guru c | [![@D_Only_Aji](example/more/2091972209178796230.jpg)](https://x.com/D_Only_Aji/status/2091972209178796230)<br>**@D_Only_Aji** · 0:25 video · 603 views<br>Just wrapped up this 3D animated performance ad for Rejuvenate, built from the ground up using an AI-assisted production workflow. From creative direc |
+| [![@FedotOff90](example/more/2072477830861254686.jpg)](https://x.com/FedotOff90/status/2072477830861254686)<br>**@FedotOff90** · 0:52 video · 10K views<br>66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board. | [![@HikeMyTraffic](example/more/2082004242471268500.jpg)](https://x.com/HikeMyTraffic/status/2082004242471268500)<br>**@HikeMyTraffic** · 0:23 video · 65 views<br>Team HikeMyTraffic created this stunning Wilkinson Sword Hydro 5 razor commercial entirely with AI. 🎬AI Product Videos \| CGI Ads \| Social Creatives Hi |   |
 
 ## How to make one like it
 
@@ -205,7 +206,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

@@ -3,7 +3,7 @@
  "slug": "59-problem-solution-pas-ad",
  "name": "Problem → agitation → solution → proof (4-part PAS ad, video or static)",
  "title": "59 · Problem → agitation → solution → proof (4-part PAS ad, video or static)",
- "n_examples": 2,
+ "n_examples": 3,
  "n_curated": 0,
  "n_candidates": 0,
  "stages": [
@@ -65,6 +65,20 @@
    "media": [
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2107530746923823444",
+   "file": "0000-00-00-mattgittleson-2107530746923823444.md",
+   "kind": "cited",
+   "author": "mattgittleson",
+   "date": "",
+   "url": "https://x.com/mattgittleson/status/2107530746923823444",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   }
  ]

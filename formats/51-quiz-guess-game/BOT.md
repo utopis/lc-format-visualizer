@@ -145,7 +145,7 @@ Write 8 quiz scripts for LC; reveals must be factual.
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (5 posts). Top 5:
+See [examples/README.md](examples/README.md) (6 posts). Top 5:
 
 - @nicktheriot_ (219L/348BM/12kV): 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder st — https://x.com/nicktheriot_/status/2108173638033871013
 - @MethodByVid (37L/67BM/4kV): 12 no-edit video formats: text story over gameplay, would-you-rather, guess-the-X quizzes, rankings, restoration, recipes from above. — https://x.com/MethodByVid/status/2087570057262256130

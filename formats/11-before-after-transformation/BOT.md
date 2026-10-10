@@ -17,11 +17,13 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@tryatria_AI](https://x.com/tryatria_AI/status/2092961578974896447) · Two images: a mirror-selfie before/after side by side with a caption, and a whiteboard diagram ("lose the weight, keep the glow") with a hand holding the pink product tub.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2105251326959509651) · 5. The reverse before & after She ran out for a week and the symptoms came straight back. Proof by taking the product away. Film a customer who stoppe
 - Example: [@ZedNilm1](https://x.com/ZedNilm1/status/2027004587232657441) · $220k+ months don’t start with “design something creative” they start with proof people can understand in one second before → after same angle same li
 - Example: [@Design__Lord](https://x.com/Design__Lord/status/2091625281077260728) · A static ad concept for this hydration skincare product. Clean visuals, product-focused composition, and a premium before → after concept designed to 
 - Example: [@nicktheriot_](https://x.com/nicktheriot_/status/2027206415253684227) · This Brickell ad is a MASTERCLASS in removing every objection a guy has to trying skincare. And it’s, by far, one of the cleanest men's skincare stati
 - Example: [@MatsMa68231](https://x.com/MatsMa68231/status/2099623924325658683) · Before → After. this skincare static ad to grab attention, communicate the value faster, and make the product harder to ignore. Stop posting ads that 
 - Example: [@gresswoodhao](https://x.com/gresswoodhao/status/2064597459846987997) · AI-made this UGC skincare ad in ~30 min — looks hand-shot, not AI. Real-person feel, before/after proof, ready to A/B test. Run paid social for a skin
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2092205351336661342) · 3. Status Transformation "5'8 ➡️ 5'11" Fast-paced. Highly native to TikTok and Reels. It targets the gym-bro demographic by appealing directly to stat
 - Example: [@antonioventre_](https://x.com/antonioventre_/status/2078512377616589256) · Before/after photos are best native ad image: change creates curiosity; long copy tells story.
 
 ### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
@@ -119,10 +121,10 @@ Collect real wear-test photos from 10 customers/creators (send product, pay $50,
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (12 posts). Top 5:
+See [examples/README.md](examples/README.md) (14 posts). Top 5:
 
 - @LachezarVoynov (396L/1453BM/88kV): 29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...). — https://x.com/LachezarVoynov/status/2086842038457098499
 - @tryatria_AI (107L/147BM/6kV): Before->after ads printing; top 50 swipe (reply-bait for file). — https://x.com/tryatria_AI/status/2092961578974896447
 - @antonioventre_ (79L/64BM/5kV): Before/after photos are best native ad image: change creates curiosity; long copy tells story. — https://x.com/antonioventre_/status/2078512377616589256
-- @FedotOff90 (138L/247BM/16kV): Before and after format fucking prints. Nothing tells the story and shows the results of the product like before/ after image. Got a swipe file (freshly updated — https://x.com/FedotOff90/status/2085874661460713583
-- @adamtaylorl (139L/203BM/13kV): Tier list of ecom formats: F = AI UGC, street interviews, read scripts; B = founder, testimonial compilations, listicle statics... — https://x.com/adamtaylorl/status/2097641383355879452
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2092205351336661342
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2105251326959509651

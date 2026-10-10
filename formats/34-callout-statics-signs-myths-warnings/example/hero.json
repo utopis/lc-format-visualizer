@@ -17,5 +17,24 @@
  "seen": "A product callout static: the headline \"See Clearly. Drive Safely. Instantly.\" over the ClearVision box, four benefit callouts with icons (Instant Clarity, Anti-Fog Protection, Water Repellent, Long-Lasting Effect) and a review bar (\"4.8/5.0 based on 10,000+ reviews\").",
  "match": "exact",
  "beats": [],
- "more": []
+ "more": [
+  {
+   "id": "2102759895594377508",
+   "author": "adamtaylorl",
+   "url": "https://x.com/adamtaylorl/status/2102759895594377508",
+   "thumb": "example/more/2102759895594377508.jpg",
+   "kind": "2:04 video",
+   "cap": "1. The symptom checklist Every viewer checks themselves against the list, and one \"that's me\" is enough to keep them watching. Open with a specific, s",
+   "views": 1366
+  },
+  {
+   "id": "2105251326036705587",
+   "author": "adamtaylorl",
+   "url": "https://x.com/adamtaylorl/status/2105251326036705587",
+   "thumb": "example/more/2105251326036705587.jpg",
+   "kind": "0:35 video",
+   "cap": "3. The \"not a quirk\" Three symptoms stacked, then \"these aren't normal.\" Then it removes the fix nobody wants to do: no brushing needed. List 3 things",
+   "views": 523
+  }
+ ]
 }

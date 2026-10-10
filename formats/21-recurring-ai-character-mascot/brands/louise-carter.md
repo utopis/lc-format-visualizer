@@ -14,4 +14,4 @@ Follower growth, avg watch time; Omni bio link.
 
 [_COMPLIANCE.md](../_COMPLIANCE.md). AI label; character clearly LC's; don't base on real people.
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->

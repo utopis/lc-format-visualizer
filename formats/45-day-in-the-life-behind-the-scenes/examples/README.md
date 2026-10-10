@@ -1,6 +1,6 @@
 # Examples · 45 · Day in the life / behind the scenes (founder or customer)
 
-Every X post we hold for this format: **10** (7 curated, 1 cited in the playbook, 2 auto-matched candidates).
+Every X post we hold for this format: **12** (7 curated, 3 cited in the playbook, 2 auto-matched candidates).
 
 Curated = hand-graded in the X discovery feed. Candidates come from a targeted X search for this format (last ~90 days, relevancy-sorted, engagement-filtered) and are NOT hand-graded yet: verify, then promote or delete.
 
@@ -16,7 +16,9 @@ Search used: `("day in the life" OR "behind the scenes" OR "ditl") (founder OR b
 | 6 | 2026-06-06 | [@0xJeyx](https://x.com/0xJeyx/status/2063387846803673406) | curated SOME | 15L/3BM/889V | video + transcript | Generate the same product as every format at once (street quiz, review, GRWM, DITL) and let the feed pick — example: "$50 street quiz" video. | [2026-06-06-0xJeyx-2063387846803673406](2026-06-06-0xJeyx-2063387846803673406.md) |
 | 7 | 2026-08-04 | [@williamkast_](https://x.com/williamkast_/status/2084659151578202574) | curated VALUE | 2L/4BM/480V | photo | Creative diversity matrix image: 5 production formats × 5 frameworks = 25 concepts from one message. | [2026-08-04-williamkast_-2084659151578202574](2026-08-04-williamkast_-2084659151578202574.md) |
 | 8 | 2026-07-31 | [@raph_guilhem](https://x.com/raph_guilhem/status/2083288607062732816) | cited VALUE | 55L/105BM/7kV | text | 30 Meta ad formats folder tree (hooks, founder content, etc.). | [2026-07-31-raph_guilhem-2083288607062732816](2026-07-31-raph_guilhem-2083288607062732816.md) |
-| 9 | 2026-10-05 | [@paula_bearr](https://x.com/paula_bearr/status/2107067561619693949) | candidate | 63L/125BM/2kV | text | If you ever run out of things to post on Instagram, save this. Here’s a general content idea bank you can tailor to almost any brand: REELS / SHORT-FORM VIDEO • Tutorials / how-to  | [2026-10-05-paula_bearr-2107067561619693949](2026-10-05-paula_bearr-2107067561619693949.md) |
-| 10 | 2026-09-01 | [@jaclynforero](https://x.com/jaclynforero/status/2094773552398389539) | candidate | 7L/0BM/259V | video | 📓 a little peek into my UGC + creative strategy life lately Between filming client content, batching hooks, and figuring out what actually makes a DTC ad convert… this is what buil | [2026-09-01-jaclynforero-2094773552398389539](2026-09-01-jaclynforero-2094773552398389539.md) |
+| 9 |  | [@adamtaylorl](https://x.com/adamtaylorl/status/2100540269351350453) | cited | 0L/0BM/0V | text |  | [0000-00-00-adamtaylorl-2100540269351350453](0000-00-00-adamtaylorl-2100540269351350453.md) |
+| 10 |  | [@adamtaylorl](https://x.com/adamtaylorl/status/2090038019059314970) | cited | 0L/0BM/0V | text |  | [0000-00-00-adamtaylorl-2090038019059314970](0000-00-00-adamtaylorl-2090038019059314970.md) |
+| 11 | 2026-10-05 | [@paula_bearr](https://x.com/paula_bearr/status/2107067561619693949) | candidate | 63L/125BM/2kV | text | If you ever run out of things to post on Instagram, save this. Here’s a general content idea bank you can tailor to almost any brand: REELS / SHORT-FORM VIDEO • Tutorials / how-to  | [2026-10-05-paula_bearr-2107067561619693949](2026-10-05-paula_bearr-2107067561619693949.md) |
+| 12 | 2026-09-01 | [@jaclynforero](https://x.com/jaclynforero/status/2094773552398389539) | candidate | 7L/0BM/259V | video | 📓 a little peek into my UGC + creative strategy life lately Between filming client content, batching hooks, and figuring out what actually makes a DTC ad convert… this is what buil | [2026-09-01-jaclynforero-2094773552398389539](2026-09-01-jaclynforero-2094773552398389539.md) |
 
 Add more: drop a new `<date>-<author>-<id>.md` here (copy any file as a template) and add a row.

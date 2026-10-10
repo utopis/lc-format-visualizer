@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P0** · evidence: High (multiple apps, 30M+ views, revenue claims) · hype risk: Low · cost $0-100 (creator) / near-zero to re-shoot · 30-60 min
 
 ## What it is

@@ -3,7 +3,7 @@
  "slug": "05-ai-animation-format-swap",
  "name": "AI animation format swap (Claymation, Pixar-3D, Zach-Films 2nd-person, Skeleton, Chalkboard, Brick, Tiny-characters)",
  "title": "05 · AI animation format swap",
- "n_examples": 29,
+ "n_examples": 30,
  "n_curated": 19,
  "n_candidates": 9,
  "stages": [
@@ -377,6 +377,20 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2108585587494019562",
+   "file": "0000-00-00-LachezarVoynov-2108585587494019562.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2108585587494019562",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2094832575122661443",

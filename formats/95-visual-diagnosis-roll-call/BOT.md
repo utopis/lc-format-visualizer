@@ -17,6 +17,10 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@thousif_maker](https://x.com/thousif_maker/status/2107161552377819648) · A fitness-app ad that opens like a body diagnosis: a trainer stands behind a woman and points at her stomach, caption "All plus-size girls need to do this to get rid of belly fat". It then cuts to an app screen ('Lazy easy workout') with a short routine list while a woman does the moves on a bed. The format points at a visible sign, names its cause, then shows the fix.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2096916401457955050) · If you're in ecom Pay the f*ck attention to what Vue is doing with their creative right now 430+ ads live and they all use this same mechanism This wi
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2093292520335867933) · My ads have generated over $100M on Meta. Perfecting the first 3 seconds of your ad will make you more winners than anything else. Before a customer e
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2102759896181563537) · 2. The body callout Naming the viewer and showing their body in the first second filters out everyone else. Open with "If you're a [who] and your [bod
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2104526571927200050) · Vue 430+ ads same mechanism.
 
 ### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -153,10 +157,10 @@ Write 3 visual-diagnosis roll-call hooks for LC: 5 one-second jewelry "symptoms"
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (5 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @lorenzo_pravata (0L/0BM/0V): Resilia 6,000 ads, parasite cause-relocation angle, "That's parasites" roll-call, carvacrol gate; 10+ subpages to avoid bans. — https://x.com/lorenzo_pravata/status/2065407167515984348
+- @adamtaylorl (588L/993BM/62kV): If you're in ecom Pay the f*ck attention to what Vue is doing with their creative right now 430+ ads live and they all use this same mechanism This will be taug — https://x.com/adamtaylorl/status/2096916401457955050
+- @adamtaylorl (132L/196BM/10kV): Vue 430+ ads same mechanism. — https://x.com/adamtaylorl/status/2104526571927200050
 - @thousif_maker (0L/0BM/0V):  — https://x.com/thousif_maker/status/2107161552377819648
-- @Network_UCG (70L/9BM/5kV): ☀️ Summer UGC Creator Roll Call! ☀️ Want more brands to discover your portfolio? Drop your link in the comments, follow other creators, and RT to help everyone  — https://x.com/Network_UCG/status/2079759701244338486
-- @JenUGCGenX (39L/1BM/1kV): Am I the only one who feels like Gen X creators are still a small part of the UGC community? I see so many younger creators everywhere, but not as many Gen X cr — https://x.com/JenUGCGenX/status/2087962642568860039
-- @rollcall (2L/0BM/2kV): The Democratic Congressional Campaign Committee is marking 100 days until the midterm elections with a new digital ad shared first with CQ Roll Call. https://t. — https://x.com/rollcall/status/2080621569739518408
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2102759896181563537

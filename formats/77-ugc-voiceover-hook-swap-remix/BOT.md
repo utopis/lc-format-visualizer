@@ -143,10 +143,10 @@ For LC clip {{CLIP_DESC}} (transcript {{TRANSCRIPT}}), write 10 alternative 3-se
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (9 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
+- @mattgittleson (0L/0BM/0V):  — https://x.com/mattgittleson/status/2107530746923823444
 - @zedmadeit (0L/0BM/0V):  — https://x.com/zedmadeit/status/2098121655167926499
 - @HenryCrochemore (44L/55BM/4kV): ai podcast ads might be one of the easiest ways to make ugc feel native again instead of generating another creator holding a product put them behind a micropho — https://x.com/HenryCrochemore/status/2089291503919087933
 - @blvckledge (30L/57BM/4kV): for anyone looking to crack cold traffic on demand gen many of our brands are spending $10k-$20k/day rn we use a strategy framework to iterate and ship new crea — https://x.com/blvckledge/status/2089880028440133945
 - @sleepclip (41L/46BM/2kV): no F*CKING way this app scaled from $1k to $500k off ai videos all it took was ai videos of different animals and characters that crossed millions of views. the — https://x.com/sleepclip/status/2102703772354875719
-- @OriSilver (34L/44BM/2kV): 📂 THE AI AD FACTORY ┃ ┣ 📂 Research ┃ ┣ 📂 Audience & Pain Points ┃ ┣ 📂 Failed Solutions ┃ ┣ 📂 Objections & Misconceptions ┃ ┣ 📂 Voice of Customer ┃ ┣ 📂 Competito — https://x.com/OriSilver/status/2094742070468730903

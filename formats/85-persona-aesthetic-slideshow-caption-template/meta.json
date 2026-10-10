@@ -3,7 +3,7 @@
  "slug": "85-persona-aesthetic-slideshow-caption-template",
  "name": "Persona aesthetic slideshow account with one recurring caption template",
  "title": "85 · Persona aesthetic slideshow account with one recurring caption template",
- "n_examples": 8,
+ "n_examples": 9,
  "n_curated": 1,
  "n_candidates": 7,
  "stages": [
@@ -47,6 +47,20 @@
    "eng": "0L/0BM/0V",
    "grade": "SOME",
    "gist": "AI agent posting 1000s of TikTok slideshows: rented US iPhones (Minionix), warmed accounts, 100K Pinterest image DB; screenshots: persona accounts, same caption, 7.6M-34.6M views. Account-farm = ToS risk.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108629140480168133",
+   "file": "0000-00-00-rsalimx-2108629140480168133.md",
+   "kind": "cited",
+   "author": "rsalimx",
+   "date": "",
+   "url": "https://x.com/rsalimx/status/2108629140480168133",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

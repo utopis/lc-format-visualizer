@@ -44,14 +44,15 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@adamtwtz](example/more/2097925109155549689.jpg)](https://x.com/adamtwtz/status/2097925109155549689)<br>**@adamtwtz** · 0:20 video · 9K views<br>there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take | [![@fuxps32](example/more/2067026390588039329.jpg)](https://x.com/fuxps32/status/2067026390588039329)<br>**@fuxps32** · 22:13 video · 188 views<br>400,000 likes, 80,000 saves, 0 sales pitches A woman scrolls her feed and stops on a supplement tier list. S tier, A tier, B tier, ranked on screen. S | [![@ViralSpyApp](example/more/2106822218961293724.jpg)](https://x.com/ViralSpyApp/status/2106822218961293724)<br>**@ViralSpyApp** · 0:11 video · 4 views<br>Tutti put piano in 'easy to learn' and its own practice app among the hardest. The one-screen instrument tier list got 824k plays and 4,532 comments. |
-| [![@JamestheUGCguy](example/more/2027472175339332091.jpg)](https://x.com/JamestheUGCguy/status/2027472175339332091)<br>**@JamestheUGCguy** · 1:18 video · 97 views<br>UGC example video for custom promo products in a tier list format. Really enjoy using formats that showcase products in fun ways. Brands, if you need | [![@BuckleUp99](example/more/2074426426942722118.jpg)](https://x.com/BuckleUp99/status/2074426426942722118)<br>**@BuckleUp99** · 0:34 video · 85 views<br>Everyone's using AI to fake UGC ads. I used it to invent a new ad format. An AI doctor. A live tier list. Real supplement verdicts. No script feel. No | [![@adswithcami](example/more/2095208948764668068.jpg)](https://x.com/adswithcami/status/2095208948764668068)<br>**@adswithcami** · image · 2K views<br>I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best |
+| [![@adamtaylorl](example/more/2089713928511345017.jpg)](https://x.com/adamtaylorl/status/2089713928511345017)<br>**@adamtaylorl** · images · 22K views<br>If you're in ecom Pay the f*ck attention to what Hike Footwear is doing with their creative right now This ad is 100% AI. And it will be taught in eve | [![@adamtwtz](example/more/2097925109155549689.jpg)](https://x.com/adamtwtz/status/2097925109155549689)<br>**@adamtwtz** · 0:20 video · 9K views<br>there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take | [![@fuxps32](example/more/2067026390588039329.jpg)](https://x.com/fuxps32/status/2067026390588039329)<br>**@fuxps32** · 22:13 video · 188 views<br>400,000 likes, 80,000 saves, 0 sales pitches A woman scrolls her feed and stops on a supplement tier list. S tier, A tier, B tier, ranked on screen. S |
+| [![@ViralSpyApp](example/more/2106822218961293724.jpg)](https://x.com/ViralSpyApp/status/2106822218961293724)<br>**@ViralSpyApp** · 0:11 video · 4 views<br>Tutti put piano in 'easy to learn' and its own practice app among the hardest. The one-screen instrument tier list got 824k plays and 4,532 comments. | [![@JamestheUGCguy](example/more/2027472175339332091.jpg)](https://x.com/JamestheUGCguy/status/2027472175339332091)<br>**@JamestheUGCguy** · 1:18 video · 97 views<br>UGC example video for custom promo products in a tier list format. Really enjoy using formats that showcase products in fun ways. Brands, if you need | [![@BuckleUp99](example/more/2074426426942722118.jpg)](https://x.com/BuckleUp99/status/2074426426942722118)<br>**@BuckleUp99** · 0:34 video · 85 views<br>Everyone's using AI to fake UGC ads. I used it to invent a new ad format. An AI doctor. A live tier list. Real supplement verdicts. No script feel. No |
+| [![@LachezarVoynov](example/more/2105679883300987071.jpg)](https://x.com/LachezarVoynov/status/2105679883300987071)<br>**@LachezarVoynov** · 2:38 video · 19K views<br>$25M/mo Meta spend: what scales (TOF creative first...). | [![@adswithcami](example/more/2095208948764668068.jpg)](https://x.com/adswithcami/status/2095208948764668068)<br>**@adswithcami** · image · 2K views<br>I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best |   |
 
 ## How to make one like it
 
@@ -176,7 +177,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 7 update: Lachezar Voynov (Oct 9, 2026)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 7 update: Lachezar Voynov (Oct 9, 2026)](README.md) · [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

@@ -17,6 +17,8 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@houseoffelsteve](https://x.com/houseoffelsteve/status/2064683771484320042) · A 9-second clip from a bespoke shoe shop: caption "POV: calling our customers to convince them why House of Felsteve is worth a visit" over quick shots of shoe walls, racks and shelves. It plays the 'we phone our customers' idea for laughs and as a shop tour.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2062924873022795932) · Customer calls. This ad has done over $500k in sales. We’ve been running this creative format since 2022 and it has been performing well for pretty mu
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2094742062755422423) · If you're in ecom Pay the f*ck attention to what GroundingWell is doing with their creative right now 550+ ads live. Their winning angle is hotel gues
 - Example: [@QueenCarlo11](https://x.com/QueenCarlo11/status/2057819667067015529) · Another day to get exciting news from @airtelmoneyug . Today our host Nichole was in studio calling our customers that received UGX 300,000 straight t
 - Example: [@antonioventre_](https://x.com/antonioventre_/status/2091592059517837677) · Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask.
 - Example: [@ecomchasedimond](https://x.com/ecomchasedimond/status/2108225940962914650) · Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of t
@@ -157,7 +159,7 @@ You are an LC ad editor. Here is the transcript of a recorded founder→customer
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (13 posts). Top 5:
+See [examples/README.md](examples/README.md) (16 posts). Top 5:
 
 - @williamkast_ (38L/46BM/3kV): Turn 1 winning ad into 5: same message, different frameworks (DITL, 3 reasons, old me/new me, phone call). — https://x.com/williamkast_/status/2086835243474985414
 - @antonioventre_ (37L/34BM/2kV): Surprise founder→customer call ad: customer doesn't know the call is coming; ad-manager screenshot shows it as top ROAS (4.80 on $20.9k) in a $112k set. — https://x.com/antonioventre_/status/2084767090116837682

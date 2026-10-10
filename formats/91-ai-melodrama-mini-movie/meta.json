@@ -3,9 +3,9 @@
  "slug": "91-ai-melodrama-mini-movie",
  "name": "AI melodrama mini-movie (2-10 min soap opera, humiliation → mentor → vindication, product after the midpoint)",
  "title": "91 · AI melodrama mini-movie (2-10 min soap opera, humiliation → mentor → vindication, product after the midpoint)",
- "n_examples": 27,
+ "n_examples": 30,
  "n_curated": 7,
- "n_candidates": 17,
+ "n_candidates": 16,
  "stages": [
   {
    "stage": "Find",
@@ -138,6 +138,20 @@
    "transcript": true
   },
   {
+   "id": "2104599048493666326",
+   "file": "2026-09-28-LachezarVoynov-2104599048493666326.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-09-28",
+   "url": "https://x.com/LachezarVoynov/status/2104599048493666326",
+   "eng": "169L/719BM/26kV",
+   "grade": "",
+   "gist": "14 Top-of-funnel AI video ads you need to test on Meta: 1. AI Skits: https://t.co/qHBs7rvzUU 2. AI Whistleblower: https://t.co/TeYvs3gg3z 3. Celebrity ads: https://t.co/GAO22DjHr4 ",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
    "id": "2105288429873528875",
    "file": "2026-09-30-EcomSapo-2105288429873528875.md",
    "kind": "cited",
@@ -188,15 +202,43 @@
    "transcript": false
   },
   {
-   "id": "2104599048493666326",
-   "file": "2026-09-28-LachezarVoynov-2104599048493666326.md",
-   "kind": "candidate",
+   "id": "2071623979371225598",
+   "file": "0000-00-00-LachezarVoynov-2071623979371225598.md",
+   "kind": "cited",
    "author": "LachezarVoynov",
-   "date": "2026-09-28",
-   "url": "https://x.com/LachezarVoynov/status/2104599048493666326",
-   "eng": "169L/719BM/26kV",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2071623979371225598",
+   "eng": "0L/0BM/0V",
    "grade": "",
-   "gist": "14 Top-of-funnel AI video ads you need to test on Meta: 1. AI Skits: https://t.co/qHBs7rvzUU 2. AI Whistleblower: https://t.co/TeYvs3gg3z 3. Celebrity ads: https://t.co/GAO22DjHr4 ",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "1975582890504204685",
+   "file": "0000-00-00-LachezarVoynov-1975582890504204685.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/1975582890504204685",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "1976293825112150474",
+   "file": "0000-00-00-LachezarVoynov-1976293825112150474.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/1976293825112150474",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

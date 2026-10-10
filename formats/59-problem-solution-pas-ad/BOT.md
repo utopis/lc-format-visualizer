@@ -154,7 +154,8 @@ For each LC pain point in {{PAINS}}, write a 45-60s PAS script with the 4 timed 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (2 posts). Top 5:
+See [examples/README.md](examples/README.md) (3 posts). Top 5:
 
 - @alexpagepilot (11L/19BM/1kV): Top 5 dropship formats: UGC problem/solution, "TikTok made me buy it", us vs them split, founder talking head (retargets 2-3x), text-overlay slideshow. — https://x.com/alexpagepilot/status/2099438014456045990
 - @ayomikunszn (26L/5BM/1kV): Created these Weekender Bag ad concepts after studying what's working for leading DTC travel brands on Meta. Each creative focuses on a different conversion ang — https://x.com/ayomikunszn/status/2078116608069800131
+- @mattgittleson (0L/0BM/0V):  — https://x.com/mattgittleson/status/2107530746923823444

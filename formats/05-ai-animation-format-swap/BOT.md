@@ -151,7 +151,7 @@ Claude skill pipeline (as built by @AlessandroLavis / @eliasrrecom): competitor 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (29 posts). Top 5:
+See [examples/README.md](examples/README.md) (30 posts). Top 5:
 
 - @spwfeijen (908L/2121BM/74kV): Chalkboard Explainer AI ad format: native look, step-by-step drawing retention, myths/listicles. — https://x.com/spwfeijen/status/2107023055532810720
 - @CEO_Vlad (894L/1279BM/49kV): 7 AI UGC animation styles and what each is good for (article). — https://x.com/CEO_Vlad/status/2107328605995077699

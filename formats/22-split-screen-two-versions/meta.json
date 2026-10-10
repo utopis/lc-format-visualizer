@@ -3,7 +3,7 @@
  "slug": "22-split-screen-two-versions",
  "name": "Split-screen \"two versions of the same person\" day",
  "title": "22 · Split-screen two versions",
- "n_examples": 9,
+ "n_examples": 10,
  "n_curated": 1,
  "n_candidates": 6,
  "stages": [
@@ -79,6 +79,20 @@
    "media": [
     "video"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2102759898391920860",
+   "file": "0000-00-00-adamtaylorl-2102759898391920860.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2102759898391920860",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

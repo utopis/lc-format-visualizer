@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High reach (22.5M views) / AI-persona caveat · hype risk: Med · cost $0-500 · 2-4 h
 
 ## What it is
@@ -105,6 +106,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 10-skit-and-problem-first-ugc-hooks, 13-identity-shareables-accidental-virality, 12-built-in-sharing-gift-referral
 - Formats: [53-ai-ugc-outlier-remake-lab](../53-ai-ugc-outlier-remake-lab/README.md), [47-grwm-stack-with-me](../47-grwm-stack-with-me/README.md), [08-drama-show-micro-series](../08-drama-show-micro-series/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Emotional redemption (Wuffes):** "We thought it was time to say goodbye for good." The discovery moment is a Reddit thread on screen ([@adamtaylorl](https://x.com/adamtaylorl/status/2090038014353277073)). Voynov's best ad of 2025 tells the story from the husband's POV: "His empathy for the struggles of his wife makes the ad feel like a love letter, not a promotion" ([post](https://x.com/LachezarVoynov/status/1976293825112150474)). LC: the partner who noticed she stopped wearing jewelry because it kept going green.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

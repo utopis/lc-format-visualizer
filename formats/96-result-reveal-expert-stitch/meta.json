@@ -3,13 +3,13 @@
  "slug": "96-result-reveal-expert-stitch",
  "name": "Result reveal → expert stitch ('Y'all, this is my dad… after listening to this man. Just listen.')",
  "title": "96 · Result reveal → expert stitch (\"Y'all, this is my dad… after listening to this man. Just listen.\")",
- "n_examples": 4,
+ "n_examples": 5,
  "n_curated": 0,
  "n_candidates": 3,
  "stages": [
   {
    "stage": "Find",
-   "status": "in progress"
+   "status": "done"
   },
   {
    "stage": "Deep research",
@@ -52,6 +52,20 @@
     "video",
     "video"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2102759897708249588",
+   "file": "0000-00-00-adamtaylorl-2102759897708249588.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2102759897708249588",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

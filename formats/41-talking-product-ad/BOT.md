@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@koloveski](https://x.com/koloveski/status/2076868032002150833) · A fully animated product video: an Amazon logo, "ONLY ONE CLICK", a parcel dropping in, an object rising out of a box, then the Amazon logo again. The product animates itself with no presenter.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2105251325130739743) · 1. The talking dog The whole story is told by the dog and the timeline tells the owner exactly when to expect results. Tell your story from the view o
 - Example: [@rirahcreates](https://x.com/rirahcreates/status/2092163067073241239) · We're entering an era where your marketing doesn't have to look ordinary. With AI, your ideas can literally come to life. Join AI Content Lab and lear
 - Example: [@DBackendBesties](https://x.com/DBackendBesties/status/2105653073276207449) · Day 1/30 of creating AI-powered ads for brands. I created this 3D animated product ad for @oraimomate to show how AI can help e-commerce brands turn t
 - Example: [@AgentOpusAI](https://x.com/AgentOpusAI/status/2082224622255374394) · Making an animated product ad used to be a project. Making them at scale used to take a month. We took down both. Full tutorial 👇 https://t.co/6pMG6df

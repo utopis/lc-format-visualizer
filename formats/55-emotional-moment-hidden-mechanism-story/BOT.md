@@ -21,6 +21,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@Strawaubreyyy](https://x.com/Strawaubreyyy/status/2006263964175622457) · Napaiyak ko sya nung Shady brunch 🥹 I gave her a locket necklace na may picture ng mom nya so she can carry it with her everywhere she goes🥹 & I told 
 - Example: [@eva_jiang47397](https://x.com/eva_jiang47397/status/1824386160946274779) · I bought my American mother-in-law a Chinese bracelet on Independence Day, and she was shocked.but she liked the necklace I gave her very much and hop
 - Example: [@sammgrowth](https://x.com/sammgrowth/status/2080991187133943894) · i should never be sharing this but fuck it a wedding app is running the craziest ai ugc play of 2026 and nobody has clocked it 11.8M views on one tikt
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2090038014353277073) · 1. The Emotional Redemption ad "We thought it was time to say goodbye for good" The discovery moment is a Reddit thread on screen.
 - Example: [@Pavol_Repisky](https://x.com/Pavol_Repisky/status/2078415656895082582) · Disposable-camera app $20K/mo in 83 days; best TikTok 10M views/900K likes = AI bride crying at "her" wedding.
 
 ### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
@@ -160,10 +161,10 @@ From these customer wedding/milestone stories {{STORIES}}, write 10 on-screen op
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (5 posts). Top 5:
+See [examples/README.md](examples/README.md) (8 posts). Top 5:
 
 - @traqscales (22L/27BM/1kV): Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, "we gave every guest a camera instead of hiring more photogr — https://x.com/traqscales/status/2108113354178932920
 - @stat_biz (6L/1BM/582V): Crying-face hooks go viral; Once's bride is clearly AI ("getting married" for 6+ months) — authenticity caveat. — https://x.com/stat_biz/status/2100293137709269251
 - @Pavol_Repisky (0L/0BM/130V): Disposable-camera app $20K/mo in 83 days; best TikTok 10M views/900K likes = AI bride crying at "her" wedding. — https://x.com/Pavol_Repisky/status/2078415656895082582
 - @sammgrowth (173L/231BM/22kV): i should never be sharing this but fuck it a wedding app is running the craziest ai ugc play of 2026 and nobody has clocked it 11.8M views on one tiktok. the ac — https://x.com/sammgrowth/status/2080991187133943894
-- @ugwu_kj (15L/30BM/713V): Write am now and keep it till December then launch an ad to sell it as a digital product. 😂 Let me even help you with a title: 2000+ Lessons 2026 taught me. Sub — https://x.com/ugwu_kj/status/2107182816706335130
+- @mattgittleson (0L/0BM/0V):  — https://x.com/mattgittleson/status/2107530746923823444

@@ -27,14 +27,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 7 | 0:10–0:12 | a a cent … lifestyle app pairing intimate dinner clips with a long-distance text hook before demonstrating a shared a couples drawing … Cal Me 866 Excellent 50. | · |
 | 8 | 0:12–0:14 | app pairing intimate dinner clips with a long-distance … before demonstrating a shared couples drawing … Me 568. Excellent 50.0% weighted | · |
 
-## More real examples (5)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@williamkast_](example/more/2104952871691117052.jpg)](https://x.com/williamkast_/status/2104952871691117052)<br>**@williamkast_** · image · 766 views<br>One message → podcast, street interview, no-cut native talk, UGC, mute text overlay, statics; 3 hooks each. | [![@annieqyang](example/more/2080756837272687087.jpg)](https://x.com/annieqyang/status/2080756837272687087)<br>**@annieqyang** · 0:10 video · 605 views<br>This reel format got 800k views and 1M views for Gamma, a $1B AI powerpoint company It's simple - a 7-8 second UGC clip with text overlay, spinning a | [![@consumerxai](example/more/2085409836641198327.jpg)](https://x.com/consumerxai/status/2085409836641198327)<br>**@consumerxai** · 0:17 video · 999 views<br>‼️Tiktok Outlier Alert ‼️ 📉 20M Views, 203K Likes, 271 Comments, 1.9K Shares, 5.9K Saves 🧐What this is: A counter-intuitive lifestyle hook you can use |
-| [![@lifemaximised](example/more/2087623547288207463.jpg)](https://x.com/lifemaximised/status/2087623547288207463)<br>**@lifemaximised** · image · 929 views<br>YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al | [![@ForZeOussama1](example/more/2106572097933767012.jpg)](https://x.com/ForZeOussama1/status/2106572097933767012)<br>**@ForZeOussama1** · image · 172 views<br>Meta can treat your 20 ads as one ad. Same footage. Same hook. Different text overlay. That's not testing. That's variation. Real creative diversity l |   |
+| [![@adamtaylorl](example/more/2100540268894093363.jpg)](https://x.com/adamtaylorl/status/2100540268894093363)<br>**@adamtaylorl** · 0:12 video · 403 views<br>4. The Short-Form Skit… No dialogue. No VO. Still works. Text on screen does all the selling. Perfect format for adding diversity into the account. | [![@williamkast_](example/more/2104952871691117052.jpg)](https://x.com/williamkast_/status/2104952871691117052)<br>**@williamkast_** · image · 766 views<br>One message → podcast, street interview, no-cut native talk, UGC, mute text overlay, statics; 3 hooks each. | [![@annieqyang](example/more/2080756837272687087.jpg)](https://x.com/annieqyang/status/2080756837272687087)<br>**@annieqyang** · 0:10 video · 605 views<br>This reel format got 800k views and 1M views for Gamma, a $1B AI powerpoint company It's simple - a 7-8 second UGC clip with text overlay, spinning a |
+| [![@consumerxai](example/more/2085409836641198327.jpg)](https://x.com/consumerxai/status/2085409836641198327)<br>**@consumerxai** · 0:17 video · 999 views<br>‼️Tiktok Outlier Alert ‼️ 📉 20M Views, 203K Likes, 271 Comments, 1.9K Shares, 5.9K Saves 🧐What this is: A counter-intuitive lifestyle hook you can use | [![@lifemaximised](example/more/2087623547288207463.jpg)](https://x.com/lifemaximised/status/2087623547288207463)<br>**@lifemaximised** · image · 929 views<br>YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al | [![@ForZeOussama1](example/more/2106572097933767012.jpg)](https://x.com/ForZeOussama1/status/2106572097933767012)<br>**@ForZeOussama1** · image · 172 views<br>Meta can treat your 20 ads as one ad. Same footage. Same hook. Different text overlay. That's not testing. That's variation. Real creative diversity l |
 
 ## How to make one like it
 
@@ -166,6 +166,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Licensed music only on paid. - B-roll must show LC product; AI people labelled.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

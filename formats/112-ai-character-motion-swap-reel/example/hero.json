@@ -1,0 +1,89 @@
+{
+ "id": "F112",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/kelmruns/status/2107508612058747114",
+ "author": "kelmruns",
+ "type": "video",
+ "duration": 9,
+ "mp4": "https://video.twimg.com/amplify_video/2107507399263199233/vid/avc1/320x614/kFllez2en_COcNRU.mp4?tag=29",
+ "w": 1320,
+ "h": 2536,
+ "via_quote": false,
+ "likes": 793,
+ "views": 215847,
+ "seen": "A 9-second vertical reel of an AI-generated gym bro with a giant blonde two-foot quiff, swapped with Seedance 2.5 into crowded real-world clips (a cowboy bar, a bowling alley, riding a lawn mower) with a hype soundtrack. The caption is one ego line: \"ladies you all look lovely tonight, but i look better\". The poster claims the 2-day-old account reached 26K followers and 2.2M likes in 48 hours and \"$13,700 from one clip\" (unverified; replies dispute monetisation). The character was generated in ChatGPT image; every shot keeps the same exaggerated silhouette so it reads on mute in half a second.",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:00",
+   "said": "",
+   "ocr": "ago Ladies you all look lovely tonight, but look better. Add comment..."
+  },
+  {
+   "t": "0:02",
+   "said": "",
+   "ocr": "ago Ladies you all look lovely tonight, but look better. Add comment..."
+  },
+  {
+   "t": "0:03",
+   "said": "",
+   "ocr": "17M $,219 a a \u2026 ago Ladies you all look lovely tonight, but look"
+  },
+  {
+   "t": "0:05",
+   "said": "",
+   "ocr": "a 17M 5,219 \u2026 80.4K a 603.3K \u2026 ago Ladies you all look lovely tonight, but look better. Add comment... 89"
+  },
+  {
+   "t": "0:06",
+   "said": "",
+   "ocr": "Sad 17M $219 80.4K 603.3K a \u2026 ago Ladies you all look lovely tonight, but look better. Add comment... 89"
+  },
+  {
+   "t": "0:08",
+   "said": "",
+   "ocr": "if 17M 5,219 80.4K 603.3K \u2026 ago Ladies you all look lovely tonight, but look better."
+  }
+ ],
+ "more": [
+  {
+   "id": "2108656084890349694",
+   "author": "kelmruns",
+   "url": "https://x.com/kelmruns/status/2108656084890349694",
+   "thumb": "example/more/2108656084890349694.jpg",
+   "kind": "0:15 video",
+   "cap": "the internet is so cooked this AI wednedsay made with GPT Astra 6 got 67.4M views and $27,433 on one clip > generate a pale girl with two black braids",
+   "views": 42024
+  },
+  {
+   "id": "2108258506801299744",
+   "author": "kelmruns",
+   "url": "https://x.com/kelmruns/status/2108258506801299744",
+   "thumb": "example/more/2108258506801299744.jpg",
+   "kind": "0:15 video",
+   "cap": "influencers are dead this AI freak DJ made with GPT Astra 6 got 9.9M views and $19,433 on one clip > generate a guy in a grey suit with a mushroom bow",
+   "views": 187132
+  },
+  {
+   "id": "2107886356496097561",
+   "author": "kelmruns",
+   "url": "https://x.com/kelmruns/status/2107886356496097561",
+   "thumb": "example/more/2107886356496097561.jpg",
+   "kind": "0:10 video",
+   "cap": "is this a f*cking joke? this AI short king made with ChatGPT got 3.9M views and $17,339 on 1 week from tiktok > generate a short chubby guy with a bow",
+   "views": 162075
+  },
+  {
+   "id": "2107165250868937035",
+   "author": "kelmruns",
+   "url": "https://x.com/kelmruns/status/2107165250868937035",
+   "thumb": "example/more/2107165250868937035.jpg",
+   "kind": "0:10 video",
+   "cap": "twins maded by Astra 6 make u millionaire in 2027 these AI influencer made with ChatGPT got 823K followers and $14,500 from one brand deal > generate ",
+   "views": 3510
+  }
+ ]
+}

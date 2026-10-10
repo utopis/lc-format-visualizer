@@ -16,4 +16,4 @@ Overlay 3 comment-reply variants on the current top 2 winners (new Entity IDs). 
 
 [_COMPLIANCE.md](../_COMPLIANCE.md). Only react to LC's own assets or public comments (no other brands' videos); real comments only.
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->

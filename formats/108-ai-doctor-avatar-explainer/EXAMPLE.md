@@ -69,6 +69,14 @@ The storyboard above samples the video every 0:26. Lines are the transcript for 
 
 </details>
 
+## More real examples (1)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@LachezarVoynov](example/more/2062924688292995126.jpg)](https://x.com/LachezarVoynov/status/2062924688292995126)<br>**@LachezarVoynov** · 1:41 video · 1K views<br>AI Pixar-style doctor VSL. The ad below scaled from $0 to $20k/day in spend in 5 days. Everybody is doing it because it works. |   |   |
+
 ## How to make one like it
 
 **The format in one line:** A single presenter in a white coat (or scrubs) talks straight to camera in a calm clinic or home-office set. The top of the screen has a fixed headline that names the problem and promises structure, for example **"Chronic bad breath has 3 layers‼️"**. Word-by-word captions sit mid-frame. Small picture-in-picture inserts (a mouth close-up, a gloved hand, a dropper bottle) pop up for each "layer". T
@@ -217,7 +225,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md) · [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

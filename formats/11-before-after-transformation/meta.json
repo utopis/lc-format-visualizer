@@ -3,7 +3,7 @@
  "slug": "11-before-after-transformation",
  "name": "Before → After (static + video), incl. \"Me before / me after\" and Polaroid proof",
  "title": "11 · Before → After",
- "n_examples": 12,
+ "n_examples": 14,
  "n_curated": 3,
  "n_candidates": 9,
  "stages": [
@@ -89,6 +89,34 @@
     "photo",
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2092205351336661342",
+   "file": "0000-00-00-adamtaylorl-2092205351336661342.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2092205351336661342",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2105251326959509651",
+   "file": "0000-00-00-adamtaylorl-2105251326959509651.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2105251326959509651",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

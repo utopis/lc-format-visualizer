@@ -17,14 +17,14 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@TheIvanKreimer](https://x.com/TheIvanKreimer/status/2107808445508321597) · An AI live-action melodrama (Smooche): a woman at an ID-photo desk being told she looks old ("in this photo", "what did you do?"), office scenes with colleagues, and the product only appearing around 1:54.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2071623979371225598) · What’s that ad creative style called? I reckon a ‘mini-movie’? I bet it prints. This is the typical hero’s journey used to create 99% of the Western w
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/1976293825112150474) · This is undeniably the best ad we’ve created in 2025. It combines many different elements that we've seen work in 2025, after spending over $20M on Me
 - Example: [@ViralOps_](https://x.com/ViralOps_/status/2108255353016406383) · Koriderm is absolutely CRUSHING with these DRAMA ads rn. they're literally making mini movies just to sell skincare products 😭 and i think this could 
 - Example: [@zedmadeit](https://x.com/zedmadeit/status/2102176819709673703) · heres how to make ai drama ads for your brand ai dramas are the new trend and theyre great for engagement but you want the right kind the kind that ac
 - Example: [@0xROAS](https://x.com/0xROAS/status/2104589798208065796) · 100% AI drama ad (Seedance): turn the winning ad into a 2-3 min story; Resilia hooks: cheating husband/wife, compared to another girl.
 - Example: [@SGradon](https://x.com/SGradon/status/2101705439565979947) · In 2026 creative strategists should steal from screenwriters AI drama ads are becoming a trend, and everyone's about to copy the same 5 stories. Here'
 - Example: [@tryatria_AI](https://x.com/tryatria_AI/status/2100612079891755286) · AI ANIMATED STORYTELLING ADS SHOULDN’T WORK THIS WELL. BUT THEY DO. 👀 Cartoon characters. Dramatic storylines. Pixar-style animation. Ridiculous plot 
 - Example: [@whotanish](https://x.com/whotanish/status/2100587035786715295) · All the big brands have already catching up too the AI drama ads . users have organically have been watching the micro dramas for really long It has b
-- Example: [@reon_gould](https://x.com/reon_gould/status/2101990638312886482) · 🚨HIRING: Video Editor for high scaling Ecommerce Brand Role: - Editing & creating high converting vsl style ai ecommerce ads from scratch (scripts and
-- Example: [@ViduAI_official](https://x.com/ViduAI_official/status/2092810457690308949) · AI video has been stuck in "prototype mode" for years. The Q3 Mix changes that: 🏷️ Ads: lip-synced testimonials + 15s one-take brand films 🎬 AI Drama:
 
 ### Live paid ads in this format (7 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -178,7 +178,7 @@ Write a 2:30 melodrama ad script for Louise Carter (waterproof 14K PVD jewelry, 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (27 posts). Top 5:
+See [examples/README.md](examples/README.md) (30 posts). Top 5:
 
 - @briannjho (138L/338BM/10kV): Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear "this is what happ — https://x.com/briannjho/status/2094662259746480410
 - @TheIvanKreimer (1L/0BM/62V): Smooche AI melodrama: ID-photo clerk scene, product at 1:54; retention: 90-95% drop before product. Try only if short DR saturated. — https://x.com/TheIvanKreimer/status/2107808445508321597

@@ -3,7 +3,7 @@
  "slug": "82-hyperreal-cgi-mechanism-xray",
  "name": "Hyperreal CGI mechanism / 'x-ray' shot (inside the material) + villain monologue",
  "title": "82 · Hyperreal CGI mechanism / \"x-ray\" shot (inside the material) + villain monologue",
- "n_examples": 7,
+ "n_examples": 10,
  "n_curated": 2,
  "n_candidates": 5,
  "stages": [
@@ -63,6 +63,53 @@
    "eng": "71L/129BM/10kV",
    "grade": "SOME",
    "gist": "66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2092576938309386363",
+   "file": "2026-08-26-adamtaylorl-2092576938309386363.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-08-26",
+   "url": "https://x.com/adamtaylorl/status/2092576938309386363",
+   "eng": "493L/741BM/77kV",
+   "grade": "SOME",
+   "gist": "Lymphoria 4,000+ ads live.",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092576542065082368/img/iu_8OM7zlTGpreY2.jpg",
+   "media": [
+    "video",
+    "photo",
+    "video",
+    "photo"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2102759896789713340",
+   "file": "0000-00-00-adamtaylorl-2102759896789713340.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2102759896789713340",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2097686470941438260",
+   "file": "0000-00-00-adamtaylorl-2097686470941438260.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2097686470941438260",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

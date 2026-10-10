@@ -123,11 +123,11 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). AI label; character clearly LC's; don't base on real people.
+**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). AI label; character clearly LC's; don't base on real people. <!-- W8NOTE -->
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 5 update: mascot duo for couples content (Oct 2026)](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 5 update: mascot duo for couples content (Oct 2026)](README.md)
 
 ## More examples
 

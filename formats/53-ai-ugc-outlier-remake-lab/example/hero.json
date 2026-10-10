@@ -60,6 +60,15 @@
  ],
  "more": [
   {
+   "id": "1986113376230015058",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/1986113376230015058",
+   "thumb": "example/more/1986113376230015058.jpg",
+   "kind": "1:12 video",
+   "cap": "I still feel the best way to find winning ad creative concepts is scrolling on TikTok or IG Reels. Our team just turned a viral organic concept into a",
+   "views": 177
+  },
+  {
    "id": "2095453949805392267",
    "author": "raph_guilhem",
    "url": "https://x.com/raph_guilhem/status/2095453949805392267",
@@ -121,15 +130,6 @@
    "kind": "0:25 video",
    "cap": "i made $36,863 this month using ai agents heres the 3 step process i use : -> i created an ai agent that scans 24/7 for new trends on tiktok once it s",
    "views": 361
-  },
-  {
-   "id": "2107886078841729342",
-   "author": "defileo",
-   "url": "https://x.com/defileo/status/2107886078841729342",
-   "thumb": "example/more/2107886078841729342.jpg",
-   "kind": "0:12 video",
-   "cap": "This is the CRAZIEST f*ckn sonnet 5.5 automation setup... One Claude Code orchestrator runs a full AI UGC pipeline across Apify, Higgsfield and Postiz",
-   "views": 2355
   }
  ]
 }

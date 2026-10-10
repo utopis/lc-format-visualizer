@@ -131,7 +131,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: "I need to publicly apologize… because I lied" (Nuora)](README.md)
+Newer observations live in the playbook: [Wave 2d update: "I need to publicly apologize… because I lied" (Nuora)](README.md) · [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

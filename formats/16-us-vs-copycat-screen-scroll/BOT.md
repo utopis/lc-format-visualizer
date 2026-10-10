@@ -17,6 +17,9 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@Nate_Google_](https://x.com/Nate_Google_/status/2104963469548085713) · A plain warning static: a red triangle and "IMPORTANT NOTICE: Please Check Before Purchasing", explaining that replicas use the brand's images and that you should only buy from the real site. It plays the copycat problem as a public-service notice.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2064374012805816524) · "Anti-selling" is one of the highest IQ moves in advertising. Stop dumping features & benefits in the first 3 seconds of your ad. It's boring, and peo
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2092205352188002785) · 4. The "Us vs. Them" PSA ad Creates an immediate enemy out of cheap Amazon knock-offs. Educates the viewer on plantar fasciitis and arch pain to posit
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2044805074111603155) · banger look at the hook of this ad this is how you create ads with 80% hook rate the odd visuals stop the scroll, the captions on screen support the v
 - Example: [@ultimategrafiks](https://x.com/ultimategrafiks/status/2090399839309738284) · I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea
 - Example: [@EiyanDickerson](https://x.com/EiyanDickerson/status/2088266872194023737) · 4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYh
 - Example: [@Hashir_Shaikh_](https://x.com/Hashir_Shaikh_/status/2096337779412304217) · We make 1,000+ statics every month. Around 10% are Us vs Them. Because showing the difference can be more powerful than simply talking about your prod
@@ -108,7 +111,7 @@ Screen recording of an iPhone scrolling marketplace listings of look-alike produ
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (10 posts). Top 5:
+See [examples/README.md](examples/README.md) (14 posts). Top 5:
 
 - @Nate_Google_ (258L/461BM/23kV): Us-vs-copycat ads: iPhone scrolling fake Amazon listings explaining the difference - high CVR MOF. — https://x.com/Nate_Google_/status/2104963469548085713
 - @adamtaylorl (36L/36BM/3kV): Dead in 2026: polished studio, "hey guys" UGC, discount statics, founder-story VSLs. Printing: ugly advertorial statics, long-form yapper, comment-reply hooks,  — https://x.com/adamtaylorl/status/2086814826177679660

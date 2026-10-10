@@ -18,12 +18,13 @@ A plain warning static: a red triangle and "IMPORTANT NOTICE: Please Check Befor
 |---|---|
 | 1 | IMPORTANT NOTICE Please Check Before Purchasing We've noticed a lot of … of our PRODUCT. If you purchase from any other shop than … you are likely to end up with a low quality replica. It can be nearly impossible to tell the difference because they are using … images and brand name. These … are typi |
 
-## More real examples (3)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
+| [![@LachezarVoynov](example/more/2064374012805816524.jpg)](https://x.com/LachezarVoynov/status/2064374012805816524)<br>**@LachezarVoynov** · 1:46 video · 5K views<br>"Anti-selling" is one of the highest IQ moves in advertising. Stop dumping features & benefits in the first 3 seconds of your ad. It's boring, and peo | [![@adamtaylorl](example/more/2092205352188002785.jpg)](https://x.com/adamtaylorl/status/2092205352188002785)<br>**@adamtaylorl** · image · 305 views<br>4. The "Us vs. Them" PSA ad Creates an immediate enemy out of cheap Amazon knock-offs. Educates the viewer on plantar fasciitis and arch pain to posit | [![@LachezarVoynov](example/more/2044805074111603155.jpg)](https://x.com/LachezarVoynov/status/2044805074111603155)<br>**@LachezarVoynov** · 0:37 video · 6K views<br>banger look at the hook of this ad this is how you create ads with 80% hook rate the odd visuals stop the scroll, the captions on screen support the v |
 | [![@ultimategrafiks](example/more/2090399839309738284.jpg)](https://x.com/ultimategrafiks/status/2090399839309738284)<br>**@ultimategrafiks** · image · 179 views<br>I love designing static ads because every product comes with a different story and creative challenge. CALLOUT, US vs THEM, DTC &amp; UGC, I love crea | [![@EiyanDickerson](example/more/2088266872194023737.jpg)](https://x.com/EiyanDickerson/status/2088266872194023737)<br>**@EiyanDickerson** · images · 9K views<br>4 Static Ads. 1 Angle. 1. Before &amp; After 2. Feature Callout 3. Headline Callout 4. Us vs Them A Moisturizer built for the heat☀️ https://t.co/jmYh | [![@Hashir_Shaikh_](example/more/2096337779412304217.jpg)](https://x.com/Hashir_Shaikh_/status/2096337779412304217)<br>**@Hashir_Shaikh_** · images · 5K views<br>We make 1,000+ statics every month. Around 10% are Us vs Them. Because showing the difference can be more powerful than simply talking about your prod |
 
 ## How to make one like it
@@ -96,11 +97,11 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). Don't name or show identifiable competitor brands/sellers; comparison claims must be substantiated (test records kept).
+**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). Don't name or show identifiable competitor brands/sellers; comparison claims must be substantiated (test records kept). <!-- W8NOTE -->
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

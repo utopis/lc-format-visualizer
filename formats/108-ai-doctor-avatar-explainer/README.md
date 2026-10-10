@@ -28,6 +28,7 @@ added: 2026-10-09 (wave 4: Fedotoff swipe boards)
 
 
 
+
 > **LC priority P2** · evidence: High (one of the 5 AI formats Fedotoff says are scaling; 283-ad board) · hype risk: Medium (authority claims) · cost $5-40 per video · 1-3 h
 
 ## What it is
@@ -112,3 +113,7 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Dr. Lisa Downing: "Men's health researcher" podcast (prostate DHT), 267 days live (Podcast-Style Ads board). A persona "researcher" plus one mechanism (DHT) plus one dose number; the page runs 1,357 ads across personas.
 - Stills, how-to and LC remakes: [adlibrary/](adlibrary/README.md).
 
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **AI Pixar-style doctor VSL:** "The ad below scaled from $0 to $20k/day in spend in 5 days. Everybody is doing it because it works" ([Voynov](https://x.com/LachezarVoynov/status/2062924688292995126)); #1 on his [8 formats at $100k+/mo](https://x.com/LachezarVoynov/status/2055314281390833845) (IM8). A stylised cartoon doctor is clearly not a real clinician, which is the honest way to run this; a photoreal AI "surgeon" (Hike) is not.
+<!-- /W8NOTE -->

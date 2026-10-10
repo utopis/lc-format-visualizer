@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (live example + playbook) · hype risk: Medium · cost $300-2,000 · 1-2 days
 
 ## What it is
@@ -99,6 +100,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 
 ## Wave 2d update: supplement skit ads
 - Ryze AI skit (1:55, peaked #46 of 14.7K ads) and Everyday Dose skit (1:32, #23 of 840, live 66 days) on Atria, both picked by @briannjho. Resilia's deal skit: "What do you mean the sale ends today?" (see **F99**).
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Voynov's skit recipe** ([post](https://x.com/LachezarVoynov/status/2100248342488055848)): skit → curiosity gap → conflict ("people on social media LOVE conflict") → verbalise the audience's scepticism → eliminate competitive options → reveal the product → introduce the offer. "Mind-f*ck hooks + good DR script + an engaging story = winning ad" ([post](https://x.com/LachezarVoynov/status/2062924954010624445)).
+- **New skit formats:** in-office thumb-fight ("extremely difficult to produce… find a creator who's not dry like 99% of UGC creators and can film with a friend", [post](https://x.com/LachezarVoynov/status/2060025378609992170)); 2-person-1-person skits (one actor playing both sides); AI character arguments and AI UFC fights (Penrose Skin). "If you can sell through entertainment, you've mastered Facebook ads" ([post](https://x.com/LachezarVoynov/status/2076695219114823683)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

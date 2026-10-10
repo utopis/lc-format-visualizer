@@ -3,7 +3,7 @@
  "slug": "49-cinematic-macro-product-film",
  "name": "Cinematic macro product film (15s, no dialogue)",
  "title": "49 · Cinematic macro product film (15s, no dialogue)",
- "n_examples": 10,
+ "n_examples": 12,
  "n_curated": 5,
  "n_candidates": 4,
  "stages": [
@@ -117,6 +117,34 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2089741135857975760",
+   "file": "0000-00-00-LachezarVoynov-2089741135857975760.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2089741135857975760",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2082493438520439242",
+   "file": "0000-00-00-LachezarVoynov-2082493438520439242.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2082493438520439242",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2108225912957186085",

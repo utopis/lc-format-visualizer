@@ -18,14 +18,40 @@ The storyboard above samples the video every 0:15. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:15 | · | · |
-| 2 | 0:15–0:30 | years, a a | · |
-| 3 | 0:30–0:46 | · | · |
-| 4 | 0:46–1:01 | · | · |
-| 5 | 1:01–1:17 | · | · |
-| 6 | 1:17–1:32 | · | · |
+| 1 | 0:00–0:15 | · | Last night my husband asked me to keep my shirt on 22 years of marriage And that's what we've come to He has no idea what that night |
+| 2 | 0:15–0:30 | years, a a | We met when we were 24, married 22 years And for two decades they've been wanting me every night All of me like you couldn't keep his hands off me |
+| 3 | 0:30–0:46 | · | In a kitchen, somewhere started to fade The new job, the lunches he never mentioned |
+| 4 | 0:46–1:01 | · | His phone faced down on her the last phone offer Then he kept my shirt on I never said a word What do you even say? Why won't you look at me? |
+| 5 | 1:01–1:17 | · | You can't ask that out So I blame my body The skin on my arms gone loose and wrinkled A kind you can pants and it takes a second to come back My legs creepy, my sister |
+| 6 | 1:17–1:32 | · | Can I try? I've got elasticity to |
 | 7 | 1:32–1:47 | 4? was fighting | · |
 | 8 | 1:47–2:03 | · | · |
+
+<details><summary>Full transcript (timestamped)</summary>
+
+- `0:00` Last night my husband asked me to keep my shirt on
+- `0:04` 22 years of marriage
+- `0:07` And that's what we've come to
+- `0:10` He has no idea what that night
+- `0:16` We met when we were 24, married 22 years
+- `0:24` And for two decades they've been wanting me every night
+- `0:27` All of me like you couldn't keep his hands off me
+- `0:32` In a kitchen, somewhere started to fade
+- `0:39` The new job, the lunches he never mentioned
+- `0:44` His phone faced down on her the last phone offer
+- `0:52` Then he kept my shirt on
+- `0:55` I never said a word
+- `0:57` What do you even say?
+- `1:00` Why won't you look at me?
+- `1:02` You can't ask that out
+- `1:05` So I blame my body
+- `1:07` The skin on my arms gone loose and wrinkled
+- `1:10` A kind you can pants and it takes a second to come back
+- `1:14` My legs creepy, my sister
+- `1:18` Can I try?
+- `1:21` I've got elasticity to
+
+</details>
 
 ## More real examples (8)
 
@@ -33,9 +59,9 @@ Other posts that show this format, or a close cousin of it. Click a thumbnail to
 
 | | | |
 |---|---|---|
-| [![@LachezarVoynov](example/more/2107857984361808065.jpg)](https://x.com/LachezarVoynov/status/2107857984361808065)<br>**@LachezarVoynov** · 7:26 video · 8K views<br>my team just created a 40-page MD file breaking down how to create Suno song ads that rip $200k/mo+ in ad spend. Summary: 1. Suno songs are not songs. | [![@lifemaximised](example/more/2100659903488819256.jpg)](https://x.com/lifemaximised/status/2100659903488819256)<br>**@lifemaximised** · 4:54 video · 5K views<br>RYZE ($25M+/mo) AI song ad library breakdown. | [![@therahulissar](example/more/2102465180567543939.jpg)](https://x.com/therahulissar/status/2102465180567543939)<br>**@therahulissar** · image · 3K views<br>4-min AI song video, product not revealed until minute 3 - winner. |
-| [![@mkwizrd](example/more/2088293230450512089.jpg)](https://x.com/mkwizrd/status/2088293230450512089)<br>**@mkwizrd** · image · 6K views<br>Brand reports AI song ad driving big order. | [![@manojbash](example/more/2102083500052795710.jpg)](https://x.com/manojbash/status/2102083500052795710)<br>**@manojbash** · image · 183K views<br>Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a | [![@Diego_exits](example/more/2100215847427944464.jpg)](https://x.com/Diego_exits/status/2100215847427944464)<br>**@Diego_exits** · images · 5K views<br>13k Active Meta ads and 17.000.000 MRR 🤯 AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesn |
-| [![@qwertyu_alex](example/more/2107923415650701515.jpg)](https://x.com/qwertyu_alex/status/2107923415650701515)<br>**@qwertyu_alex** · 4:54 video · 670 views<br>there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte | [![@vladdubchak_x](example/more/2107131198145204441.jpg)](https://x.com/vladdubchak_x/status/2107131198145204441)<br>**@vladdubchak_x** · 1:22 video · 207 views<br>You waste hours making one AI song ad because you did not do a timing map A timing map gets claude to listen to the song and map what word is said in |   |
+| [![@LachezarVoynov](example/more/2107857984361808065.jpg)](https://x.com/LachezarVoynov/status/2107857984361808065)<br>**@LachezarVoynov** · 7:26 video · 8K views<br>my team just created a 40-page MD file breaking down how to create Suno song ads that rip $200k/mo+ in ad spend. Summary: 1. Suno songs are not songs. | [![@adamtaylorl](example/more/2107425650478829611.jpg)](https://x.com/adamtaylorl/status/2107425650478829611)<br>**@adamtaylorl** · images · 29K views<br>Smooche creative to study. | [![@lifemaximised](example/more/2100659903488819256.jpg)](https://x.com/lifemaximised/status/2100659903488819256)<br>**@lifemaximised** · 4:54 video · 5K views<br>RYZE ($25M+/mo) AI song ad library breakdown. |
+| [![@therahulissar](example/more/2102465180567543939.jpg)](https://x.com/therahulissar/status/2102465180567543939)<br>**@therahulissar** · image · 3K views<br>4-min AI song video, product not revealed until minute 3 - winner. | [![@LachezarVoynov](example/more/2105679883300987071.jpg)](https://x.com/LachezarVoynov/status/2105679883300987071)<br>**@LachezarVoynov** · 2:38 video · 19K views<br>$25M/mo Meta spend: what scales (TOF creative first...). | [![@mkwizrd](example/more/2088293230450512089.jpg)](https://x.com/mkwizrd/status/2088293230450512089)<br>**@mkwizrd** · image · 6K views<br>Brand reports AI song ad driving big order. |
+| [![@LachezarVoynov](example/more/2108263460005875769.jpg)](https://x.com/LachezarVoynov/status/2108263460005875769)<br>**@LachezarVoynov** · image · 47K views<br>About to cancel my Higgsfield subscription and I can’t be happier about it Last month we spent $35,000 on it When I found out how much we’re spending, | [![@manojbash](example/more/2102083500052795710.jpg)](https://x.com/manojbash/status/2102083500052795710)<br>**@manojbash** · image · 183K views<br>Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a |   |
 
 ## How to make one like it
 
@@ -51,12 +77,12 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:07 | (visual beat, see frame 1) | … |
-| 2 | 0:23 | on screen: years, a a | … |
-| 3 | 0:38 | (visual beat, see frame 3) | … |
-| 4 | 0:54 | (visual beat, see frame 4) | … |
-| 5 | 1:09 | (visual beat, see frame 5) | … |
-| 6 | 1:24 | (visual beat, see frame 6) | … |
+| 1 | 0:07 | Last night my husband asked me to keep my shirt on 22 years of marriage And that's what we've come to He has no idea what that night | … |
+| 2 | 0:23 | We met when we were 24, married 22 years And for two decades they've been wanting me every night All of me like you couldn't keep his hands | … |
+| 3 | 0:38 | In a kitchen, somewhere started to fade The new job, the lunches he never mentioned | … |
+| 4 | 0:54 | His phone faced down on her the last phone offer Then he kept my shirt on I never said a word What do you even say? Why won't you look at me | … |
+| 5 | 1:09 | You can't ask that out So I blame my body The skin on my arms gone loose and wrinkled A kind you can pants and it takes a second to come bac | … |
+| 6 | 1:24 | Can I try? I've got elasticity to | … |
 | 7 | 1:40 | on screen: 4? was fighting | … |
 | 8 | 1:55 | (visual beat, see frame 8) | … |
 
@@ -155,7 +181,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: the Resilia / Smooche sung-drama VSL blueprint](README.md) · [Wave 7: Lachezar Voynov's automated Suno-song pipeline + the "keep my shirt on" song (Oct 9, 2026)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
+Newer observations live in the playbook: [Wave 2d update: the Resilia / Smooche sung-drama VSL blueprint](README.md) · [Wave 7: Lachezar Voynov's automated Suno-song pipeline + the "keep my shirt on" song (Oct 9, 2026)](README.md) · [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md)
 
 ## More examples
 

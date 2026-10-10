@@ -17,6 +17,8 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@FedotOff90](https://x.com/FedotOff90/status/2106401392374186396) · A woman in a white coat with a stethoscope talking to camera, with a hook caption ("Chronic bad breath has 3 layers!") pinned on top for the whole video and cutaways to mouth CGI.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2102759896789713340) · 3. The "This is why" cutaway A 3D inside-the-body visual stops the scroll, and "this is why" promises an answer they've never heard. Show what's happe
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2092576938309386363) · If you're in ecom Pay the f*ck attention to what Lymphoria is doing with their creative right now 4,000+ ads live. This will be taught in every guru c
 - Example: [@D_Only_Aji](https://x.com/D_Only_Aji/status/2091972209178796230) · Just wrapped up this 3D animated performance ad for Rejuvenate, built from the ground up using an AI-assisted production workflow. From creative direc
 - Example: [@FedotOff90](https://x.com/FedotOff90/status/2072477830861254686) · 66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board.
 - Example: [@HikeMyTraffic](https://x.com/HikeMyTraffic/status/2082004242471268500) · Team HikeMyTraffic created this stunning Wilkinson Sword Hydro 5 razor commercial entirely with AI. 🎬AI Product Videos | CGI Ads | Social Creatives Hi
@@ -160,10 +162,10 @@ Storyboard a 25s LC CGI mechanism ad: 6 shots (macro water on PVD gold, a villai
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (7 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @FedotOff90 (103L/205BM/8kV): 5 AI formats scaling: AI podcast (280 days live), AI UGC, AI doctor avatar, AI listicle, AI animation (claymation/CGI). — https://x.com/FedotOff90/status/2106401392374186396
 - @FedotOff90 (71L/129BM/10kV): 66-day cartoon AI ad: people know it is AI and still buy; 278 AI animation board. — https://x.com/FedotOff90/status/2072477830861254686
-- @lifemaximised (26L/10BM/3kV): I spent 48h building a FULL YouTube Ads system that combines Seedance 2.5 + Images 2.0 + Opus 5 From market research to winning AI ad creatives to campaign opti — https://x.com/lifemaximised/status/2085761997526999415
-- @D_Only_Aji (9L/2BM/603V): Just wrapped up this 3D animated performance ad for Rejuvenate, built from the ground up using an AI-assisted production workflow. From creative direction, visu — https://x.com/D_Only_Aji/status/2091972209178796230
-- @vladdubchak_x (4L/3BM/223V): Found this in the AI and CGI swipe file. A frequency-healing device has run the same ad for one hundred and ninety-eight days, and nobody speaks in it. It's thr — https://x.com/vladdubchak_x/status/2106709668324093965
+- @adamtaylorl (493L/741BM/77kV): Lymphoria 4,000+ ads live. — https://x.com/adamtaylorl/status/2092576938309386363
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2102759896789713340
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2097686470941438260

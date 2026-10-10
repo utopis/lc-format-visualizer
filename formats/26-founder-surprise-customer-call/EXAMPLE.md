@@ -34,14 +34,15 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
-## More real examples (5)
+## More real examples (7)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@QueenCarlo11](example/more/2057819667067015529.jpg)](https://x.com/QueenCarlo11/status/2057819667067015529)<br>**@QueenCarlo11** · 1:56 video · 95 views<br>Another day to get exciting news from @airtelmoneyug . Today our host Nichole was in studio calling our customers that received UGX 300,000 straight t | [![@antonioventre_](example/more/2091592059517837677.jpg)](https://x.com/antonioventre_/status/2091592059517837677)<br>**@antonioventre_** · image · 995 views<br>Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask. | [![@ecomchasedimond](example/more/2108225940962914650.jpg)](https://x.com/ecomchasedimond/status/2108225940962914650)<br>**@ecomchasedimond** · 0:44 video · 19K views<br>Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of t |
-| [![@antonioventre_](example/more/2107597529130873250.jpg)](https://x.com/antonioventre_/status/2107597529130873250)<br>**@antonioventre_** · image · 11K views<br>Customer service call ads are scaling like crazy for us right now If you haven't tried them yet, please do it https://t.co/laU2bgRZht | [![@antonioventre_](example/more/2079573874883104926.jpg)](https://x.com/antonioventre_/status/2079573874883104926)<br>**@antonioventre_** · image · 7K views<br>Call ads are quietly becoming their own category on Meta. Every variation of a recorded conversation is working for us right now: - FaceTime call ads, |   |
+| [![@LachezarVoynov](example/more/2062924873022795932.jpg)](https://x.com/LachezarVoynov/status/2062924873022795932)<br>**@LachezarVoynov** · 0:49 video · 483 views<br>Customer calls. This ad has done over $500k in sales. We’ve been running this creative format since 2022 and it has been performing well for pretty mu | [![@adamtaylorl](example/more/2094742062755422423.jpg)](https://x.com/adamtaylorl/status/2094742062755422423)<br>**@adamtaylorl** · images · 26K views<br>If you're in ecom Pay the f*ck attention to what GroundingWell is doing with their creative right now 550+ ads live. Their winning angle is hotel gues | [![@QueenCarlo11](example/more/2057819667067015529.jpg)](https://x.com/QueenCarlo11/status/2057819667067015529)<br>**@QueenCarlo11** · 1:56 video · 95 views<br>Another day to get exciting news from @airtelmoneyug . Today our host Nichole was in studio calling our customers that received UGX 300,000 straight t |
+| [![@antonioventre_](example/more/2091592059517837677.jpg)](https://x.com/antonioventre_/status/2091592059517837677)<br>**@antonioventre_** · image · 995 views<br>Customer-SERVICE call ad: record a real pre-purchase support call answering the 5-6 questions buyers actually ask. | [![@ecomchasedimond](example/more/2108225940962914650.jpg)](https://x.com/ecomchasedimond/status/2108225940962914650)<br>**@ecomchasedimond** · 0:44 video · 19K views<br>Your next winning Meta ad might already be sitting in a customer call, a TikTok trend, or something a competitor just posted. The problem is, all of t | [![@antonioventre_](example/more/2107597529130873250.jpg)](https://x.com/antonioventre_/status/2107597529130873250)<br>**@antonioventre_** · image · 11K views<br>Customer service call ads are scaling like crazy for us right now If you haven't tried them yet, please do it https://t.co/laU2bgRZht |
+| [![@antonioventre_](example/more/2079573874883104926.jpg)](https://x.com/antonioventre_/status/2079573874883104926)<br>**@antonioventre_** · image · 7K views<br>Call ads are quietly becoming their own category on Meta. Every variation of a recorded conversation is working for us right now: - FaceTime call ads, |   |   |
 
 ## How to make one like it
 
@@ -168,7 +169,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md)
 
 ## More examples
 

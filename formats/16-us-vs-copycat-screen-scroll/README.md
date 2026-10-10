@@ -32,6 +32,7 @@ related_strategies: [08-ad-library-transparency-targeting-intel, 41-von-restorff
 
 
 
+
 ## Looks like
 Screen recording of an iPhone scrolling marketplace listings of look-alike products while a VO explains how to tell the difference (materials, plating, reviews mentioning tarnish), then cuts to the real product. ([@Nate_Google_](https://x.com/Nate_Google_/status/2104963469548085713)).
 
@@ -48,6 +49,12 @@ Retargeting + broad; CVR, Omni new vs returning.
 
 ## Compliance
 [_COMPLIANCE.md](../_COMPLIANCE.md). Don't name or show identifiable competitor brands/sellers; comparison claims must be substantiated (test records kept).
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Anti-selling:** "use irony and present your top features while mocking your competition" ([Voynov](https://x.com/LachezarVoynov/status/2064374012805816524)). The 80%-hook-rate us-vs-them ad: odd visuals + captions + VO aligned ([post](https://x.com/LachezarVoynov/status/2044805074111603155)). "In-store shopping ads (picking up a competitor's product off the aisle and trashing it)" is on his [8 formats at $100k+/mo](https://x.com/LachezarVoynov/status/2055314281390833845).
+- **CloudSole "Us vs. Them" PSA:** makes an enemy of cheap Amazon knock-offs while educating ([post](https://x.com/adamtaylorl/status/2092205352188002785)). LC: "PSA: that $9 'gold' set on Amazon is brass with a coat of colour" (claims must be true and generic; no named competitor).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

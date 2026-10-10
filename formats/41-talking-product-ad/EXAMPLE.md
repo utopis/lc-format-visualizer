@@ -31,13 +31,14 @@ The storyboard above samples the video every 0:00. Lines are the transcript for 
 
 </details>
 
-## More real examples (3)
+## More real examples (4)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@rirahcreates](example/more/2092163067073241239.jpg)](https://x.com/rirahcreates/status/2092163067073241239)<br>**@rirahcreates** · 0:13 video · 370 views<br>We're entering an era where your marketing doesn't have to look ordinary. With AI, your ideas can literally come to life. Join AI Content Lab and lear | [![@DBackendBesties](example/more/2105653073276207449.jpg)](https://x.com/DBackendBesties/status/2105653073276207449)<br>**@DBackendBesties** · 0:26 video · 125 views<br>Day 1/30 of creating AI-powered ads for brands. I created this 3D animated product ad for @oraimomate to show how AI can help e-commerce brands turn t | [![@AgentOpusAI](example/more/2082224622255374394.jpg)](https://x.com/AgentOpusAI/status/2082224622255374394)<br>**@AgentOpusAI** · 0:04 video · 6K views<br>Making an animated product ad used to be a project. Making them at scale used to take a month. We took down both. Full tutorial 👇 https://t.co/6pMG6df |
+| [![@adamtaylorl](example/more/2105251325130739743.jpg)](https://x.com/adamtaylorl/status/2105251325130739743)<br>**@adamtaylorl** · 2:08 video · 1K views<br>1. The talking dog The whole story is told by the dog and the timeline tells the owner exactly when to expect results. Tell your story from the view o | [![@rirahcreates](example/more/2092163067073241239.jpg)](https://x.com/rirahcreates/status/2092163067073241239)<br>**@rirahcreates** · 0:13 video · 370 views<br>We're entering an era where your marketing doesn't have to look ordinary. With AI, your ideas can literally come to life. Join AI Content Lab and lear | [![@DBackendBesties](example/more/2105653073276207449.jpg)](https://x.com/DBackendBesties/status/2105653073276207449)<br>**@DBackendBesties** · 0:26 video · 125 views<br>Day 1/30 of creating AI-powered ads for brands. I created this 3D animated product ad for @oraimomate to show how AI can help e-commerce brands turn t |
+| [![@AgentOpusAI](example/more/2082224622255374394.jpg)](https://x.com/AgentOpusAI/status/2082224622255374394)<br>**@AgentOpusAI** · 0:04 video · 6K views<br>Making an animated product ad used to be a project. Making them at scale used to take a month. We took down both. Full tutorial 👇 https://t.co/6pMG6df |   |   |
 
 ## How to make one like it
 

@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@consumerxai](https://x.com/consumerxai/status/2092629155036987751) · Silent travel and food B-roll (beach, plates, a café table) with a long on-screen text story about a long-distance relationship, ending on a phone screen. There is no voice: the text overlay is the whole message.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2100540268894093363) · 4. The Short-Form Skit… No dialogue. No VO. Still works. Text on screen does all the selling. Perfect format for adding diversity into the account.
 - Example: [@williamkast_](https://x.com/williamkast_/status/2104952871691117052) · One message → podcast, street interview, no-cut native talk, UGC, mute text overlay, statics; 3 hooks each.
 - Example: [@annieqyang](https://x.com/annieqyang/status/2080756837272687087) · This reel format got 800k views and 1M views for Gamma, a $1B AI powerpoint company It's simple - a 7-8 second UGC clip with text overlay, spinning a 
 - Example: [@consumerxai](https://x.com/consumerxai/status/2085409836641198327) · ‼️Tiktok Outlier Alert ‼️ 📉 20M Views, 203K Likes, 271 Comments, 1.9K Shares, 5.9K Saves 🧐What this is: A counter-intuitive lifestyle hook you can use
@@ -159,7 +160,7 @@ Convert this winning LC ad script {{SCRIPT}} into 6 voiceless text-overlay beats
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (19 posts). Top 5:
+See [examples/README.md](examples/README.md) (22 posts). Top 5:
 
 - @williamkast_ (227L/549BM/17kV): 5 formats that win in every account, each with a live Atria ad link: founder, yapper, AI educator, B-roll text overlay, long VSL. — https://x.com/williamkast_/status/2084298521251860579
 - @williamkast_ (252L/400BM/13kV): Formats by funnel: TOF founder/yapper/AI animation/natives/3 reasons/voiceless overlay; MOF comment reply/testimonial mashup/text wall; BOF urgency statics. — https://x.com/williamkast_/status/2103910235005935644

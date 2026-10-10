@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium (live ad) · hype risk: Low · cost $0 · 15 min
 
 ## What it is
@@ -100,6 +101,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Nuora apology mash-up, live since Mar 5 (218 days), rank #5 of 221 brand ads on Atria: "I need to publicly apologize to anyone who's ever bought Nuora's Gut Ritual before because I lied. Yes, it's true that…" ([Atria](https://app.tryatria.com/ad/m2085613122215970), via @briannjho).
 - Resilia hands-only variant: text "My apologies for those who couldn't afford it" over a softgel-in-water demo (GetHookd public board preview, [board](https://app.gethookd.ai/share/board/331297?signature=67e55d45fd1139ee96a9b3b8ec4d776be0d3b45520e1ff38ce31cd44463a926c)).
 - LC: "I owe everyone who bought the Chelsea chain an apology: I told you to take it off in the pool. You don't have to."
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **"We need to apologize" / "I need to apologize"** (Dr. Squatch; "Paul from Rosabella") are on Voynov's [MOF/BOF](https://x.com/LachezarVoynov/status/2089741135857975760) and [10/10](https://x.com/LachezarVoynov/status/2097713680255189206) lists. Apologise only for something real (sold out, a shipping delay).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

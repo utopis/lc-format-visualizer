@@ -1,0 +1,139 @@
+{
+ "id": "F111",
+ "slug": "111-history-lesson-ad",
+ "name": "History-lesson ad (\\\"2,000 years ago people did X. Then the industry changed it for profit. Here's the version that goes back to the original\\\")",
+ "title": "111 · History-lesson ad",
+ "n_examples": 7,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2086842038457098499",
+   "file": "2026-08-10-LachezarVoynov-2086842038457098499.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-08-10",
+   "url": "https://x.com/LachezarVoynov/status/2086842038457098499",
+   "eng": "396L/1453BM/88kV",
+   "grade": "VALUE",
+   "gist": "29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2041181235230232837",
+   "file": "0000-00-00-LachezarVoynov-2041181235230232837.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2041181235230232837",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2072708967147471270",
+   "file": "0000-00-00-LachezarVoynov-2072708967147471270.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2072708967147471270",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2027442187835695191",
+   "file": "0000-00-00-LachezarVoynov-2027442187835695191.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2027442187835695191",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2079594476352246083",
+   "file": "0000-00-00-LachezarVoynov-2079594476352246083.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2079594476352246083",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2050577141197087015",
+   "file": "0000-00-00-LachezarVoynov-2050577141197087015.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2050577141197087015",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2062925236916420679",
+   "file": "0000-00-00-LachezarVoynov-2062925236916420679.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2062925236916420679",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

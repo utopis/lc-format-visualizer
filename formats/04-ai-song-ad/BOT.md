@@ -18,13 +18,13 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 
 - **Main example**: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2108585587494019562) · A 2-minute Pixar-style 3D music video sung in the first person by a woman in her 50s, with word-highlighted lyric captions and roughly 3-second shots. It opens on the wound ("Last night my husband asked me to keep my shirt on / 22 years of marriage"), flashes back to young love, shows the slow fade (the new job, his phone face down), blames her crepey arm skin, runs through failed fixes ($180 firm
 - Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107857984361808065) · my team just created a 40-page MD file breaking down how to create Suno song ads that rip $200k/mo+ in ad spend. Summary: 1. Suno songs are not songs.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2107425650478829611) · Smooche creative to study.
 - Example: [@lifemaximised](https://x.com/lifemaximised/status/2100659903488819256) · RYZE ($25M+/mo) AI song ad library breakdown.
 - Example: [@therahulissar](https://x.com/therahulissar/status/2102465180567543939) · 4-min AI song video, product not revealed until minute 3 - winner.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2105679883300987071) · $25M/mo Meta spend: what scales (TOF creative first...).
 - Example: [@mkwizrd](https://x.com/mkwizrd/status/2088293230450512089) · Brand reports AI song ad driving big order.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2108263460005875769) · About to cancel my Higgsfield subscription and I can’t be happier about it Last month we spent $35,000 on it When I found out how much we’re spending,
 - Example: [@manojbash](https://x.com/manojbash/status/2102083500052795710) · Suno Ai Song Ads are absolutely ripping for us Launched this ad few months back and it's still the top spender If you haven't tried it yet give this a
-- Example: [@Diego_exits](https://x.com/Diego_exits/status/2100215847427944464) · 13k Active Meta ads and 17.000.000 MRR 🤯 AI SONG ADS for RYZE SUPERFOODS are cooking rn MILLION DOLLAR DAYS type potential on this format haha - doesn
-- Example: [@qwertyu_alex](https://x.com/qwertyu_alex/status/2107923415650701515) · there's so many winning variations of song ads that prints! here are 4 products running their own style of song ad 1. coffee alternative 2. body butte
-- Example: [@vladdubchak_x](https://x.com/vladdubchak_x/status/2107131198145204441) · You waste hours making one AI song ad because you did not do a timing map A timing map gets claude to listen to the song and map what word is said in 
 
 ### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -170,7 +170,7 @@ Cost ~$10-60 + 2-4h. Make 3 songs per concept (different genres), not 30 hook va
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (31 posts). Top 5:
+See [examples/README.md](examples/README.md) (39 posts). Top 5:
 
 - @LachezarVoynov (396L/1453BM/88kV): 29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...). — https://x.com/LachezarVoynov/status/2086842038457098499
 - @adamtaylorl (357L/463BM/29kV): Smooche creative to study. — https://x.com/adamtaylorl/status/2107425650478829611

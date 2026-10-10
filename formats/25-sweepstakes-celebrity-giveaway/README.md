@@ -32,6 +32,7 @@ related_strategies: [12-built-in-sharing-gift-referral, 14-email-list-as-asset, 
 
 
 
+
 ## Looks like
 Hero creative: celebrity/creator + big prize visual; entry = email/SMS (or purchase = bonus entries); countdown; recap winners. Ridge used Marden Kane / RTM Media for administration ([@couuor](https://x.com/couuor/status/2098515153654562908)). Their 2026 mix shifted toward Facebook (46.7%) and TikTok (9.1%, ROAS +361%).
 

@@ -33,6 +33,7 @@ related_strategies: [11-social-proof-credibility-engine, 41-von-restorff-static-
 
 
 
+
 ## What it looks like
 Split image or 2-slide: left/first "before" (problem state), right/second "after" (result), with a date or condition label; video version = jump-cut transition. "People stop because they see a real change, not a product… then long primary text tells the story" ([@antonioventre_](https://x.com/antonioventre_/status/2078512377616589256)).
 
@@ -54,6 +55,12 @@ Collect real wear-test photos from 10 customers/creators (send product, pay $50,
 
 ## Wave 2d update: before/after share in neighbouring accounts
 - AdWhispr samples (120-169 ads each): Lymphoria 52% before/after; Rosabella 84% UGC lifestyle; Resilia 60% animation, 20% UGC talking head; Koriderm 40% studio product, 28% text overlay. Resilia's "Day 1 → Day 42" selfie diary stitches into an expert clip (**F96**).
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Reverse before & after (PetLab):** "She ran out for a week and the symptoms came straight back. Proof by taking the product away" ([@adamtaylorl](https://x.com/adamtaylorl/status/2105251326959509651)). LC: "I lent my LC stack to my sister for a week and wore my old chain. Day 3: green neck."
+- **Status transformation (CloudSole):** "5'8 ➡️ 5'11", fast and native, sells status ([post](https://x.com/adamtaylorl/status/2092205351336661342)). Voynov lists transformation ads first in his [29 TOF formats](https://x.com/LachezarVoynov/status/2086842038457098499) (Resilia).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

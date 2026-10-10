@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium · hype risk: Low · cost $0 · 1-2 h
 
 ## What it is
@@ -99,6 +100,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 31-founder-daily-posting-product-as-ad
 - Formats: [27-founder-walk-and-talk-story-ad](../27-founder-walk-and-talk-story-ad/README.md), [46-unboxing-packing-orders](../46-unboxing-packing-orders/README.md), [23-first-person-pov-hyperreal](../23-first-person-pov-hyperreal/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Day in the life (Loop):** "just shows a guy using it for a day. Laptop, backpack, crowd at a live event. Sells a 3-in-1 product without ever explaining it" ([post](https://x.com/adamtaylorl/status/2100540269351350453)). **Retail vlog (Wuffes):** "You're 40 seconds into a dog date before you realize Petco and the ingredients list walked in with it" ([post](https://x.com/adamtaylorl/status/2090038019059314970)). Voynov's BTS warehouse (Oats Overnight) and AI warehouse ads are on his lists.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

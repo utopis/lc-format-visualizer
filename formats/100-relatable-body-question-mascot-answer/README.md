@@ -31,6 +31,7 @@ added: 2026-10-09 (wave 3: brands & apps crushing it)
 
 
 
+
 > **LC priority P0** · evidence: High (522M views, 930 videos >100K, one app) · hype risk: Low · cost $0-150 per creator video · 20-40 min
 
 ## What it is

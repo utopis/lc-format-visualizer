@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: High (multiple live long-runners; retention caveat) · hype risk: Medium · cost $150-600 per finished ad (AI video + edit) or a real-actor shoot · 1-3 days
 
 ## What it is
@@ -108,6 +109,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 32-drama-show-ads-hidden-storyline, 35-mass-awareness-placement-to-advertorial
 - Formats: [08-drama-show-micro-series](../08-drama-show-micro-series/README.md), [04-ai-song-ad](../04-ai-song-ad/README.md), [50-mini-documentary-how-its-made](../50-mini-documentary-how-its-made/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Mini-movie:** "the typical hero's journey… a main character who's struggling… Then he gets introduced to [your product]. 180-degree shift" ([Voynov](https://x.com/LachezarVoynov/status/2071623979371225598), 3:35). "AI mini-movie" (The Health Haven) is on his [14 AI TOF formats](https://x.com/LachezarVoynov/status/2104599048493666326). **Fantasy-selling:** the Whop/GTA ad "doesn't sell a solution, it sells a fantasy… not a single mention of Whop" ([post](https://x.com/LachezarVoynov/status/1975582890504204685)).
+- **Best ad of 2025 (Voynov):** a husband and co-founder's POV, struggle → turning point → victory, plus DR inside (selling against the competition, unique mechanism, social proof, risk reversal) ([post](https://x.com/LachezarVoynov/status/1976293825112150474)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

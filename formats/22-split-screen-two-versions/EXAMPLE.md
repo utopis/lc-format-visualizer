@@ -39,14 +39,14 @@ The storyboard above samples the video every 0:03. Lines are the transcript for 
 
 </details>
 
-## More real examples (4)
+## More real examples (5)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@creativesbycare](example/more/2099292610175361351.jpg)](https://x.com/creativesbycare/status/2099292610175361351)<br>**@creativesbycare** · 0:55 video · 114 views<br>If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 1/4) ⭐️ READING REVIEWS ⭐️ Social pro | [![@DailyYTNiches](example/more/2096979805346673029.jpg)](https://x.com/DailyYTNiches/status/2096979805346673029)<br>**@DailyYTNiches** · image · 7K views<br>This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format | [![@YouTubeAut3538](example/more/2097064734474256890.jpg)](https://x.com/YouTubeAut3538/status/2097064734474256890)<br>**@YouTubeAut3538** · image · 633 views<br>This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split |
-| [![@ytaeliteacademy](example/more/2096998590971269290.jpg)](https://x.com/ytaeliteacademy/status/2096998590971269290)<br>**@ytaeliteacademy** · image · 428 views<br>This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format |   |   |
+| [![@adamtaylorl](example/more/2102759898391920860.jpg)](https://x.com/adamtaylorl/status/2102759898391920860)<br>**@adamtaylorl** · 2:35 video · 482 views<br>5. Choose your own adventure Handing the viewer the decision turns a 2-minute ad into a game they want to finish. Give them two paths, and let the bad | [![@creativesbycare](example/more/2099292610175361351.jpg)](https://x.com/creativesbycare/status/2099292610175361351)<br>**@creativesbycare** · 0:55 video · 114 views<br>If you're a smart brand... Here is one of the formats you'll start testing now, to avoid scrambling in Q4! (part 1/4) ⭐️ READING REVIEWS ⭐️ Social pro | [![@DailyYTNiches](example/more/2096979805346673029.jpg)](https://x.com/DailyYTNiches/status/2096979805346673029)<br>**@DailyYTNiches** · image · 7K views<br>This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format |
+| [![@YouTubeAut3538](example/more/2097064734474256890.jpg)](https://x.com/YouTubeAut3538/status/2097064734474256890)<br>**@YouTubeAut3538** · image · 633 views<br>This channel hasn't even had a single flop video. ~ 1.86k subs ~ 547,079 total views ~ $875 in the 30 days alone (assume $2.59 RPM) Format &gt; Split | [![@ytaeliteacademy](example/more/2096998590971269290.jpg)](https://x.com/ytaeliteacademy/status/2096998590971269290)<br>**@ytaeliteacademy** · image · 428 views<br>This channel hasn't even had a single flop video 👀 ~ 1.86k subscribers ~ 547,079 total views ~ $875 in the 30 days alone (assuming a $2.59 RPM) Format |   |
 
 ## How to make one like it
 
@@ -112,7 +112,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ### 7. Variants and test plan
 
-**Test plan:** Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md).
+**Test plan:** Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md). <!-- W8NOTE -->
 
 **Naming:** `F22-<variant>-<hook##>-<date>` so results map back to this folder. Change one thing per test (hook, narrator, length or offer), never two.
 
@@ -125,11 +125,11 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md).
+**Compliance:** Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md). <!-- W8NOTE -->
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 3 update: AI debate split-screen (Oct 2026)](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: AI debate split-screen (Oct 2026)](README.md)
 
 ## More examples
 

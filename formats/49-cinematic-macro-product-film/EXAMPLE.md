@@ -25,14 +25,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 | 5 | 0:06–0:08 | · | · |
 | 6 | 0:08–0:10 | Comment RING I'll share the prompt with you. | · |
 
-## More real examples (5)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@rirahcreates](example/more/2086324982892605618.jpg)](https://x.com/rirahcreates/status/2086324982892605618)<br>**@rirahcreates** · 0:10 video · 454 views<br>AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum | [![@Balentin_J](example/more/2080581505441480774.jpg)](https://x.com/Balentin_J/status/2080581505441480774)<br>**@Balentin_J** · 0:15 video · 3K views<br>&gt; What if a familiar kitchen moment could become a product story? 🥤 I explored that idea by reimagining the Vitamix A3500 as the centerpiece of a f | [![@alohaproxy](example/more/2104226192085987378.jpg)](https://x.com/alohaproxy/status/2104226192085987378)<br>**@alohaproxy** · 1:04 video · 781 views<br>Every founder wants to see their product here👑 Ankon AI is currently at HOF on HopUp. I thought that deserved more than a leaderboard card......So I t |
-| [![@gptproto](example/more/2077709443165507626.jpg)](https://x.com/gptproto/status/2077709443165507626)<br>**@gptproto** · 0:15 video · 526 views<br>Can AI create luxury brand advertisements? This fragrance commercial was created with AI. Workflow: 🖼️ GPT Image 2 → storyboard &amp; visual concept 🎬 | [![@Imagvio_AI](example/more/2088473026098774492.jpg)](https://x.com/Imagvio_AI/status/2088473026098774492)<br>**@Imagvio_AI** · 0:21 video · 195 views<br>Your weekend challenge starts now. 🎬 We created this entire cinematic product ad with Imagvio AI — from the luxury store to the product reveal, ingred |   |
+| [![@LachezarVoynov](example/more/2082493438520439242.jpg)](https://x.com/LachezarVoynov/status/2082493438520439242)<br>**@LachezarVoynov** · 0:28 video · 1K views<br>ASMR ads like this one literally print money for products that don’t require too much education. As an agency, we always try to focus on heavy TOF ads | [![@rirahcreates](example/more/2086324982892605618.jpg)](https://x.com/rirahcreates/status/2086324982892605618)<br>**@rirahcreates** · 0:10 video · 454 views<br>AI formats to watch: Pixar storytelling, claymation, timeline/notes videos, cinematic product ads, virtual influencers, 3D product animation, AI docum | [![@Balentin_J](example/more/2080581505441480774.jpg)](https://x.com/Balentin_J/status/2080581505441480774)<br>**@Balentin_J** · 0:15 video · 3K views<br>&gt; What if a familiar kitchen moment could become a product story? 🥤 I explored that idea by reimagining the Vitamix A3500 as the centerpiece of a f |
+| [![@alohaproxy](example/more/2104226192085987378.jpg)](https://x.com/alohaproxy/status/2104226192085987378)<br>**@alohaproxy** · 1:04 video · 781 views<br>Every founder wants to see their product here👑 Ankon AI is currently at HOF on HopUp. I thought that deserved more than a leaderboard card......So I t | [![@gptproto](example/more/2077709443165507626.jpg)](https://x.com/gptproto/status/2077709443165507626)<br>**@gptproto** · 0:15 video · 526 views<br>Can AI create luxury brand advertisements? This fragrance commercial was created with AI. Workflow: 🖼️ GPT Image 2 → storyboard &amp; visual concept 🎬 | [![@Imagvio_AI](example/more/2088473026098774492.jpg)](https://x.com/Imagvio_AI/status/2088473026098774492)<br>**@Imagvio_AI** · 0:21 video · 195 views<br>Your weekend challenge starts now. 🎬 We created this entire cinematic product ad with Imagvio AI — from the luxury store to the product reveal, ingred |
 
 ## How to make one like it
 
@@ -158,7 +158,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

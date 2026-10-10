@@ -17,6 +17,9 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@tryatria_AI](https://x.com/tryatria_AI/status/2105329322496016777) · A retro late-80s TV infomercial: a big-haired presenter in a pink suit, a "70% WATER" starburst, a dermatology close-up, the product bottle (Magic serum) on a set, and a collage of archive-looking footage. The lo-fi era styling is the hook.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2062924772510433304) · Spokesperson ads. I don’t think anyone is doing it better now than The Chocolate Bar. Write a good script with a creative angle and find a spokesperso
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2028848986182828435) · Authority figure educational ad creatives are a cheat code for scaling. 1. Low frequency 2. Perfect for Unaware audiences 3. Highly convincing 4. High
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2105251326498123878) · 4. The expert The vet brushes past 2.3M owners and 100K reviews to get to the one thing competitors can't claim: a clinical study. Name your biggest p
 - Example: [@CEO_Vlad](https://x.com/CEO_Vlad/status/2088597593949692087) · AI pharmacist ad format: $5, 4 minutes (authority-figure risk).
 - Example: [@TomReichertWA](https://x.com/TomReichertWA/status/2085467482224247014) · @CocaCola Quick jump to tick tock to dub in music to my Grok made clip now I made you a retro ad in a minute 😎 @nikitabier @X @elonmusk Hot weather gr
 - Example: [@HenryCrochemore](https://x.com/HenryCrochemore/status/2092191032645431595) · this static is weird enough to make you stop poo-pourri took a product nobody wants to think about and wrapped it in a polished retro ad the contrast 
@@ -107,10 +110,10 @@ VHS grain, 4:3 framing, serious host in a pink blazer, studio set, big claims ov
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (5 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @tryatria_AI (118L/211BM/8kV): Retro 1987-TV dermatologist ad: un-polished authority format stands out. — https://x.com/tryatria_AI/status/2105329322496016777
 - @CEO_Vlad (78L/117BM/7kV): AI pharmacist ad format: $5, 4 minutes (authority-figure risk). — https://x.com/CEO_Vlad/status/2088597593949692087
 - @antonioventre_ (47L/49BM/3kV): Supplement 3.17x ROAS: 1 CBO/product, 1 ad set/persona; creatives = Suno AI ads, professor interview... — https://x.com/antonioventre_/status/2108228200421576872
-- @HenryCrochemore (5L/1BM/394V): this static is weird enough to make you stop poo-pourri took a product nobody wants to think about and wrapped it in a polished retro ad the contrast is what ma — https://x.com/HenryCrochemore/status/2092191032645431595
-- @TomReichertWA (3L/0BM/90V): @CocaCola Quick jump to tick tock to dub in music to my Grok made clip now I made you a retro ad in a minute 😎 @nikitabier @X @elonmusk Hot weather grate soft d — https://x.com/TomReichertWA/status/2085467482224247014
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2028848986182828435
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2041181235230232837

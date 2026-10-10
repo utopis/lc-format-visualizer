@@ -31,6 +31,7 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks]
 
 
 
+
 ## Looks like
 Left: version A of a person's day; right: version B (with product), synced timelines, captions with times.
 
@@ -39,6 +40,11 @@ A. "Taking jewelry off before every shower/gym/beach" (left: fumbling, losing ea
 
 ## Metric/compliance
 Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md).
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Choose your own adventure (RYZE):** "Handing the viewer the decision turns a 2-minute ad into a game they want to finish. Give them two paths, and let the bad one play out first" ([@adamtaylorl](https://x.com/adamtaylorl/status/2102759898391920860)). LC: "Path A: the $12 chain (green by Friday). Path B: LC (still gold at the beach)".
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: AI debate split-screen (Oct 2026)

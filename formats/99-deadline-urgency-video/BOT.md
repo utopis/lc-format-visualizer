@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@Counterprint](https://x.com/Counterprint/status/2107894146140631180) · A sample-sale "LAST CHANCE! ENDS TONIGHT" video: a fast top-down scroll across piles of colourful printed books, packaging and merch on a table.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2090038016685351362) · 2. The Flash Sale ad 7 seconds. Looks like a story post, not an ad. Pure BOF retargeting.
 - Example: [@jackolivieri_](https://x.com/jackolivieri_/status/2097798592010547583) · Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share).
 - Example: [@ItsDuntee](https://x.com/ItsDuntee/status/2102309812109193718) · 🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 Sept
 - Example: [@kabiwinter](https://x.com/kabiwinter/status/2095851837312122988) · #AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from s
@@ -158,10 +159,10 @@ Write 6 deadline-urgency videos (≤15 s) for LC's real deadline {{DEADLINE}}: 2
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (8 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @ErJithin (0L/0BM/0V): Story-song ads losing top impression rank to BOF statics in Koriderm/Resilia libraries. — https://x.com/ErJithin/status/2107419279872360910
 - @MaximilianMoj (0L/0BM/0V): Resilia "$36M/month" (unverified) top 5 ads via Playhead teardowns: candida, aged garlic 4-week arteries, GLP-1, urgency (8 at once), animated explainer. — https://x.com/MaximilianMoj/status/2101002307160731848
 - @jackolivieri_ (0L/0BM/0V): Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share). — https://x.com/jackolivieri_/status/2097798592010547583
-- @Counterprint (0L/0BM/0V):  — https://x.com/Counterprint/status/2107894146140631180
-- @CityOfStonks (61L/1BM/3kV): LAST CHANCE TO GRAB SOME KEYS!!! @ccmweb3 has a GIVEAWAY for FIVE keys This is the creative agency that built City of Stonks, my personal media brand - show som — https://x.com/CityOfStonks/status/2093225775755657483
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2108558106984595660
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2090038016685351362

@@ -130,7 +130,7 @@ Angles from real reviews (Claude: cluster LC reviews into motivators: shower-pro
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (37 posts). Top 5:
+See [examples/README.md](examples/README.md) (38 posts). Top 5:
 
 - @jakecastilloooo (984L/3090BM/290kV): Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test ta — https://x.com/jakecastilloooo/status/2107873317369581751
 - @kristian_jennin (1124L/3024BM/231kV): AI UGC looks fake because of a missing step (realism workflow video). — https://x.com/kristian_jennin/status/2101352217089282066

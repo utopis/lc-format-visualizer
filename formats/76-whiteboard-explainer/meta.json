@@ -3,7 +3,7 @@
  "slug": "76-whiteboard-explainer",
  "name": "Whiteboard explainer (marker diagram of the mechanism, static or video)",
  "title": "76 · Whiteboard explainer (marker diagram of the mechanism, static or video)",
- "n_examples": 6,
+ "n_examples": 9,
  "n_curated": 0,
  "n_candidates": 4,
  "stages": [
@@ -38,6 +38,23 @@
  ],
  "examples": [
   {
+   "id": "2105679883300987071",
+   "file": "2026-10-01-LachezarVoynov-2105679883300987071.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-10-01",
+   "url": "https://x.com/LachezarVoynov/status/2105679883300987071",
+   "eng": "180L/361BM/19kV",
+   "grade": "VALUE",
+   "gist": "$25M/mo Meta spend: what scales (TOF creative first...).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104954981950320640/img/nD3qjsCG_qPUXNmU.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
    "id": "2104949773539442831",
    "file": "2026-09-29-FedotOff90-2104949773539442831.md",
    "kind": "cited",
@@ -67,6 +84,34 @@
    "media": [
     "video"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2062925177093046625",
+   "file": "0000-00-00-LachezarVoynov-2062925177093046625.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2062925177093046625",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2055314281390833845",
+   "file": "0000-00-00-LachezarVoynov-2055314281390833845.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2055314281390833845",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

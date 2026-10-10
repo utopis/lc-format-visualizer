@@ -32,6 +32,7 @@ related_strategies: [11-social-proof-credibility-engine]
 
 
 
+
 ## Looks like
 VHS grain, 4:3 framing, serious host in a pink blazer, studio set, big claims overlay ("550,000+ women"), phone number style lower-third. "It doesn't look like a polished DTC ad" ([@tryatria_AI](https://x.com/tryatria_AI/status/2105329322496016777)).
 
@@ -45,6 +46,12 @@ C. "Infomercial problem" opener in black-and-white ("Tired of jewelry that turns
 
 ## Compliance
 [_COMPLIANCE.md](../_COMPLIANCE.md). No fake doctors/pharmacists/jewelers; customer counts verified; parody must be obviously comedic.
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Spokesperson ads:** "I don't think anyone is doing it better now than The Chocolate Bar" ([Voynov](https://x.com/LachezarVoynov/status/2062924772510433304)). The Conscious Bar framework: hook → problem intro → problem education → agitation → product intro → explanation → CTA, told through the story of cacao with ASMR B-roll ([post](https://x.com/LachezarVoynov/status/2041181235230232837)).
+- **Authority educational ads** "are a cheat code for scaling: low frequency, perfect for unaware, highly convincing" ([Voynov](https://x.com/LachezarVoynov/status/2028848986182828435)). PetLab's expert "brushes past 2.3M owners and 100K reviews to get to the one thing competitors can't claim: a clinical study" ([post](https://x.com/adamtaylorl/status/2105251326498123878)). Wuffes runs a real vet, "the trust anchor everything else borrows from" ([post](https://x.com/adamtaylorl/status/2090038021265502679)). LC: name the big proof (reviews), dismiss it, then show the one only LC has (a 30-day saltwater test on camera).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

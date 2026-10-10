@@ -18,6 +18,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 
 - **Main example**: [@CalixAVelarde](https://x.com/CalixAVelarde/status/2083448214431351004) · A girl in a car talking to camera with bold yellow word-by-word captions ("EUROPE THIS SUMMER", "DOING HIP THRUST"): a result-reveal story told AI-UGC style.
 - Example: [@HoIyJosee](https://x.com/HoIyJosee/status/1668712653726859268) · This is my Mom after taking Lady Gaga’s advice and getting the Nurtec® ODT (rimegepant) 75 mg shot… what’s going on?!!’ @ladygaga @pfizer
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2102759897708249588) · 4. The expert told me The expert delivers the claim, so the product never has to sell itself. This one has been live for 12 months. Tell the story of 
 - Example: [@EvoBradley](https://x.com/EvoBradley/status/2082416231353590174) · The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits tr
 
 ### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
@@ -151,9 +152,10 @@ Write 5 result-reveal intros (≤8 s each) from real LC customer stories {{STORI
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (4 posts). Top 5:
+See [examples/README.md](examples/README.md) (5 posts). Top 5:
 
 - @CalixAVelarde (4L/1BM/461V): this girl-in-car ai ugc format is actually insane this entire clip is ONE generation i didn't stitch anything together. dropped the script in and it came back t — https://x.com/CalixAVelarde/status/2083448214431351004
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2102759897708249588
 - @valentinszabadi (49L/58BM/3kV): How to iterate a winning creative as a strategist? Easy. - Change the talent - Change the format - UGC, VSL, Stitch, Street Interview, Podcast, AI slop, Pixar,  — https://x.com/valentinszabadi/status/2079614879309185498
 - @EvoBradley (18L/31BM/1kV): The #1 most viral format in entire ugc industry. Here are a few hits from past few days… Let me break it down for you; &gt; Stitch format: inherits trust and re — https://x.com/EvoBradley/status/2082416231353590174
 - @nicktheriot_ (29L/23BM/3kV): Begging every brand owner to stop this mistake: Sitting on 50 pieces of B-roll footage… And launching zero variations of it. Do THIS instead: ⦁ Find one hook →  — https://x.com/nicktheriot_/status/2085544771150352632

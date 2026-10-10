@@ -16,4 +16,4 @@ C. "Infomercial problem" opener in black-and-white ("Tired of jewelry that turns
 
 [_COMPLIANCE.md](../_COMPLIANCE.md). No fake doctors/pharmacists/jewelers; customer counts verified; parody must be obviously comedic.
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->

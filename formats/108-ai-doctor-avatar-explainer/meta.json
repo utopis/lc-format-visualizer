@@ -3,7 +3,7 @@
  "slug": "108-ai-doctor-avatar-explainer",
  "name": "AI doctor avatar explainer (white-coat presenter breaks a problem into 'layers', product is the fix for the layer nobody treats)",
  "title": "108 · AI doctor avatar explainer (white-coat presenter breaks a problem into \"layers\", product is the fix for the layer nobody treats)",
- "n_examples": 1,
+ "n_examples": 3,
  "n_curated": 0,
  "n_candidates": 0,
  "stages": [
@@ -51,6 +51,34 @@
    "media": [
     "video"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2062924688292995126",
+   "file": "0000-00-00-LachezarVoynov-2062924688292995126.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2062924688292995126",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2055314281390833845",
+   "file": "0000-00-00-LachezarVoynov-2055314281390833845.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2055314281390833845",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   }
  ]

@@ -25,14 +25,15 @@ The storyboard above samples the video every 0:00. Lines are the transcript for 
 | 5 | 0:03–0:04 | · | · |
 | 6 | 0:04–0:05 | · | · |
 
-## More real examples (6)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@ecomrudolfs](example/more/2102762930886336763.jpg)](https://x.com/ecomrudolfs/status/2102762930886336763)<br>**@ecomrudolfs** · image · 29K views<br>Smooche 6-second foundation clip, 12 duplicates, 225 days, "omg I think I finally found a foundation that looks like second skin". | [![@pranavclickks](example/more/2087497730042081339.jpg)](https://x.com/pranavclickks/status/2087497730042081339)<br>**@pranavclickks** · 0:35 video · 262 views<br>OMG! Claude can finally watch and analyze video ads. I connected Claude to the @hookmaster_ai MCP and gave it this 20-second Brezza S-CNG ad featuring | [![@akari_w0r1d](example/more/2102937109405311256.jpg)](https://x.com/akari_w0r1d/status/2102937109405311256)<br>**@akari_w0r1d** · 0:21 video · 545 views<br>I created this cozy 6-second lo-fi loop animation entirely within @adobefirefly First, I made the illustration and animation, then I used the AI Music |
-| [![@hasantoxr](example/more/2099897310654378092.jpg)](https://x.com/hasantoxr/status/2099897310654378092)<br>**@hasantoxr** · 0:13 video · 10K views<br>Every lab claims "we're the best model" and the phrase means nothing the moment you actually make something. Best at a cinematic film look isn't best | [![@vladdubchak_x](example/more/2080614240386240932.jpg)](https://x.com/vladdubchak_x/status/2080614240386240932)<br>**@vladdubchak_x** · 0:06 video · 29K views<br>Your best static ads have a ceiling. Static-only means no video slots, no autoplay spots that stop the scroll. This skill removes the ceiling: drop th | [![@lifemaximised](example/more/2087623547288207463.jpg)](https://x.com/lifemaximised/status/2087623547288207463)<br>**@lifemaximised** · image · 929 views<br>YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al |
+| [![@LachezarVoynov](example/more/1977737128290189487.jpg)](https://x.com/LachezarVoynov/status/1977737128290189487)<br>**@LachezarVoynov** · 0:05 video · 680 views<br>This is one of the most useful AI implementations if you run Meta ads. Animating your static ads. If you have static ads that are winning inside your | [![@adamtaylorl](example/more/2092205353744130552.jpg)](https://x.com/adamtaylorl/status/2092205353744130552)<br>**@adamtaylorl** · image · 349 views<br>6. The "Visual Proof" POV ad A rapid-fire, close-up demonstration of the product being applied. It's built perfectly for short attention spans and sto | [![@ecomrudolfs](example/more/2102762930886336763.jpg)](https://x.com/ecomrudolfs/status/2102762930886336763)<br>**@ecomrudolfs** · image · 29K views<br>Smooche 6-second foundation clip, 12 duplicates, 225 days, "omg I think I finally found a foundation that looks like second skin". |
+| [![@pranavclickks](example/more/2087497730042081339.jpg)](https://x.com/pranavclickks/status/2087497730042081339)<br>**@pranavclickks** · 0:35 video · 262 views<br>OMG! Claude can finally watch and analyze video ads. I connected Claude to the @hookmaster_ai MCP and gave it this 20-second Brezza S-CNG ad featuring | [![@akari_w0r1d](example/more/2102937109405311256.jpg)](https://x.com/akari_w0r1d/status/2102937109405311256)<br>**@akari_w0r1d** · 0:21 video · 545 views<br>I created this cozy 6-second lo-fi loop animation entirely within @adobefirefly First, I made the illustration and animation, then I used the AI Music | [![@hasantoxr](example/more/2099897310654378092.jpg)](https://x.com/hasantoxr/status/2099897310654378092)<br>**@hasantoxr** · 0:13 video · 10K views<br>Every lab claims "we're the best model" and the phrase means nothing the moment you actually make something. Best at a cinematic film look isn't best |
+| [![@vladdubchak_x](example/more/2080614240386240932.jpg)](https://x.com/vladdubchak_x/status/2080614240386240932)<br>**@vladdubchak_x** · 0:06 video · 29K views<br>Your best static ads have a ceiling. Static-only means no video slots, no autoplay spots that stop the scroll. This skill removes the ceiling: drop th | [![@lifemaximised](example/more/2087623547288207463.jpg)](https://x.com/lifemaximised/status/2087623547288207463)<br>**@lifemaximised** · image · 929 views<br>YouTube Shorts is the most underpriced ad inventory in Google right now and 90% of ecom brands STILL aren't running a single ad there The reason is al |   |
 
 ## How to make one like it
 
@@ -158,7 +159,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

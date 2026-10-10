@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@FedotOff90](https://x.com/FedotOff90/status/2106401392374186396) · A 3:28 vertical explainer. A woman in a white coat with a stethoscope sits in a warm home-office set under a fixed top headline: "Chronic bad breath has 3 layers‼️". Word-by-word captions sit mid-frame, and small picture-in-picture inserts pop up for each layer (a tongue close-up, a gloved hand with a scraper, a dropper bottle). Script: "If you want your tongue to look like this, you are only seei
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2062924688292995126) · AI Pixar-style doctor VSL. The ad below scaled from $0 to $20k/day in spend in 5 days. Everybody is doing it because it works.
 
 ### Live paid ads in this format (6 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -183,6 +184,8 @@ Write 4 AI-doctor-avatar explainer scripts (60-120 s) for Louise Carter waterpro
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (1 posts). Top 5:
+See [examples/README.md](examples/README.md) (3 posts). Top 5:
 
 - @FedotOff90 (103L/205BM/8kV): 5 AI formats scaling: AI podcast (280 days live), AI UGC, AI doctor avatar, AI listicle, AI animation (claymation/CGI). — https://x.com/FedotOff90/status/2106401392374186396
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2062924688292995126
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2055314281390833845

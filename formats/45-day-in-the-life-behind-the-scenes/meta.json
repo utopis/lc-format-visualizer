@@ -3,7 +3,7 @@
  "slug": "45-day-in-the-life-behind-the-scenes",
  "name": "Day in the life / behind the scenes (founder or customer)",
  "title": "45 · Day in the life / behind the scenes (founder or customer)",
- "n_examples": 10,
+ "n_examples": 12,
  "n_curated": 7,
  "n_candidates": 2,
  "stages": [
@@ -155,6 +155,34 @@
    "eng": "55L/105BM/7kV",
    "grade": "VALUE",
    "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2100540269351350453",
+   "file": "0000-00-00-adamtaylorl-2100540269351350453.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2100540269351350453",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090038019059314970",
+   "file": "0000-00-00-adamtaylorl-2090038019059314970.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2090038019059314970",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

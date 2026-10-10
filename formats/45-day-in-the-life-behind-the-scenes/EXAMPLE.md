@@ -26,6 +26,14 @@ The storyboard above samples the video every 0:02. Lines are the transcript for 
 | 6 | 0:12–0:14 | · | · |
 | 7 | 0:14–0:16 | · | · |
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@adamtaylorl](example/more/2100540269351350453.jpg)](https://x.com/adamtaylorl/status/2100540269351350453)<br>**@adamtaylorl** · 0:36 video · 429 views<br>5. Day In The Life… Most brands will list a bunch of boring features. Loop just shows a guy using it for a day. Laptop, backpack, crowd at a live even | [![@adamtaylorl](example/more/2090038019059314970.jpg)](https://x.com/adamtaylorl/status/2090038019059314970)<br>**@adamtaylorl** · 0:58 video · 614 views<br>3. The Retail Vlog You're 40 seconds into a dog date before you realize Petco and the ingredients list walked in with it. Stealth education. |   |
+
 ## How to make one like it
 
 **The format in one line:** Vlog-style sequence of a day — founder running LC or a customer living in her jewelry (gym → shower → work → date) — with the product present in every scene. Paid version: 20-30s cut with text hook.
@@ -146,6 +154,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Real day; no staged "compliments" presented as real.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

@@ -27,13 +27,14 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 | 7 | 0:25–0:29 | · | · |
 | 8 | 0:29–0:34 | · | · |
 
-## More real examples (3)
+## More real examples (4)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@jackolivieri_](example/more/2097798592010547583.jpg)](https://x.com/jackolivieri_/status/2097798592010547583)<br>**@jackolivieri_** · images · 117 views<br>Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share). | [![@ItsDuntee](example/more/2102309812109193718.jpg)](https://x.com/ItsDuntee/status/2102309812109193718)<br>**@ItsDuntee** · image · 261 views<br>🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 Sept | [![@kabiwinter](example/more/2095851837312122988.jpg)](https://x.com/kabiwinter/status/2095851837312122988)<br>**@kabiwinter** · image · 75 views<br>#AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from s |
+| [![@adamtaylorl](example/more/2090038016685351362.jpg)](https://x.com/adamtaylorl/status/2090038016685351362)<br>**@adamtaylorl** · 0:07 video · 886 views<br>2. The Flash Sale ad 7 seconds. Looks like a story post, not an ad. Pure BOF retargeting. | [![@jackolivieri_](example/more/2097798592010547583.jpg)](https://x.com/jackolivieri_/status/2097798592010547583)<br>**@jackolivieri_** · images · 117 views<br>Smooche static "847 Orders in Last Hour, Almost Gone" / "LIVE UPDATE" stock copy (GetHookd share). | [![@ItsDuntee](example/more/2102309812109193718.jpg)](https://x.com/ItsDuntee/status/2102309812109193718)<br>**@ItsDuntee** · image · 261 views<br>🇿🇦 3 DAYS LEFT MZANSI Celebrate Heritage Month with a design that speaks for your brand. Custom designs from R100 - but the Heritage Sale ends 25 Sept |
+| [![@kabiwinter](example/more/2095851837312122988.jpg)](https://x.com/kabiwinter/status/2095851837312122988)<br>**@kabiwinter** · image · 75 views<br>#AD it’s the perfect time to give your home a little upgrade with new appliances with a tech set up &amp; the #BlueTagSale is here for you 🤩🫵🏽. from s |   |   |
 
 ## How to make one like it
 
@@ -155,6 +156,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Deadlines and stock numbers must be true; fake "847 orders in the last hour" counters or evergreen "last day" claims are deceptive (FTC). - Don't pre-select subscriptions or hide recurring charges (@EcomSapo flagged Smooche's checkout).
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

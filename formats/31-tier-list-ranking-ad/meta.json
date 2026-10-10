@@ -3,7 +3,7 @@
  "slug": "31-tier-list-ranking-ad",
  "name": "Tier-list / ranking ad",
  "title": "31 · Tier-list / ranking ad",
- "n_examples": 13,
+ "n_examples": 16,
  "n_curated": 7,
  "n_candidates": 3,
  "stages": [
@@ -142,6 +142,25 @@
    "transcript": false
   },
   {
+   "id": "2089713928511345017",
+   "file": "2026-08-18-adamtaylorl-2089713928511345017.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-08-18",
+   "url": "https://x.com/adamtaylorl/status/2089713928511345017",
+   "eng": "266L/426BM/22kV",
+   "grade": "SOME",
+   "gist": "Hike Footwear ad 100% AI.",
+   "thumb": "https://pbs.twimg.com/media/HP6nceeWoAAUFUy.png",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
    "id": "2108173638033871013",
    "file": "2026-10-08-nicktheriot_-2108173638033871013.md",
    "kind": "cited",
@@ -156,6 +175,23 @@
     "photo"
    ],
    "transcript": false
+  },
+  {
+   "id": "2105679883300987071",
+   "file": "2026-10-01-LachezarVoynov-2105679883300987071.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "2026-10-01",
+   "url": "https://x.com/LachezarVoynov/status/2105679883300987071",
+   "eng": "180L/361BM/19kV",
+   "grade": "VALUE",
+   "gist": "$25M/mo Meta spend: what scales (TOF creative first...).",
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2104954981950320640/img/nD3qjsCG_qPUXNmU.jpg",
+   "media": [
+    "video",
+    "video"
+   ],
+   "transcript": true
   },
   {
    "id": "2097925109155549689",
@@ -188,6 +224,20 @@
    "media": [
     "video"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2089741135857975760",
+   "file": "0000-00-00-LachezarVoynov-2089741135857975760.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2089741135857975760",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {

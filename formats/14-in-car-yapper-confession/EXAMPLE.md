@@ -41,15 +41,15 @@ The storyboard above samples the video every 0:04. Lines are the transcript for 
 
 </details>
 
-## More real examples (7)
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@hectorserrranoo](example/more/2107526350605070475.jpg)](https://x.com/hectorserrranoo/status/2107526350605070475)<br>**@hectorserrranoo** · 2:06 video · 15K views<br>Wispr Flow paid UGC program: what companies get wrong. | [![@hectorserrranoo](example/more/2106136430556672384.jpg)](https://x.com/hectorserrranoo/status/2106136430556672384)<br>**@hectorserrranoo** · 0:56 video · 8K views<br>Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue). | [![@CEO_Vlad](example/more/2082092962348167273.jpg)](https://x.com/CEO_Vlad/status/2082092962348167273)<br>**@CEO_Vlad** · 0:38 video · 9K views<br>"yapper girl in car" is such a good AI UGC format... used it this to scale my ecom brand to $200k days this format is beating every studio shot creati |
-| [![@jennamediaco](example/more/2106209597526540312.jpg)](https://x.com/jennamediaco/status/2106209597526540312)<br>**@jennamediaco** · image · 1K views<br>Simple in-car talking head ad scaling: car = organic, story throughout. | [![@tiffanyxugc](example/more/2097636391798854069.jpg)](https://x.com/tiffanyxugc/status/2097636391798854069)<br>**@tiffanyxugc** · 0:42 video · 159 views<br>#ugcexample of a yapper style script read in the car, edited by their team 🍬 I had creative freedom to take this script &amp; make it my own which mak | [![@houseofjenUGC](example/more/2087571793452118181.jpg)](https://x.com/houseofjenUGC/status/2087571793452118181)<br>**@houseofjenUGC** · 0:54 video · 145 views<br>Talking head in the car example! Yapping UGC as a mom ugc creator Hello@houseofjenugc.com https://t.co/4hlMiWlhlS |
-| [![@harrydelmege_](example/more/2106794963006861535.jpg)](https://x.com/harrydelmege_/status/2106794963006861535)<br>**@harrydelmege_** · image · 19K views<br>RolyPoly yapper ads: $154.5k spend in a single day across 1,635 ads; single ads at $45.1k and $33.1k; hook rates 44-62%, hold 31-48% (Ads Manager scre |   |   |
+| [![@LachezarVoynov](example/more/2062924820522635415.jpg)](https://x.com/LachezarVoynov/status/2062924820522635415)<br>**@LachezarVoynov** · 1:10 video · 528 views<br>Yappers. The key here is a super strong visual hook. Throughout the whole ad, the yapper should be doing something visually appealing to keep the atte | [![@adamtaylorl](example/more/2100540268399255574.jpg)](https://x.com/adamtaylorl/status/2100540268399255574)<br>**@adamtaylorl** · 1:58 video · 452 views<br>3. Long-Form Storytelling… 2 MINUTES LONG. Still spends 💀 This hook is a masterclass in opening loops. She lists every failed fix before the product a | [![@hectorserrranoo](example/more/2107526350605070475.jpg)](https://x.com/hectorserrranoo/status/2107526350605070475)<br>**@hectorserrranoo** · 2:06 video · 15K views<br>Wispr Flow paid UGC program: what companies get wrong. |
+| [![@hectorserrranoo](example/more/2106136430556672384.jpg)](https://x.com/hectorserrranoo/status/2106136430556672384)<br>**@hectorserrranoo** · 0:56 video · 8K views<br>Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue). | [![@CEO_Vlad](example/more/2082092962348167273.jpg)](https://x.com/CEO_Vlad/status/2082092962348167273)<br>**@CEO_Vlad** · 0:38 video · 9K views<br>"yapper girl in car" is such a good AI UGC format... used it this to scale my ecom brand to $200k days this format is beating every studio shot creati | [![@jennamediaco](example/more/2106209597526540312.jpg)](https://x.com/jennamediaco/status/2106209597526540312)<br>**@jennamediaco** · image · 1K views<br>Simple in-car talking head ad scaling: car = organic, story throughout. |
+| [![@tiffanyxugc](example/more/2097636391798854069.jpg)](https://x.com/tiffanyxugc/status/2097636391798854069)<br>**@tiffanyxugc** · 0:42 video · 159 views<br>#ugcexample of a yapper style script read in the car, edited by their team 🍬 I had creative freedom to take this script &amp; make it my own which mak | [![@houseofjenUGC](example/more/2087571793452118181.jpg)](https://x.com/houseofjenUGC/status/2087571793452118181)<br>**@houseofjenUGC** · 0:54 video · 145 views<br>Talking head in the car example! Yapping UGC as a mom ugc creator Hello@houseofjenugc.com https://t.co/4hlMiWlhlS |   |
 
 ## How to make one like it
 
@@ -138,7 +138,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2b update (2026-10-08) — yappers are printing](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 2b update (2026-10-08) — yappers are printing](README.md) · [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: brands & apps crushing it (Oct 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

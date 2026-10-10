@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: High (multi-year live ads, large boards) · hype risk: Medium · cost $200-2,000 · 1-2 weeks
 
 ## What it is
@@ -104,6 +105,13 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 35-mass-awareness-placement-to-advertorial, 31-founder-daily-posting-product-as-ad
 - Formats: [50-mini-documentary-how-its-made](../50-mini-documentary-how-its-made/README.md), [27-founder-walk-and-talk-story-ad](../27-founder-walk-and-talk-story-ad/README.md), [09-native-story-static-to-advertorial](../09-native-story-static-to-advertorial/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Voynov's VSL structure ("$120k in 30 days")** ([post](https://x.com/LachezarVoynov/status/2082855777186857155)): relatable hook (VO + text + visual aligned) → introduce the problem → credibility + the cost of not acting → unique mechanism → revelation (why nothing worked) → solution explained (up to 2 min) → no-brainer offer → CTA with future pacing both ways.
+- **Long-form educational is the best TOF** ([post](https://x.com/LachezarVoynov/status/2077419954136137831)): a 3-5 min script on why the problem occurs, the real cause, why past fixes failed, what happens without action, the only product, and why it works. **$2M vs. $20M brands:** a self-identifying pattern interrupt, external authoritative sources, a "problem cascade", eliminate options before the product; "your VSL should feel like therapy" ([post](https://x.com/LachezarVoynov/status/2038618318525866073)).
+- **Founder-led AI VSL:** a founder story + DR VSL script with Nano Banana 2 images animated in Kling 3.0 ([post](https://x.com/LachezarVoynov/status/2073059689991115205)). Example VSLs: [40M impressions](https://x.com/LachezarVoynov/status/2037572432811135217), [VSL](https://x.com/LachezarVoynov/status/2049516119652725019). Cost signal: "30-60 min AI ads… $1-2k per ad on Higgsfield" ([post](https://x.com/LachezarVoynov/status/2102468111832105225)). Adam: match runtime to awareness; cold needs 2-3+ minutes ([post](https://x.com/adamtaylorl/status/2097324085755658312)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

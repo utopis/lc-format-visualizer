@@ -17,6 +17,8 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@FedotOff90](https://x.com/FedotOff90/status/2096964245485449453) · A product callout static: the headline "See Clearly. Drive Safely. Instantly." over the ClearVision box, four benefit callouts with icons (Instant Clarity, Anti-Fog Protection, Water Repellent, Long-Lasting Effect) and a review bar ("4.8/5.0 based on 10,000+ reviews").
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2102759895594377508) · 1. The symptom checklist Every viewer checks themselves against the list, and one "that's me" is enough to keep them watching. Open with a specific, s
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2105251326036705587) · 3. The "not a quirk" Three symptoms stacked, then "these aren't normal." Then it removes the fix nobody wants to do: no brushing needed. List 3 things
 
 ### Live paid ads in this format (7 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -161,7 +163,7 @@ Using only these LC PDP facts {{PDP_FACTS}}, write: 5 "3 signs…" callouts, 5 m
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (13 posts). Top 5:
+See [examples/README.md](examples/README.md) (16 posts). Top 5:
 
 - @ads4apps (412L/930BM/27kV): 39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breakin — https://x.com/ads4apps/status/2081785032679518490
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831

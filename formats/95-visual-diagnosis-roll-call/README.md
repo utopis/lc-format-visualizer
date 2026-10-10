@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High (multi-brand engine) · hype risk: Medium · cost $0-200 · 2-4 h
 
 ## What it is
@@ -102,6 +103,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 10-skit-and-problem-first-ugc-hooks, 35-mass-awareness-placement-to-advertorial
 - Formats: [34-callout-statics-signs-myths-warnings](../34-callout-statics-signs-myths-warnings/README.md), [59-problem-solution-pas-ad](../59-problem-solution-pas-ad/README.md), [82-hyperreal-cgi-mechanism-xray](../82-hyperreal-cgi-mechanism-xray/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Vue's one mechanism, 430+ ads:** "If your nose looks like this, you don't have blackheads. You just have oil plugs in your pores" → why scrubs and strips fail → the fix ([teardown 1](https://x.com/adamtaylorl/status/2096916401457955050), [2](https://x.com/adamtaylorl/status/2104526571927200050)). **PetLab:** "If your dog's breath smells like fish, their teeth look like this and they hate the toothbrush, then you need to listen" ([post](https://x.com/adamtaylorl/status/2093292520335867933)): face + weird visual + movement in 3 s. **RYZE body callout:** "If you're a [who] and your [body part] looks like this…" ([post](https://x.com/adamtaylorl/status/2102759896181563537)).
+- **The PetLab re-diagnosis:** "Owner thinks it's a skin problem… PetLab tells them it's a gut problem, and every competitor turns into something that only treats the surface" ([post](https://x.com/adamtaylorl/status/2099453105863577917)). LC re-diagnosis: "If your neck looks like this, it's not your skin. It's the plating."
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

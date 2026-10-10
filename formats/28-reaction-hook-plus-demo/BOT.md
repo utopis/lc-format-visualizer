@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@carlynorthmedia](https://x.com/carlynorthmedia/status/2077482959620190437) · A woman covers her mouth in shock (the reaction hook, captioned), then a fast screen demo of a face-search app ("you can search ANYONE's face"), and she reacts again. The whole thing is 11 seconds.
+- Example: [@traqscales](https://x.com/traqscales/status/2108679028924096753) · SakuraSpeak pulled 173M UGC views by turning language mistakes into the content creator tries to say something normal in Japanese, says something comp
 - Example: [@consumerxai](https://x.com/consumerxai/status/2096916156389240853) · Outlier: aesthetic desk-setup hook + split-screen app demo, 558K views/4.4K saves.
 - Example: [@leonclipping](https://x.com/leonclipping/status/2107903429490135362) · Musa app: ONE format (4-sec shocked reaction to a body fact → mascot explains) = 522M views, 930 videos >100K, 100+ creators.
 - Example: [@simonecanciello](https://x.com/simonecanciello/status/2092704268734099547) · this $100k/month relationship app is going viral with this format. 6.7M views and 578k likes. hook + demo, relatable for women. people are searching f
@@ -24,7 +25,6 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@danclipping](https://x.com/danclipping/status/2079987510680150282) · This app raked 7.1M views 387K like with the usual WTH reaction hook And they have hundreds of videos in this format with millions of views Works ever
 - Example: [@getnoise](https://x.com/getnoise/status/2087608814551904327) · Viral Hook + Demo format from Cantina 📝 ”Use ChatGPT to make money online” - but actually, you’re using their service to do it. No one thinks twice ab
 - Example: [@tellenne_](https://x.com/tellenne_/status/2104591914511045111) · Instagram account with 11.6M views in the US [Real anonymized @tokportal data] CPM: $0.014 | B2B SaaS | UGC (non-AI) hook + demo format This account a
-- Example: [@consumerxai](https://x.com/consumerxai/status/2102862107205398992) · ‼️Tiktok Outlier Alert ‼️ 📉 370K Views, 23K Likes, 207 Comments, 1.6K Shares, 2.9K Saves 🧐What this is: > A genuine reaction hook you can use to promo
 
 ### Live paid ads in this format (5 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -161,7 +161,7 @@ Generate 40 reaction-hook captions for Louise Carter (waterproof 14K PVD jewelry
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (25 posts). Top 5:
+See [examples/README.md](examples/README.md) (27 posts). Top 5:
 
 - @nicktheriot_ (219L/348BM/12kV): 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder st — https://x.com/nicktheriot_/status/2108173638033871013
 - @jesseabed_ (148L/324BM/18kV): Sideshift creator pay: hook-and-demo creators ~$400 base + view milestones for 40-60 videos; talking head/skit ~$400 for 20-30; 25% upfront. — https://x.com/jesseabed_/status/2102818749384421524

@@ -3,7 +3,7 @@
  "slug": "28-reaction-hook-plus-demo",
  "name": "Reaction hook + fast demo (Cal AI / app-UGC 'hook and demo')",
  "title": "28 · Reaction hook + fast demo (Cal AI / app-UGC \"hook and demo\")",
- "n_examples": 25,
+ "n_examples": 27,
  "n_curated": 14,
  "n_candidates": 11,
  "stages": [
@@ -251,6 +251,34 @@
    "thumb": "",
    "media": [],
    "transcript": true
+  },
+  {
+   "id": "2089741135857975760",
+   "file": "0000-00-00-LachezarVoynov-2089741135857975760.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2089741135857975760",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108679028924096753",
+   "file": "0000-00-00-traqscales-2108679028924096753.md",
+   "kind": "cited",
+   "author": "traqscales",
+   "date": "",
+   "url": "https://x.com/traqscales/status/2108679028924096753",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2092704268734099547",

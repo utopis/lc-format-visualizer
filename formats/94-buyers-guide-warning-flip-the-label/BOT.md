@@ -161,10 +161,10 @@ Write a 60-second "before you buy, flip the label" countdown for LC: 3 label ter
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (5 posts). Top 5:
+See [examples/README.md](examples/README.md) (6 posts). Top 5:
 
 - @MaximilianMoj (0L/0BM/0V): Resilia "$36M/month" (unverified) top 5 ads via Playhead teardowns: candida, aged garlic 4-week arteries, GLP-1, urgency (8 at once), animated explainer. — https://x.com/MaximilianMoj/status/2101002307160731848
 - @lorenzo_pravata (0L/0BM/0V): Resilia 6,000 ads, parasite cause-relocation angle, "That's parasites" roll-call, carvacrol gate; 10+ subpages to avoid bans. — https://x.com/lorenzo_pravata/status/2065407167515984348
 - @HenryCrochemore (6L/10BM/1kV): Worth breaking this one down. brand: thriving through midlife. hook: "spring sale | up to 63% off . today only". specific: sounds too good to be true? try it be — https://x.com/HenryCrochemore/status/2087894849618087981
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2089741135857975760
 - @nicklaunches (23L/4BM/977V): Before you buy ANY directory ad, ask these 4. &gt; who measures the traffic, them or a third party &gt; how many ads rotate through the same spot &gt; is it on  — https://x.com/nicklaunches/status/2105130548155056153
-- @kevalb26 (7L/3BM/760V): BlackRock is buying Shapoorji bonds. Retail platforms are already using this as a marketing hook. Before you buy “the bond BlackRock bought” read this. 🧵 — https://x.com/kevalb26/status/2075939546467119410

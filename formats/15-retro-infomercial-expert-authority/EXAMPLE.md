@@ -40,12 +40,13 @@ The storyboard above samples the video every 0:06. Lines are the transcript for 
 
 </details>
 
-## More real examples (3)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
+| [![@LachezarVoynov](example/more/2062924772510433304.jpg)](https://x.com/LachezarVoynov/status/2062924772510433304)<br>**@LachezarVoynov** · 0:50 video · 563 views<br>Spokesperson ads. I don’t think anyone is doing it better now than The Chocolate Bar. Write a good script with a creative angle and find a spokesperso | [![@LachezarVoynov](example/more/2028848986182828435.jpg)](https://x.com/LachezarVoynov/status/2028848986182828435)<br>**@LachezarVoynov** · 2:05 video · 1K views<br>Authority figure educational ad creatives are a cheat code for scaling. 1. Low frequency 2. Perfect for Unaware audiences 3. Highly convincing 4. High | [![@adamtaylorl](example/more/2105251326498123878.jpg)](https://x.com/adamtaylorl/status/2105251326498123878)<br>**@adamtaylorl** · 0:58 video · 465 views<br>4. The expert The vet brushes past 2.3M owners and 100K reviews to get to the one thing competitors can't claim: a clinical study. Name your biggest p |
 | [![@CEO_Vlad](example/more/2088597593949692087.jpg)](https://x.com/CEO_Vlad/status/2088597593949692087)<br>**@CEO_Vlad** · 0:26 video · 7K views<br>AI pharmacist ad format: $5, 4 minutes (authority-figure risk). | [![@TomReichertWA](example/more/2085467482224247014.jpg)](https://x.com/TomReichertWA/status/2085467482224247014)<br>**@TomReichertWA** · 0:20 video · 90 views<br>@CocaCola Quick jump to tick tock to dub in music to my Grok made clip now I made you a retro ad in a minute 😎 @nikitabier @X @elonmusk Hot weather gr | [![@HenryCrochemore](example/more/2092191032645431595.jpg)](https://x.com/HenryCrochemore/status/2092191032645431595)<br>**@HenryCrochemore** · image · 394 views<br>this static is weird enough to make you stop poo-pourri took a product nobody wants to think about and wrapped it in a polished retro ad the contrast |
 
 ## How to make one like it
@@ -134,7 +135,11 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Captions covered by the platform UI: check the safe zone on a real phone before posting.
 - Music over the voice: keep music at least 14 dB under speech.
 
-**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). No fake doctors/pharmacists/jewelers; customer counts verified; parody must be obviously comedic.
+**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). No fake doctors/pharmacists/jewelers; customer counts verified; parody must be obviously comedic. <!-- W8NOTE -->
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

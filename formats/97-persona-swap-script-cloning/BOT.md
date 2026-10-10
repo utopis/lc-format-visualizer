@@ -17,14 +17,14 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@SparkifyAI](https://x.com/SparkifyAI/status/2078068798314422644) · An AI-cloned UGC creator in an orange gym set talking excitedly to camera in a home gym. It is the same script performed by an AI persona instead of a real creator.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2105251325575315867) · 2. The breed callout "If your Shih Tzu is itching constantly" – then "over 50 times a day." One breed, one number, and every owner of that breed stops
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2100540267476496805) · 1. The Niche Hook… Most brands write one ad for everyone. Loop writes one ad for a specific person. A neurodivergent creator in her car explaining exa
 - Example: [@mikefutia](https://x.com/mikefutia/status/2080734489529971056) · I just cracked the code on cloning UGC ads with AI 🤯 One ad that's already converting → 20 different creators delivering the exact same script. New fa
 - Example: [@lorenzo_pravata](https://x.com/lorenzo_pravata/status/2079246318191403496) · Resilia ~8,000 ads, "$10-15M/month" (unverified); mostly AI avatars/doctors/claymation; gap = real authority reshoots + long unaware VSL.
 - Example: [@edwardlavinel_](https://x.com/edwardlavinel_/status/2082467046034702738) · Shit. Analyzed 800+ active ads from creatine gummy. one pattern doing all the work. want the beats? Here is the breakdown: - uses a magazine cutout ae
 - Example: [@oliverxmedia](https://x.com/oliverxmedia/status/2075560773657694682) · I genuinely had to do a double take the first time I watched this. If nobody told me it was AI-generated, I would've assumed it was filmed by a real c
 - Example: [@wabilaura](https://x.com/wabilaura/status/2082918789470208150) · Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i
 - Example: [@wabilaura](https://x.com/wabilaura/status/2083215336971858040) · Ladies in the algo. Dr turner from féline skinscience is printing. 800+ active ads and the winner is the same hook every time. why is nobody copying i
-- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2107135814585000273) · Resilia: 26 creative pods x 15 concepts x 3 variations = 1,170 new ads/week.
-- Example: [@oliverxmedia](https://x.com/oliverxmedia/status/2091181160739328190) · Arcads is quietly changing how apps get customers. This account was created to sell a weight loss app. Not build a personal brand. Not become an influ
 
 ### Live paid ads in this format (6 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -165,7 +165,7 @@ Take the LC winning script {{SCRIPT}}. Produce 8 narrator briefs (age, job, sett
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (25 posts). Top 5:
+See [examples/README.md](examples/README.md) (30 posts). Top 5:
 
 - @grok (0L/0BM/0V): Pod strategy: creatives labelled Pod1…Pod26, hosted unlisted on YouTube to build view counts (Pod26 420K views in 3 weeks). — https://x.com/grok/status/2105957466420703499
 - @Best_OFPages (0L/0BM/0V): Claim: Smooche (Ooak Brands) runs only AI ads at ~$1M/day (unverified). — https://x.com/Best_OFPages/status/2105176364748054721

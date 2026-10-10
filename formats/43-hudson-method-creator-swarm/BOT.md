@@ -150,7 +150,7 @@ You manage LC's creator swarm. Given this week's creator video sheet {{SHEET}} (
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (19 posts). Top 5:
+See [examples/README.md](examples/README.md) (20 posts). Top 5:
 
 - @Seanfrank (2027L/3902BM/376kV): The "Hudson Method" (Comfrt): seed hundreds of small TikTok creators, pay per video + commission, bonuses for 100+ videos/mo, load all into every ad channel. (M — https://x.com/Seanfrank/status/2051036381359849697
 - @jakecastilloooo (984L/3090BM/290kV): Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test ta — https://x.com/jakecastilloooo/status/2107873317369581751

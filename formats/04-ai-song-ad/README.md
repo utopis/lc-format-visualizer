@@ -34,6 +34,7 @@ related_strategies: [32-drama-show-ads-hidden-storyline, 33-animated-brand-chara
 
 
 
+
 ## What it looks like
 A full original song (30s to **4 minutes**) whose lyrics tell a relatable story — usually a woman's emotional problem → turning point → product as the quiet hero. Visuals are AI-generated scenes (realistic, Pixar-3D, or animated) cut to the lyrics, captions on screen like a lyric video. Product often **not revealed until late** (minute 3 in @therahulissar's winner). Variants:
 - **Ballad/drama** (Smooche): "Lisa poured the wine and I started crying… he left, and I'm the one who looks like she lost… Lisa has been a dermatologist for 15 years… Sit down, I brought something" (transcript from @EcomSapo's example).
@@ -118,6 +119,13 @@ Source: [@LachezarVoynov](https://x.com/LachezarVoynov/status/210858558749401956
 **LC version:** "She asked me to take my necklace off for the photos" (bride's mother, ballad). The beats are wound → the jewelry that always turned green → failed fixes (clear nail polish, taking it off for every shower) → a sister gives her the LC chain → 6 months of showers, a pool and a wedding → vindication at the wedding photo, then "Any 7 for $85". Use the pipeline above with a locked character sheet, real LC product footage for every product shot, and an AI-content label.
 **Do not copy:** body-shaming hooks, invented health mechanisms ("parasites building walls"), and posting the song from pages posing as independent journals (see F80/F97).
 <!-- /WAVE7 -->
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Voynov's Suno variants:** "10-min Suno songs" (Resilia) on his [10/10 'illegal' ads list](https://x.com/LachezarVoynov/status/2097713680255189206), "Text-messages AI song" (Scribe) and "AI Musicals" in his [14 AI TOF formats](https://x.com/LachezarVoynov/status/2104599048493666326). Suno sits in his [5 formats every account needs](https://x.com/LachezarVoynov/status/2080681434839167212) and his [$300k/mo wrappers](https://x.com/LachezarVoynov/status/2097351286094021034).
+- **PetLab's unaware ad is an AI song from the dog's POV:** "Mom, when I drag my nose across the carpet, that's me asking for help". The symptom and the product go unnamed, and it runs to a quiz ([@adamtaylorl thread](https://x.com/adamtaylorl/status/2108558106984595660)). LC: a song from the jewelry box's POV ("she takes me off every time she showers").
+- **Do not copy:** "7 SUNO song ad examples selling to Women 45+ using their insecurities… Is it ethical? Probably not" ([post](https://x.com/LachezarVoynov/status/2100612763487740236)). Write to desire and relief, not shame.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

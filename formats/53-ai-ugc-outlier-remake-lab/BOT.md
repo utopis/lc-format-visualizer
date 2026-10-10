@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@rathikrishnav](https://x.com/rathikrishnav/status/2056472046192951468) · A split-screen test: on the left the brand's real UGC ad ('REAL AD'), on the right an AI-generated remake ('OUR AI AD') with a different AI creator copying the same moves — holding the yellow skincare jar, applying it, reacting — beat for beat for about 40 seconds. The point: a winning ad can be cloned with AI to test new faces.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/1986113376230015058) · I still feel the best way to find winning ad creative concepts is scrolling on TikTok or IG Reels. Our team just turned a viral organic concept into a
 - Example: [@raph_guilhem](https://x.com/raph_guilhem/status/2095453949805392267) · Seedance 2.5 is insane for AI UGC. I built a Claude skill that takes an ad that's already converting and puts a new person in it. This is perfect for 
 - Example: [@SimScaler](https://x.com/SimScaler/status/2034333069167984905) · You should be PRINTING with AI UGC right now You can reverse engineer any winning ad And recreate it in minutes with your own AI creator That's the ne
 - Example: [@angeldot_](https://x.com/angeldot_/status/2107913083783987306) · Cal AI scaled to 15M downloads before being acquired by MyFitnessPal now its co-founder just open-sourced the AI UGC workflow he wishes he had while b
@@ -24,7 +25,6 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@N01ennn](https://x.com/N01ennn/status/2107887039513268301) · the person who ran UGC for Cal AI on its way to a $50M run rate just laid out how to run an AI UGC army for any app. this is pure f*cking treasure. so
 - Example: [@slash1sol](https://x.com/slash1sol/status/2107878663488188775) · THE CO-FOUNDER WHO RAN GROWTH AT CAL AI JUST LEAKED THE ENTIRE AI UGC PIPELINE. ONE PERSON, ZERO CREATORS, THOUSANDS OF TEST VIDEOS Cal AI went to 15M
 - Example: [@brainextends](https://x.com/brainextends/status/2094873288040497282) · i made $36,863 this month using ai agents heres the 3 step process i use : -> i created an ai agent that scans 24/7 for new trends on tiktok once it s
-- Example: [@defileo](https://x.com/defileo/status/2107886078841729342) · This is the CRAZIEST f*ckn sonnet 5.5 automation setup... One Claude Code orchestrator runs a full AI UGC pipeline across Apify, Higgsfield and Postiz
 
 ### Shot list (fill the [brackets])
 
@@ -161,7 +161,7 @@ Context: {{LC_CONTEXT_PACK}}. Here are scraped videos with views and each creato
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (24 posts). Top 5:
+See [examples/README.md](examples/README.md) (27 posts). Top 5:
 
 - @jakecastilloooo (984L/3090BM/290kV): Ex-Cal AI UGC lead's full AI UGC workflow (article): customer context → outlier videos vs creator baseline → reverse-engineer → believable first frame → test ta — https://x.com/jakecastilloooo/status/2107873317369581751
 - @traqscales (22L/27BM/1kV): Once app: 22.5M views from 2 AI UGC creators (one 13M, 9 >100K) — AI bride crying at her reception, "we gave every guest a camera instead of hiring more photogr — https://x.com/traqscales/status/2108113354178932920

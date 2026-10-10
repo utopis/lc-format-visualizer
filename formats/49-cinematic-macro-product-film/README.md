@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium · hype risk: Med · cost $0-500 (AI or studio) · 2-6 h
 
 ## What it is
@@ -97,6 +98,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 37-ai-realism-craft, 40-modular-variation-testing-review
 - Formats: [30-voiceless-broll-text-overlay](../30-voiceless-broll-text-overlay/README.md), [05-ai-animation-format-swap](../05-ai-animation-format-swap/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **ASMR for impulse products:** "Some products we're selling are impulse purchases where the more you delay the product introduction, the worse your ads will perform… we always produce some ASMR ads that go straight into showing the product in use. More often than not, they become top spenders" ([Voynov](https://x.com/LachezarVoynov/status/2082493438520439242); Holy Gels on his [MOF/BOF list](https://x.com/LachezarVoynov/status/2089741135857975760)). Jewelry is an impulse product: test ASMR clasp, chain and water sounds early.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

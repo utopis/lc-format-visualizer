@@ -101,13 +101,13 @@ The storyboard above samples the video every 0:33. Lines are the transcript for 
 
 </details>
 
-## More real examples (1)
+## More real examples (3)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@FedotOff90](example/more/2087245595249721445.jpg)](https://x.com/FedotOff90/status/2087245595249721445)<br>**@FedotOff90** · 3:03 video · 17K views<br>97-day VSL; VSLs spent millions profitably; full VSL Machine SOP. |   |   |
+| [![@LachezarVoynov](example/more/2073059689991115205.jpg)](https://x.com/LachezarVoynov/status/2073059689991115205)<br>**@LachezarVoynov** · 2:01 video · 5K views<br>new ad creative format unlocked: Founder-led AI VSL this is how you pair a founder story with a direct-response VSL script both of those ad creative t | [![@LachezarVoynov](example/more/2038618318525866073.jpg)](https://x.com/LachezarVoynov/status/2038618318525866073)<br>**@LachezarVoynov** · 1:28 video · 1K views<br>Most eComm founders think they need better products to scale past $10M. The truth is they need better stories. And the best ad format for telling a co | [![@FedotOff90](example/more/2087245595249721445.jpg)](https://x.com/FedotOff90/status/2087245595249721445)<br>**@FedotOff90** · 3:03 video · 17K views<br>97-day VSL; VSLs spent millions profitably; full VSL Machine SOP. |
 
 ## How to make one like it
 
@@ -234,6 +234,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosure, no bulk/spoofed accounts, copy structure not assets, PDP-only claims). - Claims and guarantee must match the PDP and policies exactly; no fake doctors or authority.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

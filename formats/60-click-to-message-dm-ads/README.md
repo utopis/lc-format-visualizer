@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (platform case studies via vendor) · hype risk: Med · cost $0 creative + chat ops · setup 1-2 days
 
 ## What it is

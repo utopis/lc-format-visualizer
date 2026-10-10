@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@claireonvideo](https://x.com/claireonvideo/status/2098103517680402637) · A creator in front of a green screen of news articles (Hollywood box office, Warner Bros) reacting and explaining, then the green screen switches to the product (the "Dailies" newsletter signup page). It is UGC commentary with the background as the visual.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2107425650478829611) · If you’re in ecom Pay the f*ck attention to what Smooche is doing with their creative right now This will be taught in every DTC playbook in 2 years
 - Example: [@evodawson](https://x.com/evodawson/status/2103985895443398988) · Your UGC isn't converting because your creators have no credibility. Borrow the founder's. Have them green screen and react to a video from the founde
 - Example: [@generatedbyann](https://x.com/generatedbyann/status/2061823394270843156) · I started noticing an uptick of this video format across ads and socials. The green screen explainer style mixed with rotating visuals/photos in the b
 - Example: [@jsocialstoryugc](https://x.com/jsocialstoryugc/status/2053877587928092845) · UGC example using green screen format! This style continues to perform SO well for brands: ⚫️ Great pacing ⚫️ Gives audience a good visual reference T
@@ -24,7 +25,6 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@jennamediaco](https://x.com/jennamediaco/status/2074943138205176288) · Want to make UGC videos that actually convert? 💸 Here is the exact strategy behind one of my winning videos: 📱 The "Scroll" Hook: Use a TikTok feed gr
 - Example: [@ugcwithvan](https://x.com/ugcwithvan/status/1999270533557285146) · Split screen videos WORK >> This brand had a winning video that consisted of a similar structure with green screen visuals but wanted to test differen
 - Example: [@TheJeremyHaynes](https://x.com/TheJeremyHaynes/status/2092620077946614206) · Ranking every ad creative format worst->best (video).
-- Example: [@sincerelydawnUG](https://x.com/sincerelydawnUG/status/2078944255465439652) · Here’s a recent ad where the brand requested green screen ads while the product ships! Portfolio: https://t.co/8dOkKM0Yrz Email: sincerelydawn.ugc@gma
 
 ### Shot list (fill the [brackets])
 
@@ -106,7 +106,7 @@ Creator in front of a green-screen background showing **LC's own winning ad/post
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (11 posts). Top 5:
+See [examples/README.md](examples/README.md) (14 posts). Top 5:
 
 - @adamtaylorl (139L/203BM/13kV): Tier list of ecom formats: F = AI UGC, street interviews, read scripts; B = founder, testimonial compilations, listicle statics... — https://x.com/adamtaylorl/status/2097641383355879452
 - @CEO_Vlad (88L/169BM/5kV): AI UGC formats tiered: S = podcast, talking head, in-car... — https://x.com/CEO_Vlad/status/2096569603761827953

@@ -1,0 +1,108 @@
+{
+ "id": "F111",
+ "kind": "video",
+ "mock": false,
+ "poster": "example/poster.jpg",
+ "storyboard": "example/storyboard.jpg",
+ "url": "https://x.com/LachezarVoynov/status/2079594476352246083",
+ "author": "LachezarVoynov",
+ "type": "video",
+ "duration": 117,
+ "mp4": "https://video.twimg.com/ext_tw_video/2079594309842538496/pu/vid/avc1/320x568/CyuHTK-ufkDD2O-I.mp4?tag=12",
+ "w": 720,
+ "h": 1280,
+ "via_quote": false,
+ "likes": 40,
+ "views": 2546,
+ "seen": "A 1:57 fully AI-generated vertical ad. A blonde presenter in a pink tank top time-travels through the history of hair-loss treatment, talking to camera like a travel vlogger. 0:07 an ancient Chinese apothecary (on-screen \"3,000 years of hair loss treatment\"), where an herbalist explains blood flow to the scalp; 0:36 a village in India grinding turmeric for the scalp; 0:51 \"two completely separate civilizations\u2026 both landing on the exact same principles\". 1:06 a \"1974, industrial haircare factory, New Jersey\" title card: a manager says \"we produce 50,000 units a day\u2026 maybe 1% actives, consumers can't tell the difference\". The presenter turns to camera: \"they gave you 1% and charged you for 10\", and only then is the product introduced. Word-by-word yellow captions throughout. The agency calls it \"a direct-response VSL disguised as a founder story\" and says it spends $10K a month on AI video tools.",
+ "match": "exact",
+ "beats": [
+  {
+   "t": "0:07",
+   "said": "The most effective hair loss ingredient in history isn't new, it's ancient, the industry just hoped you'd never find it. What do you use for",
+   "ocr": "3,000 years of hair loss treatment"
+  },
+  {
+   "t": "0:22",
+   "said": "Plant extracts apply directly to the follicle needs nourishment from within. If blood doesn't reach the root, nothing goes. Blood flow, scal",
+   "ocr": ""
+  },
+  {
+   "t": "0:36",
+   "said": "What is that? Turmeric, we use it for everything, wounds, inflammation, skin conditions and for the scalp to strengthen hair at the root and",
+   "ocr": "FOR THE on on"
+  },
+  {
+   "t": "0:51",
+   "said": "Two completely separate civilizations, thousands of kilometers and years apart, both landing on the exact same principles of blood flow, pla",
+   "ocr": "As seen oH. he"
+  },
+  {
+   "t": "1:06",
+   "said": "This wasn't a coincidence, they were onto something real. What changed? Demand, we produce 50,000 units a day now. And the active ingredient",
+   "ocr": "HAIR ARE FACTORY I a"
+  },
+  {
+   "t": "1:20",
+   "said": "We use what's cost effective, water base, fragrance, a small percentage of actives, maybe 1%, consumers can't tell the difference. So you kn",
+   "ocr": ""
+  },
+  {
+   "t": "1:35",
+   "said": "They figured out you can't smell the difference between 1% active ingredients and 10%. So they gave you 1% and charged you for 10. Everythin",
+   "ocr": ""
+  },
+  {
+   "t": "1:50",
+   "said": "science and",
+   "ocr": ""
+  }
+ ],
+ "more": [
+  {
+   "id": "2072708967147471270",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/2072708967147471270",
+   "thumb": "example/more/2072708967147471270.jpg",
+   "kind": "1:21 video",
+   "cap": "history lesson ads are money printers rn people on social media love conspiracy theories everyone knows that big household corporations optimise for p",
+   "views": 3508
+  },
+  {
+   "id": "2050577141197087015",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/2050577141197087015",
+   "thumb": "example/more/2050577141197087015.jpg",
+   "kind": "1:15 video",
+   "cap": "history-lesson ad creatives are the most untapped ad creative style in the eComm space right now perfect for saturated niches humans never get tired o",
+   "views": 1584
+  },
+  {
+   "id": "2062925236916420679",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/2062925236916420679",
+   "thumb": "example/more/2062925236916420679.jpg",
+   "kind": "1:15 video",
+   "cap": "History lesson ads. This uses storytelling to keep the viewers' attention. Give people a quick rundown on how your industry ended up in the terrible s",
+   "views": 524
+  },
+  {
+   "id": "2027442187835695191",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/2027442187835695191",
+   "thumb": "example/more/2027442187835695191.jpg",
+   "kind": "1:16 video",
+   "cap": "Meta ad creatives at their finest. Don't sell your product. Give people a history lesson. Educate them on how the industry you are in ended up in the ",
+   "views": 456
+  },
+  {
+   "id": "2041181235230232837",
+   "author": "LachezarVoynov",
+   "url": "https://x.com/LachezarVoynov/status/2041181235230232837",
+   "thumb": "example/more/2041181235230232837.jpg",
+   "kind": "1:57 video",
+   "cap": "I have a new favorite ad library to get inspired by. The Conscious Bar. Their content is so clean and so aesthetically pleasing that you just watch it",
+   "views": 4083
+  }
+ ]
+}

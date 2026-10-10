@@ -32,6 +32,7 @@ related_strategies: [24-niche-character-account-network, 33-animated-brand-chara
 
 
 
+
 ## Looks like
 One distinctive character (odd, recognisable — accent, look, catchphrase) in short repeatable bits; motion borrowed from trending formats; same character every post builds a following ([@sairahul1](https://x.com/sairahul1/status/2107172215586513360)).
 
@@ -43,6 +44,12 @@ Follower growth, avg watch time; Omni bio link.
 
 ## Compliance
 [_COMPLIANCE.md](../_COMPLIANCE.md). AI label; character clearly LC's; don't base on real people.
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **AI character pages at AI speed:** @kelmruns' five motion-swap characters (Wednesday-lookalike, mushroom DJ, short king, quiff gym bro, glow-up twins) are now their own format: [F112 AI character motion-swap reel](../112-ai-character-motion-swap-reel/README.md). The recurring-character logic is the same; the production is one image + one Seedance swap a day.
+- **PetLab's talking dog:** "The whole story is told by the dog, and the timeline tells the owner exactly when to expect results" ([post](https://x.com/adamtaylorl/status/2105251325130739743)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 5 update: mascot duo for couples content (Oct 2026)

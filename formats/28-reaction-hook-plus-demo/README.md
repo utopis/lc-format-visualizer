@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P0** · evidence: Very high (522M-view case, 4.7M example, multiple app operators) · hype risk: Low-Med · cost $15-60 per creator video (or in-house) · 15-30 min per video once the template exists
 
 ## What it is
@@ -114,6 +115,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 10-skit-and-problem-first-ugc-hooks, 28-ugc-creator-network-per-video-pay, 36-owned-winner-video-remix
 - Formats: [18-green-screen-reaction-and-comment-reply](../18-green-screen-reaction-and-comment-reply/README.md), [43-hudson-method-creator-swarm](../43-hudson-method-creator-swarm/README.md), [53-ai-ugc-outlier-remake-lab](../53-ai-ugc-outlier-remake-lab/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Mistake → correction (SakuraSpeak):** "The mistake gets the view, the correction demos the product." A creator tries to say something normal in Japanese, says something wrong, and the app corrects and roasts them. Claimed 173M UGC views, 213 videos over 100K across 35 creators ([@traqscales](https://x.com/traqscales/status/2108679028924096753), unverified). LC: "I asked the LC stack quiz to fix my look and it roasted me" (a screen recording of the quiz result).
+- Voynov's "UGC product demonstration" (caitlinbea) is on his [13 MOF/BOF list](https://x.com/LachezarVoynov/status/2089741135857975760).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

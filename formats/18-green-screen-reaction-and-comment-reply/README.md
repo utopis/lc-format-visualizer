@@ -32,6 +32,7 @@ related_strategies: [36-owned-winner-video-remix, 11-social-proof-credibility-en
 
 
 
+
 ## Looks like
 Creator in front of a green-screen background showing **LC's own winning ad/post** (or a screenshot of a viral comment), reacting/explaining. Comment-reply: TikTok/IG comment bubble sticker ("does this actually survive the ocean??") + answer video.
 
@@ -45,6 +46,12 @@ Overlay 3 comment-reply variants on the current top 2 winners (new Entity IDs). 
 
 ## Compliance
 [_COMPLIANCE.md](../_COMPLIANCE.md). Only react to LC's own assets or public comments (no other brands' videos); real comments only.
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Smooche's comment-to-offer ad:** "Love Smooche, but I refuse to pay full price" → the brand replies with a 60% sale, 2 for $49 / 3 for $68, then 3 reasons and a guarantee ([@adamtaylorl teardown](https://x.com/adamtaylorl/status/2107425650478829611)). LC: "I love LC but $85 for 7 is too…" → "…cheap? Here's why it isn't a catch."
+- Voynov's "TikTok response bubble UGC mashup" (MAËLYS) is on his [13 MOF/BOF list](https://x.com/LachezarVoynov/status/2089741135857975760); Adam ranks "green-screen reactions over a proven winner" A-tier ([post](https://x.com/adamtaylorl/status/2097641383355879452)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 5 update: comment section is half the job (Oct 2026)

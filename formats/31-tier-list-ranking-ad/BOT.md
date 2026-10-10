@@ -17,11 +17,13 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@deepbajwacreate](https://x.com/deepbajwacreate/status/2098014748570739055) · A creator holding a printed tier list (S/A/B/C/D) and ranking popular side hustles one card at a time, with captions, ending on the product he places at the top (an Ecom Degree signup page).
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2089713928511345017) · If you're in ecom Pay the f*ck attention to what Hike Footwear is doing with their creative right now This ad is 100% AI. And it will be taught in eve
 - Example: [@adamtwtz](https://x.com/adamtwtz/status/2097925109155549689) · there's a gym app called Symmetry doing 150,000 downloads a month off one slideshow format the product is basically an AI body scanner, you just take 
 - Example: [@fuxps32](https://x.com/fuxps32/status/2067026390588039329) · 400,000 likes, 80,000 saves, 0 sales pitches A woman scrolls her feed and stops on a supplement tier list. S tier, A tier, B tier, ranked on screen. S
 - Example: [@ViralSpyApp](https://x.com/ViralSpyApp/status/2106822218961293724) · Tutti put piano in 'easy to learn' and its own practice app among the hardest. The one-screen instrument tier list got 824k plays and 4,532 comments. 
 - Example: [@JamestheUGCguy](https://x.com/JamestheUGCguy/status/2027472175339332091) · UGC example video for custom promo products in a tier list format. Really enjoy using formats that showcase products in fun ways. Brands, if you need 
 - Example: [@BuckleUp99](https://x.com/BuckleUp99/status/2074426426942722118) · Everyone's using AI to fake UGC ads. I used it to invent a new ad format. An AI doctor. A live tier list. Real supplement verdicts. No script feel. No
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2105679883300987071) · $25M/mo Meta spend: what scales (TOF creative first...).
 - Example: [@adswithcami](https://x.com/adswithcami/status/2095208948764668068) · I Ranked Every AI Ad Format For Ecom Brand Owners Whether your struggling to find winners with AI ads, or just need to know which AI formats work best
 
 ### Live paid ads in this format (6 in [adlibrary/](adlibrary/README.md), longest-running first)
@@ -161,7 +163,7 @@ Write 5 tier-list ad scripts for Louise Carter. Topics: materials (plated, fille
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (13 posts). Top 5:
+See [examples/README.md](examples/README.md) (16 posts). Top 5:
 
 - @ads4apps (412L/930BM/27kV): 39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breakin — https://x.com/ads4apps/status/2081785032679518490
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831

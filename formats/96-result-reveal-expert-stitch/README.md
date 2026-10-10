@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (live long-runners) · hype risk: Medium · cost $0-150 · 2-3 h
 
 ## What it is
@@ -97,6 +98,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 11-social-proof-credibility-engine, 36-owned-winner-video-remix
 - Formats: [18-green-screen-reaction-and-comment-reply](../18-green-screen-reaction-and-comment-reply/README.md), [28-reaction-hook-plus-demo](../28-reaction-hook-plus-demo/README.md), [40-testimonial-mashup](../40-testimonial-mashup/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **"The expert told me" (RYZE):** "The expert delivers the claim, so the product never has to sell itself. This one has been live for 12 months. Tell the story of what an expert said, not what the product does" ([@adamtaylorl](https://x.com/adamtaylorl/status/2102759897708249588)). LC: "My jeweler told me why my rings kept going green."
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)

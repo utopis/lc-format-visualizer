@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: High (the core of the highest-volume account in DTC) · hype risk: Medium · cost $50-150 per creator take · 1 week for 8 takes
 
 ## What it is
@@ -106,6 +107,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 7 update: Lachezar Voynov (Oct 9, 2026)
 - **Wave 7 (Oct 9):** the "keep my shirt on" Suno song posted by [@LachezarVoynov](https://x.com/LachezarVoynov/status/2108585587494019562) as an agent-edited ad runs live as 3 Resilia ads (Resilia and "Midlife Wellness Journal" pages, all 4:49, started 2026-10-08). Two more ads from the same batch swap only the opening wound ("I put on lingerie…", "He wouldn't hold my hand in public") over the same middle verses. That is persona-swap cloning applied to a song: keep the body, swap the hook and the cast. Voynov's arithmetic for why this volume exists: 26 creative pods × 15 concepts × 3 variations is at least 1,170 new ads a week ([post](https://x.com/LachezarVoynov/status/2107135814585000273)). His pod = 1 strategist + 3-4 editors, with a shared coordinator, PM and designer ([post](https://x.com/LachezarVoynov/status/2107872077567111537)).
 <!-- /W7NOTE -->
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Breed callout (PetLab):** "'If your Shih Tzu is itching constantly', then 'over 50 times a day'. One breed, one number, and every owner of that breed stops. Write one hook per persona, and put a number on the problem" ([post](https://x.com/adamtaylorl/status/2105251325575315867)). **IM8's sub-avatars:** daily drinkers (men and women), GLP-1 users, supplement junkies, inflammation, PCOS, weight loss, "menobelly" ([Voynov](https://x.com/LachezarVoynov/status/2084667713146822688)). LC sub-avatars: nurses (no rings at work → waterproof huggies), swimmers, brides, new moms, gym girls, 45+ "I gave up on jewelry".
+- Adam: "check if your 'different' personas are really one person… using 25-year-old creators to sell to 45+ buyers" ([post](https://x.com/adamtaylorl/status/2108195717772980397)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

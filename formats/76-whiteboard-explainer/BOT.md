@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@artfully_amberr](https://x.com/artfully_amberr/status/2100249277029126306) · A creator drawing on a whiteboard while explaining ("that nobody talks about", "these dopamine levels"), with a graph curve, then the product page and a woman relaxing. It is a teacher-style explainer with a marker.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2062925177093046625) · Aquarium ads. Help people visualize whatever you are trying to explain. Good script with bad visuals will flop. Good script with great visuals will sc
 - Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2105679883300987071) · We currently oversee $25M in monthly Meta spend Most of our clients are making $1m+/mo just from Meta Here’s what scales: 1. Top of Funnel creative Th
 - Example: [@0xROAS](https://x.com/0xROAS/status/2086523553717883287) · we finally cracked whiteboard ads inside ai ads community. this is extremely engaging and you can use it for whatever use case you want: - ecom - saas
 - Example: [@adswithcami](https://x.com/adswithcami/status/2057020088457277861) · You don't need UGC creators for whiteboard ads now??
@@ -24,7 +25,6 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@Ajain112](https://x.com/Ajain112/status/2102383908344193207) · India’s first fashion whiteboard ad. // needs minor editing. This is raw.
 - Example: [@DavidRunsAds](https://x.com/DavidRunsAds/status/2093266262335909916) · Whiteboard ADS might be one of my favorite AI UGC formats yet. instead of just talking at the camera, you can actually explain the idea visually draw 
 - Example: [@mattepstein](https://x.com/mattepstein/status/2006398516093153407) · 5. Authority whiteboard ad
-- Example: [@oliverwhudson](https://x.com/oliverwhudson/status/2049158983106081277) · Whiteboard ads are still flying for us. We launched one for a supplement brand targeting a HRT angle that surfaced in research. First 7 days, top spen
 
 ### Live paid ads in this format (3 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -154,10 +154,10 @@ Write 4 whiteboard explainers for LC: what to draw (labels, arrows), 60-word VO,
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (6 posts). Top 5:
+See [examples/README.md](examples/README.md) (9 posts). Top 5:
 
+- @LachezarVoynov (180L/361BM/19kV): $25M/mo Meta spend: what scales (TOF creative first...). — https://x.com/LachezarVoynov/status/2105679883300987071
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
 - @artfully_amberr (9L/0BM/252V): Here's a #UGCexample I made for Stasis. This whiteboard explainer concept has generated revenue for the client. For this creative, I leaned into my background a — https://x.com/artfully_amberr/status/2100249277029126306
-- @0xROAS (213L/357BM/24kV): here's another BANGER ai ad style you can use in your ads it's called BRB Whiteboard Explainer style (my fav) there's infinite ways you can scale your creative  — https://x.com/0xROAS/status/2094086530973229173
-- @raph_guilhem (55L/105BM/7kV): 30 Meta ad formats folder tree (hooks, founder content, etc.). — https://x.com/raph_guilhem/status/2083288607062732816
-- @Ecombos_Ai (28L/26BM/2kV): 10 AI UGC styles: talking-head testimonial, product-in-hand, first-try reaction, fake podcast, street interview, comment reply, unboxing, DITL/GRWM, before/afte — https://x.com/Ecombos_Ai/status/2103180929057407425
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2062925177093046625
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2055314281390833845

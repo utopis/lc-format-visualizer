@@ -18,6 +18,14 @@ A product callout static: the headline "See Clearly. Drive Safely. Instantly." o
 |---|---|
 | 1 | See Clearly. Drive Safely. Instantly. Instant Clarity Anti-Fog Protection water … Era, 4.8 5.0 Yee … He based on 10.000 reviews |
 
+## More real examples (2)
+
+Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
+
+| | | |
+|---|---|---|
+| [![@adamtaylorl](example/more/2102759895594377508.jpg)](https://x.com/adamtaylorl/status/2102759895594377508)<br>**@adamtaylorl** · 2:04 video · 1K views<br>1. The symptom checklist Every viewer checks themselves against the list, and one "that's me" is enough to keep them watching. Open with a specific, s | [![@adamtaylorl](example/more/2105251326036705587.jpg)](https://x.com/adamtaylorl/status/2105251326036705587)<br>**@adamtaylorl** · 0:35 video · 523 views<br>3. The "not a quirk" Three symptoms stacked, then "these aren't normal." Then it removes the fix nobody wants to do: no brushing needed. List 3 things |   |
+
 ## How to make one like it
 
 **The format in one line:** A plain, lo-fi static (or 15s text video) that calls out the viewer with a diagnostic list ("3 signs your necklace won't survive summer"), a myth-vs-fact pair, a cross-out ("~~gold-plated~~ PVD bonded"), or a negative/warning hook ("don't buy this if…"). Universal, undated, evergreen — the format that runs for years.
@@ -132,7 +140,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2c update: more call-out variants (Fedotoff 37 formats)](README.md) · [Wave 2d update: cause relocation and the "big enemy"](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 2c update: more call-out variants (Fedotoff 37 formats)](README.md) · [Wave 2d update: cause relocation and the "big enemy"](README.md) · [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

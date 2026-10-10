@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Med-High (ex-Cal AI operator, detailed method) · hype risk: Med · cost $2-10 per AI test video + tooling · pipeline setup 1-2 days; then ~20 min/video
 
 ## What it is
@@ -111,6 +112,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 29-ai-ugc-outlier-test-pipeline, 26-viral-format-intelligence-feed, 37-ai-realism-craft, 28-ugc-creator-network-per-video-pay
 - Formats: [06-ai-ugc-talking-head](../06-ai-ugc-talking-head/README.md), [43-hudson-method-creator-swarm](../43-hudson-method-creator-swarm/README.md), [01-faceless-niche-slideshow](../01-faceless-niche-slideshow/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Viral organic → ad:** "Our team just turned a viral organic concept into an ad creative, and it's now taking 80% of the total ad spend inside the campaign… the video had 300,000 views" ([Voynov](https://x.com/LachezarVoynov/status/1986113376230015058)). "The video below is not an ad, but it could have very well been an ad with a pitch at the end; 4.4M organic views" ([post](https://x.com/LachezarVoynov/status/2074520879082373357)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 5 update: formats from non-selling content (Oct 2026)

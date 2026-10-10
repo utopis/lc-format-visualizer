@@ -17,6 +17,8 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@FedotOff90](https://x.com/FedotOff90/status/2095237367925731363) · A long-form VSL of about 4 to 5 minutes: a woman telling her story to camera ("Over 40"), with cutaways to an orange being peeled, a woman in bed, a red-light device on skin and close-ups of skin. It is slow, story-led and sells late.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2073059689991115205) · new ad creative format unlocked: Founder-led AI VSL this is how you pair a founder story with a direct-response VSL script both of those ad creative t
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2038618318525866073) · Most eComm founders think they need better products to scale past $10M. The truth is they need better stories. And the best ad format for telling a co
 - Example: [@FedotOff90](https://x.com/FedotOff90/status/2087245595249721445) · 97-day VSL; VSLs spent millions profitably; full VSL Machine SOP.
 
 ### Shot list (fill the [brackets])
@@ -149,10 +151,10 @@ Write a 3-minute LC VSL on the 7-beat skeleton (hook, villain, mechanism, author
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (7 posts). Top 5:
+See [examples/README.md](examples/README.md) (15 posts). Top 5:
 
 - @FedotOff90 (83L/152BM/17kV): 97-day VSL; VSLs spent millions profitably; full VSL Machine SOP. — https://x.com/FedotOff90/status/2087245595249721445
 - @FedotOff90 (49L/103BM/8kV): "VSLs… most scalable ad format by far" — 300 VSLs with 30+ day runtime. — https://x.com/FedotOff90/status/2095237367925731363
 - @FedotOff90 (110L/208BM/9kV): 37 formats printing (with days active): AI podcast 280d, report card, iPhone Notes, text on skin, Reddit, cross-out, fake PDP, tier list, myth vs fact, zero sta — https://x.com/FedotOff90/status/2104949773539442831
-- @EricSchechter (66L/46BM/3kV): Don’t overcomplicate testing offers, especially in the beginning. Some of our biggest affiliates on Meta right now are doing hundreds to 1,000+ orders a day run — https://x.com/EricSchechter/status/2100245791776428230
-- @williamkast_ (28L/34BM/3kV): 5 formats to test: founder talking head, voiceless B-roll text overlay, yapper (uncut), AI educational, camouflage static + long copy. — https://x.com/williamkast_/status/2078179704050246125
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2073059689991115205
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2037572432811135217

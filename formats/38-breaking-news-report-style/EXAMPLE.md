@@ -52,14 +52,14 @@ The storyboard above samples the video every 0:05. Lines are the transcript for 
 
 </details>
 
-## More real examples (5)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
 | [![@HenryCrochemore](example/more/2034948938789171441.jpg)](https://x.com/HenryCrochemore/status/2034948938789171441)<br>**@HenryCrochemore** · 2:13 video · 7K views<br>an AI news broadcast opens the video “breaking news” a serious anchor at a desk city skyline behind him calm, authoritative voice it looks exactly lik | [![@richardbrien](example/more/2103478126928138309.jpg)](https://x.com/richardbrien/status/2103478126928138309)<br>**@richardbrien** · images · 91 views<br>"Breaking News" style ad creative crushes harder than any other format across long periods of time. | [![@rogiergg](example/more/2086977376286585184.jpg)](https://x.com/rogiergg/status/2086977376286585184)<br>**@rogiergg** · image · 123 views<br>(BREAKING NEWS - CAUSE OF DEATH REVEALED) tbh that's just a creative on a $29.99 CO detector not a product headline a news format! the ad does not fee |
-| [![@Bsschiller](example/more/2048497164393791985.jpg)](https://x.com/Bsschiller/status/2048497164393791985)<br>**@Bsschiller** · 0:46 video · 335 views<br>We turned an @IShowSpeed stream into a “news report” ad for a South Florida experience brand — and it was an overnight hit. 106x reach vs followers Hu | [![@inceptly](example/more/2105302286490546274.jpg)](https://x.com/inceptly/status/2105302286490546274)<br>**@inceptly** · image · 14 views<br>🚨 What if your next ad looked like breaking news? This week's Modular Creative System ad breakdown covers a Find Legal ad that opens on an AI-generate |   |
+| [![@Bsschiller](example/more/2048497164393791985.jpg)](https://x.com/Bsschiller/status/2048497164393791985)<br>**@Bsschiller** · 0:46 video · 335 views<br>We turned an @IShowSpeed stream into a “news report” ad for a South Florida experience brand — and it was an overnight hit. 106x reach vs followers Hu | [![@inceptly](example/more/2105302286490546274.jpg)](https://x.com/inceptly/status/2105302286490546274)<br>**@inceptly** · image · 14 views<br>🚨 What if your next ad looked like breaking news? This week's Modular Creative System ad breakdown covers a Find Legal ad that opens on an AI-generate | [![@adamtaylorl](example/more/2090038023287152826.jpg)](https://x.com/adamtaylorl/status/2090038023287152826)<br>**@adamtaylorl** · image · 670 views<br>5. The Fake News static News framing = borrowed journalism trust. Their best static and it's basically a headline. |
 
 ## How to make one like it
 
@@ -177,7 +177,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

@@ -143,7 +143,7 @@ Photo-mode posts get saved and swiped (dwell + saves are strong ranking signals)
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (32 posts). Top 5:
+See [examples/README.md](examples/README.md) (34 posts). Top 5:
 
 - @ErnestoSOFTWARE (941L/1533BM/95kV): 11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts. — https://x.com/ErnestoSOFTWARE/status/2103534688048414959
 - @sulfurscales (452L/1127BM/87kV): Batch 2 months of slideshows in one 4-6h day; sequence content x4 -> ad warm-up -> product push. — https://x.com/sulfurscales/status/2075642615316513195

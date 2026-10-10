@@ -3,7 +3,7 @@
  "slug": "18-green-screen-reaction-and-comment-reply",
  "name": "Green-screen reaction over a proven winner + reply-to-comment overlay",
  "title": "18 · Green-screen reaction & comment reply",
- "n_examples": 11,
+ "n_examples": 14,
  "n_curated": 5,
  "n_candidates": 5,
  "stages": [
@@ -108,12 +108,59 @@
    "transcript": false
   },
   {
+   "id": "2107425650478829611",
+   "file": "2026-10-06-adamtaylorl-2107425650478829611.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "2026-10-06",
+   "url": "https://x.com/adamtaylorl/status/2107425650478829611",
+   "eng": "357L/463BM/29kV",
+   "grade": "SOME",
+   "gist": "Smooche creative to study.",
+   "thumb": "https://pbs.twimg.com/media/HT3kF_VW0AA5ru-.png",
+   "media": [
+    "photo",
+    "video",
+    "photo",
+    "video"
+   ],
+   "transcript": true
+  },
+  {
+   "id": "2089741135857975760",
+   "file": "0000-00-00-LachezarVoynov-2089741135857975760.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2089741135857975760",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
    "id": "2098103517680402637",
    "file": "0000-00-00-claireonvideo-2098103517680402637.md",
    "kind": "cited",
    "author": "claireonvideo",
    "date": "",
    "url": "https://x.com/claireonvideo/status/2098103517680402637",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107530746923823444",
+   "file": "0000-00-00-mattgittleson-2107530746923823444.md",
+   "kind": "cited",
+   "author": "mattgittleson",
+   "date": "",
+   "url": "https://x.com/mattgittleson/status/2107530746923823444",
    "eng": "0L/0BM/0V",
    "grade": "",
    "gist": "",

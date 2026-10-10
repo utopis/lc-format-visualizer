@@ -147,10 +147,10 @@ Write 20 one-line cover captions in the "she never takes her jewelry off" family
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (8 posts). Top 5:
+See [examples/README.md](examples/README.md) (9 posts). Top 5:
 
 - @yurahulei (0L/0BM/0V): AI agent posting 1000s of TikTok slideshows: rented US iPhones (Minionix), warmed accounts, 100K Pinterest image DB; screenshots: persona accounts, same caption — https://x.com/yurahulei/status/2108224536902815967
+- @rsalimx (0L/0BM/0V):  — https://x.com/rsalimx/status/2108629140480168133
 - @rsalimx (76L/122BM/8kV): Claim slideshows convert harder than videos; it's about finding the right format. — https://x.com/rsalimx/status/2090094780864713021
 - @onlinedopamine (46L/73BM/5kV): this slideshow account is literally leaving money on the table, it's almost infuriating the account owner is going viral on basically every second post what's m — https://x.com/onlinedopamine/status/2077706055656558799
 - @yassratti (60L/54BM/5kV): bro is doing $9k a month with a single tiktok slideshow account 😭 that's wild as fuck and it's your wake up call build an app that fits a format exploit that fo — https://x.com/yassratti/status/2100554319070212573
-- @chesny (121L/17BM/14kV): You swiped through that slideshow 3 times today. Nobody filmed it. Nobody edited it. Watch until 0:25. That's where it breaks down the hook. Find a slideshow ac — https://x.com/chesny/status/2098080607125561633

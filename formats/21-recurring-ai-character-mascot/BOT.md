@@ -110,10 +110,10 @@ One distinctive character (odd, recognisable — accent, look, catchphrase) in s
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (8 posts). Top 5:
+See [examples/README.md](examples/README.md) (10 posts). Top 5:
 
 - @ErnestoSOFTWARE (941L/1533BM/95kV): 11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts. — https://x.com/ErnestoSOFTWARE/status/2103534688048414959
 - @sairahul1 (237L/329BM/23kV): GaryVee: make AI influencers; 'jean phil' 100M views in 1 week (recognizable odd character). — https://x.com/sairahul1/status/2107172215586513360
 - @rewind02 (108L/56BM/4kV): AI influencer: treat character as a service, sell ads to brands. — https://x.com/rewind02/status/2107211233405325547
-- @MuteeAutomation (43L/39BM/3kV): This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The result? M — https://x.com/MuteeAutomation/status/2107022363313279044
-- @BTCTanAces1 (18L/0BM/343V): Research on brand characters consistently shows measurable effects: higher recall, stronger emotional response, better long-term brand equity, and improved mark — https://x.com/BTCTanAces1/status/2082833207402057894
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2105251325130739743
+- @jackfriks (0L/0BM/0V):  — https://x.com/jackfriks/status/2108536144896163993

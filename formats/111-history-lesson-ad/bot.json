@@ -1,0 +1,132 @@
+{
+ "id": "F111",
+ "slug": "111-history-lesson-ad",
+ "name": "History-lesson ad (\"2,000 years ago people did X. Then the industry changed it for profit. Here's the version that goes back to the original\")",
+ "type": "paid (TOF, unaware / saturated markets) + organic",
+ "platforms": "[Meta, TikTok, YouTube Shorts]",
+ "cost_per_asset": "$50-400 (AI period stills + image-to-video + VO) or $0 with archive art",
+ "time_per_asset": "1-2 days",
+ "length": "60-90s, 1080x1920 (and 4:5), documentary VO, era date stamps, big serif captions",
+ "shots": [
+  {
+   "slot": "0-4s hook",
+   "visual": "AI period still animated in Kling: a Roman woman stepping into steaming baths, a gold bracelet catching light. Serif text: \"Why Roman women never took their gold off\". Era stamp \"27 BC\"",
+   "audio_text": "VO: \"Two thousand years ago, Roman women wore their gold into the baths. Every single day.\""
+  },
+  {
+   "slot": "4-15s past",
+   "visual": "Museum-style close-ups or AI renders: Egyptian collar, Byzantine ring, 1700s locket, all still shining",
+   "audio_text": "VO: \"Real gold doesn't rust or tarnish. That's why these pieces still shine in museums.\""
+  },
+  {
+   "slot": "15-30s change",
+   "visual": "AI 1950s factory line dipping brass in colour; cut to a modern $5 earring counter. Stamp \"1952\"",
+   "audio_text": "VO: \"Then jewelry got cheap: brass with a coat of colour thinner than a hair.\""
+  },
+  {
+   "slot": "30-42s status quo",
+   "visual": "Green-finger close-up, a tarnished chain in a drawer, rings taken off before a shower. Stamp \"today\"",
+   "audio_text": "VO: \"By week three it's green and dull. We were taught that's normal. It isn't.\""
+  },
+  {
+   "slot": "42-60s return to the original",
+   "visual": "Qirra's hands at the workbench, PVD chamber B-roll, a necklace going into the ocean",
+   "audio_text": "VO: \"Louise Carter went back to the original rule: jewelry you never take off. 14K gold bonded with PVD.\""
+  },
+  {
+   "slot": "60-75s offer",
+   "visual": "Stack on a wet wrist in the sea → product grid → \"any 7 for $85\"",
+   "audio_text": "VO: \"Wear it like the Romans did.\" CTA: Shop the stack"
+  }
+ ],
+ "prompts": [
+  {
+   "tool": "Script (Claude / GPT)",
+   "prompt": "Write a 75 s history-lesson ad for Louise Carter: hook set in the past with a date; 2-3 real, checkable facts about historical gold jewelry (list a source for each); how plated costume jewelry changed the category (no named competitor); today's visible letdown (green fingers, taking rings off to shower); LC as the return to the original (PVD 14K, waterproof); offer any 7 for $85. 150-200 words."
+  },
+  {
+   "tool": "Period stills (Nano Banana / GPT Image)",
+   "prompt": "\"Cinematic photoreal scene, ancient Roman bathhouse, steam, warm torchlight, a woman in a linen stola lowering herself into the water, a thick gold bracelet on her wrist catching the light, 35mm film grain, documentary lighting, 9:16\"; one prompt per script line, same colour grade."
+  },
+  {
+   "tool": "Motion (Kling 3.0 image-to-video)",
+   "prompt": "Slow push-in, 5 s per still, subtle steam/water movement, no face morphing; keep the jewelry shape fixed."
+  },
+  {
+   "tool": "VO (ElevenLabs / human)",
+   "prompt": "Calm documentary narrator, 150 wpm, low strings or room-tone ASMR under it."
+  }
+ ],
+ "references": [
+  {
+   "kind": "hero",
+   "url": "https://x.com/LachezarVoynov/status/2079594476352246083",
+   "author": "LachezarVoynov",
+   "note": "A 1:57 fully AI-generated vertical ad. A blonde presenter in a pink tank top time-travels through the history of hair-loss treatment, talking to camera like a travel vlogger. 0:07 an ancient Chinese apothecary (on-screen \"3,000 years of hair loss treatment\"), where an herbalist explains blood flow to the scalp; 0:36 a village in India grinding turmeric for the scalp; 0:51 \"two completely separate ",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2072708967147471270",
+   "author": "LachezarVoynov",
+   "note": "history lesson ads are money printers rn people on social media love conspiracy theories everyone knows that big household corporations optimise for p",
+   "local": "example/more/2072708967147471270.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2050577141197087015",
+   "author": "LachezarVoynov",
+   "note": "history-lesson ad creatives are the most untapped ad creative style in the eComm space right now perfect for saturated niches humans never get tired o",
+   "local": "example/more/2050577141197087015.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2062925236916420679",
+   "author": "LachezarVoynov",
+   "note": "History lesson ads. This uses storytelling to keep the viewers' attention. Give people a quick rundown on how your industry ended up in the terrible s",
+   "local": "example/more/2062925236916420679.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2027442187835695191",
+   "author": "LachezarVoynov",
+   "note": "Meta ad creatives at their finest. Don't sell your product. Give people a history lesson. Educate them on how the industry you are in ended up in the ",
+   "local": "example/more/2027442187835695191.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/LachezarVoynov/status/2041181235230232837",
+   "author": "LachezarVoynov",
+   "note": "I have a new favorite ad library to get inspired by. The Conscious Bar. Their content is so clean and so aesthetically pleasing that you just watch it",
+   "local": "example/more/2041181235230232837.jpg"
+  }
+ ],
+ "paid_ads": [],
+ "qa_checklist": [
+  "Hook lands in the first 1.5 s (video) or is readable at thumbnail size (static / slide 1).",
+  "Removal test: delete the product from the script. If it still makes sense, rewrite so the product is the payoff.",
+  "Matches the reference structure (same beat order and length band) before any creative twist.",
+  "Uses only real product imagery for the product; AI is for backgrounds, characters or b-roll, and is disclosed where required.",
+  "Every claim is on the brand's approved-claims list (PDP); no invented stats, reviews, doctors or customers.",
+  "Captions burned in and inside the safe zone; sound-off still understandable.",
+  "One clear CTA that matches the landing page offer.",
+  "Three hook variants delivered for the same body (test hooks, not whole new ads).",
+  "Files named `F111-<concept>-<variant>`; tracking tag `utm_content=F111-<concept>-<variant>`.",
+  "Avoid: Invented history kills trust: every fact needs a source in the doc before the edit.",
+  "Avoid: AI renders must not be presented as real museum artefacts; label AI where required.",
+  "Avoid: \"Conspiracy\" framing (\"the industry is poisoning you\") is a claim; keep the enemy to verifiable facts (plating wears off).",
+  "Avoid: Too long before the product: test 45 s and 90 s cuts; Voynov's examples run 75-117 s."
+ ],
+ "inputs": [
+  "BRAND (name, product, price, offer, audience, proof points, banned claims)",
+  "REVIEWS (20+ customer quotes)",
+  "ASSETS (real product photos/video, logo, fonts, colors)",
+  "CHANNEL (organic or paid, platform)"
+ ],
+ "outputs": [
+  "brands/<brand-slug>.md with 3 concepts in the output schema below",
+  "per concept: script/slide copy, shot list, on-screen text, caption, CTA, 3 hook variants, prompts used",
+  "STAGES.md stage 3 set to drafted"
+ ],
+ "compliance": "../_COMPLIANCE.md"
+}

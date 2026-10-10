@@ -33,6 +33,7 @@ related_strategies: [10-skit-and-problem-first-ugc-hooks, 31-founder-daily-posti
 
 
 
+
 ## Looks like
 Creator in a parked car (or walking), phone propped, talking fast and personal: "I couldn't even wait to go inside to tell you." One continuous story, light jump cuts, captions. Why it works ([@jennamediaco](https://x.com/jennamediaco/status/2106209597526540312)): car looks organic, a story the whole time, feels private and unscripted.
 
@@ -52,6 +53,13 @@ Brief 10 creators via Trybe/creator network (strategy 28) with 3 story prompts; 
 - **Swipe file:** 299 live yapper ads in one public GetHookd board "Yapper Ads (raw talking-head UGC) - Oct 2026" ([@FedotOff90](https://x.com/FedotOff90/status/2108198291242676622)). The board loads its cards client-side and stayed on loading placeholders in a headless browser, so individual ads weren't extracted. Open it logged-in or via the GetHookd API to mine hooks.
 - **What a yapper is (vs. this file's in-car version):** one person talking fast and uncut to a phone camera — car, kitchen, walk — for 30-90s on ONE thing the product does, with no B-roll needed. Same LC scripts apply; also brief the swarm (F43) for kitchen/bathroom-counter yappers.
 - **LC test add-on:** 10 yapper creators × 3 stories → Partnership ads; scale any ad that holds >35% hook rate and CPA ≤ target (benchmarks above).
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Adam Taylor's yapper whiteboard** ([post](https://x.com/adamtaylorl/status/2107788027271819704)): mine their words → find the villain moment → hook with the pain on screen → tell it like a friend → drop the product in as the discovery (never frame 1) → prove it, close the loop. Rules: one take, cast the buyer, bullet points not a script, film in the car, bathroom or kitchen. **New villain + same product = new angle.** He ranks yapper UGC S-tier ([tier list](https://x.com/adamtaylorl/status/2097641383355879452)).
+- **Voynov on yappers:** "the key here is a super strong visual hook… the yapper should be doing something visually appealing the whole ad" ([post](https://x.com/LachezarVoynov/status/2062924820522635415)); Everyday Dose examples ([1](https://x.com/LachezarVoynov/status/2036485242769346952), [2](https://x.com/LachezarVoynov/status/2034673340401516915)); open loops with micro-rewards every 2-3 s ("boring guy in an orange shirt, 15M views", [post](https://x.com/LachezarVoynov/status/2065461193800565125)); "carpool ads": two people just talking in a car ([post](https://x.com/LachezarVoynov/status/2078144741003178142)).
+- **Loop's niche hook:** a neurodivergent creator in her car explaining which model to buy for overstimulation. "One ad written for one specific person" ([post](https://x.com/adamtaylorl/status/2100540267476496805)). Loop's 2-minute story lists every failed fix before the product appears ([post](https://x.com/adamtaylorl/status/2100540268399255574)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

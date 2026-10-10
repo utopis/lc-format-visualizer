@@ -17,9 +17,12 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@spwfeijen](https://x.com/spwfeijen/status/2105648964716380197) · A hyper-real first-person POV clip: the camera is the viewer's eyes, standing on a ship's deck looking out over the sea, with no cuts away from the POV.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/1996596411031277950) · Third-person POV ads are currently crushing on social media. The reason this is a great ad is that it looks super organic. It has nothing to do with d
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2092205349738545388) · 1. Secret Advantage POV Pure POV styling. Shows the physical application immediately. It sells the ultimate outcome (dating confidence) while visually
 - Example: [@LordofAds](https://x.com/LordofAds/status/1905654783823782374) · 🛡️Creative #1: First Person POV Example An influencer takes the audience through her makeup routine using OGEE contour products. The ad-libs and comme
 - Example: [@DeQueenofSpaces](https://x.com/DeQueenofSpaces/status/2100177884975612016) · First-person POV vs Third-person POV. Welcome back to this week's AI Creation Lab, where we're exploring Point of View. For this experiment, I created
 - Example: [@MarketingE80034](https://x.com/MarketingE80034/status/2101990359379099861) · One product photo. One prompt. A cinematic POV ad in seconds 🎬 No camera, no studio, no models. Here's the exact AI workflow 👇 #AIVideo #AIMarketing #
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2100540267937906908) · 2. The High-Energy POV… Nobody is searching for earplugs. So Loop puts them inside a moment you already want. Tomorrowland footage, crowds, drops. By 
 
 ### Live paid ads in this format (1 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -114,8 +117,10 @@ Real GoPro/phone chest-mount (preferred) — AI only for impossible shots, label
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (3 posts). Top 5:
+See [examples/README.md](examples/README.md) (7 posts). Top 5:
 
 - @spwfeijen (46L/49BM/5kV): Hyper-real first-person POV footage with narrative tension keeps watch time near 100%. — https://x.com/spwfeijen/status/2105648964716380197
 - @antonioventre_ (8L/4BM/693V): Production rule: reaction can't be scripted — founder-customer call + POV reaction ads with live unscripted reaction. — https://x.com/antonioventre_/status/2091895054755373116
-- @DeQueenofSpaces (100L/2BM/2kV): First-person POV vs Third-person POV. Welcome back to this week's AI Creation Lab, where we're exploring Point of View. For this experiment, I created a fitness — https://x.com/DeQueenofSpaces/status/2100177884975612016
+- @LachezarVoynov (396L/1453BM/88kV): 29 TOF video ad formats to test on Meta (transformation, Suno song, skit, beginner-intermediate-expert...). — https://x.com/LachezarVoynov/status/2086842038457098499
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/1996596411031277950
+- @adamtaylorl (0L/0BM/0V):  — https://x.com/adamtaylorl/status/2092205349738545388

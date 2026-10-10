@@ -10,10 +10,10 @@ A. POV: diving off a boat wearing rings, surfacing, looking at hands. B. POV: ge
 
 Hold rate; [_COMPLIANCE.md](../_COMPLIANCE.md).
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->
 
 ## Compliance
 
 Hold rate; [_COMPLIANCE.md](../_COMPLIANCE.md).
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->

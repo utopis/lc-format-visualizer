@@ -10,10 +10,10 @@ A. "Taking jewelry off before every shower/gym/beach" (left: fumbling, losing ea
 
 Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md).
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->
 
 ## Compliance
 
 Hook rate, CPA; [_COMPLIANCE.md](../_COMPLIANCE.md).
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->

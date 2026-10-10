@@ -22,6 +22,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 - Example: [@rogiergg](https://x.com/rogiergg/status/2086977376286585184) · (BREAKING NEWS - CAUSE OF DEATH REVEALED) tbh that's just a creative on a $29.99 CO detector not a product headline a news format! the ad does not fee
 - Example: [@Bsschiller](https://x.com/Bsschiller/status/2048497164393791985) · We turned an @IShowSpeed stream into a “news report” ad for a South Florida experience brand — and it was an overnight hit. 106x reach vs followers Hu
 - Example: [@inceptly](https://x.com/inceptly/status/2105302286490546274) · 🚨 What if your next ad looked like breaking news? This week's Modular Creative System ad breakdown covers a Find Legal ad that opens on an AI-generate
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2090038023287152826) · 5. The Fake News static News framing = borrowed journalism trust. Their best static and it's basically a headline.
 
 ### Live paid ads in this format (2 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -146,7 +147,7 @@ Write 5 news-style LC ad scripts (20s) around these real events {{EVENTS}}: anch
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (11 posts). Top 5:
+See [examples/README.md](examples/README.md) (13 posts). Top 5:
 
 - @ads4apps (412L/930BM/27kV): 39 Meta formats that convert (930 bookmarks): X reasons, IG story, us vs them, Venn, don't buy this, iPhone notes, text message, low stock, we're sorry, breakin — https://x.com/ads4apps/status/2081785032679518490
 - @nicktheriot_ (219L/348BM/12kV): 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder st — https://x.com/nicktheriot_/status/2108173638033871013

@@ -16,4 +16,4 @@ Retargeting + broad; CVR, Omni new vs returning.
 
 [_COMPLIANCE.md](../_COMPLIANCE.md). Don't name or show identifiable competitor brands/sellers; comparison claims must be substantiated (test records kept).
 
-<!-- EVIDENCE:START -->
+<!-- W8NOTE -->

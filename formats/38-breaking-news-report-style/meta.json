@@ -3,7 +3,7 @@
  "slug": "38-breaking-news-report-style",
  "name": "Breaking-news / news-report style ad",
  "title": "38 · Breaking-news / news-report style ad",
- "n_examples": 11,
+ "n_examples": 13,
  "n_curated": 5,
  "n_candidates": 4,
  "stages": [
@@ -137,6 +137,34 @@
    "eng": "55L/105BM/7kV",
    "grade": "VALUE",
    "gist": "30 Meta ad formats folder tree (hooks, founder content, etc.).",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108558106984595660",
+   "file": "0000-00-00-adamtaylorl-2108558106984595660.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2108558106984595660",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090038023287152826",
+   "file": "0000-00-00-adamtaylorl-2090038023287152826.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2090038023287152826",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

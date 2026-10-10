@@ -1,0 +1,111 @@
+{
+ "id": "F112",
+ "slug": "112-ai-character-motion-swap-reel",
+ "name": "AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption)",
+ "title": "112 · AI character motion-swap reel",
+ "n_examples": 5,
+ "n_curated": 0,
+ "n_candidates": 0,
+ "stages": [
+  {
+   "stage": "Find",
+   "status": "done"
+  },
+  {
+   "stage": "Deep research",
+   "status": "done"
+  },
+  {
+   "stage": "Concepts",
+   "status": "drafted (LC)"
+  },
+  {
+   "stage": "Production",
+   "status": "not started"
+  },
+  {
+   "stage": "Test",
+   "status": "not started"
+  },
+  {
+   "stage": "Scale",
+   "status": "not started"
+  },
+  {
+   "stage": "Learnings",
+   "status": "not started"
+  }
+ ],
+ "examples": [
+  {
+   "id": "2108258506801299744",
+   "file": "0000-00-00-kelmruns-2108258506801299744.md",
+   "kind": "cited",
+   "author": "kelmruns",
+   "date": "",
+   "url": "https://x.com/kelmruns/status/2108258506801299744",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107886356496097561",
+   "file": "0000-00-00-kelmruns-2107886356496097561.md",
+   "kind": "cited",
+   "author": "kelmruns",
+   "date": "",
+   "url": "https://x.com/kelmruns/status/2107886356496097561",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107508612058747114",
+   "file": "0000-00-00-kelmruns-2107508612058747114.md",
+   "kind": "cited",
+   "author": "kelmruns",
+   "date": "",
+   "url": "https://x.com/kelmruns/status/2107508612058747114",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107165250868937035",
+   "file": "0000-00-00-kelmruns-2107165250868937035.md",
+   "kind": "cited",
+   "author": "kelmruns",
+   "date": "",
+   "url": "https://x.com/kelmruns/status/2107165250868937035",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108656084890349694",
+   "file": "0000-00-00-kelmruns-2108656084890349694.md",
+   "kind": "cited",
+   "author": "kelmruns",
+   "date": "",
+   "url": "https://x.com/kelmruns/status/2108656084890349694",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  }
+ ]
+}

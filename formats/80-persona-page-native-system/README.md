@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P3** · evidence: High (many large advertisers) · hype risk: High · cost $0-200 · ongoing
 
 ## What it is
@@ -102,6 +103,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 - Stated purpose: split ban risk ("lose one, eleven keep running") and multiply authority angles. Most presenters show signs of AI generation.
 - **Legal signal:** Rosabella (Ambrosia Brands) is being sued by Humann over TikTok Shop videos featuring AI-generated "doctors" (404 Media; Magica). The US Under Secretary for Public Diplomacy publicly called out scam ads using "hidden knowledge" and betrayal drama (quoted by @ladprofit about Resilia).
 - **LC stance:** one brand Page + disclosed founder/creator Pages only. No invented doctors, experts or review "reports".
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **More persona pages behind "AI" ad formats:** the brands on Voynov's [14 AI TOF formats](https://x.com/LachezarVoynov/status/2104599048493666326) include pages called "Local Dermatologist" (AI yapper), "Timeless Beauty Secrets" (AI street interviews), "Dorothy Johnson" (AI authority figure), "Vascular Wellness Report" (AI musicals), "The Health Haven" (AI mini-movie) and "K-Beauty Tips" (celebrity ads). He advises native statics "whitelisted from a page you created yourself" ([post](https://x.com/LachezarVoynov/status/2062924701924466844)). **Do not copy.** The legitimate counterpart is PetLab's model: one verified brand page plus real creator partnership ads ([thread](https://x.com/adamtaylorl/status/2108558106984595660)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

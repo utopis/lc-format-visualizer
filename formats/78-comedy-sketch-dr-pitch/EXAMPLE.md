@@ -53,12 +53,13 @@ The storyboard above samples the video every 0:07. Lines are the transcript for 
 
 </details>
 
-## More real examples (3)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
+| [![@LachezarVoynov](example/more/2100248342488055848.jpg)](https://x.com/LachezarVoynov/status/2100248342488055848)<br>**@LachezarVoynov** · 2:57 video · 4K views<br>Cool use of AI in creative strategy 1. Skits work well because people like watching them 2. Open a curiosity gap 3. Create a conflict - people on soci | [![@LachezarVoynov](example/more/2060025378609992170.jpg)](https://x.com/LachezarVoynov/status/2060025378609992170)<br>**@LachezarVoynov** · 0:26 video · 2K views<br>New format unlocked. In-office thumb-fight. About to launch this ad for a client. It has potential to become a top-performer given how good the ad tur | [![@LachezarVoynov](example/more/2062924954010624445.jpg)](https://x.com/LachezarVoynov/status/2062924954010624445)<br>**@LachezarVoynov** · 0:26 video · 469 views<br>Skits. Mind-f*ck hooks + good DR script + an engaging story = winning ad. This is an ad we produced that I am super proud of. Finding the right talent |
 | [![@Teavetua1971](example/more/2104205130413273395.jpg)](https://x.com/Teavetua1971/status/2104205130413273395)<br>**@Teavetua1971** · 0:10 video · 10K views<br>QT With Your Funny Ad (Inspired by an old ad for a famous brand 😁😁) #digitalart #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ https://t.co | [![@nedfulmer](example/more/2080780729852526953.jpg)](https://x.com/nedfulmer/status/2080780729852526953)<br>**@nedfulmer** · image · 6K views<br>“Is influencer marketing dead?" While hiking through a medieval castle (lol, I know), I recently had a conversation with a founder who had shifted nea | [![@imranullah](example/more/2091907704734257203.jpg)](https://x.com/imranullah/status/2091907704734257203)<br>**@imranullah** · 0:15 video · 12K views<br>The sad part is that this brand thought this was going to be a funny ad. I have pulled the calaway woods from my bag. #calawaygolf #goodgood https://t |
 
 ## How to make one like it
@@ -183,7 +184,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 2d update: supplement skit ads](README.md)
+Newer observations live in the playbook: [Wave 2d update: supplement skit ads](README.md) · [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md)
 
 ## More examples
 

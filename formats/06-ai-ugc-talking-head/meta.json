@@ -3,7 +3,7 @@
  "slug": "06-ai-ugc-talking-head",
  "name": "AI UGC talking-head (avatar) — and its realism stack",
  "title": "06 · AI UGC talking-head",
- "n_examples": 37,
+ "n_examples": 38,
  "n_curated": 28,
  "n_candidates": 8,
  "stages": [
@@ -505,6 +505,20 @@
    "eng": "93L/57BM/5kV",
    "grade": "VALUE",
    "gist": "Find new winners via review mining, personas, awareness levels - not hook iterations or AI UGC volume.",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2107510774583455878",
+   "file": "0000-00-00-LachezarVoynov-2107510774583455878.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/2107510774583455878",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
    "thumb": "",
    "media": [],
    "transcript": false

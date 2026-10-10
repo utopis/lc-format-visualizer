@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P0** · evidence: High (4.80 ROAS first-party; 3 sources) · hype risk: Low · cost $0-50 (phone + recording consent) · 1-2 h per call, 3-5 cuts per call
 
 ## What it is
@@ -114,6 +115,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 11-social-proof-credibility-engine, 17-review-prompt-timing, 31-founder-daily-posting-product-as-ad
 - Formats: [40-testimonial-mashup](../40-testimonial-mashup/README.md), [48-the-dm-i-get-every-day](../48-the-dm-i-get-every-day/README.md), [13-podcast-style-ad](../13-podcast-style-ad/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Customer calls:** "This ad has done over $500k in sales. We've been running this creative format since 2022" ([Voynov](https://x.com/LachezarVoynov/status/2062924873022795932), Sweet Zzz; also on his [13 top types](https://x.com/LachezarVoynov/status/2057847704403972533)).
+- **Do not copy, GroundingWell's "front desk" call** ([teardown](https://x.com/adamtaylorl/status/2094742062755422423)): a staged call presented as a real hotel conversation ("I'm probably not supposed to be telling you this"), with health claims. Real customer calls are fine; scripted calls must be labelled as dramatizations.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)

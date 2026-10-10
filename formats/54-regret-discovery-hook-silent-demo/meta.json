@@ -3,7 +3,7 @@
  "slug": "54-regret-discovery-hook-silent-demo",
  "name": "'Been doing X for N years and NOW I find this???' — regret-discovery hook + silent demo",
  "title": "54 · \"Been doing X for N years and NOW I find this???\" — regret-discovery hook + silent demo",
- "n_examples": 12,
+ "n_examples": 13,
  "n_curated": 7,
  "n_candidates": 5,
  "stages": [
@@ -149,6 +149,20 @@
    "thumb": "",
    "media": [],
    "transcript": true
+  },
+  {
+   "id": "2107530746923823444",
+   "file": "0000-00-00-mattgittleson-2107530746923823444.md",
+   "kind": "cited",
+   "author": "mattgittleson",
+   "date": "",
+   "url": "https://x.com/mattgittleson/status/2107530746923823444",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2075946162235011466",

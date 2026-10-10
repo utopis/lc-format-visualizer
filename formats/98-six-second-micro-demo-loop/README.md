@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium (225-day live ad) · hype risk: Medium · cost $0 · 30 min
 
 ## What it is
@@ -95,6 +96,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 27-satisfying-product-loop-recordings, 03-creative-volume-flooding
 - Formats: [28-reaction-hook-plus-demo](../28-reaction-hook-plus-demo/README.md), [54-regret-discovery-hook-silent-demo](../54-regret-discovery-hook-silent-demo/README.md), [49-cinematic-macro-product-film](../49-cinematic-macro-product-film/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Animate your winning statics:** "get a subscription for Kling AI and animate them. It's the easiest way to extend the life of your winners while also turning them into an ad format shown to a different audience. Low effort, high lift" ([Voynov](https://x.com/LachezarVoynov/status/1977737128290189487)). **Visual-proof POV (CloudSole):** rapid close-up application, "built for short attention spans" ([post](https://x.com/adamtaylorl/status/2092205353744130552)).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

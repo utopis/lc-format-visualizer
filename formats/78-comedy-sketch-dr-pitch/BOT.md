@@ -17,6 +17,9 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@Daniloecom](https://x.com/Daniloecom/status/2107749101823574297) · A claymation-style comedy sketch about snoring: a man snoring with sound waves, his wife suffering, a cop bursting in, a giant cartoon mouth, then the product (QuietSeal) on the nightstand.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2100248342488055848) · Cool use of AI in creative strategy 1. Skits work well because people like watching them 2. Open a curiosity gap 3. Create a conflict - people on soci
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2060025378609992170) · New format unlocked. In-office thumb-fight. About to launch this ad for a client. It has potential to become a top-performer given how good the ad tur
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2062924954010624445) · Skits. Mind-f*ck hooks + good DR script + an engaging story = winning ad. This is an ad we produced that I am super proud of. Finding the right talent
 - Example: [@Teavetua1971](https://x.com/Teavetua1971/status/2104205130413273395) · QT With Your Funny Ad (Inspired by an old ad for a famous brand 😁😁) #digitalart #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ https://t.co
 - Example: [@nedfulmer](https://x.com/nedfulmer/status/2080780729852526953) · “Is influencer marketing dead?" While hiking through a medieval castle (lol, I know), I recently had a conversation with a founder who had shifted nea
 - Example: [@imranullah](https://x.com/imranullah/status/2091907704734257203) · The sad part is that this brand thought this was going to be a funny ad. I have pulled the calaway woods from my bag. #calawaygolf #goodgood https://t
@@ -152,10 +155,10 @@ Write 3 comedy sketches (60s) for LC where each joke carries one selling point: 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (5 posts). Top 5:
+See [examples/README.md](examples/README.md) (9 posts). Top 5:
 
 - @briannjho (138L/338BM/10kV): Ad picks: Smooche AI song ad, Ryze AI skit, UndrDog big-enemy, Everyday Dose skit, Serene Herbs AI identity, Nuora apology mash-up, Mama Bear "this is what happ — https://x.com/briannjho/status/2094662259746480410
 - @Daniloecom (4L/1BM/117V): What if an anti-snoring ad felt more like a ridiculous comedy sketch than an ad? So I made one. Claymation characters, absurd escalation, deadpan VO, and a fake — https://x.com/Daniloecom/status/2107749101823574297
-- @imranullah (5L/1BM/12kV): The sad part is that this brand thought this was going to be a funny ad. I have pulled the calaway woods from my bag. #calawaygolf #goodgood https://t.co/aMWwQU — https://x.com/imranullah/status/2091907704734257203
-- @Teavetua1971 (7L/0BM/10kV): QT With Your Funny Ad (Inspired by an old ad for a famous brand 😁😁) #digitalart #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ https://t.co/WstSXVN5d — https://x.com/Teavetua1971/status/2104205130413273395
-- @nedfulmer (3L/0BM/6kV): “Is influencer marketing dead?" While hiking through a medieval castle (lol, I know), I recently had a conversation with a founder who had shifted nearly all of — https://x.com/nedfulmer/status/2080780729852526953
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2076695219114823683
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2062924954010624445
+- @LachezarVoynov (0L/0BM/0V):  — https://x.com/LachezarVoynov/status/2060025378609992170

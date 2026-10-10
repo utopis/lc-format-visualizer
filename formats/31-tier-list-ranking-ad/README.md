@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P0** · evidence: High (operator: top spender across accounts) · hype risk: Low · cost $0-150 · 1-2 h
 
 ## What it is
@@ -114,6 +115,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Wave 7 update: Lachezar Voynov (Oct 9, 2026)
 - **Wave 7 (Oct 9):** in [@LachezarVoynov's authority whiteboard example](https://x.com/LachezarVoynov/status/2105679883300987071), the ranking is the body of the script: 2/10, 4/10, 6/10, "a hundred out of ten". Each low score gets a funny one-line put-down ("she's the same water… wearing a nicer jar and a French accent"), and the winner gets the mechanism. Use the put-down device.
 <!-- /W7NOTE -->
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Expert ratings of competitors (Hike Footwear, 100% AI):** an AI "foot and ankle surgeon" rates named shoes (Skechers memory foam 2/10, Hoka Bondi 3/10, New Balance 928 4/10, Orthofeet) and then the brand 9/10 ([@adamtaylorl teardown](https://x.com/adamtaylorl/status/2089713928511345017)); Voynov's "Authority-figure ratings" (Sweet Zzz) is on his [MOF/BOF list](https://x.com/LachezarVoynov/status/2089741135857975760). **Do not copy:** an AI "surgeon" presented as real, or knocking named brands with unproven claims. LC: Qirra rates *materials* (plated brass 2/10, sterling 6/10, solid gold 10/10 but $$$, PVD 14K 9/10).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: brands & apps crushing it (Oct 2026)

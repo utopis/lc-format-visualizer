@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (boards + playbook) · hype risk: Medium · cost $50-500 · 1-2 days
 
 ## What it is
@@ -95,6 +96,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 33-animated-brand-character-ads, 37-ai-realism-craft
 - Formats: [05-ai-animation-format-swap](../05-ai-animation-format-swap/README.md), [41-talking-product-ad](../41-talking-product-ad/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **"This is why" cutaway (RYZE):** "A 3D inside-the-body visual stops the scroll, and 'this is why' promises an answer they've never heard" ([post](https://x.com/adamtaylorl/status/2102759896789713340)). Lymphoria's opener repeats "This is a backed-up kidney" three times over a render ([teardown](https://x.com/adamtaylorl/status/2092576938309386363); ⚠️ unsupported health mechanism). Adam's visual-hook sheet: "X-ray render of [subject] with [affected area] glowing" ([post](https://x.com/adamtaylorl/status/2097686470941438260)). LC: a macro render of the PVD layer vs. a 0.5-micron plating layer wearing off.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

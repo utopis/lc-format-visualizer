@@ -35,6 +35,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Medium-High (live long-runner + strategist teardown) · hype risk: Medium · cost $0-150 · 2-4 h
 
 ## What it is
@@ -102,6 +103,11 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 35-mass-awareness-placement-to-advertorial, 11-social-proof-credibility-engine
 - Formats: [34-callout-statics-signs-myths-warnings](../34-callout-statics-signs-myths-warnings/README.md), [35-diagram-statics-venn-report-card](../35-diagram-statics-venn-report-card/README.md), [58-educational-care-material-explainer](../58-educational-care-material-explainer/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **"You got scammed"** (Resilia) leads Voynov's [13 MOF/BOF list](https://x.com/LachezarVoynov/status/2089741135857975760). Hike's surgeon ratings and CloudSole's knock-off PSA are the same move: flip the label on what they already bought (see F31 and F16 W8 notes).
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 3 update: Meta ad-library long-runners (Fedotoff gut-health board)

@@ -17,6 +17,8 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@ugcAshleyRJ](https://x.com/ugcAshleyRJ/status/2067636022251290725) · A day-in-the-life POV filmed with an ultra-wide 0.5x lens: walking into an office ("Be Empowered" on the wall), working at a round table, a printed magazine spread, with captions explaining the 0.5x POV angle.
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2100540269351350453) · 5. Day In The Life… Most brands will list a bunch of boring features. Loop just shows a guy using it for a day. Laptop, backpack, crowd at a live even
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2090038019059314970) · 3. The Retail Vlog You're 40 seconds into a dog date before you realize Petco and the ingredients list walked in with it. Stealth education.
 
 ### Shot list (fill the [brackets])
 
@@ -143,7 +145,7 @@ Turn this list of a real day's scenes {{SCENES}} into a 25s DITL script: hook te
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (10 posts). Top 5:
+See [examples/README.md](examples/README.md) (12 posts). Top 5:
 
 - @nicktheriot_ (219L/348BM/12kV): 2026 FB creative styles tier list: S = long primary text + organic image, LTO, UGC, VSL, reaction, news; A = demo, us vs them, testimonial, close-up, founder st — https://x.com/nicktheriot_/status/2108173638033871013
 - @williamkast_ (38L/46BM/3kV): Turn 1 winning ad into 5: same message, different frameworks (DITL, 3 reasons, old me/new me, phone call). — https://x.com/williamkast_/status/2086835243474985414

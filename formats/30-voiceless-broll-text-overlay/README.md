@@ -37,6 +37,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P1** · evidence: Med-High (operator lists + outliers; contested) · hype risk: Low · cost $0-50 (existing footage) · 20-40 min per ad
 
 ## What it is
@@ -110,6 +111,12 @@ Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md) (no fake testimonials, AI disclosu
 ## Related
 - Strategies: 36-owned-winner-video-remix, 40-modular-variation-testing-review
 - Formats: [39-x-reasons-why](../39-x-reasons-why/README.md), [49-cinematic-macro-product-film](../49-cinematic-macro-product-film/README.md), [01-faceless-niche-slideshow](../01-faceless-niche-slideshow/README.md)
+
+<!-- W8NOTE -->
+## Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)
+- **Cue cards:** "no VO, just text written on the cards" is on Voynov's [8 formats at $100k+/mo](https://x.com/LachezarVoynov/status/2055314281390833845); he rebuilt it for a B2B SaaS client: sell the pain → agitate → open a loop ([post](https://x.com/LachezarVoynov/status/2061448797901705392)). "Scrolling-text video ads" and "Broll + text on screen" (Frøya Organics) are on his lists.
+- **Loop's no-dialogue skit:** "No dialogue. No VO. Still works. Text on screen does all the selling. Perfect format for adding diversity" ([post](https://x.com/adamtaylorl/status/2100540268894093363)). Adam ranks plain lifestyle B-roll + VO C-tier, so the text has to carry a story.
+<!-- /W8NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Evidence from X discovery (auto-generated)

@@ -3,7 +3,7 @@
  "slug": "21-recurring-ai-character-mascot",
  "name": "Recurring (AI or illustrated) character / mascot page",
  "title": "21 · Recurring character",
- "n_examples": 8,
+ "n_examples": 10,
  "n_curated": 3,
  "n_candidates": 5,
  "stages": [
@@ -87,6 +87,34 @@
     "video"
    ],
    "transcript": true
+  },
+  {
+   "id": "2105251325130739743",
+   "file": "0000-00-00-adamtaylorl-2105251325130739743.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2105251325130739743",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2108536144896163993",
+   "file": "0000-00-00-jackfriks-2108536144896163993.md",
+   "kind": "cited",
+   "author": "jackfriks",
+   "date": "",
+   "url": "https://x.com/jackfriks/status/2108536144896163993",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
   },
   {
    "id": "2107022363313279044",

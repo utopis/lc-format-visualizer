@@ -17,13 +17,14 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@contentbyroxy](https://x.com/contentbyroxy/status/2100991855441666519) · A creator filming herself in the driver's seat with the sunroof open, talking fast and casually to the phone, with sunglasses on for the sign-off. It is one continuous car-talk monologue with captions.
+- Example: [@LachezarVoynov](https://x.com/LachezarVoynov/status/2062924820522635415) · Yappers. The key here is a super strong visual hook. Throughout the whole ad, the yapper should be doing something visually appealing to keep the atte
+- Example: [@adamtaylorl](https://x.com/adamtaylorl/status/2100540268399255574) · 3. Long-Form Storytelling… 2 MINUTES LONG. Still spends 💀 This hook is a masterclass in opening loops. She lists every failed fix before the product a
 - Example: [@hectorserrranoo](https://x.com/hectorserrranoo/status/2107526350605070475) · Wispr Flow paid UGC program: what companies get wrong.
 - Example: [@hectorserrranoo](https://x.com/hectorserrranoo/status/2106136430556672384) · Panel: you're nothing without your creators (Comfrt: 10 creators = big share of revenue).
 - Example: [@CEO_Vlad](https://x.com/CEO_Vlad/status/2082092962348167273) · "yapper girl in car" is such a good AI UGC format... used it this to scale my ecom brand to $200k days this format is beating every studio shot creati
 - Example: [@jennamediaco](https://x.com/jennamediaco/status/2106209597526540312) · Simple in-car talking head ad scaling: car = organic, story throughout.
 - Example: [@tiffanyxugc](https://x.com/tiffanyxugc/status/2097636391798854069) · #ugcexample of a yapper style script read in the car, edited by their team 🍬 I had creative freedom to take this script &amp; make it my own which mak
 - Example: [@houseofjenUGC](https://x.com/houseofjenUGC/status/2087571793452118181) · Talking head in the car example! Yapping UGC as a mom ugc creator Hello@houseofjenugc.com https://t.co/4hlMiWlhlS
-- Example: [@harrydelmege_](https://x.com/harrydelmege_/status/2106794963006861535) · RolyPoly yapper ads: $154.5k spend in a single day across 1,635 ads; single ads at $45.1k and $33.1k; hook rates 44-62%, hold 31-48% (Ads Manager scre
 
 ### Live paid ads in this format (7 in [adlibrary/](adlibrary/README.md), longest-running first)
 
@@ -119,7 +120,7 @@ Brief 10 creators via Trybe/creator network (strategy 28) with 3 story prompts; 
 
 ## Reference examples
 
-See [examples/README.md](examples/README.md) (16 posts). Top 5:
+See [examples/README.md](examples/README.md) (25 posts). Top 5:
 
 - @hectorserrranoo (210L/251BM/15kV): Wispr Flow paid UGC program: what companies get wrong. — https://x.com/hectorserrranoo/status/2107526350605070475
 - @CEO_Vlad (88L/169BM/5kV): AI UGC formats tiered: S = podcast, talking head, in-car... — https://x.com/CEO_Vlad/status/2096569603761827953

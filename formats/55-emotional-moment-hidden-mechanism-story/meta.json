@@ -3,7 +3,7 @@
  "slug": "55-emotional-moment-hidden-mechanism-story",
  "name": "Emotional life-moment story with the product as the hidden mechanism (crying-bride 'we gave every guest a camera')",
  "title": "55 · Emotional life-moment story with the product as the hidden mechanism (crying-bride \"we gave every guest a camera\")",
- "n_examples": 5,
+ "n_examples": 8,
  "n_curated": 3,
  "n_candidates": 1,
  "stages": [
@@ -101,6 +101,48 @@
     "video",
     "photo"
    ],
+   "transcript": false
+  },
+  {
+   "id": "2107530746923823444",
+   "file": "0000-00-00-mattgittleson-2107530746923823444.md",
+   "kind": "cited",
+   "author": "mattgittleson",
+   "date": "",
+   "url": "https://x.com/mattgittleson/status/2107530746923823444",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "2090038014353277073",
+   "file": "0000-00-00-adamtaylorl-2090038014353277073.md",
+   "kind": "cited",
+   "author": "adamtaylorl",
+   "date": "",
+   "url": "https://x.com/adamtaylorl/status/2090038014353277073",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
+   "transcript": false
+  },
+  {
+   "id": "1976293825112150474",
+   "file": "0000-00-00-LachezarVoynov-1976293825112150474.md",
+   "kind": "cited",
+   "author": "LachezarVoynov",
+   "date": "",
+   "url": "https://x.com/LachezarVoynov/status/1976293825112150474",
+   "eng": "0L/0BM/0V",
+   "grade": "",
+   "gist": "",
+   "thumb": "",
+   "media": [],
    "transcript": false
   },
   {
