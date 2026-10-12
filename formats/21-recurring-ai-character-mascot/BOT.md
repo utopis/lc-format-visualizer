@@ -17,6 +17,7 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 ### Real references (study before writing)
 
 - **Main example**: [@rewind02](https://x.com/rewind02/status/2107211233405325547) · A recurring AI character (a duck-headed "AI influencer" in a leather jacket) walking through a store aisle and showing a drink to camera. The same character appears in every post, so the audience follows the character.
+- Example: [@bubbubbdex](https://x.com/bubbubbdex/status/2109295033086099947) · I MADE $10K WITH A PERSON WHO DOESN'T EXIST Her name is Erika Mercer. I started posting her videos 5 days ago. Since then: 13 videos and $10K from ads
 - Example: [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2103534688048414959) · 11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts.
 - Example: [@MuteeAutomation](https://x.com/MuteeAutomation/status/2107022363313279044) · This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The
 - Example: [@YouTubeAut3538](https://x.com/YouTubeAut3538/status/2107104155831546119) · This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The

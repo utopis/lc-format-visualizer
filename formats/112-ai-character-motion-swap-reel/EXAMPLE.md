@@ -1,16 +1,16 @@
 # 112 · AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption): see it, then make it
 
-[![The example: storyboard of @kelmruns's post](example/storyboard.jpg)](https://x.com/kelmruns/status/2107508612058747114)
+[![The example: storyboard of @bubbubbdex's post](example/storyboard.jpg)](https://x.com/bubbubbdex/status/2109295033086099947)
 
-**The example:** [@kelmruns on X](https://x.com/kelmruns/status/2107508612058747114) · 0:09 video · 793 likes, 216K views
+**The example:** [@bubbubbdex on X](https://x.com/bubbubbdex/status/2109295033086099947) · 0:09 video · 592 likes, 76K views
 
-**Watch it:** [open the post on X](https://x.com/kelmruns/status/2107508612058747114) · [play the video file](https://video.twimg.com/amplify_video/2107507399263199233/vid/avc1/320x614/kFllez2en_COcNRU.mp4?tag=29)
+**Watch it:** [open the post on X](https://x.com/bubbubbdex/status/2109295033086099947) · [play the video file](https://video.twimg.com/amplify_video/2109294360038621184/vid/avc1/320x654/Gv04xQlqV5jt_97I.mp4?tag=29)
 
-> dead internet theory isn't a theory anymore this 2-day-old AI influencer made with ChatGPT already pulled $13,700 from one clip 26K followers and 2.2M likes in 48 hours on a guy with a two-foot haircut all the author did: > generate a gym bro with a giant blonde quiff in ChatGPT > pick crowded spots: a cowboy bar, a bowling alley, a lawn mower > swap him into the clip with Seedance 2.5 > caption it like an ego trip, …
+> I MADE $10K WITH A PERSON WHO DOESN'T EXIST Her name is Erika Mercer. I started posting her videos 5 days ago. Since then: 13 videos and $10K from ads on those videos Here's how I built her: > ChatGPT - created Erika's look and consistent character images > Claude - wrote her personality, scenes and video prompts > Higgsfield - turned those images into videos Then I kept the face recognizable and changed the situatio…
 
 ## What you are seeing
 
-A 9-second vertical reel of an AI-generated gym bro with a giant blonde two-foot quiff, swapped with Seedance 2.5 into crowded real-world clips (a cowboy bar, a bowling alley, riding a lawn mower) with a hype soundtrack. The caption is one ego line: "ladies you all look lovely tonight, but i look better". The poster claims the 2-day-old account reached 26K followers and 2.2M likes in 48 hours and "$13,700 from one clip" (unverified; replies dispute monetisation). The character was generated in ChatGPT image; every shot keeps the same exaggerated silhouette so it reads on mute in half a second.
+A 9-second selfie lip-sync of "Erika Mercer", an AI character: shag black hair with curtain bangs, a ripped grey crop tee with a pink claw logo, filmed like a phone-camera clip in a beige room (audio: "she told me it would take ten minutes to break my heart"). The post adds her TikTok profile (26.6K followers, 143K likes in 5 days, bio "The other Mercer. iykyk"; clips include shadowboxing at 238.9K, sparring with a monk in a temple at 371.6K and a rooftop flip at 1M) and her 6-panel character sheet (front, side and back full-body + 3 portraits on grey seamless). Built with ChatGPT (look), Claude (personality and scene prompts) and Higgsfield (video). The creator claims $10K from ads in 5 days, one deal being with Higgsfield (unverified; replies doubt it). His rule: keep the face recognisable, change the situation every clip.
 
 ## Beat by beat
 
@@ -18,22 +18,28 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 | Frame | Time | On screen | Said / sung |
 |---|---|---|---|
-| 1 | 0:00–0:01 | ago Ladies you all look lovely tonight, but look better. Add comment... | · |
-| 2 | 0:01–0:03 | ago Ladies you all look lovely tonight, but look better. Add comment... | · |
-| 3 | 0:03–0:04 | 17M $,219 a a … ago Ladies you all look lovely tonight, but look | · |
-| 4 | 0:04–0:06 | a 17M 5,219 … 80.4K a 603.3K … ago Ladies you all look lovely tonight, but look better. Add comment... 89 | · |
-| 5 | 0:06–0:07 | Sad 17M $219 80.4K 603.3K a … ago Ladies you all look lovely tonight, but look better. Add comment... 89 | · |
-| 6 | 0:07–0:09 | if 17M 5,219 80.4K 603.3K … ago Ladies you all look lovely tonight, but look better. | · |
+| 1 | 0:00–0:01 | · | · |
+| 2 | 0:01–0:03 | · | 10 minutes she told me it would take 10 minutes to break |
+| 3 | 0:03–0:04 | · | · |
+| 4 | 0:04–0:06 | · | · |
+| 5 | 0:06–0:07 | · | · |
+| 6 | 0:07–0:09 | · | · |
 
-## More real examples (7)
+<details><summary>Full transcript (timestamped)</summary>
+
+- `0:00` 10 minutes she told me it would take 10 minutes to break
+
+</details>
+
+## More real examples (8)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@k4zxbt](example/more/2108240597421084694.jpg)](https://x.com/k4zxbt/status/2108240597421084694)<br>**@k4zxbt** · 0:07 video · 4K views<br>your local pub is an AI influencer now a small-town US bar made $16,720 off one AI trickshot clip > ask ChatGPT for the most impossible pool shot it c | [![@k4zxbt](example/more/2106342154452779278.jpg)](https://x.com/k4zxbt/status/2106342154452779278)<br>**@k4zxbt** · 0:14 video · 177K views<br>this giant Tokyo girl made with ChatGPT got 23.6M views and $11,200 on one clip > generate tall girl character with ChatGPT > pick spots built for sho | [![@k4zxbt](example/more/2108659775206756837.jpg)](https://x.com/k4zxbt/status/2108659775206756837)<br>**@k4zxbt** · 0:09 video · 546 views<br>real or AI, nobody can tell anymore these twins got 2.5M likes and $14,339 remaking the creepiest meme online > generate two identical girls in long b |
-| [![@kelmruns](example/more/2108656084890349694.jpg)](https://x.com/kelmruns/status/2108656084890349694)<br>**@kelmruns** · 0:15 video · 42K views<br>the internet is so cooked this AI wednedsay made with GPT Astra 6 got 67.4M views and $27,433 on one clip > generate a pale girl with two black braids | [![@kelmruns](example/more/2108258506801299744.jpg)](https://x.com/kelmruns/status/2108258506801299744)<br>**@kelmruns** · 0:15 video · 187K views<br>influencers are dead this AI freak DJ made with GPT Astra 6 got 9.9M views and $19,433 on one clip > generate a guy in a grey suit with a mushroom bow | [![@k4zxbt](example/more/2106690716109885936.jpg)](https://x.com/k4zxbt/status/2106690716109885936)<br>**@k4zxbt** · 0:08 video · 169K views<br>dead internet theory is real AI conjoined twins made with ChatGPT got 125k likes and $7,800 on one clip > generate one body with two faces in ChatGPT |
-| [![@kelmruns](example/more/2107886356496097561.jpg)](https://x.com/kelmruns/status/2107886356496097561)<br>**@kelmruns** · 0:10 video · 162K views<br>is this a f*cking joke? this AI short king made with ChatGPT got 3.9M views and $17,339 on 1 week from tiktok > generate a short chubby guy with a bow |   |   |
+| [![@simonecanciello](example/more/2105674718346871149.jpg)](https://x.com/simonecanciello/status/2105674718346871149)<br>**@simonecanciello** · 0:09 video · 227K views<br>this is terrifying. i can prove to you that creating realistic & viral AI characters is super easy. jean phil got 100M views in 1 week. why it works: | [![@higgsfield](example/more/2106119916479037742.jpg)](https://x.com/higgsfield/status/2106119916479037742)<br>**@higgsfield** · 1:19 video · 3.4M views<br>Born in Higgsfield. All over your feed. Introducing Higgsfield AI Influencer. Create your own AI influencer and bring them into any trend. Try now wit | [![@simonecanciello](example/more/2105317517665194490.jpg)](https://x.com/simonecanciello/status/2105317517665194490)<br>**@simonecanciello** · images · 6.0M views<br>dead internet theory is real. you can actually create an AI character and get 200k followers in 1 week. please don’t buy a $299 course. > create a rea |
+| [![@kelmruns](example/more/2107508612058747114.jpg)](https://x.com/kelmruns/status/2107508612058747114)<br>**@kelmruns** · 0:09 video · 216K views<br>dead internet theory isn't a theory anymore this 2-day-old AI influencer made with ChatGPT already pulled $13,700 from one clip 26K followers and 2.2M | [![@k4zxbt](example/more/2108240597421084694.jpg)](https://x.com/k4zxbt/status/2108240597421084694)<br>**@k4zxbt** · 0:07 video · 4K views<br>your local pub is an AI influencer now a small-town US bar made $16,720 off one AI trickshot clip > ask ChatGPT for the most impossible pool shot it c | [![@k4zxbt](example/more/2106342154452779278.jpg)](https://x.com/k4zxbt/status/2106342154452779278)<br>**@k4zxbt** · 0:14 video · 177K views<br>this giant Tokyo girl made with ChatGPT got 23.6M views and $11,200 on one clip > generate tall girl character with ChatGPT > pick spots built for sho |
+| [![@k4zxbt](example/more/2108659775206756837.jpg)](https://x.com/k4zxbt/status/2108659775206756837)<br>**@k4zxbt** · 0:09 video · 546 views<br>real or AI, nobody can tell anymore these twins got 2.5M likes and $14,339 remaking the creepiest meme online > generate two identical girls in long b | [![@kelmruns](example/more/2108656084890349694.jpg)](https://x.com/kelmruns/status/2108656084890349694)<br>**@kelmruns** · 0:15 video · 42K views<br>the internet is so cooked this AI wednedsay made with GPT Astra 6 got 67.4M views and $27,433 on one clip > generate a pale girl with two black braids |   |
 
 ## How to make one like it
 
@@ -49,12 +55,12 @@ Use the example's timing as your beat sheet. Keep the beat, change the words and
 
 | Beat | Time | In the example | Your version |
 |---|---|---|---|
-| 1 | 0:00 | on screen: ago Ladies you all look lovely tonight, but look better. Add comment... | … |
-| 2 | 0:02 | on screen: ago Ladies you all look lovely tonight, but look better. Add comment... | … |
-| 3 | 0:03 | on screen: 17M $,219 a a … ago Ladies you all look lovely tonight, but look | … |
-| 4 | 0:05 | on screen: a 17M 5,219 … 80.4K a 603.3K … ago Ladies you all look lovely tonight, but look better. Add comment... 89 | … |
-| 5 | 0:06 | on screen: Sad 17M $219 80.4K 603.3K a … ago Ladies you all look lovely tonight, but look better. Add comment... 89 | … |
-| 6 | 0:08 | on screen: if 17M 5,219 80.4K 603.3K … ago Ladies you all look lovely tonight, but look better. | … |
+| 1 | 0:00 | 10 minutes she told me it would take 10 minutes to break | … |
+| 2 | 0:02 | 10 minutes she told me it would take 10 minutes to break | … |
+| 3 | 0:03 | 10 minutes she told me it would take 10 minutes to break | … |
+| 4 | 0:05 | 10 minutes she told me it would take 10 minutes to break | … |
+| 5 | 0:06 | (visual beat, see frame 5) | … |
+| 6 | 0:08 | (visual beat, see frame 6) | … |
 
 ### 2. Shot-by-shot remake
 
@@ -164,6 +170,10 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - Music over the voice: keep music at least 14 dB under speech.
 
 **Compliance:** Baseline: [_COMPLIANCE.md](../_COMPLIANCE.md). - **Do not copy:** lookalikes of franchise characters (the Wednesday example is Netflix IP) or of real people; swapping a character into someone else's viral video (their motion, likeness and audio are not ours); fake "2006 baby photos" presented as real; undisclosed AI personas selling "talk with me" subscriptions; earnings screenshots as proof. - Label every reel as AI-generated (TikTok and Meta AI labels) and say in the bio that the character is AI. - The jewelry must render exactly as sold. If the model distorts it, composite the real product photo or don't post. - Paid boosts need the branded-content toggle and the AI label.
+
+## Field notes
+
+Newer observations live in the playbook: [Wave 9 (Oct 11, 2026): Erika Mercer, Jean Phil, Derek Mercer, and the "AI influencer" meta](README.md)
 
 ## More examples
 

@@ -37,7 +37,7 @@ Accounts and posts that earn attention without paying: slideshows, memes, pages,
 | 03 | [Notification / lock-screen 2-slide slideshow](03-notification-lockscreen-slides/EXAMPLE.md) | exact | 11 | Concepts: drafted (LC) |
 | 07 | [Street / resort interview & "overheard question" ("what are you wearing?")](07-street-interview-overheard-question/EXAMPLE.md) | exact | 16 | Concepts: drafted (LC) |
 | 08 | [Drama "show" micro-series (product as a prop, entertainment first)](08-drama-show-micro-series/EXAMPLE.md) | exact | 15 | Concepts: drafted (LC) |
-| 21 | [Recurring (AI or illustrated) character / mascot page](21-recurring-ai-character-mascot/EXAMPLE.md) | exact | 10 | Concepts: drafted (LC) |
+| 21 | [Recurring (AI or illustrated) character / mascot page](21-recurring-ai-character-mascot/EXAMPLE.md) | exact | 11 | Concepts: drafted (LC) |
 | 24 | [Skit + "Beginner / Intermediate / Expert" tiers](24-skit-beginner-intermediate-expert/EXAMPLE.md) | exact | 5 | Concepts: drafted (LC) |
 | 31 | [Tier-list / ranking ad](31-tier-list-ranking-ad/EXAMPLE.md) | exact | 20 | Concepts: drafted (LC) |
 | 42 | [AI object-head micro-drama (talking-fruit-style soap opera)](42-ai-object-head-micro-drama/EXAMPLE.md) | exact | 6 | Concepts: drafted (LC) |
@@ -51,7 +51,7 @@ Accounts and posts that earn attention without paying: slideshows, memes, pages,
 | 102 | [Pinterest-pic recreation reveal (\"I recreated this Pinterest photo with me in it\")](102-pinterest-pic-recreation-reveal/EXAMPLE.md) | proxy | 6 | Concepts: drafted (LC) |
 | 103 | [DM-screenshot story slideshow (a chat people binge, the app/product on the slide that changes what happens next)](103-dm-screenshot-story-slideshow/EXAMPLE.md) | close | 5 | Concepts: drafted (LC) |
 | 110 | [Couples prompt slideshow with a mascot duo (\"5 slightly uncomfortable questions to ask your boyfriend\", \"this or that\", \"pick who's guilty, comment 1A 2B\")](110-couples-prompt-mascot-slideshow/EXAMPLE.md) | exact | 4 | Concepts: drafted (LC) |
-| 112 | [AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption)](112-ai-character-motion-swap-reel/EXAMPLE.md) | exact | 9 | Concepts: drafted (LC) |
+| 112 | [AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption)](112-ai-character-motion-swap-reel/EXAMPLE.md) | exact | 11 | Concepts: drafted (LC) |
 
 ## Reach: paid cold (36)
 

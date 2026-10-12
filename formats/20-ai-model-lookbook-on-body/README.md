@@ -35,6 +35,7 @@ related_strategies: [37-ai-realism-craft, 06-keyword-named-products-social-searc
 
 
 
+
 ## Looks like
 Diverse models wearing the exact piece in lifestyle scenes (beach, office, wedding); or a 15s photoreal UGC try-on clip generated from the product photo (prompt structure from [@Arina_hoqe](https://x.com/Arina_hoqe/status/2095071815483986241): PRODUCT · DURATION exactly 15s · STYLE photorealistic UGC · scene beats · camera · audio).
 
@@ -49,6 +50,11 @@ Pinterest outbound clicks, Meta catalog CTR, Omni.
 
 ## Compliance
 [_COMPLIANCE.md](../_COMPLIANCE.md). Product must be accurately represented; label AI imagery; don't use real celebrities' likeness.
+
+<!-- W9NOTE -->
+## Wave 9 update (Oct 11, 2026)
+- **Character sheet as the consistency anchor:** Erika Mercer's 6-panel sheet (front, side and back full-body + 3 portraits, grey seamless) is reused as the reference for every clip instead of re-prompting the face ([post](https://x.com/bubbubbdex/status/2109295033086099947)). For LC model lookbooks, build one sheet per model, and check that the jewelry renders exactly as sold.
+<!-- /W9NOTE -->
 
 <!-- EVIDENCE:START -->
 ## Wave 4 update: Fedotoff October 2026 swipe boards

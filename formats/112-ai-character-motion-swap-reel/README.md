@@ -3,7 +3,7 @@ id: F112
 name: "AI character motion-swap reel (one striking AI character swapped into a dance, stage or crowd clip; hashtag-only or one-line ego caption)"
 type: organic (AI persona account) → brand deals / subscriptions / paid spark
 platforms: [TikTok, Instagram Reels]
-evidence: "medium, earnings disputed (@kelmruns and @k4zxbt, Oct 3-9 2026: 14 posts in one shared template; @kelmruns: 5 posts on AI characters made with ChatGPT image + Seedance 2.5 motion swap: Wednesday-lookalike 67.4M views / 1M followers, mushroom-bowl-cut DJ 9.9M views / 1M likes, short king 3.9M views / 47K followers, gym bro quiff 2.2M likes in 48 h, 'glow-up' twins 823K followers + a $14.5K brand deal; X posts 3.5K-216K views, the gym-bro post 710 bookmarks; dollar figures are the poster's, unverified; replies say fresh accounts aren't monetised and clips under 1 min don't pay on TikTok)"
+evidence: "medium-high for reach, earnings disputed (Oct 11 2026: @bubbubbdex Erika Mercer, 26.6K followers and a claimed $10K in 5 days; the Jean Phil / Derek Mercer wave: @simonecanciello workflow post 6M views / 14.5K bookmarks, Higgsfield launched an official AI Influencer product on the meme; @kelmruns and @k4zxbt, Oct 3-9 2026: 14 posts in one shared template; @kelmruns: 5 posts on AI characters made with ChatGPT image + Seedance 2.5 motion swap: Wednesday-lookalike 67.4M views / 1M followers, mushroom-bowl-cut DJ 9.9M views / 1M likes, short king 3.9M views / 47K followers, gym bro quiff 2.2M likes in 48 h, 'glow-up' twins 823K followers + a $14.5K brand deal; X posts 3.5K-216K views, the gym-bro post 710 bookmarks; dollar figures are the poster's, unverified; replies say fresh accounts aren't monetised and clips under 1 min don't pay on TikTok)"
 hype_risk: high
 lc_fit: "medium (only as a disclosed, original LC AI muse wearing real LC pieces, or swapping a real consenting LC creator's own dance; never a lookalike of someone else's IP or person)"
 cost_per_asset: "$1-10 (image + 1 video generation)"
@@ -16,10 +16,11 @@ added: 2026-10-09 (wave 8: @kelmruns queue)
 # 112 · AI character motion-swap reel
 
 <!-- HERO:START -->
-[![Featured example: @kelmruns](example/poster.jpg)](EXAMPLE.md)
+[![Featured example: @bubbubbdex](example/poster.jpg)](EXAMPLE.md)
 
-**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/kelmruns/status/2107508612058747114)
+**[See the example and how to make it →](EXAMPLE.md)** · [watch on X](https://x.com/bubbubbdex/status/2109295033086099947)
 <!-- HERO:END -->
+
 
 
 
@@ -61,6 +62,40 @@ The pipeline @kelmruns lists, five times over:
   - Gym bro with a giant blonde quiff in a cowboy bar, a bowling alley and on a lawn mower, "ladies you all look lovely tonight, but i look better", 26K followers and 2.2M likes in 48 h ([post](https://x.com/kelmruns/status/2107508612058747114), 216K views, 710 bookmarks).
   - "Two-faced" twins: a fake 2006 baby photo, then a glow-up mirror selfie, "same soul, upgraded version", 1.8M likes, 823K followers, a $14,500 brand deal ([post](https://x.com/kelmruns/status/2107165250868937035)).
 - **What the replies say:** "fresh accounts aren't monetised", "botted", and "clips under a minute don't monetise on TikTok", so treat the dollar figures as marketing for the poster's own content. Several replies point out the Wednesday character is Netflix IP.
+
+<!-- W9 -->
+## Wave 9 (Oct 11, 2026): Erika Mercer, Jean Phil, Derek Mercer, and the "AI influencer" meta
+**The featured example is now [@bubbubbdex's Erika Mercer](https://x.com/bubbubbdex/status/2109295033086099947)** (Oct 11, 75K views and 766 bookmarks on X): "I MADE $10K WITH A PERSON WHO DOESN'T EXIST… 13 videos and $10K from ads on those videos" in 5 days (unverified; the top replies say "I do not believe you made 10k", and one asks how much was the Higgsfield deal versus payouts). His stack:
+- **ChatGPT** for the look and consistent character images. The post includes her 6-panel sheet: front, side and back full-body on grey seamless, plus 3 portraits.
+- **Claude** for her personality, scenes and video prompts.
+- **Higgsfield** to turn the images into video.
+
+His rule: **"Keep the face recognizable and change the situation in every clip. People don't need to learn who Erika is again; they just want to see what she does next."**
+
+Her TikTok (screenshot in the post) has 26.6K followers and 143K likes, with the bio "The other Mercer. iykyk". The grid: lip-sync selfie, room dance, mountain-meadow kick, shadowboxing (238.9K), sparring with a monk in a temple courtyard (371.6K) and a rooftop flip (1M). "One of the ad deals is with Higgsfield, the tool I use to make her videos."
+
+**Where it came from (the article he quotes):** [@k1rallik, "How to Make Your First $1,000,000 with AI"](https://x.com/k1rallik/status/2107119249621676069) (an X Article: 2.27M views, 2,944 bookmarks):
+- **Jean Phil:** blond hair, curled moustache, brown suit; drinks coffee, eats oysters and suddenly starts shadowboxing. Reported view counts: park clip 5.6M in 3 days, café 2.5M in a day, kitchen shadowboxing 13.8M.
+- **Rival characters:** Derek Mercer (long dark hair, exaggerated muscles, chains; "80K+ followers in 7 days" per [@rossark0](https://x.com/rossark0/status/2105362314761552051)) and Archibald Brown.
+- **The formula** (@rossark0): "a weird character people recognize in 1 frame · real viral videos with the person swapped · no text on video, just bio + caption · the same look in every video… honestly this could be a new way to promote apps, alongside real UGC."
+- **The workflow** went viral itself: [@simonecanciello](https://x.com/simonecanciello/status/2105317517665194490), 6M views and 14.5K bookmarks: "create a realistic character sheet > swap your character into viral videos… please don't buy a $299 course."
+- **The tools joined in:** [Higgsfield's official "AI Influencer" launch](https://x.com/higgsfield/status/2106119916479037742) (3.4M views) used the Jean Phil meme and credited @JeanPhilMadame. The article's line: "every successful example helps sell the tools behind the format."
+
+**The article's practical recipe (worth keeping):**
+1. Ask ChatGPT: *"Suggest 10 original fictional characters for short vertical videos. Give each one a distinctive physical detail, a consistent outfit, a recurring gesture and five everyday scenes with an unexpected ending. The humour should work without dialogue."*
+2. Pick one look and build a character sheet (portrait, full body, side, three-quarter). Reuse it as the reference instead of re-prompting the face.
+3. **Record the motion yourself** (a 5-8 s clip, one person, still camera, visible hands) → Higgsfield Genjutsu Motion Transfer or Kling Motion Control. Use Seedance 2.5 or Runway Gen-4 for image-only scenes. Prompt: *"Use the image as the appearance reference and the video as the motion reference. Transfer the performance to this fictional character. Preserve the face, proportions and outfit, follow the original timing, and keep the hands natural. One character, no text."*
+4. **Publish 10 scenes over 10-14 days** under the same name and avatar on TikTok, IG and X, **identified as fictional and AI-generated**. Change the location, opening gesture or ending; keep the character. Judge completion, shares and profile visits: "do viewers want another episode?"
+5. **Budget:** 10 clips × 4 attempts × 8 s = 320 s of video ≈ $102 at $0.318/s, plus about $3 of images, $20 of other AI and up to $30 of editing and music ≈ **$160-195; plan $200-300**. Allow 30-50 hours for the first 10-video test.
+
+**What it means for LC:** Goldie (our F112 muse) becomes a series: one signature gesture (she taps her stack twice before every "move"), one face, a new situation each clip (the ocean, a spin class, a shower-singing bit, a dance-off with a real LC creator), and no text on the video. Budget the 10-clip test at $300 and judge it on "did they want episode 2" (follows per 10K views, profile → link clicks), not views.
+
+**Do not copy:**
+- **Tokens and memecoins on characters** (JEANPHIL, "Send Derek to $100M"). The article's own numbers are wallet receipts, not profit. LC will never attach a token to a character.
+- **Riding someone else's character:** "The other Mercer. iykyk" borrows Derek Mercer's name, and her shirt is a pink take on an energy-drink claw logo, which is a trademark risk.
+- Swapping into downloaded viral TikToks (simonecanciello's prompt: "download a viral tiktok and swap the character"). Record our own motion instead.
+- Ad deals with the tool vendor without a clear #ad on each sponsored clip.
+<!-- /W9 -->
 
 <!-- K4 -->
 ## Same template, second account: @k4zxbt (Oct 3-9, 2026)

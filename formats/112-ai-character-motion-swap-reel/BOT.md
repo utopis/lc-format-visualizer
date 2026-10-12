@@ -16,14 +16,15 @@ Machine-readable version of this brief: [`bot.json`](bot.json) (spec, shots, pro
 
 ### Real references (study before writing)
 
-- **Main example**: [@kelmruns](https://x.com/kelmruns/status/2107508612058747114) · A 9-second vertical reel of an AI-generated gym bro with a giant blonde two-foot quiff, swapped with Seedance 2.5 into crowded real-world clips (a cowboy bar, a bowling alley, riding a lawn mower) with a hype soundtrack. The caption is one ego line: "ladies you all look lovely tonight, but i look better". The poster claims the 2-day-old account reached 26K followers and 2.2M likes in 48 hours and 
+- **Main example**: [@bubbubbdex](https://x.com/bubbubbdex/status/2109295033086099947) · A 9-second selfie lip-sync of "Erika Mercer", an AI character: shag black hair with curtain bangs, a ripped grey crop tee with a pink claw logo, filmed like a phone-camera clip in a beige room (audio: "she told me it would take ten minutes to break my heart"). The post adds her TikTok profile (26.6K followers, 143K likes in 5 days, bio "The other Mercer. iykyk"; clips include shadowboxing at 238.9
+- Example: [@simonecanciello](https://x.com/simonecanciello/status/2105674718346871149) · this is terrifying. i can prove to you that creating realistic & viral AI characters is super easy. jean phil got 100M views in 1 week. why it works: 
+- Example: [@higgsfield](https://x.com/higgsfield/status/2106119916479037742) · Born in Higgsfield. All over your feed. Introducing Higgsfield AI Influencer. Create your own AI influencer and bring them into any trend. Try now wit
+- Example: [@simonecanciello](https://x.com/simonecanciello/status/2105317517665194490) · dead internet theory is real. you can actually create an AI character and get 200k followers in 1 week. please don’t buy a $299 course. > create a rea
+- Example: [@kelmruns](https://x.com/kelmruns/status/2107508612058747114) · dead internet theory isn't a theory anymore this 2-day-old AI influencer made with ChatGPT already pulled $13,700 from one clip 26K followers and 2.2M
 - Example: [@k4zxbt](https://x.com/k4zxbt/status/2108240597421084694) · your local pub is an AI influencer now a small-town US bar made $16,720 off one AI trickshot clip > ask ChatGPT for the most impossible pool shot it c
 - Example: [@k4zxbt](https://x.com/k4zxbt/status/2106342154452779278) · this giant Tokyo girl made with ChatGPT got 23.6M views and $11,200 on one clip > generate tall girl character with ChatGPT > pick spots built for sho
 - Example: [@k4zxbt](https://x.com/k4zxbt/status/2108659775206756837) · real or AI, nobody can tell anymore these twins got 2.5M likes and $14,339 remaking the creepiest meme online > generate two identical girls in long b
 - Example: [@kelmruns](https://x.com/kelmruns/status/2108656084890349694) · the internet is so cooked this AI wednedsay made with GPT Astra 6 got 67.4M views and $27,433 on one clip > generate a pale girl with two black braids
-- Example: [@kelmruns](https://x.com/kelmruns/status/2108258506801299744) · influencers are dead this AI freak DJ made with GPT Astra 6 got 9.9M views and $19,433 on one clip > generate a guy in a grey suit with a mushroom bow
-- Example: [@k4zxbt](https://x.com/k4zxbt/status/2106690716109885936) · dead internet theory is real AI conjoined twins made with ChatGPT got 125k likes and $7,800 on one clip > generate one body with two faces in ChatGPT 
-- Example: [@kelmruns](https://x.com/kelmruns/status/2107886356496097561) · is this a f*cking joke? this AI short king made with ChatGPT got 3.9M views and $17,339 on 1 week from tiktok > generate a short chubby guy with a bow
 
 ### Shot list (fill the [brackets])
 

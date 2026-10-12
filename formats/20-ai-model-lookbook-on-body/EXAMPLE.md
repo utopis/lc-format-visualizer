@@ -97,11 +97,11 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 - A weak first slide: nobody swipes past a boring cover.
 - No reason to save: give a list, a checklist or a reference people come back to.
 
-**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). Product must be accurately represented; label AI imagery; don't use real celebrities' likeness.
+**Compliance:** [_COMPLIANCE.md](../_COMPLIANCE.md). Product must be accurately represented; label AI imagery; don't use real celebrities' likeness. <!-- W9NOTE -->
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
+Newer observations live in the playbook: [Wave 9 update (Oct 11, 2026)](README.md) · [Wave 4 update: Fedotoff October 2026 swipe boards](README.md)
 
 ## More examples
 

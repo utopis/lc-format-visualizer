@@ -31,14 +31,14 @@ The storyboard above samples the video every 0:01. Lines are the transcript for 
 
 </details>
 
-## More real examples (5)
+## More real examples (6)
 
 Other posts that show this format, or a close cousin of it. Click a thumbnail to open it on X.
 
 | | | |
 |---|---|---|
-| [![@ErnestoSOFTWARE](example/more/2103534688048414959.jpg)](https://x.com/ErnestoSOFTWARE/status/2103534688048414959)<br>**@ErnestoSOFTWARE** · 0:44 video · 95K views<br>11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts. | [![@MuteeAutomation](example/more/2107022363313279044.jpg)](https://x.com/MuteeAutomation/status/2107022363313279044)<br>**@MuteeAutomation** · image · 3K views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The | [![@YouTubeAut3538](example/more/2107104155831546119.jpg)](https://x.com/YouTubeAut3538/status/2107104155831546119)<br>**@YouTubeAut3538** · image · 361 views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The |
-| [![@AdebayoYTA](example/more/2107147460443275590.jpg)](https://x.com/AdebayoYTA/status/2107147460443275590)<br>**@AdebayoYTA** · image · 110 views<br>Familiar news format. Satire on top. One recurring character. Same shape every upload. 60–90 seconds. Millions of views across the catalog. The videos | [![@Automation94453](example/more/2107048376558567547.jpg)](https://x.com/Automation94453/status/2107048376558567547)<br>**@Automation94453** · image · 55 views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The |   |
+| [![@bubbubbdex](example/more/2109295033086099947.jpg)](https://x.com/bubbubbdex/status/2109295033086099947)<br>**@bubbubbdex** · 0:09 video · 76K views<br>I MADE $10K WITH A PERSON WHO DOESN'T EXIST Her name is Erika Mercer. I started posting her videos 5 days ago. Since then: 13 videos and $10K from ads | [![@ErnestoSOFTWARE](example/more/2103534688048414959.jpg)](https://x.com/ErnestoSOFTWARE/status/2103534688048414959)<br>**@ErnestoSOFTWARE** · 0:44 video · 95K views<br>11.5M views one faceless account; pitches Arcads automating carousels; 3-4 accounts. | [![@MuteeAutomation](example/more/2107022363313279044.jpg)](https://x.com/MuteeAutomation/status/2107022363313279044)<br>**@MuteeAutomation** · image · 3K views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The |
+| [![@YouTubeAut3538](example/more/2107104155831546119.jpg)](https://x.com/YouTubeAut3538/status/2107104155831546119)<br>**@YouTubeAut3538** · image · 361 views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The | [![@AdebayoYTA](example/more/2107147460443275590.jpg)](https://x.com/AdebayoYTA/status/2107147460443275590)<br>**@AdebayoYTA** · image · 110 views<br>Familiar news format. Satire on top. One recurring character. Same shape every upload. 60–90 seconds. Millions of views across the catalog. The videos | [![@Automation94453](example/more/2107048376558567547.jpg)](https://x.com/Automation94453/status/2107048376558567547)<br>**@Automation94453** · image · 55 views<br>This channel found a crazy content loophole: Take a familiar news format → add satire → create a recurring character → keep the format consistent. The |
 
 ## How to make one like it
 
@@ -127,7 +127,7 @@ Brand rules, claims you can and cannot make, and more scripts: [brands/louise-ca
 
 ## Field notes
 
-Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 5 update: mascot duo for couples content (Oct 2026)](README.md)
+Newer observations live in the playbook: [Wave 8 update: Voynov page, Adam Taylor teardowns, queued posts (Oct 9, 2026)](README.md) · [Wave 9 update (Oct 11, 2026)](README.md) · [Wave 5 update: mascot duo for couples content (Oct 2026)](README.md)
 
 ## More examples
 

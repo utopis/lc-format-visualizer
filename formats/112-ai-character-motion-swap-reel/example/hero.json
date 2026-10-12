@@ -4,51 +4,87 @@
  "mock": false,
  "poster": "example/poster.jpg",
  "storyboard": "example/storyboard.jpg",
- "url": "https://x.com/kelmruns/status/2107508612058747114",
- "author": "kelmruns",
+ "url": "https://x.com/bubbubbdex/status/2109295033086099947",
+ "author": "bubbubbdex",
  "type": "video",
  "duration": 9,
- "mp4": "https://video.twimg.com/amplify_video/2107507399263199233/vid/avc1/320x614/kFllez2en_COcNRU.mp4?tag=29",
- "w": 1320,
- "h": 2536,
+ "mp4": "https://video.twimg.com/amplify_video/2109294360038621184/vid/avc1/320x654/Gv04xQlqV5jt_97I.mp4?tag=29",
+ "w": 1006,
+ "h": 2060,
  "via_quote": false,
- "likes": 793,
- "views": 215847,
- "seen": "A 9-second vertical reel of an AI-generated gym bro with a giant blonde two-foot quiff, swapped with Seedance 2.5 into crowded real-world clips (a cowboy bar, a bowling alley, riding a lawn mower) with a hype soundtrack. The caption is one ego line: \"ladies you all look lovely tonight, but i look better\". The poster claims the 2-day-old account reached 26K followers and 2.2M likes in 48 hours and \"$13,700 from one clip\" (unverified; replies dispute monetisation). The character was generated in ChatGPT image; every shot keeps the same exaggerated silhouette so it reads on mute in half a second.",
+ "likes": 592,
+ "views": 76154,
+ "seen": "A 9-second selfie lip-sync of \"Erika Mercer\", an AI character: shag black hair with curtain bangs, a ripped grey crop tee with a pink claw logo, filmed like a phone-camera clip in a beige room (audio: \"she told me it would take ten minutes to break my heart\"). The post adds her TikTok profile (26.6K followers, 143K likes in 5 days, bio \"The other Mercer. iykyk\"; clips include shadowboxing at 238.9K, sparring with a monk in a temple at 371.6K and a rooftop flip at 1M) and her 6-panel character sheet (front, side and back full-body + 3 portraits on grey seamless). Built with ChatGPT (look), Claude (personality and scene prompts) and Higgsfield (video). The creator claims $10K from ads in 5 days, one deal being with Higgsfield (unverified; replies doubt it). His rule: keep the face recognisable, change the situation every clip.",
  "match": "exact",
  "beats": [
   {
    "t": "0:00",
-   "said": "",
-   "ocr": "ago Ladies you all look lovely tonight, but look better. Add comment..."
+   "said": "10 minutes she told me it would take 10 minutes to break",
+   "ocr": ""
   },
   {
    "t": "0:02",
-   "said": "",
-   "ocr": "ago Ladies you all look lovely tonight, but look better. Add comment..."
+   "said": "10 minutes she told me it would take 10 minutes to break",
+   "ocr": ""
   },
   {
    "t": "0:03",
-   "said": "",
-   "ocr": "17M $,219 a a \u2026 ago Ladies you all look lovely tonight, but look"
+   "said": "10 minutes she told me it would take 10 minutes to break",
+   "ocr": ""
   },
   {
    "t": "0:05",
-   "said": "",
-   "ocr": "a 17M 5,219 \u2026 80.4K a 603.3K \u2026 ago Ladies you all look lovely tonight, but look better. Add comment... 89"
+   "said": "10 minutes she told me it would take 10 minutes to break",
+   "ocr": ""
   },
   {
    "t": "0:06",
    "said": "",
-   "ocr": "Sad 17M $219 80.4K 603.3K a \u2026 ago Ladies you all look lovely tonight, but look better. Add comment... 89"
+   "ocr": ""
   },
   {
    "t": "0:08",
    "said": "",
-   "ocr": "if 17M 5,219 80.4K 603.3K \u2026 ago Ladies you all look lovely tonight, but look better."
+   "ocr": ""
   }
  ],
  "more": [
+  {
+   "id": "2105674718346871149",
+   "author": "simonecanciello",
+   "url": "https://x.com/simonecanciello/status/2105674718346871149",
+   "thumb": "example/more/2105674718346871149.jpg",
+   "kind": "0:09 video",
+   "cap": "this is terrifying. i can prove to you that creating realistic & viral AI characters is super easy. jean phil got 100M views in 1 week. why it works: ",
+   "views": 227150
+  },
+  {
+   "id": "2106119916479037742",
+   "author": "higgsfield",
+   "url": "https://x.com/higgsfield/status/2106119916479037742",
+   "thumb": "example/more/2106119916479037742.jpg",
+   "kind": "1:19 video",
+   "cap": "Born in Higgsfield. All over your feed. Introducing Higgsfield AI Influencer. Create your own AI influencer and bring them into any trend. Try now wit",
+   "views": 3385818
+  },
+  {
+   "id": "2105317517665194490",
+   "author": "simonecanciello",
+   "url": "https://x.com/simonecanciello/status/2105317517665194490",
+   "thumb": "example/more/2105317517665194490.jpg",
+   "kind": "images",
+   "cap": "dead internet theory is real. you can actually create an AI character and get 200k followers in 1 week. please don\u2019t buy a $299 course. > create a rea",
+   "views": 6015844
+  },
+  {
+   "id": "2107508612058747114",
+   "author": "kelmruns",
+   "url": "https://x.com/kelmruns/status/2107508612058747114",
+   "thumb": "example/more/2107508612058747114.jpg",
+   "kind": "0:09 video",
+   "cap": "dead internet theory isn't a theory anymore this 2-day-old AI influencer made with ChatGPT already pulled $13,700 from one clip 26K followers and 2.2M",
+   "views": 215847
+  },
   {
    "id": "2108240597421084694",
    "author": "k4zxbt",
@@ -84,33 +120,6 @@
    "kind": "0:15 video",
    "cap": "the internet is so cooked this AI wednedsay made with GPT Astra 6 got 67.4M views and $27,433 on one clip > generate a pale girl with two black braids",
    "views": 42024
-  },
-  {
-   "id": "2108258506801299744",
-   "author": "kelmruns",
-   "url": "https://x.com/kelmruns/status/2108258506801299744",
-   "thumb": "example/more/2108258506801299744.jpg",
-   "kind": "0:15 video",
-   "cap": "influencers are dead this AI freak DJ made with GPT Astra 6 got 9.9M views and $19,433 on one clip > generate a guy in a grey suit with a mushroom bow",
-   "views": 187132
-  },
-  {
-   "id": "2106690716109885936",
-   "author": "k4zxbt",
-   "url": "https://x.com/k4zxbt/status/2106690716109885936",
-   "thumb": "example/more/2106690716109885936.jpg",
-   "kind": "0:08 video",
-   "cap": "dead internet theory is real AI conjoined twins made with ChatGPT got 125k likes and $7,800 on one clip > generate one body with two faces in ChatGPT ",
-   "views": 168926
-  },
-  {
-   "id": "2107886356496097561",
-   "author": "kelmruns",
-   "url": "https://x.com/kelmruns/status/2107886356496097561",
-   "thumb": "example/more/2107886356496097561.jpg",
-   "kind": "0:10 video",
-   "cap": "is this a f*cking joke? this AI short king made with ChatGPT got 3.9M views and $17,339 on 1 week from tiktok > generate a short chubby guy with a bow",
-   "views": 162075
   }
  ]
 }

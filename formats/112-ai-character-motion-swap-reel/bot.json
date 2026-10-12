@@ -41,10 +41,38 @@
  "references": [
   {
    "kind": "hero",
+   "url": "https://x.com/bubbubbdex/status/2109295033086099947",
+   "author": "bubbubbdex",
+   "note": "A 9-second selfie lip-sync of \"Erika Mercer\", an AI character: shag black hair with curtain bangs, a ripped grey crop tee with a pink claw logo, filmed like a phone-camera clip in a beige room (audio: \"she told me it would take ten minutes to break my heart\"). The post adds her TikTok profile (26.6K followers, 143K likes in 5 days, bio \"The other Mercer. iykyk\"; clips include shadowboxing at 238.9",
+   "local": "example/poster.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/simonecanciello/status/2105674718346871149",
+   "author": "simonecanciello",
+   "note": "this is terrifying. i can prove to you that creating realistic & viral AI characters is super easy. jean phil got 100M views in 1 week. why it works: ",
+   "local": "example/more/2105674718346871149.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/higgsfield/status/2106119916479037742",
+   "author": "higgsfield",
+   "note": "Born in Higgsfield. All over your feed. Introducing Higgsfield AI Influencer. Create your own AI influencer and bring them into any trend. Try now wit",
+   "local": "example/more/2106119916479037742.jpg"
+  },
+  {
+   "kind": "gallery",
+   "url": "https://x.com/simonecanciello/status/2105317517665194490",
+   "author": "simonecanciello",
+   "note": "dead internet theory is real. you can actually create an AI character and get 200k followers in 1 week. please don’t buy a $299 course. > create a rea",
+   "local": "example/more/2105317517665194490.jpg"
+  },
+  {
+   "kind": "gallery",
    "url": "https://x.com/kelmruns/status/2107508612058747114",
    "author": "kelmruns",
-   "note": "A 9-second vertical reel of an AI-generated gym bro with a giant blonde two-foot quiff, swapped with Seedance 2.5 into crowded real-world clips (a cowboy bar, a bowling alley, riding a lawn mower) with a hype soundtrack. The caption is one ego line: \"ladies you all look lovely tonight, but i look better\". The poster claims the 2-day-old account reached 26K followers and 2.2M likes in 48 hours and ",
-   "local": "example/poster.jpg"
+   "note": "dead internet theory isn't a theory anymore this 2-day-old AI influencer made with ChatGPT already pulled $13,700 from one clip 26K followers and 2.2M",
+   "local": "example/more/2107508612058747114.jpg"
   },
   {
    "kind": "gallery",
@@ -73,27 +101,6 @@
    "author": "kelmruns",
    "note": "the internet is so cooked this AI wednedsay made with GPT Astra 6 got 67.4M views and $27,433 on one clip > generate a pale girl with two black braids",
    "local": "example/more/2108656084890349694.jpg"
-  },
-  {
-   "kind": "gallery",
-   "url": "https://x.com/kelmruns/status/2108258506801299744",
-   "author": "kelmruns",
-   "note": "influencers are dead this AI freak DJ made with GPT Astra 6 got 9.9M views and $19,433 on one clip > generate a guy in a grey suit with a mushroom bow",
-   "local": "example/more/2108258506801299744.jpg"
-  },
-  {
-   "kind": "gallery",
-   "url": "https://x.com/k4zxbt/status/2106690716109885936",
-   "author": "k4zxbt",
-   "note": "dead internet theory is real AI conjoined twins made with ChatGPT got 125k likes and $7,800 on one clip > generate one body with two faces in ChatGPT ",
-   "local": "example/more/2106690716109885936.jpg"
-  },
-  {
-   "kind": "gallery",
-   "url": "https://x.com/kelmruns/status/2107886356496097561",
-   "author": "kelmruns",
-   "note": "is this a f*cking joke? this AI short king made with ChatGPT got 3.9M views and $17,339 on 1 week from tiktok > generate a short chubby guy with a bow",
-   "local": "example/more/2107886356496097561.jpg"
   }
  ],
  "paid_ads": [],

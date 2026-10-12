@@ -38,6 +38,7 @@ added: 2026-10-08 (wave 2)
 
 
 
+
 > **LC priority P2** · evidence: Medium (board + trend doc) · hype risk: Low · cost $0 · 20 min
 
 ## What it is
